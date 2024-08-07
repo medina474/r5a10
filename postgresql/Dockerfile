@@ -39,8 +39,8 @@ RUN apt-get install ./timescaledb_2.13.0-1_amd64.deb
 ADD http://maquette.neotech.fr/debian/pgx_ulid-v0.1.5-pg16-amd64-linux-gnu.deb ./
 RUN apt-get install ./pgx_ulid-v0.1.5-pg16-amd64-linux-gnu.deb
 
-ADD http://maquette.neotech.fr/debian/pgvector_0.6.2-1_amd64.deb ./
-RUN apt-get install ./pgvector_0.6.2-1_amd64.deb
+ADD http://maquette.neotech.fr/debian/pgvector_0.7.4-1_amd64.deb ./
+RUN apt-get install ./pgvector_0.7.4-1_amd64.deb
 
 ADD http://maquette.neotech.fr/debian/madlib_2.1.0-1_amd64.deb ./
 RUN apt-get install ./madlib_2.1.0-1_amd64.deb

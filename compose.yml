@@ -95,6 +95,7 @@ services:
       - ./data/directus/extensions:/directus/extensions
     ports:
       - 8081:${DIRECTUS_PORT:-8081}
+      - 8055:8055
     depends_on:
       mariadb:
         condition: service_healthy
@@ -196,7 +197,7 @@ services:
     restart: no
     ports:
       - 8025:8025
-      - 1025:1025
+      - 1025:1025 # SMTP
     volumes:
       - mailpit:/data
     environment:
@@ -292,6 +293,7 @@ services:
     image: neo4j:${NEO4J_VERSION:-5.18.1-community}
     restart: no
     ports:
+      - 7473:7473
       - 7474:7474
       - 7687:7687
     volumes:
@@ -407,7 +409,9 @@ services:
       postgresql:
         condition: service_healthy
     ports:
-      - 27018:27017
+      - 47017:27017
+      - 47018:27018
+      - 8088:8088
     volumes:
       - ferretdb:/state
     environment:

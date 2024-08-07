@@ -45,6 +45,9 @@ RUN apt-get install ./pgvector_0.7.4-1_amd64.deb
 ADD http://maquette.neotech.fr/debian/madlib_2.1.0-1_amd64.deb ./
 RUN apt-get install ./madlib_2.1.0-1_amd64.deb
 
+ADD https://github.com/supabase/pg_net/releases/download/v0.9.2/pg_net-v0.9.2-pg16-amd64-linux-gnu.deb ./
+RUN apt-get install ./pg_net-v0.9.2-pg16-amd64-linux-gnu.deb
+
 # Exporter
 
 ADD https://github.com/prometheus-community/postgres_exporter/releases/download/v0.15.0/postgres_exporter-0.15.0.linux-amd64.tar.gz ./

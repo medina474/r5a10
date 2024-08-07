@@ -11,3 +11,62 @@ Analyse des données (rétrospective, tendances, etc.), par exemple pour obtenir
 Récupération à un moment précis : récupérez l'état d'une table à un moment précis.
 
 Les tables versionnées par le système ont été introduites pour la première fois dans la norme SQL : 2011.
+
+Storing the History Separately
+
+When the history is stored together with the current data, it increases the size of the table, so current data queries — table scans and index searches — will take more time, because they will need to skip over historical data. If most queries on that table use only current data, it might make sense to store the history separately, to reduce the overhead from versioning.
+
+This is done by partitioning the table by SYSTEM_TIME. Because of the partition pruning optimization, all current data queries will only access one partition, the one that stores current data.
+
+This example shows how to create such a partitioned table:
+
+CREATE TABLE t (x INT) WITH SYSTEM VERSIONING
+  PARTITION BY SYSTEM_TIME (
+    PARTITION p_hist HISTORY,
+    PARTITION p_cur CURRENT
+  );
+
+
+CREATE OR REPLACE TABLE rooms (
+ room_number INT,
+ guest_name VARCHAR(255),
+ checkin DATE,
+ checkout DATE,
+ PERIOD FOR p(checkin,checkout),
+ UNIQUE (room_number, p WITHOUT OVERLAPS)
+ );
+
+INSERT INTO rooms VALUES 
+ (1, 'Regina', '2020-10-01', '2020-10-03'),
+ (2, 'Cochise', '2020-10-02', '2020-10-05'),
+ (1, 'Nowell', '2020-10-03', '2020-10-07'),
+ (2, 'Eusebius', '2020-10-04', '2020-10-06');
+ERROR 1062 (23000): Duplicate entry '2-2020-10-06-2020-10-04' for key 'room_number'
+
+Bitemporal tables are tables that use versioning both at the system and application-time period levels.
+Contents
+
+    Using Bitemporal Tables
+    See Also 
+
+Using Bitemporal Tables
+
+To create a bitemporal table, use:
+
+CREATE TABLE test.t3 (
+   date_1 DATE,
+   date_2 DATE,
+   row_start TIMESTAMP(6) AS ROW START INVISIBLE,
+   row_end TIMESTAMP(6) AS ROW END INVISIBLE,
+   PERIOD FOR application_time(date_1, date_2),
+   PERIOD FOR system_time(row_start, row_end))
+WITH SYSTEM VERSIONING;
+
+Note that, while system_time here is also a time period, it cannot be used in DELETE FOR PORTION or UPDATE FOR PORTION statements.
+
+DELETE FROM test.t3 
+FOR PORTION OF system_time 
+    FROM '2000-01-01' TO '2018-01-01';
+ERROR 42000: You have an error in your SQL syntax; check the manual that corresponds 
+  to your MariaDB server version for the right syntax to use near
+  'of system_time from '2000-01-01' to '2018-01-01'' at line 1

@@ -1,8 +1,11 @@
-System-Versioned Tables
 
-MariaDB prend en charge les tables de données temporelles sous la forme de tables de contrôle de version du système (vous permettant d'interroger et d'opérer sur des données historiques, décrites ci-dessous), de périodes d'application (vous permettant d'interroger et d'opérer sur une plage temporelle de données) et de tables bitemporelles (qui combinent à la fois le contrôle de version du système et les périodes d'application).
+---
+title: System-Versioned Tables
+---
 
-Tables versionnées par le système
+MariaDB prend en charge les tables de données temporelles sous la forme de tables de **contrôle de version du système** (vous permettant d'interroger et d'opérer sur des données historiques, décrites ci-dessous), de **périodes d'application** (vous permettant d'interroger et d'opérer sur une plage temporelle de données) et de **tables bitemporelles** (qui combinent à la fois le contrôle de version du système et les périodes d'application).
+
+## System-Versioned Tables
 
 Les tables versionnées par le système stockent l'historique de toutes les modifications, pas seulement les données actuellement applicables. Cela permet d'analyser les données à tout moment, d'auditer les modifications et de comparer les données à différents moments. Les cas d'utilisation typiques sont :
 
@@ -10,7 +13,7 @@ Analyse médico-légale et exigences légales de stockage des données pendant N
 Analyse des données (rétrospective, tendances, etc.), par exemple pour obtenir les informations sur votre personnel il y a un an.
 Récupération à un moment précis : récupérez l'état d'une table à un moment précis.
 
-Les tables versionnées par le système ont été introduites pour la première fois dans la norme SQL : 2011.
+Les tables versionnées par le système ont été introduites pour la première fois dans la norme SQL 2011.
 
 Storing the History Separately
 
@@ -27,20 +30,6 @@ CREATE TABLE t (x INT) WITH SYSTEM VERSIONING
   );
 
 
-CREATE OR REPLACE TABLE rooms (
- room_number INT,
- guest_name VARCHAR(255),
- checkin DATE,
- checkout DATE,
- PERIOD FOR p(checkin,checkout),
- UNIQUE (room_number, p WITHOUT OVERLAPS)
- );
-
-INSERT INTO rooms VALUES 
- (1, 'Regina', '2020-10-01', '2020-10-03'),
- (2, 'Cochise', '2020-10-02', '2020-10-05'),
- (1, 'Nowell', '2020-10-03', '2020-10-07'),
- (2, 'Eusebius', '2020-10-04', '2020-10-06');
 ERROR 1062 (23000): Duplicate entry '2-2020-10-06-2020-10-04' for key 'room_number'
 
 Bitemporal tables are tables that use versioning both at the system and application-time period levels.
@@ -49,18 +38,11 @@ Contents
     Using Bitemporal Tables
     See Also 
 
-Using Bitemporal Tables
+### Using Bitemporal Tables
 
 To create a bitemporal table, use:
 
-CREATE TABLE test.t3 (
-   date_1 DATE,
-   date_2 DATE,
-   row_start TIMESTAMP(6) AS ROW START INVISIBLE,
-   row_end TIMESTAMP(6) AS ROW END INVISIBLE,
-   PERIOD FOR application_time(date_1, date_2),
-   PERIOD FOR system_time(row_start, row_end))
-WITH SYSTEM VERSIONING;
+
 
 Note that, while system_time here is also a time period, it cannot be used in DELETE FOR PORTION or UPDATE FOR PORTION statements.
 

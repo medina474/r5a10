@@ -61,7 +61,8 @@ RUN set eux; \
   rm -rf /tmp/*.deb;
 
 ADD http://maquette.neotech.fr/debian/age.1.5.0.tar.gz ./
-RUN tar xfz age.1.5.0.tar.gz; \
+RUN set -eux; \
+  tar xfz age.1.5.0.tar.gz; \
   mv age.1.5.0/age.so /usr/lib/postgresql/16/lib/; \
-  mv age.1.5.0/age.control /usr/share/postgresql/13/extension/; \
-  mv age.1.5.0/age--1.5.0.sql /usr/share/postgresql/13/extension/
+  mv age.1.5.0/age.control /usr/share/postgresql/16/extension/; \
+  mv age.1.5.0/age--1.5.0.sql /usr/share/postgresql/16/extension/

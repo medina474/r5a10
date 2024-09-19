@@ -185,7 +185,7 @@ services:
 
   redis:
     container_name: r5a10-redis
-    image: redis:${REDIS_VERSION:-7.2.5}
+    image: redis:${REDIS_VERSION:-7.4.0}
     restart: no
     command:
       - 'redis-server'

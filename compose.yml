@@ -1,0 +1,217 @@
+configs:
+  mariadb_initdb:
+    file: ./mariadb/docker-entrypoint-initdb.d
+  grafana_provisioning:
+    file: ./grafana/provisioning
+  grafana_dashboards:
+    file: ./grafana/dashboards
+
+volumes:
+  grafana: {}
+  mailpit: {}
+  mariadb: {}
+  n8n: {}
+  redis: {}
+
+services:
+
+# MariaDB Server
+# One of the most popular open source relational databases
+# https://mariadb.org/
+# DockerFile from 11.6-ubi
+# https://github.com/MariaDB/mariadb-docker
+
+  mariadb:
+    container_name: r5a10-mariadb
+    build:
+      context: ./mariadb
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+    restart: no
+    configs:
+      - source: mariadb_initdb
+        target: /docker-entrypoint-initdb.d
+    volumes:
+      - mariadb:/var/lib/mysql
+    ports:
+      - 3306:3306
+    environment:
+      MARIADB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+
+# Metabase
+# Business Intelligence, Dashboards, and Data Visualization
+# https://www.metabase.com/
+
+  metabase:
+    container_name: r5a10-metabase
+    image: metabase/metabase:latest
+    healthcheck:
+      test: curl --fail -I http://localhost:3000/api/health || exit 1
+      interval: 15s
+      timeout: 5s
+      retries: 5
+    depends_on:
+      mariadb:
+        condition: service_healthy
+    volumes:
+      - /dev/urandom:/dev/random:ro
+    ports:
+      - 3000:3000
+    environment:
+      MB_DB_TYPE: mysql
+      MB_DB_HOST: mariadb
+      MB_DB_PORT: 3306
+      MB_DB_USER: metabase
+      MB_DB_PASS: motdepasse
+      MB_DB_DBNAME: metabase
+      MB_SITE_LOCALE: fr
+      MB_ADMIN_EMAIL: ${ADMIN_EMAIL}
+      MB_ANON_TRACKING_ENABLED: false
+      MB_CHECK_FOR_UPDATES: false
+      MB_NO_SURVEYS: yes
+      MB_START_OF_WEEK: monday
+      MB_CUSTOM_FORMATTING: '{"type/Temporal":{"time_style":"HH:mm","date_style":"D MMMM, YYYY","date_abbreviate":true},"type/Currency":{"currency":"EUR"},"type/Number":{"number_separators":", "}}'
+      MB_EMAIL_SMTP_HOST: mailpit
+      MB_EMAIL_SMTP_PORT: 1025
+      MB_EMAIL_FROM_ADDRESS: metabase@univ-lorraine.fr
+
+  n8n:
+    container_name: r5a10-n8n
+    image: docker.n8n.io/n8nio/n8n
+    volumes:
+      - n8n:/home/node/.n8n
+    ports:
+      - 5678:5678
+    environment:
+      GENERIC_TIMEZONE: Europe/Paris
+      TZ: Europe/Paris
+      N8N_DEFAULT_LOCALE: fr
+      SMTP_HOST: mailpit
+      SMTP_PORT: 1025
+      N8N_PERSONALIZATION_ENABLED: false
+      N8N_DIAGNOSTICS_ENABLED: false
+
+      #DB_TYPE: postgresdb
+      #DB_POSTGRESDB_DATABASE: <POSTGRES_DATABASE>
+      #DB_POSTGRESDB_HOST: <POSTGRES_HOST>
+      #DB_POSTGRESDB_PORT: <POSTGRES_PORT>
+      #DB_POSTGRESDB_USER: <POSTGRES_USER>
+      #DB_POSTGRESDB_SCHEMA: <POSTGRES_SCHEMA>
+      #DB_POSTGRESDB_PASSWORD: <POSTGRES_PASSWORD>
+
+# Directus
+# The backend to build anything or everything.
+# https://directus.io/
+
+  directus:
+    container_name: r5a10-directus
+    image: directus/directus:${DIRECTUS_VERSION:-11.1}
+    restart: no
+    volumes:
+      - ./directus/uploads:/directus/uploads
+      - ./directus/extensions:/directus/extensions
+    ports:
+      - 8081:${DIRECTUS_PORT:-8081}
+      - 8055:8055
+    depends_on:
+      mariadb:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      KEY: ${DIRECTUS_KEY}
+      SECRET: ${DIRECTUS_SECRET}
+      PUBLIC_URL: http://127.0.0.1:8081/
+      PORT: ${DIRECTUS_PORT:-8081}
+
+      DB_CLIENT: ${DIRECTUS_DB_CLIENT:-pg}
+      DB_HOST: ${DIRECTUS_DB_HOST:-postgresql}
+      DB_PORT: ${DIRECTUS_DB_PORT:-5432}
+      DB_DATABASE: ${DIRECTUS_DB_DATABASE:-directus}
+      DB_USER: ${DIRECTUS_DB_USER:-directus}
+      DB_PASSWORD: ${DB_PASSWORD}
+
+      CACHE_ENABLED: true
+      CACHE_AUTO_PURGE: true
+      CACHE_STORE: redis
+      REDIS_HOST: ${REDIS_HOST:-redis}
+      REDIS_PASSWORD: ${DB_ROOT_PASSWORD}
+
+      ADMIN_EMAIL: ${ADMIN_EMAIL}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD}
+
+      EMAIL_FROM: directus@univ-lorraine.fr
+      EMAIL_TRANSPORT: smtp
+      EMAIL_SMTP_HOST: ${SMTP_HOST:-mailpit}
+      EMAIL_SMTP_PORT: ${SMTP_PORT:-1025}
+
+# Grafana
+# Open source analytics & monitoring solution for every database.
+# https://grafana.com/
+  grafana:
+    container_name: r5a10-grafana
+    image: grafana/grafana-oss:${GRAFANA_VERSION:-11.2.0}
+    restart: no
+    depends_on:
+      mariadb:
+        condition: service_healthy
+    deploy:
+      resources:
+        limits:
+          memory: 100M
+    configs:
+      - source: grafana_provisioning
+        target: /etc/grafana/provisioning
+      - source: grafana_dashboards
+        target: /etc/grafana/dashboards
+    volumes:
+      - grafana:/var/lib/grafana
+    ports:
+      - 3001:3000
+    environment:
+      GF_SECURITY_ADMIN_EMAIL: ${ADMIN_EMAIL}
+      GF_SECURITY_ADMIN_PASSWORD: ${ADMIN_PASSWORD}
+      GF_USERS_DEFAULT_THEME: light
+      GF_USERS_ALLOW_SIGN_UP: false
+      GF_FEATURE_TOGGLES_ENABLE: traceQLStreaming metricsSummary lokiFormatQuery alertmanagerRemoteOnly
+
+# Redis
+# In-memory key-value database
+# https://redis.io/fr/
+
+  redis:
+    container_name: r5a10-redis
+    image: redis:${REDIS_VERSION:-7.2.5}
+    restart: no
+    command:
+      - 'redis-server'
+      - '--save 60 1'
+      - '--loglevel warning'
+      - '--requirepass ${DB_ROOT_PASSWORD}'
+    healthcheck:
+      test: ["CMD", "redis-cli", "-a", "${DB_ROOT_PASSWORD}", "--raw", "incr", "ping" ]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+    volumes:
+      - redis:/data
+
+# Mailpit
+# email & SMTP testing tool with API for developers
+# https://mailpit.axllent.org/
+  mailpit:
+    container_name: r5a10-mailpit
+    image: axllent/mailpit:${MAILPIT_VERSION:-v1.20}
+    restart: no
+    ports:
+      - 8025:8025
+      - 1025:1025 # SMTP
+    volumes:
+      - mailpit:/data
+    environment:
+      TZ: Europe/Paris

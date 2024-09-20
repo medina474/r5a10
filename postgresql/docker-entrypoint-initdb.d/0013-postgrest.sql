@@ -1,13 +1,7 @@
-create role postgrest with
-  login
-  nosuperuser
-  nocreatedb
-  nocreaterole
-  noinherit
-  noreplication
-  connection limit -1
-  password 'motdepasse';
+\c northwind;
 
-create database postgrest;
-alter database postgrest owner to postgrest;
-grant connect on database postgrest to postgrest;
+grant usage on schema public to clients_web;
+grant select on public.pays to clients_web;
+
+create role postgrest noinherit login password 'motdepasse';
+grant clients_web to postgrest;

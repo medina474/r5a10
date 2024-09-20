@@ -8,4 +8,4 @@ create role directus with
   connection limit -1
   password 'motdepasse';
 
-grant connect on database northwind to directus;
+grant select on database northwind to directus;

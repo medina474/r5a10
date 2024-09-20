@@ -9,6 +9,7 @@ configs:
     file: ./grafana/dashboards
 
 volumes:
+  couchdb: {}
   grafana: {}
   mailpit: {}
   mariadb: {}
@@ -241,6 +242,7 @@ services:
 # PostGraphile
 # Instant GraphQL API
 # https://www.graphile.org/postgraphile/
+
   postgraphile:
     container_name: r5a10-postgraphile
     build:
@@ -269,6 +271,20 @@ services:
       - PGPASSWORD=${DB_PASSWORD}
       - PGDATABASE=${POSTGRAPHILE_DB_NAME:-postgraphile}
 
+# CouchDB
+# Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
+# https://couchdb.apache.org/
+
+  couchdb:
+    image: couchdb:${COUCH_DB_VERSION:-3.3}
+    container_name: couchdb
+    environment:
+      COUCHDB_PASSWORD: ${DB_ROOT_PASSWORD}
+      COUCHDB_USER: ${COUCHDB_USER:-admin}
+    volumes:
+      - couchdb:/opt/couchdb/data
+    ports:
+      - 3007:5984
 
 # Redis
 # In-memory key-value database

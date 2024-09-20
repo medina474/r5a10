@@ -103,9 +103,9 @@ services:
       DB_CLIENT: ${DIRECTUS_DB_CLIENT:-pg}
       DB_HOST: ${DIRECTUS_DB_HOST:-postgresql}
       DB_PORT: ${DIRECTUS_DB_PORT:-5432}
-      DB_DATABASE: ${DB_NAME:-directus}
-      DB_USER: ${DB_USER:-directus}
-      DB_PASSWORD: ${DB_PASSWORD}
+      DB_DATABASE: northwind
+      DB_USER: postgres
+      DB_PASSWORD: supermotdepasse
 
       CACHE_ENABLED: true
       CACHE_AUTO_PURGE: true
@@ -196,7 +196,7 @@ services:
     image: grafana/grafana-oss:${GRAFANA_VERSION:-11.1.3}
     restart: no
     depends_on:
-      mariadb:
+      postgresql:
         condition: service_healthy
     deploy:
       resources:

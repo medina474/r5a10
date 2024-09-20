@@ -72,6 +72,51 @@ services:
       POSTGRES_USER: ${POSTGRES_USER:-postgres}
       POSTGRES_PASSWORD: ${DB_ROOT_PASSWORD}
 
+# Directus
+# The backend to build anything or everything.
+# https://directus.io/
+
+  directus:
+    container_name: r5a10-directus
+    image: directus/directus:${DIRECTUS_VERSION:-11.0.0-rc.3}
+    restart: no
+    volumes:
+      - ./directus/uploads:/directus/uploads
+      - ./directus/extensions:/directus/extensions
+    ports:
+      - 3001:${DIRECTUS_PORT:-8081}
+    depends_on:
+      mariadb:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    environment:
+      KEY: ${DIRECTUS_KEY}
+      SECRET: ${DIRECTUS_SECRET}
+      PUBLIC_URL: http://127.0.0.1:3001/
+      PORT: ${DIRECTUS_PORT:-8081}
+
+      DB_CLIENT: ${DIRECTUS_DB_CLIENT:-pg}
+      DB_HOST: ${DIRECTUS_DB_HOST:-postgresql}
+      DB_PORT: ${DIRECTUS_DB_PORT:-5432}
+      DB_DATABASE: ${DB_NAME:-directus}
+      DB_USER: ${DB_USER:-directus}
+      DB_PASSWORD: ${DB_PASSWORD}
+
+      CACHE_ENABLED: true
+      CACHE_AUTO_PURGE: true
+      CACHE_STORE: redis
+      REDIS_HOST: ${REDIS_HOST:-redis}
+      REDIS_PASSWORD: ${DB_ROOT_PASSWORD}
+
+      ADMIN_EMAIL: ${ADMIN_EMAIL}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD}
+
+      EMAIL_FROM: directus@univ-lorraine.fr
+      EMAIL_TRANSPORT: smtp
+      EMAIL_SMTP_HOST: ${SMTP_HOST:-mailpit}
+      EMAIL_SMTP_PORT: ${SMTP_PORT:-1025}
+
 # Metabase
 # Business Intelligence, Dashboards, and Data Visualization
 # https://www.metabase.com/
@@ -90,7 +135,7 @@ services:
     volumes:
       - /dev/urandom:/dev/random:ro
     ports:
-      - 3000:3000
+      - 3002:3000
     environment:
       MB_DB_TYPE: ${MB_DB_TYPE:-postgres}
       MB_DB_HOST: ${MB_DB_HOST:-postgresql}
@@ -121,7 +166,7 @@ services:
     volumes:
       - n8n:/home/node/.n8n
     ports:
-      - 5678:5678
+      - 3003:5678
     environment:
       GENERIC_TIMEZONE: Europe/Paris
       TZ: Europe/Paris
@@ -138,52 +183,6 @@ services:
       DB_POSTGRESDB_USER: ${DB_POSTGRESDB_USER:-n8n}
       DB_POSTGRESDB_SCHEMA: ${DB_POSTGRESDB_SCHEMA:-public}
       DB_POSTGRESDB_PASSWORD: ${DB_PASSWORD}
-
-# Directus
-# The backend to build anything or everything.
-# https://directus.io/
-
-  directus:
-    container_name: r5a10-directus
-    image: directus/directus:${DIRECTUS_VERSION:-11.0.0-rc.3}
-    restart: no
-    volumes:
-      - ./directus/uploads:/directus/uploads
-      - ./directus/extensions:/directus/extensions
-    ports:
-      - 8081:${DIRECTUS_PORT:-8081}
-      - 8055:8055
-    depends_on:
-      mariadb:
-        condition: service_healthy
-      redis:
-        condition: service_healthy
-    environment:
-      KEY: ${DIRECTUS_KEY}
-      SECRET: ${DIRECTUS_SECRET}
-      PUBLIC_URL: http://127.0.0.1:8081/
-      PORT: ${DIRECTUS_PORT:-8081}
-
-      DB_CLIENT: ${DIRECTUS_DB_CLIENT:-pg}
-      DB_HOST: ${DIRECTUS_DB_HOST:-postgresql}
-      DB_PORT: ${DIRECTUS_DB_PORT:-5432}
-      DB_DATABASE: ${DB_NAME:-directus}
-      DB_USER: ${DB_USER:-directus}
-      DB_PASSWORD: ${DB_PASSWORD}
-
-      CACHE_ENABLED: true
-      CACHE_AUTO_PURGE: true
-      CACHE_STORE: redis
-      REDIS_HOST: ${REDIS_HOST:-redis}
-      REDIS_PASSWORD: ${DB_ROOT_PASSWORD}
-
-      ADMIN_EMAIL: ${ADMIN_EMAIL}
-      ADMIN_PASSWORD: ${ADMIN_PASSWORD}
-
-      EMAIL_FROM: directus@univ-lorraine.fr
-      EMAIL_TRANSPORT: smtp
-      EMAIL_SMTP_HOST: ${SMTP_HOST:-mailpit}
-      EMAIL_SMTP_PORT: ${SMTP_PORT:-1025}
 
 # Grafana
 # Open source analytics & monitoring solution for every database.
@@ -207,7 +206,7 @@ services:
     volumes:
       - grafana:/var/lib/grafana
     ports:
-      - 3001:3000
+      - 3004:3000
     environment:
       GF_SECURITY_ADMIN_EMAIL: ${ADMIN_EMAIL}
       GF_SECURITY_ADMIN_PASSWORD: ${ADMIN_PASSWORD}
@@ -228,7 +227,7 @@ services:
       postgresql:
         condition: service_healthy
     ports:
-      - 3002:3000
+      - 3005:3000
     environment:
       PGRST_DB_URI: postgres://${POSTGREST_USER:-postgrest}:${DB_PASSWORD}@${POSTGREST_HOST:-postgresql}:${POSTGREST_DB_PORT:-5432}/${POSTGREST_DB:-postgrest}
       PGRST_DB_SCHEMAS: ${POSTGREST_DB_SCHEMAS:-public}
@@ -262,7 +261,7 @@ services:
         "postgraphile-plugin-connection-filter,postgraphile-plugin-fulltext-filter,@graphile/postgis,postgraphile-plugin-connection-filter-postgis"
       ]
     ports:
-      - 5000:5000
+      - 3006:5000
     environment:
       - PGHOST=${POSTGRAPHILE_HOST:-postgresql}
       - PGPORT=${POSTGRAPHILE_DB_PORT:-5432}
@@ -301,7 +300,7 @@ services:
     image: axllent/mailpit:${MAILPIT_VERSION:-v1.20}
     restart: no
     ports:
-      - 8025:8025
+      - 3009:8025
       - 1025:1025 # SMTP
     volumes:
       - mailpit:/data

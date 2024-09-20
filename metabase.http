@@ -1,11 +1,11 @@
 ### Récupérer la valeur setup-token
-http://127.0.0.1:3000/api/session/properties
+http://127.0.0.1:3002/api/session/properties
 Content-Type: application/json
 
 ### Créer l'administrateur
 # token = setup-token
 # Récupérer l'id de session
-POST http://127.0.0.1:3000/api/setup 
+POST http://127.0.0.1:3002/api/setup
 Content-Type: application/json
 
 {
@@ -27,7 +27,7 @@ Content-Type: application/json
 
 ### Ajouter la base de données
 # X-Metabase-Session = id
-POST http://127.0.0.1:3000/api/database 
+POST http://127.0.0.1:3002/api/database
 Content-Type: application/json
 X-Metabase-Session: ce635e7a-4815-494b-aec4-345ea177ebd3
 
@@ -56,6 +56,6 @@ X-Metabase-Session: ce635e7a-4815-494b-aec4-345ea177ebd3
 
 
 ### Liste des base de données
-GET http://127.0.0.1:3000/api/database 
+GET http://127.0.0.1:3002/api/database
 Content-Type: application/json
 X-Metabase-Session: ce635e7a-4815-494b-aec4-345ea177ebd3

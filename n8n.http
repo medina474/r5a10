@@ -1,4 +1,4 @@
-POST http://127.0.0.1:5678/rest/owner/setup
+POST http://127.0.0.1:3003/rest/owner/setup
 Content-Type: application/json
 
 {

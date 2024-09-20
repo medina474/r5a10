@@ -215,7 +215,6 @@ services:
       GF_USERS_ALLOW_SIGN_UP: false
       GF_FEATURE_TOGGLES_ENABLE: traceQLStreaming metricsSummary lokiFormatQuery alertmanagerRemoteOnly
 
-
 # PostgREST
 # Serve a fully RESTful API from any existing PostgreSQL database.
 # It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch.
@@ -227,17 +226,17 @@ services:
     depends_on:
       postgresql:
         condition: service_healthy
+    command: postgrest
     ports:
       - 3005:3000
     environment:
-      PGRST_DB_URI: postgres://${POSTGREST_USER:-postgrest}:${DB_PASSWORD}@${POSTGREST_HOST:-postgresql}:${POSTGREST_DB_PORT:-5432}/${POSTGREST_DB:-postgrest}
+      PGRST_DB_URI: postgres://${POSTGREST_USER:-postgrest}:${DB_PASSWORD}@${POSTGREST_HOST:-postgresql}:${POSTGREST_DB_PORT:-5432}/${DB_NAME:-postgrest}
       PGRST_DB_SCHEMAS: ${POSTGREST_DB_SCHEMAS:-public}
-      PGRST_DB_ANON_ROLE: ${POSTGREST_DB_ANON_ROLE:-anon}
+      PGRST_DB_ANON_ROLE: ${POSTGREST_DB_ANON_ROLE:-postgrest}
       PGRST_JWT_SECRET: ${POSTGREST_JWT_SECRET}
       PGRST_DB_USE_LEGACY_GUCS: ${POSTGREST_DB_USE_LEGACY_GUCS:-false}
       PGRST_APP_SETTINGS_JWT_SECRET: ${POSTGREST_APP_SETTINGS_JWT_SECRET}
       PGRST_APP_SETTINGS_JWT_EXP: ${POSTGREST_APP_SETTINGS_JWT_EXP}
-    command: postgrest
 
 # PostGraphile
 # Instant GraphQL API
@@ -269,7 +268,7 @@ services:
       - PGPORT=${POSTGRAPHILE_DB_PORT:-5432}
       - PGUSER=${POSTGRAPHILE_DB_USER:-postgraphile}
       - PGPASSWORD=${DB_PASSWORD}
-      - PGDATABASE=${DB_NAME:-postgraphile}
+      - PGDATABASE=${DB_NAME:-northwind}
 
 # CouchDB
 # Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.

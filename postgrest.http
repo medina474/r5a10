@@ -1,4 +1,5 @@
-GET https://boilerplate.docker.org/postgrest/employes
-
 ### OpenAPI
-GET https://boilerplate.docker.org/postgrest
+GET http://127.0.0.1:3005/
+
+###
+GET http://127.0.0.1:3005/pays

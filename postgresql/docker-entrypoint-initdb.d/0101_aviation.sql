@@ -11,7 +11,7 @@ create table if not exists aeroports (
   pays text,
   altitude int,
   tz text,
-  coordonnees extensions.geometry(Point, 4326) default null::extensions.geometry
+  coordonnees geometry(Point, 4326) default null::geometry
 );
 
 create table appareils (

@@ -1,6 +1,8 @@
 configs:
   mariadb_initdb:
     file: ./mariadb/docker-entrypoint-initdb.d
+  pgadmin_config:
+    file: ./pgadmin-servers.json
   postgresql_initdb:
     file: ./postgresql/docker-entrypoint-initdb.d
   grafana_provisioning:
@@ -14,6 +16,7 @@ volumes:
   mailpit: {}
   mariadb: {}
   n8n: {}
+  pgadmin: {}
   postgresql: {}
   redis: {}
 
@@ -79,7 +82,7 @@ services:
 
   directus:
     container_name: r5a10-directus
-    image: directus/directus:${DIRECTUS_VERSION:-11.0.0-rc.3}
+    image: directus/directus:${DIRECTUS_VERSION:-11.1.0}
     restart: no
     volumes:
       - ./directus/uploads:/directus/uploads
@@ -215,6 +218,28 @@ services:
       GF_USERS_ALLOW_SIGN_UP: false
       GF_FEATURE_TOGGLES_ENABLE: traceQLStreaming metricsSummary lokiFormatQuery alertmanagerRemoteOnly
 
+# pgAdmin
+
+  pgadmin:
+    container_name: r5a10-pgadmin
+    image: dpage/pgadmin4:${PGADMIN_VERSION:-8.11}
+    depends_on:
+      postgresql:
+        condition: service_healthy
+    restart: no
+    configs:
+      - source: pgadmin_config
+        target: /pgadmin4/servers.json
+    volumes:
+      - pgadmin:/var/lib/pgadmin/
+    ports:
+      - 3009:80
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${ADMIN_EMAIL}
+      PGADMIN_DEFAULT_PASSWORD: ${ADMIN_PASSWORD}
+      PGADMIN_DISABLE_POSTFIX: true
+
+
 # PostgREST
 # Serve a fully RESTful API from any existing PostgreSQL database.
 # It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch.
@@ -237,6 +262,18 @@ services:
       PGRST_DB_USE_LEGACY_GUCS: ${POSTGREST_DB_USE_LEGACY_GUCS:-false}
       PGRST_APP_SETTINGS_JWT_SECRET: ${POSTGREST_APP_SETTINGS_JWT_SECRET}
       PGRST_APP_SETTINGS_JWT_EXP: ${POSTGREST_APP_SETTINGS_JWT_EXP}
+
+# redocly
+
+  redocly:
+    container_name: redocly
+    image: redocly/redoc
+    depends_on:
+      - postgrest
+    ports:
+      - 3008:80
+    environment:
+      SPEC_URL: http://127.0.0.1:3007/postgrest
 
 # PostGraphile
 # Instant GraphQL API
@@ -315,7 +352,7 @@ services:
     image: axllent/mailpit:${MAILPIT_VERSION:-v1.20}
     restart: no
     ports:
-      - 3009:8025
+      - 3010:8025
       - 1025:1025 # SMTP
     volumes:
       - mailpit:/data

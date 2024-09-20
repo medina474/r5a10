@@ -269,7 +269,7 @@ services:
       - PGPORT=${POSTGRAPHILE_DB_PORT:-5432}
       - PGUSER=${POSTGRAPHILE_DB_USER:-postgraphile}
       - PGPASSWORD=${DB_PASSWORD}
-      - PGDATABASE=${POSTGRAPHILE_DB_NAME:-postgraphile}
+      - PGDATABASE=${DB_NAME:-postgraphile}
 
 # CouchDB
 # Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.

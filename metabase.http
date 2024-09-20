@@ -1,0 +1,61 @@
+### Récupérer la valeur setup-token
+http://127.0.0.1:3000/api/session/properties
+Content-Type: application/json
+
+### Créer l'administrateur
+# token = setup-token
+# Récupérer l'id de session
+POST http://127.0.0.1:3000/api/setup 
+Content-Type: application/json
+
+{
+  "token":"a04af519-80e6-4544-bcd8-eaec80babfaa",
+  "user": {
+    "first_name":"Emmanuel",
+    "last_name":"Medina",
+    "site_name":"IUT",
+    "email":"emmanuel.medina@univ-lorraine.fr",
+    "password":"supermotdep@ss3",
+    "password_confirm":"supermotdep@ss3"
+  },
+  "prefs": {
+    "site_name":"IUT",
+    "site_locale":"fr"
+  }
+}
+
+
+### Ajouter la base de données
+# X-Metabase-Session = id
+POST http://127.0.0.1:3000/api/database 
+Content-Type: application/json
+X-Metabase-Session: ce635e7a-4815-494b-aec4-345ea177ebd3
+
+{
+  "engine":"mysql",
+  "name":"mariadb",
+  "is_on_demand":false,
+  "is_full_sync":true,
+  "is_sample":false,
+  "cache_ttl":null,
+  "refingerprint":false,
+  "auto_run_queries":true,
+  "schedules":{},
+  "details":{
+    "host":"mariadb",
+    "port":null,
+    "dbname":"northwind",
+    "user":"root",
+    "password":"supermotdepasse",
+    "ssl":false,
+    "tunnel-enabled":false,
+    "advanced-options":false
+  }
+}
+
+
+
+### Liste des base de données
+GET http://127.0.0.1:3000/api/database 
+Content-Type: application/json
+X-Metabase-Session: ce635e7a-4815-494b-aec4-345ea177ebd3

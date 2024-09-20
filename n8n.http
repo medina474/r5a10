@@ -1,0 +1,9 @@
+POST http://127.0.0.1:5678/rest/owner/setup
+Content-Type: application/json
+
+{
+  "email":"emmanuel.medina@univ-lorraine.fr",
+  "firstName":"Emmanuel",
+  "lastName":"Medina",
+  "password":"Supermotdepass3"
+}

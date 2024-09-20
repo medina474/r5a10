@@ -103,7 +103,7 @@ services:
       DB_CLIENT: ${DIRECTUS_DB_CLIENT:-pg}
       DB_HOST: ${DIRECTUS_DB_HOST:-postgresql}
       DB_PORT: ${DIRECTUS_DB_PORT:-5432}
-      DB_DATABASE: northwind
+      DB_DATABASE: ${DB_NAME}
       DB_USER: postgres
       DB_PASSWORD: supermotdepasse
 
@@ -273,7 +273,7 @@ services:
     ports:
       - 3008:80
     environment:
-      SPEC_URL: http://127.0.0.1:3007/postgrest
+      SPEC_URL: http://127.0.0.1:3005
 
 # PostGraphile
 # Instant GraphQL API

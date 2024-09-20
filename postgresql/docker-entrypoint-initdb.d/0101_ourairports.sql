@@ -17,7 +17,7 @@ create temporary table aeroports_tmp (
   Source text
 );
 
-\copy aeroports_tmp from '/data/aviation/0100-aeroports.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy aeroports_tmp from '/data/aviation/aeroports.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 -- Corriger les noms des pays
 update aeroports_tmp set Country = 'United States of America' WHERE Country = 'United States';
@@ -35,7 +35,7 @@ update aeroports_tmp set Country = 'United Republic of Tanzania' WHERE Country =
 
 -- Supprimer les enregistrements sans code IATA
 update aeroports_tmp set IATA = null WHERE IATA = '\N';
-\copy (select * from aeroports_tmp where IATA is null) to '/data/aviation/0100-aeroports-iata-null.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+-- \copy (select * from aeroports_tmp where IATA is null) to '/data/aviation/aeroports-iata-null.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 delete from aeroports_tmp where IATA is null;
 
 -- Copier les données dans la table

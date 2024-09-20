@@ -9,7 +9,7 @@ POST http://127.0.0.1:3002/api/setup
 Content-Type: application/json
 
 {
-  "token":"a04af519-80e6-4544-bcd8-eaec80babfaa",
+  "token":"dd12d334-7062-4b29-bf8d-9108f6779686",
   "user": {
     "first_name":"Emmanuel",
     "last_name":"Medina",

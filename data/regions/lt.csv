@@ -1,0 +1,72 @@
+code,parent,intitule,nom,capitale
+lt,154,Lituanie,pays,Vilnius
+lt-AL,lt,Alytus,,Alytus
+lt-KL,lt,Klaipeda,,Klaipėda
+lt-KU,lt,Kaunas,,Kaunas
+lt-MR,lt,Marijampole,,Marijampolė
+lt-PN,lt,Panevezys,,Panevėžys
+lt-SA,lt,Siauliai,,Šiauliai
+lt-TA,lt,Taurage,,Tauragė
+lt-TE,lt,Telsiai,,Telšiai
+lt-UT,lt,Utena,,Utena
+lt-VL,lt,Vilnius,,Vilnius
+01,lt,Akmenė,district municipality,Akmenė
+02,lt,Alytaus miestas,city municipality,Alytus
+03,lt,Alytus,district municipality,Alytus
+04,lt,Anykščiai,district municipality,
+05,lt,Birštono,municipality,
+06,lt,Biržai,district municipality,
+07,lt,Druskininkai,municipality,Druskininkai
+08,lt,Elektrėnai,municipality,
+09,lt,Ignalina,district municipality,Ignalina
+10,lt,Jonava,district municipality,Jonava
+11,lt,Joniškis,district municipality,Joniškis
+12,lt,Jurbarkas,district municipality,Jurbarkas
+13,lt,Kaišiadorys,district municipality,Kaišiadorys
+14,lt,Kalvarijos,municipality,
+15,lt,Kauno miestas,city municipality,Kaunas
+16,lt,Kaunas,district municipality,Kaunas
+17,lt,Kazlų Rūdos,municipality,Skuodas
+18,lt,Kėdainiai,district municipality,Kėdainiai
+19,lt,Kelmė,district municipality,Kelmė
+20,lt,Klaipėdos miestas,city municipality,Klaipėda
+21,lt,Klaipėda,district municipality,Klaipėda
+22,lt,Kretinga,district municipality,Kretinga
+23,lt,Kupiškis,district municipality,Kupiskis
+24,lt,Lazdijai,district municipality,Lazdijai
+25,lt,Marijampolė,district municipality,Marijampolė
+26,lt,Mažeikiai,district municipality,Joniškis
+27,lt,Molėtai,district municipality,Molėtai
+28,lt,Neringa,municipality,Nida
+29,lt,Pagėgiai,municipality,Pagėgiai
+30,lt,Pakruojis,district municipality,Pakruojis
+31,lt,Palangos miestas,city municipality,
+32,lt,Panevėžio miestas,city municipality,Panevėžys
+33,lt,Panevėžys,district municipality,
+34,lt,Pasvalys,district municipality,Pasvalys
+35,lt,Plungė,district municipality,
+36,lt,Prienai,district municipality,Prienai
+37,lt,Radviliškis,district municipality,
+38,lt,Raseiniai,district municipality,Raseiniai
+39,lt,Rietavo,municipality,Rietavas
+40,lt,Rokiškis,district municipality,Rokiškis
+41,lt,Šakiai,district municipality,Šakiai
+42,lt,Šalčininkai,district municipality,Šalčininkai
+43,lt,Šiaulių miestas,city municipality,Šiauliai
+44,lt,Šiauliai,district municipality,Šiauliai
+45,lt,Šilalė,district municipality,Šilalė
+46,lt,Šilutė,district municipality,
+47,lt,Širvintos,district municipality,Širvintos
+48,lt,Skuodas,district municipality,Skuodas
+49,lt,Švenčionys,district municipality,
+50,lt,Tauragė,district municipality,Taurage
+51,lt,Telšiai,district municipality,Telsiai
+52,lt,Trakai,district municipality,
+53,lt,Ukmergė,district municipality,
+54,lt,Utena,district municipality,Utena
+55,lt,Varėna,district municipality,Varėna
+56,lt,Vilkaviškis,district municipality,Vilkaviskis
+57,lt,Vilniaus miestas,city municipality,Vilnius
+58,lt,Vilnius,district municipality,Vilnius
+59,lt,Visaginas,municipality,Visaginas
+60,lt,Zarasai,district municipality,Zarasai

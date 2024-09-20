@@ -1,0 +1,18 @@
+code,parent,intitule,nom,capitale
+de,155,Allemagne,pays,Berlin
+de-bb,de,Brandenburg,Land,Potsdam
+de-be,de,Berlin,Land,Berlin
+de-bw,de,Baden-Württemberg,Land,Stuttgart
+de-by,de,Bayern,Freistaat,Munich
+de-hb,de,Bremen,Land,Bremen
+de-he,de,Hessen,Land,Wiesbaden
+de-hh,de,Hamburg,Freie und Hansestadt,Hamburg
+de-mv,de,Mecklenburg-Vorpommern,Land,Schwerin
+de-ni,de,Niedersachsen,Land,Hannover
+de-nw,de,Nordrhein-Westfalen,Land,Düsseldorf
+de-rp,de,Rheinland-Pfalz,Land,Mainz
+de-sh,de,Schleswig-Holstein,Land,Kiel
+de-sl,de,Saarland,Land,Saarbrücken
+de-sn,de,Sachsen,Freistaat,Dresden
+de-st,de,Sachsen-Anhalt,Land,Magdeburg
+de-th,de,Thüringen,Freistaat,Erfurt

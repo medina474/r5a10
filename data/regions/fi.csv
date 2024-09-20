@@ -1,0 +1,21 @@
+code,parent,intitule,nom,capitale
+fi,154,Finland,pays,Helsinki
+fi-01,fi,Ahvenanmaan maakunta,maakunnan,Mariehamn
+fi-02,fi,Etelä-Karjala,maakunnan,Lappeenranta
+fi-03,fi,Etelä-Pohjanmaa,maakunnan,Seinäjoki
+fi-04,fi,Etelä-Savo,maakunnan,Polvijärvi
+fi-05,fi,Kainuu,maakunnan,Kajaani
+fi-06,fi,Kanta-Häme,maakunnan,Hämeenlinna
+fi-07,fi,Keski-Pohjanmaa,maakunnan,Kokkola
+fi-08,fi,Keski-Suomi,maakunnan,Helsinki
+fi-09,fi,Kymenlaakso,maakunnan,Kouvola
+fi-10,fi,Lappi,maakunnan,Rovaniemi
+fi-11,fi,Pirkanmaa,maakunnan,Rovaniemi
+fi-12,fi,Pohjanmaa,maakunnan,Vaasa
+fi-13,fi,Pohjois-Karjala,maakunnan,Joensuu
+fi-14,fi,Pohjois-Pohjanmaa,maakunnan,Oulu
+fi-15,fi,Pohjois-Savo,maakunnan,Kuopio
+fi-16,fi,Päijät-Häme,maakunnan,Lahti
+fi-17,fi,Satakunta,maakunnan,Pori
+fi-18,fi,Uusimaa,maakunnan,Helsinki
+fi-19,fi,Varsinais-Suomi,maakunnan,Turku

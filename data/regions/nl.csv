@@ -1,0 +1,14 @@
+code,parent,intitule,nom,capitale
+nl,155,Pays-bas,pays,La Haye
+nl-dr,nl,Drenthe,province,Assen
+nl-fl,nl,Flevoland,province,Lelystad
+nl-fr,nl,Friesland,province,Leeuwarden
+nl-ge,nl,Gelderland,province,Arnhem
+nl-gr,nl,Groningen,province,Groningen
+nl-li,nl,Limburg,province,Maastricht
+nl-nb,nl,Noord Brabant,province,'s-Hertogenbosch
+nl-nh,nl,Noord Holland,province,Haarlem
+nl-ov,nl,Overijssel,province,Zwolle
+nl-ut,nl,Utrecht,province,Utrecht
+nl-ze,nl,Zeeland,province,Middelburg
+nl-zh,nl,Zuid Holland,province,Den Haag

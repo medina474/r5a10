@@ -1,0 +1,22 @@
+code,parent,intitule,nom,capitale
+pt,039,Portugal,pays,Lisbone
+pt-01,pt,Aveiro,district,Aveiro
+pt-02,pt,Beja,district,Beja
+pt-03,pt,Braga,district,Braga
+pt-04,pt,Braganca,district,Bragança
+pt-05,pt,Castelo Branco,district,Castelo Branco
+pt-06,pt,Coimbra,district,Coimbra
+pt-07,pt,Evora,district,Évora
+pt-08,pt,Faro,district,Faro
+pt-09,pt,Guarda,district,Guarda
+pt-10,pt,Leiria,district,Leiria
+pt-11,pt,Lisboa,district,Lisbon
+pt-12,pt,Portalegre,district,Portalegre
+pt-13,pt,Porto,district,Porto
+pt-14,pt,Santarem,district,Santarém
+pt-15,pt,Setubal,district,Setúbal
+pt-16,pt,Viana do Castelo,district,Viana do Castelo
+pt-17,pt,Vila Real,district,Vila Real
+pt-18,pt,Viseu,district,Viseu
+pt-20,pt,Acores (Azores),região autónoma (autonomous region),Ponta Delgada
+pt-30,pt,Madeira,região autónoma (autonomous region),Funchal

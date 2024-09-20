@@ -1,0 +1,23 @@
+code,parent,intitule,nom,capitale
+hr,039,Croatie,pays,Zagreb
+hr-01,hr,Zagreb,županija,
+hr-02,hr,Krapina-Zagorje,županija,	Krapina
+hr-03,hr,Sisak-Moslavina,županija,Sisak
+hr-04,hr,Karlovac,županija,Karlovac
+hr-05,hr,Varazdin,županija,Varaždin
+hr-06,hr,Koprivnica-Krizevci,županija,Koprivnica
+hr-07,hr,Bjelovar-Bilogora,županija,Bjelovar
+hr-08,hr,Primorje-Gorski Kotar,županija,Rijeka
+hr-09,hr,Lika-Senj,županija,Gospić
+hr-10,hr,Virovitica-Podravina,županija,Virovitica
+hr-11,hr,Pozega-Slavonia,županija,Požega
+hr-12,hr,Brod-Posavina,županija,Slavonski Brod
+hr-13,hr,Zadar,županija,Zadar
+hr-14,hr,Osijek-Baranja,županija,Osijek
+hr-15,hr,Sibenik-Knin,županija,Šibenik
+hr-16,hr,Vukovar-Srijem,županija,Vukovar
+hr-17,hr,Split-Dalmatia,županija,Split
+hr-18,hr,Istria,županija,Pazin
+hr-19,hr,Dubrovnik-Neretva,županija,Dubrovnik
+hr-20,hr,Medjimurje,županija,Čakovec
+hr-21,hr,Zagreb,grad,Zagreb

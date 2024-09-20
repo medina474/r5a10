@@ -1,0 +1,45 @@
+code,parent,intitule,nom,capitale
+hu,151,Hongrie,pays,Budapest
+hu-ba,hu,Baranya,megye,Pécs
+hu-be,hu,Békés,megye,Békéscsaba
+hu-bk,hu,Bács-Kiskun,megye,Kecskemét
+hu-bu,hu,Budapest főváros,főváros,Budapest
+hu-bz,hu,Borsod-Abaúj-Zemplén,megye,Miskolc
+hu-cs,hu,Csongrád,megye,Szeged
+hu-fe,hu,Fejér,megye,Székesfehérvár
+hu-gs,hu,Győr-Moson-Sopron,megye,Győr
+hu-hb,hu,Hajdú-Bihar,megye,Debrecen
+hu-he,hu,Heves,megye,Eger
+hu-jn,hu,Jász-Nagykun-Szolnok,megye,Szolnok
+hu-ke,hu,Komárom-Esztergom,megye,Tatabánya
+hu-no,hu,Nógrád,megye,Salgótarján
+hu-pe,hu,Pest,megye,Budapest
+hu-so,hu,Somogy,megye,Kaposvár
+hu-sz,hu,Szabolcs-Szatmár-Bereg,megye,Nyíregyháza
+hu-to,hu,Tolna,megye,Szekszárd
+hu-va,hu,Vas,megye,Szombathely
+hu-ve,hu,Veszprém,megye,Veszprém
+hu-za,hu,Zala,megye,Zalaegerszeg
+hu-bc,hu,Békéscsaba,megyei város,
+hu-de,hu,Debrecen,megyei város,
+hu-du,hu,Dunaújváros,megyei város,
+hu-eg,hu,Eger,megyei város,
+hu-er,hu,Erd,megyei város,
+hu-gy,hu,Győr,megyei város,
+hu-hv,hu,Hódmezővásárhely,megyei város,
+hu-km,hu,Kecskemét,megyei város,
+hu-kv,hu,Kaposvár,megyei város,
+hu-mi,hu,Miskolc,megyei város,
+hu-nk,hu,Nagykanizsa,megyei város,
+hu-ny,hu,Nyíregyháza,megyei város,
+hu-ps,hu,Pécs,megyei város,
+hu-sd,hu,Szeged,megyei város,
+hu-sf,hu,Székesfehérvár,megyei város,
+hu-sh,hu,Szombathely,megyei város,
+hu-sk,hu,Szolnok,megyei város,
+hu-sn,hu,Sopron,megyei város,
+hu-ss,hu,Szekszárd,megyei város,
+hu-st,hu,Salgótarján,megyei város,
+hu-tb,hu,Tatabánya,megyei város,
+hu-vm,hu,Veszprém,megyei város,
+hu-ze,hu,Zalaegerszeg,megyei város,

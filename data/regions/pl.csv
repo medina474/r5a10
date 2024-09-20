@@ -1,0 +1,18 @@
+code,parent,intitule,nom,capitale
+pl,151,Pologne,pays,Warsaw
+pl-02,pl,Dolnoslaskie,province,Wrocław
+pl-04,pl,Kujawsko-Pomorskie,province,Bydgoszcz
+pl-06,pl,Lubelskie,province,Lublin
+pl-08,pl,Lubuskie,province,Zielona Góra
+pl-10,pl,Lodzkie,province,Łódź
+pl-12,pl,Malopolskie,province,Kraków
+pl-14,pl,Mazowieckie,province,Warsaw
+pl-16,pl,Opolskie,province,Opole
+pl-18,pl,Podkarpackie,province,Rzeszów
+pl-20,pl,Podlaskie,province,Białystok
+pl-22,pl,Pomorskie,province,Gdańsk
+pl-24,pl,Slaskie,province,Katowice
+pl-26,pl,Swietokrzyskie,province,Kielce
+pl-28,pl,Warminsko-Mazurskie,province,Olsztyn
+pl-30,pl,Wielkopolskie,province,Poznań
+pl-32,pl,Zachodniopomorskie,province,Szczecin

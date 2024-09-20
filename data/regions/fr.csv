@@ -1,0 +1,125 @@
+code,parent,intitule,nom,capitale
+fr,155,France,pays,Paris
+fr-20r,fr,Corse,collectivité métropolitaine,Ajaccio
+fr-6ae,fr,Alsace,collectivité européenne,Strasbourg
+fr-ara,fr,Auvergne-Rhône-Alpes,région,Lyon
+fr-bfc,fr,Bourgogne-Franche-Comté,région,Dijon
+fr-bre,fr,Bretagne,région,Rennes
+fr-cvl,fr,Centre-Val de Loire,région,Orléans
+fr-ges,fr,Grand Est,région,Strasbourg
+fr-hdf,fr,Hauts-de-France,région,Lille
+fr-idf,fr,Île-de-France,région,Paris
+fr-naq,fr,Nouvelle-Aquitaine,région,Bordeaux
+fr-nor,fr,Normandie,région,Rouen
+fr-occ,fr,Occitanie,région,Toulouse
+fr-pac,fr,Provence-Alpes-Côte d'Azur,région,Marseille
+fr-pdl,fr,Pays de la Loire,région,Nantes
+fr-01,fr-ara,Ain,département,Bourg-en-Bresse
+fr-02,fr-hdf,Aisne,département,Laon
+fr-03,fr-ara,Allier,département,Moulins
+fr-04,fr-pac,Alpes-de-Haute-Provence,département,Digne-les-Bains
+fr-05,fr-pac,Hautes-Alpes,département,Gap
+fr-06,fr-pac,Alpes-Maritimes,département,Nice
+fr-07,fr-ara,Ardèche,département,Privas
+fr-08,fr-ges,Ardennes,département,Charleville-Mézières
+fr-09,fr-occ,Ariège,département,Foix
+fr-10,fr-ges,Aube,département,Troyes
+fr-11,fr-occ,Aude,département,Carcassonne
+fr-12,fr-occ,Aveyron,département,Rodez
+fr-13,fr-pac,Bouches-du-Rhône,département,Marseille
+fr-14,fr-nor,Calvados,département,Caen
+fr-15,fr-ara,Cantal,département,Aurillac
+fr-16,fr-naq,Charente,département,Angoulême
+fr-17,fr-naq,Charente-Maritime,département,La Rochelle
+fr-18,fr-cvl,Cher,département,Bourges
+fr-19,fr-naq,Corrèze,département,Tulle
+fr-21,fr-bfc,Côte-d'Or,département,Dijon
+fr-22,fr-bre,Côtes-d'Armor,département,Saint-Brieuc
+fr-23,fr-naq,Creuse,département,Guéret
+fr-24,fr-naq,Dordogne,département,Périgueux
+fr-25,fr-bfc,Doubs,département,Besançon
+fr-26,fr-ara,Drôme,département,Valence
+fr-27,fr-nor,Eure,département,Évreux
+fr-28,fr-cvl,Eure-et-Loir,département,Chartres
+fr-29,fr-bre,Finistère,département,Quimper
+fr-2A,fr-20r,Corse-du-Sud,département,Ajaccio
+fr-2B,fr-20r,Haute-Corse,département,Bastia
+fr-30,fr-occ,Gard,département,Nîmes
+fr-31,fr-occ,Haute-Garonne,département,Toulouse
+fr-32,fr-occ,Gers,département,Auch
+fr-33,fr-naq,Gironde,département,Bordeaux
+fr-34,fr-occ,Hérault,département,Montpellier
+fr-35,fr-bre,Ille-et-Vilaine,département,Rennes
+fr-36,fr-cvl,Indre,département,Châteauroux
+fr-37,fr-cvl,Indre-et-Loire,département,Tours
+fr-38,fr-ara,Isère,département,Grenoble
+fr-39,fr-bfc,Jura,département,Lons-le-Saunier
+fr-40,fr-naq,Landes,département,Mont-de-Marsan
+fr-41,fr-cvl,Loir-et-Cher,département,Blois
+fr-42,fr-ara,Loire,département,Saint-Étienne
+fr-43,fr-ara,Haute-Loire,département,Le Puy-en-Velay
+fr-44,fr-pdl,Loire-Atlantique,département,Nantes
+fr-45,fr-cvl,Loiret,département,Orléans
+fr-46,fr-occ,Lot,département,Cahors
+fr-47,fr-naq,Lot-et-Garonne,département,Agen
+fr-48,fr-occ,Lozère,département,Mende
+fr-49,fr-pdl,Maine-et-Loire,département,Angers
+fr-50,fr-nor,Manche,département,Saint-Lô
+fr-51,fr-ges,Marne,département,Châlons-en-Champagne
+fr-52,fr-ges,Haute-Marne,département,Chaumont
+fr-53,fr-pdl,Mayenne,département,Laval
+fr-54,fr-ges,Meurthe-et-Moselle,département,Nancy
+fr-55,fr-ges,Meuse,département,Bar-le-Duc
+fr-56,fr-bre,Morbihan,département,Vannes
+fr-57,fr-ges,Moselle,département,Metz
+fr-58,fr-bfc,Nièvre,département,Nevers
+fr-59,fr-hdf,Nord,département,Lille
+fr-60,fr-hdf,Oise,département,Beauvais
+fr-61,fr-nor,Orne,département,Alençon
+fr-62,fr-hdf,Pas-de-Calais,département,Arras
+fr-63,fr-ara,Puy-de-Dôme,département,Clermont-Ferrand
+fr-64,fr-naq,Pyrénées-Atlantiques,département,Pau
+fr-65,fr-occ,Hautes-Pyrénées,département,Tarbes
+fr-66,fr-occ,Pyrénées-Orientales,département,Perpignan
+fr-67,fr-6ae,Bas-Rhin,département,Strasbourg
+fr-68,fr-6ae,Haut-Rhin,département,Colmar
+fr-69,fr-ara,Rhône,département,Lyon
+fr-70,fr-bfc,Haute-Saône,département,Vesoul
+fr-71,fr-bfc,Saône-et-Loire,département,Mâcon
+fr-72,fr-pdl,Sarthe,département,Le Mans
+fr-73,fr-ara,Savoie,département,Chambéry
+fr-74,fr-ara,Haute-Savoie,département,Annecy
+fr-75c,fr-idf,Paris,collectivité métropolitaine,Paris
+fr-76,fr-nor,Seine-Maritime,département,Rouen
+fr-77,fr-idf,Seine-et-Marne,département,Melun
+fr-78,fr-idf,Yvelines,département,Versailles
+fr-79,fr-naq,Deux-Sèvres,département,Niort
+fr-80,fr-hdf,Somme,département,Amiens
+fr-81,fr-occ,Tarn,département,Albi
+fr-82,fr-occ,Tarn-et-Garonne,département,Montauban
+fr-83,fr-pac,Var,département,Toulon
+fr-84,fr-pac,Vaucluse,département,Avignon
+fr-85,fr-pdl,Vendée,département,La Roche-sur-Yon
+fr-86,fr-naq,Vienne,département,Poitiers
+fr-87,fr-naq,Haute-Vienne,département,Limoges
+fr-88,fr-ges,Vosges,département,Épinal
+fr-89,fr-bfc,Yonne,département,Auxerre
+fr-90,fr-bfc,Territoire de Belfort,département,Belfort
+fr-91,fr-idf,Essonne,département,Évry
+fr-92,fr-idf,Hauts-de-Seine,département,Nanterre
+fr-93,fr-idf,Seine-Saint-Denis,département,Bobigny
+fr-94,fr-idf,Val-de-Marne,département,Créteil
+fr-95,fr-idf,Val-d'Oise,département,Pontoise
+fr-971,fr,Guadeloupe,collectivité départementale d'outre-mer,
+fr-973,fr,Guyane,collectivité territoriale unique d'outre-mer,Cayenne
+fr-974,fr,La Réunion,collectivité départementale d'outre-mer,
+fr-972,fr,Martinique,collectivité territoriale unique d'outre-mer,
+fr-976,fr,Mayotte,collectivité départementale d'outre-mer,
+fr-69M,fr-ara,Métropole de Lyon,collectivité métropolitaine,Lyon
+fr-nc,fr,Nouvelle-Calédonie,collectivité d’outre-mer à statut particulier,Nouméa
+fr-pf,fr,Polynésie française,collectivité d'outre-mer,
+fr-bl,fr,Saint-Barthélemy,collectivité d'outre-mer,
+fr-mf,fr,Saint-Martin,collectivité d'outre-mer,
+fr-pm,fr,Saint-Pierre-et-Miquelon,collectivité d'outre-mer,
+fr-tf,fr,Terres australes françaises,territoire d'outre-mer,
+fr-wf,fr,Wallis-et-Futuna,collectivité d'outre-mer,

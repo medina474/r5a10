@@ -1,0 +1,59 @@
+code,parent,intitule,nom,capitale
+us,021,États-Unis d'Amérique,pays,Washington
+us-ak,us,Alaska,state,Juneau
+us-al,us,Alabama,state,Montgomery
+us-ar,us,Arkansas,state,Little Rock
+us-az,us,Arizona,state,Phoenix
+us-ca,us,California,state,Sacramento
+us-co,us,Colorado,state,Denver
+us-ct,us,Connecticut,state,Hartford
+us-dc,us,District of Columbia,district,Washington
+us-de,us,Delaware,state,Dover
+us-fl,us,Florida,state,Tallahassee
+us-ga,us,Georgia,state,Atlanta
+us-hi,us,Hawaii,state,Honolulu
+us-ia,us,Iowa,state,Des Moines
+us-id,us,Idaho,state,Boise
+us-il,us,Illinois,state,Springfield
+us-in,us,Indiana,state,Indianapolis
+us-ks,us,Kansas,state,Topeka
+us-ky,us,Kentucky,state,Frankfort
+us-la,us,Louisiana,state,Baton Rouge
+us-ma,us,Massachusetts,state,Boston
+us-md,us,Maryland,state,Annapolis
+us-me,us,Maine,state,Augusta
+us-mi,us,Michigan,state,Lansing
+us-mn,us,Minnesota,state,Saint Paul
+us-mo,us,Missouri,state,Jefferson City
+us-ms,us,Mississippi,state,Jackson
+us-mt,us,Montana,state,Helena
+us-nc,us,North Carolina,state,Raleigh
+us-nd,us,North Dakota,state,Bismarck
+us-ne,us,Nebraska,state,Lincoln
+us-nh,us,New Hampshire,state,Concord
+us-nj,us,New Jersey,state,Trenton
+us-nm,us,New Mexico,state,Santa Fe
+us-nv,us,Nevada,state,Carson City
+us-ny,us,New York,state,Albany
+us-oh,us,Ohio,state,Columbus
+us-ok,us,Oklahoma,state,Oklahoma City
+us-or,us,Oregon,state,Salem
+us-pa,us,Pennsylvania,state,Harrisburg
+us-ri,us,Rhode Island,state,Providence
+us-sc,us,South Carolina,state,Columbia
+us-sd,us,South Dakota,state,Pierre
+us-tn,us,Tennessee,state,Nashville
+us-tx,us,Texas,state,Austin
+us-ut,us,Utah,state,Salt Lake City
+us-va,us,Virginia,state,Richmond
+us-vt,us,Vermont,state,Montpelier
+us-wa,us,Washington,state,Olympia
+us-wi,us,Wisconsin,state,Madison
+us-wv,us,West Virginia,state,Charleston
+us-wy,us,Wyoming,state,Cheyenne
+us-gu,us,Guam,territory,
+us-as,us,American Samoa,territory,
+us-mp,us,Northern Mariana Islands,territory,
+us-pr,us,Puerto Rico,territory,
+us-um,us,S. Minor Outlying Islands,territory,
+us-vi,us,Virgin Islands of the U.S.,territory,

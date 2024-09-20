@@ -1,0 +1,28 @@
+code,parent,intitule,nom,capitale
+ch,155,Suisse,pays,Berne
+ch-ag,ch,Aargau,canton,Aarau
+ch-ai,ch,Appenzell Innerhoden,canton,Appenzell
+ch-ar,ch,Appenzell Ausserrhoden,canton,Herisau
+ch-be,ch,Bern,canton,Bern
+ch-bl,ch,Basel-Landschaft,canton,Liestal
+ch-bs,ch,Basel-Stadt,canton,Basel
+ch-fr,ch,Fribourg,canton,Fribourg
+ch-ge,ch,Geneva,canton,Geneva
+ch-gl,ch,Glarus,canton,Glarus
+ch-gr,ch,Graubunden,canton,Chur
+ch-ju,ch,Jura,canton,Delémont
+ch-lu,ch,Lucerne,canton,Lucerne
+ch-ne,ch,Neuchâtel,canton,Neuchâtel
+ch-nw,ch,Nidwalden,canton,Stans
+ch-ow,ch,Obwalden,canton,Sarnen
+ch-sg,ch,Sankt Gallen,canton,Sankt Gallen
+ch-sh,ch,Schaffhausen,canton,Schaffhausen
+ch-so,ch,Solothurn,canton,Solothurn
+ch-sz,ch,Schwyz,canton,Schwyz
+ch-tg,ch,Thurgau,canton,Frauenfeld
+ch-ti,ch,Ticino,canton,Bellinzona
+ch-ur,ch,Uri,canton,Altdorf
+ch-vd,ch,Vaud,canton,Lausanne
+ch-vs,ch,Valais,canton,Sion
+ch-zg,ch,Zug,canton,Zug
+ch-zh,ch,Zürich,canton,Zürich

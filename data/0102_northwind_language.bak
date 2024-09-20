@@ -1,0 +1,541 @@
+AFG,Dari,1,32.1
+AGO,Ambo,0,2.4
+AGO,Chokwe,0,4.2
+AGO,Kongo,0,13.2
+AGO,Luchazi,0,2.4
+AGO,Luimbe-nganguela,0,5.4
+AGO,Luvale,0,3.6
+AGO,Mbundu,0,21.6
+AGO,Nyaneka-nkhumbi,0,5.4
+AGO,Ovimbundu,0,37.2
+ARG,Indian Languages,0,0.3
+ASM,Samoan,1,90.6
+ASM,Tongan,0,3.1
+ATG,Creole English,0,95.7
+AUS,Canton Chinese,0,1.1
+AZE,Lezgian,0,2.3
+BEN,Adja,0,11.1
+BEN,Aizo,0,8.7
+BEN,Bariba,0,8.7
+BEN,Fon,0,39.8
+
+BEN,Joruba,0,12.2
+BEN,Somba,0,6.7
+BFA,Busansi,0,3.5
+BFA,Dagara,0,3.1
+BFA,Dyula,0,2.6
+
+BFA,Gurma,0,5.7
+BFA,Mossi,0,50.2
+BGD,Chakma,0,0.4
+BGD,Garo,0,0.1
+BGD,Khasi,0,0.1
+BGD,Marma,0,0.2
+BGD,Santhali,0,0.1
+BGD,Tripuri,0,0.1
+BHS,Creole English,0,89.7
+BHS,Creole French,0,10.3
+BLZ,Garifuna,0,6.8
+BLZ,Maya Languages,0,9.6
+
+BOL,Guaraní,0,0.1
+BOL,Ketšua,1,8.1
+BRA,Indian Languages,0,0.2
+BRB,Bajan,0,95.1
+BRN,Malay-English,0,28.8
+BTN,Asami,0,15.2
+BTN,Dzongkha,1,50.0
+
+BWA,Khoekhoe,0,2.5
+BWA,Ndebele,0,1.3
+BWA,San,0,3.5
+BWA,Shona,0,12.3
+BWA,Tswana,0,75.5
+CAF,Banda,0,23.5
+CAF,Gbaya,0,23.8
+CAF,Mandjia,0,14.8
+CAF,Mbum,0,6.4
+CAF,Ngbaka,0,7.5
+CAF,Sara,0,6.4
+CAN,Eskimo Languages,0,0.1
+
+CHL,Araucan,0,9.6
+CHL,Rapa nui,0,0.2
+CHN,Dong,0,0.2
+CHN,Hui,0,0.8
+CHN,Mantšu,0,0.9
+CHN,Miao,0,0.7
+CHN,Puyi,0,0.2
+CHN,Tibetan,0,0.4
+CHN,Tujia,0,0.5
+CHN,Uighur,0,0.6
+CHN,Yi,0,0.6
+CHN,Zhuang,0,1.4
+CIV,[South]Mande,0,7.7
+CIV,Akan,0,30.0
+CIV,Gur,0,11.7
+CIV,Kru,0,10.5
+CIV,Malinke,0,11.4
+CMR,Bamileke-bamum,0,18.6
+CMR,Duala,0,10.9
+CMR,Fang,0,19.7
+
+CMR,Maka,0,4.9
+CMR,Mandara,0,5.7
+CMR,Masana,0,3.9
+CMR,Tikar,0,7.4
+COD,Boa,0,2.3
+COD,Chokwe,0,1.8
+COD,Kongo,0,16.0
+COD,Luba,0,18.0
+COD,Mongo,0,13.5
+COD,Ngala and Bangi,0,5.8
+COD,Rundi,0,3.8
+COD,Rwanda,0,10.3
+COD,Teke,0,2.7
+COD,Zande,0,6.1
+COG,Kongo,0,51.5
+COG,Mbete,0,4.8
+COG,Mboshi,0,11.4
+COG,Punu,0,2.9
+COG,Sango,0,2.6
+COG,Teke,0,17.3
+COK,Maori,1,0.0
+COL,Arawakan,0,0.1
+COL,Caribbean,0,0.1
+COL,Chibcha,0,0.4
+COL,Creole English,0,0.1
+COM,Comorian-Arabic,0,1.6
+COM,Comorian-French,0,12.9
+COM,Comorian-madagassi,0,5.5
+COM,Comorian-Swahili,0,0.5
+COM,Comorian,1,75.0
+CPV,Crioulo,0,100.0
+CRI,Chibcha,0,0.3
+CRI,Creole English,0,2.0
+CZE,Moravian,0,12.9
+CZE,Silesiana,0,0.4
+DEU,Southern Slavic Languages,0,1.4
+DJI,Afar,0,34.8
+DMA,Creole English,0,100.0
+DMA,Creole French,0,0.0
+DOM,Creole French,0,2.0
+ECU,Ketšua,0,7.0
+EGY,Sinaberberi,0,0.0
+ERI,Afar,0,4.3
+ERI,Bilin,0,3.0
+ERI,Hadareb,0,3.8
+ERI,Saho,0,3.0
+ERI,Tigre,0,31.7
+
+ETH,Amhara,0,30.0
+ETH,Gurage,0,4.7
+ETH,Oromo,0,31.0
+ETH,Sidamo,0,3.2
+
+ETH,Walaita,0,2.8
+FJI,Fijian,1,50.8
+
+FSM,Kosrean,0,7.3
+FSM,Mortlock,0,7.6
+FSM,Pohnpei,0,23.8
+FSM,Trukese,0,41.6
+FSM,Wolea,0,3.7
+FSM,Yap,0,5.8
+GAB,Fang,0,35.8
+GAB,Mbete,0,13.8
+GAB,Mpongwe,0,14.6
+GAB,Punu-sira-nzebi,0,17.1
+GBR,Gaeli,0,0.1
+GBR,Kymri,0,0.9
+GEO,Abhyasi,0,1.7
+GEO,Osseetti,0,2.4
+GHA,Akan,0,52.4
+GHA,Ewe,0,11.9
+GHA,Ga-adangme,0,7.8
+GHA,Gurma,0,3.3
+GHA,Joruba,0,1.3
+GHA,Mossi,0,15.8
+
+GIN,Kissi,0,6.0
+GIN,Kpelle,0,4.6
+GIN,Loma,0,2.3
+GIN,Malinke,0,23.2
+GIN,Susu,0,11.0
+GIN,Yalunka,0,2.9
+GLP,Creole French,0,95.0
+GMB,Diola,0,9.2
+
+GMB,Malinke,0,34.1
+GMB,Soninke,0,7.6
+GNB,Balante,0,14.6
+GNB,Crioulo,0,36.4
+
+GNB,Malinke,0,6.9
+GNB,Mandyako,0,4.9
+GNQ,Bubi,0,8.7
+GNQ,Fang,0,84.8
+GRD,Creole English,0,100.0
+
+GTM,Cakchiquel,0,8.9
+GTM,Kekchí,0,4.9
+GTM,Mam,0,2.7
+GTM,Quiché,0,10.1
+GUF,Creole French,0,94.3
+GUF,Indian Languages,0,1.9
+GUM,Chamorro,1,29.6
+GUM,Philippene Languages,0,19.7
+GUY,Arawakan,0,1.4
+GUY,Caribbean,0,2.2
+GUY,Creole English,0,96.4
+HKG,Canton Chinese,0,88.7
+HKG,Chiu chau,0,1.4
+HKG,Fukien,0,1.9
+HKG,Hakka,0,1.6
+HND,Creole English,0,0.2
+HND,Garifuna,0,1.3
+HND,Miskito,0,0.2
+HTI,Haiti Creole,0,100.0
+IDN,Bali,0,1.7
+IDN,Banja,0,1.8
+IDN,Batakki,0,2.2
+IDN,Bugi,0,2.2
+IDN,Javanese,0,39.4
+IDN,Madura,0,4.3
+IDN,Minangkabau,0,2.4
+IDN,Sunda,0,15.8
+IND,Asami,0,1.5
+IND,Kannada,0,3.9
+IND,Malajalam,0,3.6
+IND,Marathi,0,7.4
+IND,Orija,0,3.3
+IRN,Bakhtyari,0,1.7
+IRN,Gilaki,0,5.3
+IRN,Luri,0,4.3
+IRN,Mazandarani,0,3.6
+IRQ,Assyrian,0,0.8
+JAM,Creole English,0,94.2
+JOR,Circassian,0,1.0
+JPN,Philippene Languages,0,0.1
+KEN,Gusii,0,6.1
+KEN,Kalenjin,0,10.8
+KEN,Kamba,0,11.2
+KEN,Kikuyu,0,20.9
+KEN,Luhya,0,13.8
+KEN,Luo,0,12.8
+KEN,Masai,0,1.6
+KEN,Meru,0,5.5
+KEN,Nyika,0,4.8
+KEN,Turkana,0,1.4
+KHM,Tšam,0,2.4
+KIR,tvl,0,0.5
+KNA,Creole English,0,100.0
+LAO,Lao-Soung,0,5.2
+LAO,Mon-khmer,0,16.5
+LBR,Bassa,0,13.7
+LBR,Gio,0,7.9
+LBR,Grebo,0,8.9
+LBR,Kpelle,0,19.5
+LBR,Kru,0,7.2
+LBR,Loma,0,5.8
+LBR,Malinke,0,5.1
+LBR,Mano,0,7.2
+LCA,Creole French,0,80.0
+LKA,Mixed Languages,0,19.6
+LSO,Sotho,1,85.0
+MAC,Canton Chinese,0,85.6
+MAC,Mandarin Chinese,0,1.2
+MCO,Monegasque,0,16.1
+MDA,Gagauzi,0,3.2
+
+MEX,Mixtec,0,0.6
+MEX,Zapotec,0,0.6
+MHL,Marshallese,1,96.8
+MLI,Bambara,0,31.8
+
+MLI,Senufo and Minianka,0,12.0
+MLI,Songhai,0,6.9
+MLI,Soninke,0,8.7
+MLI,Tamashek,0,7.3
+MMR,Chin,0,2.2
+MMR,Kachin,0,1.4
+MMR,Karen,0,6.2
+MMR,Kayah,0,0.4
+MMR,Mon,0,2.4
+MMR,Rakhine,0,4.5
+MMR,Shan,0,8.5
+MNG,Bajad,0,1.9
+MNG,Buryat,0,1.7
+MNG,Dariganga,0,1.4
+MNG,Dorbet,0,2.7
+MNP,Carolinian,0,4.8
+MNP,Chamorro,0,30.0
+MNP,Philippene Languages,0,34.1
+MOZ,Chuabo,0,5.7
+MOZ,Lomwe,0,7.8
+MOZ,Makua,0,27.8
+MOZ,Marendje,0,3.5
+MOZ,Nyanja,0,3.3
+MOZ,Ronga,0,3.7
+MOZ,Sena,0,9.4
+MOZ,Shona,0,6.5
+MOZ,Tsonga,0,12.4
+MOZ,Tswa,0,6.0
+
+MRT,Hassaniya,0,81.7
+MRT,Soninke,0,2.7
+MRT,Tukulor,0,5.4
+MRT,Zenaga,0,1.2
+MTQ,Creole French,0,96.6
+MUS,Bhojpuri,0,21.1
+MUS,Creole French,0,70.6
+MUS,Marathi,0,0.7
+MWI,Chichewa,1,58.3
+MWI,Lomwe,0,18.4
+MWI,Ngoni,0,6.7
+MWI,Yao,0,13.2
+MYS,Dusun,0,1.1
+MYS,Iban,0,2.8
+MYT,Mahoré,0,41.9
+NAM,Caprivi,0,4.7
+NAM,Herero,0,8.0
+NAM,Kavango,0,9.7
+NAM,Nama,0,12.4
+NAM,Ovambo,0,50.7
+NAM,San,0,1.9
+NCL,Malenasian Languages,0,45.4
+NCL,Polynesian Languages,0,11.6
+
+NER,Hausa,0,53.1
+NER,Kanuri,0,4.4
+NER,Songhai-zerma,0,21.2
+NER,Tamashek,0,10.4
+NGA,Bura,0,1.6
+NGA,Edo,0,3.3
+
+NGA,Hausa,0,21.1
+NGA,Ibibio,0,5.6
+NGA,Ibo,0,18.1
+NGA,Ijo,0,1.8
+NGA,Joruba,0,21.4
+NGA,Kanuri,0,4.1
+NGA,Tiv,0,2.3
+NIC,Creole English,0,0.5
+NIC,Miskito,0,1.6
+NIC,Sumo,0,0.2
+NIU,Niue,0,0.0
+NLD,Fries,0,3.7
+NPL,Bhojpuri,0,7.5
+NPL,Newari,0,3.7
+NPL,Tamang,0,4.9
+NPL,Tharu,0,5.4
+NZL,Maori,0,4.3
+PAK,Brahui,0,1.2
+PAK,Hindko,0,2.4
+PAK,Saraiki,0,9.8
+PAK,Sindhi,0,11.8
+PAN,Creole English,0,14.0
+PAN,Cuna,0,2.0
+PAN,Embera,0,0.6
+PAN,Guaymí,0,5.3
+PCN,Pitcairnese,0,0.0
+
+PER,Ketšua,1,16.4
+PHL,Bicol,0,5.7
+PHL,Cebuano,0,23.3
+PHL,Hiligaynon,0,9.1
+PHL,Ilocano,0,9.3
+PHL,Maguindanao,0,1.4
+PHL,Maranao,0,1.3
+PHL,Pampango,0,3.0
+PHL,Pangasinan,0,1.8
+PHL,Waray-waray,0,3.8
+PLW,Palau,1,82.2
+PLW,Philippene Languages,0,9.2
+PNG,Malenasian Languages,0,20.0
+PNG,Papuan Languages,0,78.1
+PRY,Guaraní,1,40.1
+PYF,Tahitian,0,46.4
+REU,Comorian,0,2.8
+RUS,Avarian,0,0.4
+RUS,Bashkir,0,0.7
+RUS,Chechen,0,0.6
+RUS,Chuvash,0,0.9
+RUS,Mari,0,0.4
+RUS,Mordva,0,0.5
+RUS,Udmur,0,0.3
+SDN,Bari,0,2.5
+SDN,Beja,0,6.4
+SDN,Chilluk,0,1.7
+SDN,Dinka,0,11.5
+SDN,Fur,0,2.1
+SDN,Lotuko,0,1.5
+SDN,Nubian Languages,0,8.1
+SDN,Nuer,0,4.9
+SDN,Zande,0,2.7
+SEN,Diola,0,5.0
+
+SEN,Malinke,0,3.8
+SEN,Serer,0,12.5
+SEN,Soninke,0,1.3
+SLB,Malenasian Languages,0,85.6
+SLB,Papuan Languages,0,8.6
+SLB,Polynesian Languages,0,3.8
+SLE,Bullom-sherbro,0,3.8
+
+SLE,Kono-vai,0,5.1
+SLE,Kuranko,0,3.4
+SLE,Limba,0,8.3
+SLE,Mende,0,34.8
+SLE,Temne,0,31.8
+SLE,Yalunka,0,3.4
+SLV,Nahua,0,0.0
+STP,Crioulo,0,86.3
+SVK,Czech and Moravian,0,1.1
+SVK,Ukrainian and Russian,0,0.6
+SWE,Southern Slavic Languages,0,1.3
+SWZ,Swazi,1,89.9
+SYC,Seselwa,0,91.3
+TCD,Gorane,0,6.2
+TCD,Hadjarai,0,6.7
+TCD,Kanem-bornu,0,9.0
+TCD,Mayo-kebbi,0,11.5
+TCD,Ouaddai,0,8.7
+TCD,Sara,0,27.7
+TCD,Tandjile,0,6.5
+TGO,Ane,0,5.7
+TGO,Ewe,1,23.2
+TGO,Gurma,0,3.4
+TGO,Kabyé,1,13.8
+TGO,Kotokoli,0,5.7
+TGO,Moba,0,5.4
+TGO,Naudemba,0,4.1
+TGO,Watyi,0,10.3
+THA,Kuy,0,1.1
+TKL,Tokelau,0,0.0
+TMP,Sunda,0,0.0
+TON,Tongan,1,98.3
+TTO,Creole English,0,2.9
+TUN,Arabic-French-English,0,3.2
+TUN,Arabic-French,0,26.3
+
+
+TWN,Ami,0,0.6
+TWN,Atayal,0,0.4
+TWN,Hakka,0,11.0
+TWN,Mandarin Chinese,1,20.1
+TWN,Min,0,66.7
+TWN,Paiwan,0,0.3
+TZA,Chaga and Pare,0,4.9
+TZA,Gogo,0,3.9
+TZA,Ha,0,3.5
+TZA,Haya,0,5.9
+TZA,Hehet,0,6.9
+TZA,Luguru,0,4.9
+TZA,Makonde,0,5.9
+TZA,Nyakusa,0,5.4
+TZA,Nyamwesi,0,21.1
+TZA,Shambala,0,4.3
+UGA,Acholi,0,4.4
+UGA,Ganda,0,18.1
+UGA,Gisu,0,4.5
+UGA,Kiga,0,8.3
+UGA,Lango,0,5.9
+UGA,Lugbara,0,4.7
+UGA,Nkole,0,10.7
+UGA,Rwanda,0,3.2
+UGA,Soga,0,8.2
+UGA,Teso,0,6.0
+USA,Tagalog,0,0.4
+UZB,Karakalpak,0,2.0
+VCT,Creole English,0,99.1
+VEN,Goajiro,0,0.4
+VEN,Warrau,0,0.1
+VNM,Man,0,0.7
+VNM,Miao,0,0.9
+VNM,Muong,0,1.5
+VNM,Nung,0,1.1
+VNM,Tho,0,1.8
+VUT,Bislama,1,56.6
+WLF,Futuna,0,0.0
+WLF,Wallis,0,0.0
+WSM,Samoan-English,0,52.0
+WSM,Samoan,1,47.5
+YEM,Soqutri,0,0.0
+ZAF,Ndebele,0,1.5
+ZAF,Northsotho,0,9.1
+ZAF,Southsotho,0,7.6
+ZAF,Swazi,0,2.5
+ZAF,Tsonga,0,4.3
+ZAF,Tswana,0,8.1
+ZAF,Venda,0,2.2
+ZMB,Bemba,0,29.7
+ZMB,Chewa,0,5.7
+ZMB,Lozi,0,6.4
+ZMB,Nsenga,0,4.3
+ZMB,Nyanja,0,7.8
+ZMB,Tonga,0,11.0
+ZWE,Ndebele,0,16.2
+ZWE,Nyanja,0,2.2
+ZWE,Shona,0,72.1
+
+ABW,eng,0,9.5
+ABW,nld,1,5.3
+ABW,pap,0,76.7
+ABW,spa,0,7.4
+CXR,eng,1,0.0
+CXR,zho,0,0.0
+CCK,eng,1,0.0
+CCK,msa,0,0.0
+MYT,fra,1,20.3
+MYT,mlg,0,16.1
+REU,mlg,0,1.4
+REU,rcf,0,91.5
+REU,tam,0,0.0
+REU,zho,0,2.8
+YUG,hbs,1,75.2
+YUG,hun,0,3.4
+YUG,mkd,0,0.5
+YUG,rom,0,1.4
+YUG,slk,0,0.7
+YUG,sqi,0,16.5
+VGB,eng,1,0.0
+VIR,eng,1,81.7
+VIR,fra,0,2.5
+VIR,spa,0,13.3
+MTQ,fra,1,0.0
+ESH,arb,1,100.0
+BMU,eng,1,100.0
+FRO,dan,1,0.0
+FRO,fao,1,100.0
+FLK,eng,1,0.0
+GIB,arb,0,7.4
+GIB,eng,1,88.9
+SJM,nob,1,0.0
+SJM,rus,0,0.0
+SPM,fra,1,0.0
+TCA,eng,1,0.0
+TKL,eng,1,0.0
+TMP,por,1,0.0
+AIA,eng,1,0.0
+ANT,eng,0,7.8
+ANT,nld,1,0.0
+ANT,pap,1,86.2
+ASM,eng,1,3.1
+CYM,eng,1,0.0
+GUM,eng,1,37.5
+GUM,jpn,0,2.0
+GUM,kor,0,3.3
+GLP,fra,1,0.0
+MAC,eng,0,0.5
+MAC,por,1,2.3
+MNP,zho,0,7.1
+MSR,eng,1,0.0
+NCL,fra,1,34.3
+NFK,eng,1,0.0
+PYF,fra,1,40.8
+PYF,zho,0,2.9
+UMI,eng,1,0.0
+MNP,eng,1,4.8
+MNP,kor,0,6.5
+SHN,eng,1,0.0

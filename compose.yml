@@ -124,7 +124,7 @@ services:
       - 5678:5678
     environment:
       GENERIC_TIMEZONE: Europe/Paris
-      TZ: Europe/Paris 
+      TZ: Europe/Paris
       N8N_DEFAULT_LOCALE: fr
       SMTP_HOST: mailpit
       SMTP_PORT: 1025
@@ -137,7 +137,7 @@ services:
       DB_POSTGRESDB_PORT: ${DB_POSTGRESDB_PORT:-5432}
       DB_POSTGRESDB_USER: ${DB_POSTGRESDB_USER:-n8n}
       DB_POSTGRESDB_SCHEMA: ${DB_POSTGRESDB_SCHEMA:-public}
-      DB_POSTGRESDB_PASSWORD: ${DB_PASSWORD} 
+      DB_POSTGRESDB_PASSWORD: ${DB_PASSWORD}
 
 # Directus
 # The backend to build anything or everything.
@@ -227,6 +227,8 @@ services:
     depends_on:
       postgresql:
         condition: service_healthy
+    ports:
+      - 3002:3000
     environment:
       PGRST_DB_URI: postgres://${POSTGREST_USER:-postgrest}:${DB_PASSWORD}@${POSTGREST_HOST:-postgresql}:${POSTGREST_DB_PORT:-5432}/${POSTGREST_DB:-postgrest}
       PGRST_DB_SCHEMAS: ${POSTGREST_DB_SCHEMAS:-public}
@@ -259,6 +261,8 @@ services:
         "--append-plugins",
         "postgraphile-plugin-connection-filter,postgraphile-plugin-fulltext-filter,@graphile/postgis,postgraphile-plugin-connection-filter-postgis"
       ]
+    ports:
+      - 5000:5000
     environment:
       - PGHOST=${POSTGRAPHILE_HOST:-postgresql}
       - PGPORT=${POSTGRAPHILE_DB_PORT:-5432}

@@ -7,8 +7,8 @@
 			"problemMatcher": [],
 			"dockerCompose": {
 				"up": {
-					"detached": true,
 					"build": true,
+					"detached": true,
 				},
 			},
 			"group": {

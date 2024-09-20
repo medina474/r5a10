@@ -4,7 +4,7 @@ datasources:
   - name: MySQL
     type: mysql
     url: mariadb:3306
-    user: root
+    user: grafana
     jsonData:
       database: northwind
       maxOpenConns: 100 # Grafana v5.4+
@@ -12,4 +12,4 @@ datasources:
       maxIdleConnsAuto: true # Grafana v9.5.1+
       connMaxLifetime: 14400 # Grafana v5.4+
     secureJsonData:
-      password: ${DB_ROOT_PASSWORD}
+      password: ${DB_PASSWORD}

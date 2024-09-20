@@ -30,20 +30,20 @@ start transaction;
 
 -- pays
 
-create or replace table pays 
+create or replace table pays
 (
-  `code-2` character(2) not null,
-  `code-3` character(3) not null,
-  `code-num` character(3) not null,
+  code2 character(2) not null,
+  code3 character(3) not null,
+  code_num character(3) not null,
   pays character varying(40) not null,
   nom_eng character varying(40),
   nom_spa character varying(40),
-  `drapeau-unicode` character(2)
+  drapeau_unicode character(2)
 );
 
 -- regions
 
-create or replace table regions 
+create or replace table regions
 (
   region_code character varying(6) comment 'UN Standard country or area codes for statistical use (M49)',
   region_parent character varying(6),
@@ -54,12 +54,12 @@ create or replace table regions
 
 create or replace table langues
 (
-  `code-3` char(3) not null,
+  code3 char(3) not null,
   langue character varying(20) default null,
   francais character varying(20) default null
 ) comment = 'ISO 639-3';
 
-create or replace table pays_langues 
+create or replace table pays_langues
 (
   pays_code char(2) not null,
   langue_code char(3) not null,
@@ -69,7 +69,7 @@ create or replace table pays_langues
 
 -- devises
 
-create or replace table devises 
+create or replace table devises
 (
   devise_code character(3) not null,
   num4217 integer default null,
@@ -81,7 +81,7 @@ create or replace table devises
   minors character varying(20) default null
 );
 
-create or replace table pays_devises 
+create or replace table pays_devises
 (
   pays_code character(2) not null,
   devise_code character(3) not null,
@@ -103,14 +103,14 @@ create or replace table banques
 
 
 create or replace table categories
-(      
+(
   category_id integer PRIMARY KEY AUTO_INCREMENT,
   CategoryName character varying(25),
   Description character varying(255)
 );
 
 create or replace table customers
-(      
+(
   CustomerID integer,
   CustomerName character varying(100),
   ContactName character varying(50),
@@ -206,14 +206,14 @@ create or replace table order_details
 );
 
 
-create or replace table territories 
+create or replace table territories
 (
   territory_id character varying(10) not null,
   territory_description character varying(60) not null,
   region_code character varying(6) not null
 );
 
-create or replace table employee_territories 
+create or replace table employee_territories
 (
   employee_id integer not null,
   territory_id character varying(20) not null

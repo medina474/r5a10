@@ -1,4 +1,4 @@
-\c northwind;
+\c northwind
 
 drop table if exists pays;
 drop table if exists regions;
@@ -14,11 +14,20 @@ create table if not exists pays
   code2 character(2) not null,
   code3 character(3) not null,
   code_num character(3) not null,
-  pays character varying(40) not null,
-  nom_eng character varying(40),
-  nom_spa character varying(40),
+  pays text not null,
+  nom_eng text,
+  nom_spa text,
   drapeau_unicode character(2)
 );
+
+comment on column pays.code2
+  is 'iso 3166-1 alpha 2';
+
+comment on column pays.code3
+ is 'iso 3166-1 alpha 3';
+
+comment on column pays.code_num
+ is 'iso 3166-1 numeric';
 
 -- regions
 

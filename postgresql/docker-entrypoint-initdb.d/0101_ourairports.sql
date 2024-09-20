@@ -1,6 +1,6 @@
-\c northwind;
+\c northwind
 
-create table if not exists aeroports_tmp (
+create temporary table aeroports_tmp (
   AirportID integer,
   name text,
   City text,
@@ -13,7 +13,7 @@ create table if not exists aeroports_tmp (
   Timezone text,
   DST text,
   TZ text,
-  Type text, 
+  Type text,
   Source text
 );
 
@@ -35,17 +35,18 @@ update aeroports_tmp set Country = 'United Republic of Tanzania' WHERE Country =
 
 -- Supprimer les enregistrements sans code IATA
 update aeroports_tmp set IATA = null WHERE IATA = '\N';
-\copy (select * from aeroports_tmp where IATA is null) to './0100-aviation/0100-aeroports-iata-null.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8'); 
+\copy (select * from aeroports_tmp where IATA is null) to '/data/aviation/0100-aeroports-iata-null.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 delete from aeroports_tmp where IATA is null;
 
+-- Copier les données dans la table
 insert into aeroports (aeroport_code_icao, aeroport_code_iata, nom, ville, pays, altitude, tz, coordonnees)
-  select ICAO, IATA, name, City, pays.code_2, altitude, TZ, extensions.st_makepoint(longitude, latitude)
-  from aeroports_tmp 
+  select ICAO, IATA, name, City, pays.code2, altitude, TZ, extensions.st_makepoint(longitude, latitude)
+  from aeroports_tmp
   left join pays on (pays.nom_eng = aeroports_tmp.Country)
   where IATA is not null
   order by AirportID;
 
-create unique index aeroports_aeroport_code_iata_idx 
+create unique index aeroports_aeroport_code_iata_idx
   on aeroports (aeroport_code_iata);
 
 drop table aeroports_tmp;

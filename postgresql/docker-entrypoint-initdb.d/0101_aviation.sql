@@ -1,3 +1,5 @@
+\c northwind
+
 -- ICAO Organisation de l'aviation civile internationale
 -- IATA Association du transport aérien international
 
@@ -5,7 +7,7 @@ create table if not exists aeroports (
   aeroport_code_icao text,
   aeroport_code_iata text,
   nom text,
-  ville text, 
+  ville text,
   pays text,
   altitude int,
   tz text,
@@ -29,12 +31,12 @@ create table operateurs (
 );
 
 alter table aeroports
-  add constraint aeroports_pkey 
+  add constraint aeroports_pkey
   primary key (aeroport_code_icao);
 
 alter table operateurs
-  add constraint operateurs_pkey 
+  add constraint operateurs_pkey
   primary key (operateur_code_iata);
 
-create unique index operateurs_operateur_code_icao_idx 
+create unique index operateurs_operateur_code_icao_idx
   on operateurs (operateur_code_icao);

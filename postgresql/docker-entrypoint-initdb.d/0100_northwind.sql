@@ -52,6 +52,8 @@ create table if not exists regions
   capitale character varying(30)
 );
 
+ COMMENT ON TABLE regions IS E'@name newRegions';
+
 create table if not exists langues
 (
   code3 char(3) not null,
@@ -92,7 +94,7 @@ create table if not exists pays_devises
 CREATE TABLE categories (
   category_id smallint NOT NULL,
   category_name character varying(15) NOT NULL,
-  description text,
+  description text
 );
 
 CREATE TABLE customers (
@@ -134,6 +136,20 @@ CREATE TABLE employee_territories (
   employee_id smallint NOT NULL,
   territory_id character varying(20) NOT NULL
 );
+
+CREATE TABLE products (
+    product_id smallint NOT NULL,
+    product_name character varying(40) NOT NULL,
+    supplier_id smallint,
+    category_id smallint,
+    quantity_per_unit character varying(20),
+    unit_price real,
+    units_in_stock smallint,
+    units_on_order smallint,
+    reorder_level smallint,
+    discontinued integer NOT NULL
+);
+
 
 CREATE TABLE order_details (
   order_id smallint NOT NULL,

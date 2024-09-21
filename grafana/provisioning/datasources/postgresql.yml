@@ -4,9 +4,9 @@ datasources:
   - name: Northwind
     type: postgres
     url: postgresql:5432
-    user: grafana
+    user: postgres
     secureJsonData:
-      password: ${DB_PASSWORD}
+      password: ${DB_ROOT_PASSWORD}
     jsonData:
       database: northwind
       sslmode: 'disable' # disable/require/verify-ca/verify-full

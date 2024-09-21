@@ -267,7 +267,7 @@ services:
 # redocly
 
   redocly:
-    container_name: redocly
+    container_name: r5a10-redocly
     image: redocly/redoc
     depends_on:
       - postgrest
@@ -316,7 +316,7 @@ services:
 # https://couchdb.apache.org/
 
   couchdb:
-    container_name: couchdb-r5a10
+    container_name: r5a10-couchdb
     image: couchdb:${COUCH_DB_VERSION:-3.3}
     environment:
       COUCHDB_PASSWORD: ${DB_ROOT_PASSWORD}
@@ -328,7 +328,7 @@ services:
 
 # MongoDB
   mongodb:
-    container_name: mongodb-r5a10
+    container_name: r5a10-mongodb
     image: mongo:${MONGODB_VERSION:-7.0.7-jammy}
     volumes:
       - ./data/configdb:/data/configdb

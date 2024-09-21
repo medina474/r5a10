@@ -1,3 +1,5 @@
+\c northwind
+
 alter table if exists pays
   add primary key (code2);
 
@@ -18,8 +20,8 @@ alter table if exists pays_langues
   not valid;
 
 alter table if exists pays_langues
-  add constraint fk_pays_langues_langues foreign key (pays_code)
-  references langues (langue_code) match simple
+  add constraint fk_pays_langues_langues foreign key (langue_code)
+  references langues (code3) match simple
   on update no action
   on delete no action
   not valid;

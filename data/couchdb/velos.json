@@ -1,0 +1,1298 @@
+{
+  "docs":
+[
+  {
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2697531",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 172-182 cm",
+    "L / 180-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu BMC Fourstroke LT Two Shimano SLX 12V 29'' Bleu Dark Petrol Beige Sand 2024",
+  "marque": "BMC",
+  "description": "Le BMC Fourstroke LT est un vélo XC dédié aux cyclistes voulant encore plus de performance. Roulez sur vos trails à grande vitesse grâce aux 120 mm de débattement progressif fournis par la suspension dual-link APS améliorée. Il n’y a simplement pas de limite à ce que vous et le Fourstroke LT pouvez réaliser. Le cadre entièrement en carbone est construit selon la géométrie BWC la plus progressive. Il peut désormais accueillir deux porte-bidons et est doté d’une butée de fourche intégrée ainsi que de différents éléments de protection du cadre.\r\n\r\nLe BMC Fourstroke LT Two vous fera jouer avec le trail en toute confiance, équipé d’une transmission Shimano SLX 1x12 vitesses, d’une fourche RockShox SID Select 3P, d’un amortisseur RockShox SIDLuxe Select+ 3P, de roues Alexrims MD30 d’une largeur intérieure de 30 mm et d’une tige de selle télescopique X-Fusion Manic.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/531/697531/2697531/5437681",
+  "mpn": "30005397",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 162-172 cm",
+      "stock": 1,
+      "prix": 3599.99,
+      "mpn": "30005396",
+      "sku": "2583601",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2816952-vtt_tout_suspendu_bmc_fourstroke_lt_two_shimano_slx_12v_29___bleu_dark_petrol_beige_sand_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 172-182 cm",
+      "stock": 1,
+      "prix": 3599.99,
+      "mpn": "30005397",
+      "sku": "2583624",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2816952-vtt_tout_suspendu_bmc_fourstroke_lt_two_shimano_slx_12v_29___bleu_dark_petrol_beige_sand_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-188 cm",
+      "stock": 1,
+      "prix": 3599.99,
+      "mpn": "30005398",
+      "sku": "2583611",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2816952-vtt_tout_suspendu_bmc_fourstroke_lt_two_shimano_slx_12v_29___bleu_dark_petrol_beige_sand_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Sparkling Dark Petrol / Sand"
+    }
+  ],
+  "informations": {
+    "poids maximum": "110 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Fourstroke LT Carbon, APS Suspension System, 120 mm Travel, Fully Guided Internal Cable Routing, PF92 Bottom Bracket, Post Mount Disc, 12x148 mm Boost Thru-Axle, Tire clearance: 62 mm (Measured Width)",
+      "fourche": "RockShox SID Select 3P, 120 mm travel",
+      "amortisseur": "RockShox SIDLuxe Select+ 3P"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX SL-M7100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX RD-M7100, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore CN-M6100",
+      "pédalier": "Shimano Deore FC-M6100-1, 32 Dents",
+      "boîtier de pédalier": "PF92"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT520, Hydr. Disc Brake, Shimano SM-RT30 Rotors (180/180)",
+      "selle": "Fizik Antares R5",
+      "tige de selle": "X-Fusion Manic, Dropper post"
+    },
+    "roues": {
+      "jantes": "Jantes : Alex MD30, 30 mm Inner Width / Moyeux : DC-711 (Avant) / DC-3248 (Arrière)",
+      "pneus": "Maxxis Rekon, TR, EXO, 61-622, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "BMC MRB03, 760 mm width, 15 mm rise, 9° backsweep",
+      "potence": "Truvativ Atmos 6K, 6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 84,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1140,
+      "stack (mm)": 584,
+      "reach (mm)": 437,
+      "longueur de la potence (mm)": 40,
+      "longueur des manivelles (mm)": 165
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 93.5,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1172,
+      "stack (mm)": 592,
+      "reach (mm)": 457,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 623,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 101,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1189,
+      "stack (mm)": 600,
+      "reach (mm)": 477,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 651,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1219,
+      "stack (mm)": 615,
+      "reach (mm)": 500,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2697539",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 172-182 cm",
+    "L / 180-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu BMC Fourstroke LT One Sram GX Eagle 12V 29'' Bordeaux Noir 2024",
+  "marque": "BMC",
+  "description": "Le BMC Fourstroke LT est un vélo XC dédié aux cyclistes voulant encore plus de performance. Roulez sur vos trails à grande vitesse grâce aux 120 mm de débattement progressif fournis par la suspension dual-link APS améliorée. Il n’y a simplement pas de limite à ce que vous et le Fourstroke LT pouvez réaliser. Le cadre entièrement en carbone est construit selon la géométrie BWC la plus progressive. Il peut désormais accueillir deux porte-bidons et est doté d’une butée de fourche intégrée ainsi que de différents éléments de protection du cadre.\r\n\r\nMaitrisez les trails avec aisance à bord du BMC Fourstroke LT One, doté d’une transmission Sram GX Eagle 1x12, d’une fourche suspendue RockShox SID Select+ couplée à un amortisseur RockShox SIDLuxe Select+, de roues DT Swiss M 1900 et d’une tige de selle télescopique BikeYoke Divine.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/539/697539/2697539/5437743",
+  "mpn": "30005394",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 172-182 cm",
+      "stock": 1,
+      "prix": 4999,
+      "mpn": "30005393",
+      "sku": "2478214",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2816953-vtt_tout_suspendu_bmc_fourstroke_lt_one_sram_gx_eagle_12v_29___bordeaux_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-188 cm",
+      "stock": 1,
+      "prix": 4999,
+      "mpn": "30005394",
+      "sku": "2478213",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2816953-vtt_tout_suspendu_bmc_fourstroke_lt_one_sram_gx_eagle_12v_29___bordeaux_noir_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Bordeaux Red / Black"
+    }
+  ],
+  "informations": {
+    "poids maximum": "110 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Fourstroke LT Carbon, APS Suspension System, 120 mm Travel, Fully Guided Internal Cable Routing, PF92 Bottom Bracket, Post Mount Disc, 12x148 mm Boost Thru-Axle, Tire clearance: 62 mm (Measured Width)",
+      "fourche": "RockShox SID Select+, 120 mm",
+      "amortisseur": "RockShox SIDLuxe Select+"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12-vitesses",
+      "cassette": "Sram XG-1275 Eagle, 10-52 Dents",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Sram Stylo 7K, 32 Dents",
+      "boîtier de pédalier": "PF92"
+    },
+    "équipements": {
+      "freins": "Sram G2 RS, Hydr. Disc Brake, Sram Centerline Rotors (180/180)",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "BikeYoke Divine, Dropper post"
+    },
+    "roues": {
+      "jantes": "Jantes : DT Swiss M 1900 Wheelset, 30 mm Inner Width / Moyeux : DT Swiss 370, Ratchet LN18",
+      "pneus": "Maxxis Rekon, TR, EXO, 61-622, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "BMC MRB03, 760 mm width, 15 mm rise, 9° backsweep",
+      "potence": "Truvativ Atmos 7K, 6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 84,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1140,
+      "stack (mm)": 584,
+      "reach (mm)": 437,
+      "longueur de la potence (mm)": 40,
+      "longueur des manivelles (mm)": 165
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 93.5,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1172,
+      "stack (mm)": 592,
+      "reach (mm)": 457,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 623,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 101,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1189,
+      "stack (mm)": 600,
+      "reach (mm)": 477,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 651,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1219,
+      "stack (mm)": 615,
+      "reach (mm)": 500,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2724607",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 162-175 cm",
+    "L / 172-182 cm"
+  ],
+  "name": "VTT Tout Suspendu Cannondale Scalpel 4 Carbone 29'' Shimano Deore 12V Noir",
+  "marque": "Cannondale",
+  "description": "Le vélo de cross-country ultime. Suspension révolutionnaire, géométrie agressive et poids plume sont les éléments qui le caractérisent le Scalpel. Il accroche là où les autres glissent. Attaquez là où les autres ne peuvent pas. Dominez là où les autres hésitent. Bienvenue dans le futur.\r\n\r\nUne suspension qui rime avec vitesse. La suspension la plus avancée jamais réalisée pour le XC. Alors que d’autres fabricants sacrifie la performance pour réduire le poids, notre suspension brevetée FlexPivot offre les deux avantages.  D’une légèreté incroyable, elle offre un surcroît décisif d’adhérence, d’accélération et de contrôle, qui vous permettent de rouler pratiquement partout. Plus rapide. Plus de plaisir.\r\n\r\nDes degrés qui font la différence La géométrie progressive du Scalpel a encore évolué : angle de tube de direction plus ouvert de 1,5°, angle du tube de selle redressé de 1°. Le résultat est un cadre XC plus agressif, plus rapide, plus excitant et plus stable en toute situation, de la Coupe du monde à votre circuit local.\r\n\r\nRigide. Léger. Rapide. Pesant à peine plus de 1 900 grammes, complet avec amortisseur, le cadre du Scalpel est l’un des cadres VTT tout-suspendus les plus légers jamais fabriqués.  Suspension incroyable, maniabilité irréprochable, et poids plume : c’est la recette de la victoire.  ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/607/724607/2724607/5488057",
+  "mpn": "C24504U10LG",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-175 cm",
+      "stock": 2,
+      "prix": 4299,
+      "mpn": "C24504U10MD",
+      "sku": "2645127",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2849042-vtt_tout_suspendu_cannondale_scalpel_4_carbone_29___shimano_deore_12v_noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 3,
+      "prix": 4299,
+      "mpn": "C24504U10LG",
+      "sku": "2644998",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2849042-vtt_tout_suspendu_cannondale_scalpel_4_carbone_29___shimano_deore_12v_noir"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 280,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1114,
+      "reach (mm)": 425,
+      "stack (mm)": 597,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1169,
+      "reach (mm)": 450,
+      "stack (mm)": 597,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1202,
+      "reach (mm)": 475,
+      "stack (mm)": 607,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 669,
+      "longueur base (mm)": 446,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1245,
+      "reach (mm)": 510,
+      "stack (mm)": 616,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2724785",
+  "tailles": [
+    "L / 172-182 cm"
+  ],
+  "name": "VTT Tout Suspendu Cannondale Scalpel 2 Carbone 29'' Sram GX AXS 12V Bleu",
+  "marque": "Cannondale",
+  "description": "Le vélo de cross-country ultime. Suspension révolutionnaire, géométrie agressive et poids plume sont les éléments qui le caractérise le Scalpel. Il accroche là où les autres glissent. Attaquez là où les autres ne peuvent pas. Dominez là où les autres hésitent. Bienvenue dans le futur.\r\n\r\nUne suspension qui rime avec vitesse  La suspension la plus avancée jamais réalisée pour le XC. Alors que d’autres fabricants sacrifie la performance pour réduire le poids, notre suspension brevetée FlexPivot offre les deux avantages.  D’une légèreté incroyable, elle offre un surcroît décisif d’adhérence, d’accélération et de contrôle, qui vous permettent de rouler pratiquement partout. Plus rapide. Plus de plaisir.\r\n\r\nDes degrés qui font la différence La géométrie progressive de Scalpel a encore évolué : angle de tube de direction plus ouvert de 1,5°, angle du tube de selle redressé de 1°. Le résultat est un cadre XC plus agressif, plus rapide, plus excitant et plus stable en toute situation, de la Coupe du monde à votre circuit local.\r\n\r\nRigide. Léger. Rapide. Pesant à peine plus de 1 900 grammes, complet avec  amortisseur, le cadre du Scalpel est l’un des cadres VTT tout-suspendus les plus légers jamais fabriqués.  Suspension incroyable, maniabilité irréprochable, et  poids plume : c’est la recette de la victoire.  \r\n\r\nLa meilleure fourche XC La Lefty est tout simplement la fourche ultralégère la plus avancée, la plus confortable et la plus précise jamais réalisée. Sa conception unique vous permet de flotter sur les terrains accidentés et de foncer dans la caillasse, comme  aucune autre.  ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/785/724785/2724785/5491061",
+  "mpn": "C24354U20LG",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 1,
+      "prix": 7499,
+      "mpn": "C24354U20LG",
+      "sku": "2645027",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2849780-vtt_tout_suspendu_cannondale_scalpel_2_carbone_29___sram_gx_axs_12v_bleu"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": "66,6",
+      "angle tube de selle (°)": "75,5",
+      "empattement (mm)": 1146,
+      "reach (mm)": 1146,
+      "stack (mm)": 1146,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": "66,6",
+      "angle tube de selle (°)": "75,5",
+      "empattement (mm)": 1175,
+      "reach (mm)": 1175,
+      "stack (mm)": 1175,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": "66,6",
+      "angle tube de selle (°)": "75,5",
+      "empattement (mm)": 1208,
+      "reach (mm)": 1208,
+      "stack (mm)": 1208,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 669,
+      "longueur base (mm)": 446,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": "66,6",
+      "angle tube de selle (°)": "75,5",
+      "empattement (mm)": 1251,
+      "reach (mm)": 1251,
+      "stack (mm)": 1251,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+},
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2742440",
+  "tailles": [
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "name": "VTT Tout Suspendu Cannondale Scalpel 4 Carbone 29'' Shimano Deore 12V Jaune",
+  "marque": "Cannondale",
+  "description": "Le vélo de cross-country ultime. Suspension révolutionnaire, géométrie agressive et poids plume sont les éléments qui le caractérisent le Scalpel. Il accroche là où les autres glissent. Attaquez là où les autres ne peuvent pas. Dominez là où les autres hésitent. Bienvenue dans le futur.\r\n\r\nUne suspension qui rime avec vitesse. La suspension la plus avancée jamais réalisée pour le XC. Alors que d’autres fabricants sacrifie la performance pour réduire le poids, notre suspension brevetée FlexPivot offre les deux avantages.  D’une légèreté incroyable, elle offre un surcroît décisif d’adhérence, d’accélération et de contrôle, qui vous permettent de rouler pratiquement partout. Plus rapide. Plus de plaisir.\r\n\r\nDes degrés qui font la différence La géométrie progressive du Scalpel a encore évolué : angle de tube de direction plus ouvert de 1,5°, angle du tube de selle redressé de 1°. Le résultat est un cadre XC plus agressif, plus rapide, plus excitant et plus stable en toute situation, de la Coupe du monde à votre circuit local.\r\n\r\nRigide. Léger. Rapide. Pesant à peine plus de 1 900 grammes, complet avec amortisseur, le cadre du Scalpel est l’un des cadres VTT tout-suspendus les plus légers jamais fabriqués.  Suspension incroyable, maniabilité irréprochable, et poids plume : c’est la recette de la victoire.  ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/440/742440/2742440/5516908",
+  "mpn": "C24504U20XL",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 2,
+      "prix": 4299,
+      "mpn": "C24504U20LG",
+      "sku": "2645320",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2867267-vtt_tout_suspendu_cannondale_scalpel_4_carbone_29___shimano_deore_12v_jaune"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-195 cm",
+      "stock": 1,
+      "prix": 4299,
+      "mpn": "C24504U20XL",
+      "sku": "2645286",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2867267-vtt_tout_suspendu_cannondale_scalpel_4_carbone_29___shimano_deore_12v_jaune"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 280,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1114,
+      "reach (mm)": 425,
+      "stack (mm)": 597,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1169,
+      "reach (mm)": 450,
+      "stack (mm)": 597,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1202,
+      "reach (mm)": 475,
+      "stack (mm)": 607,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 669,
+      "longueur base (mm)": 446,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1245,
+      "reach (mm)": 510,
+      "stack (mm)": 616,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+},{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2511481",
+  "tailles": [
+    "M / 161-175 cm",
+    "L / 174-188 cm",
+    "XL / 186-196 cm"
+  ],
+  "name": "VTT DH Tout-Suspendu Trek Session 8 Sram GX DH 7V 29'' Noir 2023",
+  "marque": "Trek",
+  "description": "Le Session 8 est un VTT de descente avec un cadre en alliage d’aluminium robuste et une suspension à pivot élevé pour préserver votre agilité, votre équilibre et votre vitesse sur les segments les plus difficiles.\r\n\r\nLe parc de descente est pratiquement votre deuxième résidence. Vous êtes à la recherche d’un vélo de descente rapide, avec une excellente accroche, qui sera à la hauteur de vos sessions les plus extrêmes grâce à un nouveau design de la suspension qui vous permet de maîtriser le vélo tout au long de la descente.\r\n\r\nUn cadre robuste en alliage d’aluminium, un débattement de 200 mm à l’arrière avec un amortisseur Marzocchi Bomber, une fourche RockShox Boxxer Select à 200 mm de débattement avec un amortisseur Charger RC rembourré, de puissants freins à quatre pistons Code R 4 et une transmission Sram GX 7 vitesses.\r\n\r\nLe Session a toujours été le vélo de descente par excellence. Avec le nouveau design de suspension qui offre plus d’accroche et de vitesse en éliminant pratiquement la rétroaction des pédales.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/481/511481/2511481/4936845",
+  "mpn": "5279085",
+  "gtin13": "601479113606",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-175 cm",
+      "stock": 21,
+      "prix": 5999,
+      "mpn": "5279084",
+      "sku": "2366156",
+      "gtin13": "601479113644",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2579694-vtt_dh_tout_suspendu_trek_session_8_sram_gx_dh_7v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 174-188 cm",
+      "stock": 3,
+      "prix": 5999,
+      "mpn": "5279085",
+      "sku": "2365132",
+      "gtin13": "601479113606",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2579694-vtt_dh_tout_suspendu_trek_session_8_sram_gx_dh_7v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 186-196 cm",
+      "stock": 3,
+      "prix": 5999,
+      "mpn": "5279086",
+      "sku": "2357630",
+      "gtin13": "601479113521",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2579694-vtt_dh_tout_suspendu_trek_session_8_sram_gx_dh_7v_29___noir_2023"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX DH 7V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre ": "M / R1",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 425,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 117,
+      "angle de direction (°)": 63.6,
+      "angle tube de selle (°)": 61.6,
+      "empattement (mm)": 1243,
+      "stack (mm)": 634,
+      "reach (mm)": 447
+    },
+    {
+      "taille cadre ": "L / R2",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 425,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 441,
+      "douille de direction (mm)": 117,
+      "angle de direction (°)": 63.6,
+      "angle tube de selle (°)": 61.6,
+      "empattement (mm)": 1274,
+      "stack (mm)": 634,
+      "reach (mm)": 472
+    },
+    {
+      "taille cadre ": "XL / R3",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 425,
+      "tube supérieur (mm)": 652,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 117,
+      "angle de direction (°)": 63.6,
+      "angle tube de selle (°)": 61.6,
+      "empattement (mm)": 1309,
+      "stack (mm)": 634,
+      "reach (mm)": 499
+    }
+  ]
+},{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "1900169",
+  "tailles": [
+    "S / 153-166.5 cm",
+    "M / 161-172 cm",
+    "M-L / 165.5-179 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm",
+    "XXL / 196-203 cm"
+  ],
+  "name": "VTT Tout Suspendu Trek Fuel EX 5 Shimano Deore M6100 12V 29'' Gris Lithium / Orange 2023",
+  "marque": "Trek",
+  "description": "Le Fuel EX 5 est un vélo de trail tout suspendu prêt à tout gérer. La suspension de 140 mm à l’avant et de 130 mm à l’arrière qui permet de dompter le trail, une transmission Shimano 1X12, une tige de selle télescopique pour améliorer la position d’attaque dans les descentes et des freins à disque hydrauliques Shimano font du Fuel EX 5 un VTT d’un excellent rapport qualité/prix, ultra performant et d’une polyvalence exceptionnelle.\r\n\r\nVous êtes prêt à passer au tout suspendu et vous recherchez un vélo de trail polyvalent à un excellent rapport qualité/prix. Vous voulez un vélo sûr de lui, performant et réactif si bien que vous ne perdrez jamais le contrôle de la situation, où que vous rouliez.\r\n\r\nUn cadre en aluminium robuste avec une butée de douille de direction Knock Block pour protéger contre la rotation excessive du cintre. Une fourche RockShox Recon Silver de 140 mm, 130 mm de débattement à l’arrière avec un amortisseur X-Fusion Pro 2, une transmission résistante 12 vitesses Shimano Deore, une tige de selle télescopique et des freins à disque hydrauliques.\r\n\r\nVous bénéficiez des performances d’un vélo tout suspendu sans le coup de massue du prix. Le Fuel EX 5 dispose de la même technologie de cadre éprouvée que les cyclistes adorent depuis des années, et de pièces choisies afin de maintenir un prix abordable sans compromis sur la performance.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/169/900169/1900169/4656358",
+  "mpn": "1045231",
+  "gtin13": "601842380338",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XXL / 196-203 cm",
+      "stock": 14,
+      "prix": 2299,
+      "mpn": "1045231",
+      "sku": "1684389",
+      "gtin13": "601842380338",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1752484-vtt_tout_suspendu_trek_fuel_ex_5_shimano_deore_m6100_12v_29___gris_lithium___orange_2023"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre ": "XS",
+      "dimension roues (pouce)": 27.5,
+      "tube de selle (mm)": 355,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1119,
+      "stack (mm)": 559,
+      "reach (mm)": 400
+    },
+    {
+      "taille cadre ": "S",
+      "dimension roues (pouce)": 27.5,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 69.5,
+      "empattement (mm)": 1143,
+      "stack (mm)": 568,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre ": "S",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 577,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1153,
+      "stack (mm)": 605,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre ": "M",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 602,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1178,
+      "stack (mm)": 605,
+      "reach (mm)": 445
+    },
+    {
+      "taille cadre ": "M/L",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1195,
+      "stack (mm)": 609,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre ": "L",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 633,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": "75°",
+      "empattement (mm)": 1210,
+      "stack (mm)": 609,
+      "reach (mm)": 495
+    },
+    {
+      "taille cadre ": "XL",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 662,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1241,
+      "stack (mm)": 623,
+      "reach (mm)": 500
+    },
+    {
+      "taille cadre ": "XXL",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 687,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1269,
+      "stack (mm)": 641,
+      "reach (mm)": 520
+    }
+  ]
+},{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2335634",
+  "tailles": [
+    "M / 161-172 cm",
+    "M-L / 165.5-179 cm",
+    "L / 177-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Trek Top Fuel 8 Shimano XT 12V 29'' Bleu Mulsanne 2022",
+  "marque": "Trek",
+  "description": "Le Top Fuel 8 fusionne la vitesse d’un vélo cross-country et les capacités d’un vélo de trail tout suspendu qui vous pardonneront vos erreurs. Rapide, agile et très ludique sur les trails avec flow ou dans les descentes techniques.\r\n\r\nUn cadre aluminium léger avec stockage interne, une fourche RockShox SID de 120 mm de débattement avec ressort moelleux DebonAir, 115 mm de débattement à l’arrière avec un amortisseur FOX Performance Float et une transmission Shimano XT. Avec en plus des freins à 4 pistons pour des descentes maîtrisées, des roues Bontrager Line Comp 30 complètement Tubeless Ready (produit d’étanchéité inclus) et une tige de selle télescopique Bontrager Line Dropper.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/634/335634/2335634/4341873",
+  "mpn": "5259812",
+  "gtin13": "601842579763",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-172 cm",
+      "stock": 5,
+      "prix": 3199.99,
+      "mpn": "5259812",
+      "sku": "2171722",
+      "gtin13": "601842579763",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2358407-vtt_tout_suspendu_trek_top_fuel_8_shimano_xt_12v_29___bleu_mulsanne_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 165.5-179 cm",
+      "stock": 6,
+      "prix": 3199.99,
+      "mpn": "5259813",
+      "sku": "2171577",
+      "gtin13": "601842579756",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2358407-vtt_tout_suspendu_trek_top_fuel_8_shimano_xt_12v_29___bleu_mulsanne_2022"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Mulsanne Blue"
+    }
+  ],
+  "informations": {
+    "poids": "14.26 kg (en taille M, avec produit d’étanchéité TLR, sans chambres à air)",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Platinum, espace de rangement interne, douille de direction conique, Knock Block 2.0, acheminement interne guidé, protection du tube diagonal, basculeur en magnésium, Mino Link, ABP, Boost148, débattement de 120 mm",
+      "fourche": "RockShox SID, ressort DebonAir, amortisseur Rush RL, blocage, pivot conique, déport de 44 mm, Boost110, Maxle Stealth 15 mm, débattement de 120 mm",
+      "amortisseur": "RockShox Deluxe Ultimate RCT, 185 x 50 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT M8100, 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, galets longs, 12 vitesses",
+      "cassette": "Shimano SLX M7100, 10-51 Dents, 12 vitesses",
+      "chaîne": "Shimano SLX M7100, 12 vitesses",
+      "pédalier": "Taille: S, M, M/L, L Shimano Deore M6120, plateau 30 dts, ligne de chaine de 55 mm, longueur de 170 mm Taille: XL, XXL Shimano Deore M6120, plateau 30 dts, ligne de chaine de 55 mm, longueur de 175 mm",
+      "boîtier de pédalier": "Shimano BB-MT501 BSA"
+    },
+    "équipements": {
+      "freins": "Sram DB 8 4-piston, hydraulic disc CenterLine, 6 trous, bord arrondi, (160/180 mm)",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille S :  TranzX JD-YSP39, débattement de 100 mm, acheminement interne, 34,9 mm Taille M, M/L : TranzX JD-YSP39, débattement de 150 mm, acheminement interne, 34,9 mm Taille L, XL, XXL : TranzX JD-YSP39, débattement de 170 mm, acheminement interne, 34,9 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve presta",
+      "moyeu avant": "age Bontrager, roulement étanche, axe alliage, 6 trous, Boost110, axe traversant 15 mm ",
+      "moyeu arrière": "ntrager, roulement étanche, 6 trous, Rapid Drive 108, corps de roue libre Shimano MicroSpline, Boost148, axe traversant 12 mm",
+      "pneus": "Bontrager XR4 Team Issue, Tubeless Ready, flancs Inner Strength, tringle en aramide, 120 tpi, 29x2,40 pouces"
+    },
+    "direction": {
+      "cintre": "Taille S : Bontrager Line, alliage, 35 mm, élévation 27,5 mm, largeur de 750 mm Taille M, M/L, L, XL, XXL : Bontrager Line, alliage, 35 mm, élévation 27,5 mm, largeur de 780 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Bontrager Elite, 35 mm, 0 degré, 45 mm de long"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1150,
+      "stack (mm)": 592,
+      "reach (mm)": 424
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1180,
+      "stack (mm)": 592,
+      "reach (mm)": 454
+    },
+    {
+      "taille cadre": "M/L",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1197,
+      "stack (mm)": 597,
+      "reach (mm)": 469
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 631,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1214,
+      "stack (mm)": 601,
+      "reach (mm)": 484
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 653,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1240,
+      "stack (mm)": 615,
+      "reach (mm)": 504
+    },
+    {
+      "taille cadre": "XXL",
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 675,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1265,
+      "stack (mm)": 624,
+      "reach (mm)": 524
+    }
+  ]
+},{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2207971",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 161-172 cm",
+    "M-L / 165.5-179 cm",
+    "L / 177-188 cm",
+    "XL / 186-196 cm",
+    "XXL / 195-203 cm"
+  ],
+  "name": "VTT Tout-Suspendu Trek Fuel EX 5 Shimano Deore 12V 29'' Noir 2023",
+  "marque": "Trek",
+  "description": "Le Fuel EX 5 est un vélo de trail tout suspendu prêt à tout gérer. La suspension à l’avant et à l’arrière qui permet de dompter les sentiers de trail, une transmission Shimano 1X12, une tige de selle télescopique pour améliorer la position d’attaque dans les descentes et des freins à disque hydrauliques Shimano font du Fuel EX 5 un VTT d’un excellent rapport qualité/prix, ultraperformant et d’une polyvalence exceptionnelle.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/971/207971/2207971/4056451",
+  "mpn": "5260698",
+  "gtin13": "601842586907",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-172 cm",
+      "stock": 10,
+      "prix": 2316.62,
+      "mpn": "5260694",
+      "sku": "2110533",
+      "gtin13": "601842586945",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2089727-vtt_tout_suspendu_trek_fuel_ex_5_shimano_deore_12v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XXL / 195-203 cm",
+      "stock": 2,
+      "prix": 2299.99,
+      "mpn": "5260698",
+      "sku": "2366419",
+      "gtin13": "601842586907",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2089727-vtt_tout_suspendu_trek_fuel_ex_5_shimano_deore_12v_29___noir_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Matte Dnister Black"
+    }
+  ],
+  "informations": {
+    "poids": "15.7 kg ",
+    "genre": "HommeFemme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Platinum, douille de direction conique, Knock Block, acheminement interne Control Freak, protection du tube diagonal, ISCG 05, basculeur en magnésium, Mino Link, ABP, Boost148, débattement de 130 mm ",
+      "fourche": "Size: XS  RockShox Recon Silver, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport de 46mm, Boost110, Maxle Stealth, débattement de 140 mm Size: S , M , ML , L , XL , XXL RockShox Recon Silver, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport de 42mm, Boost110, Maxle Stealth, débattement de 140 mm",
+      "amortisseur": "Size: XS  X-Fusion Pro 2, amortisseur à 2 positions, 210x52,5 mm Size: S , M , ML , L , XL , XXL X-Fusion Pro 2, amortisseur à 2 positions, 210x55 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, chape longue, 12 vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore M6100",
+      "pédalier": "Size: XS , S , M , ML , L Shimano MT511, plateau acier 30 dts, ligne de chaine de 52 mm, longueur de 170 mm Size: XL , XXL Shimano MT511, plateau acier 30 dts, ligne de chaine de 52 mm, longueur de 175 mm",
+      "boîtier de pédalier": "Shimano MT500, 92 mm, PressFit"
+    },
+    "équipements": {
+      "freins": "Shimano, disque hydraulique, levier MT201, étrier MT200, 180/180 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Size: XS , S TranzX JD-YSP18, débattement de 100 mm, acheminement interne, 31,6 mm, longueur de 361 mm Size: M , ML , L , XL , XXL TranzX JD-YSP18, débattement de 130 mm, acheminement interne, 31,6 mm, longueur de 425 mm"
+    },
+    "roues": {
+      "jantes": "Alex MD35, compatible tubeless, 32 trous, largeur 35 mm, valve presta",
+      "moyeux": "F : Bontrager, alliage, 6 trous, Boost110, axe traversant 15 mm R : Bontrager, alliage, roulement étanche, 6 trous, corps de roue libre Shimano MicroSpline, Boost148, axe traversant 12 mm",
+      "pneus": "Bontrager XR4 Comp, tringle rigide, 30 tpi, 29x2,6 pouces"
+    },
+    "direction": {
+      "cintre": "Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 750 mm",
+      "potence": "Bontrager Rhythm Comp, 31,8 mm, Knock Block, 0 degré, longueur de 50 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 577,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1153,
+      "stack (mm)": 605,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 602,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1178,
+      "stack (mm)": 605,
+      "reach (mm)": 445
+    },
+    {
+      "taille cadre": "M/L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1195,
+      "stack (mm)": 609,
+      "reach (mm)": 460
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 633,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1210,
+      "stack (mm)": 609,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 662,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1241,
+      "stack (mm)": 623,
+      "reach (mm)": 500
+    },
+    {
+      "taille cadre": "XXL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 687,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1269,
+      "stack (mm)": 641,
+      "reach (mm)": 520
+    }
+  ]
+},{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2504437",
+  "tailles": [
+    "M / 165-175 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Trek Fuel EX 9.7 Shimano SLX / XT 12V 29'' Rouge Gén 6",
+  "marque": "Trek",
+  "description": "Le Fuel EX 9.7 est une machine all-mountain qui offre la meilleure combinaison de performances et de composants économiques, sans sacrifier les bonnes choses. Il possède un cadre en carbone léger et une soigneuse sélection de composants Shimano SLX et XT pour l’équilibre entre budget et qualité du vélo, sans oublier le superbe confort d’une fourche FOX de 150 mm à l’avant et d’une suspension arrière de 140 mm.\r\n\r\nUn cadre complet en carbone léger et rigide avec une fourche Fox Rhythm 36 affichant un débattement de 150 mm avec ressort pneumatique Float EVOL et amortisseur GRIP pour les petites bosses et un amortisseur arrière Fox Performance Float X. Une combinaison parfaite de Shimano SLX et XT pour des changements de vitesse fiables et la durabilité sur le trail. Vous bénéficiez également d’une géométrie réglable et d’un espace de rangement dans le cadre afin de pouvoir personnaliser votre configuration.\r\n\r\nLe Fuel EX 9.7 est un trail bike destiné au pilote qui veut tout avoir. Son cadre en carbone léger est vif et rigide et il possède les composants parfaits dont l’ensemble de suspension Fox et une transmission Shimano XT et SLX. Cela donne un ensemble prêt à se lancer à fond.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/437/504437/2504437/4920524",
+  "mpn": "5272110",
+  "gtin13": "601842740088",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 6,
+      "prix": 4099.99,
+      "mpn": "5272109",
+      "sku": "2500153",
+      "gtin13": "601842740095",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2571719-vtt_tout_suspendu_trek_fuel_ex_9_7_shimano_slx___xt_12v_29___rouge_gen_6"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 41,
+      "prix": 4099.99,
+      "mpn": "5272110",
+      "sku": "2500171",
+      "gtin13": "601842740088",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2571719-vtt_tout_suspendu_trek_fuel_ex_9_7_shimano_slx___xt_12v_29___rouge_gen_6"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 10,
+      "prix": 3859.15,
+      "mpn": "5272111",
+      "sku": "2500152",
+      "gtin13": "601842740071",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2571719-vtt_tout_suspendu_trek_fuel_ex_9_7_shimano_slx___xt_12v_29___rouge_gen_6"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Crimson"
+    }
+  ],
+  "informations": {
+    "poids": "M - 14,76 kg (avec produit d’étanchéité TLR, sans chambres à air)",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : OCLV Mountain Carbon, espace de rangement interne, jeu de direction angle-adjust, géométrie variable via Mino Link, ratio de levier réglable, acheminement interne guidé, basculeur magnésium, tube de selle 34,9 mm, ISCG 05, ligne de chaîne 55 mm, BSA 73, protection de tube diagonal, ABP, UDH, Boost148, débattement de 140 mm",
+      "fourche": "Taille XS, S : Fox Rhythm 36, ressort pneumatique Float EVOL, amortisseur GRIP, pivot conique, déport de 44 mm, Boost110, axe Kabolt 15 mm, débattement de 140 mm Taille S, M, ML, L, XL : Fox Rhythm 36, ressort pneumatique Float EVOL, amortisseur GRIP, pivot conique, déport de 44 mm, Boost110, axe Kabolt 15 mm, débattement de 150 mm",
+      "amortisseur": "Fox Performance Float X, amortisseur à 2 positions, 185x55 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX M7100, 12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, chape longue",
+      "cassette": "Shimano SLX M7100, 10-51 dents, 12 vitesses",
+      "chaîne": "Shimano SLX M7100, 12 vitesses",
+      "pédalier": "Shimano Deore M6120, plateau 30 dts, ligne de chaine de 55 mm, longueur de 170 mm",
+      "boîtier de pédalier": "Shimano BB-MT501 BSA"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques à 4 pistons Sram DB 8, disques Sram CenterLine, 6 trous, bord arrondi, 200/180 mm",
+      "selle": "Bontrager Arvada, rails en chromoly creux, largeur de 138 mm",
+      "tige de selle": "Taille XS, S : TranzX JD-YSP39, débattement de 100 mm, acheminement interne, 34,9 mm Taille M, ML : TranzX JD-YSP39, débattement de 150 mm, acheminement interne, 34,9 mm Taille L, XL : TranzX JD-YSP39, débattement de 170 mm, acheminement interne, 34,9 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve Presta",
+      "pneus": "Taille XS, S : Bontrager XR5 Team Issue, Tubeless Ready, carcasse Inner Strength, tringle en aramide, 60 tpi, 27,5x2,50 pouces Taille S, M, ML, L, XL : Bontrager XR5 Team Issue, Tubeless Ready, tringle en aramide, 120 tpi, 29x2,5 pouces"
+    },
+    "cintre": "Taille XS, S : Bontrager Line, alliage, 35 mm, élévation 27,5 mm, largeur de 750 mm Taille M, ML, L, XL : Bontrager Line, alliage, 35 mm, élévation 27,5 mm, largeur de 780 mm",
+    "direction": {
+      "poignées": "Bontrager XR Trail Elite, nylon lock-on",
+      "potence": "Taille XS, S : Bontrager Elite, 35 mm, 0 degré, 35 mm de long Taille M, ML, L, XL : Bontrager Elite, 35 mm, 0 degré, 45 mm de long",
+      "jeu de direction": "Roulement à cartouches intégré, 1-1/8 po. haut, 1,5 po., bas, compatible avec verre à angle réglable"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 360,
+      "tube supérieur (mm)": 516,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1145,
+      "stack (mm)": 717,
+      "reach (mm)": 400
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 551,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1175,
+      "stack (mm)": 724,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 554,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1186,
+      "stack (mm)": 737,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1213,
+      "stack (mm)": 737,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "M/L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 607,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1233,
+      "stack (mm)": 742,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 627,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1250,
+      "stack (mm)": 748,
+      "reach (mm)": 485
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 662,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1287,
+      "stack (mm)": 767,
+      "reach (mm)": 515
+    }
+  ]
+}
+]
+}

@@ -1,5 +1,5 @@
 @baseUrl = http://127.0.0.1:3002/api
-
+@token=c3f71b8a-1596-4990-a595-9f64c08c6e2a
 ### Récupérer la valeur setup-token
 {{baseUrl}}/session/properties
 Content-Type: application/json
@@ -11,7 +11,7 @@ POST {{baseUrl}}/setup
 Content-Type: application/json
 
 {
-  "token":"dd12d334-7062-4b29-bf8d-9108f6779686",
+  "token":"{{token}}",
   "user": {
     "first_name":"Emmanuel",
     "last_name":"Medina",
@@ -31,11 +31,11 @@ Content-Type: application/json
 # X-Metabase-Session = id
 POST {{baseUrl}}/database
 Content-Type: application/json
-X-Metabase-Session: ce635e7a-4815-494b-aec4-345ea177ebd3
+X-Metabase-Session: 12507a99-bdee-4e3a-8897-66e7761c0951
 
 {
-  "engine":"mysql",
-  "name":"mariadb",
+  "engine":"postgres",
+  "name":"northwind",
   "is_on_demand":false,
   "is_full_sync":true,
   "is_sample":false,
@@ -44,10 +44,10 @@ X-Metabase-Session: ce635e7a-4815-494b-aec4-345ea177ebd3
   "auto_run_queries":true,
   "schedules":{},
   "details":{
-    "host":"mariadb",
+    "host":"postgresql",
     "port":null,
     "dbname":"northwind",
-    "user":"root",
+    "user":"postgres",
     "password":"supermotdepasse",
     "ssl":false,
     "tunnel-enabled":false,

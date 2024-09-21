@@ -15,6 +15,7 @@ volumes:
   grafana: {}
   mailpit: {}
   mariadb: {}
+  mongodb: {}
   n8n: {}
   pgadmin: {}
   postgresql: {}
@@ -307,13 +308,16 @@ services:
       - PGPASSWORD=${DB_PASSWORD}
       - PGDATABASE=${DB_NAME:-northwind}
 
+# Oriented Documents
+
 # CouchDB
-# Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
+# Seamless multi-master sync, that scales from Big Data to Mobile.
+# HTTP/JSON API.
 # https://couchdb.apache.org/
 
   couchdb:
+    container_name: couchdb-r5a10
     image: couchdb:${COUCH_DB_VERSION:-3.3}
-    container_name: couchdb
     environment:
       COUCHDB_PASSWORD: ${DB_ROOT_PASSWORD}
       COUCHDB_USER: ${COUCHDB_USER:-admin}
@@ -321,6 +325,19 @@ services:
       - couchdb:/opt/couchdb/data
     ports:
       - 3007:5984
+
+# MongoDB
+  mongodb:
+    container_name: mongodb-r5a10
+    image: mongo:${MONGODB_VERSION:-7.0.7-jammy}
+    volumes:
+      - ./data/configdb:/data/configdb
+      - mongodb:/data/db
+    ports:
+      - ${MONGODB_PORT:-27017}:27017
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME:-admin}
+      MONGO_INITDB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
 
 # Redis
 # In-memory key-value database

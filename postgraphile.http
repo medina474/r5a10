@@ -1,9 +1,11 @@
-OPTIONS  https://boilerplate.docker.org/postgraphile/graphql
+@baseUrl = http://127.0.0.1:3006
+
+OPTIONS  {{baseUrl}}/graphql
 Content-Type: application/json
 X-REQUEST-TYPE: GraphQL
 
 ###
-POST https://boilerplate.docker.org/postgraphile/graphql
+POST {{baseUrl}}/graphql
 Content-Type: application/graphql
 
 query MyQuery {

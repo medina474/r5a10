@@ -1,5 +1,7 @@
+@baseUrl = http://127.0.0.1:3005
+
 ### OpenAPI
-GET http://127.0.0.1:3005/
+GET {{baseUrl}}/
 
 ###
-GET http://127.0.0.1:3005/pays
+GET {{baseUrl}}/pays

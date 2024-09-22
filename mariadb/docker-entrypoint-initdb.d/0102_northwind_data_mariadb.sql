@@ -181,7 +181,7 @@ ignore into table devises columns terminated by ',' optionally enclosed by '"' i
 load data infile "/data/northwind_banques.csv"
 ignore into table banques columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind_shippers.csv"
+load data infile "/data/northwind/shippers.csv"
 ignore into table shippers columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
 load data infile "/data/northwind_marque.csv"

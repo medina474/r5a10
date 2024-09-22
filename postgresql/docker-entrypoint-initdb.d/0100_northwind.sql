@@ -92,14 +92,14 @@ create table if not exists pays_devises
 );
 
 CREATE TABLE categories (
-  category_id smallint NOT NULL,
-  category_name character varying(15) NOT NULL,
+  category_id smallint not null,
+  category_name text not null,
   description text
 );
 
 CREATE TABLE customers (
-  customer_id character varying(5) NOT NULL,
-  company_name character varying(40) NOT NULL,
+  customer_id character varying(5) not null,
+  company_name text not null,
   contact_name character varying(30),
   contact_title character varying(30),
   address character varying(60),
@@ -112,9 +112,9 @@ CREATE TABLE customers (
 );
 
 CREATE TABLE employees (
-    employee_id smallint NOT NULL,
-    last_name character varying(20) NOT NULL,
-    first_name character varying(10) NOT NULL,
+    employee_id smallint not null,
+    last_name character varying(20) not null,
+    first_name character varying(10) not null,
     title character varying(30),
     title_of_courtesy character varying(25),
     birth_date date,
@@ -129,17 +129,17 @@ CREATE TABLE employees (
     photo bytea,
     notes text,
     reports_to smallint,
-    photo_path character varying(255)
+    photo_path text
 );
 
 CREATE TABLE employee_territories (
-  employee_id smallint NOT NULL,
-  territory_id character varying(20) NOT NULL
+  employee_id smallint not null,
+  territory_id character varying(20) not null
 );
 
 CREATE TABLE products (
-    product_id smallint NOT NULL,
-    product_name character varying(40) NOT NULL,
+    product_id smallint not null,
+    product_name text not null,
     supplier_id smallint,
     category_id smallint,
     quantity_per_unit character varying(20),
@@ -147,21 +147,21 @@ CREATE TABLE products (
     units_in_stock smallint,
     units_on_order smallint,
     reorder_level smallint,
-    discontinued integer NOT NULL
+    discontinued integer not null
 );
 
 
 CREATE TABLE order_details (
-  order_id smallint NOT NULL,
-  product_id smallint NOT NULL,
-  unit_price real NOT NULL,
-  quantity smallint NOT NULL,
-  discount real NOT NULL
+  order_id smallint not null,
+  product_id smallint not null,
+  unit_price real not null,
+  quantity smallint not null,
+  discount real not null
 );
 
 
 CREATE TABLE orders (
-  order_id smallint NOT NULL,
+  order_id smallint not null,
   customer_id character varying(5),
   employee_id smallint,
   order_date date,
@@ -169,7 +169,7 @@ CREATE TABLE orders (
   shipped_date date,
   ship_via smallint,
   freight real,
-  ship_name character varying(40),
+  ship_name text,
   ship_address character varying(60),
   ship_city character varying(15),
   ship_region character varying(15),
@@ -178,20 +178,20 @@ CREATE TABLE orders (
 );
 
 CREATE TABLE region (
-    region_id smallint NOT NULL,
-    region_description character varying(60) NOT NULL
+    region_id smallint not null,
+    region_description character varying(60) not null
 );
 
 
 CREATE TABLE shippers (
-    shipper_id smallint NOT NULL,
-    company_name character varying(40) NOT NULL,
+    shipper_id smallint not null,
+    company_name text not null,
     phone character varying(24)
 );
 
 CREATE TABLE suppliers (
-    supplier_id smallint NOT NULL,
-    company_name character varying(40) NOT NULL,
+    supplier_id smallint not null,
+    company_name text not null,
     contact_name character varying(30),
     contact_title character varying(30),
     address character varying(60),
@@ -205,13 +205,13 @@ CREATE TABLE suppliers (
 );
 
 CREATE TABLE territories (
-    territory_id character varying(20) NOT NULL,
-    territory_description character varying(60) NOT NULL,
-    region_id smallint NOT NULL
+    territory_id character varying(20) not null,
+    territory_description character varying(60) not null,
+    region_id smallint not null
 );
 
 CREATE TABLE us_states (
-  state_id smallint NOT NULL,
+  state_id smallint not null,
   state_name character varying(100),
   state_abbr character varying(2),
   state_region character varying(50)

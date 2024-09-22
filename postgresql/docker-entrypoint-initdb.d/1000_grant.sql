@@ -14,3 +14,5 @@ grant clients_web to postgrest;
 
 create role postgraphile noinherit login password 'motdepasse';
 grant clients_web to postgraphile;
+
+select 'END' as msg;

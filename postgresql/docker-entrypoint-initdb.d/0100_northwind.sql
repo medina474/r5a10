@@ -1,11 +1,11 @@
 \c northwind
 
+drop table if exists pays_langues;
+drop table if exists pays_devises;
 drop table if exists pays;
 drop table if exists regions;
 drop table if exists langues;
-drop table if exists pays_langues;
 drop table if exists devises;
-drop table if exists pays_devises;
 
 drop table if exists order_details;
 drop table if exists orders;
@@ -52,7 +52,7 @@ create table if not exists regions
   capitale character varying(30)
 );
 
- COMMENT ON TABLE regions IS E'@name newRegions';
+COMMENT ON TABLE regions IS E'@name newRegions';
 
 create table if not exists langues
 (
@@ -211,8 +211,8 @@ CREATE TABLE territories (
 );
 
 CREATE TABLE us_states (
-    state_id smallint NOT NULL,
-    state_name character varying(100),
-    state_abbr character varying(2),
-    state_region character varying(50)
+  state_id smallint NOT NULL,
+  state_name character varying(100),
+  state_abbr character varying(2),
+  state_region character varying(50)
 );

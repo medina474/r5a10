@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for f in *.sql
+for f in ../postgresql/docker-entrypoint-initdb.d/*.sql
 do
   echo "================ $f"
   psql -h localhost -d postgres -U postgres -f $f

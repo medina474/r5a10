@@ -8,6 +8,7 @@ create role northwind with
   connection limit -1
   password 'motdepasse';
 
+drop database if exists northwind with (force);
 create database northwind;
 alter database northwind owner to northwind;
 grant connect on database northwind to northwind;

@@ -17,7 +17,7 @@ create temporary table aeroports_tmp (
   Source text
 );
 
-\copy aeroports_tmp from '/data/aviation/aeroports.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy aeroports_tmp from 'aviation/aeroports.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 -- Corriger les noms des pays
 update aeroports_tmp set Country = 'United States of America' WHERE Country = 'United States';

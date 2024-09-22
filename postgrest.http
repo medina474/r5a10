@@ -1,3 +1,4 @@
+@p={{$dotenv DB_ROOT_PASSWORD}}
 @baseUrl = http://127.0.0.1:3005
 
 ### OpenAPI
@@ -5,3 +6,9 @@ GET {{baseUrl}}/
 
 ###
 GET {{baseUrl}}/pays
+
+###
+https://echo.free.beeceptor.com
+Content-Type: application/json
+
+{ "test": "{{p}}" }

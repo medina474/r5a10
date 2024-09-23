@@ -3,6 +3,9 @@
 alter table if exists pays
   add primary key (code2);
 
+create index pays_nom
+  on pays using btree (pays asc nulls last);
+
 alter table if exists regions
   add primary key (region_code);
 
@@ -78,34 +81,14 @@ ALTER TABLE ONLY orders
 ALTER TABLE ONLY products
     ADD CONSTRAINT pk_products PRIMARY KEY (product_id);
 
-
---
--- Name: pk_region; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
---
-
-ALTER TABLE ONLY region
-    ADD CONSTRAINT pk_region PRIMARY KEY (region_id);
-
-
---
--- Name: pk_shippers; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
---
+ALTER TABLE ONLY zones
+    ADD CONSTRAINT pk_zones PRIMARY KEY (zone_id);
 
 ALTER TABLE ONLY shippers
     ADD CONSTRAINT pk_shippers PRIMARY KEY (shipper_id);
 
-
---
--- Name: pk_suppliers; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
---
-
 ALTER TABLE ONLY suppliers
     ADD CONSTRAINT pk_suppliers PRIMARY KEY (supplier_id);
-
-
---
--- Name: pk_territories; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
---
 
 ALTER TABLE ONLY territories
     ADD CONSTRAINT pk_territories PRIMARY KEY (territory_id);
@@ -180,7 +163,7 @@ ALTER TABLE ONLY products
 --
 
 ALTER TABLE ONLY territories
-    ADD CONSTRAINT fk_territories_region FOREIGN KEY (region_id) REFERENCES region;
+    ADD CONSTRAINT fk_territories_region FOREIGN KEY (zone_id) REFERENCES zones;
 
 
 --

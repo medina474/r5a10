@@ -1,4 +1,5 @@
 code,parent,intitule,nom,capitale
+au,053,Australie,pays,Canberra
 au-act,au,Australian Capital Territory,territory,Canberra
 au-nsw,au,New South Wales,state,Sydney
 au-nt,au,Northern Territory,territory,Darwin
@@ -7,3 +8,6 @@ au-sa,au,South Australia,state,Adelaide
 au-tas,au,Tasmania,state,Hobart
 au-vic,au,Victoria,state,Melbourne
 au-wa,au,Western Australia,state,Perth
+cx,053,Île Christmas,territoire extérieur,Flying Fish Cove
+nf,053,Île Norfolk,territoire extérieur,Kingston
+cc,053,Îles des Cocos (Keeling),territoire extérieur,West Island

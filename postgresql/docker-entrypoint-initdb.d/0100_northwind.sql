@@ -1,23 +1,6 @@
 \c northwind
 
-drop table if exists pays_langues;
-drop table if exists pays_devises;
-drop table if exists pays;
-drop table if exists regions;
-drop table if exists langues;
-drop table if exists devises;
-
-drop table if exists order_details;
-drop table if exists orders;
-drop table if exists customers;
-drop table if exists products;
-drop table if exists shippers;
-drop table if exists suppliers;
-drop table if exists territories;
-drop table if exists us_states;
-drop table if exists categories;
-drop table if exists region;
-drop table if exists employees;
+start transaction;
 
 -- pays
 
@@ -27,6 +10,7 @@ create table if not exists pays
   code3 character(3) not null,
   code_num character(3) not null,
   pays text not null,
+  forme_longue text,
   nom_eng text,
   nom_spa text,
   drapeau_unicode character(2)
@@ -47,12 +31,12 @@ create table if not exists regions
 (
   region_code character varying(6),
   region_parent character varying(6),
-  region character varying(30) not null,
-  division character varying(30),
-  capitale character varying(30)
+  region text not null,
+  division text,
+  capitale text
 );
 
-COMMENT ON TABLE regions IS E'@name newRegions';
+-- langues
 
 create table if not exists langues
 (
@@ -76,7 +60,7 @@ create table if not exists devises
   devise_code character(3) not null,
   num4217 integer default null,
   symbole character varying(5) default null,
-  nom character varying(20) default null,
+  nom text default null,
   format character varying(20) default null,
   division integer default 0,
   minor character varying(20) default null,
@@ -91,7 +75,7 @@ create table if not exists pays_devises
   valide_to date default null
 );
 
-CREATE TABLE categories (
+create table if not exists categories (
   category_id smallint not null,
   category_name text not null,
   description text
@@ -177,11 +161,6 @@ CREATE TABLE orders (
   ship_country character varying(15)
 );
 
-CREATE TABLE region (
-    region_id smallint not null,
-    region_description character varying(60) not null
-);
-
 
 CREATE TABLE shippers (
     shipper_id smallint not null,
@@ -204,6 +183,17 @@ CREATE TABLE suppliers (
     homepage text
 );
 
+create table banques
+(
+  banqueId  integer,
+  banque  character varying(50),
+  code  character varying(11),
+  adresse  text,
+  codepostal  character varying(8),
+  ville  character varying(30)
+);
+
+
 CREATE TABLE territories (
     territory_id character varying(20) not null,
     territory_description character varying(60) not null,
@@ -216,3 +206,10 @@ CREATE TABLE us_states (
   state_abbr character varying(2),
   state_region character varying(50)
 );
+
+CREATE TABLE zones (
+  zone_id smallint not null,
+  region_description text not null
+);
+
+commit;

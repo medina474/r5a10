@@ -1,31 +1,6 @@
 create schema if not exists northwind;
 use northwind;
 
-drop table if exists pays;
-drop table if exists langues;
-drop table if exists pays_langues;
-drop table if exists devises;
-drop table if exists pays_devises;
-
-drop table if exists banques;
-
-drop table if exists order_details;
-drop table if exists orders;
-drop table if exists products;
-drop table if exists categories;
-drop table if exists customers;
-drop table if exists employees;
-drop table if exists shippers;
-drop table if exists suppliers;
-
-drop table if exists employee_territories;
-drop table if exists territories;
-drop table if exists regions;
-
-drop table if exists customer_customer_demo;
-drop table if exists customer_demographics;
-drop table if exists us_states;
-
 start transaction;
 
 -- pays
@@ -210,7 +185,7 @@ create or replace table territories
 (
   territory_id character varying(10) not null,
   territory_description character varying(60) not null,
-  region_code character varying(6) not null
+  zone_id integer not null
 );
 
 create or replace table employee_territories

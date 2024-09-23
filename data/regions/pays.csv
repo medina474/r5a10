@@ -1,248 +1,219 @@
-code_num,code2,code3,parent,intitule,nom,capitale
-012,dz,DZA,015,Algérie,pays,
-818,eg,EGY,015,Égypte,pays,
-434,ly,LBY,015,Libye,pays,
-504,ma,MAR,015,Maroc,pays,
-729,sd,SDN,015,Soudan,pays,
-788,tn,TUN,015,Tunisie,pays,
-732,eh,ESH,015,Sahara occidental,territoire,
-086,IO,IOT,014,Territoire britannique de l'océan Indien,territoire,
-108,BI,BDI,014,Burundi,pays,
-174,KM,COM,014,Comores,pays,
-262,DJ,DJI,014,Djibouti,pays,
-232,ER,ERI,014,Érythrée,pays,
-231,ET,ETH,014,Éthiopie,pays,
-260,TF,ATF,014,Terres australes françaises,territoire,
-404,KE,KEN,014,Kenya,pays,
-450,MG,MDG,014,Madagascar,pays,
-454,MW,MWI,014,Malawi,pays,
-480,MU,MUS,014,Maurice,pays,
-175,YT,MYT,014,Mayotte,territoire,
-508,MZ,MOZ,014,Mozambique,pays,
-638,RE,REU,014,Réunion,territoire,
-646,RW,RWA,014,Rwanda,pays,
-690,SC,SYC,014,Seychelles,pays,
-706,SO,SOM,014,Somalie,pays,
-728,SS,SSD,014,Soudan du Sud,pays,
-800,UG,UGA,014,Ouganda,pays,
-834,TZ,TZA,014,République-Unie de Tanzanie,pays,
-894,ZM,ZMB,014,Zambie,pays,
-716,ZW,ZWE,014,Zimbabwe,pays,
-024,AO,AGO,017,Angola,pays,
-120,CM,CMR,017,Cameroun,pays,
-140,CF,CAF,017,République centrafricaine,pays,
-148,TD,TCD,017,Tchad,pays,
-178,CG,COG,017,Congo,pays,
-180,CD,COD,017,République démocratique du Congo,pays,
-226,GQ,GNQ,017,Guinée équatoriale,pays,
-266,GA,GAB,017,Gabon,pays,
-678,ST,STP,017,Sao Tomé-et-Principe,pays,
-072,BW,BWA,018,Botswana,pays,
-748,SZ,SWZ,018,Eswatini,pays,
-426,LS,LSO,018,Lesotho,pays,
-516,NA,NAM,018,Namibie,pays,
-710,ZA,ZAF,018,Afrique du Sud,pays,
-204,BJ,BEN,011,Bénin,pays,
-854,BF,BFA,011,Burkina Faso,pays,
-132,CV,CPV,011,Cabo Verde,pays,
-384,CI,CIV,011,Côte d’Ivoire,pays,
-270,GM,GMB,011,Gambie,pays,
-288,GH,GHA,011,Ghana,pays,
-324,GN,GIN,011,Guinée,pays,
-624,GW,GNB,011,Guinée-Bissau,pays,
-430,LR,LBR,011,Libéria,pays,
-466,ML,MLI,011,Mali,pays,
-478,MR,MRT,011,Mauritanie,pays,
-562,NE,NER,011,Niger,pays,
-566,NG,NGA,011,Nigéria,pays,
-654,SH,SHN,011,Sainte-Hélène,territoire,
-686,SN,SEN,011,Sénégal,pays,
-694,SL,SLE,011,Sierra Leone,pays,
-768,TG,TGO,011,Togo,pays,
-660,AI,AIA,029,Anguilla,pays,
-028,AG,ATG,029,Antigua-et-Barbuda,pays,
-533,AW,ABW,029,Aruba,pays,
-044,BS,BHS,029,Bahamas,pays,
-052,BB,BRB,029,Barbade,pays,
-535,BQ,BES,029,"Bonaire, Saint-Eustache et Saba",pays,
-092,VG,VGB,029,Îles Vierges britanniques,pays,
-136,KY,CYM,029,Îles Caïmanes,pays,
-192,CU,CUB,029,Cuba,pays,
-531,CW,CUW,029,Curaçao,pays,
-212,DM,DMA,029,Dominique,pays,
-214,DO,DOM,029,République dominicaine,pays,
-308,GD,GRD,029,Grenade,pays,
-312,GP,GLP,029,Guadeloupe,pays,
-332,HT,HTI,029,Haïti,pays,
-388,JM,JAM,029,Jamaïque,pays,
-474,MQ,MTQ,029,Martinique,pays,
-500,MS,MSR,029,Montserrat,pays,
-630,PR,PRI,029,Porto Rico,pays,
-652,BL,BLM,029,Saint-Barthélemy,pays,
-659,KN,KNA,029,Saint-Kitts-et-Nevis,pays,
-662,LC,LCA,029,Sainte-Lucie,pays,
-663,MF,MAF,029,Saint-Martin (partie française),pays,
-670,VC,VCT,029,Saint-Vincent-et-les Grenadines,pays,
-534,SX,SXM,029,Saint-Martin (partie néerlandaise),pays,
-780,TT,TTO,029,Trinité-et-Tobago,pays,
-796,TC,TCA,029,Îles Turques-et-Caïques,pays,
-850,VI,VIR,029,Îles Vierges américaines,pays,
-084,BZ,BLZ,013,Belize,pays,
-188,CR,CRI,013,Costa Rica,pays,
-222,SV,SLV,013,El Salvador,pays,
-320,GT,GTM,013,Guatemala,pays,
-340,HN,HND,013,Honduras,pays,
-484,MX,MEX,013,Mexique,pays,
-558,NI,NIC,013,Nicaragua,pays,
-591,PA,PAN,013,Panama,pays,
-032,AR,ARG,005,Argentine,pays,
-068,BO,BOL,005,Bolivie (État plurinational de),pays,
-074,BV,BVT,005,Île Bouvet,pays,
-076,BR,BRA,005,Brésil,pays,
-152,CL,CHL,005,Chili,pays,
-170,CO,COL,005,Colombie,pays,
-218,EC,ECU,005,Équateur,pays,
-238,FK,FLK,005,Îles Falkland (Malvinas),pays,
-254,GF,GUF,005,Guyane française,pays,
-328,GY,GUY,005,Guyana,pays,
-600,PY,PRY,005,Paraguay,pays,
-604,PE,PER,005,Pérou,pays,
-239,GS,SGS,005,Géorgie du Sud-et-les Îles Sandwich du Sud,pays,
-740,SR,SUR,005,Suriname,pays,
-858,UY,URY,005,Uruguay,pays,
-862,VE,VEN,005,Venezuela (République bolivarienne du),pays,
-060,BM,BMU,021,Bermudes,pays,
-124,CA,CAN,021,Canada,pays,
-304,GL,GRL,021,Groenland,pays,
-666,PM,SPM,021,Saint-Pierre-et-Miquelon,pays,
-840,US,USA,021,États-Unis d’Amérique,pays,
-398,KZ,KAZ,143,Kazakhstan,pays,
-417,KG,KGZ,143,Kirghizistan,pays,
-762,TJ,TJK,143,Tadjikistan,pays,
-795,TM,TKM,143,Turkménistan,pays,
-860,UZ,UZB,143,Ouzbékistan,pays,
-156,CN,CHN,030,Chine,pays,
-344,HK,HKG,030,"Chine, région administrative spéciale de Hong Kong",pays,
-446,MO,MAC,030,"Chine, région administrative spéciale de Macao",pays,
-408,KP,PRK,030,République populaire démocratique de Corée,pays,
-392,JP,JPN,030,Japon,pays,
-496,MN,MNG,030,Mongolie,pays,
-410,KR,KOR,030,République de Corée,pays,
-096,BN,BRN,035,Brunéi Darussalam,pays,
-116,KH,KHM,035,Cambodge,pays,
-360,ID,IDN,035,Indonésie,pays,
-418,LA,LAO,035,République démocratique populaire lao,pays,
-458,MY,MYS,035,Malaisie,pays,
-104,MM,MMR,035,Myanmar,pays,
-608,PH,PHL,035,Philippines,pays,
-702,SG,SGP,035,Singapour,pays,
-764,TH,THA,035,Thaïlande,pays,
-626,TL,TLS,035,Timor-Leste,pays,
-704,VN,VNM,035,Viet Nam,pays,
-004,AF,AFG,034,Afghanistan,pays,
-050,BD,BGD,034,Bangladesh,pays,
-064,BT,BTN,034,Bhoutan,pays,
-356,IN,IND,034,Inde,pays,
-364,IR,IRN,034,Iran (République islamique d’),pays,
-462,MV,MDV,034,Maldives,pays,
-524,NP,NPL,034,Népal,pays,
-586,PK,PAK,034,Pakistan,pays,
-144,LK,LKA,034,Sri Lanka,pays,
-051,AM,ARM,145,Arménie,pays,
-031,AZ,AZE,145,Azerbaïdjan,pays,
-048,BH,BHR,145,Bahreïn,pays,
-196,CY,CYP,145,Chypre,pays,
-268,GE,GEO,145,Géorgie,pays,
-368,IQ,IRQ,145,Iraq,pays,
-376,IL,ISR,145,Israël,pays,
-400,JO,JOR,145,Jordanie,pays,
-414,KW,KWT,145,Koweït,pays,
-422,LB,LBN,145,Liban,pays,
-512,OM,OMN,145,Oman,pays,
-634,QA,QAT,145,Qatar,pays,
-682,SA,SAU,145,Arabie saoudite,pays,
-275,PS,PSE,145,État de Palestine,territoire,
-760,SY,SYR,145,République arabe syrienne,pays,
-792,TR,TUR,145,Türkiye,pays,
-784,AE,ARE,145,Émirats arabes unis,pays,
-887,YE,YEM,145,Yémen,pays,
-112,BY,BLR,151,Bélarus,pays,
-100,BG,BGR,151,Bulgarie,pays,
-203,CZ,CZE,151,Tchéquie,pays,
-348,HU,HUN,151,Hongrie,pays,
-616,PL,POL,151,Pologne,pays,
-498,MD,MDA,151,République de Moldova,pays,
-642,RO,ROU,151,Roumanie,pays,
-643,RU,RUS,151,Fédération de Russie,pays,
-703,SK,SVK,151,Slovaquie,pays,
-804,UA,UKR,151,Ukraine,pays,
-248,AX,ALA,154,Îles d’Åland,pays,
-208,DK,DNK,154,Danemark,pays,
-233,EE,EST,154,Estonie,pays,
-234,FO,FRO,154,Îles Féroé,pays,
-246,FI,FIN,154,Finlande,pays,
-831,GG,GGY,154,Guernesey,pays,
-352,IS,ISL,154,Islande,pays,
-372,IE,IRL,154,Irlande,pays,
-833,IM,IMN,154,Île de Man,pays,
-832,JE,JEY,154,Jersey,pays,
-428,LV,LVA,154,Lettonie,pays,
-440,LT,LTU,154,Lituanie,pays,
-578,NO,NOR,154,Norvège,pays,
-744,SJ,SJM,154,Îles Svalbard-et-Jan Mayen,pays,
-752,SE,SWE,154,Suède,pays,
-826,GB,GBR,154,Royaume-Uni de Grande-Bretagne et d’Irlande du Nord,pays,
-008,AL,ALB,039,Albanie,pays,
-020,AD,AND,039,Andorre,pays,
-070,BA,BIH,039,Bosnie-Herzégovine,pays,
-191,HR,HRV,039,Croatie,pays,
-292,GI,GIB,039,Gibraltar,pays,
-300,GR,GRC,039,Grèce,pays,
-336,VA,VAT,039,Saint-Siège,pays,
-380,IT,ITA,039,Italie,pays,
-470,MT,MLT,039,Malte,pays,
-499,ME,MNE,039,Monténégro,pays,
-807,MK,MKD,039,Macédoine du Nord,pays,
-620,PT,PRT,039,Portugal,pays,
-674,SM,SMR,039,Saint-Marin,pays,
-688,RS,SRB,039,Serbie,pays,
-705,SI,SVN,039,Slovénie,pays,
-724,ES,ESP,039,Espagne,pays,
-040,AT,AUT,155,Autriche,pays,
-056,BE,BEL,155,Belgique,pays,
-250,FR,FRA,155,France,pays,
-276,DE,DEU,155,Allemagne,pays,
-438,LI,LIE,155,Liechtenstein,pays,
-442,LU,LUX,155,Luxembourg,pays,
-492,MC,MCO,155,Monaco,pays,
-528,NL,NLD,155,Pays-Bas (Royaume des),pays,
-756,CH,CHE,155,Suisse,pays,
-036,AU,AUS,053,Australie,pays,
-162,CX,CXR,053,Île Christmas,pays,
-166,CC,CCK,053,Îles des Cocos (Keeling),pays,
-334,HM,HMD,053,Île Heard-et-Îles MacDonald,pays,
-554,NZ,NZL,053,Nouvelle-Zélande,pays,
-574,NF,NFK,053,Île Norfolk,pays,
-242,FJ,FJI,054,Fidji,pays,
-540,NC,NCL,054,Nouvelle-Calédonie,pays,
-598,PG,PNG,054,Papouasie-Nouvelle-Guinée,pays,
-090,SB,SLB,054,Îles Salomon,pays,
-548,VU,VUT,054,Vanuatu,pays,
-316,GU,GUM,057,Guam,pays,
-296,KI,KIR,057,Kiribati,pays,
-584,MH,MHL,057,Îles Marshall,pays,
-583,FM,FSM,057,Micronésie (États fédérés de),pays,
-520,NR,NRU,057,Nauru,pays,
-580,MP,MNP,057,Îles Mariannes du Nord,pays,
-585,PW,PLW,057,Palaos,pays,
-581,UM,UMI,057,Îles mineures éloignées des États-Unis,pays,
-016,AS,ASM,061,Samoa américaines,pays,
-184,CK,COK,061,Îles Cook,pays,
-258,PF,PYF,061,Polynésie française,pays,
-570,NU,NIU,061,Nioué,pays,
-612,PN,PCN,061,Pitcairn,pays,
-882,WS,WSM,061,Samoa,pays,
-772,TK,TKL,061,Tokélaou,pays,
-776,TO,TON,061,Tonga,pays,
-798,TV,TUV,061,Tuvalu,pays,
-876,WF,WLF,061,Îles Wallis-et-Futuna,pays,
+code,parent,intitule,nom,capitale
+001,,Monde,,
+002,001,Afrique,,
+015,002,Afrique septentrionale,,
+022,015,Maghreb,,
+202,002,Afrique subsaharienne,,
+018,202,Afrique australe,,
+017,202,Afrique centrale,,
+011,202,Afrique occidentale,,
+014,202,Afrique orientale,,
+019,001,Amériques,,
+021,019,Amérique septentrionale,,
+419,019,Amérique latine et Caraïbes,,
+013,419,Amérique centrale,,
+005,419,Amérique du Sud,,
+029,419,Caraïbes,,
+010,001,Antarctique,,
+142,001,Asie,,
+143,142,Asie centrale,,
+035,142,Asie du Sud-Est,,
+034,142,Asie méridionale,,
+145,142,Asie occidentale,,
+030,142,Asie orientale,,
+009,001,Océanie,,
+053,009,Australie et Nouvelle-Zélande,,
+054,009,Mélanésie,,
+057,009,Micronésie,,
+061,009,Polynésie,,
+150,001,Europe,,
+039,150,Europe méridionale,,
+155,150,Europe occidentale,,
+151,150,Europe orientale,,
+154,150,Europe septentrionale,,
+157,154,Pays baltes,,
+158,154,Scandinavie,,
+dz,022,Algérie,pays,Alger
+eg,015,Égypte,pays,Le Caire
+ly,022,Libye,pays,Tripoli
+ma,022,Maroc,pays,Rabbat
+sd,015,Soudan,pays,Khartoum
+tn,022,Tunisie,pays,Tunis
+bi,014,Burundi,pays,Bujumbura
+km,014,Comores,pays,Moroni
+dj,014,Djibouti,pays,Djibouti
+er,014,Érythrée,pays,Asmara
+et,014,Éthiopie,pays,Addis-Abeba
+ke,014,Kenya,pays,Nairobi
+mg,014,Madagascar,pays,Antananarivo
+mw,014,Malawi,pays,Lilongwe
+mu,014,Maurice,pays,Port-Louis
+mz,014,Mozambique,pays,Maputo
+rw,014,Rwanda,pays,Kigali
+sc,014,Seychelles,pays,Victoria
+so,014,Somalie,pays,Mogadiscio
+ss,014,Soudan du Sud,pays,Djouba
+ug,014,Ouganda,pays,Kampala
+tz,014,Tanzanie,pays,Dar es Salam
+zm,014,Zambie,pays,Lusaka
+zw,014,Zimbabwe,pays,Harare
+ao,017,Angola,pays,Luanda
+cm,017,Cameroun,pays,Yaoundé
+cf,017,Centrafrique,pays,Bangui
+td,017,Tchad,pays,N'Djaména
+cg,017,Congo,pays,Brazzaville
+cd,017,République démocratique du Congo,pays,Kinshasa
+gq,017,Guinée équatoriale,pays,Malabo
+ga,017,Gabon,pays,Libreville
+st,017,Sao Tomé-et-Principe,pays,São Tomé
+bw,018,Botswana,pays,Gaborone
+sz,018,Eswatini,pays,Mbabane
+ls,018,Lesotho,pays,Maseru
+na,018,Namibie,pays,Windhoek
+za,018,Afrique du Sud,pays,Pretoria
+bj,011,Bénin,pays,Cotonou
+bf,011,Burkina Faso,pays,Ouagadougou
+cv,011,Cabo Verde,pays,Praia
+ci,011,Côte d’Ivoire,pays,Yamoussoukro
+gm,011,Gambie,pays,Banjul
+gh,011,Ghana,pays,Accra
+gn,011,Guinée,pays,Conakry
+gw,011,Guinée-Bissau,pays,Bissau
+lr,011,Libéria,pays,Monrovia
+ml,011,Mali,pays,Bamako
+mr,011,Mauritanie,pays,Nouakchott
+ne,011,Niger,pays,Niamey
+ng,011,Nigéria,pays,Abuja
+sn,011,Sénégal,pays,Dakar
+sl,011,Sierra Leone,pays,Freetown
+tg,011,Togo,pays,Lomé
+ag,029,Antigua-et-Barbuda,pays,Saint John's
+bs,029,Bahamas,pays,Nassau
+bb,029,Barbade,pays,Bridgetown
+bq,029,"Bonaire, Saint-Eustache et Saba",pays,
+kn,029,Saint-Kitts-et-Nevis,pays,
+cu,029,Cuba,pays,La Havane
+dm,029,Dominique,pays,Roseau
+do,029,République dominicaine,pays,Saint-Domingue
+gd,029,Grenade,pays,Saint-Georges
+ht,029,Haïti,pays,Port-au-Prince
+jm,029,Jamaïque,pays,Kingston
+lc,029,Sainte-Lucie,pays,Castries
+vc,029,Saint-Vincent-et-les Grenadines,pays,Kingstown
+tt,029,Trinité-et-Tobago,pays,Port-d'Espagne
+bz,013,Belize,pays,Belmopan
+cr,013,Costa Rica,pays,San José
+sv,013,El Salvador,pays,San Salvador
+gt,013,Guatemala,pays,Guatemala
+hn,013,Honduras,pays,Tegucigalpa
+mx,013,Mexique,pays,Mexico
+ni,013,Nicaragua,pays,Managua
+pa,013,Panama,pays,Panama
+ar,005,Argentine,pays,Buenos Aires
+bo,005,Bolivie,pays,La Paz
+bv,005,Île Bouvet,pays,
+br,005,Brésil,pays,Brasilia
+cl,005,Chili,pays,Santiago
+co,005,Colombie,pays,Bogota
+ec,005,Équateur,pays,Quito
+gy,005,Guyana,pays,Georgetown
+py,005,Paraguay,pays,Asuncion
+pe,005,Pérou,pays,Lima
+sr,005,Suriname,pays,Paramaribo
+uy,005,Uruguay,pays,Montevideo
+ve,005,Venezuela,pays,Caracas
+ca,021,Canada,pays,Ottawa
+kz,143,Kazakhstan,pays,Astana
+kg,143,Kirghizistan,pays,Bichkek
+tj,143,Tadjikistan,pays,Douchanbé
+tm,143,Turkménistan,pays,Achgabat
+uz,143,Ouzbékistan,pays,Tachkent
+cn,030,Chine,pays,Pékin
+kp,030,Corée du Nord,pays,Pyongyang
+mn,030,Mongolie,pays,Oulan-Bator
+kr,030,Corée du Sud,pays,Séoul
+bn,035,Brunéi Darussalam,pays,Bandar Seri Begawan
+kh,035,Cambodge,pays,Phnom Penh
+id,035,Indonésie,pays,Jakarta
+la,035,Laos,pays,Vientiane
+my,035,Malaisie,pays,Kuala Lumpur
+mm,035,Myanmar,pays,Naypyidaw
+ph,035,Philippines,pays,Manille
+sg,035,Singapour,pays,Singapour
+th,035,Thaïlande,pays,Bangkok
+tl,035,Timor-Leste,pays,Dili
+vn,035,Viêt Nam,pays,Hanoï
+af,034,Afghanistan,pays,Kaboul
+bd,034,Bangladesh,pays,Dacca
+bt,034,Bhoutan,pays,Thimphou
+in,034,Inde,pays,New Delhi
+ir,034,Iran,pays,Téhéran
+mv,034,Maldives,pays,Malé
+np,034,Népal,pays,Katmandou
+pk,034,Pakistan,pays,Islamabad
+lk,034,Sri Lanka,pays,Colombo
+am,145,Arménie,pays,Erevan
+az,145,Azerbaïdjan,pays,Bakou
+bh,145,Bahreïn,pays,Manama
+cy,145,Chypre,pays,Nicosie
+ge,145,Géorgie,pays,Tbilissi
+iq,145,Iraq,pays,Bagdad
+il,145,Israël,pays,Jérusalem
+jo,145,Jordanie,pays,Amman
+kw,145,Koweït,pays,Koweït
+lb,145,Liban,pays,Beyrouth
+om,145,Oman,pays,Mascate
+qa,145,Qatar,pays,Doha
+sa,145,Arabie saoudite,pays,Riyad
+sy,145,Syrie,pays,Damas
+tr,145,Türkiye,pays,Ankara
+ae,145,Émirats arabes unis,pays,Abou Dabi
+ye,145,Yémen,pays,Aden
+by,151,Bélarus,pays,Minsk
+bg,151,Bulgarie,pays,Sofia
+cz,151,Tchéquie,pays,Prague
+md,151,Moldavie,pays,
+ro,151,Roumanie,pays,Bucarest
+ru,151,Russie,pays,Moscou
+sk,151,Slovaquie,pays,Bratislava
+ee,154,Estonie,pays,Tallinn
+is,154,Islande,pays,Reykjavik
+ie,154,Irlande,pays,Dublin
+lv,154,Lettonie,pays,Riga
+no,154,Norvège,pays,Oslo
+sj,154,Îles Svalbard-et-Jan Mayen,pays,
+al,039,Albanie,pays,Tirana
+ad,039,Andorre,pays,Andorre-la-Vieille
+ba,039,Bosnie-Herzégovine,pays,Sarajevo
+gr,039,Grèce,pays,Athènes
+va,039,Saint-Siège,pays,Vatican
+mt,039,Malte,pays,La Valette
+me,039,Monténégro,pays,Podgorica
+mk,039,Macédoine du Nord,pays,Skopje
+sm,039,Saint-Marin,pays,Saint-Marin
+rs,039,Serbie,pays,Belgrade
+si,039,Slovénie,pays,Ljubljana
+li,155,Liechtenstein,pays,Vaduz
+mc,155,Monaco,pays,Monaco
+hm,053,Île Heard-et-Îles MacDonald,pays,
+nz,053,Nouvelle-Zélande,pays,Wellington
+fj,054,Fidji,pays,Suva
+pg,054,Papouasie-Nouvelle-Guinée,pays,Port Moresby
+sb,054,Îles Salomon,pays,Honiara
+vu,054,Vanuatu,pays,Port-Vila
+ki,057,Kiribati,pays,Tarawa-Sud
+mh,057,Îles Marshall,pays,Majuro
+fm,057,Micronésie,pays,Palikir
+nr,057,Nauru,pays,Yaren
+pw,057,Palaos,pays,Melekeok
+ck,061,Îles Cook,pays,Avarua
+nu,061,Nioué,pays,
+tk,061,Tokélaou,pays,
+to,061,Tonga,pays,Nukuʻalofa
+tv,061,Tuvalu,pays,Funafuti
+ws,061,Samoa,pays,Apia
+ps,145,État de Palestine,territoire,Ramallah
+eh,015,Sahara occidental,territoire,Laâyoune
+hk,030,Hong Kong,région administrative spéciale,Hong Kong
+mo,030,Macao,région administrative spéciale,Macao
+tw,030,Taïwan,pays,Taipei

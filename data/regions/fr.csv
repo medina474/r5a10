@@ -110,16 +110,15 @@ fr-92,fr-idf,Hauts-de-Seine,département,Nanterre
 fr-93,fr-idf,Seine-Saint-Denis,département,Bobigny
 fr-94,fr-idf,Val-de-Marne,département,Créteil
 fr-95,fr-idf,Val-d'Oise,département,Pontoise
-fr-971,fr,Guadeloupe,collectivité départementale d'outre-mer,
-fr-973,fr,Guyane,collectivité territoriale unique d'outre-mer,Cayenne
-fr-974,fr,La Réunion,collectivité départementale d'outre-mer,
-fr-972,fr,Martinique,collectivité territoriale unique d'outre-mer,
-fr-976,fr,Mayotte,collectivité départementale d'outre-mer,
 fr-69M,fr-ara,Métropole de Lyon,collectivité métropolitaine,Lyon
-fr-nc,fr,Nouvelle-Calédonie,collectivité d’outre-mer à statut particulier,Nouméa
-fr-pf,fr,Polynésie française,collectivité d'outre-mer,
-fr-bl,fr,Saint-Barthélemy,collectivité d'outre-mer,
-fr-mf,fr,Saint-Martin,collectivité d'outre-mer,
-fr-pm,fr,Saint-Pierre-et-Miquelon,collectivité d'outre-mer,
-fr-tf,fr,Terres australes françaises,territoire d'outre-mer,
-fr-wf,fr,Wallis-et-Futuna,collectivité d'outre-mer,
+fr-971,029,Guadeloupe,collectivité départementale d'outre-mer,Basse-Terre
+fr-972,029,Martinique,collectivité territoriale unique,Fort-de-France
+fr-973,005,Guyane,collectivité territoriale unique d'outre-mer,Cayenne
+fr-974,014,La Réunion,département et région d'outre-mer,Saint-Denis
+fr-976,014,Mayotte,département et région d’outre-mer,Mamoudzou
+fr-nc,054,Nouvelle-Calédonie,collectivité d’outre-mer à statut particulier,Nouméa
+fr-pf,061,Polynésie française,collectivité d'outre-mer,Papeete
+fr-wf,061,Îles Wallis-et-Futuna,collectivité d'outre-mer,Mata Utu
+fr-pm,021,Saint-Pierre-et-Miquelon,collectivité d'outre-mer,Saint-Pierre
+fr-mf,029,Saint-Martin,collectivité d'outre-mer,Marigot
+fr-tf,014,Terres australes françaises,territoire d'outre-mer,

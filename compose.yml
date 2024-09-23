@@ -17,6 +17,7 @@ volumes:
   mariadb: {}
   mongodb: {}
   n8n: {}
+  neo4j: {}
   pgadmin: {}
   postgresql: {}
   redis: {}
@@ -375,3 +376,18 @@ services:
       - mailpit:/data
     environment:
       TZ: Europe/Paris
+
+# Neo4J
+# Des graphes ultra-rapides, à l’échelle du pétaoctet
+# https://neo4j.com/fr/
+
+  neo4j:
+    container_name: neo4j
+    image: neo4j:${NEO4J_VERSION:-5.23.0-community}
+    ports:
+      - 7474:7474
+      - 7687:7687
+    volumes:
+      - neo4j:/data
+    environment:
+      NEO4J_AUTH: neo4j/${DB_ROOT_PASSWORD}

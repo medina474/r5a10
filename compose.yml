@@ -16,6 +16,7 @@ volumes:
   mailpit: {}
   mariadb: {}
   mongodb: {}
+  mongodb_config: {}
   n8n: {}
   pgadmin: {}
   postgresql: {}
@@ -54,6 +55,7 @@ services:
 # PostgreSQL
 # The world's most advanced open source relational database
 # https://www.postgresql.org/
+
   postgresql:
     container_name:  r5a10-postgresql
     build:
@@ -162,6 +164,7 @@ services:
 # N8N
 # Powerful Workflow Automation Software & Tools
 # https://n8n.io/
+
   n8n:
     container_name: r5a10-n8n
     image: docker.n8n.io/n8nio/n8n
@@ -192,6 +195,7 @@ services:
 # Grafana
 # Open source analytics & monitoring solution for every database.
 # https://grafana.com/
+
   grafana:
     container_name: r5a10-grafana
     image: grafana/grafana-oss:${GRAFANA_VERSION:-11.1.3}
@@ -240,11 +244,11 @@ services:
       PGADMIN_DEFAULT_PASSWORD: ${ADMIN_PASSWORD}
       PGADMIN_DISABLE_POSTFIX: true
 
-
 # PostgREST
 # Serve a fully RESTful API from any existing PostgreSQL database.
 # It provides a cleaner, more standards-compliant, faster API than you are likely to write from scratch.
 # https://docs.postgrest.org/en/v12/
+
   postgrest:
     container_name:  r5a10-postgrest
     image: postgrest/postgrest:${POSTGREST_VERSION:-v12.2.2}
@@ -327,11 +331,12 @@ services:
       - 3007:5984
 
 # MongoDB
+
   mongodb:
     container_name: r5a10-mongodb
     image: mongo:${MONGODB_VERSION:-7.0.7-jammy}
     volumes:
-      - ./data/configdb:/data/configdb
+      - mongodb_config:/data/configdb
       - mongodb:/data/db
     ports:
       - ${MONGODB_PORT:-27017}:27017

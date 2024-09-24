@@ -78,8 +78,8 @@ ALTER TABLE ONLY orders
 -- Name: pk_products; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
 --
 
-ALTER TABLE ONLY products
-    ADD CONSTRAINT pk_products PRIMARY KEY (product_id);
+--ALTER TABLE ONLY products
+--    ADD CONSTRAINT pk_products PRIMARY KEY (product_id);
 
 ALTER TABLE ONLY zones
     ADD CONSTRAINT pk_zones PRIMARY KEY (zone_id);
@@ -188,4 +188,4 @@ ALTER TABLE ONLY employee_territories
 ALTER TABLE ONLY employees
     ADD CONSTRAINT fk_employees_employees FOREIGN KEY (reports_to) REFERENCES employees;
 
-    
+SELECT setval(pg_get_serial_sequence('products', 'product_id'), MAX(product_id)) FROM products;

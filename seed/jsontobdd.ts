@@ -1,22 +1,12 @@
-// Import des modules nécessaires
-import { Client } from "https://deno.land/x/postgres@v0.17.0/mod.ts";
-import { join } from "https://deno.land/std@0.115.1/path/mod.ts";
+import { join } from "https://deno.land/std@0.224.0/path/mod.ts";
+import postgres from 'https://deno.land/x/postgresjs/mod.js';
 
-// Configuration PostgreSQL
-const client = new Client({
-  user: "postgres",  // Remplacez par votre nom d'utilisateur PostgreSQL
-  password: "supermotdepasse",  // Remplacez par votre mot de passe PostgreSQL
-  database: "northwind",  // Remplacez par le nom de votre base de données
-  hostname: "localhost",  // Adresse de votre serveur PostgreSQL
-  port: 5432,  // Port de PostgreSQL (5432 par défaut)
-});
+const sql = postgres('postgres://postgres:supermotdepasse@localhost:5432/northwind')
 
 // Fonction pour insérer des données dans PostgreSQL
 async function insertIntoDatabase(jsonData: object) {
-  await client.queryArray(
-    "INSERT INTO your_table (jsonb_column) VALUES ($1)",
-    jsonData
-  );
+  console.log(JSON.stringify(jsonData));
+  await sql`insert into products (product_name, properties, discontinued) values (${jsonData.name}, ${jsonData}, 0)`;
 }
 
 // Fonction pour lire et traiter les fichiers JSON
@@ -25,10 +15,9 @@ async function processJsonFiles(directory: string) {
     // Récupère tous les fichiers du répertoire
     for await (const entry of Deno.readDir(directory)) {
       if (entry.isFile && entry.name.endsWith(".json")) {
+        console.log(`Lecture du fichier : ${entry.name}`);
         const filePath = join(directory, entry.name);
-        console.log(`Lecture du fichier : ${filePath}`);
-
-        const jsonData = await JSON.parse(Deno.readTextFile(filePath));
+        const jsonData = JSON.parse(await Deno.readTextFile(filePath));
 
         // Insérer les données dans la base de données PostgreSQL
         await insertIntoDatabase(jsonData);
@@ -42,10 +31,9 @@ async function processJsonFiles(directory: string) {
 
 
 try {
-  await client.connect();
-  await processJsonFiles("../data/couchdb/");
+  await processJsonFiles("./data/boutique");
 } catch (error) {
   console.error("Erreur de connexion à la base de données :", error);
 } finally {
-  await client.end();
+  await sql.end();
 }

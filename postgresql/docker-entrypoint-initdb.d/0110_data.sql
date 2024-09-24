@@ -59,7 +59,7 @@ select '=============== FIN IMPORTATION DATA REGIONS' as msg;
 \copy employees from 'northwind/employees.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy customers from 'northwind/customers.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy suppliers from 'northwind/suppliers.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy products from 'northwind/products.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy products (product_id,product_name,supplier_id,category_id,quantity_per_unit,unit_price,units_in_stock,units_on_order,reorder_level,discontinued) from 'northwind/products.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy shippers from 'northwind/shippers.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy orders from 'northwind/orders.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy order_details from 'northwind/order_details.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');

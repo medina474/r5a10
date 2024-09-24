@@ -370,6 +370,7 @@ services:
 # Mailpit
 # email & SMTP testing tool with API for developers
 # https://mailpit.axllent.org/
+
   mailpit:
     container_name: r5a10-mailpit
     image: axllent/mailpit:${MAILPIT_VERSION:-v1.20}

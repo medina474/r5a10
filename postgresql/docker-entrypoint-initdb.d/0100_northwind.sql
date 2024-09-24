@@ -123,7 +123,7 @@ CREATE TABLE employee_territories (
 );
 
 CREATE TABLE products (
-  product_id smallint not null,
+  product_id smallint not null PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
   product_name text not null,
   supplier_id smallint,
   category_id smallint,

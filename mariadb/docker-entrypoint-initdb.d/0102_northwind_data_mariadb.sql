@@ -97,7 +97,7 @@ INSERT INTO suppliers VALUES(27,'Escargots Nouveaux','Marie Delamare','22, rue H
 INSERT INTO suppliers VALUES(28,'Gai pâturage','Eliane Noz','Bat. B 3, rue des Alpes','Annecy','74000','France','38.76.98.06');
 INSERT INTO suppliers VALUES(29,'Forêts d''érables','Chantal Goulet','148 rue Chasseur','Ste-Hyacinthe','J2S 7S8','Canada','(514) 555-2955');
 
-load data infile "/data/northwind_pays.csv"
+load data infile "/data/geo/pays.csv"
 ignore into table pays columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
 load data infile "/data/regions/at.csv"

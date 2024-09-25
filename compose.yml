@@ -225,6 +225,8 @@ services:
       GF_FEATURE_TOGGLES_ENABLE: traceQLStreaming metricsSummary lokiFormatQuery alertmanagerRemoteOnly
 
 # pgAdmin
+# Rich administration and development platform for PostgreSQL.
+# https://www.pgadmin.org/
 
   pgadmin:
     container_name: r5a10-pgadmin

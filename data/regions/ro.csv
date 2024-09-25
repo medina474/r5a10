@@ -1,42 +1,43 @@
 code,parent,intitule,nom,capitale
-ro-b,ro,București,municipiu,
-ro-ab,ro,Alba,judet,
-ro-ar,ro,Arad,judet,
-ro-ag,ro,Argeș,judet,
-ro-bc,ro,Bacău,judet,
-ro-bh,ro,Bihor,judet,
-ro-bn,ro,Bistrița-Năsăud,judet,
-ro-bt,ro,Botoșani,judet,
-ro-bv,ro,Brașov,judet,
-ro-br,ro,Brăila,judet,
-ro-bz,ro,Buzău,judet,
-ro-cs,ro,Caraș-Severin,judet,
-ro-cl,ro,Călărași,judet,
-ro-cj,ro,Cluj,judet,
-ro-ct,ro,Constanța,judet,
-ro-cv,ro,Covasna,judet,
-ro-db,ro,Dâmbovița,judet,
-ro-dj,ro,Dolj,judet,
-ro-gl,ro,Galați,judet,
-ro-gr,ro,Giurgiu,judet,
-ro-gj,ro,Gorj,judet,
-ro-hr,ro,Harghita,judet,
-ro-hd,ro,Hunedoara,judet,
-ro-il,ro,Ialomița,judet,
-ro-is,ro,Iași,judet,
-ro-if,ro,Ilfov,judet,
-ro-mm,ro,Maramureș,judet,
-ro-mh,ro,Mehedinți,judet,
-ro-ms,ro,Mureș,judet,
-ro-nt,ro,Neamț,judet,
-ro-ot,ro,Olt,judet,
-ro-ph,ro,Prahova,judet,
-ro-sm,ro,Satu Mare,judet,
-ro-sj,ro,Sălaj,judet,
-ro-sb,ro,Sibiu,judet,
-ro-sv,ro,Suceava,judet,
-ro-tr,ro,Teleorman,judet,
-ro-tm,ro,Timiș,judet,
-ro-tl,ro,Tulcea,judet,
-ro-vs,ro,Vaslui,judet,
-ro-vl,ro,Vâlcea,judet,
+ro-b,ro,București,municipiu,București
+ro-ab,ro,Alba,judet,Alba Iulia
+ro-ar,ro,Arad,judet,Arad
+ro-ag,ro,Argeș,judet,Pitești
+ro-bc,ro,Bacău,judet,Bacău
+ro-bh,ro,Bihor,judet,Oradea
+ro-bn,ro,Bistrița-Năsăud,judet,Bistrița
+ro-bt,ro,Botoșani,judet,Botoșani
+ro-bv,ro,Brașov,judet,Brașov
+ro-br,ro,Brăila,judet,Brăila
+ro-bz,ro,Buzău,judet,Buzău
+ro-cs,ro,Caraș-Severin,judet,Reșița
+ro-cl,ro,Călărași,judet,Călărași
+ro-cj,ro,Cluj,judet,Cluj-Napoca
+ro-ct,ro,Constanța,judet,Constanța
+ro-cv,ro,Covasna,judet,Sfântu Gheorghe
+ro-db,ro,Dâmbovița,judet,Târgoviște
+ro-dj,ro,Dolj,judet,Craiova
+ro-gl,ro,Galați,judet,Galați
+ro-gr,ro,Giurgiu,judet,Giurgiu
+ro-gj,ro,Gorj,judet,Târgu Jiu
+ro-hr,ro,Harghita,judet,Miercurea Ciuc
+ro-hd,ro,Hunedoara,judet,Deva
+ro-il,ro,Ialomița,judet,Slobozia
+ro-is,ro,Iași,judet,Iași
+ro-if,ro,Ilfov,judet,Bucharest
+ro-mm,ro,Maramureș,judet,Baia Mare
+ro-mh,ro,Mehedinți,judet,Drobeta-Turnu Severin
+ro-ms,ro,Mureș,judet,Târgu Mureș
+ro-nt,ro,Neamț,judet,Piatra Neamț
+ro-ot,ro,Olt,judet,Slatina
+ro-ph,ro,Prahova,judet,Ploiești
+ro-sm,ro,Satu Mare,judet,Satu Mare
+ro-sj,ro,Sălaj,judet,Zalău
+ro-sb,ro,Sibiu,judet,Sibiu
+ro-sv,ro,Suceava,judet,Suceava
+ro-tr,ro,Teleorman,judet,Alexandria
+ro-tm,ro,Timiș,judet,Timișoara
+ro-tl,ro,Tulcea,judet,Tulcea
+ro-vs,ro,Vaslui,judet,Vaslui
+ro-vl,ro,Vâlcea,judet,Râmnicu Vâlcea
+ro-vn,ro,Vrancea,judet,Focșani

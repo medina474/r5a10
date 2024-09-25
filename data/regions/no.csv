@@ -1,18 +1,14 @@
 code,parent,intitule,nom,capitale
-county,no-03,no,Oslo,
-county,no-11,no,Rogaland,Stavanger
-county,no-15,no,Møre og Romsdal,
-county,no-18,no,Nordland,
-county,no-30,no,Viken,
-county,no-34,no,Innlandet,
-county,no-38,no,Vestfold og Telemark,
-county,no-42,no,Agder,
-county,no-46,no,Vestland,
-county,no-50,no,Trööndelage,	-
-county,no-50,no,Trøndelag,	nn
-county,no-50,no,Trøndelag,	nb
-county,no-54,no,Romssa ja Finnmárkku,	se
-county,no-54,no,Troms og Finnmark,	nn
-county,no-54,no,Tromssan ja Finmarkun,	-
-no-21,Svalbard (Arctic Region) (see also separate country code entry under SJ),arctic region
-no-22,Jan Mayen (Arctic Region) (see also separate country code entry under SJ),arctic region
+no-03,no,Oslo,county,
+no-11,no,Rogaland,county,Stavanger
+no-15,no,Møre og Romsdal,county,
+no-18,no,Nordland,county,
+no-30,no,Viken,county,
+no-34,no,Innlandet,county,
+no-38,no,Vestfold og Telemark,county,
+no-42,no,Agder,county,
+no-46,no,Vestland,county,
+no-50,no,Trøndelag,county,
+no-54,no,Troms og Finnmark,county,
+no-21,sv,Svalbard,arctic region,
+no-22,sv,Jan Mayen,arctic region,

@@ -162,16 +162,16 @@ ALTER TABLE ONLY products
 -- Name: fk_territories_region; Type: Constraint; Schema: -; Owner: -
 --
 
-ALTER TABLE ONLY territories
-    ADD CONSTRAINT fk_territories_region FOREIGN KEY (zone_id) REFERENCES zones;
+--ALTER TABLE ONLY territories
+--    ADD CONSTRAINT fk_territories_region FOREIGN KEY (zone_id) REFERENCES zones;
 
 
 --
 -- Name: fk_employee_territories_territories; Type: Constraint; Schema: -; Owner: -
 --
 
-ALTER TABLE ONLY employee_territories
-    ADD CONSTRAINT fk_employee_territories_territories FOREIGN KEY (territory_id) REFERENCES territories;
+-- ALTER TABLE ONLY employee_territories
+--    ADD CONSTRAINT fk_employee_territories_territories FOREIGN KEY (territory_id) REFERENCES territories;
 
 
 --

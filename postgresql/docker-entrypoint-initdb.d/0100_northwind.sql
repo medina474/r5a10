@@ -67,12 +67,13 @@ create table if not exists devises
   minors character varying(20) default null
 );
 
+alter table devises add constraint devise_code_check check (devise_code ~ '^[a-z]{3}$');
+
 create table if not exists pays_devises
 (
   pays_code character(2) not null,
   devise_code character(3) not null,
-  valide_from date default null,
-  valide_to date default null
+  valide daterange default null
 );
 
 create table if not exists categories (
@@ -81,7 +82,7 @@ create table if not exists categories (
   description text
 );
 
-CREATE TABLE customers 
+CREATE TABLE customers
 (
   customer_id character varying(5) not null,
   company_name text not null,
@@ -170,7 +171,7 @@ CREATE TABLE shippers (
   phone character varying(24)
 );
 
-create table suppliers 
+create table suppliers
 (
   supplier_id smallint not null,
   company_name text not null,
@@ -197,14 +198,14 @@ create table banques
 );
 
 
-CREATE TABLE territories 
+CREATE TABLE territories
 (
   territory_id character varying(20) not null,
   territory_description character varying(60) not null,
   region_id smallint not null
 );
 
-CREATE TABLE us_states 
+CREATE TABLE us_states
 (
   state_id smallint not null,
   state_name character varying(100),
@@ -212,7 +213,7 @@ CREATE TABLE us_states
   state_region character varying(50)
 );
 
-CREATE TABLE zones 
+CREATE TABLE zones
 (
   zone_id smallint not null,
   region_description text not null

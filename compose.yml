@@ -403,7 +403,7 @@ services:
 
 # FerretDB
 # A truly Open Source MongoDB alternative, built on Postgres
-# https://www.ferretdb.com/ 
+# https://www.ferretdb.com/
 
   ferretdb:
     container_name: r5a10-ferretdb

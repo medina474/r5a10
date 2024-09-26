@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2499929",
+  "tailles": [
+    "S / 158-168 cm",
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Sunn Kern EN S1 Shimano Deore/SLX 12V 29'' Rouge 2023",
+  "marque": "Sunn",
+  "description": "Kern EN, l’arme absolue en Enduro avec une géométrie et une cinématique étudiées, validées et titrées en compétition EWS par les pilotes professionnels et notre Team Enduro. Avec un design affirmé, les Kern EN apportent une importante efficacité de pédalage et assurent une réelle stabilité même à haute vitesse. Prêt pour la compétition ou pour une bonne dose d’adrénaline !\r\n\r\nNous avons travaillé l’intégration basculeur/amortisseur pour abaisser le centre de gravité pour procurer une meilleure maniabilité et stabilité. La largeur de boîte de pédalier est optimisée avoir une rigidité maximale. Nous avons également diminué les contraintes sur l’axe de rotation principal pour une meilleure concentricité des efforts.\r\n\r\nVR : point de rotation virtuel favorise le pédalage en début de course et l’amortissement en fin de course. LR : leverage ratio progressif permet de conserver une assiette constante du vélo.\r\n\r\nLe cadre de nos vélos VTT Enduro Kern EN sont en monocoque HM/HR fibre Toray® T800 (80%) / T900 (20%).",
+  "image": "https://product-cdn-frz.alltricks.com/medium/929/499929/2499929/4902660",
+  "mpn": "YCSUS94301",
+  "gtin13": "3032651892489",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 3648,
+      "mpn": "YCSUS94301",
+      "sku": "2175520",
+      "gtin13": "3032651892489",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2566265-vtt_tout_suspendu_sunn_kern_en_s1_shimano_deore_slx_12v_29___rouge_2023"
+    }
+  ],
+  "informations": {
+    "poids": "16.78 kg",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Kern en carbon monocoque T800 HM tapered Boost, Thru axle, 155 mm",
+      "fourche": "Formula Selva C, coil, ta, boost 160mm",
+      "amortisseur": "Rockshox Deluxe Select+ RT, debonair 230x65"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX, 12-vitesses",
+      "dérailleur arrière": "Shimano SLX, 12-vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents",
+      "pédalier": "Shimano FC-MT511-1, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore, 4 pistons, 203/180 mm",
+      "selle": "Sunn X DDK Performance, CrMo",
+      "tige de selle": "SDG Tellis dropper seatpost 31.6x125 mm (S) / 150 mm (M, L)"
+    },
+    "roues": {
+      "jantes": "DT Swiss E532 30c 32T, Boost 6T",
+      "pneu avant": " Maxxis Minion DHF 29x2.50\" ",
+      "pneu arrière": " Maxxis Minion DHR II 29x2.30\""
+    },
+    "direction": {
+      "cintre": "VR 6061 780 mm",
+      "potence": "45 mm - 0° - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1187,
+      "stack (mm)": 615,
+      "reach (mm)": 428
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1220,
+      "stack (mm)": 625,
+      "reach (mm)": 456
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1251,
+      "stack (mm)": 635,
+      "reach (mm)": 484
+    }
+  ]
+}

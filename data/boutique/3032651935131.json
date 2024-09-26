@@ -1,0 +1,110 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2679020",
+  "tailles": [
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Sunn Kern S2 Shimano Deore 12V 29'' Gris",
+  "marque": "Sunn",
+  "description": "Facile à prendre en main, le new Kern est le VTT accessible à tous.\r\nCe vélo peut tout faire : les montées à la pédale paraissent faciles, il se conduit de manière très fluide en descente, il se montre joueur lorsqu’on lui demande.\r\nLe vélo à tout faire!\r\n\r\nLe cadre alu edge design tubing du Kern permet de contrôler la rigidité des tubes alu pour aboutir à un cadre efficace au pédalage mais aussi complaisant en descente où il vous aide lorsque la trajectoire est un peu osée.\r\n\r\nLe Sunn Kern S2 offre une suspension souple en début de course puis qui vient se durcir progressivement pour offrir plus de soutien en fin de course et rend le vélo dynamique dans les enchaînements de mouvement de terrain.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/20/679020/2679020/5403277",
+  "mpn": "YESUS04201",
+  "gtin13": "3032651935131",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 2235,
+      "mpn": "YESUS04201",
+      "sku": "2531348",
+      "gtin13": "3032651935131",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2803249-vtt_tout_suspendu_sunn_kern_s2_shimano_deore_12v_29___gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 2235,
+      "mpn": "YESUS04601",
+      "sku": "2531329",
+      "gtin13": "3032651935148",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2803249-vtt_tout_suspendu_sunn_kern_s2_shimano_deore_12v_29___gris"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Kern Alloy 6069 Edge, Tubing Boost, 140mm",
+      "fourche": "RockShox 35 Silver R 150mm",
+      "amortisseur": "RockShox Deluxe Select 185x50 Trunnion"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore 12-vitesses",
+      "cassette": "Shiamno Deore, 10-51 dts",
+      "pédalier": "Shimano MT511 32 dts"
+    },
+    "équipements": {
+      "freins": "Formula Cura 2, 203/180 mm",
+      "selle": "Brute One",
+      "tige de selle": "Brute Dropper"
+    },
+    "roues": {
+      "jantes": "Mach1 Trukky 30 30MM 32 trous",
+      "pneu avant": " Maxxis Assegai 29x2.5\" Exo ",
+      "pneu arrière": " Maxxis Agressor 29x2.3\" Exo"
+    },
+    "direction": {
+      "cintre": "Brute, 780 mm x 31.8 mm, Rise 25",
+      "potence": "Brute One CNC, 40 mm - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.6,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1184,
+      "stack (mm)": 615,
+      "reach (mm)": 427,
+      "débattement tige de selle (mm)": 130
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.6,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1216,
+      "stack (mm)": 625,
+      "reach (mm)": 455,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.6,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1248,
+      "stack (mm)": 635,
+      "reach (mm)": 483,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

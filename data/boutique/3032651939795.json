@@ -1,0 +1,97 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2692996",
+  "tailles": [
+    "L / 177-186 cm",
+    "XL / 184-196 cm"
+  ],
+  "name": "VTT Tout-Suspendu Sunn Shamann DC S2 Sram GX 12V 29'' Rouge",
+  "marque": "Sunn",
+  "description": "Le Sunn Shamann DC S2 est un vélo de Down-Country (DC). Le Down-Country est à la croisée entre le Cross-Country et le All-Mountain. Des côtes les plus abruptes aux descentes les plus techniques, ce vélo léger sera vous mettre à l'aise dans toutes les conditions.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/996/692996/2692996/5435457",
+  "mpn": "YFSUS34301",
+  "gtin13": "3032651939795",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-186 cm",
+      "stock": 1,
+      "prix": 4048,
+      "mpn": "YFSUS34601",
+      "sku": "2581550",
+      "gtin13": "3032651939801",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2815624-vtt_tout_suspendu_sunn_shamann_dc_s2_sram_gx_12v_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 184-196 cm",
+      "stock": 1,
+      "prix": 4048,
+      "mpn": "YFSUS34301",
+      "sku": "2581505",
+      "gtin13": "3032651939795",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2815624-vtt_tout_suspendu_sunn_shamann_dc_s2_sram_gx_12v_29___rouge"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 568,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": "76,5",
+      "empattement (mm)": 1141,
+      "stack (mm)": 596,
+      "reach (mm)": 425,
+      "débattement tige de selle (mm)": 130
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 594,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": "76,5",
+      "empattement (mm)": 1168,
+      "stack (mm)": 601,
+      "reach (mm)": 450,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 107,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": "76,5",
+      "empattement (mm)": 1195,
+      "stack (mm)": 611,
+      "reach (mm)": 473,
+      "débattement tige de selle (mm)": 170
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": "76,5",
+      "empattement (mm)": 1225,
+      "stack (mm)": 622,
+      "reach (mm)": 498,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

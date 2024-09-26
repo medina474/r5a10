@@ -1,0 +1,105 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2756221",
+  "tailles": [
+    "M / 168-178 cm",
+    "L / 176-186 cm"
+  ],
+  "name": "VTT Tout-Suspendu Lapierre XRM 7.9 Sram X01 12V 29'' Vert 2024",
+  "marque": "Lapierre",
+  "description": "Le Lapierre XRM est un habitué des longues distances, des terrains escarpés et des paysages vallonnés. A lui seul, il incarne la polyvalence et le savoir-faire des ingénieurs Lapierre en termes d’endurance. La versatilité de son cadre en carbone reprend les propriétés du Lapierre XR en ajoutant un débattement plus important de sorte à digérer les terrains cassants et les longues sorties. Avec une course de 120mm - sans perdre une miette de rendement dans les chemins roulants - ce vélo retranscrit à la perfection la puissance du cycliste même après 3 heures d’effort. Le monde du VTT marathon n’a qu’à bien se tenir !  \r\n\r\nA l’instar du XR, le XRM aborde un format tout suspendu indispensable pour durer dans le temps et accumuler les kilomètres. Racé et agressif dans sa géométrie, il conserve la souplesse nécessaire au niveau des suspensions (écosystème Fox) pour assouplir les contraintes et fluidifier le pilotage. En prime, la tige de selle télescopique et ses 100mm (S,M) / 130mm (L,XL)  de débattement sera d’une aide précieuse pour affronter les descentes techniques et raides !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/221/756221/2756221/5546171",
+  "mpn": "LRBRA470",
+  "gtin13": "3660423380492",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 3449.99,
+      "mpn": "LRBRA430",
+      "sku": "2725898",
+      "gtin13": "3660423380485",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2886815-vtt_tout_suspendu_lapierre_xrm_7_9_sram_x01_12v_29___vert_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 176-186 cm",
+      "stock": 1,
+      "prix": 3449.99,
+      "mpn": "LRBRA470",
+      "sku": "2725884",
+      "gtin13": "3660423380492",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2886815-vtt_tout_suspendu_lapierre_xrm_7_9_sram_x01_12v_29___vert_2024"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram X01 Eagle 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 85,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1134,
+      "stack (mm)": 584,
+      "reach (mm)": 415,
+      "débattement tige de selle (mm)": 100,
+      "potence (mm)": 60,
+      "manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 602,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1162,
+      "stack (mm)": 589,
+      "reach (mm)": 440,
+      "débattement tige de selle (mm)": 100,
+      "potence (mm)": 60,
+      "manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 624,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1185,
+      "stack (mm)": 598,
+      "reach (mm)": 460,
+      "débattement tige de selle (mm)": 130,
+      "potence (mm)": 70,
+      "manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 651,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1214,
+      "stack (mm)": 608,
+      "reach (mm)": 485,
+      "débattement tige de selle (mm)": 130,
+      "potence (mm)": 70,
+      "manivelles (mm)": 175
+    }
+  ]
+}

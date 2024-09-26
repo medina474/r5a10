@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2640823",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 172-182 cm",
+    "L / 180-188 cm",
+    "XL / 188-198 cm"
+  ],
+  "name": "VTT Tout-Suspendu BMC Fourstroke One Sram GX Eagle AXS 12V 29'' Violet Deep Blanc 2023",
+  "marque": "BMC",
+  "description": "Le BMC Fourstroke est la pierre angulaire du vélo cross-country, conçu pour exceller à tous les niveaux. Offrant une polyvalence au-delà des tracés de courses, cette machine XC établit un nouveau standard avec 100 mm de débattement sans égal, fournis par la suspension APS dual-link. Boosté par la géométrie redéfinie Big Wheel Concept, le cadre léger tout en carbone est doté d’éléments de protection intégrés et est optimisé pour monter deux porte-bidons, idéal pour les longues sorties.\r\n\r\nLe BMC Fourstroke One est conçu pour dominer la concurrence, avec sa transmission Sram GX Eagle AXS, sa fourche RockShox SID SL Select+ ainsi que son amortisseur RockShox SIDLuxe Select+, ses roues DT Swiss XR 1700 d’une largeur intérieure de 25 mm et sa tige de selle Bikeyoke Divine.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/823/640823/2640823/5320484",
+  "mpn": "30002658",
+  "gtin13": "7630027887082",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 162-172 cm",
+      "stock": 1,
+      "prix": 4699.99,
+      "mpn": "30002656",
+      "sku": "2190926",
+      "gtin13": "7630027887105",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2763004-vtt_tout_suspendu_bmc_fourstroke_one_sram_gx_eagle_axs_12v_29___violet_deep_blanc_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 172-182 cm",
+      "stock": 2,
+      "prix": 4699.99,
+      "mpn": "30002657",
+      "sku": "2191347",
+      "gtin13": "7630027887099",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2763004-vtt_tout_suspendu_bmc_fourstroke_one_sram_gx_eagle_axs_12v_29___violet_deep_blanc_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-188 cm",
+      "stock": 3,
+      "prix": 4699.99,
+      "mpn": "30002658",
+      "sku": "2191152",
+      "gtin13": "7630027887082",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2763004-vtt_tout_suspendu_bmc_fourstroke_one_sram_gx_eagle_axs_12v_29___violet_deep_blanc_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-198 cm",
+      "stock": 2,
+      "prix": 4699.99,
+      "mpn": "30002659",
+      "sku": "2191379",
+      "gtin13": "7630027887075",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2763004-vtt_tout_suspendu_bmc_fourstroke_one_sram_gx_eagle_axs_12v_29___violet_deep_blanc_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Deep Purple / White"
+    }
+  ],
+  "informations": {
+    "poids maximum": "110 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Fourstroke Carbon, APS Suspension System 100 mm travel, Fully Guided Internal Cable Routing, PF92 Bottom Bracket, Post Mount Disc, 12x148 mm Boost Thru-Axle, Tire clearance: 62 mm (Measured Width)",
+      "fourche": "RockShox SID SL Select+, 100 mm travel",
+      "amortisseur": "RockShox SIDLuxe Select+, TwistLoc Lockout"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram AXS Controller, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle AXS, 12-vitesses",
+      "cassette": "Sram XG-1275 Eagle, 10-52 Dents",
+      "chaîne": "Sram GX Eagle",
+      "pédalier": "Sram GX Eagle Carbon, 34 Dents",
+      "boîtier de pédalier": "PF92"
+    },
+    "équipements": {
+      "freins": "Sram Level TLM, Hydr. Disc Brake, Sram Centerline Rotors (160/160 S-M; 180/160 L-XL)",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "Bikeyoke Divine"
+    },
+    "roues": {
+      "jantes": "Jantes : DT Swiss XR 1700 Wheelset, 25 mm Inner Width / Moyeux : DT Swiss 350 Straightpull, Ratchet 36 SL",
+      "pneus": "Vittoria Mezcal, 57-622, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "BMC MFB01 Carbon, 760 mm width, 4 mm rise, 8° backsweep",
+      "potence": "BMC MSM01, -5°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 574,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 84,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1139,
+      "stack (mm)": 584,
+      "reach (mm)": 437,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 94,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1171,
+      "stack (mm)": 592,
+      "reach (mm)": 457,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 101,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1188,
+      "stack (mm)": 600,
+      "reach (mm)": 477,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1218,
+      "stack (mm)": 615,
+      "reach (mm)": 500,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

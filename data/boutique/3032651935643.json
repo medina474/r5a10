@@ -1,0 +1,111 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2727147",
+  "tailles": [
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Sunn Kern Finest Shimano XT 12V 29'' Blanc",
+  "marque": "Sunn",
+  "description": "Le nouveau Sunn Kern est un vélo accessible à tous. Tant au niveau du prix qu’au niveau du comportement où il assiste le pilote en toute sécurité.\r\n\r\nSunn a travaillé l’intégration basculeur/amortisseur pour abaisser le centre de gravité pour procurer une meilleure maniabilité et stabilité. La largeur de boîte de pédalier est optimisée avoir une rigidité maximale. Nous avons également diminué les contraintes sur l’axe de rotation principal pour une meilleure concentricité des efforts.\r\n\r\nVR : point de rotation virtuel favorise le pédalage en début de course et l’amortissement en fin de course. LR : leverage ratio progressif permet de conserver une assiette constante du vélo.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/147/727147/2727147/5493985",
+  "mpn": "YESUS24201",
+  "gtin13": "3032651935643",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 3835,
+      "mpn": "YESUS24201",
+      "sku": "2531324",
+      "gtin13": "3032651935643",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2852043-vtt_tout_suspendu_sunn_kern_finest_shimano_xt_12v_29___blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 2,
+      "prix": 3835,
+      "mpn": "YESUS24601",
+      "sku": "2531325",
+      "gtin13": "3032651935650",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2852043-vtt_tout_suspendu_sunn_kern_finest_shimano_xt_12v_29___blanc"
+    }
+  ],
+  "informations": {
+    "poids": "14,5 kg",
+    "genre": "HommeFemme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Kern Alloy 6069, Tapered, Boost Thru Axle, 140mm",
+      "fourche": "Fox 36 Float Factory Grip2, Boost, 150mm",
+      "amortisseur": "Fox Float X Factory, Trunnion, 180x50 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT ShadowPlus, 12-vitesses",
+      "cassette": "Shimano SLX, 10-51 dts",
+      "pédalier": "Shimano XT 32 dts Boost CL55"
+    },
+    "équipements": {
+      "freins": "Formula Cura 2, 2 pistons, 203/180 mm",
+      "selle": "Brute One",
+      "tige de selle": "Brute Dropper"
+    },
+    "roues": {
+      "jantes": "E.Thirteen LG1 En + 30 mm, moyeux SB Disc Boost",
+      "pneu avant": " Maxxis Assegai Exo TR 29x2.50'' ",
+      "pneu arrière": " Maxxis Agressor Exo TR 29x2.40''"
+    },
+    "direction": {
+      "cintre": "Brute 780 mm, Rise 25",
+      "potence": "Brute CNC 45 mm - 0° - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": "76,4",
+      "empattement (mm)": 1184,
+      "stack (mm)": 615,
+      "reach (mm)": 420,
+      "débattement tige de selle (mm)": 130
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": "76,4",
+      "empattement (mm)": 1216,
+      "stack (mm)": 625,
+      "reach (mm)": 449,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": "76,4",
+      "empattement (mm)": 1248,
+      "stack (mm)": 635,
+      "reach (mm)": 478,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

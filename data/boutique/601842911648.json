@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2681302",
+  "tailles": [
+    "M-L / 173-180 cm",
+    "L / 177-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Trek Supercaliber SLR 9.8 Sram GX Eagle AXS 12V 29'' Rouge Gén 2",
+  "marque": "Trek",
+  "description": "Le Supercaliber SLR 9.8 GX AXS est un VTT XC en carbone ultraléger prêt à prendre la tête de la course. Son cadre en Mountain Carbon SLR est aussi léger que soigné. Il se caractérise par une stratification haut module qui vous offre la rigidité à laquelle vous aspirez, sans la pénalité du poids. Comme chaque nouvelle saison dévoile des parcours XC plus extrêmes, ce vélo est doté d’une fourche de 110 mm et d’une suspension arrière IsoStrut de 80 mm pour améliorer le confort sans jeter l’efficacité au pédalage par la fenêtre. Pour compléter l’ensemble, vous obtenez des roues en carbone, un poste de pilotage en carbone et une transmission GX AXS sans fil de Sram.\r\n\r\nVous roulez pour vous amuser, et prendre le départ d’une course ne vous effraie pas. Vous êtes à la recherche d’un étalon cross-country capable d’accélérer dans les côtes, de finir en force et de contribuer à votre confort grâce à la suspension arrière IsoStrut de 80 mm. Vous voulez du carbone, depuis les roues jusqu’au poste de pilotage, et vous recherchez la stratification haut module la plus soignée que nous proposons sur un VTT.\r\n\r\nUn cadre OCLV Mountain Carbon SLR haut module léger avec une géométrie XC moderne. Une suspension de 110 m à l’avant avec une fourche RockShox SID à ressort DebonAir et amortisseur Rush RL et une suspension arrière IsoStrut de 80 mm avec amortisseur RockShox SIDLuxe, le tout avec blocage au guidon. Une transmission électronique Sram GX AXS 12 vitesses entièrement sans fil, des roues en carbone Bontrager Kovee Elite 30, un ensemble guidon/potence intégré Bontrager RSL, une tige de selle télescopique Bontrager Line Dropper et des freins à disque hydrauliques Sram Level Bronze à 4 pistons.\r\n\r\nLe Supercaliber SLR 9.8 GX AXS possède un pedigree de champion et a été sélectionné pour la course. Vous obtenez notre cadre XC tout suspendu en carbone haut de gamme sur lequel est montée une multitude de composants en carbone ainsi qu’un groupe entièrement sans fil doté d’une autonomie extraordinaire.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/302/681302/2681302/5409726",
+  "mpn": "5315503",
+  "gtin13": "601842911648",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 2,
+      "prix": 6999,
+      "mpn": "5315503",
+      "sku": "2558876",
+      "gtin13": "601842911648",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2806345-vtt_tout_suspendu_trek_supercaliber_slr_9_8_sram_gx_eagle_axs_12v_29___rouge_gen_2"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Carbon Red Smoke"
+    }
+  ],
+  "informations": {
+    "poids": "M - 11,28 kg (avec produit d’étanchéité TRL, sans chambres à air)",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SLR carbone OCLV Mountain, IsoStrut, patte de dérailleur universelle, débattement 80 mm",
+      "fourche": "RockShox SID, ressort DebonAir, amortisseur Rush RL, blocage au guidon, pivot conique, déport de 44 mm, Boost110, Maxle Stealth 15 mm, débattement de 110 mm",
+      "amortisseur": "Trek IsoStrut, RockShox SIDLuxe, amortisseur à deux positions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Eagle AXS POD, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle AXS, T-type, 12 vitesses",
+      "cassette": "Sram Eagle XS-1275, T-type, 10-52 dts, 12 vitesses",
+      "chaîne": "Sram GX Eagle, T-type, 12 vitesses",
+      "pédalier": "Sram GX Eagle, axe DUB, T-type, 34 dts, ligne de chaîne de 55 mm"
+    },
+    "boitier de pédalier": "Sram DUB, 92 mm, PressFit",
+    "équipements": {
+      "freins": "Sram Level Bronze hydrauliques, disque 2 pistons, disques Sram CenterLine, 6 trous, bord arrondi, 180/160 mm",
+      "selle": "Bontrager Verse Elite, rails en austénite, largeur de 145 mm",
+      "tige de selle": "Bontrager Line Dropper,  MaxFlow, acheminement interne, 31,6 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Kovee Elite 30, OCLV Mountain Carbon, Tubeless Ready",
+      "pneus": "Bontrager Sainte-Anne RSL, Tubeless Ready, 120 tpi, 29x2,40''"
+    },
+    "cintre/potence intégré": "Potence/cintre intégré Bontrager RSL, carbone OCLV, élévation 0 mm, largeur de 750 mm, inclinaison de potence -13°",
+    "direction": {
+      "jeu de direction": "FSA IS-2 , 1,125 pouces sur le haut, 1,5 pouce sur le bas"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1113,
+      "stack (mm)": 590,
+      "reach (mm)": 410,
+      "manivelles (mm)": 170,
+      "longueur potence (mm)": 70,
+      "débattement tige de selle(mm)": 100
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1138,
+      "stack (mm)": 590,
+      "reach (mm)": 435,
+      "manivelles (mm)": 170,
+      "longueur potence (mm)": 70,
+      "débattement tige de selle(mm)": 150
+    },
+    {
+      "taille cadre": "M/L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1153,
+      "stack (mm)": 590,
+      "reach (mm)": 450,
+      "manivelles (mm)": 175,
+      "longueur potence (mm)": 70,
+      "débattement tige de selle(mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71.5,
+      "empattement (mm)": 1172,
+      "stack (mm)": 599,
+      "reach (mm)": 465,
+      "manivelles (mm)": 175,
+      "longueur potence (mm)": 80,
+      "débattement tige de selle(mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 525,
+      "tube supérieur (mm)": 663,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71.5,
+      "empattement (mm)": 1217,
+      "stack (mm)": 622,
+      "reach (mm)": 500,
+      "manivelles (mm)": 175,
+      "longueur potence (mm)": 90,
+      "débattement tige de selle(mm)": 170
+    }
+  ]
+}

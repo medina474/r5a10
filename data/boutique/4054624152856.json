@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2717763",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike AllTrail 7 29'' / 27.5'' Sram SX Eagle 12v 720 Wh Copper / Noir 2024",
+  "marque": "Haibike",
+  "description": "Le Haibike AllTrail 7 offre énormément de plaisir à rouler sur les terrains relativement exigeants. Idéal aussi bien en montée qu'en deszcente!\r\nEn montée, le moteur sportif Yamaha vous assiste puissamment dès les premiers tours de pédalier. La fiabilité de SRAM vous assure de garder pleinement le contrôle de votre vélo électrique dans toutes les situations, avec une transmission ultra efficace. Les suspensions avant et arrière Rockshox, au débattement de 140 mm, offrent un confort suffisant même dans les descentes un peu rugueuses.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/763/717763/2717763/5476894",
+  "mpn": "45208460",
+  "gtin13": "4054624152856",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 1,
+      "prix": 4499.99,
+      "mpn": "45208430",
+      "sku": "2676560",
+      "gtin13": "4054624152825",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2840935-vtt_electrique_tout_suspendu_haibike_alltrail_7_29_____27_5___sram_sx_eagle_12v_720_wh_copper___noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 2,
+      "prix": 4499.99,
+      "mpn": "45208440",
+      "sku": "2676489",
+      "gtin13": "4054624152832",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2840935-vtt_electrique_tout_suspendu_haibike_alltrail_7_29_____27_5___sram_sx_eagle_12v_720_wh_copper___noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 2,
+      "prix": 4499.99,
+      "mpn": "45208450",
+      "sku": "2676417",
+      "gtin13": "4054624152849",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2840935-vtt_electrique_tout_suspendu_haibike_alltrail_7_29_____27_5___sram_sx_eagle_12v_720_wh_copper___noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 4499.99,
+      "mpn": "45208460",
+      "sku": "2676455",
+      "gtin13": "4054624152856",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2840935-vtt_electrique_tout_suspendu_haibike_alltrail_7_29_____27_5___sram_sx_eagle_12v_720_wh_copper___noir_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Copper / Black"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "HommeFemme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium 6061, 140 mm travel",
+      "fourche": "RockShox, 35 Gold RL, Air, travel= 140 mm, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110mm thru-axle Boost",
+      "amortisseur": "RockShox, Deluxe select plus, Air"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-S2 System, 75Nm, 25km/h",
+      "batterie": "Yamaha InTube, 720 Wh",
+      "écran": "Yamaha, Side Switch, 1.7\" LCD, 7 functions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram, SX Eagle, Trigger switch",
+      "dérailleur arrière": "Sram, SX Eagle",
+      "cassette": "Sram, Eagle PG1210, 11 - 50 teeth",
+      "chaîne": "Sram, SX Eagle",
+      "pédalier": "Sram, 38 teeth"
+    },
+    "équipements": {
+      "freins": "TRP, Slate T4, Aluminium, Tektro, TR203, 203 mm discs",
+      "pédales": "Freeridepedal, Aluminium, with Reflector",
+      "selle": "Selle Royal, Vivo",
+      "tige de selle": "Haibike Components, Dropper-Post Remote 34.9, Aluminium, Telescope, 34.9 mm"
+    },
+    "roues": {
+      "jantes": "WTB, ST i35 TCS, double wall",
+      "pneus": "Schwalbe, Nobby Nic Evo Snakeskin, 65-584, 27.5\" x 2.6\""
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar ++, 780 mm",
+      "potence": "Alu, A-head",
+      "jeu de direction": "Acros, BlockLock, Aluminium"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 74.7,
+      "empattement (mm)": 1216,
+      "stack (mm)": 637,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 74.7,
+      "empattement (mm)": 1221,
+      "stack (mm)": 652,
+      "reach (mm)": 436
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 611,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 74.7,
+      "empattement (mm)": 1243,
+      "stack (mm)": 661,
+      "reach (mm)": 454
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": "NC",
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": "NC",
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 74.7,
+      "empattement (mm)": "NC",
+      "stack (mm)": "NC",
+      "reach (mm)": "NC"
+    }
+  ]
+}

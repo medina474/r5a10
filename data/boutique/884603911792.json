@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2205415",
+  "tailles": [
+    "S / 157-165 cm",
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "name": "VTT Tout-Suspendu Cannondale Jekyll 2 Shimano Deore 12V 29'' Violet Haze 2023",
+  "marque": "Cannondale",
+  "description": "Même si le Cannondale Jekyll peut se vanter de bénéficier d’un concentré de technologies jamais vues auparavant, ce n’est pas un frimeur. C’est un fonceur. C’est un grimpeur chevronné, mais conçu avant tout pour les descentes. Chaque élément a été conçu et fabriqué avec la vitesse comme objectif, pour vous aider à extraire le maximum de ces pistes raides, caillouteuses et enragées que vous adorez.\r\n\r\nQuatre barres de liaison, pivot et galet de renvoi en position haute, cinématique spécifique à chaque la taille. Si ce jargon vous laisse indifférent(e), sachez simplement que cette suspension s'accroche, flotte et permet de pédaler comme aucune autre. Le Jekyll est toujours partant pour les descentes.\r\n\r\nL’amortisseur s'intègre élégamment dans le tube diagonal à deux longerons, tout en maintenant le centre de gravité du vélo le plus bas possible. Une stabilité incroyable, des changements de direction instantanés et un style affirmé qui fait tourner les têtes. Grâce à la conception Proportional Response de Cannondale, tout (depuis la disposition de la suspension jusqu’à la géométrie, sans oublier la longueur des bases arrière) est entièrement personnalisé par taille, pour vous permettre d’exprimer votre performance au maximum.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/415/205415/2205415/4050814",
+  "mpn": "C21202U20XL",
+  "gtin13": "884603911792",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-195 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "C21202U20XL",
+      "sku": "2074755",
+      "gtin13": "884603911792",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2064389-vtt_tout_suspendu_cannondale_jekyll_2_shimano_deore_12v_29___violet_haze_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Purple Haze"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : All-New, Carbon, Proportional Response Tuned, Guidler idler pulley/chainguide, BSA 73, ISCG05, tapered head tube, Ai Offset, 165 mm travel",
+      "fourche": "RockShox Zeb Select, 15x110 mm thru-axle, tapered steerer, 44 mm offset, 170 mm travel",
+      "amortisseur": "Fox Float DPX2 Performance EVOL, 205x65 Metric Trunnion, Air, 3-Pos adj."
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, 12-vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore 6100",
+      "pédalier": "Shimano Deore 6120, 30 Dents, 55 mm CL",
+      "boîtier de pédalier": "Shimano Deore BSA 73"
+    },
+    "équipements": {
+      "freins": "Shimano M6120, Hydr. Disc Brake, SM-RT64 Rotors (203/203)",
+      "selle": "Cannondale Stage 3",
+      "tige de selle": "TranzX dropper, internal routing, 31.6, 130 mm (S), 150 mm (M - XL)"
+    },
+    "roues": {
+      "jantes": "Jantes : WTB STX i30 TCS, 32h, tubeless ready / Rayons : Stainless steel, 14g",
+      "moyeu avant": "Shimano MT400, 15x110 mm thru-axle ",
+      "moyeu arrière": "Shimano MT410 12x148 mm thru-axle",
+      "pneu avant": " Maxxis Assegai, Dual compound, EXO+ puncture protection, tubeless ready, 29 x 2.5\" ",
+      "pneu arrière": " Maxxis Minion DHR II, EXO+, tubeless ready, 29 x 2.4\""
+    },
+    "direction": {
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 30 mm rise, 8° sweep, 6° rise, 780 mm",
+      "poignées": "Fabric Funguy",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 0°",
+      "jeu de direction": "Integrated Sealed Bearing, Tapered"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 569,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1193,
+      "stack (mm)": 625,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1227,
+      "stack (mm)": 634,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 623,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1264,
+      "stack (mm)": 643,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1311,
+      "stack (mm)": 652,
+      "reach (mm)": 510
+    }
+  ]
+}

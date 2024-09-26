@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2667566",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 172-182 cm",
+    "L / 180-188 cm",
+    "XL / 188-198 cm"
+  ],
+  "name": "VTT Tout-Suspendu BMC Fourstroke LT Two Shimano SLX 12V 29'' Vert Deep Forest Noir 2023",
+  "marque": "BMC",
+  "description": "Le BMC Fourstroke LT est un vélo XC dédié aux cyclistes voulant encore plus de performance. Roulez sur vos trails à grande vitesse grâce aux 120 mm de débattement progressif fournis par la suspension dual-link APS améliorée. Il n’y a simplement pas de limite à ce que vous et le Fourstroke LT pouvez réaliser. Le cadre entièrement en carbone est construit selon la géométrie BWC la plus progressive. Il peut désormais accueillir deux porte-bidons et est doté d’une butée de fourche intégrée ainsi que de différents éléments de protection du cadre.\r\n\r\nLe BMC Fourstroke LT Two vous fera jouer avec le trail en toute confiance, équipé d’une transmission Shimano SLX 1x12 vitesses, d’une fourche RockShox SID RL, d’un amortisseur RockShox SIDLuxe Select+, de roues Alexrims MD30 d’une largeur intérieure de 30 mm et d’une tige de selle télescopique X-Fusion Manic.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/566/667566/2667566/5366325",
+  "mpn": "30002680",
+  "gtin13": "7630027887266",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 162-172 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "30002680",
+      "sku": "2191009",
+      "gtin13": "7630027887266",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2787126-vtt_tout_suspendu_bmc_fourstroke_lt_two_shimano_slx_12v_29___vert_deep_forest_noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-188 cm",
+      "stock": 2,
+      "prix": 2858.9,
+      "mpn": "30002682",
+      "sku": "2190968",
+      "gtin13": "7630027887242",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2787126-vtt_tout_suspendu_bmc_fourstroke_lt_two_shimano_slx_12v_29___vert_deep_forest_noir_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Deep Forest Green / Black"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Fourstroke LT Carbon, APS Suspension System, 120 mm Travel, Fully Guided Internal Cable Routing, PF92 Bottom Bracket, Post Mount Disc, 12x148 mm Boost Thru-Axle, Tire clearance: 62 mm (Measured Width)",
+      "fourche": "RockShox SID RL",
+      "amortisseur": "RockShox SIDLuxe Select+"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX SL-M7100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX RD-M7100, 12-vitesses",
+      "cassette": "Shimano SLX CS-M7100, 10-51 Dents",
+      "chaîne": "Shimano Deore CN-M6100",
+      "pédalier": "Shimano SLX FC-M7100-1, 32 Dents",
+      "boîtier de pédalier": "PF92"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT520, Hydr. Disc Brake, Shimano SM-RT30 Rotors (180/180)",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "X-Fusion Manic, Dropper post"
+    },
+    "roues": {
+      "jantes": "Jantes : Alex MD30, 30 mm Inner Width / Moyeux : Shimano MT400",
+      "pneus": "Maxxis Rekon, TR, EXO, 61-622, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "BMC MRB03, 760 mm width, 15 mm rise, 9° backsweep",
+      "potence": "Truvativ Atmos 6K, 6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 84,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1140,
+      "stack (mm)": 584,
+      "reach (mm)": 437,
+      "longueur de la potence (mm)": 40,
+      "longueur des manivelles (mm)": 165
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 93.5,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1172,
+      "stack (mm)": 592,
+      "reach (mm)": 457,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 623,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 101,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1189,
+      "stack (mm)": 600,
+      "reach (mm)": 477,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 651,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1219,
+      "stack (mm)": 615,
+      "reach (mm)": 500,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

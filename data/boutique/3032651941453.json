@@ -1,0 +1,97 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2714104",
+  "tailles": [
+    "L / 178-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Sunn Kern EN Finest Sram GX/X1 Eagle 12V 29'' Bronze",
+  "marque": "Sunn",
+  "description": "Kern EN, l’arme absolue en Enduro avec une géométrie et une cinématique étudiées, validées et titrées en compétition EWS par les pilotes professionnels et notre Team Enduro. Avec un design affirmé, les Kern EN apportent une importante efficacité de pédalage et assurent une réelle stabilité même à haute vitesse. Prêt pour la compétition ou pour une bonne dose d’adrénaline !\r\n\r\nNous avons travaillé l’intégration basculeur/amortisseur pour abaisser le centre de gravité pour procurer une meilleure maniabilité et stabilité. La largeur de boîte de pédalier est optimisée avoir une rigidité maximale. Nous avons également diminué les contraintes sur l’axe de rotation principal pour une meilleure concentricité des efforts.\r\n\r\nVR : point de rotation virtuel favorise le pédalage en début de course et l’amortissement en fin de course. LR : leverage ratio progressif permet de conserver une assiette constante du vélo.\r\n\r\nLe cadre de nos vélos VTT Enduro Kern EN sont en monocoque HM/HR fibre Toray® T800 (80%) / T900 (20%).",
+  "image": "https://product-cdn-frz.alltricks.com/medium/104/714104/2714104/5468465",
+  "mpn": "YESUSA4801",
+  "gtin13": "3032651941453",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 5548,
+      "mpn": "YESUSA4801",
+      "sku": "2581577",
+      "gtin13": "3032651941453",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2837021-vtt_tout_suspendu_sunn_kern_en_finest_sram_gx_x1_eagle_12v_29___bronze"
+    }
+  ],
+  "informations": {
+    "poids": "--",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Kern En Carbon, Tapered, Boost Thru Axle, 155mm",
+      "fourche": "Fox 38 Float Performance, Boost, 170mm",
+      "amortisseur": "Fox Float X2 Performance, 230x65 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12-vitesses",
+      "cassette": "Sram XG1275 Eagle, 10-52 dts",
+      "pédalier": "Sram X1 Eagle Carbon 32 dts Boost"
+    },
+    "équipements": {
+      "freins": "Formula Cura, 4 pistons, 203/203 mm",
+      "selle": "Brute One",
+      "tige de selle": "Brute Dropper"
+    },
+    "roues": {
+      "jantes": "E.Thirteen LG1 En +",
+      "pneu avant": " Maxxis Assegai DD 29x2.50''WT TR ",
+      "pneu arrière": " DHR II DD 29x2.40'' TR"
+    },
+    "direction": {
+      "cintre": "Brute 780 mm, Rise 25",
+      "potence": "Brute CNC 40 mm - 0° - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1187,
+      "stack (mm)": 615,
+      "reach (mm)": 428
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1220,
+      "stack (mm)": 625,
+      "reach (mm)": 456
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1251,
+      "stack (mm)": 635,
+      "reach (mm)": 484
+    }
+  ]
+}

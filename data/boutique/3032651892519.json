@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2573620",
+  "tailles": [
+    "S / 158-168 cm",
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Sunn Kern EN S2 Sram SX Eagle 12V 29'' Blanc 2023",
+  "marque": "Sunn",
+  "description": "Kern EN, l’arme absolue en Enduro avec une géométrie et une cinématique étudiées, validées et titrées en compétition EWS par les pilotes professionnels et notre Team Enduro. Avec un design affirmé, les Kern EN apportent une importante efficacité de pédalage et assurent une réelle stabilité même à haute vitesse. Prêt pour la compétition ou pour une bonne dose d’adrénaline !\r\n\r\nNous avons travaillé l’intégration basculeur/amortisseur pour abaisser le centre de gravité pour procurer une meilleure maniabilité et stabilité. La largeur de boîte de pédalier est optimisée avoir une rigidité maximale. Nous avons également diminué les contraintes sur l’axe de rotation principal pour une meilleure concentricité des efforts.\r\n\r\nVR : point de rotation virtuel favorise le pédalage en début de course et l’amortissement en fin de course. LR : leverage ratio progressif permet de conserver une assiette constante du vélo.\r\n\r\nLe cadre de nos vélos VTT Enduro Kern EN sont en monocoque HM/HR fibre Toray® T800 (80%) / T900 (20%).",
+  "image": "https://product-cdn-frz.alltricks.com/medium/620/573620/2573620/5190705",
+  "mpn": "YCSUS84501",
+  "gtin13": "3032651892519",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 1999.99,
+      "mpn": "YCSUS84501",
+      "sku": "2175600",
+      "gtin13": "3032651892519",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2684701-vtt_tout_suspendu_sunn_kern_en_s2_sram_sx_eagle_12v_29___blanc_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 1999.99,
+      "mpn": "YCSUS85001",
+      "sku": "2175617",
+      "gtin13": "3032651892526",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2684701-vtt_tout_suspendu_sunn_kern_en_s2_sram_sx_eagle_12v_29___blanc_2023"
+    }
+  ],
+  "informations": {
+    "poids": "16.88 kg",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Kern En Edge Tubing Al6061, Tapered, Boost Thru Axle, 150mm",
+      "fourche": "Rockshox 35 Silver R, Coil, Ta, Boost 160mm",
+      "amortisseur": "Formula Mod E Coil 210x50"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram SX Eagle, 12-vitesses",
+      "cassette": "Sram Eagle, 11-50 Dents",
+      "pédalier": "Sram X1 DUB Boost, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Formula Cura, 203/180 mm",
+      "selle": "VR Cr-Mo by DDK",
+      "tige de selle": "SDG Tellis dropper seatpost 31.6x125 mm (S) / 150 mm (M, L)"
+    },
+    "roues": {
+      "jantes": "Mach1 Torkx 27c 32T",
+      "pneu avant": "son Griffus 29x2.50 ",
+      "pneu arrière": ""
+    },
+    "direction": {
+      "cintre": "VR 6061 780 mm",
+      "potence": "45 mm - 0° - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 449,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1187,
+      "stack (mm)": 615,
+      "reach (mm)": 428
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 449,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1220,
+      "stack (mm)": 625,
+      "reach (mm)": 456
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 449,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1251,
+      "stack (mm)": 635,
+      "reach (mm)": 484
+    }
+  ]
+}

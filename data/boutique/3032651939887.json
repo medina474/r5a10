@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2714445",
+  "tailles": [
+    "M / 170-178 cm",
+    "L / 177-186 cm"
+  ],
+  "name": "VTT Tout-Suspendu Sunn Shamann XC S2 Shimano SLX 12V 29'' Blanc",
+  "marque": "Sunn",
+  "description": "Le nouveau VTT tout-suspendu carbone Sunn Shamann XC revient avec un design et une géométrie repensés. Réactif et très dynamique lors des relances, gagnez des secondes précieuses dans les singletracks et les circuits XCO !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/445/714445/2714445/5470898",
+  "mpn": "YFSUS54601",
+  "gtin13": "3032651939887",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-178 cm",
+      "stock": 2,
+      "prix": 3548,
+      "mpn": "YFSUS54301",
+      "sku": "2581551",
+      "gtin13": "3032651939870",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2837836-vtt_tout_suspendu_sunn_shamann_xc_s2_shimano_slx_12v_29___blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-186 cm",
+      "stock": 1,
+      "prix": 3548,
+      "mpn": "YFSUS54601",
+      "sku": "2581539",
+      "gtin13": "3032651939887",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2837836-vtt_tout_suspendu_sunn_shamann_xc_s2_shimano_slx_12v_29___blanc"
+    }
+  ],
+  "informations": {
+    "poids": "12,3 kg",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Shamann XC Carbon 100 mm",
+      "fourche": "RockShox SID SL 3P, 110 mm",
+      "amortisseur": "RockShox SID Luxe Select+ 3P, 210x55"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX, 12-vitesses",
+      "cassette": "Shimano SLX, 10-51 dts",
+      "pédalier": "Shimano SLX, 32 dts"
+    },
+    "équipements": {
+      "freins": "Formula Cura 2, 160/160 mm",
+      "selle": "Brute One",
+      "tige de selle": "Aluminium 400x31,6 mm"
+    },
+    "roues": {
+      "jantes": "E.Thirteen XCX+ 27mm 28 trous, moyeux Brute One",
+      "pneus": "Maxxis Rekon Race 29x2.35'' Exo TR"
+    },
+    "direction": {
+      "cintre": "Aluminium, 740x31,8 mm",
+      "potence": "Aluminium, 70 mm - 31,8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 568,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": "77,5",
+      "empattement (mm)": 1134,
+      "stack (mm)": 589,
+      "reach (mm)": 435
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 594,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": "77,5",
+      "empattement (mm)": 1160,
+      "stack (mm)": 593,
+      "reach (mm)": 560
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 107,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": "77,5",
+      "empattement (mm)": 1187,
+      "stack (mm)": 603,
+      "reach (mm)": 483
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": "77,5",
+      "empattement (mm)": 1212,
+      "stack (mm)": 614,
+      "reach (mm)": 508
+    }
+  ]
+}

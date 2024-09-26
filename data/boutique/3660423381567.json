@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2737372",
+  "tailles": [
+    "M / 170-182 cm",
+    "L / 180-190 cm"
+  ],
+  "name": "VTT Tout Suspendu Lapierre Zesty CF 6.9 Shimano Deore/SLX 12V 29'' Vert 2024",
+  "marque": "Lapierre",
+  "description": "La nature offre des panoramas merveilleux qui se cachent parfois au-delà des sentiers battus. Le Lapierre Zesty CF vous permet de découvrir ses recoins inconnus, ses cascades majestueuses, ses sentiers sauvages avec l’enthousiasme d’un explorateur. Ce All-Mountain nouvelle génération s’affirme comme un vélo d’aventure capable de vous transporter aussi bien au sommet d’une montagne - vers laquelle sa cinématique reste irrémédiablement attirée - que vers le bord de mer ou sa motricité et son caractère joueur trouveront un formidable terrain d’expression. En fait, cette machine se fond facilement dans tous les décors somptueux et débloque des nouvelles perspectives de rides.\r\nJouez avec les éléments.\r\n\r\nAvec une plateforme de 150mm de débattement, une motricité détonante et un caractère affirmé, le Zesty CF déjoue les éléments et trace des trajectoires d’une fluidité exceptionnelle. Elégant et redoutable au pédalage, sa conception a été retravaillée (angle de selle redressé, bases plus courtes notamment) pour admettre une meilleure répartition du poids. La Toolbox présente au plus près du pédalier incarne d’ailleurs cette philosophie en réduisant presque à néant l’incidence d’un kit de réparation sur le comportement du vélo. Vif et habile, le Zesty CF deviendra votre nouveau compagnon d’épopée !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/372/737372/2737372/5509606",
+  "mpn": "LZKRA460",
+  "gtin13": "3660423381567",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-182 cm",
+      "stock": 1,
+      "prix": 3249.99,
+      "mpn": "LZKRA430",
+      "sku": "2726769",
+      "gtin13": "3660423381550",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2863566-vtt_tout_suspendu_lapierre_zesty_cf_6_9_shimano_deore_slx_12v_29___vert_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-190 cm",
+      "stock": 1,
+      "prix": 3249.99,
+      "mpn": "LZKRA460",
+      "sku": "2725976",
+      "gtin13": "3660423381567",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2863566-vtt_tout_suspendu_lapierre_zesty_cf_6_9_shimano_deore_slx_12v_29___vert_2024"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 383,
+      "tube supérieur (mm)": 578,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1197,
+      "stack (mm)": 617,
+      "reach (mm)": 435
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1226,
+      "stack (mm)": 626,
+      "reach (mm)": 460
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 436,
+      "tube supérieur (mm)": 627,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1255,
+      "stack (mm)": 635,
+      "reach (mm)": 480
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 464,
+      "tube supérieur (mm)": 654,
+      "longueur base (mm)": 443,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1290,
+      "stack (mm)": 644,
+      "reach (mm)": 505
+    }
+  ]
+}

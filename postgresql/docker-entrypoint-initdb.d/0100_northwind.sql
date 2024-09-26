@@ -67,7 +67,7 @@ create table if not exists devises
   minors character varying(20) default null
 );
 
-alter table devises add constraint devise_code_check check (devise_code ~ '^[a-z]{3}$');
+alter table devises add constraint devise_code_check check (devise_code ~ '^[A-Z]{3}$');
 
 create table if not exists pays_devises
 (

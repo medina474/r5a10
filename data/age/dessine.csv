@@ -1,0 +1,5 @@
+start_id,start_vertex_type,end_id,end_vertex_type
+1,Personne,1,Album
+1,Personne,2,Album
+2,Personne,1,Album
+2,Personne,2,Album

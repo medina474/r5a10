@@ -1,0 +1,25 @@
+@p={{$dotenv DB_ROOT_PASSWORD}}
+@baseUrl = http://admin:{{p}}@localhost:3007
+
+
+### Welcome
+GET {{baseUrl}}
+
+### List of databases
+GET {{baseUrl}}/_all_dbs
+
+###
+PUT {{baseUrl}}/velo
+
+### Ajouter un document
+POST {{baseUrl}}/velo/_bulk_docs
+Content-Type: application/json
+
+< ./data/couchdb/velos.json
+
+### Lister les documents
+GET {{baseUrl}}/velo/_all_docs
+
+###
+DELETE {{baseUrl}}/velo/3cc7ab53a7b629ddc004ede3be000e20
+Content-Type: application/json

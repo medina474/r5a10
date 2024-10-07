@@ -19,7 +19,7 @@ volumes:
   mongodb: {}
   mongodb_config: {}
 #  n8n: {}
-#  neo4j: {}
+  neo4j: {}
   pgadmin: {}
   postgresql: {}
 #  redis: {}
@@ -288,33 +288,33 @@ services:
 # Instant GraphQL API
 # https://www.graphile.org/postgraphile/
 
-#  postgraphile:
-#    container_name: r5a10-postgraphile
-#    build:
-#      context: ./postgraphile
-#    restart: no
-#    depends_on:
-#      postgresql:
-#        condition: service_healthy
-#    command:
-#      [
-#        "--port", "${POSTGRAPHILE_PORT:-5000}",
-#        "--schema", "${POSTGRAPHILE_SCHEMA:-public}",
-#        "--enhance-graphiql",
-#        "--cors",
-#        "--allow-explain",
-#        "--dynamic-json",
-#        "--append-plugins",
-#        "postgraphile-plugin-connection-filter,postgraphile-plugin-fulltext-filter,@graphile/postgis,postgraphile-plugin-connection-filter-postgis"
-#      ]
-#    ports:
-#      - 3006:5000
-#    environment:
-#      - PGHOST=${POSTGRAPHILE_HOST:-postgresql}
-#      - PGPORT=${POSTGRAPHILE_DB_PORT:-5432}
-#      - PGUSER=${POSTGRAPHILE_DB_USER:-postgraphile}
-#      - PGPASSWORD=${DB_PASSWORD}
-#      - PGDATABASE=${DB_NAME:-northwind}
+  postgraphile:
+    container_name: r5a10-postgraphile
+    build:
+      context: ./postgraphile
+    restart: no
+    depends_on:
+      postgresql:
+        condition: service_healthy
+    command:
+      [
+        "--port", "${POSTGRAPHILE_PORT:-5000}",
+        "--schema", "${POSTGRAPHILE_SCHEMA:-public}",
+        "--enhance-graphiql",
+        "--cors",
+        "--allow-explain",
+        "--dynamic-json",
+        "--append-plugins",
+        "postgraphile-plugin-connection-filter,postgraphile-plugin-fulltext-filter,@graphile/postgis,postgraphile-plugin-connection-filter-postgis"
+      ]
+    ports:
+      - 3006:5000
+    environment:
+      - PGHOST=${POSTGRAPHILE_HOST:-postgresql}
+      - PGPORT=${POSTGRAPHILE_DB_PORT:-5432}
+      - PGUSER=${POSTGRAPHILE_DB_USER:-postgraphile}
+      - PGPASSWORD=${DB_PASSWORD}
+      - PGDATABASE=${DB_NAME:-northwind}
 
 # Oriented Documents
 
@@ -323,16 +323,16 @@ services:
 # HTTP/JSON API.
 # https://couchdb.apache.org/
 
-#  couchdb:
-#    container_name: r5a10-couchdb
-#    image: couchdb:${COUCH_DB_VERSION:-3.3}
-#    environment:
-#      COUCHDB_PASSWORD: ${DB_ROOT_PASSWORD}
-#      COUCHDB_USER: ${COUCHDB_USER:-admin}
-#    volumes:
-#      - couchdb:/opt/couchdb/data
-#    ports:
-#      - 3007:5984
+  couchdb:
+    container_name: r5a10-couchdb
+    image: couchdb:${COUCH_DB_VERSION:-3.3}
+    environment:
+      COUCHDB_PASSWORD: ${DB_ROOT_PASSWORD}
+      COUCHDB_USER: ${COUCHDB_USER:-admin}
+    volumes:
+      - couchdb:/opt/couchdb/data
+    ports:
+      - 3007:5984
 
 # MongoDB
 
@@ -386,20 +386,29 @@ services:
 #    environment:
 #      TZ: Europe/Paris
 
+  caddy:
+    container_name: r5a10-caddy
+    image: caddy:${MAILPIT_VERSION:-2.8.4}
+    restart: no
+    ports:
+      - 8080:80
+    volumes:
+      - ./data:/usr/share/caddy
 # Neo4J
 # Des graphes ultra-rapides, à l’échelle du pétaoctet
 # https://neo4j.com/fr/
 
-#  neo4j:
-#    container_name: r5a10-neo4j
-#    image: neo4j:${NEO4J_VERSION:-5.23.0-community}
-#    ports:
-#      - 7474:7474
-#      - 7687:7687
-#    volumes:
-#      - neo4j:/data
-#    environment:
-#      NEO4J_AUTH: neo4j/${DB_ROOT_PASSWORD}
+  neo4j:
+    container_name: r5a10-neo4j
+    image: neo4j:${NEO4J_VERSION:-5.23.0-community}
+    ports:
+      - 7474:7474
+      - 7687:7687
+    volumes:
+      - neo4j:/data
+      - ./data:/csv
+    environment:
+      NEO4J_AUTH: neo4j/${DB_ROOT_PASSWORD}
 
 # FerretDB
 # A truly Open Source MongoDB alternative, built on Postgres

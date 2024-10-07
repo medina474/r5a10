@@ -8,7 +8,7 @@ create table if not exists pays
 (
   code2 character(2) not null,
   code3 character(3) not null,
-  code_num character(3) not null,
+  code_num character(3) not null check (code_num ~ '^[0-9]{3}$'),
   pays text not null,
   forme_longue text,
   nom_eng text,
@@ -217,6 +217,12 @@ CREATE TABLE zones
 (
   zone_id smallint not null,
   region_description text not null
+);
+
+CREATE TABLE auteurs 
+(
+  auteur_id integer primary key,
+  auteur_nom text default null
 );
 
 commit;

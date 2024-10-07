@@ -6,9 +6,3 @@ GET {{baseUrl}}/
 
 ###
 GET {{baseUrl}}/pays
-
-###
-https://echo.free.beeceptor.com
-Content-Type: application/json
-
-{ "test": "{{p}}" }

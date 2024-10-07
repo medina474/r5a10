@@ -74,7 +74,6 @@ services:
         target: /docker-entrypoint-initdb.d/
     volumes:
       - postgresql:/var/lib/postgresql/data
-      - ./data:/data
     ports:
       - 5432:5432
     environment:
@@ -323,16 +322,16 @@ services:
 # HTTP/JSON API.
 # https://couchdb.apache.org/
 
-  couchdb:
-    container_name: r5a10-couchdb
-    image: couchdb:${COUCH_DB_VERSION:-3.3}
-    environment:
-      COUCHDB_PASSWORD: ${DB_ROOT_PASSWORD}
-      COUCHDB_USER: ${COUCHDB_USER:-admin}
-    volumes:
-      - couchdb:/opt/couchdb/data
-    ports:
-      - 3007:5984
+  # couchdb:
+  #   container_name: r5a10-couchdb
+  #   image: couchdb:${COUCH_DB_VERSION:-3.3}
+  #   environment:
+  #     COUCHDB_PASSWORD: ${DB_ROOT_PASSWORD}
+  #     COUCHDB_USER: ${COUCHDB_USER:-admin}
+  #   volumes:
+  #     - couchdb:/opt/couchdb/data
+  #   ports:
+  #     - 3007:5984
 
 # MongoDB
 

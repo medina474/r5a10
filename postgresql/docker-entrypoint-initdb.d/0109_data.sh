@@ -17,9 +17,43 @@ wget $host/northwind/products.csv
 wget $host/northwind/orders.csv
 wget $host/northwind/order_details.csv
 
+mkdir -p /docker-entrypoint-data.d/geo
 cd /docker-entrypoint-data.d/geo
+
 wget $host/geo/pays.csv
-wget $host/geo/pays-es.csv
-wget $host/geo/pays-en.csv
+wget $host/geo/pays-es.txt
+wget $host/geo/pays-en.txt
 wget $host/geo/langues.csv
 wget $host/geo/pays_langues.csv
+wget $host/geo/devises.csv
+
+mkdir -p /docker-entrypoint-data.d/regions
+cd /docker-entrypoint-data.d/regions
+
+wget $host/regions/pays.csv
+wget $host/regions/at.csv
+wget $host/regions/au.csv
+wget $host/regions/be.csv
+wget $host/regions/bl.csv
+wget $host/regions/ch.csv
+wget $host/regions/de.csv
+wget $host/regions/fi.csv
+wget $host/regions/fr.csv
+wget $host/regions/gb.csv
+wget $host/regions/hr.csv
+wget $host/regions/hu.csv
+wget $host/regions/it.csv
+wget $host/regions/jp.csv
+wget $host/regions/lt.csv
+wget $host/regions/lu.csv
+wget $host/regions/nl.csv
+wget $host/regions/pl.csv
+wget $host/regions/pt.csv
+wget $host/regions/se.csv
+wget $host/regions/ua.csv
+wget $host/regions/us.csv
+
+mkdir -p /docker-entrypoint-data.d/aviation
+cd /docker-entrypoint-data.d/aviation
+
+wget $host/aviation/aeroports.csv

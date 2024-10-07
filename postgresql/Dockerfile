@@ -22,3 +22,14 @@ RUN set -eux; \
   apt-get update; \
   apt-get -y install \
     postgresql-16-pgtap;
+
+RUN set -eux; \
+  apt-get update; \
+  apt-get -y install \
+    wget;
+
+RUN mkdir -p /docker-entrypoint-data.d; \
+  chown postgres:postgres /docker-entrypoint-data.d;\
+  chmod 700 /docker-entrypoint-data.d;
+
+WORKDIR /docker-entrypoint-data.d

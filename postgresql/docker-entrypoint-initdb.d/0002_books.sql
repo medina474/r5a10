@@ -8,11 +8,7 @@ create table auteurs (
 CREATE TABLE oeuvres (
   oeuvre_id INTEGER,
   titre TEXT,
-  isbn13 TEXT,
   langue_code VARCHAR(5), -- REFERENCES langues (langue_code),
-  num_pages INTEGER,
-  publication_date DATE,
-  editeur_id INTEGER,
   genre_id INTEGER,
   serie_id INTEGER
   --CONSTRAINT fk_oeuvre_editeur FOREIGN KEY (editeur_id) REFERENCES editeurs (editeur_id),

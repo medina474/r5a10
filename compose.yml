@@ -254,7 +254,7 @@ services:
 
   postgrest:
     container_name:  r5a10-postgrest
-    image: postgrest/postgrest:${POSTGREST_VERSION:-v12.2.2}
+    image: postgrest/postgrest:${POSTGREST_VERSION:-v12.2.3}
     restart: no
     depends_on:
       postgresql:
@@ -399,7 +399,7 @@ services:
 
   neo4j:
     container_name: r5a10-neo4j
-    image: neo4j:${NEO4J_VERSION:-5.23.0-community}
+    image: neo4j:${NEO4J_VERSION:-5.24.1-community}
     ports:
       - 7474:7474
       - 7687:7687

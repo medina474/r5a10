@@ -1,15 +1,14 @@
 \c northwind
 
 create table auteurs (
-  auteur_id integer primary key,
+  auteur_id integer,
   auteur_nom text not null
 );
 
 CREATE TABLE oeuvres (
-  oeuvre_id INTEGER PRIMARY KEY,
+  oeuvre_id INTEGER,
   titre TEXT,
   isbn13 TEXT,
-  langue_id INTEGER,
   langue_code VARCHAR(5), -- REFERENCES langues (langue_code),
   num_pages INTEGER,
   publication_date DATE,
@@ -30,9 +29,9 @@ CREATE TABLE participe (
 );
 
 CREATE TABLE editeurs (
-  editeur_id INTEGER PRIMARY KEY,
+  editeur_id INTEGER,
   editeur_nom TEXT,
-  ville TEXT,
+  ville TEXT
 );
 
 CREATE TABLE editions (
@@ -45,8 +44,13 @@ CREATE TABLE editions (
   num_catalogue INTEGER
 );
 
+CREATE TABLE incorpore (
+  oeuvre_id INTEGER NOT NULL, -- REFERENCES oeuvres (oeuvre_id),
+  edition_id INTEGER NOT NULL -- REFERENCES editions (edition_id)
+);
+
 CREATE TABLE exemplaires (
-  exemplaire_id INTEGER PRIMARY KEY,
+  exemplaire_id INTEGER,
   edition_id INTEGER, -- REFERENCES editions (edition_id),
   date_achat DATE,
   prix_achat NUMERIC,

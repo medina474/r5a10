@@ -64,5 +64,5 @@ cd /docker-entrypoint-data.d/books
 
 wget $host/books/auteurs.csv
 wget $host/books/editeurs.csv
-wget $host/books/oeuvre_auteurs.csv
+wget $host/books/participe.csv
 wget $host/books/oeuvres.csv

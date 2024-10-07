@@ -88,13 +88,21 @@ CREATE TABLE customers
   company_name text not null,
   contact_name character varying(30),
   contact_title character varying(30),
-  address character varying(60),
-  city character varying(15),
+  address text,
+  city text,
   region character varying(15),
   postal_code character varying(10),
   country character varying(15),
   phone character varying(24),
   fax character varying(24)
+);
+
+CREATE TABLE adresses (
+  adresse_id INTEGER,
+  numero TEXT,
+  voie TEXT,
+  ville TEXT,
+  pays_id INTEGER -- REFERENCES pays (pays_id) 
 );
 
 CREATE TABLE employees (
@@ -217,12 +225,6 @@ CREATE TABLE zones
 (
   zone_id smallint not null,
   region_description text not null
-);
-
-CREATE TABLE auteurs 
-(
-  auteur_id integer primary key,
-  auteur_nom text default null
 );
 
 commit;

@@ -37,7 +37,9 @@ CREATE TABLE editions (
   isbn13 TEXT,
   publication_date DATE,
   num_pages INTEGER,
-  num_catalogue INTEGER
+  num_catalogue INTEGER,
+  langue_code VARCHAR(5),
+  titre text
 );
 
 CREATE TABLE incorpore (

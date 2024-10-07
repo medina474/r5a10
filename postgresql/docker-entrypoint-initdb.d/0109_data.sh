@@ -66,3 +66,5 @@ wget $host/books/auteurs.csv
 wget $host/books/editeurs.csv
 wget $host/books/participe.csv
 wget $host/books/oeuvres.csv
+wget $host/books/editions.csv
+wget $host/books/incorpore.csv

@@ -35,7 +35,7 @@ CREATE TABLE editeurs (
 );
 
 CREATE TABLE editions (
-  edition_id INTEGER PRIMARY KEY,
+  edition_id INTEGER,
   oeuvre_id INTEGER, --REFERENCES oeuvres (oeuvre_id),
   editeur_id INTEGER, --REFERENCES editeurs (editeur_id),
   isbn13 TEXT,

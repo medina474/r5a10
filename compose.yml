@@ -398,18 +398,18 @@ services:
 # Des graphes ultra-rapides, à l’échelle du pétaoctet
 # https://neo4j.com/fr/
 
-  neo4j:
-    container_name: r5a10-neo4j
-    image: neo4j:${NEO4J_VERSION:-5.24.1-community}
-    ports:
-      - 7474:7474
-      - 7687:7687
-    volumes:
-      - neo4j:/data
-      - neo4j_logs:/logs
-      - ./data:/csv
-    environment:
-      NEO4J_AUTH: neo4j/${DB_ROOT_PASSWORD}
+  # neo4j:
+  #   container_name: r5a10-neo4j
+  #   image: neo4j:${NEO4J_VERSION:-5.24.1-community}
+  #   ports:
+  #     - 7474:7474
+  #     - 7687:7687
+  #   volumes:
+  #     - neo4j:/data
+  #     - neo4j_logs:/logs
+  #     - ./data:/csv
+  #   environment:
+  #     NEO4J_AUTH: neo4j/${DB_ROOT_PASSWORD}
 
 # FerretDB
 # A truly Open Source MongoDB alternative, built on Postgres

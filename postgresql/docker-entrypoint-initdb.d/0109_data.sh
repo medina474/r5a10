@@ -57,3 +57,12 @@ mkdir -p /docker-entrypoint-data.d/aviation
 cd /docker-entrypoint-data.d/aviation
 
 wget $host/aviation/aeroports.csv
+
+# Books
+mkdir -p /docker-entrypoint-data.d/books
+cd /docker-entrypoint-data.d/books
+
+wget $host/books/auteurs.csv
+wget $host/books/editeurs.csv
+wget $host/books/oeuvre_auteurs.csv
+wget $host/books/oeuvres.csv

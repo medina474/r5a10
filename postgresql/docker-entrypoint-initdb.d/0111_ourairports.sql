@@ -40,7 +40,7 @@ delete from aeroports_tmp where IATA is null;
 
 -- Copier les données dans la table
 insert into aeroports (aeroport_code_icao, aeroport_code_iata, nom, ville, pays, altitude, tz, coordonnees)
-  select ICAO, IATA, name, City, pays.code2, altitude, TZ, st_makepoint(longitude, latitude)
+  select ICAO, IATA, name, City, pays.code2, altitude, TZ, postgis.st_makepoint(longitude, latitude)
   from aeroports_tmp
   left join pays on (pays.nom_eng = aeroports_tmp.Country)
   where IATA is not null

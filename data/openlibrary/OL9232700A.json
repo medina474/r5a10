@@ -1,0 +1,107 @@
+{
+  "links": {
+    "self": "/authors/OL9232700A/works.json",
+    "author": "/authors/OL9232700A"
+  },
+  "size": 3,
+  "entries": [
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Arca",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL9232700A"
+          }
+        },
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL9749785A"
+          }
+        }
+      ],
+      "key": "/works/OL31116785W",
+      "covers": [
+        13825175
+      ],
+      "latest_revision": 2,
+      "revision": 2,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2022-12-03T10:59:56.554699"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2023-04-04T11:49:07.096837"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Pyramides",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL9232700A"
+          }
+        }
+      ],
+      "covers": [
+        12366249
+      ],
+      "key": "/works/OL26413621W",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-11-10T16:28:57.075463"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-11-10T16:28:57.075463"
+      }
+    },
+    {
+      "type": {
+        "key": "/type/work"
+      },
+      "title": "Les Naufrag\u00e9s de Velloa",
+      "authors": [
+        {
+          "type": {
+            "key": "/type/author_role"
+          },
+          "author": {
+            "key": "/authors/OL9232700A"
+          }
+        }
+      ],
+      "covers": [
+        11138347
+      ],
+      "key": "/works/OL24512072W",
+      "latest_revision": 1,
+      "revision": 1,
+      "created": {
+        "type": "/type/datetime",
+        "value": "2021-05-21T12:23:12.836051"
+      },
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-05-21T12:23:12.836051"
+      }
+    }
+  ]
+}

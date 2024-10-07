@@ -6,3 +6,6 @@ GET {{baseUrl}}/
 
 ###
 GET {{baseUrl}}/pays
+
+###
+GET {{baseUrl}}/devises

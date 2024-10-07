@@ -1,18 +1,15 @@
 \c northwind
+-- grant select on all tables in schema public to clients_web;
 
-create role directus noinherit login password 'motdepasse';
-grant all privileges on schema public to directus;
-
-grant usage on schema public to clients_web;
-grant all privileges on pays to clients_web;
-grant all privileges on devises to clients_web;
-grant all privileges on langues to clients_web;
-grant all privileges on regions to clients_web;
-
+-- PostgREST
 create role postgrest noinherit login password 'motdepasse';
 grant clients_web to postgrest;
 
-create role postgraphile noinherit login password 'motdepasse';
+-- Postgraphile
+create role postgraphile inherit login password 'motdepasse';
 grant clients_web to postgraphile;
+
+create role directus noinherit login password 'motdepasse';
+grant all privileges on schema public to directus;
 
 select 'END' as msg;

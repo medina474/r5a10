@@ -17,4 +17,9 @@ create role clients_web nologin;
 
 \c northwind
 
-create extension if not exists postgis;
+grant usage on schema public to clients_web;
+alter default privileges in schema public grant select on tables to clients_web;
+
+-- PostGIS
+create schema postgis;
+create extension if not exists postgis schema postgis;

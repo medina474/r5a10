@@ -11,7 +11,7 @@ create table if not exists aeroports (
   pays text,
   altitude int,
   tz text,
-  coordonnees geometry(Point, 4326) default null::geometry
+  coordonnees postgis.geometry(Point, 4326) default null::postgis.geometry
 );
 
 create table appareils (

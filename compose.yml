@@ -20,6 +20,7 @@ volumes:
   mongodb_config: {}
 #  n8n: {}
   neo4j: {}
+  neo4j_logs: {}
   pgadmin: {}
   postgresql: {}
 #  redis: {}
@@ -405,6 +406,7 @@ services:
       - 7687:7687
     volumes:
       - neo4j:/data
+      - neo4j_logs:/logs
       - ./data:/csv
     environment:
       NEO4J_AUTH: neo4j/${DB_ROOT_PASSWORD}

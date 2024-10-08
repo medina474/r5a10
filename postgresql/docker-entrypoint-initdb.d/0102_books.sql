@@ -38,12 +38,14 @@ CREATE TABLE editions (
   num_pages INTEGER,
   num_catalogue INTEGER,
   langue_code VARCHAR(5),
-  titre text
+  titre text,
+  infos JSON
 );
 
 CREATE TABLE incorpore (
   oeuvre_id INTEGER NOT NULL, -- REFERENCES oeuvres (oeuvre_id),
-  edition_id INTEGER NOT NULL -- REFERENCES editions (edition_id)
+  edition_id INTEGER NOT NULL, -- REFERENCES editions (edition_id)
+  infos JSON
 );
 
 CREATE TABLE exemplaires (
@@ -54,4 +56,4 @@ CREATE TABLE exemplaires (
   etat TEXT
 );
 
-select '=============== FIN BOOKS NORTHWIND' as msg;
+select '=============== FIN STRUCTURE Books' as msg;

@@ -68,3 +68,7 @@ wget $host/books/participe.csv
 wget $host/books/oeuvres.csv
 wget $host/books/editions.csv
 wget $host/books/incorpore.csv
+
+wget $host/books/adresses.csv
+wget $host/books/commande_statut.csv
+wget $host/books/livraison_methode.csv

@@ -3,7 +3,7 @@
 -- ICAO Organisation de l'aviation civile internationale
 -- IATA Association du transport aérien international
 
-create table if not exists aeroports (
+create table aeroports (
   aeroport_code_icao text,
   aeroport_code_iata text,
   nom text,
@@ -40,3 +40,5 @@ alter table operateurs
 
 create unique index operateurs_operateur_code_icao_idx
   on operateurs (operateur_code_icao);
+
+select '=============== FIN STRUCTURE Aviation' as msg;

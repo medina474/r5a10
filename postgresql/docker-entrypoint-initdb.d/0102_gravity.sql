@@ -69,14 +69,6 @@ CREATE TABLE pays (
   pays_name TEXT
 );
 
-CREATE TABLE adresses (
-  adresse_id INTEGER PRIMARY KEY,
-  numero TEXT,
-  voie TEXT,
-  ville TEXT,
-  pays_id INTEGER -- REFERENCES pays (pays_id) 
-);
-
 CREATE TABLE adherents (
   adherent_id INTEGER PRIMARY KEY,
   prenom TEXT NOT NULL,
@@ -95,11 +87,7 @@ CREATE TABLE adherent_adresse (
   -- CONSTRAINT fk_aa_statut FOREIGN KEY (statut_id) REFERENCES statuts (statut_id)
 );
 
-CREATE TABLE livraison_methode (
-  methode_id INTEGER PRIMARY KEY,
-  methode_name TEXT,
-  cout NUMERIC
-);
+
 
 CREATE TABLE commande (
   commande_id INTEGER PRIMARY KEY,
@@ -110,10 +98,7 @@ CREATE TABLE commande (
   dest_adresse_id INTEGER -- REFERENCES adresses (adresse_id)
 );
 
-CREATE TABLE commande_statut (
-  statut_id INTEGER PRIMARY KEY,
-  statut_value TEXT
-);
+
 
 CREATE TABLE commande_ligne (
   ligne_id INTEGER PRIMARY KEY,
@@ -121,11 +106,4 @@ CREATE TABLE commande_ligne (
   exemplaire_id INTEGER, -- REFERENCES exemplaires (exemplaire_id),
   cout NUMERIC,
   date_retour TIMESTAMP
-);
-
-CREATE TABLE commande_historique (
-  historique_id INTEGER PRIMARY KEY,
-  commande_id INTEGER, -- REFERENCES commande (commande_id),
-  statut_id INTEGER, -- REFERENCES commande_statut (statut_id),
-  statut_date TIMESTAMP
 );

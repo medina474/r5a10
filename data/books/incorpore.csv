@@ -11145,16 +11145,70 @@
 11136,11142,
 11137,11143,
 11138,11144,
-11139,11145,Bataille 1 : Récupération - L'Ange rouillé (錆びた天使, Sabita Tenshi)
-11139,11145,Bataille 2 : L'éveil - Le Sens du combat (戦いの血, Tatakai no Chi)
-11139,11145,Bataille 3 : Valeurs - La Déchirure (価値あるもの, Kachi Aru Mono)
-11139,11145,Bataille 4 : Résurrection - Berserker (甦る狂戦士, Yomigaeru Bāsākā)
-11139,11145,Bataille 5 : Responsabilité - Descente aux enfers (奈落の罠, Naraku no Wana)
-11139,11145,Bataille 6 : Conflit - L'Ange conquérant (戦う天使, Tatakau Tenshi)
-11139,11146,Bataille 7 : Compassion - Les Larmes d'un ange (天使の涙, Tenshi no Namida)
-11139,11146,Bataille 8 : Déchaînement - Tombé du ciel (空を見た少年, Sora o Mita Shōnen)
-11139,11146,Bataille 9 : L'Éveil du cœur - La Dame de fer (鋼鉄の処女, Kōtetsu no Shojo)
-11139,11146,Bataille 10 : Prisonnier d'un rêve - Jours de pluie (逃亡者ユーゴ, Tōbōsha Yūgo)
-11139,11146,Bataille 11 : Désillusions - Rêves amers (苦い夢, Nigai Yume)
-
-
+11139,11145,"Bataille 1 : Récupération - L'Ange rouillé (錆びた天使, Sabita Tenshi)"
+11139,11145,"Bataille 2 : L'éveil - Le Sens du combat (戦いの血, Tatakai no Chi)"
+11139,11145,"Bataille 3 : Valeurs - La Déchirure (価値あるもの, Kachi Aru Mono)"
+11139,11145,"Bataille 4 : Résurrection - Berserker (甦る狂戦士, Yomigaeru Bāsākā)"
+11139,11145,"Bataille 5 : Responsabilité - Descente aux enfers (奈落の罠, Naraku no Wana)"
+11139,11145,"Bataille 6 : Conflit - L'Ange conquérant (戦う天使, Tatakau Tenshi)"
+11139,11146,"Bataille 7 : Compassion - Les Larmes d'un ange (天使の涙, Tenshi no Namida)"
+11139,11146,"Bataille 8 : Déchaînement - Tombé du ciel (空を見た少年, Sora o Mita Shōnen)"
+11139,11146,"Bataille 9 : L'Éveil du cœur - La Dame de fer (鋼鉄の処女, Kōtetsu no Shojo)"
+11139,11146,"Bataille 10 : Prisonnier d'un rêve - Jours de pluie (逃亡者ユーゴ, Tōbōsha Yūgo)"
+11139,11146,"Bataille 11 : Désillusions - Rêves amers (苦い夢, Nigai Yume)"
+11139,11147,"Bataille 12 : Désillusions - Rêves amers (雲の彼方, Kumo no Kanata)"
+11139,11147,"Bataille 13 : L'ange de la mort - Découverte (殺戮の天使, Satsuriku no Enjeru)"
+11139,11147,"Bataille 14 : Le champion des champions - Nouvelles alliances (帝王謁見, Teiō Ekken)"
+11139,11147,"Bataille 15 : Le Challenge - Qualification (頭蓋骨勝負, Zugaikotsu Shōbu)"
+11139,11147,"Bataille 16 : Un seul cœur - Enjeu total (ハートはひとつ, Hāto wa Hitotsu)"
+11139,11147,"Bataille 17 : La voie du challenger - Deuxième étape (挑戦者への道, Chōsensha e no Michi)"
+11139,11148,"Bataille 18 : Headbanger's Ball (舞闘祭, Butōsai)"
+11139,11148,"Bataille 19 : Zone rouge (風の領域, Kaze no Ryōiki)"
+11139,11148,"Bataille 20 : Tradition (夢を継ぐ者, Yume o Tsugu Mono)"
+11139,11148,"Bataille 21 : Outsider (アウトサイダー, Auto Saidā)"
+11139,11148,"Bataille 22 : Ars magna (炎の中に立つ男, Honō no Naka ni Tatsu Otoko)"
+11139,11149,"Bataille 23 : La Brebis égarée (復讐の季節, Fukushū no Kisetsu)"
+11139,11149,"Bataille 24 : Le Maître-chien (贖いのしらべ, Aganai no Shirabe)"
+11139,11149,"Bataille 25 : Le Laboratoire (業のフラスコ, Karuma no Furasuko)"
+11139,11149,"Bataille 26 : Effondrement (崩壊, Hōkai)"
+11139,11149,"Bataille 27 : 贖罪の山羊 (Shokuzai no Yagi)"
+11139,11149,"Bataille 28 : Les Choses en face (激突, Gekitotsu)"
+11139,11149,"Bataille 29 : 強き者と弱き者のために (Tsuyoki Mono to Yowaki Mono no Tame ni)"
+11139,11150,"Bataille 30 : La Porte jaune (審判の日, Shinpan no Hi)"
+11139,11150,"Bataille 31 : L'Ange du mal (死の天使, Shi no Tenshi)"
+11139,11150,"Bataille 32 : Héros de l'ouest sauvage (荒野の三人, Kōya no San Nin)"
+11139,11150,"Bataille 33 : La Loi de la jungle (地獄の野獣, Jigoku no Yajū)"
+11139,11150,"Bataille 34 : Trahison (裏切りの大地, Uragiri no Daichi)"
+11139,11150,"Bataille 35 : Le faiseur de pluie (自由への道, Jiyū e no Michi)"
+11139,11151,"Bataille 36 : Les surfaciens (空仰ぐ者等, Sora Aogu Monora)"
+11139,11151,"Bataille 37 : Radio K.A.O.S. (荒野の歌人, Kōya no Utabito)"
+11139,11151,"Bataille 38 : Psychométrie (地底の渾沌, Chitei no Konton)"
+11139,11151,"Bataille 39 : Noces de fer (機甲花嫁, Kikō Hanayome)"
+11139,11151,"Bataille 40 : Divergences (訣別, Ketsubetsu)"
+11139,11151,"Bataille 41 : Dédoublement (生命の甘き果実, Seimei no Amaki Kajitsu)"
+11139,11152,"Bataille 42 : La dernière émission (最後のラジオ, Saigo no Rajio)"
+11139,11152,"Bataille 43 : Le village au bord de l'eau (水辺の村で, Mizube no Mura de)"
+11139,11152,"Bataille 44 : Évolution (獣の後継, Kemono no Kōkei)"
+11139,11152,"Bataille 45 : Les mille visages de la folie (狂気の一千の貌, Kyōki no Issen no Kao)"
+11139,11152,"Bataille 46 : Chronique guerrière (馬借戦記, Bājakku Senki)"
+11139,11152,"Bataille 47 : Ouroboros-I (夢と鋼, Yume to Hagane)"
+11139,11153,"Bataille 48 : Problème de cerveau (脳プロブレム, Nō Puroburemu)"
+11139,11153,"Bataille 49 : Rêve et sentiment (夢とハート, Yume to Hāto)"
+11139,11153,"Bataille 50 : Le Maître d'acier (鋼鉄の主, Kōtetsu no Aruji)"
+11139,11153,"Bataille 51 : Destruction Atomique (陽子崩壊, Yōko Hōkai)"
+11139,11153,"Bataille 52 : L'Invasion de Zalem (ザレム征服, Zaremu Seifuku)"
+11139,11153,"Épilogue : Barjack : Chroniques Guerrières"
+11134,11154,Le Maître des ténèbres
+11135,11154,Le Maître de la mort
+11136,11154,Le Maître des illusions
+11137,11155,La Maîtresse des délires 
+11138,11155,Les Sortilèges de la nuit
+11139,11156,Tome 1
+11139,11156,Tome 2
+11139,11156,Tome 3
+11139,11156,Tome 4
+11139,11156,Tome 5
+11139,11156,Tome 6
+11139,11156,Tome 7
+11139,11156,Tome 8
+11139,11156,Tome 9

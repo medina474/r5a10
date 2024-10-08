@@ -771,7 +771,7 @@ editeur_id,editeur_nom,ville
 770,Gibbs Smith,
 771,Gibbs Smith Publishers,
 772,Gingko Press,
-773,Glénat,
+773,Glénat,Grenoble
 774,Globe,
 775,Godsfield Press Ltd,
 776,Gold Eagle,
@@ -2267,7 +2267,7 @@ editeur_id,editeur_nom,ville
 2266,Casterman,Tournai
 2267,Dargaud,Paris
 2268,Dupuis,Marcinelle
-2269,Glénat,Grenoble
+2269,**,**
 2270,Le Lombard,Bruxelles
 2271,Delcourt,Paris
 2272,Soleil Productions,Toulon  

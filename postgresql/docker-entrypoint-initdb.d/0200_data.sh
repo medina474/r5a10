@@ -15,6 +15,8 @@ wget $host/northwind/shippers.csv
 wget $host/northwind/banques.csv
 wget $host/northwind/products.csv
 wget $host/northwind/orders.csv
+wget $host/northwind/zones.csv
+wget $host/northwind/marques.csv
 wget $host/northwind/order_details.csv
 
 mkdir -p /docker-entrypoint-data.d/geo
@@ -26,6 +28,7 @@ wget $host/geo/pays-en.txt
 wget $host/geo/langues.csv
 wget $host/geo/pays_langues.csv
 wget $host/geo/devises.csv
+wget $host/geo/pays_devises.csv
 
 mkdir -p /docker-entrypoint-data.d/regions
 cd /docker-entrypoint-data.d/regions
@@ -72,3 +75,6 @@ wget $host/books/incorpore.csv
 wget $host/books/adresses.csv
 wget $host/books/commande_statut.csv
 wget $host/books/livraison_methode.csv
+
+wget $host/northwind/zones.csv
+wget $host/northwind/marques.csv

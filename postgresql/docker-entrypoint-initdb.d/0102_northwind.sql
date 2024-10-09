@@ -8,6 +8,13 @@ create table categories (
   description text
 );
 
+-- brands
+create table marques (
+  marque_id smallint not null,
+  marque text not null
+);
+
+
 CREATE TABLE customers
 (
   customer_id character varying(5) not null,

@@ -25,7 +25,7 @@ drop table pays_tmp;
 \copy pays_langues from '/docker-entrypoint-data.d/geo/pays_langues.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 \copy devises from '/docker-entrypoint-data.d/geo/devises.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
---\copy pays_devises from '/data/geo/pays_devises.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy pays_devises from '/docker-entrypoint-data.d/geo/pays_devises.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 
 select '=============== FIN IMPORTATION DATA GEO' as msg;

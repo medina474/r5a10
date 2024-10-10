@@ -39,17 +39,10 @@ CREATE TABLE langues (
   langue TEXT
 );
 
-
-CREATE TABLE series (
-  serie_id INTEGER PRIMARY KEY,
-  serie TEXT
-);
-
 CREATE TABLE genres (
   genre_id INTEGER PRIMARY KEY,
   genre TEXT
 );
-
 
 
 CREATE TABLE relations (

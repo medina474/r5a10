@@ -70,17 +70,17 @@ alter table territories
   add constraint fk_territories_region
   foreign key (region_code) references regions;
 
-alter table employee_territories
-  add constraint pk_employee_territories
+alter table employe_territories
+  add constraint pk_employe_territories
   primary key (employee_id, territory_id);
 
-alter table employee_territories
-  add constraint fk_employee_territories_territories
+alter table employe_territories
+  add constraint fk_employe_territories_territories
   foreign key (territory_id) references territories;
 
-alter table employee_territories
-  add constraint fk_employee_territories_employees
-  foreign key (employee_id) references employees;
+alter table employe_territories
+  add constraint fk_employe_territories_employes
+  foreign key (employee_id) references employes;
 
 
 alter table customers
@@ -93,8 +93,8 @@ alter table categories
   primary key (categorie_code);
 */
 alter table orders
-  add constraint fk_order_employees
-  foreign key (employee_id) references employees (employee_id);
+  add constraint fk_order_employes
+  foreign key (employee_id) references employes (employe_id);
 
 alter table orders
   add constraint fk_order_customers
@@ -112,8 +112,8 @@ alter table order_details
   add constraint fk_order_details_products
 	foreign key (productid) references products (productid);
 
-create index employees_lastname_idx
-  using btree on employees (lastname);
+create index employes_lastname_idx
+  using btree on employes (lastname);
 
 alter table marques
   add constraint pk_marques

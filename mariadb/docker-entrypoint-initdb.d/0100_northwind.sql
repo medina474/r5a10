@@ -120,7 +120,7 @@ create table categories (
 );
 */
 
-create or replace table employees
+create table employes
 (
   employee_id integer PRIMARY KEY AUTO_INCREMENT,
   LastName character varying(15),
@@ -188,7 +188,7 @@ create or replace table territories
   zone_id integer not null
 );
 
-create or replace table employee_territories
+create table employe_territories
 (
   employee_id integer not null,
   territory_id character varying(20) not null

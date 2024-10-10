@@ -1,4 +1,4 @@
-"oeuvre_id","titre","langue_code","genre_id","serie_id"
+"oeuvre_id","titre","langue_code","genre_id","infos"
 1,The World's First Love: Mary  Mother of God,en-US,,
 2,The Illuminati,eng,,
 3,The Servant Leader,eng,,
@@ -27,9 +27,9 @@
 26,The Prophet,eng,,
 27,Sam And The Firefly (Beginner Books),eng,,
 28,After the Funeral,eng,,
-29,Sleeping Murder,eng,,(Miss Marple  #13)
+29,Sleeping Murder,eng,,"{""serie"": ""Miss Marple  #13""}"
 30,The One Tree (The Second Chronicles of Thomas Covenant  #2),en-GB,,
-31,The Great And Secret Show,eng,,(Book of the Art #1)
+31,The Great And Secret Show,eng,,"{""serie"": ""Book of the Art #1""}"
 32,Rage of Angels,eng,,
 33,The Four Loves,en-US,,
 34,Divine Conspiracy: Rediscovering Our Hidden Life in God,en-US,,
@@ -40,10 +40,10 @@
 39,Sacrament,eng,,
 40,Witness for the Prosecution and Selected Plays,eng,,
 41,The Little House,eng,,
-42,Mystical Paths,eng,,(Starbridge  #5)
-43,Glittering Images,eng,,(Starbridge  #1)
+42,Mystical Paths,eng,,"{""serie"": ""Starbridge  #5""}"
+43,Glittering Images,eng,,"{""serie"": ""Starbridge  #1""}"
 44,Scandalous Risks,eng,,
-45,Glamorous Powers,en-GB,,(Starbridge  #2)
+45,Glamorous Powers,en-GB,,"{""serie"": ""Starbridge  #2""}"
 46,The Mad Ship (Liveship Traders  #2),eng,,
 47,The Reverse of the Medal (Aubrey & Maturin #11),eng,,
 48,Miss Marple Omnibus Vol. 3 (Murder at the Vicarage / Nemesis / Sleeping Murder / At Bertram's Hotel),eng,,
@@ -62,21 +62,21 @@
 61,The One Minute Minute Sales Person,eng,,
 62,Tree and Leaf: Includes Mythopoeia and The Homecoming of Beorhtnoth,eng,,
 63,Dreamland (Dreamland  #1),eng,,
-64,Partners in Crime,eng,,(Tommy and Tuppence #2)
+64,Partners in Crime,eng,,"{""serie"": ""Tommy and Tuppence #2""}"
 65,The Lord of the Rings: The Return of the King - Visual Companion,eng,,
 66,All Families Are Psychotic,eng,,
-67,Hallowe'en Party,eng,,(Hercule Poirot  #39)
-68,Hercule Poirot's Christmas,eng,,(Hercule Poirot  #20)
-69,Mrs. McGinty's Dead,eng,,(Hercule Poirot  #30)
-70,Dead Man's Folly,eng,,(Hercule Poirot  #33)
+67,Hallowe'en Party,eng,,"{""serie"": ""Hercule Poirot  #39""}"
+68,Hercule Poirot's Christmas,eng,,"{""serie"": ""Hercule Poirot  #20""}"
+69,Mrs. McGinty's Dead,eng,,"{""serie"": ""Hercule Poirot  #30""}"
+70,Dead Man's Folly,eng,,"{""serie"": ""Hercule Poirot  #33""}"
 71,The Metaphysical Club,eng,,
 72,At the Mountains of Madness and Other Novels of Terror,eng,,
-73,The Lord of the Rings,eng,,(The Lord of the Rings  #1-3)
+73,The Lord of the Rings,eng,,"{""serie"": ""The Lord of the Rings  #1-3""}"
 74,The Annotated Hobbit,eng,,
 75,The History of Middle-Earth Index (The History of Middle-Earth  #13),eng,,
 76,The Lord of the Rings / The Hobbit,eng,,
 77,Complete Works of Oscar Wilde,eng,,
-78,Naked Empire,en-GB,,(Sword of Truth  #8)
+78,Naked Empire,en-GB,,"{""serie"": ""Sword of Truth  #8""}"
 79,Roverandom,eng,,
 80,Tales from the Perilous Realm,eng,,
 81,The Yiddish Policemen's Union,eng,,
@@ -10024,14 +10024,14 @@
 10024,Creepers,en-CA,,
 10025,Scavenger (Frank Balenger  #2),eng,,
 10026,Write Great Code: Volume 1: Understanding the Machine,eng,,
-10027,The Enemy,eng,,(Jack Reacher  #8)
-10028,The Enemy,eng,,(Jack Reacher  #8)
-10029,Tripwire,eng,,(Jack Reacher  #3)
-10030,Tripwire,en-US,,(Jack Reacher  #3)
-10031,The Enemy,eng,,(Jack Reacher  #8)
-10032,One Shot,eng,,(Jack Reacher  #9)
-10033,Killing Floor,en-US,,(Jack Reacher  #1)
-10034,Tripwire,eng,,(Jack Reacher  #3)
+10027,The Enemy,eng,,"{""serie"": ""Jack Reacher  #8""}"
+10028,The Enemy,eng,,"{""serie"": ""Jack Reacher  #8""}"
+10029,Tripwire,eng,,"{""serie"": ""Jack Reacher  #3""}"
+10030,Tripwire,en-US,,"{""serie"": ""Jack Reacher  #3""}"
+10031,The Enemy,eng,,"{""serie"": ""Jack Reacher  #8""}"
+10032,One Shot,eng,,"{""serie"": ""Jack Reacher  #9""}"
+10033,Killing Floor,en-US,,"{""serie"": ""Jack Reacher  #1""}"
+10034,Tripwire,eng,,"{""serie"": ""Jack Reacher  #3""}"
 10035,The Tolkien Fan's Medieval Reader,eng,,
 10036,The Sillymarillion: An Unauthorized Parody of J.R.R. Tolkien's Classic the Silmarillion,eng,,
 10037,A Smart Girl's Guide to Money: How to Make It  Save It  And Spend It,en-GB,,
@@ -10040,7 +10040,7 @@
 10040,Teaching Reading Comprehension to Students with Learning Difficulties,eng,,
 10041,Shadow of the Hegemon (Shadow  #2),eng,,
 10042,A Spiritual Journey,en-US,,
-10043,Cold Hit,eng,,(Shane Scully #5)
+10043,Cold Hit,eng,,"{""serie"": ""Shane Scully #5)""}"
 10044,Tyrannosaur Canyon,eng,,
 10045,The Altman Code (Covert-One  #4),eng,,
 10046,The Full Box (Full  #1-4),eng,,
@@ -10207,14 +10207,14 @@
 10207,The Barefoot Book Of Ballet Stories,eng,,
 10208,Crossroads of Twilight (Wheel of Time  #10),eng,,
 10209,First Meetings: In the Enderverse,en-GB,,
-10210,The Magicians' Guild,eng,,(Black Magician Trilogy  #1)
-10211,The Novice,eng,,(Black Magician Trilogy  #2)
-10212,The High Lord,eng,,(Black Magician Trilogy  #3)
+10210,The Magicians' Guild,eng,,"{""serie"": ""Black Magician Trilogy  #1""}"
+10211,The Novice,eng,,"{""serie"": ""Black Magician Trilogy  #2""}"
+10212,The High Lord,eng,,"{""serie"": ""Black Magician Trilogy  #3""}"
 10213,The Konrad Saga (Konrad  #1-3),eng,,
 10214,The Killer Angels (The Civil War Trilogy  #2),eng,,
 10215,The Nightmare Years: 1930-40 (20th Century Journey  #2),eng,,
-10216,Jeeves and The Feudal Spirit,eng,,(Jeeves  #11)
-10217,Stiff Upper Lip  Jeeves,eng,,(Jeeves  #13)
+10216,Jeeves and The Feudal Spirit,eng,,"{""serie"": ""Jeeves  #11""}"
+10217,Stiff Upper Lip  Jeeves,eng,,"{""serie"": ""Jeeves  #13""}"
 10218,Eggs  Beans  and Crumpets,eng,,
 10219,The Mating Season (Jeeves  #9),eng,,
 10220,Joy in the Morning (Jeeves  #8),eng,,
@@ -10269,9 +10269,9 @@
 10269,The Fourth Crusade: And the Sack of Constantinople,eng,,
 10270,Man's Search for Meaning,eng,,
 10271,Red Road From Stalingrad: Recollections of a Soviet Infantryman,en-US,,
-10272,The Ultramarines Omnibus,eng,,(Ultramarines #1-3)
+10272,The Ultramarines Omnibus,eng,,"{""serie"": ""Ultramarines #1-3""}"
 10273,Outlander,eng,,
-10274,The Soul Drinkers Omnibus,eng,,(Soul Drinkers #1-3)
+10274,The Soul Drinkers Omnibus,eng,,"{""serie"": ""Soul Drinkers #1-3""}"
 10275,Doctor Who Short Trips: Repercussions,eng,,
 10276,Primary English: Knowledge and Understanding,eng,,
 10277,Jimi Hendrix: The Complete Guide to His Music  (Complete Guide to the Music of...),eng,,
@@ -10846,8 +10846,8 @@
 10846,Ali und Nino,ger,,
 10847,Artemis Fowl (Artemis Fowl  #1),ger,,
 10848,Yeats ist tot!,ger,,
-10849,Harry Potter und die Kammer des Schreckens ,ger,,(Harry Potter  #2)
-10850,Harry Potter und der Gefangene von Askaban ,ger,,(Harry Potter  #3)
+10849,Harry Potter und die Kammer des Schreckens ,ger,,"{""serie"": ""Harry Potter  #2""}"
+10850,Harry Potter und der Gefangene von Askaban ,ger,,"{""serie"": ""Harry Potter  #3""}"
 10851,Mein Urgroßvater  die Helden und ich,ger,,
 10852,Utena: Revolutionary Girl 01,ger,,
 10853,Rover rettet Weihnachten.,ger,,
@@ -11085,7 +11085,7 @@
 11085,La verdad acerca de las Industrias Farmacéuticas: cómo nos engaña y qué hacer al respecto,spa,,
 11086,Narraciones Extraordinarias,spa,,
 11087,Las intermitencias de la muerte,spa,,
-11088,The Hound of the Baskervilles,eng,,(Sherlock Holmes  #5)
+11088,The Hound of the Baskervilles,eng,,"{""serie"": ""Sherlock Holmes  #5""}"
 11089,Moby Dick,eng,,
 11090,A Portrait of the Artist as a Young Man,eng,,
 11091,La increíble y triste historia de la cándida Eréndira y de su abuela desalmada,spa,,

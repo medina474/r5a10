@@ -2,23 +2,6 @@
 
 host=http://caddy
 
-mkdir -p /docker-entrypoint-data.d/northwind
-cd /docker-entrypoint-data.d/northwind
-
-wget $host/northwind/categories.csv
-wget $host/northwind/territories.csv
-wget $host/northwind/employees.csv
-wget $host/northwind/employee_territories.csv
-wget $host/northwind/customers.csv
-wget $host/northwind/suppliers.csv
-wget $host/northwind/shippers.csv
-wget $host/northwind/banques.csv
-wget $host/northwind/products.csv
-wget $host/northwind/orders.csv
-wget $host/northwind/zones.csv
-wget $host/northwind/marques.csv
-wget $host/northwind/order_details.csv
-
 mkdir -p /docker-entrypoint-data.d/geo
 cd /docker-entrypoint-data.d/geo
 
@@ -56,6 +39,7 @@ wget $host/regions/se.csv
 wget $host/regions/ua.csv
 wget $host/regions/us.csv
 
+# Aviation
 mkdir -p /docker-entrypoint-data.d/aviation
 cd /docker-entrypoint-data.d/aviation
 
@@ -76,5 +60,30 @@ wget $host/books/adresses.csv
 wget $host/books/commande_statut.csv
 wget $host/books/livraison_methode.csv
 
-wget $host/northwind/zones.csv
+
+# Northwind
+mkdir -p /docker-entrypoint-data.d/northwind
+cd /docker-entrypoint-data.d/northwind
+
 wget $host/northwind/marques.csv
+wget $host/northwind/categories.csv
+wget $host/northwind/customers.csv
+wget $host/northwind/suppliers.csv
+wget $host/northwind/shippers.csv
+wget $host/northwind/banques.csv
+wget $host/northwind/products.csv
+wget $host/northwind/orders.csv
+wget $host/northwind/marques.csv
+wget $host/northwind/order_details.csv
+
+mkdir -p /docker-entrypoint-data.d/northwind/employes
+cd /docker-entrypoint-data.d/northwind/employes
+
+wget $host/northwind/employes/zones.csv
+wget $host/northwind/employes/zone_regions.csv
+wget $host/northwind/employes/territories.csv
+wget $host/northwind/employes/employes.csv
+wget $host/northwind/employes/employe_territories.csv
+
+wget $host/postal/zipcodes.us.csv
+wget $host/postal/laposte_hexasmal.csv

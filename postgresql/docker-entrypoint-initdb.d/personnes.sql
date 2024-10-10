@@ -2,10 +2,8 @@ CREATE TABLE personnes (
   id integer NOT NULL,
   nom varchar(15) NOT NULL,
   prenom varchar(15) NOT NULL,
-  genre tinyint(1) DEFAULT NULL,
-  naissance date DEFAULT NULL,
-  PRIMARY KEY (id),
-  KEY nom (nom)
+  genre integer DEFAULT NULL,
+  naissance date DEFAULT NULL
 ) ;
 
 --
@@ -1170,7 +1168,7 @@ INSERT INTO personnes (id, nom, prenom, genre, naissance) VALUES
 (1155, 'Andre', 'Noel', 1, '1984-02-26'),
 (1156, 'Ledoux', 'Jennifer', 2, '1972-06-16');
 
-INSERT INTO `personnes` (`id`, `nom`, `prenom`, `genre`, `naissance`) VALUES
+INSERT INTO personnes (id, nom, prenom, genre, naissance) VALUES
 (1157, 'Gimenez', 'Jean-Luc', 1, '1984-09-15'),
 (1158, 'Boileau', 'Malcom', 1, '1983-02-13'),
 (1159, 'Lelong', 'Jean-Louis', 1, '1984-03-19'),

@@ -9,11 +9,10 @@ CREATE TABLE oeuvres (
   oeuvre_id INTEGER,
   titre TEXT,
   langue_code VARCHAR(5), -- REFERENCES langues (langue_code),
-  genre_id INTEGER,
-  serie_id INTEGER
+  genre_id integer,
+  infos json
   --CONSTRAINT fk_oeuvre_editeur FOREIGN KEY (editeur_id) REFERENCES editeurs (editeur_id),
-  --CONSTRAINT fk_oeuvre_genre   FOREIGN KEY (genre_id) REFERENCES genres (genre_id),
-  --CONSTRAINT fk_oeuvre_serie   FOREIGN KEY (serie_id) REFERENCES series (serie_id)
+  --CONSTRAINT fk_oeuvre_genre   FOREIGN KEY (genre_id) REFERENCES genres (genre_id)
 );
 
 CREATE TABLE participe (

@@ -31,32 +31,6 @@ CREATE TABLE customers
 );
 
 
-CREATE TABLE employees (
-  employee_id smallint not null,
-  last_name character varying(20) not null,
-  first_name character varying(10) not null,
-  title character varying(30),
-  title_of_courtesy character varying(25),
-  birth_date date,
-  hire_date date,
-  address character varying(60),
-  city character varying(15),
-  region character varying(15),
-  postal_code character varying(10),
-  country character varying(15),
-  home_phone character varying(24),
-  extension character varying(4),
-  photo bytea,
-  notes text,
-  reports_to smallint,
-  photo_path text
-);
-
-CREATE TABLE employee_territories (
-  employee_id smallint not null,
-  territory_id character varying(20) not null
-);
-
 CREATE TABLE products (
   product_id smallint not null PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
   product_name text not null,
@@ -84,7 +58,7 @@ CREATE TABLE order_details (
 CREATE TABLE orders (
   order_id smallint not null,
   customer_id character varying(5),
-  employee_id smallint,
+  employe_id smallint,
   order_date date,
   required_date date,
   shipped_date date,
@@ -153,21 +127,7 @@ CREATE TABLE territories
 (
   territory_id character varying(20) not null,
   territory_description character varying(60) not null,
-  region_id smallint not null
-);
-
-CREATE TABLE us_states
-(
-  state_id smallint not null,
-  state_name character varying(100),
-  state_abbr character varying(2),
-  state_region character varying(50)
-);
-
-CREATE TABLE zones
-(
-  zone_id smallint not null,
-  region_description text not null
+  region varchar(5) not null
 );
 
 commit;

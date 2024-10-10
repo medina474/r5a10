@@ -84,3 +84,6 @@ wget $host/northwind/employes/zone_regions.csv
 wget $host/northwind/employes/territories.csv
 wget $host/northwind/employes/employes.csv
 wget $host/northwind/employes/employe_territories.csv
+
+wget $host/postal/zipcodes.us.csv
+wget $host/postal/laposte_hexasmal.csv

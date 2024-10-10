@@ -21,6 +21,13 @@ CREATE TABLE employes (
   photo_path text
 );
 
+create table territories
+(
+  territory_id character varying(20) not null,
+  territory_description character varying(60) not null,
+  region varchar(5) not null
+);
+
 create table employe_territories (
   employe_id smallint not null,
   territory_id character varying(20) not null

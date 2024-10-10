@@ -14,7 +14,7 @@ create table marques (
   marque text not null
 );
 
-
+-- customers
 CREATE TABLE customers
 (
   customer_id character varying(5) not null,
@@ -120,14 +120,6 @@ create table banques
   adresse  text,
   codepostal  character varying(8),
   ville  character varying(30)
-);
-
-
-CREATE TABLE territories
-(
-  territory_id character varying(20) not null,
-  territory_description character varying(60) not null,
-  region varchar(5) not null
 );
 
 commit;

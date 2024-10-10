@@ -1,4 +1,4 @@
-create schema if not exists northwind;
+create schema northwind;
 use northwind;
 
 start transaction;

@@ -85,5 +85,8 @@ wget $host/northwind/employes/territories.csv
 wget $host/northwind/employes/employes.csv
 wget $host/northwind/employes/employe_territories.csv
 
+mkdir -p /docker-entrypoint-data.d/postal
+cd /docker-entrypoint-data.d/postal
+
 wget $host/postal/zipcodes.us.csv
 wget $host/postal/laposte_hexasmal.csv

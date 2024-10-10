@@ -1,22 +1,22 @@
 \c northwind
 
 alter table only categories
-  add constraint pk_categories 
+  add constraint pk_categories
   primary key (category_id);
 
 
 ALTER TABLE ONLY customers
-    ADD CONSTRAINT pk_customers 
-    PRIMARY KEY (customer_id);
+  ADD CONSTRAINT pk_customers
+  PRIMARY KEY (customer_id);
 
 
 --
--- Name: pk_employes; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
+-- Name: pk_employes; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace:
 --
 
 
 --
--- Name: pk_order_details; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
+-- Name: pk_order_details; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace:
 --
 
 ALTER TABLE ONLY order_details
@@ -24,24 +24,24 @@ ALTER TABLE ONLY order_details
 
 
 --
--- Name: pk_orders; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
+-- Name: pk_orders; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace:
 --
 
-ALTER TABLE ONLY orders
-  ADD CONSTRAINT pk_orders 
-  PRIMARY KEY (order_id);
+alter table only orders
+  add constraint pk_orders
+  primary key (order_id);
 
 
-ALTER TABLE ONLY shippers
-  ADD CONSTRAINT pk_shippers 
-  PRIMARY KEY (shipper_id);
+alter table only shippers
+  add constraint pk_shippers
+  primary key (shipper_id);
 
-ALTER TABLE ONLY suppliers
-  ADD CONSTRAINT pk_suppliers 
-  PRIMARY KEY (supplier_id);
+alter table only suppliers
+  add constraint pk_suppliers
+  primary key (supplier_id);
 
 --
--- Name: pk_products; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace: 
+-- Name: pk_products; Type: CONSTRAINT; Schema: public; Owner: -; Tablespace:
 --
 
 --ALTER TABLE ONLY products

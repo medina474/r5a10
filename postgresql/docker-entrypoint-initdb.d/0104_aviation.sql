@@ -30,13 +30,7 @@ create table operateurs (
   callsign text
 );
 
-alter table aeroports
-  add constraint aeroports_pkey
-  primary key (aeroport_code_icao);
 
-alter table operateurs
-  add constraint operateurs_pkey
-  primary key (operateur_code_iata);
 
 create unique index operateurs_operateur_code_icao_idx
   on operateurs (operateur_code_icao);

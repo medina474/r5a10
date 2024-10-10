@@ -67,7 +67,9 @@ create table devises
   minors character varying(20) default null
 );
 
-alter table devises add constraint devise_code_check check (devise_code ~ '^[A-Z]{3}$');
+alter table devises
+  add constraint devise_code_check
+  check (devise_code ~ '^[A-Z]{3}$');
 
 create table pays_devises
 (
@@ -81,7 +83,7 @@ create table adresses (
   numero TEXT,
   voie TEXT,
   ville TEXT,
-  pays_id integer -- REFERENCES pays (pays_id) 
+  pays_id integer -- REFERENCES pays (pays_id)
 );
 
 commit;

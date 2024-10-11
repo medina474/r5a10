@@ -20,7 +20,8 @@ ALTER TABLE ONLY customers
 --
 
 ALTER TABLE ONLY order_details
-    ADD CONSTRAINT pk_order_details PRIMARY KEY (order_id, product_id);
+  ADD CONSTRAINT pk_order_details 
+  PRIMARY KEY (order_id, product_id);
 
 
 --
@@ -70,8 +71,7 @@ alter table only suppliers
 -- Name: fk_order_details_orders; Type: Constraint; Schema: -; Owner: -
 --
 
-ALTER TABLE ONLY order_details
-    ADD CONSTRAINT fk_order_details_orders FOREIGN KEY (order_id) REFERENCES orders;
+
 
 
 --

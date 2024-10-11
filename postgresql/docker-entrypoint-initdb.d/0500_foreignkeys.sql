@@ -25,3 +25,7 @@ ALTER TABLE ONLY orders
 ALTER TABLE ONLY order_details
   ADD CONSTRAINT fk_order_details_products 
   FOREIGN KEY (product_id) REFERENCES products;
+
+ALTER TABLE ONLY order_details
+  ADD CONSTRAINT fk_order_details_orders 
+  FOREIGN KEY (order_id) REFERENCES orders;

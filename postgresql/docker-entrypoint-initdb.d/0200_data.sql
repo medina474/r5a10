@@ -1,1 +1,1 @@
-\c northwind
+select '=============== DEBUT IMPORT DATA' as msg;

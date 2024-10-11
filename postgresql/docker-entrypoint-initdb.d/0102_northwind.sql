@@ -30,7 +30,7 @@ CREATE TABLE customers
 
 
 CREATE TABLE products (
-  product_id smallint not null PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+  product_id smallint not null,
   product_name text not null,
   supplier_id smallint,
   category_id smallint,

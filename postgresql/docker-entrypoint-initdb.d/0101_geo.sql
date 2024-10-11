@@ -2,8 +2,7 @@
 
 -- pays
 
-create table pays
-(
+create table pays (
   code2 character(2) not null,
   code3 character(3) not null,
   code_num character(3) not null check (code_num ~ '^[0-9]{3}$'),
@@ -25,8 +24,7 @@ comment on column pays.code_num
 
 -- regions
 
-create table regions
-(
+create table regions (
   region_code character varying(6),
   region_parent character varying(6),
   region text not null,

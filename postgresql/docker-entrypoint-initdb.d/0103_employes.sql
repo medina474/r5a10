@@ -27,9 +27,9 @@ create table territories (
   region varchar(5) not null
 );
 
-create table employe_territories (
+create table employe_regions (
   employe_id smallint not null,
-  territory_id character varying(20) not null
+  region varchar(5) not null
 );
 
 create table zones (

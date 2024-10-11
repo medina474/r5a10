@@ -3,7 +3,6 @@
   --DROP TABLE IF EXISTS commande_historique;
   --DROP TABLE IF EXISTS commande_ligne;
   --DROP TABLE IF EXISTS commande;
-  --DROP TABLE IF EXISTS commande_statut;
   --DROP TABLE IF EXISTS livraison_methode;
 
   --DROP TABLE IF EXISTS adherent_adresse;

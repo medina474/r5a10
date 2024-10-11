@@ -8,7 +8,6 @@
 \copy incorpore from '/docker-entrypoint-data.d/books/incorpore.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 \copy adresses from '/docker-entrypoint-data.d/books/adresses.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy commande_statut from '/docker-entrypoint-data.d/books/commande_statut.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy livraison_methode from '/docker-entrypoint-data.d/books/livraison_methode.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 select '=============== FIN IMPORTATION DATA BOOKS' as msg;

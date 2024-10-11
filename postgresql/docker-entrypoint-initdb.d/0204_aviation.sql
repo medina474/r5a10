@@ -46,7 +46,6 @@ insert into aeroports (aeroport_code_icao, aeroport_code_iata, nom, ville, pays,
   where IATA is not null
   order by AirportID;
 
-create unique index aeroports_aeroport_code_iata_idx
-  on aeroports (aeroport_code_iata);
+
 
 drop table aeroports_tmp;

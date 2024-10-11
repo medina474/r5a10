@@ -57,7 +57,6 @@ wget $host/books/editions.csv
 wget $host/books/incorpore.csv
 
 wget $host/books/adresses.csv
-wget $host/books/commande_statut.csv
 wget $host/books/livraison_methode.csv
 
 
@@ -81,9 +80,9 @@ cd /docker-entrypoint-data.d/northwind/employes
 
 wget $host/northwind/employes/zones.csv
 wget $host/northwind/employes/zone_regions.csv
-wget $host/northwind/employes/territories.csv
 wget $host/northwind/employes/employes.csv
-wget $host/northwind/employes/employe_territories.csv
+wget $host/northwind/employes/employe_regions.csv
+wget $host/northwind/employes/territories.csv
 
 mkdir -p /docker-entrypoint-data.d/postal
 cd /docker-entrypoint-data.d/postal

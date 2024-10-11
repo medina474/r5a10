@@ -70,25 +70,23 @@ CREATE TABLE orders (
   ship_country character varying(15)
 );
 
-CREATE TABLE commande_statut (
-  statut_id INTEGER PRIMARY KEY,
-  statut_value TEXT
+create type commande_statut as enum 
+  ('réservé', 'commande reçue', 'en attente de livraison', 'livraison en cours', 'livré', 'annulé', 'retourné', 'remboursé');
+
+create table commande_historique (
+  historique_id integer primary key,
+  commande_id integer,
+  statut_id commande_statut,
+  statut_date timestamp
 );
 
-CREATE TABLE commande_historique (
-  historique_id INTEGER PRIMARY KEY,
-  commande_id INTEGER, -- REFERENCES commande (commande_id),
-  statut_id INTEGER, -- REFERENCES commande_statut (statut_id),
-  statut_date TIMESTAMP
+create table livraison_methode (
+  methode_id integer primary key,
+  methode_name text,
+  cout numeric
 );
 
-CREATE TABLE livraison_methode (
-  methode_id INTEGER PRIMARY KEY,
-  methode_name TEXT,
-  cout NUMERIC
-);
-
-CREATE TABLE shippers (
+create table shippers (
   shipper_id smallint not null,
   company_name text not null,
   phone character varying(24)

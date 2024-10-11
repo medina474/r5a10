@@ -5,8 +5,8 @@ alter table only employes
   primary key (employe_id);
 
 alter table only employe_territories
-    add constraint pk_employe_territories
-    primary key (employe_id, territory_id);
+  add constraint pk_employe_territories
+  primary key (employe_id, territory_id);
 
 alter table only zones
   add constraint pk_zones

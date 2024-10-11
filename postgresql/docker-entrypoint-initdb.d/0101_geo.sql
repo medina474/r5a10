@@ -1,7 +1,5 @@
 \c northwind
 
-start transaction;
-
 -- pays
 
 create table pays
@@ -85,7 +83,5 @@ create table adresses (
   ville TEXT,
   pays_id integer -- REFERENCES pays (pays_id)
 );
-
-commit;
 
 select '=============== FIN STRUCTURE Geo' as msg;

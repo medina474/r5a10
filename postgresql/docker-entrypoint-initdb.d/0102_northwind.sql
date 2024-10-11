@@ -1,7 +1,5 @@
 \c northwind
 
-start transaction;
-
 create table categories (
   category_id smallint not null,
   category_name text not null,
@@ -121,7 +119,5 @@ create table banques
   codepostal  character varying(8),
   ville  character varying(30)
 );
-
-commit;
 
 select '=============== FIN STRUCTURE Northwind' as msg;

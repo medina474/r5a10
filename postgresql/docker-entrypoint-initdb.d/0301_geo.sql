@@ -1,16 +1,16 @@
 \c northwind
 
-alter table if exists pays
+alter table pays
   add primary key (code2);
 
-alter table if exists regions
+alter table regions
   add primary key (region_code);
 
-alter table if exists langues
+alter table langues
   add primary key (code3);
 
-alter table if exists pays_langues
+alter table pays_langues
   add primary key (pays_code, langue_code);
 
-alter table if exists devises
+alter table devises
   add primary key (devise_code);

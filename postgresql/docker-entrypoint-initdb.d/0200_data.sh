@@ -5,6 +5,8 @@ host=http://caddy
 mkdir -p /docker-entrypoint-data.d/geo
 cd /docker-entrypoint-data.d/geo
 
+# Geo
+
 wget $host/geo/pays.csv
 wget $host/geo/pays-es.txt
 wget $host/geo/pays-en.txt
@@ -12,6 +14,7 @@ wget $host/geo/langues.csv
 wget $host/geo/pays_langues.csv
 wget $host/geo/devises.csv
 wget $host/geo/pays_devises.csv
+wget $host/geo/worldcities.csv
 
 mkdir -p /docker-entrypoint-data.d/regions
 cd /docker-entrypoint-data.d/regions

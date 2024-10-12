@@ -46,6 +46,4 @@ insert into aeroports (aeroport_code_icao, aeroport_code_iata, nom, ville, pays,
   where IATA is not null
   order by AirportID;
 
-
-
 drop table aeroports_tmp;

@@ -68,7 +68,7 @@ create table pays_devises (
 
 create table villes(
   nom text,
-  pays_code text
+  pays_code text,
   admin_name text,
   capital text,
   population integer,

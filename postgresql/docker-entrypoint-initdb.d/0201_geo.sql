@@ -74,5 +74,7 @@ create temporary table villes_tmp (
 
 
 insert into villes (nom, pays_code, admin_name, capital, population, coordonnees)
-select city, iso2, admin_name, capital, population, postgis.st_makepoint(lng, lat)
-from villes_temp;
+select city, lower(iso2), admin_name, capital, population, postgis.st_makepoint(lng, lat)
+from villes_tmp;
+
+drop table villes_tmp;

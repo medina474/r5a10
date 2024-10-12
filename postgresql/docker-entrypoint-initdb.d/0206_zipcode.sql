@@ -11,7 +11,7 @@ create temporary table temp (
 
 copy temp (col1, col2, col3, col4, col5, col6) FROM '/docker-entrypoint-data.d/postal/laposte_hexasmal.csv' DELIMITER ';' CSV HEADER QUOTE '"' ESCAPE '''' ENCODING 'UTF8';
 
-insert into codepostal (code_insee, cp, commune, libelle_acheminement, ligne_5, coordonnees_gps)
+insert into codepostal (code_insee, cp, commune, libelle_acheminement, ligne_5, coordonnees)
 select col1, col3, col2, col4, col5, 'POINT('||split_part(col6,',', 1)||' '||split_part(col6,',', 2)||')'
 from temp;
 
@@ -27,12 +27,12 @@ create temporary table temp (
   province_code VARCHAR(100),
   community VARCHAR(30),
   community_code VARCHAR(10),
-  latitude VARCHAR(10),
-  longitude VARCHAR(10)
+  latitude decimal(18, 15),
+  longitude decimal(18, 15)
 );
 
 copy temp (country_code, zipcode, place, state, state_code, province, province_code, community, community_code, latitude, longitude) FROM '/docker-entrypoint-data.d/postal/zipcodes.us.csv' DELIMITER ',' CSV HEADER QUOTE '"' ESCAPE '''' ENCODING 'UTF8';
 
-insert into codepostal (code_insee, cp, commune, coordonnees_gps)
-select lower(country_code)||'-'||lower(state_code), zipcode, place, 'POINT('||longitude||' '||latitude||')'
+insert into codepostal (code_insee, cp, commune, coordonnees)
+select lower(country_code)||'-'||lower(state_code), zipcode, place, postgis.st_makepoint(longitude, latitude)
 from temp;

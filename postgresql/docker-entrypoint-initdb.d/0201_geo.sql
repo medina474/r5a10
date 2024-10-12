@@ -77,4 +77,10 @@ insert into villes (nom, pays_code, admin_name, capital, population, coordonnees
 select city, lower(iso2), admin_name, capital, population, postgis.st_makepoint(lng, lat)
 from villes_tmp;
 
+update villes 
+  set admin_name = r.region_code 
+  from  regions r 
+  where region_parent = villes.pays_code 
+    and region = villes.admin_name;
+
 drop table villes_tmp;

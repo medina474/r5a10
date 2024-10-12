@@ -11,7 +11,3 @@ alter table only employe_regions
 alter table only zones
   add constraint pk_zones
   primary key (zone_id);
-
-alter table only territories
-  add constraint pk_territories
-  primary key (territory_id);

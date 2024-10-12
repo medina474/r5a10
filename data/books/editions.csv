@@ -11136,7 +11136,7 @@
 11135,2275,"9788870302530",2012-12-31,294,,ita,Viaggio a Soror,
 11136,2276,"9788576572138",2015-01-01,216,,pt,O planeta dos macacos,
 11137,1403,"9780356500539",2010-12-02,554,,eng,The Windup Girl,
-11138,1047,"9782290032664",2013-05-02,640,10364,fra,La fille automate,
+11138,1047,"9782290032664",2013-05-02,640,,fra,La fille automate,"{"catalogue":10364}"
 11139,2277,"9782846263849",2012-02-09,608,,fra,La fille automate,
 11140,1563,"2266022806",1988-01-01,,5305,fra,"Le Maître des ténèbres (1978)","{""serie"":""Le Dit de la Terre Plate"", ""tome"":""1"", ""couverture"":""Wojtek Siudmak""}"
 11141,1563,"226602292X",1988-01-01,,5308,fra,"Le Maître de la mort (1979)","{""serie"":""Le Dit de la Terre Plate"",""tome"":""2"",""couverture"":""Wojtek Siudmak""}"
@@ -11156,4 +11156,37 @@
 11155,2277,"9782354080785",2010-01-01,,,fra,Le Dit de la terre plate - Livre 2,"{""collection"":""Icares""}"
 11156,773,"2723479935",2018-11-21,2004,,fra,Gunnm - Édition originale - Coffret Tomes 01 à 09,"{""collection"":""Seinen"", ""serie"":""Gunnm""}"
 11157,2278,"9782377843893",2023-06-15,,,fra,Au cœur de GUNNM. La chair et l'acier,"{""collection"":""BD & Animation""}"
-11158,514,9780345447982,2001-01-01,272,,eng,The planet of the Apes,
+11158,514,"9780345447982",2001-01-01,272,,eng,The planet of the Apes,
+11159,2279,"9782203001008",1930-01-01,138,,fra,Tintin au pays des Soviets,"{""tome"":""1""}"
+11160,2279,"9782203011120",1931-01-01,115,,fra,Tintin au Congo, "{""tome"":""2""}"
+11161,2279,"9782203001015",1946-01-01,62,,fra,Tintin au Congo, "{""tome"":""2""}"
+11162,2279,"9782203011137",1932-01-01,126,,fra,Tintin en Amérique (n&b),"{""tome"":""3""}"
+11163,2279,"9782203001022",1946-01-01,62,,fra,Tintin en Amérique,"{""tome"":""3""}"
+11164,2279,"9782203026445",1934-01-01,127,,fra,Les Cigares du pharaon (n&b),"{""tome"":""4""}"
+11165,2279,"9782203001039",1955-01-01,62,,fra,Les Cigares du pharaon,"{""tome"":""4""}"
+11166,2279,"9782203011052",1936-01-01,115,,fra,Le Lotus bleu (n&b),"{""tome"":""5""}"
+11167,2279,"9782203011489",1946-01-01,62,,fra,Le Lotus bleu,"{""tome"":""5""}"
+11168,2279,"9782203011069",1937-01-01,128,,fra,L'Oreille cassée (n&b),"{""tome"":""6""}"
+11169,2279,"9782203001053",1943-01-01,62,,fra,L'Oreille cassée,"{""tome"":""6""}"
+11170,2279,"9782203011076",1938-01-01,124,,fra,L'Île Noire (n&b),"{""tome"":""7""}"
+11171,2279,"9782203011373",1943-01-01,66,,fra,L'Île Noire (1er version couleur),"{""tome"":""7""}"
+11172,2279,"9782203001060",1966-01-01,66,,fra,L'Île Noire,"{""tome"":""7""}"
+11173,2279,"9782203011083",1939-01-01,108,,fra,Le Sceptre d'Ottokar (n&b),"{""tome"":""8""}"
+11174,2279,"9782203001077",1947-01-01,62,,fra,Le Sceptre d'Ottokar,"{""tome"":""8""}"
+11175,2279,"9782203011090",1941-01-01,105,,fra,Le Crabe aux pinces d'or (n&b),"{""tome"":""9""}"
+11176,2279,"9782203001084",1943-01-01,62,,fra,Le Crabe aux pinces d'or,"{""tome"":""9""}"
+11177,2279,"9782203001091",1942-01-01,62,,fra,L'Étoile mystérieuse,"{""tome"":""10""}"
+11178,2279,"9782203001107",1943-01-01,62,,fra,Le Secret de La Licorne,"{""tome"":""11""}"
+11179,2279,"9782203001114",1945-01-01,62,,fra,Le Trésor de Rackham le Rouge,"{""tome"":""12""}"
+11180,2279,"9782203001121",1947-01-01,62,,fra,Les Sept Boules de cristal,"{""tome"":""13""}"
+11181,2279,"9782203001138",1949-01-01,62,,fra,Le Temple du Soleil,"{""tome"":""14""}"
+11182,2279,"9782203001145",1950-01-01,62,,fra,Tintin au pays de l'or noir,"{""tome"":""15""}"
+11183,2279,"9782203001152",1953-01-01,62,,fra,Objectif Lune,"{""tome"":""16""}"
+11184,2279,"9782203001169",1954-01-01,62,,fra,On a marché sur la Lune,"{""tome"":""17""}"
+11185,2279,"9782203001176",1956-01-01,62,,fra,L'Affaire Tournesol,"{""tome"":""18""}"
+11186,2279,"9782203001183",1958-01-01,62,,fra,Coke en stock,"{""tome"":""19""}"
+11187,2279,"9782203001190",1960-01-01,62,,fra,Tintin au Tibet,"{""tome"":""20""}"
+11188,2279,"9782203001206",1963-01-01,62,,fra,Les Bijoux de la Castafiore,"{""tome"":""21""}"
+11189,2279,"9782203001213",1968-01-01,62,,fra,Vol 714 pour Sydney,"{""tome"":""22"", ""dimension"":""22.5 x 30.3 cm""}"
+11190,2279,"9782203001237",1976-01-01,62,,fra,Tintin et les Picaros,"{""tome"":""23""}"
+11191,2279,"9782203001329",1986-01-01,42,,fra,Tintin et l'Alph-Art,

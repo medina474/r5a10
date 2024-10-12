@@ -17,10 +17,10 @@ comment on column pays.code2
   is 'iso 3166-1 alpha 2';
 
 comment on column pays.code3
- is 'iso 3166-1 alpha 3';
+  is 'iso 3166-1 alpha 3';
 
 comment on column pays.code_num
- is 'iso 3166-1 numeric';
+  is 'iso 3166-1 numeric';
 
 -- regions
 
@@ -34,15 +34,13 @@ create table regions (
 
 -- langues
 
-create table langues
-(
+create table langues (
   code3 char(3) not null,
   langue character varying(20) default null,
   francais character varying(20) default null
 );
 
-create table pays_langues
-(
+create table pays_langues (
   pays_code char(2) not null,
   langue_code char(3) not null,
   officiel boolean default false,
@@ -51,8 +49,7 @@ create table pays_langues
 
 -- devises
 
-create table devises
-(
+create table devises (
   devise_code character(3) not null,
   num4217 integer default null,
   symbole character varying(5) default null,
@@ -63,23 +60,27 @@ create table devises
   minors character varying(20) default null
 );
 
-alter table devises
-  add constraint devise_code_check
-  check (devise_code ~ '^[A-Z]{3}$');
-
-create table pays_devises
-(
+create table pays_devises (
   pays_code character(2) not null,
   devise_code character(3) not null,
   valide daterange default null
 );
 
+create table villes(
+  nom text,
+  pays_code text
+  admin_name text,
+  capital text,
+  population integer,
+  coordonnees postgis.geometry(Point, 4326) default null::postgis.geometry
+);
+
 create table adresses (
   adresse_id integer,
-  numero TEXT,
-  voie TEXT,
-  ville TEXT,
-  pays_id integer -- REFERENCES pays (pays_id)
+  numero text,
+  voie text,
+  ville text,
+  pays_id text -- REFERENCES pays (pays_id)
 );
 
 select '=============== FIN STRUCTURE Geo' as msg;

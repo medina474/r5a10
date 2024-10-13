@@ -77,7 +77,6 @@ create table villes(
 
 create table adresses (
   adresse_id integer,
-  numero text,
   voie text,
   ville text,
   region text,

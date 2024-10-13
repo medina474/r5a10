@@ -14,3 +14,6 @@ alter table pays_langues
 
 alter table devises
   add primary key (devise_code);
+
+alter table adresses
+  add primary key (adresse_id);

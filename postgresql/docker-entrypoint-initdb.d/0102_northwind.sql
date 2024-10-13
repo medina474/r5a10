@@ -92,30 +92,22 @@ create table shippers (
   phone character varying(24)
 );
 
-create table suppliers
-(
+create table suppliers (
   supplier_id smallint not null,
   company_name text not null,
   contact_name character varying(30),
   contact_title character varying(30),
-  address character varying(60),
-  city character varying(15),
-  region character varying(15),
-  postal_code character varying(10),
-  country character varying(15),
+  adresse_id integer,
   phone character varying(24),
   fax character varying(24),
-  homepage text
+  banque_id integer
 );
 
-create table banques
-(
-  banqueId  integer,
+create table banques (
+  banque_id  integer,
   banque  character varying(50),
   code  character varying(11),
-  adresse  text,
-  codepostal  character varying(8),
-  ville  character varying(30)
+  adresse_id  integer
 );
 
 select '=============== FIN STRUCTURE Northwind' as msg;

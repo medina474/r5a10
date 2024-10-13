@@ -1,0 +1,92 @@
+adresse, ville,region,codepostal,pays
+Obere Str. 57                                  ,Berlin          ,              ,12209     ,de 
+Avda. de la Constitución 2222                  ,México D.F.     ,              ,05021     ,mx 
+Mataderos  2312                                ,México D.F.     ,              ,05023     ,mx 
+120 Hanover Sq.                                ,London          ,              ,WA1 1DP   ,gb 
+Berguvsvägen  8                                ,Luleå           ,              ,S-958 22  ,sw 
+Forsterstr. 57                                 ,Mannheim        ,              ,68306     ,de 
+"24, place Kléber"                             ,Strasbourg      ,              ,67000     ,fr 
+"C/ Araquil, 67"                               ,Madrid          ,              ,28023     ,es 
+"12, rue des Bouchers"                         ,Marseille       ,              ,13008     ,fr 
+23 Tsawassen Blvd.                             ,Tsawassen       ,BC            ,T2F 8M4   ,ca 
+Fauntleroy Circus                              ,London          ,              ,EC2 5NT   ,gb 
+Cerrito 333                                    ,Buenos Aires    ,              ,1010      ,ar 
+Sierras de Granada 9993                        ,México D.F.     ,              ,05022     ,mx 
+Hauptstr. 29                                   ,Bern            ,              ,3012      ,ch 
+"Av. dos Lusíadas, 23"                         ,Sao Paulo       ,SP            ,05432-043 ,br 
+Berkeley Gardens 12  Brewery                   ,London          ,              ,WX1 6LT   ,gb 
+Walserweg 21                                   ,Aachen          ,              ,52066     ,de 
+"67, rue des Cinquante Otages"                 ,Nantes          ,              ,44000     ,fr 
+35 King George                                 ,London          ,              ,WX3 6FW   ,gb 
+Kirchgasse 6                                   ,Graz            ,              ,8010      ,at 
+"Rua Orós, 92"                                 ,Sao Paulo       ,SP            ,05442-030 ,br 
+"C/ Moralzarzal, 86"                           ,Madrid          ,              ,28034     ,es 
+"184, chaussée de Tournai"                     ,Lille           ,              ,59000     ,fr 
+Åkergatan 24                                   ,Bräcke          ,              ,S-844 67  ,sw 
+Berliner Platz 43                              ,München         ,              ,80805     ,de 
+"54, rue Royale"                               ,Nantes          ,              ,44000     ,fr 
+Via Monte Bianco 34                            ,Torino          ,              ,10100     ,it 
+Jardim das rosas n. 32                         ,Lisboa          ,              ,1675      ,pt 
+"Rambla de Cataluña, 23"                       ,Barcelona       ,              ,08022     ,es 
+"C/ Romero ,33"                                ,Sevilla         ,              ,41101     ,es 
+"Av. Brasil, 442"                              ,Campinas        ,SP            ,04876-786 ,br 
+2732 Baker Blvd.                               ,Eugene          ,OR            ,97403     ,us 
+5ª Ave. Los Palos Grandes                      ,Caracas         ,DF            ,1081      ,ve 
+"Rua do Paço, 67"                              ,Rio de Janeiro  ,RJ            ,05454-876 ,br 
+Carrera 22 con Ave. Carlos Soublette #8-35     ,San Cristóbal   ,Táchira       ,5022      ,ve 
+City Center Plaza 516 Main St.                 ,Elgin           ,OR            ,97827     ,us 
+8 Johnstown Road                               ,Cork            ,Co. Cork      ,          ,ie 
+Garden House Crowther Way                      ,Cowes           ,Isle of Wight ,PO31 7PJ  ,gb 
+Maubelstr. 90                                  ,Brandenburg     ,              ,14776     ,de 
+"67, avenue de l'Europe"                       ,Versailles      ,              ,78000     ,fr 
+1 rue Alsace-Lorraine                          ,Toulouse        ,              ,31000     ,fr 
+1900 Oak St.                                   ,Vancouver       ,BC            ,V3F 2K1   ,ca 
+12 Orchestra Terrace                           ,Walla Walla     ,WA            ,99362     ,us 
+Magazinweg 7                                   ,Frankfurt a.M.  ,              ,60528     ,de 
+87 Polk St. Suite 5                            ,San Francisco   ,CA            ,94117     ,us 
+Carrera 52 con Ave. Bolívar #65-98 Llano Largo ,Barquisimeto    ,Lara          ,3508      ,ve 
+Ave. 5 de Mayo Porlamar                        ,I. de Margarita ,Nueva Esparta ,4980      ,ve 
+89 Chiaroscuro Rd.                             ,Portland        ,OR            ,97219     ,us 
+Via Ludovico il Moro 22                        ,Bergamo         ,              ,24100     ,it 
+Rue Joseph-Bens 532                            ,Bruxelles       ,              ,B-1180    ,be 
+43 rue St. Laurent                             ,Montréal        ,Québec        ,H1J 1C3   ,ca 
+Heerstr. 22                                    ,Leipzig         ,              ,04179     ,de 
+South House 300 Queensbridge                   ,London          ,              ,SW7 1RZ   ,gb 
+Ing. Gustavo Moncada 8585 Piso 20-A            ,Buenos Aires    ,              ,1010      ,ar 
+2743 Bering St.                                ,Anchorage       ,AK            ,99508     ,us 
+Mehrheimerstr. 369                             ,Köln            ,              ,50739     ,de 
+"265, boulevard Charonne "                     ,Paris           ,              ,75012     ,fr 
+Calle Dr. Jorge Cash 321                       ,México D.F.     ,              ,05033     ,mx 
+Geislweg 14                                    ,Salzburg        ,              ,5020      ,at 
+Estrada da saúde n. 58                         ,Lisboa          ,              ,1756      ,pt 
+"Rua da Panificadora, 12"                      ,Rio de Janeiro  ,RJ            ,02389-673 ,br 
+"Alameda dos Canàrios, 891"                    ,Sao Paulo       ,SP            ,05487-020 ,br 
+Taucherstraße 10                               ,Cunewalde       ,              ,01307     ,de 
+Av. del Libertador 900                         ,Buenos Aires    ,              ,1010      ,ar 
+2817 Milton Dr.                                ,Albuquerque     ,NM            ,87110     ,us 
+Strada Provinciale 124                         ,Reggio Emilia   ,              ,42100     ,it 
+"Av. Copacabana, 267"                          ,Rio de Janeiro  ,RJ            ,02389-890 ,br 
+Grenzacherweg 237                              ,Genève          ,              ,1203      ,ch 
+"Gran Vía, 1"                                  ,Madrid          ,              ,28001     ,es 
+Erling Skakkes gate 78                         ,Stavern         ,              ,4110      ,no 
+187 Suffolk Ln.                                ,Boise           ,ID            ,83720     ,us 
+90 Wadhurst Rd.                                ,London          ,              ,OX15 4NB  ,gb 
+Vinbæltet 34                                   ,Kobenhavn       ,              ,1734      ,dk 
+"25, rue Lauriston"                            ,Paris           ,              ,75016     ,fr 
+P.O. Box 555                                   ,Lander          ,WY            ,82520     ,us 
+"Boulevard Tirou, 255"                         ,Charleroi       ,              ,B-6000    ,be 
+89 Jefferson Way Suite 2                       ,Portland        ,OR            ,97201     ,us 
+55 Grizzly Peak Rd.                            ,Butte           ,MT            ,59801     ,us 
+Luisenstr. 48                                  ,Münster         ,              ,44087     ,de 
+Avda. Azteca 123                               ,México D.F.     ,              ,05033     ,mx 
+"Av. Inês de Castro, 414"                      ,Sao Paulo       ,SP            ,05634-030 ,br 
+722 DaVinci Blvd.                              ,Kirkland        ,WA            ,98034     ,us 
+Smagsloget 45                                  ,Århus           ,              ,8200      ,dk 
+"2, rue du Commerce"                           ,Lyon            ,              ,69004     ,fr 
+"59 rue de l'Abbaye"                           ,Reims           ,              ,51100     ,fr 
+Adenauerallee 900                              ,Stuttgart       ,              ,70563     ,de 
+Torikatu 38                                    ,Oulu            ,              ,90110     ,fi 
+"Rua do Mercado, 12"                           ,Resende         ,SP            ,08737-363 ,br 
+305 - 14th Ave. S. Suite 3B                    ,Seattle         ,WA            ,98128     ,us 
+Keskuskatu 45                                  ,Helsinki        ,              ,21240     ,fi 
+ul. Filtrowa 68                                ,Warszawa        ,              ,01-012    ,pl 

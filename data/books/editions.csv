@@ -11136,13 +11136,13 @@
 11135,2275,"9788870302530",2012-12-31,294,,ita,Viaggio a Soror,
 11136,2276,"9788576572138",2015-01-01,216,,pt,O planeta dos macacos,
 11137,1403,"9780356500539",2010-12-02,554,,eng,The Windup Girl,
-11138,1047,"9782290032664",2013-05-02,640,,fra,La fille automate,"{"catalogue":10364}"
+11138,1047,"9782290032664",2013-05-02,640,,fra,La fille automate,"{""catalogue"":10364}"
 11139,2277,"9782846263849",2012-02-09,608,,fra,La fille automate,
-11140,1563,"2266022806",1988-01-01,,5305,fra,"Le Maître des ténèbres (1978)","{""serie"":""Le Dit de la Terre Plate"", ""tome"":""1"", ""couverture"":""Wojtek Siudmak""}"
-11141,1563,"226602292X",1988-01-01,,5308,fra,"Le Maître de la mort (1979)","{""serie"":""Le Dit de la Terre Plate"",""tome"":""2"",""couverture"":""Wojtek Siudmak""}"
-11142,1563,"2266027670",1989-01-01,,5318,fra,"Le Maître des illusions (1981)","{""serie"":""Le Dit de la Terre Plate"",""tome"":""3"",""traduction"": ""E.C.L. Meistermann"", ""couverture"":""Wojtek Siudmak""}"
-11143,1563,"226602728X",1989-01-01,,5316,fra,"La Maîtresse des délires (1986)","{""serie"":""Le Dit de la Terre Plate"",""tome"":""4"",""traduction"": ""E.C.L. Meistermann"", ""couverture"":""Wojtek Siudmak""}"
-11144,1563,"2266029282",1989-01-01,,5323,fra,"Les Sortilèges de la nuit (1978)","{""serie"":""Le Dit de la Terre Plate"",""tome"":""5"",""traduction"": ""E.C.L. Meistermann"", ""couverture"":""Wojtek Siudmak""}"
+11140,1563,"2266022806",1988-01-01,,,fra,"Le Maître des ténèbres (1978)","{""catalogue"":5305,""serie"":""Le Dit de la Terre Plate"", ""tome"":""1"", ""couverture"":""Wojtek Siudmak""}"
+11141,1563,"226602292X",1988-01-01,,,fra,"Le Maître de la mort (1979)","{""catalogue"":5308,""serie"":""Le Dit de la Terre Plate"",""tome"":""2"",""couverture"":""Wojtek Siudmak""}"
+11142,1563,"2266027670",1989-01-01,,,fra,"Le Maître des illusions (1981)","{""catalogue"":5318,""serie"":""Le Dit de la Terre Plate"",""tome"":""3"",""traduction"": ""E.C.L. Meistermann"", ""couverture"":""Wojtek Siudmak""}"
+11143,1563,"226602728X",1989-01-01,,,fra,"La Maîtresse des délires (1986)","{""catalogue"":5316,""serie"":""Le Dit de la Terre Plate"",""tome"":""4"",""traduction"": ""E.C.L. Meistermann"", ""couverture"":""Wojtek Siudmak""}"
+11144,1563,"2266029282",1989-01-01,,,fra,"Les Sortilèges de la nuit (1978)","{""catalogue"":5323,""serie"":""Le Dit de la Terre Plate"",""tome"":""5"",""traduction"": ""E.C.L. Meistermann"", ""couverture"":""Wojtek Siudmak""}"
 11145,773,"2723419002",1995-03-15,,,fra,"Gunnm 1","{""serie"":""Gunnm""}"
 11146,773,"2723419061",1995-04-17,,,fra,"Gunnm 2","{""serie"":""Gunnm""}"
 11147,773,"2723419061",1995-07-24,,,fra,"Gunnm 3","{""serie"":""Gunnm""}"

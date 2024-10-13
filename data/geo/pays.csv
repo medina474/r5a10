@@ -1,23 +1,23 @@
 code2,code3,code_num,pays,drapeau-unicode,forme_longue
 af,AFG,004,Afghanistan,🇦🇫,
 za,ZAF,710,Afrique du Sud,🇿🇦,
-al,ALB,008,Albanie,🇦🇱,
+al,ALB,008,Albanie,🇦🇱,République d'Albanie
 dz,DZA,012,Algérie,🇩🇿,République algérienne démocratique et populaire
-de,DEU,276,Allemagne,🇩🇪,
-ad,AND,020,Andorre,🇦🇩,
+de,DEU,276,Allemagne,🇩🇪,République fédérale d’Allemagne
+ad,AND,020,Andorre,🇦🇩,Principauté d'Andorre
 ao,AGO,024,Angola,🇦🇴,
 ag,ATG,028,Antigua-et-Barbuda,🇦🇬,
 sa,SAU,682,Arabie saoudite,🇸🇦,
 ar,ARG,032,Argentine,🇦🇷,
 am,ARM,051,Arménie,🇦🇲,
-au,AUS,036,Australie,🇦🇺,
-at,AUT,040,Autriche,🇦🇹,
+au,AUS,036,Australie,🇦🇺,Commonwealth d'Australie
+at,AUT,040,Autriche,🇦🇹,République d'Autriche
 az,AZE,031,Azerbaïdjan,🇦🇿,
 bs,BHS,044,Bahamas,🇧🇸,
 bh,BHR,048,Bahreïn,🇧🇭,
 bd,BGD,050,Bangladesh,🇧🇩,
 bb,BRB,052,Barbade,🇧🇧,
-be,BEL,056,Belgique,🇧🇪,
+be,BEL,056,Belgique,🇧🇪,Royaume de Belgique
 bz,BLZ,084,Bélize,🇧🇿,
 bj,BEN,204,Bénin,🇧🇯,
 bt,BTN,064,Bhoutan,🇧🇹,
@@ -26,7 +26,7 @@ mm,MMR,104,Myanmar,🇲🇲,
 bo,BOL,068,Bolivie,🇧🇴,État plurinational de Bolivie
 ba,BIH,070,Bosnie-Herzégovine,🇧🇦,
 bw,BWA,072,Botswana,🇧🇼,
-br,BRA,076,Brésil,🇧🇷,
+br,BRA,076,Brésil,🇧🇷,République fédérative du Brésil
 bn,BRN,096,Brunei,🇧🇳,
 bg,BGR,100,Bulgarie,🇧🇬,
 bf,BFA,854,Burkina,🇧🇫,
@@ -37,37 +37,37 @@ ca,CAN,124,Canada,🇨🇦,
 cv,CPV,132,Cap-Vert,🇨🇻,
 cf,CAF,140,Centrafrique,🇨🇫,République centrafricaine
 cl,CHL,152,Chili,🇨🇱,
-cn,CHN,156,Chine,🇨🇳,
+cn,CHN,156,Chine,🇨🇳,République populaire de Chine 
 cy,CYP,196,Chypre,🇨🇾,
 co,COL,170,Colombie,🇨🇴,
-km,COM,174,Comores,🇰🇲,
+km,COM,174,Comores,🇰🇲,Union des Comores
 cg,COG,178,Congo,🇨🇬,
 cd,COD,180,"Congo, République démocratique du",🇨🇩,
 kp,PRK,408,Corée du Nord,🇰🇵,République populaire démocratique de Corée
 kr,KOR,410,Corée du Sud,🇰🇷,République de Corée
 cr,CRI,188,Costa Rica,🇨🇷,
 ci,CIV,384,Côte d'Ivoire,🇨🇮,
-hr,HRV,191,Croatie,🇭🇷,
+hr,HRV,191,Croatie,🇭🇷,République de Croatie
 cu,CUB,192,Cuba,🇨🇺,
-dk,DNK,208,Danemark,🇩🇰,
+dk,DNK,208,Danemark,🇩🇰,Royaume de Danemark
 dj,DJI,262,Djibouti,🇩🇯,
 dm,DMA,212,Dominique,🇩🇲,
 eg,EGY,818,Égypte,🇪🇬,
 ae,ARE,784,Émirats arabes unis,🇦🇪,
 ec,ECU,218,Équateur,🇪🇨,
 er,ERI,232,Érythrée,🇪🇷,
-es,ESP,724,Espagne,🇪🇸,
-ee,EST,233,Estonie,🇪🇪,
+es,ESP,724,Espagne,🇪🇸,Royaume d'Espagne
+ee,EST,233,Estonie,🇪🇪,République d'Estonie
 us,USA,840,États-Unis,🇺🇸,États-Unis d’Amérique 
 et,ETH,231,Éthiopie,🇪🇹,
 fj,FJI,242,Fidji,🇫🇯,
-fi,FIN,246,Finlande,🇫🇮,
-fr,FRA,250,France,🇫🇷,
+fi,FIN,246,Finlande,🇫🇮,République de Finlande
+fr,FRA,250,France,🇫🇷,République française
 ga,GAB,266,Gabon,🇬🇦,
 gm,GMB,270,Gambie,🇬🇲,
 ge,GEO,268,Géorgie,🇬🇪,
 gh,GHA,288,Ghana,🇬🇭,
-gr,GRC,300,Grèce,🇬🇷,
+gr,GRC,300,Grèce,🇬🇷,République hellénique
 gd,GRD,308,Grenade,🇬🇩,
 gt,GTM,320,Guatémala,🇬🇹,
 gn,GIN,324,Guinée,🇬🇳,
@@ -82,10 +82,10 @@ in,IND,356,Inde,🇮🇳,
 id,IDN,360,Indonésie,🇮🇩,
 iq,IRQ,368,Irak,🇮🇶,
 ir,IRN,364,Iran,🇮🇷,République islamique d’Iran 
-ie,IRL,372,Irlande,🇮🇪,
+ie,IRL,372,Irlande,🇮🇪,République d'Irlande
 is,ISL,352,Islande,🇮🇸,
 il,ISR,376,Israël,🇮🇱,
-it,ITA,380,Italie,🇮🇹,
+it,ITA,380,Italie,🇮🇹,République italienne 
 jm,JAM,388,Jamaïque,🇯🇲,
 jp,JPN,392,Japon,🇯🇵,
 jo,JOR,400,Jordanie,🇯🇴,
@@ -100,24 +100,24 @@ lv,LVA,428,Lettonie,🇱🇻,
 lb,LBN,422,Liban,🇱🇧,
 lr,LBR,430,Libéria,🇱🇷,
 ly,LBY,434,Libye,🇱🇾,
-li,LIE,438,Liechtenstein,🇱🇮,
-lt,LTU,440,Lituanie,🇱🇹,
-lu,LUX,442,Luxembourg,🇱🇺,
-mk,MKD,807,"Macédoine, ancienne république yougoslave de ",🇲🇰,
+li,LIE,438,Liechtenstein,🇱🇮,Principauté du Liechtenstein
+lt,LTU,440,Lituanie,🇱🇹,République de Lituanie
+lu,LUX,442,Luxembourg,🇱🇺,Grand-Duché de Luxembourg
+mk,MKD,807,Macédoine du Nord,🇲🇰,
 mg,MDG,450,Madagascar,🇲🇬,
 my,MYS,458,Malaisie,🇲🇾,
 mw,MWI,454,Malawi,🇲🇼,
 mv,MDV,462,Maldives,🇲🇻,
 ml,MLI,466,Mali,🇲🇱,
 mt,MLT,470,Malte,🇲🇹,
-ma,MAR,504,Maroc,🇲🇦,
+ma,MAR,504,Maroc,🇲🇦,Royaume du Maroc
 mh,MHL,584,Marshall,🇲🇭,
 mu,MUS,480,Maurice,🇲🇺,
 mr,MRT,478,Mauritanie,🇲🇷,
-mx,MEX,484,Mexique,🇲🇽,
+mx,MEX,484,Mexique,🇲🇽,États-Unis mexicains
 fm,FSM,583,Micronésie,🇫🇲,États fédérés de Micronésie
 md,MDA,498,Moldavie,🇲🇩,République de Moldova
-mc,MCO,492,Monaco,🇲🇨,
+mc,MCO,492,Monaco,🇲🇨,Principauté de Monaco
 mn,MNG,496,Mongolie,🇲🇳,
 me,MNE,499,Monténégro,🇲🇪,
 mz,MOZ,508,Mozambique,🇲🇿,
@@ -128,9 +128,9 @@ ni,NIC,558,Nicaragua,🇳🇮,
 ne,NER,562,Niger,🇳🇪,
 ng,NGA,566,Nigéria,🇳🇬,
 nu,NIU,570,Niue,🇳🇺,
-no,NOR,578,Norvège,🇳🇴,
+no,NOR,578,Norvège,🇳🇴,Royaume de Norvège
 nz,NZL,554,Nouvelle-Zélande,🇳🇿,
-om,OMN,512,Oman,🇴🇲,
+om,OMN,512,Oman,🇴🇲,Sultanat d'Oman
 ug,UGA,800,Ouganda,🇺🇬,
 uz,UZB,860,Ouzbékistan,🇺🇿,
 pk,PAK,586,Pakistan,🇵🇰,
@@ -169,15 +169,15 @@ so,SOM,706,Somalie,🇸🇴,
 sd,SDN,729,Soudan,🇸🇩,
 ss,SSD,728,Soudan du Sud,🇸🇸,
 lk,LKA,144,Sri Lanka,🇱🇰,
-se,SWE,752,Suède,🇸🇪,
-ch,CHE,756,Suisse,🇨🇭,
+se,SWE,752,Suède,🇸🇪,Royaume de Suède
+ch,CHE,756,Suisse,🇨🇭,Confédération suisse
 sr,SUR,740,Suriname,🇸🇷,
 sz,SWZ,748,Swaziland,🇸🇿,
 sy,SYR,760,Syrie,🇸🇾,République arabe syrienne 
 tj,TJK,762,Tadjikistan,🇹🇯,
 tz,TZA,834,Tanzanie,🇹🇿,République-Unie de Tanzanie
 td,TCD,148,Tchad,🇹🇩,
-cz,CZE,203,Tchéquie,🇨🇿,
+cz,CZE,203,Tchéquie,🇨🇿,République tchèque
 th,THA,764,Thaïlande,🇹🇭,
 tl,TLS,626,Timor oriental,🇹🇱,
 tg,TGO,768,Togo,🇹🇬,
@@ -206,9 +206,9 @@ mq,MQT,474,Martinique,🇲🇶,Collectivité territoriale unique de Martinique
 gp,GLP,312,Guadeloupe,🇬🇵,Département et région d'outre-mer de Guadeloupe
 re,REU,638,La Réunion,🇷🇪,Collectivité départementale d'outre-mer de La Réunion
 pm,SPM,021,Saint-Pierre-et-Miquelon,🇵🇲,collectivité d'outre-mer de Saint-Pierre-et-Miquelon
-gf,guf,254,Guyane,🇬🇫,Collectivité territoriale unique de Guyane
-nc,ncl,540,Nouvelle-Calédonie,🇳🇨,Collectivité d’outre-mer de Nouvelle-Calédonie
-wf,wlf,876,Wallis-et-Futuna,🇼🇫,Collectivité d'outre-mer Wallis et Futuna
-pf,pyf,258,Polynésie française,🇵🇫,
-tf,atf,260,Terres australes françaises,🇹🇫,
-mf,maf,663,Saint-Martin,🇲🇫,Collectivité d'outre-mer de Saint-Martin
+gf,GUF,254,Guyane,🇬🇫,Collectivité territoriale unique de Guyane
+nc,NCL,540,Nouvelle-Calédonie,🇳🇨,Collectivité d’outre-mer de Nouvelle-Calédonie
+wf,WLF,876,Wallis-et-Futuna,🇼🇫,Collectivité d'outre-mer Wallis et Futuna
+pf,PYF,258,Polynésie française,🇵🇫,
+tf,ATF,260,Terres australes françaises,🇹🇫,
+mf,MAF,663,Saint-Martin,🇲🇫,Collectivité d'outre-mer de Saint-Martin

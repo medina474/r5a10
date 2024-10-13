@@ -25,9 +25,3 @@ alter table zone_regions
   on update no action
   on delete no action
   not valid;
-
-/*
-alter table only territories
-  add foreign key (zone_id) 
-  references zones;
-*/

@@ -3,9 +3,9 @@
 -- pays
 
 create table pays (
-  code2 character(2) not null,
-  code3 character(3) not null,
-  code_num character(3) not null check (code_num ~ '^[0-9]{3}$'),
+  code2 text not null,
+  code3 text not null,
+  code_num text not null,
   pays text not null,
   forme_longue text,
   nom_eng text,
@@ -41,7 +41,7 @@ create table langues (
 );
 
 create table pays_langues (
-  pays_code char(2) not null,
+  pays_code text not null,
   langue_code char(3) not null,
   officiel boolean default false,
   pourcentage decimal(4,1) not null DEFAULT '0.0'
@@ -50,7 +50,7 @@ create table pays_langues (
 -- devises
 
 create table devises (
-  devise_code character(3) not null,
+  devise_code text not null,
   num4217 integer default null,
   symbole character varying(5) default null,
   nom text default null,
@@ -61,8 +61,8 @@ create table devises (
 );
 
 create table pays_devises (
-  pays_code character(2) not null,
-  devise_code character(3) not null,
+  pays_code text not null,
+  devise_code text not null,
   valide daterange default null
 );
 
@@ -80,7 +80,9 @@ create table adresses (
   numero text,
   voie text,
   ville text,
-  pays_id text -- REFERENCES pays (pays_id)
+  region text,
+  codepostal text,
+  pays_code text
 );
 
 select '=============== FIN STRUCTURE Geo' as msg;

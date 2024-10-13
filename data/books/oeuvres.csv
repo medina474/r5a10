@@ -10846,8 +10846,8 @@
 10846,Ali und Nino,ger,,
 10847,Artemis Fowl (Artemis Fowl  #1),ger,,
 10848,Yeats ist tot!,ger,,
-10849,Harry Potter und die Kammer des Schreckens ,ger,,"{""serie"": ""Harry Potter  #2""}"
-10850,Harry Potter und der Gefangene von Askaban ,ger,,"{""serie"": ""Harry Potter  #3""}"
+10849,Harry Potter und die Kammer des Schreckens,ger,,"{""serie"": ""Harry Potter  #2""}"
+10850,Harry Potter und der Gefangene von Askaban,ger,,"{""serie"": ""Harry Potter  #3""}"
 10851,Mein Urgroßvater  die Helden und ich,ger,,
 10852,Utena: Revolutionary Girl 01,ger,,
 10853,Rover rettet Weihnachten.,ger,,
@@ -11125,10 +11125,10 @@
 11125,Fantasmas,spa,,
 11126,Stand by Me,eng,,
 11127,The Great Divorce,eng,,
-11128,La planète des singes,fra,1,19
-11130,La planète des singes,fra,1,19
-11131,La planète des singes,fra,1,19
-11132,La planète des singes,fra,1,19
+11128,La planète des singes,fra,,"{""collection"":""La planète des singes""}"
+11130,La planète des singes,fra,,"{""collection"":""La planète des singes""}"
+11131,La planète des singes,fra,,"{""collection"":""La planète des singes""}"
+11132,La planète des singes,fra,,"{""collection"":""La planète des singes""}"
 11133,The Windup Girl,en-us,,
 11134,Night's Master,eng,,
 11135,Death's Master,eng,,
@@ -11151,27 +11151,27 @@
 11152,Kryll 01/2020,fra,,"{""tome"":10}"
 11153,Folle graine 06/2022,fra,,"{""tome"":11}"
 11154,L’Omégon 11/2024,fra,,"{""tome"":12}"
-11155,Tintin au pays des Soviets,1930,1938
-11156,Tintin au Congo,fra,1946,62
-11157,Tintin en Amérique,fra,1946,62
-11158,Les Cigares du pharaon,fra,1955,62
-11159,Le Lotus bleu,fra,1946,62
-11160,L'Oreille cassée,fra,1943,62
-11161,L'Île Noire,fra,1966,66
-11162,Le Sceptre d'Ottokar,fra,1947,62
-11163,Le Crabe aux pinces d'or,fra,1943,62
-11164,L'Étoile mystérieuse,fra,1942,62
-11165,Le Secret de La Licorne,fra,1943,62
-11166,Le Trésor de Rackham le Rouge,fra,1945,62
-11167,Les Sept Boules de cristal,fra,1947,62
-11168,Le Temple du Soleil,fra,1949,62
-11169,Tintin au pays de l'or noir,fra,1950,62
-11170,Objectif Lune,fra,1953,62
-11171,On a marché sur la Lune,fra,1954,62
-11172,L'Affaire Tournesol,fra,1956,62
-11173,Coke en stock,fra,1958,62
-11174,Tintin au Tibet,fra,1960,62
-11175,Les Bijoux de la Castafiore,fra,1963,62
-11176,Vol 714 pour Sydney,fra,1968,62
-11177,Tintin et les Picaros,fra,1976,62
-11178,Tintin et l'Alph-Art,fra,1986,42
+11155,Tintin au pays des Soviets,fra,,"{""première parution"":1930}"
+11156,Tintin au Congo,fra,,"{""première parution"":1931}"
+11157,Tintin en Amérique,fra,,"{""première parution"":1932}"
+11158,Les Cigares du pharaon,fra,,"{""première parution"":1934}"
+11159,Le Lotus bleu,fra,,"{""première parution"":1936}"
+11160,L'Oreille cassée,fra,,"{""première parution"":1937}"
+11161,L'Île Noire,fra,,"{""première parution"":1938}"
+11162,Le Sceptre d'Ottokar,fra,,"{""première parution"":1939}"
+11163,Le Crabe aux pinces d'or,fra,,"{""première parution"":1941}"
+11164,L'Étoile mystérieuse,fra,,"{""première parution"":1942}"
+11165,Le Secret de La Licorne,fra,,"{""première parution"":1943}"
+11166,Le Trésor de Rackham le Rouge,fra,,"{""première parution"":1945}"
+11167,Les Sept Boules de cristal,fra,,"{""première parution"":1947}"
+11168,Le Temple du Soleil,fra,,"{""première parution"":1949}"
+11169,Tintin au pays de l'or noir,fra,,"{""première parution"":1950}"
+11170,Objectif Lune,fra,,"{""première parution"":1953}"
+11171,On a marché sur la Lune,fra,,"{""première parution"":1954}"
+11172,L'Affaire Tournesol,fra,,"{""première parution"":1956}"
+11173,Coke en stock,fra,,"{""première parution"":1958}"
+11174,Tintin au Tibet,fra,,"{""première parution"":1960}"
+11175,Les Bijoux de la Castafiore,fra,,"{""première parution"":1963}"
+11176,Vol 714 pour Sydney,fra,,"{""première parution"":1968}"
+11177,Tintin et les Picaros,fra,,"{""première parution"":1976}"
+11178,Tintin et l'Alph-Art,fra,,"{""première parution"":1986}"

@@ -25,3 +25,7 @@ alter table zone_regions
   on update no action
   on delete no action
   not valid;
+
+alter table only employes
+  add foreign key (adresse_id) 
+  references adresses (adresse_id);

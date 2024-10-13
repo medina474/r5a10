@@ -8,7 +8,7 @@ create table auteurs (
 CREATE TABLE oeuvres (
   oeuvre_id INTEGER,
   titre TEXT,
-  langue_code VARCHAR(5), -- REFERENCES langues (langue_code),
+  langue_code text, -- REFERENCES langues (langue_code),
   genre_id integer,
   infos json
   --CONSTRAINT fk_oeuvre_editeur FOREIGN KEY (editeur_id) REFERENCES editeurs (editeur_id),
@@ -36,7 +36,7 @@ CREATE TABLE editions (
   publication_date DATE,
   num_pages INTEGER,
   num_catalogue INTEGER,
-  langue_code VARCHAR(5),
+  langue_code text,
   titre text,
   infos JSON
 );

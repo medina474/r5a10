@@ -13,19 +13,14 @@ create table marques (
 );
 
 -- customers
-CREATE TABLE customers
-(
+CREATE TABLE customers (
   customer_id character varying(5) not null,
   company_name text not null,
-  contact_name character varying(30),
-  contact_title character varying(30),
-  address text,
-  city text,
-  region character varying(15),
-  postal_code character varying(10),
-  country character varying(15),
-  phone character varying(24),
-  fax character varying(24)
+  contact_name text,
+  contact_title text,
+  adresse_id integer,
+  phone text,
+  fax text
 );
 
 

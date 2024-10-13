@@ -31,3 +31,15 @@ alter table only order_details
 alter table only commande_historique
   add foreign key (commande_id) 
   references orders (order_id);
+
+alter table only suppliers
+  add foreign key (adresse_id) 
+  references adresses;
+
+alter table only banques
+  add foreign key (adresse_id) 
+  references adresses;
+
+alter table only customers
+  add foreign key (adresse_id) 
+  references adresses (adresse_id);

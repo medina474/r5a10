@@ -1,12 +1,12 @@
 \c northwind
 
 create temporary table temp (
-  col1 VARCHAR(10),
-  col2 VARCHAR(80),
-  col3 VARCHAR(10),
-  col4 VARCHAR(80),
-  col5 VARCHAR(80),
-  col6 VARCHAR(40)
+  col1 text,
+  col2 text,
+  col3 text,
+  col4 text,
+  col5 text,
+  col6 text
 );
 
 copy temp (col1, col2, col3, col4, col5, col6) FROM '/docker-entrypoint-data.d/postal/laposte_hexasmal.csv' DELIMITER ';' CSV HEADER QUOTE '"' ESCAPE '''' ENCODING 'UTF8';

@@ -57,6 +57,7 @@ CREATE TABLE orders (
   shipped_date date,
   ship_via smallint,
   freight real,
+  livraison_methode_id integer,
   ship_name text,
   ship_address character varying(60),
   ship_city character varying(15),

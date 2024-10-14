@@ -19,3 +19,7 @@ alter table incorpore
 alter table exemplaires
   add foreign key (edition_id) 
   references editions;
+
+alter table editions
+  add foreign key (editeur_id) 
+  references editeurs;

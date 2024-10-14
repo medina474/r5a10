@@ -336,17 +336,17 @@ services:
 
 # MongoDB
 
-#  mongodb:
-#    container_name: r5a10-mongodb
-#    image: mongo:${MONGODB_VERSION:-7.0.7-jammy}
-#    volumes:
-#      - mongodb_config:/data/configdb
-#      - mongodb:/data/db
-#    ports:
-#      - ${MONGODB_PORT:-27017}:27017
-#    environment:
-#      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME:-admin}
-#      MONGO_INITDB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+  # mongodb:
+  #   container_name: r5a10-mongodb
+  #   image: mongo:${MONGODB_VERSION:-7.0.7-jammy}
+  #   volumes:
+  #     - mongodb_config:/data/configdb
+  #     - mongodb:/data/db
+  #   ports:
+  #     - ${MONGODB_PORT:-27017}:27017
+  #   environment:
+  #     MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME:-admin}
+  #     MONGO_INITDB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
 
 # Redis
 # In-memory key-value database

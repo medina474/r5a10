@@ -11,7 +11,7 @@
 \copy orders from '/docker-entrypoint-data.d/northwind/orders.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy order_details from '/docker-entrypoint-data.d/northwind/order_details.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
-\copy adresses from '/docker-entrypoint-data.d/books/adresses.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy livraison_methode from '/docker-entrypoint-data.d/books/livraison_methode.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy adresses from '/docker-entrypoint-data.d/biblio/adresses.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy livraison_methode from '/docker-entrypoint-data.d/biblio/livraison_methode.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 select '=============== FIN IMPORTATION DATA NORTHWIND' as msg;

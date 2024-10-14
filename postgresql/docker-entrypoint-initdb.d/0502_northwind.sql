@@ -20,6 +20,9 @@ alter table only orders
   add foreign key (ship_via) 
   references shippers;
 
+alter table only orders
+  add foreign key (adresse_id) 
+  references adresses;
 
 alter table only orders
   add foreign key (livraison_methode_id) 

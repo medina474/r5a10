@@ -1,20 +1,20 @@
 \c northwind
 
 create table categories (
-  category_id smallint not null,
+  category_id integer not null,
   category_name text not null,
   description text
 );
 
 -- brands
 create table marques (
-  marque_id smallint not null,
+  marque_id integer not null,
   marque text not null
 );
 
 -- customers
 CREATE TABLE customers (
-  customer_id character varying(5) not null,
+  customer_id text not null,
   company_name text not null,
   contact_name text,
   contact_title text,
@@ -25,37 +25,37 @@ CREATE TABLE customers (
 
 
 CREATE TABLE products (
-  product_id smallint not null,
+  product_id integer not null,
   product_name text not null,
-  supplier_id smallint,
-  category_id smallint,
+  supplier_id integer,
+  category_id integer,
   quantity_per_unit character varying(20),
   unit_price real,
-  units_in_stock smallint,
-  units_on_order smallint,
-  reorder_level smallint,
+  units_in_stock integer,
+  units_on_order integer,
+  reorder_level integer,
   discontinued integer not null,
   properties JSONB
 );
 
 
 CREATE TABLE order_details (
-  order_id smallint not null,
-  product_id smallint not null,
+  order_id integer not null,
+  product_id integer not null,
   unit_price real not null,
-  quantity smallint not null,
+  quantity integer not null,
   discount real not null
 );
 
 
 CREATE TABLE orders (
-  order_id smallint not null,
+  order_id integer not null,
   customer_id character varying(5),
-  employe_id smallint,
+  employe_id integer,
   order_date date,
   required_date date,
   shipped_date date,
-  ship_via smallint,
+  ship_via integer,
   freight real,
   ship_name text,
   adresse_id integer,
@@ -74,19 +74,19 @@ create table commande_historique (
 );
 
 create table livraison_methode (
-  methode_id integer primary key,
+  methode_id integer not null,
   methode_name text,
   cout numeric
 );
 
 create table shippers (
-  shipper_id smallint not null,
+  shipper_id integer not null,
   company_name text not null,
   phone character varying(24)
 );
 
 create table suppliers (
-  supplier_id smallint not null,
+  supplier_id integer not null,
   company_name text not null,
   contact_name character varying(30),
   contact_title character varying(30),
@@ -97,7 +97,7 @@ create table suppliers (
 );
 
 create table banques (
-  banque_id  integer,
+  banque_id  integer not null,
   banque  character varying(50),
   code  character varying(11),
   adresse_id  integer

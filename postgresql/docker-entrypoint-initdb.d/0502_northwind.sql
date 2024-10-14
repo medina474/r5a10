@@ -38,6 +38,10 @@ alter table only commande_historique
   references orders (order_id);
 
 alter table only suppliers
+  add foreign key (banque_id) 
+  references banques;
+
+alter table only suppliers
   add foreign key (adresse_id) 
   references adresses;
 

@@ -1,9 +1,7 @@
 \c northwind
 
 alter table aeroports
-  add constraint aeroports_pkey
-  primary key (aeroport_code_icao);
+  add primary key (aeroport_code_icao);
 
 alter table operateurs
-  add constraint operateurs_pkey
-  primary key (operateur_code_iata);
+  add primary key (operateur_code_iata);

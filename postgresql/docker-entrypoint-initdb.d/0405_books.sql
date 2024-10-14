@@ -1,16 +1,16 @@
 \c northwind
 
-alter table if exists auteurs
+alter table if exists biblio.auteurs
   add primary key (auteur_id);
 
-alter table if exists oeuvres
+alter table if exists biblio.oeuvres
   add primary key (oeuvre_id);
 
-alter table if exists editeurs
+alter table if exists biblio.editeurs
   add primary key (editeur_id);
 
-alter table if exists editions
+alter table if exists biblio.editions
   add primary key (edition_id);
 
-alter table if exists exemplaires
+alter table if exists biblio.exemplaires
   add primary key (exemplaire_id);

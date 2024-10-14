@@ -1,58 +1,57 @@
 \c northwind
 
-create table auteurs (
+create table biblio.auteurs (
   auteur_id integer,
-  auteur_nom text not null
+  nom text not null
 );
 
-CREATE TABLE oeuvres (
-  oeuvre_id INTEGER,
-  titre TEXT,
-  langue_code text, -- REFERENCES langues (langue_code),
+create table biblio.oeuvres (
+  oeuvre_id integer,
+  titre text,
+  langue_code text, -- references langues (langue_code),
   genre_id integer,
   infos json
-  --CONSTRAINT fk_oeuvre_editeur FOREIGN KEY (editeur_id) REFERENCES editeurs (editeur_id),
-  --CONSTRAINT fk_oeuvre_genre   FOREIGN KEY (genre_id) REFERENCES genres (genre_id)
+  --constraint fk_oeuvre_genre   foreign key (genre_id) references genres (genre_id)
 );
 
-CREATE TABLE participe (
-  oeuvre_id INTEGER NOT NULL, --REFERENCES oeuvres (oeuvre_id),
-  auteur_id INTEGER NOT NULL, --REFERENCES auteurs (auteur_id),
-  fonction TEXT,
-  alias TEXT
-  --CONSTRAINT pk_oeuvreauteur PRIMARY KEY (oeuvre_id, auteur_id)
+create table biblio.participe (
+  oeuvre_id integer not null, 
+  auteur_id integer not null,
+  fonction text,
+  alias text
+  --constraint pk_oeuvreauteur primary key (oeuvre_id, auteur_id)
 );
 
-CREATE TABLE editeurs (
-  editeur_id INTEGER,
-  editeur_nom TEXT,
-  ville TEXT
+create table biblio.editeurs (
+  editeur_id integer,
+  editeur_nom text,
+  ville text
 );
 
-CREATE TABLE editions (
-  edition_id INTEGER,
-  editeur_id INTEGER, --REFERENCES editeurs (editeur_id),
-  isbn13 TEXT,
-  publication_date DATE,
-  num_pages INTEGER,
-  num_catalogue INTEGER,
+create table biblio.editions (
+  edition_id integer,
+  editeur_id integer, 
+  isbn13 text,
+  publication_date date,
+  num_pages integer,
+  num_catalogue integer,
   langue_code text,
   titre text,
-  infos JSON
+  infos json
 );
 
-CREATE TABLE incorpore (
-  oeuvre_id INTEGER NOT NULL, -- REFERENCES oeuvres (oeuvre_id),
-  edition_id INTEGER NOT NULL, -- REFERENCES editions (edition_id)
-  infos JSON
+create table biblio.incorpore (
+  oeuvre_id integer not null, 
+  edition_id integer not null,
+  infos json
 );
 
-CREATE TABLE exemplaires (
-  exemplaire_id INTEGER,
-  edition_id INTEGER, -- REFERENCES editions (edition_id),
-  date_achat DATE,
-  prix_achat NUMERIC,
-  etat TEXT
+create table biblio.exemplaires (
+  exemplaire_id integer,
+  edition_id integer,
+  date_achat date,
+  prix_achat numeric,
+  etat text
 );
 
 select '=============== FIN STRUCTURE Books' as msg;

@@ -1,25 +1,25 @@
 \c northwind
 
-alter table participe
+alter table biblio.participe
   add foreign key (auteur_id) 
-  references auteurs;
+  references biblio.auteurs;
 
-alter table participe
+alter table biblio.participe
   add foreign key (oeuvre_id) 
-  references oeuvres;
+  references biblio.oeuvres;
 
-alter table incorpore
+alter table biblio.incorpore
   add foreign key (oeuvre_id) 
-  references oeuvres;
+  references biblio.oeuvres;
 
-alter table incorpore
+alter table biblio.incorpore
   add foreign key (edition_id) 
-  references editions;
+  references biblio.editions;
 
-alter table exemplaires
+alter table biblio.exemplaires
   add foreign key (edition_id) 
-  references editions;
+  references biblio.editions;
 
-alter table editions
+alter table biblio.editions
   add foreign key (editeur_id) 
-  references editeurs;
+  references biblio.editeurs;

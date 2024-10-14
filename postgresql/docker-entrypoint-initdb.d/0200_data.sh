@@ -70,7 +70,7 @@ cd /docker-entrypoint-data.d/northwind
 wget $host/northwind/marques.csv
 wget $host/northwind/categories.csv
 wget $host/northwind/customers.csv
-wget $host/northwind/suppliers.csv
+wget $host/northwind/fournisseurs.csv
 wget $host/northwind/shippers.csv
 wget $host/northwind/banques.csv
 wget $host/northwind/products.csv

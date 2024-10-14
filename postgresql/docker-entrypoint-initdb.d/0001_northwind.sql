@@ -23,3 +23,6 @@ alter default privileges in schema public grant select on tables to clients_web;
 -- PostGIS
 create schema postgis;
 create extension if not exists postgis schema postgis;
+
+create schema biblio;
+create schema aviation;

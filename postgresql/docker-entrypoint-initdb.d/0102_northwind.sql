@@ -27,7 +27,7 @@ CREATE TABLE customers (
 CREATE TABLE products (
   product_id integer not null,
   product_name text not null,
-  supplier_id integer,
+  fournisseur_id integer,
   category_id integer,
   quantity_per_unit character varying(20),
   unit_price real,
@@ -59,7 +59,6 @@ CREATE TABLE orders (
   freight real,
   ship_name text,
   adresse_id integer,
-  banque_id integer,
   livraison_methode_id integer
 );
 
@@ -85,21 +84,21 @@ create table shippers (
   phone character varying(24)
 );
 
-create table suppliers (
-  supplier_id integer not null,
+-- suppliers
+create table fournisseurs (
+  fournisseur_id integer not null,
   company_name text not null,
-  contact_name character varying(30),
-  contact_title character varying(30),
+  contact_name text,
+  contact_title text,
   adresse_id integer,
-  phone character varying(24),
-  fax character varying(24),
-  banque_id integer
+  phone text,
+  fax text,
+  banque_code text
 );
 
 create table banques (
-  banque_id  integer not null,
-  banque  character varying(50),
-  code  character varying(11),
+  banque_code text,
+  banque text,
   adresse_id  integer
 );
 

@@ -1,8 +1,8 @@
 \c northwind 
 
 alter table only products
-  add foreign key (supplier_id) 
-  references suppliers;
+  add foreign key (fournisseur_id) 
+  references fournisseurs;
 
 alter table only products
   add foreign key (category_id) 

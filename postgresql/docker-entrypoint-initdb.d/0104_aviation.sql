@@ -3,7 +3,7 @@
 -- ICAO Organisation de l'aviation civile internationale
 -- IATA Association du transport aérien international
 
-create table aeroports (
+create table aviation.aeroports (
   aeroport_code_icao text,
   aeroport_code_iata text,
   nom text,
@@ -14,7 +14,7 @@ create table aeroports (
   coordonnees postgis.geometry(Point, 4326) default null::postgis.geometry
 );
 
-create table appareils (
+create table aviation.appareils (
   type text,
   msn text,
   immatriculation text,
@@ -23,16 +23,11 @@ create table appareils (
   nom text
 );
 
-create table operateurs (
+create table aviation.operateurs (
   operateur_code_icao text,
   operateur_code_iata text,
   operateur text,
   callsign text
 );
-
-
-
-create unique index operateurs_operateur_code_icao_idx
-  on operateurs (operateur_code_icao);
 
 select '=============== FIN STRUCTURE Aviation' as msg;

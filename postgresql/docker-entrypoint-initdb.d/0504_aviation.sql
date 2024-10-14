@@ -1,6 +1,6 @@
 \c northwind 
 
-alter table only aeroports
+alter table only aviation.aeroports
   add foreign key (pays)
   references pays (code2) match simple
   on update no action

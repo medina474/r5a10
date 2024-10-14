@@ -57,13 +57,10 @@ CREATE TABLE orders (
   shipped_date date,
   ship_via smallint,
   freight real,
-  livraison_methode_id integer,
   ship_name text,
-  ship_address character varying(60),
-  ship_city character varying(15),
-  ship_region character varying(15),
-  ship_postal_code character varying(10),
-  ship_country character varying(15)
+  adresse_id integer,
+  banque_id integer,
+  livraison_methode_id integer
 );
 
 create type commande_statut as enum 

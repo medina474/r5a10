@@ -1,832 +1,831 @@
-﻿order_id,customer_id,employe_id,order_date,required_date,shipped_date,ship_via,freight,ship_name,ship_address,ship_city,ship_region,ship_postal_code,ship_country
-10248,VINET,5,29.05.7320,28.01.7328,11.09.7323,3,32.3800010,Vins et alcools Chevalier,59 rue de l''Abbaye,Reims,,51100,France
-10249,TOMSP,6,06.09.7320,07.03.7332,19.01.7322,1,11.6100000,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany'
-10250,HANAR,4,03.07.7321,03.03.7329,07.08.7322,2,65.8300020,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10251,VICTE,3,03.07.7321,03.03.7329,03.06.7323,1,41.3400000,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10252,SUPRD,4,11.10.7321,11.06.7329,29.04.7322,2,51.2999990,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10253,HANAR,3,19.01.7322,19.11.7325,11.09.7323,2,58.1699980,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10254,CHOPS,5,29.04.7322,28.12.7329,11.08.7325,2,22.9800000,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland'
-10255,RICSU,9,07.08.7322,07.04.7330,03.06.7323,3,148.330002,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-10256,WELLI,3,03.06.7323,01.02.7331,20.12.7323,2,13.9700000,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil'
-10257,HILAA,4,11.09.7323,12.05.7331,03.05.7325,3,81.9100040,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10258,ERNSH,1,20.12.7323,20.08.7331,11.08.7325,1,140.509995,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10259,CENTC,4,29.03.7324,28.11.7331,27.02.7326,3,3.25,Centro comercial Moctezuma,Sierras de Granada 9993,México D.F.,,5022,Mexico'
-10260,OTTIK,4,07.07.7324,07.03.7332,03.04.7327,1,55.0900000,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-10261,QUEDE,4,07.07.7324,07.03.7332,12.07.7327,2,3.05000000,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil'
-10262,RATTC,8,03.05.7325,01.01.7333,27.02.7326,3,48.2900010,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10263,ERNSH,9,11.08.7325,11.04.7333,20.10.7327,3,146.059998,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10264,FOLKO,6,19.11.7325,20.07.7333,05.02.7334,3,3.67000000,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10265,BLONP,2,27.02.7326,28.10.7333,01.02.7331,1,55.2799990,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10266,WARTH,3,07.06.7326,06.12.7337,20.10.7327,3,25.7300000,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10267,FRANK,4,03.04.7327,02.12.7334,11.06.7329,1,208.580002,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10268,GROSR,8,12.07.7327,12.03.7335,07.05.7328,3,66.2900010,GROSELLA-Restaurante,5ª Ave. Los Palos Grandes,Caracas,DF,1081,Venezuela'
-10269,WHITC,5,20.10.7327,20.08.7331,07.04.7330,1,4.56000000,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10270,WARTH,1,28.01.7328,28.09.7335,07.05.7328,1,136.539993,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10271,SPLIR,6,28.01.7328,28.09.7335,06.01.7336,2,4.54000000,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA'
-10272,RATTC,6,07.05.7328,06.01.7336,11.06.7329,2,98.0299990,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10273,QUICK,3,03.03.7329,01.11.7336,01.02.7331,3,76.0700000,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10274,VINET,6,11.06.7329,09.02.7337,07.03.7332,1,6.01000000,Vins et alcools Chevalier,59 rue de l''Abbaye,Reims,,51100,fr
-10275,MAGAA,1,19.09.7329,20.05.7337,07.04.7330,1,26.9300000,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10276,TORTU,8,28.12.7329,28.10.7333,20.08.7331,3,13.8400000,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-10277,MORGK,2,07.04.7330,06.12.7337,12.05.7331,3,125.769997,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany'
-10278,BERGS,8,01.02.7331,02.10.7338,07.03.7332,2,92.6900020,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10279,LEHMS,8,12.05.7331,10.01.7339,07.03.7332,2,25.8300000,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10280,BERGS,2,20.08.7331,20.04.7339,29.07.7339,1,8.98000000,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10281,ROMEY,4,20.08.7331,20.06.7335,20.07.7333,1,2.94000000,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain'
-10282,ROMEY,4,28.11.7331,29.07.7339,20.07.7333,1,12.6900000,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain'
-10283,LILAS,3,07.03.7332,06.11.7339,05.02.7334,3,84.8099980,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10284,LEHMS,4,01.01.7333,01.09.7340,12.03.7335,1,76.5599980,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10285,QUICK,1,11.04.7333,10.12.7340,02.12.7334,2,76.8300020,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10286,QUICK,8,20.07.7333,20.03.7341,06.01.7336,3,229.240005,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10287,RICAR,8,28.10.7333,28.06.7341,20.06.7335,3,12.7600000,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10288,REGGC,4,05.02.7334,06.10.7341,09.02.7337,1,7.45000000,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10289,BSBEV,7,02.12.7334,02.08.7342,20.06.7335,3,22.7700000,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-10290,COMMI,8,12.03.7335,10.11.7342,09.02.7337,1,79.6999970,Comércio Mineiro,"Av. dos Lusíadas, 23",Sao Paulo,SP,05432-043,Brazil'
-10291,QUEDE,6,12.03.7335,10.11.7342,20.05.7337,2,6.4000000,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil'
-10292,TRADH,1,20.06.7335,18.02.7343,01.11.7336,2,1.35000000,Tradiçao Hipermercados,"Av. Inês de Castro, 414",Sao Paulo,SP,05634-030,Brazil'
-10293,TORTU,1,28.09.7335,29.05.7343,20.04.7339,3,21.1800000,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-10294,RATTC,4,06.01.7336,06.09.7343,28.08.7337,2,147.259995,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10295,VINET,2,01.11.7336,02.07.7344,10.01.7339,2,1.15000000,Vins et alcools Chevalier,59 rue de l''Abbaye,Reims,,51100,fr
-10296,LILAS,6,09.02.7337,10.10.7344,20.04.7339,1,0.120000000,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10297,BLONP,5,20.05.7337,18.11.7348,10.01.7339,2,5.74000000,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10298,HUNGO,6,28.08.7337,28.04.7345,20.04.7339,2,168.220001,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10299,RICAR,4,06.12.7337,06.08.7345,06.11.7339,2,29.7600000,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10300,MAGAA,2,02.10.7338,02.06.7346,20.03.7341,2,17.6800000,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10301,WANDK,8,02.10.7338,02.06.7346,10.12.7340,2,45.0800020,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-10302,SUPRD,4,10.01.7339,10.09.7346,19.12.7346,2,6.27000000,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10303,GODOS,7,20.04.7339,19.12.7346,20.03.7341,2,107.830002,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-10304,TORTU,1,29.07.7339,29.03.7347,10.12.7340,2,63.7900010,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-10305,OLDWO,8,06.11.7339,07.07.7347,19.12.7346,3,257.619995,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-10306,ROMEY,1,01.09.7340,02.05.7348,02.08.7342,3,7.56000000,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain'
-10307,LONEP,2,10.12.7340,10.08.7348,18.02.7343,2,0.560000000,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA'
-10308,ANATR,7,20.03.7341,18.11.7348,10.11.7342,3,1.61000000,Ana Trujillo Emparedados y helados,Avda. de la Constitución 2222,México D.F.,,5021,Mexico'
-10309,HUNGO,3,28.06.7341,26.02.7349,19.10.7350,1,47.2999990,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10310,THEBI,8,06.10.7341,06.06.7349,06.09.7343,2,17.5200000,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA'
-10311,DUMON,1,06.10.7341,06.08.7345,29.05.7343,3,24.6900010,Du monde entier,"67, rue des Cinquante Otages",Nantes,,44000,fr
-10312,WANDK,2,02.08.7342,02.04.7350,28.04.7345,2,40.2599980,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-10313,QUICK,2,10.11.7342,11.07.7350,06.08.7345,2,1.96000000,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10314,RATTC,1,18.02.7343,19.10.7350,06.08.7345,2,74.1600040,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10315,ISLAT,4,29.05.7343,27.01.7351,28.04.7345,2,41.7599980,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10316,RATTC,1,06.09.7343,07.05.7351,10.09.7346,3,150.149994,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10317,LONEP,6,02.07.7344,02.03.7352,29.03.7347,1,12.6900000,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA'
-10318,ISLAT,8,10.10.7344,10.06.7352,06.08.7345,2,4.73000000,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10319,TORTU,7,18.01.7345,18.09.7352,07.07.7347,3,64.5,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-10320,WARTH,5,28.04.7345,26.02.7349,06.06.7349,3,34.5700000,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10321,ISLAT,3,28.04.7345,27.12.7352,07.07.7347,2,3.43000000,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10322,PERIC,7,06.08.7345,06.04.7353,19.10.7350,3,0.400000000,Pericles Comidas clásicas,Calle Dr. Jorge Cash 321,México D.F.,,5033,Mexico'
-10323,KOENE,4,02.06.7346,31.01.7354,02.05.7348,1,4.88000000,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10324,SAVEA,9,10.09.7346,11.05.7354,29.03.7347,1,214.270004,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10325,KOENE,1,19.12.7346,19.10.7350,02.05.7348,3,64.8600010,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10326,BOLID,4,29.03.7347,27.11.7354,02.05.7348,2,77.9199980,Bólido Comidas preparadas,"C/ Araquil, 67",Madrid,,28023,Spain'
-10327,FOLKO,2,07.07.7347,07.03.7355,02.05.7348,1,63.3600010,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10328,FURIB,4,02.05.7348,01.01.7356,26.02.7349,3,87.0299990,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal'
-10329,SPLIR,4,10.08.7348,09.02.7360,19.10.7350,2,191.669998,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA'
-10330,LILAS,3,18.11.7348,19.07.7356,02.03.7352,1,12.75,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10331,BONAP,9,18.11.7348,19.05.7360,02.04.7350,1,10.1900000,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10332,MEREP,3,26.02.7349,27.08.7360,02.04.7350,2,52.8400000,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10333,WARTH,5,06.06.7349,04.02.7357,07.05.7351,3,0.590000000,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10334,VICTE,8,02.04.7350,01.12.7357,02.03.7352,2,8.56000000,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10335,HUNGO,7,11.07.7350,11.03.7358,27.01.7351,2,42.1100010,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10336,PRINI,7,19.10.7350,19.06.7358,07.05.7351,2,15.5100000,Princesa Isabel Vinhos,Estrada da saúde n. 58,Lisboa,,1756,Portugal'
-10337,FRANK,4,27.01.7351,27.09.7358,10.06.7352,3,108.260002,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10338,OLDWO,4,07.05.7351,05.01.7359,10.06.7352,3,84.2099990,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-10339,MEREP,2,02.03.7352,01.11.7359,31.01.7354,2,15.6600000,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10340,BONAP,1,10.06.7352,09.02.7360,07.03.7355,3,166.309998,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10341,SIMOB,7,10.06.7352,09.02.7360,11.05.7354,3,26.7800010,Simons bistro,Vinbæltet 34,Kobenhavn,,1734,Denmark'
-10342,FRANK,4,18.09.7352,19.07.7356,31.01.7354,2,54.8300020,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10343,LEHMS,4,27.12.7352,27.08.7360,19.08.7354,1,110.370003,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10344,WHITC,4,06.04.7353,05.12.7360,11.05.7354,2,23.2900010,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10345,QUICK,2,31.01.7354,01.10.7361,01.01.7356,2,249.059998,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10346,RATTC,3,11.05.7354,09.11.7365,07.03.7355,3,142.080002,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10347,FAMIA,4,19.08.7354,19.04.7362,07.03.7355,3,3.1000000,Familia Arquibaldo,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil'
-10348,WANDK,4,27.11.7354,28.07.7362,04.02.7357,2,0.780000000,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-10349,SPLIR,7,07.03.7355,05.11.7362,04.02.7357,1,8.63000000,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA'
-10350,LAMAI,6,01.01.7356,01.09.7363,09.01.7362,2,64.1900020,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10351,ERNSH,1,01.01.7356,01.09.7363,19.06.7358,1,162.330002,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10352,FURIB,3,10.04.7356,09.02.7360,01.12.7357,3,1.30000000,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal'
-10353,PICCO,7,19.07.7356,19.03.7364,01.11.7359,3,360.630005,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-10354,PERIC,8,27.10.7356,27.06.7364,19.06.7358,3,53.7999990,Pericles Comidas clásicas,Calle Dr. Jorge Cash 321,México D.F.,,5033,Mexico'
-10355,AROUT,6,04.02.7357,05.10.7364,19.06.7358,1,41.9500010,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10356,WANDK,6,01.12.7357,01.08.7365,19.05.7360,2,36.7099990,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-10357,LILAS,1,11.03.7358,09.11.7365,01.10.7361,3,34.8800010,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10358,LAMAI,5,19.06.7358,17.02.7366,19.05.7360,1,19.6399990,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10359,SEVES,5,27.09.7358,28.05.7366,09.02.7360,3,288.429993,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK'
-10360,BLONP,4,05.01.7359,05.09.7366,01.10.7361,3,131.699997,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10361,QUICK,1,05.01.7359,05.09.7366,09.01.7362,2,183.169998,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10362,BONAP,3,01.11.7359,02.07.7367,27.08.7360,1,96.0400010,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10363,DRACD,4,09.02.7360,10.10.7367,19.04.7362,3,30.5400010,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany'
-10364,EASTC,1,09.02.7360,10.08.7371,19.04.7362,1,71.9700010,Eastern Connection,35 King George,London,,WX3 6FW,UK'
-10365,ANTON,3,19.05.7360,18.01.7368,01.10.7361,2,22,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,5023,Mexico'
-10366,GALED,8,27.08.7360,26.02.7372,01.06.7369,2,10.1400000,Galería del gastronómo,"Rambla de Cataluña, 23",Barcelona,,8022,Spain'
-10367,VAFFE,7,27.08.7360,27.04.7368,01.10.7361,3,13.5500000,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10368,ERNSH,2,05.12.7360,05.08.7368,01.10.7361,2,101.949997,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10369,SPLIR,8,01.10.7361,01.06.7369,01.09.7363,2,195.679993,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA'
-10370,CHOPS,6,09.01.7362,09.09.7369,05.08.7368,2,1.17000000,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland'
-10371,LAMAI,1,09.01.7362,09.09.7369,10.10.7367,1,0.450000000,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10372,QUEEN,5,19.04.7362,18.12.7369,01.09.7363,2,890.780029,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10373,HUNGO,4,28.07.7362,28.03.7370,19.03.7364,3,124.120003,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10374,WOLZA,1,28.07.7362,28.03.7370,01.09.7363,3,3.94000000,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland'
-10375,HUNGC,3,05.11.7362,06.07.7370,01.09.7363,2,20.1200010,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA'
-10376,MEREP,1,01.09.7363,02.05.7371,05.10.7364,2,20.3899990,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10377,SEVES,1,01.09.7363,02.05.7371,05.10.7364,3,22.2099990,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK'
-10378,FOLKO,5,10.12.7363,10.08.7371,28.05.7366,3,5.44000000,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10379,QUEDE,2,19.03.7364,18.11.7371,05.10.7364,1,45.0299990,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil'
-10380,HUNGO,8,27.06.7364,26.02.7372,26.01.7374,3,35.0299990,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10381,LILAS,3,27.06.7364,26.02.7372,05.10.7364,3,7.99000000,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10382,ERNSH,4,05.10.7364,05.06.7372,01.08.7365,1,94.7699970,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10383,AROUT,8,01.08.7365,01.04.7373,17.02.7366,3,34.2400020,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10384,BERGS,3,01.08.7365,01.04.7373,05.09.7366,3,168.639999,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10385,SPLIR,1,09.11.7365,10.07.7373,02.07.7367,2,30.9599990,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA'
-10386,FAMIA,9,17.02.7366,18.12.7369,18.01.7368,3,13.9900000,Familia Arquibaldo,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil'
-10387,SANTG,1,17.02.7366,18.10.7373,05.09.7366,2,93.6299970,Santé Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway'
-10388,SEVES,2,28.05.7366,26.01.7374,05.09.7366,1,34.8600010,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK'
-10389,BOTTM,4,05.09.7366,06.05.7374,10.10.7367,2,47.4199980,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10390,ERNSH,6,02.07.7367,02.03.7375,27.04.7368,1,126.379997,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10391,DRACD,3,02.07.7367,02.03.7375,09.09.7369,3,5.45000000,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany'
-10392,PICCO,2,10.10.7367,10.06.7375,18.12.7369,3,122.459999,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-10393,SAVEA,1,18.01.7368,18.09.7375,06.07.7370,3,126.559998,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10394,HUNGC,1,18.01.7368,18.09.7375,06.07.7370,3,30.3400000,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA'
-10395,HILAA,6,27.04.7368,27.12.7375,06.07.7370,1,184.410004,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10396,FRANK,1,05.08.7368,05.06.7372,02.05.7371,3,135.350006,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10397,PRINI,5,05.08.7368,05.04.7376,28.03.7370,1,60.2599980,Princesa Isabel Vinhos,Estrada da saúde n. 58,Lisboa,,1756,Portugal'
-10398,SAVEA,2,01.06.7369,30.01.7377,26.02.7372,3,89.1600040,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10399,VAFFE,8,09.09.7369,10.07.7373,18.11.7371,3,27.3600010,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10400,EASTC,1,18.12.7369,18.08.7377,26.01.7374,3,83.9300000,Eastern Connection,35 King George,London,,WX3 6FW,UK'
-10401,RATTC,1,18.12.7369,18.08.7377,05.06.7372,1,12.5100000,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10402,ERNSH,8,28.03.7370,26.09.7381,05.06.7372,2,67.8799970,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10403,ERNSH,4,06.07.7370,06.03.7378,26.02.7372,3,73.7900010,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10404,MAGAA,2,06.07.7370,06.03.7378,18.11.7371,1,155.970001,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10405,LINOD,1,02.05.7371,31.12.7378,18.09.7375,1,34.8200000,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10406,QUEEN,7,10.08.7371,08.02.7383,01.04.7373,1,108.040001,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10407,OTTIK,2,10.08.7371,10.04.7379,26.11.7377,2,91.4800030,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-10408,FOLIG,8,18.11.7371,19.07.7379,10.07.7373,1,11.2600000,Folies gourmandes,"184, chaussée de Tournai",Lille,,59000,fr
-10409,OCEAN,3,26.02.7372,27.10.7379,10.07.7373,1,29.8300000,Océano Atlántico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina'
-10410,BOTTM,3,05.06.7372,04.02.7380,18.10.7373,3,2.4000000,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10411,BOTTM,9,05.06.7372,04.02.7380,10.06.7375,3,23.6500000,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10412,WARTH,8,01.04.7373,30.11.7380,18.10.7373,2,3.77000000,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10413,LAMAI,3,10.07.7373,10.03.7381,26.01.7374,2,95.6600040,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10414,FAMIA,2,10.07.7373,10.03.7381,06.05.7374,3,21.4800000,Familia Arquibaldo,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil'
-10415,HUNGC,3,18.10.7373,18.06.7381,05.04.7376,1,0.200000000,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA'
-10416,WARTH,8,26.01.7374,26.09.7381,30.01.7377,3,22.7199990,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10417,SIMOB,4,26.01.7374,26.09.7381,10.05.7377,3,70.2900010,Simons bistro,Vinbæltet 34,Kobenhavn,,1734,Denmark'
-10418,QUICK,4,06.05.7374,04.01.7382,05.04.7376,1,17.5499990,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10419,RICSU,4,02.03.7375,31.10.7382,26.11.7377,2,137.350006,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-10420,WELLI,3,10.06.7375,08.02.7383,30.01.7377,1,44.1199990,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil'
-10421,QUEDE,8,10.06.7375,19.03.7387,30.01.7377,1,99.2300030,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil'
-10422,FRANS,2,18.09.7375,19.05.7383,06.03.7378,1,3.02000000,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy'
-10423,GOURL,6,27.12.7375,27.10.7379,30.09.7384,3,24.5,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil'
-10424,MEREP,7,27.12.7375,27.08.7383,30.01.7377,2,370.609985,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10425,LAMAI,6,05.04.7376,05.12.7383,04.01.7382,2,7.93000000,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10426,GALED,4,30.01.7377,30.09.7384,27.10.7379,1,18.6900010,Galería del gastronómo,"Rambla de Cataluña, 23",Barcelona,,8022,Spain'
-10427,PICCO,4,30.01.7377,30.09.7384,09.12.7386,2,31.2900010,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-10428,REGGC,7,10.05.7377,08.01.7385,10.04.7379,1,11.0900000,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10429,HUNGO,3,18.08.7377,27.05.7389,04.02.7380,2,56.6300010,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10430,ERNSH,4,26.11.7377,26.09.7381,31.12.7378,1,458.779999,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10431,BOTTM,4,26.11.7377,26.09.7381,04.02.7380,2,44.1699980,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10432,SPLIR,3,06.03.7378,04.01.7382,04.02.7380,2,4.34000000,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA'
-10433,PRINI,3,31.12.7378,09.12.7386,19.03.7387,3,73.8300020,Princesa Isabel Vinhos,Estrada da saúde n. 58,Lisboa,,1756,Portugal'
-10434,FOLKO,3,31.12.7378,09.12.7386,26.09.7381,2,17.9200000,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10435,CONSH,8,10.04.7379,17.01.7391,04.02.7380,2,9.21000000,Consolidated Holdings,Berkeley Gardens 12  Brewery,London,,WX1 6LT,UK'
-10436,BLONP,3,19.07.7379,27.06.7387,10.03.7381,2,156.660004,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10437,WARTH,8,19.07.7379,27.06.7387,18.06.7381,1,19.9699990,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10438,TOMSP,3,27.10.7379,05.10.7387,04.01.7382,2,8.24000000,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany'
-10439,MEREP,6,04.02.7380,13.01.7388,30.11.7380,3,4.07000000,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10440,SAVEA,4,30.11.7380,08.11.7388,04.11.7385,2,86.5299990,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10441,OLDWO,3,30.11.7380,08.09.7392,13.12.7389,2,73.0199970,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-10442,ERNSH,3,10.03.7381,16.02.7389,08.02.7383,2,47.9399990,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10443,REGGC,8,18.06.7381,27.05.7389,04.01.7382,1,13.9500000,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10444,BERGS,3,18.06.7381,27.05.7389,05.12.7383,3,3.5,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10445,BERGS,3,26.09.7381,04.09.7389,27.08.7383,1,9.30000000,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10446,TOMSP,6,04.01.7382,13.12.7389,19.05.7383,1,14.6800000,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany'
-10447,RICAR,4,04.01.7382,13.12.7389,13.01.7388,2,68.6600040,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10448,RANCH,4,31.10.7382,09.10.7390,30.09.7384,2,38.8200000,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina'
-10449,BLONP,3,08.02.7383,17.01.7391,27.07.7385,2,53.2999990,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10450,VICTE,8,19.05.7383,27.04.7391,16.02.7389,2,7.23000000,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10451,QUICK,4,19.05.7383,27.06.7387,27.05.7389,3,189.089996,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10452,SAVEA,8,27.08.7383,05.08.7391,18.04.7385,1,140.259995,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10453,AROUT,1,05.12.7383,13.11.7391,18.04.7385,2,25.3600010,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10454,LAMAI,4,05.12.7383,13.11.7391,08.01.7385,3,2.74000000,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10455,WARTH,8,30.09.7384,09.07.7396,09.12.7386,2,180.449997,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10456,KOENE,8,08.01.7385,17.10.7396,04.11.7385,2,8.12000000,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10457,KOENE,2,08.01.7385,17.12.7392,09.12.7386,1,11.5700000,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10458,SUPRD,7,18.04.7385,27.03.7393,19.03.7387,3,147.059998,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10459,VICTE,4,27.07.7385,05.07.7393,04.11.7385,2,25.0900000,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10460,FOLKO,8,04.11.7385,13.10.7393,09.12.7386,1,16.2700000,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10461,LILAS,1,04.11.7385,13.10.7393,27.06.7387,3,148.610001,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10462,CONSH,2,09.12.7386,09.08.7394,17.01.7391,1,6.17000000,Consolidated Holdings,Berkeley Gardens 12  Brewery,London,,WX1 6LT,UK'
-10463,SUPRD,5,19.03.7387,17.11.7394,05.10.7387,3,14.7800000,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10464,FURIB,4,19.03.7387,17.11.7394,13.12.7389,2,89,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal'
-10465,VAFFE,1,27.06.7387,25.02.7395,13.12.7389,3,145.039993,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10466,COMMI,4,05.10.7387,05.06.7395,04.09.7389,1,11.9300000,Comércio Mineiro,"Av. dos Lusíadas, 23",Sao Paulo,SP,05432-043,Brazil'
-10467,MAGAA,8,05.10.7387,05.06.7395,16.02.7389,2,4.93000000,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10468,KOENE,3,13.01.7388,13.09.7395,27.05.7389,3,44.1199990,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10469,WHITC,1,08.11.7388,09.07.7396,13.12.7389,1,60.1800000,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10470,BONAP,4,16.02.7389,17.10.7396,13.12.7389,2,64.5599980,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10471,BSBEV,2,16.02.7389,17.10.7396,17.01.7391,3,45.5900000,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-10472,SEVES,8,27.05.7389,25.01.7397,27.04.7391,1,4.20000000,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK'
-10473,ISLAT,1,04.09.7389,05.07.7393,13.11.7391,3,16.3700010,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10474,PERIC,5,04.09.7389,05.05.7397,13.11.7391,2,83.4899980,Pericles Comidas clásicas,Calle Dr. Jorge Cash 321,México D.F.,,5033,Mexico'
-10475,SUPRD,9,13.12.7389,13.08.7397,13.09.7395,1,68.5199970,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10476,HILAA,8,09.10.7390,09.06.7398,08.09.7392,3,4.41000000,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10477,PRINI,5,09.10.7390,09.06.7398,17.12.7392,2,13.0200010,Princesa Isabel Vinhos,Estrada da saúde n. 58,Lisboa,,1756,Portugal'
-10478,VICTE,2,17.01.7391,17.11.7394,27.03.7393,3,4.81000000,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10479,RATTC,3,27.04.7391,26.12.7398,13.11.7391,3,708.950012,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10480,FOLIG,6,05.08.7391,05.04.7399,08.09.7392,2,1.35000000,Folies gourmandes,"184, chaussée de Tournai",Lille,,59000,fr
-10481,RICAR,8,05.08.7391,05.04.7399,17.12.7392,2,64.3300020,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10482,LAZYK,1,13.11.7391,14.07.7399,05.05.7397,3,7.48000000,Lazy K Kountry Store,12 Orchestra Terrace,Walla Walla,WA,99362,USA'
-10483,WHITC,7,08.09.7392,10.05.7400,14.06.7401,2,15.2800000,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10484,BSBEV,3,08.09.7392,10.05.7400,17.11.7394,3,6.88000000,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-10485,LINOD,4,17.12.7392,17.10.7396,09.08.7394,2,64.4499970,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10486,HILAA,1,27.03.7393,26.11.7400,25.02.7395,2,30.5300010,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10487,QUEEN,2,27.03.7393,26.11.7400,13.10.7393,2,71.0700000,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10488,FRANK,8,05.07.7393,06.03.7401,25.02.7395,2,4.93000000,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10489,PICCO,6,13.10.7393,14.06.7401,25.01.7397,2,5.29000000,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-10490,HILAA,7,09.08.7394,10.04.7402,05.06.7395,2,210.190002,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10491,FURIB,8,09.08.7394,10.04.7402,17.10.7396,3,16.9599990,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal'
-10492,BOTTM,3,17.11.7394,19.07.7402,13.08.7397,1,62.8899990,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10493,LAMAI,4,25.02.7395,27.10.7402,05.05.7397,3,10.6400000,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10494,COMMI,4,25.02.7395,27.10.7402,25.01.7397,2,65.9899980,Comércio Mineiro,"Av. dos Lusíadas, 23",Sao Paulo,SP,05432-043,Brazil'
-10495,LAUGB,3,05.06.7395,04.02.7403,13.08.7397,3,4.6500000,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada'
-10496,TRADH,7,13.09.7395,15.05.7403,09.07.7396,2,46.7700010,Tradiçao Hipermercados,"Av. Inês de Castro, 414",Sao Paulo,SP,05634-030,Brazil'
-10497,LEHMS,7,13.09.7395,15.05.7403,09.07.7396,1,36.2099990,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10498,HILAA,8,09.07.7396,10.03.7404,13.08.7397,2,29.75,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10499,LILAS,4,17.10.7396,18.06.7404,26.12.7398,2,102.019997,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10500,LAMAI,6,25.01.7397,26.09.7404,05.04.7399,1,42.6800000,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10501,BLAUS,9,25.01.7397,26.09.7404,26.12.7398,3,8.85000000,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany'
-10502,PERIC,2,05.05.7397,04.01.7405,19.07.7402,1,69.3200000,Pericles Comidas clásicas,Calle Dr. Jorge Cash 321,México D.F.,,5033,Mexico'
-10503,HUNGO,6,13.08.7397,14.04.7405,26.12.7398,2,16.7400000,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10504,WHITC,4,13.08.7397,14.04.7405,14.07.7399,3,59.1300010,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10505,MEREP,3,09.06.7398,08.02.7406,10.05.7400,3,7.13000000,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10506,KOENE,9,17.09.7398,19.05.7406,15.05.7403,2,21.1900010,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10507,ANTON,7,17.09.7398,19.05.7406,18.08.7400,1,47.4500010,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,5023,Mexico'
-10508,OTTIK,1,26.12.7398,27.08.7406,19.05.7406,2,4.99000000,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-10509,BLAUS,4,05.04.7399,05.12.7406,19.07.7402,1,0.150000000,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany'
-10510,SAVEA,6,14.07.7399,15.03.7407,10.04.7402,3,367.630005,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10511,BONAP,4,14.07.7399,15.03.7407,10.05.7400,3,350.640015,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10512,FAMIA,7,10.05.7400,09.01.7408,06.03.7401,2,3.53000000,Familia Arquibaldo,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil'
-10513,WANDK,7,18.08.7400,17.02.7412,10.04.7402,1,105.650002,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-10514,ERNSH,3,18.08.7400,18.04.7408,15.03.7407,2,789.950012,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10515,QUICK,2,26.11.7400,26.09.7404,12.02.7409,1,204.470001,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10516,HUNGO,2,06.03.7401,04.11.7408,04.02.7403,3,62.7799990,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10517,NORTS,3,06.03.7401,04.11.7408,19.07.7402,3,32.0700000,North/South,South House 300 Queensbridge,London,,SW7 1RZ,UK'
-10518,TORTU,4,14.06.7401,14.04.7405,10.03.7404,2,218.149994,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-10519,CHOPS,6,10.04.7402,09.12.7409,04.02.7403,3,91.7600020,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland'
-10520,SANTG,7,19.07.7402,19.03.7410,04.02.7403,1,13.3700000,Santé Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway'
-10521,CACTU,8,19.07.7402,19.03.7410,15.05.7403,2,17.2199990,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina'
-10522,LEHMS,4,27.10.7402,27.06.7410,18.06.7404,1,45.3300020,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10523,SEVES,7,04.02.7403,05.10.7410,13.01.7411,2,77.6299970,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK'
-10524,BERGS,1,04.02.7403,05.10.7410,26.09.7404,2,244.789993,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10525,BONAP,1,15.05.7403,13.01.7411,12.02.7409,2,11.0600000,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10526,WARTH,4,10.03.7404,09.11.7411,05.12.7406,2,58.5900000,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10527,QUICK,7,10.03.7404,09.11.7411,26.09.7404,1,41.9000020,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10528,GREAL,6,18.06.7404,18.04.7408,14.04.7405,2,3.3500000,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-10529,MAISD,5,26.09.7404,27.05.7412,14.04.7405,2,66.6900020,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium'
-10530,PICCO,3,04.01.7405,04.09.7412,08.02.7406,2,339.220001,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-10531,OCEAN,7,04.01.7405,04.09.7412,09.01.7408,1,8.12000000,Océano Atlántico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina'
-10532,EASTC,7,14.04.7405,13.12.7412,08.02.7406,3,74.4599990,Eastern Connection,35 King George,London,,WX3 6FW,UK'
-10533,FOLKO,8,08.02.7406,09.10.7413,04.11.7408,1,188.039993,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10534,LEHMS,8,08.02.7406,09.10.7413,27.08.7406,2,27.9400010,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10535,ANTON,4,19.05.7406,17.01.7414,27.07.7408,1,15.6400000,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,5023,Mexico'
-10536,LEHMS,3,27.08.7406,27.04.7414,13.12.7412,2,58.8800010,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10537,RICSU,1,27.08.7406,27.06.7410,09.01.7408,1,78.8499980,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-10538,BSBEV,9,05.12.7406,05.08.7414,15.03.7407,3,4.87000000,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-10539,BSBEV,6,15.03.7407,13.11.7414,12.02.7409,3,12.3600000,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-10540,QUICK,3,09.01.7408,09.09.7415,13.11.7414,3,1007.64001,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10541,HANAR,2,09.01.7408,09.09.7415,05.10.7410,1,68.6500020,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10542,KOENE,1,18.04.7408,18.12.7415,09.12.7409,3,10.9500000,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10543,LILAS,8,27.07.7408,27.03.7416,12.02.7409,2,48.1699980,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10544,LONEP,4,27.07.7408,27.03.7416,13.01.7411,1,24.9100000,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA'
-10545,LAZYK,8,04.11.7408,05.07.7416,05.06.7418,2,11.9200000,Lazy K Kountry Store,12 Orchestra Terrace,Walla Walla,WA,99362,USA'
-10546,VICTE,1,12.02.7409,13.10.7416,19.03.7410,3,194.720001,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10547,SEVES,3,12.02.7409,13.10.7416,09.11.7411,2,178.429993,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK'
-10548,TOMSP,3,09.12.7409,09.08.7417,09.11.7411,2,1.43000000,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany'
-10549,QUICK,5,19.03.7410,17.01.7414,13.01.7411,1,171.240005,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10550,GODOS,7,27.06.7410,25.02.7418,13.12.7412,3,4.32000000,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-10551,FURIB,4,27.06.7410,26.12.7421,13.12.7412,3,72.9499970,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal'
-10552,HILAA,2,05.10.7410,05.06.7418,04.09.7412,1,83.2200010,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10553,WARTH,2,13.01.7411,13.09.7418,17.02.7412,2,149.490005,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10554,OTTIK,4,13.01.7411,13.09.7418,04.09.7412,3,120.970001,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-10555,SAVEA,6,09.11.7411,10.07.7419,27.05.7412,3,252.490005,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10556,SIMOB,2,17.02.7412,18.08.7423,13.11.7414,1,9.80000000,Simons bistro,Vinbæltet 34,Kobenhavn,,1734,Denmark'
-10557,LEHMS,9,17.02.7412,18.12.7415,13.12.7412,2,96.7200010,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10558,AROUT,1,27.05.7412,26.01.7420,17.01.7414,2,72.9700010,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10559,BLONP,6,04.09.7412,05.05.7420,13.11.7414,1,8.05000000,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10560,FRANK,8,13.12.7412,13.08.7420,09.10.7413,1,36.6500020,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10561,FOLKO,2,13.12.7412,13.08.7420,09.10.7413,2,242.210007,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10562,REGGC,1,09.10.7413,09.06.7421,05.08.7414,1,22.9500010,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10563,RICAR,2,17.01.7414,18.07.7425,17.11.7417,2,60.4300000,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10564,RATTC,4,17.01.7414,17.09.7421,09.09.7415,3,13.75,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10565,MEREP,8,27.04.7414,26.12.7421,27.03.7416,2,7.1500000,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10566,BLONP,9,05.08.7414,05.04.7422,27.03.7416,1,88.4000020,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10567,HUNGO,1,05.08.7414,05.04.7422,18.12.7415,1,33.9700010,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10568,GALED,3,13.11.7414,14.07.7422,26.12.7421,3,6.54000000,Galería del gastronómo,"Rambla de Cataluña, 23",Barcelona,,8022,Spain'
-10569,RATTC,5,09.09.7415,10.05.7423,14.07.7422,1,58.9799990,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10570,MEREP,3,18.12.7415,18.08.7423,05.07.7416,3,188.990005,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10571,ERNSH,8,18.12.7415,18.06.7427,13.08.7420,3,26.0599990,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10572,BERGS,3,27.03.7416,26.11.7423,25.02.7418,2,116.43,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10573,ANTON,7,05.07.7416,05.03.7424,13.10.7416,3,84.8399960,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,5023,Mexico'
-10574,TRAIH,4,05.07.7416,05.03.7424,10.07.7419,2,37.5999980,Trail''s Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA'
-10575,MORGK,5,13.10.7416,13.08.7420,10.07.7419,1,127.339996,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany'
-10576,TORTU,3,09.08.7417,09.06.7421,10.07.7419,3,18.5599990,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-10577,TRAIH,9,09.08.7417,07.02.7429,10.07.7419,2,25.4100000,Trail''s Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA'
-10578,BSBEV,4,17.11.7417,18.07.7425,14.05.7426,3,29.6000000,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-10579,LETSS,1,25.02.7418,26.10.7425,13.08.7420,2,13.7299990,Let''s Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA'
-10580,OTTIK,4,05.06.7418,03.02.7426,18.10.7419,3,75.8899990,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-10581,FAMIA,3,05.06.7418,03.02.7426,26.01.7420,1,3.01000000,Familia Arquibaldo,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil'
-10582,BLAUS,3,13.09.7418,14.05.7426,10.05.7423,2,27.7099990,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany'
-10583,WARTH,2,10.07.7419,10.03.7427,13.08.7420,2,7.28000000,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10584,BLONP,4,10.07.7419,10.03.7427,13.08.7420,1,59.1399990,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10585,WELLI,7,18.10.7419,18.06.7427,05.04.7422,1,13.4100000,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil'
-10586,REGGC,9,26.01.7420,26.09.7427,26.12.7421,1,0.480000000,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10587,QUEDE,1,26.01.7420,26.09.7427,26.12.7421,1,62.5200010,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil'
-10588,QUICK,2,05.05.7420,04.01.7428,05.04.7422,3,194.669998,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10589,GREAL,8,13.08.7420,13.04.7428,10.05.7423,2,4.42000000,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-10590,MEREP,4,09.06.7421,07.02.7429,10.05.7423,3,44.7700010,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10591,VAFFE,1,09.06.7421,09.04.7425,26.11.7423,1,55.9199980,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10592,LEHMS,3,17.09.7421,18.05.7429,26.11.7423,1,32.0999980,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10593,LEHMS,7,26.12.7421,26.08.7429,27.07.7431,2,174.199997,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10594,OLDWO,3,26.12.7421,26.08.7429,26.11.7423,2,5.24000000,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-10595,ERNSH,2,05.04.7422,04.12.7429,10.05.7423,1,96.7799990,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10596,WHITC,8,14.07.7422,14.03.7430,18.04.7431,1,16.3400000,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10597,PICCO,7,14.07.7422,14.03.7430,13.06.7424,3,35.1199990,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-10598,RATTC,1,10.05.7423,08.01.7431,13.06.7424,3,44.4199980,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10599,BSBEV,6,18.08.7423,16.02.7435,09.04.7425,3,29.9800000,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-10600,HUNGC,4,26.11.7423,27.07.7431,09.04.7425,1,45.1300010,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA'
-10601,HILAA,7,26.11.7423,27.05.7435,18.07.7425,1,58.2999990,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10602,VAFFE,8,05.03.7424,04.11.7431,18.07.7425,2,2.92000000,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10603,SAVEA,8,13.06.7424,12.02.7432,14.03.7430,2,48.7700010,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10604,FURIB,1,13.06.7424,12.02.7432,18.06.7427,1,7.46000000,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal'
-10605,MEREP,1,09.04.7425,08.12.7432,18.06.7427,2,379.130005,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10606,TRADH,4,18.07.7425,18.03.7433,04.01.7428,3,79.4000020,Tradiçao Hipermercados,"Av. Inês de Castro, 414",Sao Paulo,SP,05634-030,Brazil'
-10607,SAVEA,5,18.07.7425,18.03.7433,14.05.7426,1,200.240005,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10608,TOMSP,4,26.10.7425,26.06.7433,13.04.7428,2,27.7900010,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany'
-10609,DUMON,7,03.02.7426,04.10.7433,26.09.7427,2,1.85000000,Du monde entier,"67, rue des Cinquante Otages",Nantes,,44000,fr
-10610,LAMAI,8,14.05.7426,12.01.7434,26.08.7429,1,26.7800010,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10611,WOLZA,6,14.05.7426,12.01.7434,13.04.7428,2,80.6500020,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland'
-10612,SAVEA,1,10.03.7427,08.11.7434,13.04.7428,2,544.080017,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10613,HILAA,4,18.06.7427,16.02.7435,13.04.7428,2,8.11000000,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10614,BLAUS,8,18.06.7427,16.02.7435,13.04.7428,3,1.93000000,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany'
-10615,WILMK,2,26.09.7427,27.05.7435,26.08.7429,3,0.75,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland'
-10616,GREAL,1,04.01.7428,04.09.7435,18.05.7429,2,116.529999,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-10617,GREAL,4,04.01.7428,04.09.7435,07.02.7429,2,18.5300010,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-10618,MEREP,1,13.04.7428,13.10.7439,14.03.7430,1,154.679993,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10619,MEREP,3,07.02.7429,08.10.7436,04.12.7429,3,91.0500030,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10620,LAUGB,2,18.05.7429,16.01.7437,04.11.7431,3,0.940000000,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada'
-10621,ISLAT,4,18.05.7429,16.01.7437,08.01.7431,2,23.7300000,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10622,RICAR,4,26.08.7429,26.04.7437,08.01.7431,3,50.9700010,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10623,FRANK,8,04.12.7429,04.08.7437,18.04.7431,2,97.1800000,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10624,THECR,4,04.12.7429,04.08.7437,18.03.7433,2,94.8000030,The Cracker Box,55 Grizzly Peak Rd.,Butte,MT,59801,USA'
-10625,ANATR,3,14.03.7430,12.11.7437,04.11.7431,1,43.9000020,Ana Trujillo Emparedados y helados,Avda. de la Constitución 2222,México D.F.,,5021,Mexico'
-10626,BERGS,1,08.01.7431,08.09.7438,26.06.7433,2,138.690002,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10627,SAVEA,8,08.01.7431,09.07.7442,04.10.7433,3,107.459999,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10628,BLONP,4,18.04.7431,17.12.7438,26.06.7433,3,30.3600010,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10629,GODOS,4,18.04.7431,17.12.7438,26.06.7433,3,85.4599990,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-10630,KOENE,1,27.07.7431,27.03.7439,18.03.7433,2,32.3499980,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10631,LAMAI,8,04.11.7431,05.07.7439,12.02.7432,1,0.870000000,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10632,WANDK,8,04.11.7431,05.07.7439,18.03.7433,1,41.3800010,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-10633,ERNSH,7,12.02.7432,13.10.7439,08.12.7432,3,477.899994,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10634,FOLIG,4,12.02.7432,13.10.7439,04.10.7433,3,487.380005,Folies gourmandes,"184, chaussée de Tournai",Lille,,59000,fr
-10635,MAGAA,8,08.12.7432,08.08.7440,04.10.7433,3,47.4599990,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10636,WARTH,4,18.03.7433,16.11.7440,16.02.7435,1,1.15000000,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10637,QUEEN,6,18.03.7433,16.11.7440,16.02.7435,1,201.289993,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10638,LINOD,3,26.06.7433,24.02.7441,08.10.7436,1,158.440002,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10639,SANTG,7,26.06.7433,24.02.7441,27.05.7435,3,38.6399990,Santé Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway'
-10640,WANDK,4,04.10.7433,04.06.7441,04.09.7435,1,23.5499990,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-10641,HILAA,4,12.01.7434,12.09.7441,16.02.7435,2,179.610001,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10642,SIMOB,7,12.01.7434,12.09.7441,12.11.7437,3,41.8899990,Simons bistro,Vinbæltet 34,Kobenhavn,,1734,Denmark'
-10643,ALFKI,6,08.11.7434,09.07.7442,16.01.7437,1,29.4599990,Alfreds Futterkiste,Obere Str. 57,Berlin,,12209,Germany'
-10644,WELLI,3,08.11.7434,09.07.7442,08.10.7436,2,0.140000000,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil'
-10645,HANAR,4,16.02.7435,17.10.7442,16.01.7437,1,12.4100000,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10646,HUNGO,9,27.05.7435,25.11.7446,26.04.7437,3,142.330002,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10647,QUEDE,4,27.05.7435,27.03.7439,26.04.7437,2,45.5400010,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil'
-10648,RICAR,5,04.09.7435,05.03.7447,17.12.7438,2,14.25,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10649,MAISD,5,04.09.7435,05.05.7443,13.12.7435,3,6.20000000,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium'
-10650,FAMIA,5,13.12.7435,13.08.7443,26.04.7437,3,176.809998,Familia Arquibaldo,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil'
-10651,WANDK,8,08.10.7436,08.06.7444,05.07.7439,2,20.6000000,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-10652,GOURL,4,08.10.7436,08.06.7444,08.09.7438,2,7.14000000,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil'
-10653,FRANK,1,16.01.7437,16.09.7444,12.09.7441,1,93.25,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10654,BERGS,5,16.01.7437,16.09.7444,05.07.7439,1,55.2599980,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10655,REGGC,1,26.04.7437,25.12.7444,05.07.7439,2,4.41000000,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10656,GREAL,6,04.08.7437,04.04.7445,27.03.7439,1,57.1500020,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-10657,SAVEA,2,04.08.7437,04.04.7445,08.08.7440,2,352.690002,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10658,QUICK,4,12.11.7437,13.07.7445,08.09.7438,1,364.149994,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10659,QUEEN,7,12.11.7437,13.07.7445,27.03.7439,2,105.809998,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10660,HUNGC,8,08.09.7438,09.05.7446,25.10.7448,1,111.290001,Hungry Coyote Import Store,City Center Plaza 516 Main St.,Elgin,OR,97827,USA'
-10661,HUNGO,7,17.12.7438,17.08.7446,08.08.7440,3,17.5499990,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10662,LONEP,3,17.12.7438,17.08.7446,04.06.7441,2,1.28000000,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA'
-10663,BONAP,2,27.03.7439,25.01.7443,13.07.7445,2,113.150002,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10664,FURIB,1,27.03.7439,25.11.7446,12.09.7441,3,1.27000000,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal'
-10665,LONEP,1,05.07.7439,05.03.7447,24.02.7441,2,26.3099990,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA'
-10666,RICSU,7,13.10.7439,13.06.7447,09.07.7442,2,232.419998,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-10667,ERNSH,7,13.10.7439,13.06.7447,12.09.7441,1,78.0899960,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10668,WANDK,1,08.08.7440,08.04.7448,17.10.7442,2,47.2200010,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-10669,SIMOB,2,08.08.7440,08.04.7448,09.07.7442,1,24.3899990,Simons bistro,Vinbæltet 34,Kobenhavn,,1734,Denmark'
-10670,FRANK,4,16.11.7440,17.07.7448,04.06.7441,1,203.479996,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10671,FRANR,1,24.02.7441,25.10.7448,25.01.7443,1,30.3400000,France restauration,"54, rue Royale",Nantes,,44000,fr
-10672,BERGS,9,24.02.7441,25.12.7444,13.08.7443,2,95.75,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10673,WILMK,2,04.06.7441,02.02.7449,12.09.7441,1,22.7600000,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland'
-10674,ISLAT,4,04.06.7441,02.02.7449,16.09.7444,2,0.900000000,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10675,FRANK,5,12.09.7441,13.05.7449,17.10.7442,2,31.8500000,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10676,TORTU,2,09.07.7442,09.03.7450,08.06.7444,2,2.01000000,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-10677,ANTON,1,09.07.7442,09.03.7450,13.08.7443,3,4.03000000,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,5023,Mexico'
-10678,SAVEA,7,17.10.7442,17.06.7450,02.02.7449,3,388.980011,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10679,BLONP,8,17.10.7442,17.06.7450,16.09.7444,3,27.9400010,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10680,OLDWO,1,25.01.7443,25.09.7450,13.08.7443,1,26.6100010,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-10681,GREAL,3,05.05.7443,03.01.7451,16.09.7444,3,76.1299970,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-10682,ANTON,3,05.05.7443,03.01.7451,25.12.7444,2,36.1300010,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,5023,Mexico'
-10683,DUMON,2,13.08.7443,13.04.7451,25.12.7444,1,4.4000000,Du monde entier,"67, rue des Cinquante Otages",Nantes,,44000,fr
-10684,OTTIK,3,13.08.7443,13.04.7451,16.09.7444,1,145.630005,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-10685,GOURL,4,08.06.7444,08.04.7448,13.07.7445,2,33.75,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil'
-10686,PICCO,2,16.09.7444,17.05.7452,25.11.7446,1,96.5,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-10687,HUNGO,9,16.09.7444,17.05.7452,03.12.7452,2,296.429993,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10688,VAFFE,4,25.12.7444,25.10.7448,17.08.7446,2,299.089996,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10689,BERGS,1,25.12.7444,25.08.7452,17.08.7446,2,13.4200000,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10690,HANAR,1,04.04.7445,03.12.7452,13.07.7445,1,15.8000000,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10691,QUICK,2,13.07.7445,11.01.7457,25.09.7450,2,810.049988,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10692,ALFKI,4,13.07.7445,13.03.7453,08.04.7448,2,61.0200010,Alfred''s Futterkiste,Obere Str. 57,Berlin,,12209,Germany'
-10693,WHITC,3,09.05.7446,09.03.7450,13.06.7447,3,139.339996,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10694,QUICK,8,09.05.7446,07.01.7454,05.03.7447,3,398.359985,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10695,WILMK,7,17.08.7446,15.02.7458,17.07.7448,1,16.7199990,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland'
-10696,WHITC,8,25.11.7446,26.05.7458,17.07.7448,3,102.550003,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10697,LINOD,3,25.11.7446,26.07.7454,17.07.7448,1,45.5200010,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10698,ERNSH,4,05.03.7447,03.11.7454,13.05.7449,1,272.470001,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10699,MORGK,3,05.03.7447,03.11.7454,08.04.7448,3,0.580000000,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany'
-10700,SAVEA,3,13.06.7447,11.02.7455,02.02.7449,1,65.0999980,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10701,HUNGO,6,08.04.7448,07.02.7452,25.10.7448,3,220.309998,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10702,ALFKI,4,08.04.7448,08.10.7459,17.06.7450,1,23.9400010,Alfred''s Futterkiste,Obere Str. 57,Berlin,,12209,Germany'
-10703,FOLKO,6,17.07.7448,17.03.7456,09.03.7450,2,152.300003,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10704,QUEEN,6,17.07.7448,17.03.7456,11.02.7455,1,4.78000000,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10705,HILAA,9,25.10.7448,25.06.7456,15.02.7458,2,3.52000000,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10706,OLDWO,8,02.02.7449,03.10.7456,17.06.7450,3,135.630005,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-10707,AROUT,4,02.02.7449,03.12.7452,03.01.7451,3,21.7400000,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10708,THEBI,6,13.05.7449,11.11.7460,26.07.7454,2,2.96000000,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA'
-10709,GOURL,1,13.05.7449,11.01.7457,03.09.7458,3,210.800003,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil'
-10710,FRANS,1,09.03.7450,07.11.7457,03.01.7451,1,4.98000000,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy'
-10711,SAVEA,5,17.06.7450,16.12.7461,25.08.7452,2,52.4100000,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10712,HUNGO,3,17.06.7450,15.02.7458,13.03.7453,1,89.9300000,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10713,SAVEA,1,25.09.7450,26.05.7458,13.04.7451,1,167.050003,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10714,SAVEA,5,25.09.7450,26.05.7458,07.02.7452,3,24.4900000,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10715,BONAP,3,03.01.7451,03.11.7454,25.08.7452,1,63.2000010,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10716,RANCH,4,13.04.7451,12.12.7458,07.02.7452,2,22.5700000,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina'
-10717,FRANK,1,13.04.7451,12.12.7458,25.08.7452,2,59.25,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10718,KOENE,1,07.02.7452,08.10.7459,25.08.7452,3,170.880005,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10719,LETSS,8,07.02.7452,08.10.7459,26.07.7454,2,51.4399990,Let''s Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA'
-10720,QUEDE,8,17.05.7452,17.03.7456,26.07.7454,2,9.53000000,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil'
-10721,QUICK,5,25.08.7452,25.04.7460,13.03.7453,3,48.9199980,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10722,SAVEA,8,25.08.7452,24.02.7464,17.04.7454,1,74.5800020,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10723,WHITC,3,03.12.7452,03.08.7460,16.01.7460,1,21.7199990,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10724,MEREP,8,03.12.7452,03.06.7464,26.07.7454,2,57.75,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,H1J 1C3,Canada'
-10725,FAMIA,4,13.03.7453,11.11.7460,26.07.7454,3,10.8300000,Familia Arquibaldo,"Rua Orós, 92",Sao Paulo,SP,05442-030,Brazil'
-10726,EASTC,4,07.01.7454,07.11.7457,12.10.7462,1,16.5599990,Eastern Connection,35 King George,London,,WX3 6FW,UK'
-10727,REGGC,2,07.01.7454,07.09.7461,12.10.7462,1,89.9000020,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10728,QUEEN,4,17.04.7454,16.12.7461,17.03.7456,2,58.3300020,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10729,LINOD,8,17.04.7454,16.10.7465,11.01.7457,3,141.059998,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10730,BONAP,5,26.07.7454,26.03.7462,11.01.7457,1,20.1200010,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10731,CHOPS,7,03.11.7454,04.07.7462,11.01.7457,1,96.6500020,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland'
-10732,BONAP,3,03.11.7454,04.07.7462,11.02.7455,1,16.9699990,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10733,BERGS,1,11.02.7455,12.10.7462,08.12.7455,3,110.110001,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10734,GOURL,2,11.02.7455,12.10.7462,25.06.7456,3,1.63,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil'
-10735,LETSS,6,08.12.7455,08.08.7463,12.12.7458,2,45.9700010,Let''s Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA'
-10736,HUNGO,9,17.03.7456,16.11.7463,12.12.7458,2,44.0999980,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10737,VINET,2,17.03.7456,16.11.7463,15.02.7458,2,7.79000000,Vins et alcools Chevalier,59 rue de l''Abbaye,Reims,,51100,fr
-10738,SPECD,2,25.06.7456,24.02.7464,15.02.7458,1,2.91000000,Spécialités du monde,"25, rue Lauriston",Paris,,75016,fr
-10739,VINET,3,25.06.7456,24.02.7464,07.11.7457,3,11.0800000,Vins et alcools Chevalier,59 rue de l''Abbaye,Reims,,51100,fr
-10740,WHITC,4,03.10.7456,03.06.7464,16.01.7460,2,81.8799970,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10741,AROUT,4,11.01.7457,11.11.7460,15.02.7458,3,10.96,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10742,BOTTM,3,11.01.7457,11.09.7464,15.02.7458,3,243.729996,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10743,AROUT,1,07.11.7457,08.07.7465,12.12.7458,2,23.7199990,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10744,VAFFE,6,07.11.7457,08.07.7465,08.10.7459,1,69.1900020,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10745,QUICK,9,15.02.7458,16.10.7465,03.08.7460,1,3.52000000,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10746,CHOPS,1,26.05.7458,24.01.7466,12.12.7458,3,31.4300000,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland'
-10747,PICCO,6,26.05.7458,24.01.7466,25.04.7460,1,117.330002,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-10748,SAVEA,3,03.09.7458,04.05.7466,11.11.7460,1,232.550003,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10749,ISLAT,4,03.09.7458,04.05.7466,12.08.7466,2,61.5299990,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10750,WARTH,9,12.12.7458,12.08.7466,08.10.7459,1,79.3000030,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10751,RICSU,3,08.10.7459,08.06.7467,26.03.7462,3,130.789993,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-10752,NORTS,2,08.10.7459,08.06.7467,11.11.7460,3,1.39000000,North/South,South House 300 Queensbridge,London,,SW7 1RZ,UK'
-10753,FRANS,3,16.01.7460,16.09.7467,03.08.7460,1,7.70000000,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy'
-10754,MAGAA,6,16.01.7460,16.09.7467,03.08.7460,3,2.38000000,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10755,BONAP,4,25.04.7460,25.12.7467,11.11.7460,2,16.7099990,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10756,SPLIR,8,03.08.7460,03.04.7468,16.12.7461,2,73.2099990,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA'
-10757,SAVEA,6,03.08.7460,03.04.7468,08.07.7465,1,8.19000000,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10758,RICSU,3,11.11.7460,12.07.7468,04.07.7462,3,138.169998,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-10759,ANATR,3,11.11.7460,12.07.7468,11.09.7464,3,11.9900000,Ana Trujillo Emparedados y helados,Avda. de la Constitución 2222,México D.F.,,5021,Mexico'
-10760,MAISD,4,07.09.7461,08.05.7469,24.02.7464,1,155.639999,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium'
-10761,RATTC,5,16.12.7461,16.08.7469,08.08.7463,2,18.6600000,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10762,FOLKO,3,16.12.7461,16.08.7469,16.11.7463,1,328.73999,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10763,FOLIG,3,26.03.7462,24.11.7469,08.08.7463,3,37.3499980,Folies gourmandes,"184, chaussée de Tournai",Lille,,59000,fr
-10764,ERNSH,6,26.03.7462,24.11.7469,08.08.7463,3,145.449997,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10765,QUICK,3,04.07.7462,18.01.4770,16.11.7463,3,42.7400020,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10766,OTTIK,4,12.10.7462,28.04.4770,16.11.7463,1,157.550003,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-10767,SUPRD,4,12.10.7462,28.04.4770,08.07.7465,3,1.59000000,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10768,AROUT,3,08.08.7463,22.02.4771,08.07.7465,2,146.320007,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10769,VAFFE,3,08.08.7463,22.02.4771,11.09.7464,1,65.0599980,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10770,HANAR,8,16.11.7463,02.06.4771,24.01.7466,3,5.32000000,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10771,ERNSH,9,24.02.7464,10.09.4771,28.04.4770,2,11.1900000,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10772,LEHMS,3,24.02.7464,10.09.4771,12.08.7466,2,91.2799990,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10773,ERNSH,1,03.06.7464,19.12.4771,16.10.7465,3,96.4300000,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10774,FOLKO,4,03.06.7464,03.04.7468,11.09.7464,1,48.2000010,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10775,THECR,7,11.09.7464,28.03.4772,12.07.7468,1,20.25,The Cracker Box,55 Grizzly Peak Rd.,Butte,MT,59801,USA'
-10776,ERNSH,1,08.07.7465,22.01.4773,04.05.7466,3,351.529999,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10777,GOURL,7,08.07.7465,08.05.7469,11.07.4775,2,3.01000000,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil'
-10778,BERGS,3,16.10.7465,02.05.4773,25.12.7467,1,6.79000000,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10779,MORGK,3,16.10.7465,02.05.4773,10.08.4773,2,58.1300010,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany'
-10780,LILAS,2,16.10.7465,16.08.7469,03.04.7468,1,42.1300010,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10781,WARTH,2,24.01.7466,10.08.4773,12.08.7466,3,73.1600040,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-10782,CACTU,9,24.01.7466,10.08.4773,08.06.7467,3,1.10000000,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina'
-10783,HANAR,4,04.05.7466,18.11.4773,12.08.7466,2,124.980003,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10784,MAGAA,4,04.05.7466,18.11.4773,08.06.7467,3,70.0899960,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10785,GROSR,1,04.05.7466,18.11.4773,25.12.7467,3,1.51000000,GROSELLA-Restaurante,5ª Ave. Los Palos Grandes,Caracas,DF,1081,Venezuela'
-10786,QUEEN,8,12.08.7466,26.02.4774,16.09.7467,1,110.870003,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10787,LAMAI,2,12.08.7466,28.04.4770,12.07.7468,1,249.929993,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10788,QUICK,1,08.06.7467,23.12.4774,23.12.4774,2,42.7000010,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10789,FOLIG,1,08.06.7467,23.12.4774,24.11.7469,2,100.599998,Folies gourmandes,"184, chaussée de Tournai",Lille,,59000,fr
-10790,GOURL,6,08.06.7467,23.12.4774,12.07.7468,1,28.2300000,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil'
-10791,FRANK,6,16.09.7467,02.04.4775,18.01.4770,2,16.8500000,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10792,WOLZA,1,16.09.7467,02.04.4775,24.11.7469,3,23.7900010,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland'
-10793,AROUT,3,25.12.7467,11.07.4775,19.12.4771,3,4.52000000,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10794,QUEDE,6,25.12.7467,11.07.4775,28.04.4770,1,21.4900000,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil'
-10795,ERNSH,8,25.12.7467,11.07.4775,02.04.4775,2,126.660004,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10796,HILAA,3,03.04.7468,19.10.4775,10.08.4773,1,26.5200000,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10797,DRACD,7,03.04.7468,19.10.4775,22.02.4771,2,33.3499980,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany'
-10798,ISLAT,2,12.07.7468,27.01.4776,22.02.4771,1,2.33000000,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10799,KOENE,9,12.07.7468,27.11.4779,22.02.4771,3,30.7600000,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10800,SEVES,1,12.07.7468,27.01.4776,22.02.4771,3,137.440002,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK'
-10801,BOLID,4,08.05.7469,22.11.4776,24.11.7469,2,97.0899960,Bólido Comidas preparadas,"C/ Araquil, 67",Madrid,,28023,Spain'
-10802,SIMOB,4,08.05.7469,22.11.4776,28.04.4770,2,257.26001,Simons bistro,Vinbæltet 34,Kobenhavn,,1734,Denmark'
-10803,WELLI,4,16.08.7469,02.03.4777,02.06.4771,1,55.2299990,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil'
-10804,SEVES,6,16.08.7469,02.03.4777,10.09.4771,2,27.3300000,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK'
-10805,THEBI,2,16.08.7469,02.03.4777,28.03.4772,3,237.339996,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA'
-10806,VICTE,3,24.11.7469,10.06.4777,22.02.4771,2,22.1100010,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10807,FRANS,4,24.11.7469,10.06.4777,27.12.4777,1,1.36000000,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy'
-10808,OLDWO,2,18.01.4770,18.09.4777,28.03.4772,3,45.5299990,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-10809,WELLI,7,18.01.4770,18.09.4777,10.09.4771,1,4.87000000,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil'
-10810,LAUGB,2,18.01.4770,18.09.4777,10.09.4771,3,4.33000000,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,V3F 2K1,Canada'
-10811,LINOD,8,28.04.4770,27.12.4777,19.12.4771,1,31.2199990,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10812,REGGC,5,28.04.4770,27.12.4777,22.01.4773,1,59.7799990,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10813,RICAR,1,22.02.4771,23.10.4778,28.03.4772,1,47.3800010,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10814,VICTE,3,22.02.4771,23.10.4778,10.08.4773,3,130.940002,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10815,SAVEA,2,22.02.4771,23.10.4778,10.08.4773,3,14.6200000,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10816,GREAL,4,02.06.4771,31.01.4779,11.05.4779,2,719.780029,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-10817,KOENE,3,02.06.4771,02.04.4775,02.05.4773,2,306.070007,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10818,MAGAA,7,10.09.4771,11.05.4779,22.01.4773,3,65.4800030,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10819,CACTU,2,10.09.4771,11.05.4779,26.02.4774,3,19.7600000,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina'
-10820,RATTC,3,10.09.4771,11.05.4779,02.05.4773,2,37.5200010,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10821,SPLIR,1,19.12.4771,19.08.4779,18.11.4773,1,36.6800000,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA'
-10822,TRAIH,6,19.12.4771,19.08.4779,26.02.4774,3,7,Trail''s Head Gourmet Provisioners,722 DaVinci Blvd.,Kirkland,WA,98034,USA'
-10823,LILAS,5,28.03.4772,27.11.4779,02.05.4773,2,163.970001,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10824,FOLKO,8,28.03.4772,27.11.4779,27.12.4777,1,1.23000000,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10825,DRACD,1,28.03.4772,27.11.4779,10.08.4773,1,79.25,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany'
-10826,BLONP,6,22.01.4773,22.09.4780,27.11.4779,1,7.09000000,Blondel père et fils,"24, place Kléber",Strasbourg,,67000,fr
-10827,BONAP,1,22.01.4773,22.11.4776,27.11.4779,2,63.5400010,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10828,RANCH,9,02.05.4773,02.03.4777,11.05.4779,1,90.8499980,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina'
-10829,ISLAT,9,02.05.4773,31.12.4780,27.01.4776,1,154.720001,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10830,TRADH,4,02.05.4773,31.10.4784,11.07.4775,2,81.8300020,Tradiçao Hipermercados,"Av. Inês de Castro, 414",Sao Paulo,SP,05634-030,Brazil'
-10831,SANTG,3,10.08.4773,10.04.4781,27.01.4776,2,72.1900020,Santé Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway'
-10832,LAMAI,2,10.08.4773,10.04.4781,23.12.4774,2,43.2599980,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10833,OTTIK,6,18.11.4773,19.07.4781,27.01.4776,2,71.4899980,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-10834,TRADH,1,18.11.4773,19.07.4781,23.12.4774,3,29.7800010,Tradiçao Hipermercados,"Av. Inês de Castro, 414",Sao Paulo,SP,05634-030,Brazil'
-10835,ALFKI,1,18.11.4773,19.07.4781,11.07.4775,3,69.5299990,Alfred''s Futterkiste,Obere Str. 57,Berlin,,12209,Germany'
-10836,ERNSH,7,26.02.4774,27.10.4781,11.07.4775,1,411.880005,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10837,BERGS,9,26.02.4774,27.10.4781,27.01.4776,3,13.3200000,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10838,LINOD,3,23.12.4774,23.08.4782,27.01.4776,3,59.2799990,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10839,TRADH,3,23.12.4774,23.08.4782,19.10.4775,3,35.4300000,Tradiçao Hipermercados,"Av. Inês de Castro, 414",Sao Paulo,SP,05634-030,Brazil'
-10840,LINOD,4,23.12.4774,23.06.4786,23.08.4782,2,2.71000000,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10841,SUPRD,5,02.04.4775,01.12.4782,18.09.4777,2,424.299988,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10842,TORTU,1,02.04.4775,01.12.4782,18.09.4777,3,54.4199980,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-10843,VICTE,4,11.07.4775,11.03.4783,22.11.4776,2,9.26000000,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10844,PICCO,8,11.07.4775,11.03.4783,22.11.4776,2,25.2199990,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-10845,QUICK,8,11.07.4775,11.05.4779,27.12.4777,1,212.979996,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10846,SUPRD,2,19.10.4775,19.04.4787,27.01.4776,3,56.4599990,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10847,SAVEA,4,19.10.4775,19.08.4779,31.12.4780,3,487.570007,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10848,CONSH,7,27.01.4776,27.09.4783,18.09.4777,2,38.2400020,Consolidated Holdings,Berkeley Gardens 12  Brewery,London,,WX1 6LT,UK'
-10849,KOENE,9,27.01.4776,27.09.4783,27.12.4777,2,0.560000000,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10850,VICTE,1,27.01.4776,28.07.4787,27.12.4777,1,49.1899990,Victuailles en stock,"2, rue du Commerce",Lyon,,69004,fr
-10851,RICAR,5,22.11.4776,23.07.4784,23.10.4778,1,160.550003,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10852,RATTC,8,22.11.4776,22.09.4780,27.12.4777,1,174.050003,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10853,BLAUS,9,02.03.4777,31.10.4784,31.01.4779,2,53.8300020,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany'
-10854,ERNSH,3,02.03.4777,31.10.4784,19.08.4779,2,100.220001,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10855,OLDWO,3,02.03.4777,31.10.4784,11.05.4779,1,170.970001,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-10856,ANTON,3,10.06.4777,08.02.4785,31.12.4780,2,58.4300000,Antonio Moreno Taquería,Mataderos  2312,México D.F.,,5023,Mexico'
-10857,BERGS,8,10.06.4777,08.02.4785,27.11.4779,2,188.850006,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10858,LACOR,2,18.09.4777,19.05.4785,31.01.4779,1,52.5099980,La corne d''abondance,"67, avenue de l'Europe",Versailles,,78000,fr
-10859,FRANK,1,18.09.4777,19.05.4785,23.10.4778,2,76.0999980,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10860,FRANR,3,18.09.4777,19.05.4785,11.05.4779,3,19.2600000,France restauration,"54, rue Royale",Nantes,,44000,fr
-10861,WHITC,4,27.12.4777,27.08.4785,01.12.4782,2,14.9300000,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10862,LEHMS,8,27.12.4777,27.06.4789,23.10.4778,2,53.2299990,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10863,HILAA,4,23.10.4778,23.06.4786,01.12.4782,2,30.2600000,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10864,AROUT,4,23.10.4778,23.06.4786,22.09.4780,2,3.04000000,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10865,QUICK,2,23.10.4778,23.08.4782,19.07.4781,1,348.140015,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10866,BERGS,5,31.01.4779,01.10.4786,19.07.4781,1,109.110001,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10867,LONEP,6,31.01.4779,01.08.4790,10.04.4781,1,1.93000000,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA'
-10868,QUEEN,7,11.05.4779,09.01.4787,23.07.4784,2,191.270004,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10869,SEVES,5,11.05.4779,09.01.4787,22.09.4780,1,143.279999,Seven Seas Imports,90 Wadhurst Rd.,London,,OX15 4NB,UK'
-10870,WOLZA,5,11.05.4779,09.01.4787,27.10.4781,3,12.04,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland'
-10871,BONAP,9,19.08.4779,19.04.4787,31.12.4780,2,112.269997,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10872,GODOS,5,19.08.4779,19.04.4787,22.09.4780,2,175.320007,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-10873,WILMK,4,27.11.4779,28.07.4787,22.09.4780,1,0.820000000,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland'
-10874,GODOS,5,27.11.4779,28.07.4787,10.04.4781,2,19.5800000,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-10875,BERGS,4,27.11.4779,28.07.4787,01.10.4786,2,32.3699990,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10876,BONAP,7,22.09.4780,23.05.4788,19.07.4781,3,60.4199980,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10877,RICAR,1,22.09.4780,23.05.4788,19.06.4783,1,38.0600010,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-10878,QUICK,4,31.12.4780,31.08.4788,19.07.4781,1,46.6899990,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10879,WILMK,3,31.12.4780,31.08.4788,19.07.4781,3,8.5,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland'
-10880,FOLKO,7,31.12.4780,01.07.4792,11.03.4783,1,88.0100020,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10881,CACTU,4,10.04.4781,09.12.4788,11.03.4783,1,2.84000000,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina'
-10882,SAVEA,4,10.04.4781,09.12.4788,27.09.4783,3,23.1000000,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10883,LONEP,8,19.07.4781,19.03.4789,27.09.4783,3,0.530000000,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA'
-10884,LETSS,4,19.07.4781,19.03.4789,27.10.4781,2,90.9700010,Let''s Stop N Shop,87 Polk St. Suite 5,San Francisco,CA,94117,USA'
-10885,SUPRD,6,19.07.4781,19.03.4789,11.03.4783,3,5.64000000,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10886,HANAR,1,27.10.4781,27.06.4789,23.06.4786,1,4.99000000,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10887,GALED,8,27.10.4781,27.06.4789,23.08.4782,3,1.25,Galería del gastronómo,"Rambla de Cataluña, 23",Barcelona,,8022,Spain'
-10888,GODOS,1,23.08.4782,23.04.4790,23.07.4784,2,51.8699990,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-10889,RATTC,9,23.08.4782,23.04.4790,23.07.4784,3,280.609985,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10890,DUMON,7,23.08.4782,23.04.4790,11.03.4783,1,32.7599980,Du monde entier,"67, rue des Cinquante Otages",Nantes,,44000,fr
-10891,LEHMS,7,01.12.4782,01.08.4790,19.06.4783,2,20.3700010,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10892,MAISD,4,01.12.4782,01.08.4790,19.06.4783,2,120.269997,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium'
-10893,KOENE,9,11.03.4783,09.11.4790,27.09.4783,2,77.7799990,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-10894,SAVEA,1,11.03.4783,09.11.4790,27.09.4783,1,116.129997,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10895,ERNSH,3,11.03.4783,09.11.4790,23.07.4784,1,162.75,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10896,MAISD,7,19.06.4783,17.02.4791,27.08.4785,3,32.4500010,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium'
-10897,HUNGO,3,19.06.4783,17.02.4791,08.02.4785,2,603.539978,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10898,OCEAN,4,27.09.4783,28.05.4791,28.07.4787,2,1.27000000,Océano Atlántico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina'
-10899,LILAS,5,27.09.4783,28.05.4791,19.05.4785,3,1.21000000,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10900,WELLI,1,27.09.4783,28.05.4791,09.01.4787,2,1.66000000,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil'
-10901,HILAA,4,23.07.4784,23.03.4792,19.05.4785,1,62.0900000,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10902,FOLKO,1,23.07.4784,23.03.4792,01.10.4786,1,44.1500020,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10903,HANAR,3,31.10.4784,01.07.4792,09.01.4787,3,36.7099990,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10904,WHITC,3,31.10.4784,01.07.4792,27.08.4785,3,162.949997,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-10905,WELLI,9,31.10.4784,01.07.4792,28.07.4787,2,13.7200000,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil'
-10906,WOLZA,4,08.02.4785,09.12.4788,01.10.4786,3,26.2900010,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland'
-10907,SPECD,6,08.02.4785,09.10.4792,27.08.4785,3,9.19000000,Spécialités du monde,"25, rue Lauriston",Paris,,75016,fr
-10908,REGGC,4,19.05.4785,17.01.4793,28.07.4787,2,32.9599990,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10909,SANTG,1,19.05.4785,17.01.4793,31.08.4788,2,53.0499990,Santé Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway'
-10910,WILMK,1,19.05.4785,17.01.4793,09.01.4787,3,38.1100010,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland'
-10911,GODOS,3,19.05.4785,17.01.4793,19.04.4787,1,38.1899990,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-10912,HUNGO,2,19.05.4785,17.01.4793,09.11.4790,2,580.909973,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10913,QUEEN,4,19.05.4785,17.01.4793,09.01.4787,1,33.0499990,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10914,QUEEN,6,27.08.4785,27.04.4793,23.06.4786,1,21.1900010,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10915,TORTU,2,27.08.4785,27.04.4793,23.06.4786,2,3.51000000,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-10916,RANCH,1,27.08.4785,27.04.4793,23.05.4788,2,63.7700010,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina'
-10917,ROMEY,4,23.06.4786,21.02.4794,09.12.4788,2,8.29000000,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain'
-10918,BOTTM,3,23.06.4786,21.02.4794,09.12.4788,3,48.8300020,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10919,LINOD,2,23.06.4786,21.02.4794,09.01.4787,2,19.7999990,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10920,AROUT,4,01.10.4786,01.06.4794,23.05.4788,2,29.6100010,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10921,VAFFE,1,01.10.4786,01.04.4798,23.05.4788,1,176.479996,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10922,HANAR,5,01.10.4786,01.06.4794,19.04.4787,3,62.7400020,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10923,LAMAI,7,01.10.4786,01.04.4798,27.06.4789,3,68.2600020,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-10924,BERGS,3,09.01.4787,09.09.4794,09.08.4796,2,151.520004,Berglunds snabbköp,Berguvsvägen  8,Luleå,,S-958 22,Sweden'
-10925,HANAR,3,09.01.4787,09.09.4794,27.06.4789,1,2.27000000,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10926,ANATR,4,09.01.4787,09.09.4794,09.12.4788,3,39.9199980,Ana Trujillo Emparedados y helados,Avda. de la Constitución 2222,México D.F.,,5021,Mexico'
-10927,LACOR,4,19.04.4787,18.12.4794,09.08.4796,1,19.7900010,La corne d''abondance,"67, avenue de l'Europe",Versailles,,78000,fr
-10928,GALED,1,19.04.4787,18.12.4794,09.11.4790,1,1.36000000,Galería del gastronómo,"Rambla de Cataluña, 23",Barcelona,,8022,Spain'
-10929,FRANK,6,19.04.4787,18.12.4794,19.03.4789,1,33.9300000,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-10930,SUPRD,4,28.07.4787,26.01.4799,09.11.4790,3,15.5500000,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-10931,RICSU,4,28.07.4787,28.05.4791,17.02.4791,2,13.6000000,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-10932,BONAP,8,28.07.4787,28.03.4795,01.07.4792,1,134.639999,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10933,ISLAT,6,28.07.4787,28.03.4795,23.04.4790,3,54.1500020,Island Trading,Garden House Crowther Way,Cowes,Isle of Wight,PO31 7PJ,UK'
-10934,LEHMS,3,23.05.4788,22.01.4796,19.03.4789,3,32.0099980,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-10935,WELLI,4,23.05.4788,22.01.4796,09.11.4790,3,47.5900000,Wellington Importadora,"Rua do Mercado, 12",Resende,SP,08737-363,Brazil'
-10936,GREAL,3,23.05.4788,22.01.4796,09.11.4790,2,33.6800000,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-10937,CACTU,7,31.08.4788,01.07.4792,27.06.4789,3,31.5100000,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina'
-10938,QUICK,3,31.08.4788,01.05.4796,23.04.4790,2,31.8899990,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10939,MAGAA,2,31.08.4788,01.05.4796,27.06.4789,2,76.3300020,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10940,BONAP,8,09.12.4788,09.08.4796,23.03.4792,3,19.7700000,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-10941,SAVEA,7,09.12.4788,09.08.4796,28.05.4791,2,400.809998,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10942,REGGC,9,09.12.4788,09.08.4796,09.11.4790,3,17.9500010,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-10943,BSBEV,4,09.12.4788,09.08.4796,17.02.4791,2,2.17000000,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-10944,BOTTM,6,19.03.4789,17.01.4793,27.06.4789,3,52.9199980,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10945,MORGK,4,19.03.4789,17.11.4796,09.11.4790,1,10.2200000,Morgenstern Gesundkost,Heerstr. 22,Leipzig,,4179,Germany'
-10946,VAFFE,1,19.03.4789,17.11.4796,17.02.4791,2,27.2000010,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10947,BSBEV,3,27.06.4789,25.02.4797,23.04.4790,2,3.26000000,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-10948,GODOS,3,27.06.4789,25.02.4797,17.02.4791,3,23.3899990,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-10949,BOTTM,2,27.06.4789,25.02.4797,01.08.4790,3,74.4400020,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10950,MAGAA,1,23.04.4790,22.12.4797,23.03.4792,2,2.5,Magazzini Alimentari Riuniti,Via Ludovico il Moro 22,Bergamo,,24100,Italy'
-10951,RICSU,9,23.04.4790,22.10.4801,01.05.4796,2,30.8500000,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-10952,ALFKI,1,23.04.4790,22.10.4801,01.07.4792,1,40.4199980,Alfred''s Futterkiste,Obere Str. 57,Berlin,,12209,Germany'
-10953,AROUT,9,23.04.4790,21.02.4794,09.10.4792,2,23.7199990,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-10954,LINOD,5,01.08.4790,30.01.4802,28.05.4791,1,27.9100000,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-10955,FOLKO,8,01.08.4790,01.04.4798,28.05.4791,2,3.26000000,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10956,BLAUS,6,01.08.4790,30.01.4802,28.05.4791,2,44.6500020,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany'
-10957,HILAA,8,09.11.4790,10.07.4798,27.04.4793,3,105.360001,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10958,OCEAN,7,09.11.4790,10.07.4798,27.04.4793,2,49.5600010,Océano Atlántico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina'
-10959,GOURL,6,09.11.4790,10.05.4802,23.03.4792,2,4.98000000,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil'
-10960,HILAA,3,17.02.4791,18.12.4794,09.08.4796,1,2.08000000,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10961,QUEEN,8,17.02.4791,18.10.4798,21.02.4794,1,104.470001,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-10962,QUICK,8,17.02.4791,18.10.4798,23.03.4792,2,275.790009,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10963,FURIB,9,17.02.4791,18.10.4798,17.01.4793,3,2.70000000,Furia Bacalhau e Frutos do Mar,Jardim das rosas n. 32,Lisboa,,1675,Portugal'
-10964,SPECD,3,28.05.4791,26.01.4799,01.07.4792,2,87.3799970,Spécialités du monde,"25, rue Lauriston",Paris,,75016,fr
-10965,OLDWO,6,28.05.4791,26.01.4799,21.02.4794,3,144.380005,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-10966,CHOPS,4,28.05.4791,26.01.4799,09.08.4796,1,27.1900010,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland'
-10967,TOMSP,2,23.03.4792,22.11.4799,18.12.4794,2,62.2200010,Toms Spezialitäten,Luisenstr. 48,Münster,,44087,Germany'
-10968,ERNSH,1,23.03.4792,22.11.4799,09.09.4794,3,74.5999980,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10969,COMMI,1,23.03.4792,22.11.4799,21.02.4794,2,0.210000000,Comércio Mineiro,"Av. dos Lusíadas, 23",Sao Paulo,SP,05432-043,Brazil'
-10970,BOLID,9,01.07.4792,01.05.4796,26.12.4800,1,16.1600000,Bólido Comidas preparadas,"C/ Araquil, 67",Madrid,,28023,Spain'
-10971,FRANR,2,01.07.4792,01.03.4800,18.12.4794,2,121.82,France restauration,"54, rue Royale",Nantes,,44000,fr
-10972,LACOR,4,01.07.4792,01.03.4800,17.01.4793,2,0.0200000000,La corne d''abondance,"67, avenue de l'Europe",Versailles,,78000,fr
-10973,LACOR,6,01.07.4792,01.03.4800,27.04.4793,2,15.1700000,La corne d''abondance,"67, avenue de l'Europe",Versailles,,78000,fr
-10974,SPLIR,3,09.10.4792,09.08.4796,28.03.4795,3,12.96,Split Rail Beer & Ale,P.O. Box 555,Lander,WY,82520,USA'
-10975,BOTTM,1,09.10.4792,09.06.4800,27.04.4793,3,32.2700010,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10976,HILAA,1,09.10.4792,09.04.4804,28.03.4795,1,37.9700010,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-10977,FOLKO,8,17.01.4793,17.09.4800,25.02.4797,3,208.5,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10978,MAISD,9,17.01.4793,17.09.4800,17.09.4800,2,32.8200000,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium'
-10979,ERNSH,8,17.01.4793,17.09.4800,01.06.4794,2,353.070007,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10980,FOLKO,4,27.04.4793,26.10.4804,26.01.4799,1,1.26000000,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10981,HANAR,1,27.04.4793,26.12.4800,18.12.4794,2,193.369995,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-10982,BOTTM,2,27.04.4793,26.12.4800,09.08.4796,1,14.0100000,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-10983,SAVEA,2,27.04.4793,26.12.4800,22.01.4796,2,657.539978,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10984,SAVEA,1,21.02.4794,22.10.4801,28.03.4795,3,211.220001,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-10985,HUNGO,2,21.02.4794,22.10.4801,18.12.4794,1,91.5100020,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-10986,OCEAN,8,21.02.4794,22.10.4801,01.03.4800,2,217.860001,Océano Atlántico Ltda.,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,,1010,Argentina'
-10987,EASTC,8,01.06.4794,30.01.4802,22.01.4796,1,185.479996,Eastern Connection,35 King George,London,,WX3 6FW,UK'
-10988,RATTC,3,01.06.4794,30.01.4802,25.02.4797,2,61.1399990,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-10989,QUEDE,2,01.06.4794,30.01.4802,18.12.4794,1,34.7599980,Que Delícia,"Rua da Panificadora, 12",Rio de Janeiro,RJ,02389-673,Brazil'
-10990,ERNSH,2,09.09.4794,10.03.4806,01.05.4796,3,117.610001,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-10991,QUICK,1,09.09.4794,10.05.4802,01.05.4796,1,38.5099980,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10992,THEBI,1,09.09.4794,10.05.4802,28.03.4795,3,4.27000000,The Big Cheese,89 Jefferson Way Suite 2,Portland,OR,97201,USA'
-10993,FOLKO,7,09.09.4794,10.05.4802,25.02.4797,3,8.81000000,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-10994,VAFFE,2,18.12.4794,18.10.4798,17.11.4796,3,65.5299990,Vaffeljernet,Smagsloget 45,Århus,,8200,Denmark'
-10995,PERIC,1,18.12.4794,18.08.4802,22.01.4796,3,46,Pericles Comidas clásicas,Calle Dr. Jorge Cash 321,México D.F.,,5033,Mexico'
-10996,QUICK,4,18.12.4794,18.08.4802,25.02.4797,2,1.12,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-10997,LILAS,8,28.03.4795,26.09.4806,22.12.4797,2,73.9100040,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-10998,WOLZA,8,28.03.4795,26.01.4799,26.01.4799,2,20.3099990,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland'
-10999,OTTIK,6,28.03.4795,26.11.4802,25.02.4797,2,96.3499980,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-11000,RATTC,2,22.01.4796,22.09.4803,01.04.4798,3,55.1199990,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-11001,FOLKO,2,22.01.4796,22.09.4803,01.04.4798,2,197.300003,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-11002,SAVEA,4,22.01.4796,22.09.4803,18.10.4798,1,141.160004,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-11003,THECR,3,22.01.4796,22.09.4803,09.08.4796,3,14.9100000,The Cracker Box,55 Grizzly Peak Rd.,Butte,MT,59801,USA'
-11004,MAISD,3,01.05.4796,31.12.4803,22.11.4799,1,44.8400000,Maison Dewey,Rue Joseph-Bens 532,Bruxelles,,B-1180,Belgium'
-11005,WILMK,2,01.05.4796,31.12.4803,25.02.4797,1,0.75,Wilman Kala,Keskuskatu 45,Helsinki,,21240,Finland'
-11006,GREAL,3,01.05.4796,31.12.4803,10.07.4798,2,25.1900010,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-11007,PRINI,8,09.08.4796,09.04.4804,22.12.4797,2,202.240005,Princesa Isabel Vinhos,Estrada da saúde n. 58,Lisboa,,1756,Portugal'
-11008,ERNSH,7,09.08.4796,09.04.4804,,3,79.4599990,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-11009,GODOS,2,09.08.4796,09.04.4804,25.02.4797,1,59.1100010,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-11010,REGGC,2,17.11.4796,18.07.4804,01.03.4800,2,28.7099990,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-11011,ALFKI,3,17.11.4796,18.07.4804,22.12.4797,1,1.21000000,Alfred''s Futterkiste,Obere Str. 57,Berlin,,12209,Germany'
-11012,FRANK,1,17.11.4796,17.09.4800,26.01.4799,3,242.949997,Frankenversand,Berliner Platz 43,München,,80805,Germany'
-11013,ROMEY,2,17.11.4796,18.07.4804,25.02.4797,1,32.9900020,Romero y tomillo,"Gran Vía, 1",Madrid,,28001,Spain'
-11014,LINOD,2,25.02.4797,26.10.4804,10.07.4798,3,23.6000000,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-11015,SANTG,2,25.02.4797,26.12.4800,22.11.4799,2,4.62000000,Santé Gourmet,Erling Skakkes gate 78,Stavern,,4110,Norway'
-11016,AROUT,9,25.02.4797,26.10.4804,22.12.4797,2,33.7999990,Around the Horn,Brook Farm Stratford St. Mary,Colchester,Essex,CO7 6JX,UK'
-11017,ERNSH,9,22.12.4797,22.08.4805,22.11.4799,2,754.26001,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-11018,LONEP,4,22.12.4797,22.08.4805,18.10.4798,2,11.6500000,Lonesome Pine Restaurant,89 Chiaroscuro Rd.,Portland,OR,97219,USA'
-11019,RANCH,6,22.12.4797,22.08.4805,,3,3.17000000,Rancho grande,Av. del Libertador 900,Buenos Aires,,1010,Argentina'
-11020,OTTIK,2,01.04.4798,30.11.4805,18.10.4798,2,43.2999990,Ottilies Käseladen,Mehrheimerstr. 369,Köln,,50739,Germany'
-11021,QUICK,3,01.04.4798,30.11.4805,01.03.4800,1,297.179993,QUICK-Stop,Taucherstraße 10,Cunewalde,,1307,Germany'
-11022,HANAR,9,01.04.4798,30.11.4805,22.09.4803,2,6.27000000,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-11023,BSBEV,1,01.04.4798,30.01.4802,26.12.4800,2,123.830002,B''s Beverages,Fauntleroy Circus,London,,EC2 5NT,UK'
-11024,EASTC,4,10.07.4798,10.03.4806,22.11.4799,1,74.3600010,Eastern Connection,35 King George,London,,WX3 6FW,UK'
-11025,WARTH,6,10.07.4798,10.03.4806,26.12.4800,3,29.1700000,Wartian Herkku,Torikatu 38,Oulu,,90110,Finland'
-11026,FRANS,4,10.07.4798,10.03.4806,30.01.4802,1,47.0900000,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy'
-11027,BOTTM,1,18.10.4798,18.06.4806,22.11.4799,1,52.5200010,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-11028,KOENE,2,18.10.4798,18.06.4806,09.06.4800,1,29.5900000,Königlich Essen,Maubelstr. 90,Brandenburg,,14776,Germany'
-11029,CHOPS,4,18.10.4798,18.06.4806,22.10.4801,1,47.8400000,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland'
-11030,SAVEA,7,26.01.4799,26.09.4806,22.10.4801,2,830.75,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-11031,SAVEA,6,26.01.4799,26.09.4806,26.12.4800,2,227.220001,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-11032,WHITC,2,26.01.4799,26.09.4806,17.09.4800,3,606.190002,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-11033,RICSU,7,26.01.4799,26.09.4806,17.09.4800,3,84.7399980,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-11034,OLDWO,8,22.11.4799,23.05.4811,22.10.4801,1,40.3200000,Old World Delicatessen,2743 Bering St.,Anchorage,AK,99508,USA'
-11035,SUPRD,2,22.11.4799,23.07.4807,26.12.4800,2,0.170000000,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-11036,DRACD,8,22.11.4799,23.07.4807,09.06.4800,3,149.470001,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany'
-11037,GODOS,7,01.03.4800,31.10.4807,22.10.4801,1,3.20000000,Godos Cocina Típica,"C/ Romero, 33",Sevilla,,41101,Spain'
-11038,SUPRD,1,01.03.4800,31.10.4807,18.08.4802,2,29.5900000,Suprêmes délices,"Boulevard Tirou, 255",Charleroi,,B-6000,Belgium'
-11039,LINOD,1,01.03.4800,31.10.4807,,2,65,LINO-Delicateses,Ave. 5 de Mayo Porlamar,I. de Margarita,Nueva Esparta,4980,Venezuela'
-11040,GREAL,4,09.06.4800,08.02.4808,,3,18.8400000,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-11041,CHOPS,3,09.06.4800,08.02.4808,30.01.4802,2,48.2200010,Chop-suey Chinese,Hauptstr. 31,Bern,,3012,Switzerland'
-11042,COMMI,2,09.06.4800,09.04.4804,26.11.4802,1,29.9900000,Comércio Mineiro,"Av. dos Lusíadas, 23",Sao Paulo,SP,05432-043,Brazil'
-11043,SPECD,5,09.06.4800,08.02.4808,10.05.4802,2,8.80000000,Spécialités du monde,"25, rue Lauriston",Paris,,75016,fr
-11044,WOLZA,4,17.09.4800,18.05.4808,26.11.4802,1,8.72000000,Wolski Zajazd,ul. Filtrowa 68,Warszawa,,01-012,Poland'
-11045,BOTTM,6,17.09.4800,18.05.4808,,2,70.5800020,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-11046,WANDK,8,17.09.4800,18.05.4808,26.12.4800,2,71.6399990,Die Wandernde Kuh,Adenauerallee 900,Stuttgart,,70563,Germany'
-11047,EASTC,7,26.12.4800,26.08.4808,26.11.4802,3,46.6199990,Eastern Connection,35 King George,London,,WX3 6FW,UK'
-11048,BOTTM,7,26.12.4800,26.08.4808,18.08.4802,3,24.1200010,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,T2F 8M4,Canada'
-11049,GOURL,3,26.12.4800,26.08.4808,22.09.4803,1,8.34000000,Gourmet Lanchonetes,"Av. Brasil, 442",Campinas,SP,04876-786,Brazil'
-11050,FOLKO,8,22.10.4801,22.06.4809,31.12.4803,2,59.4100000,Folk och fä HB,Åkergatan 24,Bräcke,,S-844 67,Sweden'
-11051,LAMAI,7,22.10.4801,22.06.4809,,3,2.79000000,La maison d''Asie,1 rue Alsace-Lorraine,Toulouse,,31000,fr
-11052,HANAR,3,22.10.4801,22.06.4809,26.11.4802,1,67.2600020,Hanari Carnes,"Rua do Paço, 67",Rio de Janeiro,RJ,05454-876,Brazil'
-11053,PICCO,2,22.10.4801,22.06.4809,10.05.4802,2,53.0499990,Piccolo und mehr,Geislweg 14,Salzburg,,5020,Austria'
-11054,CACTU,8,30.01.4802,30.09.4809,,1,0.330000000,Cactus Comidas para llevar,Cerrito 333,Buenos Aires,,1010,Argentina'
-11055,HILAA,7,30.01.4802,30.09.4809,31.12.4803,2,120.919998,HILARION-Abastos,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,Táchira,5022,Venezuela'
-11056,EASTC,8,30.01.4802,30.11.4805,26.11.4802,2,278.959991,Eastern Connection,35 King George,London,,WX3 6FW,UK'
-11057,NORTS,3,10.05.4802,08.01.4810,26.11.4802,3,4.13000000,North/South,South House 300 Queensbridge,London,,SW7 1RZ,UK'
-11058,BLAUS,9,10.05.4802,08.01.4810,,3,31.1399990,Blauer See Delikatessen,Forsterstr. 57,Mannheim,,68306,Germany'
-11059,RICAR,2,10.05.4802,08.11.4813,,2,85.8000030,Ricardo Adocicados,"Av. Copacabana, 267",Rio de Janeiro,RJ,02389-890,Brazil'
-11060,FRANS,2,18.08.4802,18.04.4810,22.09.4803,2,10.9799990,Franchi S.p.A.,Via Monte Bianco 34,Torino,,10100,Italy'
-11061,GREAL,4,18.08.4802,16.02.4814,,3,14.0100000,Great Lakes Food Market,2732 Baker Blvd.,Eugene,OR,97403,USA'
-11062,REGGC,4,18.08.4802,18.04.4810,,2,29.9300000,Reggiani Caseifici,Strada Provinciale 124,Reggio Emilia,,42100,Italy'
-11063,HUNGO,3,18.08.4802,18.04.4810,09.04.4804,2,81.7300030,Hungry Owl All-Night Grocers,8 Johnstown Road,Cork,Co. Cork,,Ireland'
-11064,SAVEA,1,26.11.4802,27.07.4810,22.09.4803,1,30.0900000,Save-a-lot Markets,187 Suffolk Ln.,Boise,ID,83720,USA'
-11065,LILAS,8,26.11.4802,27.07.4810,,1,12.9100000,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-11066,WHITC,7,26.11.4802,27.07.4810,22.09.4803,2,44.7200010,White Clover Markets,1029 - 12th Ave. S.,Seattle,WA,98124,USA'
-11067,DRACD,1,22.09.4803,23.07.4807,09.04.4804,2,7.98000000,Drachenblut Delikatessen,Walserweg 21,Aachen,,52066,Germany'
-11068,QUEEN,8,22.09.4803,23.05.4811,,2,81.75,Queen Cozinha,"Alameda dos Canàrios, 891",Sao Paulo,SP,05487-020,Brazil'
-11069,TORTU,1,22.09.4803,23.05.4811,09.04.4804,2,15.6700000,Tortuga Restaurante,Avda. Azteca 123,México D.F.,,5033,Mexico'
-11070,LEHMS,2,31.12.4803,31.08.4811,,1,136,Lehmanns Marktstand,Magazinweg 7,Frankfurt a.M.,,60528,Germany'
-11071,LILAS,1,31.12.4803,31.08.4811,,1,0.930000000,LILA-Supermercado,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,Lara,3508,Venezuela'
-11072,ERNSH,4,31.12.4803,31.08.4811,,2,258.640015,Ernst Handel,Kirchgasse 6,Graz,,8010,Austria'
-11073,PERIC,2,31.12.4803,31.08.4811,,2,24.9500010,Pericles Comidas clásicas,Calle Dr. Jorge Cash 321,México D.F.,,5033,Mexico'
-11074,SIMOB,7,09.04.4804,09.12.4811,,2,18.4400010,Simons bistro,Vinbæltet 34,Kobenhavn,,1734,Denmark'
-11075,RICSU,8,09.04.4804,09.12.4811,,2,6.19000000,Richter Supermarkt,Starenweg 5,Genève,,1204,Switzerland'
-11076,BONAP,4,09.04.4804,09.12.4811,,2,38.2799990,Bon app'',"12, rue des Bouchers",Marseille,,13008,fr
-11077,RATTC,1,09.04.4804,09.12.4811,,2,8.53000000,Rattlesnake Canyon Grocery,2817 Milton Dr.,Albuquerque,NM,87110,USA'
-
+"order_id","customer_id","employe_id","order_date","required_date","shipped_date","ship_via","freight","ship_name","adresse_id","banque_id","livraison_methode_id"
+10320,WARTH,5,2023-10-03,2023-10-17,2023-10-18,3,34.57,Wartian Herkku,1087,2,3
+11025,WARTH,6,1998-04-15,1998-05-13,1998-04-24,3,29.17,Wartian Herkku,1087,3,1
+11026,FRANS,4,1998-04-15,1998-05-13,1998-04-28,1,47.09,Franchi S.p.A.,1027,0,2
+11027,BOTTM,1,1998-04-16,1998-05-14,1998-04-20,1,52.52,Bottom-Dollar Markets,1010,3,2
+11028,KOENE,2,1998-04-16,1998-05-14,1998-04-22,1,29.59,Königlich Essen,1039,3,2
+11030,SAVEA,7,1998-04-17,1998-05-15,1998-04-27,2,830.75,Save-a-lot Markets,1071,0,3
+11031,SAVEA,6,1998-04-17,1998-05-15,1998-04-24,2,227.22,Save-a-lot Markets,1071,1,2
+11034,OLDWO,8,1998-04-20,1998-06-01,1998-04-27,1,40.32,Old World Delicatessen,1055,2,3
+11035,SUPRD,2,1998-04-20,1998-05-18,1998-04-24,2,0.17,Suprêmes délices,1076,2,2
+11036,DRACD,8,1998-04-20,1998-05-18,1998-04-22,3,149.47,Drachenblut Delikatessen,1017,2,1
+11038,SUPRD,1,1998-04-21,1998-05-19,1998-04-30,2,29.59,Suprêmes délices,1076,3,1
+11039,LINOD,1,1998-04-21,1998-05-19,,2,65.0,LINO-Delicateses,1047,2,1
+11040,GREAL,4,1998-04-22,1998-05-20,,3,18.84,Great Lakes Food Market,1032,4,3
+11042,COMMI,2,1998-04-22,1998-05-06,1998-05-01,1,29.99,Comércio Mineiro,1015,0,2
+11043,SPECD,5,1998-04-22,1998-05-20,1998-04-29,2,8.8,Spécialités du monde,1074,3,2
+11044,WOLZA,4,1998-04-23,1998-05-21,1998-05-01,1,8.72,Wolski Zajazd,1091,1,2
+11045,BOTTM,6,1998-04-23,1998-05-21,,2,70.58,Bottom-Dollar Markets,1010,2,2
+11046,WANDK,8,1998-04-23,1998-05-21,1998-04-24,2,71.64,Die Wandernde Kuh,1086,3,1
+11047,EASTC,7,1998-04-24,1998-05-22,1998-05-01,3,46.62,Eastern Connection,1019,3,1
+11048,BOTTM,7,1998-04-24,1998-05-22,1998-04-30,3,24.12,Bottom-Dollar Markets,1010,1,3
+11049,GOURL,3,1998-04-24,1998-05-22,1998-05-04,1,8.34,Gourmet Lanchonetes,1031,2,1
+10249,TOMSP,6,2023-07-05,2023-08-16,2023-07-10,1,11.61,Toms Spezialitäten,1079,2,3
+10250,HANAR,4,2023-07-08,2023-08-05,2023-07-12,2,65.83,Hanari Carnes,1034,3,1
+10251,VICTE,3,2023-07-08,2023-08-05,2023-07-15,1,41.34,Victuailles en stock,1084,2,1
+10252,SUPRD,4,2023-07-09,2023-08-06,2023-07-11,2,51.3,Suprêmes délices,1076,3,1
+10253,HANAR,3,2023-07-10,2023-07-24,2023-07-16,2,58.17,Hanari Carnes,1034,4,1
+10256,WELLI,3,2023-07-15,2023-08-12,2023-07-17,2,13.97,Wellington Importadora,1088,3,1
+10257,HILAA,4,2023-07-16,2023-08-13,2023-07-22,3,81.91,HILARION-Abastos,1035,3,1
+10258,ERNSH,1,2023-07-17,2023-08-14,2023-07-23,1,140.51,Ernst Handel,1020,1,4
+10259,CENTC,4,2023-07-18,2023-08-15,2023-07-25,3,3.25,Centro comercial Moctezuma,1013,2,1
+10260,OTTIK,4,2023-07-19,2023-08-16,2023-07-29,1,55.09,Ottilies Käseladen,1056,3,2
+10261,QUEDE,4,2023-07-19,2023-08-16,2023-07-30,2,3.05,Que Delícia,1061,0,2
+10262,RATTC,8,2023-07-22,2023-08-19,2023-07-25,3,48.29,Rattlesnake Canyon Grocery,1065,3,1
+10263,ERNSH,9,2023-07-23,2023-08-20,2023-07-31,3,146.06,Ernst Handel,1020,2,2
+10264,FOLKO,6,2023-07-24,2023-08-21,2023-08-23,3,3.67,Folk och fä HB,1024,2,3
+10265,BLONP,2,2023-07-25,2023-08-22,2023-08-12,1,55.28,Blondel père et fils,1007,2,1
+10266,WARTH,3,2023-07-26,2023-09-06,2023-07-31,3,25.73,Wartian Herkku,1087,1,4
+10267,FRANK,4,2023-07-29,2023-08-26,2023-08-06,1,208.58,Frankenversand,1025,1,4
+10268,GROSR,8,2023-07-30,2023-08-27,2023-08-02,3,66.29,GROSELLA-Restaurante,1033,0,1
+10270,WARTH,1,2023-08-01,2023-08-29,2023-08-02,1,136.54,Wartian Herkku,1087,1,1
+10271,SPLIR,6,2023-08-01,2023-08-29,2023-08-30,2,4.54,Split Rail Beer & Ale,1075,3,1
+10272,RATTC,6,2023-08-02,2023-08-30,2023-08-06,2,98.03,Rattlesnake Canyon Grocery,1065,1,1
+10273,QUICK,3,2023-08-05,2023-09-02,2023-08-12,3,76.07,QUICK-Stop,1063,1,3
+10275,MAGAA,1,2023-08-07,2023-09-04,2023-08-09,1,26.93,Magazzini Alimentari Riuniti,1049,2,3
+10276,TORTU,8,2023-08-08,2023-08-22,2023-08-14,3,13.84,Tortuga Restaurante,1080,3,1
+10277,MORGK,2,2023-08-09,2023-09-06,2023-08-13,3,125.77,Morgenstern Gesundkost,1052,3,2
+10278,BERGS,8,2023-08-12,2023-09-09,2023-08-16,2,92.69,Berglunds snabbköp,1005,1,3
+10279,LEHMS,8,2023-08-13,2023-09-10,2023-08-16,2,25.83,Lehmanns Marktstand,1044,3,2
+11050,FOLKO,8,1998-04-27,1998-05-25,1998-05-05,2,59.41,Folk och fä HB,1024,3,1
+11051,LAMAI,7,1998-04-27,1998-05-25,,3,2.79,La maison d''Asie,1041,1,2
+11052,HANAR,3,1998-04-27,1998-05-25,1998-05-01,1,67.26,Hanari Carnes,1034,4,3
+11053,PICCO,2,1998-04-27,1998-05-25,1998-04-29,2,53.05,Piccolo und mehr,1059,2,1
+11054,CACTU,8,1998-04-28,1998-05-26,,1,0.33,Cactus Comidas para llevar,1012,2,3
+11055,HILAA,7,1998-04-28,1998-05-26,1998-05-05,2,120.92,HILARION-Abastos,1035,3,1
+11056,EASTC,8,1998-04-28,1998-05-12,1998-05-01,2,278.96,Eastern Connection,1019,2,1
+11057,NORTS,3,1998-04-29,1998-05-27,1998-05-01,3,4.13,North/South,1053,1,2
+11058,BLAUS,9,1998-04-29,1998-05-27,,3,31.14,Blauer See Delikatessen,1006,3,1
+11059,RICAR,2,1998-04-29,1998-06-10,,2,85.8,Ricardo Adocicados,1067,3,2
+11060,FRANS,2,1998-04-30,1998-05-28,1998-05-04,2,10.98,Franchi S.p.A.,1027,0,2
+11061,GREAL,4,1998-04-30,1998-06-11,,3,14.01,Great Lakes Food Market,1032,3,3
+11062,REGGC,4,1998-04-30,1998-05-28,,2,29.93,Reggiani Caseifici,1066,1,1
+11063,HUNGO,3,1998-04-30,1998-05-28,1998-05-06,2,81.73,Hungry Owl All-Night Grocers,1037,0,1
+11064,SAVEA,1,1998-05-01,1998-05-29,1998-05-04,1,30.09,Save-a-lot Markets,1071,4,3
+11065,LILAS,8,1998-05-01,1998-05-29,,1,12.91,LILA-Supermercado,1046,1,4
+11066,WHITC,7,1998-05-01,1998-05-29,1998-05-04,2,44.72,White Clover Markets,1149,0,1
+11067,DRACD,1,1998-05-04,1998-05-18,1998-05-06,2,7.98,Drachenblut Delikatessen,1017,3,2
+11068,QUEEN,8,1998-05-04,1998-06-01,,2,81.75,Queen Cozinha,1062,1,3
+11069,TORTU,1,1998-05-04,1998-06-01,1998-05-06,2,15.67,Tortuga Restaurante,1080,2,1
+11070,LEHMS,2,1998-05-05,1998-06-02,,1,136.0,Lehmanns Marktstand,1044,0,1
+11071,LILAS,1,1998-05-05,1998-06-02,,1,0.93,LILA-Supermercado,1046,3,1
+11072,ERNSH,4,1998-05-05,1998-06-02,,2,258.64,Ernst Handel,1020,3,1
+11073,PERIC,2,1998-05-05,1998-06-02,,2,24.95,Pericles Comidas clásicas,1058,4,1
+11074,SIMOB,7,1998-05-06,1998-06-03,,2,18.44,Simons bistro,1073,1,1
+11075,RICSU,8,1998-05-06,1998-06-03,,2,6.19,Richter Supermarkt,1155,1,1
+11076,BONAP,4,1998-05-06,1998-06-03,,2,38.28,Bon app'',1009,3,2
+11077,RATTC,1,1998-05-06,1998-06-03,,2,8.53,Rattlesnake Canyon Grocery,1065,0,3
+10280,BERGS,2,2023-08-14,2023-09-11,2023-09-12,1,8.98,Berglunds snabbköp,1005,0,1
+10281,ROMEY,4,2023-08-14,2023-08-28,2023-08-21,1,2.94,Romero y tomillo,1069,2,1
+10282,ROMEY,4,2023-08-15,2023-09-12,2023-08-21,1,12.69,Romero y tomillo,1069,2,1
+10248,VINET,5,2023-07-04,2023-08-01,2023-07-16,3,32.38,Vins et alcools Chevalier,1151,2,3
+10254,CHOPS,5,2023-07-11,2023-08-08,2023-07-23,2,22.98,Chop-suey Chinese,1154,4,2
+10255,RICSU,9,2023-07-12,2023-08-09,2023-07-15,3,148.33,Richter Supermarkt,1155,1,3
+10269,WHITC,5,2023-07-31,2023-08-14,2023-08-09,1,4.56,White Clover Markets,1149,2,3
+10274,VINET,6,2023-08-06,2023-09-03,2023-08-16,1,6.01,Vins et alcools Chevalier,1151,2,1
+10295,VINET,2,2023-09-02,2023-09-30,2023-09-10,2,1.15,Vins et alcools Chevalier,1151,3,1
+10303,GODOS,7,2023-09-11,2023-10-09,2023-09-18,2,107.83,Godos Cocina Típica,1153,3,1
+10344,WHITC,4,2023-11-01,2023-11-29,2023-11-05,2,23.29,White Clover Markets,1149,3,1
+10355,AROUT,6,2023-11-15,2023-12-13,2023-11-20,1,41.95,Around the Horn,1152,3,1
+10370,CHOPS,6,2023-12-03,2023-12-31,2023-12-27,2,1.17,Chop-suey Chinese,1154,1,1
+10383,AROUT,8,2023-12-16,2024-01-13,2023-12-18,3,34.24,Around the Horn,1152,3,4
+10419,RICSU,4,2024-01-20,2024-02-17,2024-01-30,2,137.35,Richter Supermarkt,1155,1,1
+10453,AROUT,1,2024-02-21,2024-03-21,2024-02-26,2,25.36,Around the Horn,1152,4,3
+10469,WHITC,1,2024-03-10,2024-04-07,2024-03-14,1,60.18,White Clover Markets,1149,2,1
+10483,WHITC,7,2024-03-24,2024-04-21,2024-04-25,2,15.28,White Clover Markets,1149,4,1
+10495,LAUGB,3,2024-04-03,2024-05-01,2024-04-11,3,4.65,Laughing Bacchus Wine Cellars,1150,2,3
+10504,WHITC,4,2024-04-11,2024-05-09,2024-04-18,3,59.13,White Clover Markets,1149,3,3
+10519,CHOPS,6,2024-04-28,2024-05-26,2024-05-01,3,91.76,Chop-suey Chinese,1154,3,4
+10537,RICSU,1,2024-05-14,2024-05-28,2024-05-19,1,78.85,Richter Supermarkt,1155,2,4
+10550,GODOS,7,2024-05-28,2024-06-25,2024-06-06,3,4.32,Godos Cocina Típica,1153,3,2
+10558,AROUT,1,2024-06-04,2024-07-02,2024-06-10,2,72.97,Around the Horn,1152,3,3
+10596,WHITC,8,2024-07-11,2024-08-08,2024-08-12,1,16.34,White Clover Markets,1149,1,1
+10620,LAUGB,2,2024-08-05,2024-09-02,2024-08-14,3,0.94,Laughing Bacchus Wine Cellars,1150,2,1
+10629,GODOS,4,2024-08-12,2024-09-09,2024-08-20,3,85.46,Godos Cocina Típica,1153,3,1
+10666,RICSU,7,2024-09-12,2024-10-10,2024-09-22,2,232.42,Richter Supermarkt,1155,2,2
+10693,WHITC,3,2024-10-06,2024-10-20,2024-10-10,3,139.34,White Clover Markets,1149,1,3
+10696,WHITC,8,2024-10-08,2024-11-19,2024-10-14,3,102.55,White Clover Markets,1149,0,1
+10707,AROUT,4,2024-10-16,2024-10-30,2024-10-23,3,21.74,Around the Horn,1152,2,2
+10723,WHITC,3,2024-10-30,2024-11-27,2024-11-25,1,21.72,White Clover Markets,1149,0,1
+10731,CHOPS,7,2024-11-06,2024-12-04,2024-11-14,1,96.65,Chop-suey Chinese,1154,2,3
+10737,VINET,2,2024-11-11,2024-12-09,2024-11-18,2,7.79,Vins et alcools Chevalier,1151,3,2
+10739,VINET,3,2024-11-12,2024-12-10,2024-11-17,3,11.08,Vins et alcools Chevalier,1151,0,4
+10740,WHITC,4,2024-11-13,2024-12-11,2024-11-25,2,81.88,White Clover Markets,1149,1,3
+10741,AROUT,4,2024-11-14,2024-11-28,2024-11-18,3,10.96,Around the Horn,1152,0,1
+10743,AROUT,1,2024-11-17,2024-12-15,2024-11-21,2,23.72,Around the Horn,1152,3,3
+10746,CHOPS,1,2024-11-19,2024-12-17,2024-11-21,3,31.43,Chop-suey Chinese,1154,2,4
+10751,RICSU,3,2024-11-24,2024-12-22,2024-12-03,3,130.79,Richter Supermarkt,1155,4,2
+10758,RICSU,3,2024-11-28,2024-12-26,2024-12-04,3,138.17,Richter Supermarkt,1155,0,4
+10768,AROUT,3,2024-12-08,1998-01-05,2024-12-15,2,146.32,Around the Horn,1152,4,3
+10793,AROUT,3,2024-12-24,1998-01-21,1998-01-08,3,4.52,Around the Horn,1152,1,3
+10810,LAUGB,2,1998-01-01,1998-01-29,1998-01-07,3,4.33,Laughing Bacchus Wine Cellars,1150,2,4
+10861,WHITC,4,1998-01-30,1998-02-27,1998-02-17,2,14.93,White Clover Markets,1149,1,1
+10864,AROUT,4,1998-02-02,1998-03-02,1998-02-09,2,3.04,Around the Horn,1152,1,1
+10872,GODOS,5,1998-02-05,1998-03-05,1998-02-09,2,175.32,Godos Cocina Típica,1153,1,1
+10874,GODOS,5,1998-02-06,1998-03-06,1998-02-11,2,19.58,Godos Cocina Típica,1153,0,3
+10888,GODOS,1,1998-02-16,1998-03-16,1998-02-23,2,51.87,Godos Cocina Típica,1153,2,3
+10904,WHITC,3,1998-02-24,1998-03-24,1998-02-27,3,162.95,White Clover Markets,1149,4,3
+10911,GODOS,3,1998-02-26,1998-03-26,1998-03-05,1,38.19,Godos Cocina Típica,1153,1,3
+10920,AROUT,4,1998-03-03,1998-03-31,1998-03-09,2,29.61,Around the Horn,1152,3,2
+10931,RICSU,4,1998-03-06,1998-03-20,1998-03-19,2,13.6,Richter Supermarkt,1155,2,1
+10948,GODOS,3,1998-03-13,1998-04-10,1998-03-19,3,23.39,Godos Cocina Típica,1153,0,2
+10951,RICSU,9,1998-03-16,1998-04-27,1998-04-07,2,30.85,Richter Supermarkt,1155,3,1
+10953,AROUT,9,1998-03-16,1998-03-30,1998-03-25,2,23.72,Around the Horn,1152,0,1
+10966,CHOPS,4,1998-03-20,1998-04-17,1998-04-08,1,27.19,Chop-suey Chinese,1154,2,4
+11009,GODOS,2,1998-04-08,1998-05-06,1998-04-10,1,59.11,Godos Cocina Típica,1153,2,2
+11016,AROUT,9,1998-04-10,1998-05-08,1998-04-13,2,33.8,Around the Horn,1152,1,1
+11029,CHOPS,4,1998-04-16,1998-05-14,1998-04-27,1,47.84,Chop-suey Chinese,1154,2,2
+11032,WHITC,2,1998-04-17,1998-05-15,1998-04-23,3,606.19,White Clover Markets,1149,1,1
+11033,RICSU,7,1998-04-17,1998-05-15,1998-04-23,3,84.74,Richter Supermarkt,1155,2,2
+11037,GODOS,7,1998-04-21,1998-05-19,1998-04-27,1,3.2,Godos Cocina Típica,1153,2,4
+11041,CHOPS,3,1998-04-22,1998-05-20,1998-04-28,2,48.22,Chop-suey Chinese,1154,2,1
+11006,GREAL,3,1998-04-07,1998-05-05,1998-04-15,2,25.19,Great Lakes Food Market,1032,3,1
+11007,PRINI,8,1998-04-08,1998-05-06,1998-04-13,2,202.24,Princesa Isabel Vinhos,1060,1,2
+11008,ERNSH,7,1998-04-08,1998-05-06,,3,79.46,Ernst Handel,1020,2,2
+11010,REGGC,2,1998-04-09,1998-05-07,1998-04-21,2,28.71,Reggiani Caseifici,1066,1,3
+11011,ALFKI,3,1998-04-09,1998-05-07,1998-04-13,1,1.21,Alfred''s Futterkiste,1001,1,1
+11012,FRANK,1,1998-04-09,1998-04-23,1998-04-17,3,242.95,Frankenversand,1025,1,1
+11013,ROMEY,2,1998-04-09,1998-05-07,1998-04-10,1,32.99,Romero y tomillo,1069,1,2
+11014,LINOD,2,1998-04-10,1998-05-08,1998-04-15,3,23.6,LINO-Delicateses,1047,3,2
+11015,SANTG,2,1998-04-10,1998-04-24,1998-04-20,2,4.62,Santé Gourmet,1070,2,1
+11017,ERNSH,9,1998-04-13,1998-05-11,1998-04-20,2,754.26,Ernst Handel,1020,1,3
+11018,LONEP,4,1998-04-13,1998-05-11,1998-04-16,2,11.65,Lonesome Pine Restaurant,1048,2,2
+11019,RANCH,6,1998-04-13,1998-05-11,,3,3.17,Rancho grande,1064,4,3
+11020,OTTIK,2,1998-04-14,1998-05-12,1998-04-16,2,43.3,Ottilies Käseladen,1056,3,2
+11021,QUICK,3,1998-04-14,1998-05-12,1998-04-21,1,297.18,QUICK-Stop,1063,3,1
+11022,HANAR,9,1998-04-14,1998-05-12,1998-05-04,2,6.27,Hanari Carnes,1034,0,3
+10283,LILAS,3,2023-08-16,2023-09-13,2023-08-23,3,84.81,LILA-Supermercado,1046,4,3
+10284,LEHMS,4,2023-08-19,2023-09-16,2023-08-27,1,76.56,Lehmanns Marktstand,1044,2,2
+10285,QUICK,1,2023-08-20,2023-09-17,2023-08-26,2,76.83,QUICK-Stop,1063,3,1
+10286,QUICK,8,2023-08-21,2023-09-18,2023-08-30,3,229.24,QUICK-Stop,1063,0,3
+10287,RICAR,8,2023-08-22,2023-09-19,2023-08-28,3,12.76,Ricardo Adocicados,1067,3,2
+10288,REGGC,4,2023-08-23,2023-09-20,2023-09-03,1,7.45,Reggiani Caseifici,1066,4,1
+10289,BSBEV,7,2023-08-26,2023-09-23,2023-08-28,3,22.77,B''s Beverages,1011,3,1
+10290,COMMI,8,2023-08-27,2023-09-24,2023-09-03,1,79.7,Comércio Mineiro,1015,1,1
+10291,QUEDE,6,2023-08-27,2023-09-24,2023-09-04,2,6.4,Que Delícia,1061,4,1
+10292,TRADH,1,2023-08-28,2023-09-25,2023-09-02,2,1.35,Tradiçao Hipermercados,1081,2,3
+10293,TORTU,1,2023-08-29,2023-09-26,2023-09-11,3,21.18,Tortuga Restaurante,1080,3,4
+10294,RATTC,4,2023-08-30,2023-09-27,2023-09-05,2,147.26,Rattlesnake Canyon Grocery,1065,3,1
+10296,LILAS,6,2023-09-03,2023-10-01,2023-09-11,1,0.12,LILA-Supermercado,1046,1,1
+10297,BLONP,5,2023-09-04,2023-10-16,2023-09-10,2,5.74,Blondel père et fils,1007,4,1
+10298,HUNGO,6,2023-09-05,2023-10-03,2023-09-11,2,168.22,Hungry Owl All-Night Grocers,1037,3,1
+10299,RICAR,4,2023-09-06,2023-10-04,2023-09-13,2,29.76,Ricardo Adocicados,1067,0,1
+10300,MAGAA,2,2023-09-09,2023-10-07,2023-09-18,2,17.68,Magazzini Alimentari Riuniti,1049,1,3
+10301,WANDK,8,2023-09-09,2023-10-07,2023-09-17,2,45.08,Die Wandernde Kuh,1086,4,1
+10302,SUPRD,4,2023-09-10,2023-10-08,2023-10-09,2,6.27,Suprêmes délices,1076,1,1
+10304,TORTU,1,2023-09-12,2023-10-10,2023-09-17,2,63.79,Tortuga Restaurante,1080,4,2
+10305,OLDWO,8,2023-09-13,2023-10-11,2023-10-09,3,257.62,Old World Delicatessen,1055,2,1
+10306,ROMEY,1,2023-09-16,2023-10-14,2023-09-23,3,7.56,Romero y tomillo,1069,3,4
+10307,LONEP,2,2023-09-17,2023-10-15,2023-09-25,2,0.56,Lonesome Pine Restaurant,1048,2,1
+10308,ANATR,7,2023-09-18,2023-10-16,2023-09-24,3,1.61,Ana Trujillo Emparedados y helados,1002,0,2
+10309,HUNGO,3,2023-09-19,2023-10-17,2023-10-23,1,47.3,Hungry Owl All-Night Grocers,1037,4,1
+10310,THEBI,8,2023-09-20,2023-10-18,2023-09-27,2,17.52,The Big Cheese,1077,2,1
+10311,DUMON,1,2023-09-20,2023-10-04,2023-09-26,3,24.69,Du monde entier,1018,2,1
+10312,WANDK,2,2023-09-23,2023-10-21,2023-10-03,2,40.26,Die Wandernde Kuh,1086,0,1
+10313,QUICK,2,2023-09-24,2023-10-22,2023-10-04,2,1.96,QUICK-Stop,1063,3,1
+10314,RATTC,1,2023-09-25,2023-10-23,2023-10-04,2,74.16,Rattlesnake Canyon Grocery,1065,2,1
+10315,ISLAT,4,2023-09-26,2023-10-24,2023-10-03,2,41.76,Island Trading,1038,2,1
+10316,RATTC,1,2023-09-27,2023-10-25,2023-10-08,3,150.15,Rattlesnake Canyon Grocery,1065,2,1
+10317,LONEP,6,2023-09-30,2023-10-28,2023-10-10,1,12.69,Lonesome Pine Restaurant,1048,0,2
+10318,ISLAT,8,2023-10-01,2023-10-29,2023-10-04,2,4.73,Island Trading,1038,4,1
+10319,TORTU,7,2023-10-02,2023-10-30,2023-10-11,3,64.5,Tortuga Restaurante,1080,2,1
+10321,ISLAT,3,2023-10-03,2023-10-31,2023-10-11,2,3.43,Island Trading,1038,1,3
+10322,PERIC,7,2023-10-04,2023-11-01,2023-10-23,3,0.4,Pericles Comidas clásicas,1058,1,2
+10323,KOENE,4,2023-10-07,2023-11-04,2023-10-14,1,4.88,Königlich Essen,1039,2,1
+10324,SAVEA,9,2023-10-08,2023-11-05,2023-10-10,1,214.27,Save-a-lot Markets,1071,2,3
+10325,KOENE,1,2023-10-09,2023-10-23,2023-10-14,3,64.86,Königlich Essen,1039,3,1
+10326,BOLID,4,2023-10-10,2023-11-07,2023-10-14,2,77.92,Bólido Comidas preparadas,1008,4,1
+10327,FOLKO,2,2023-10-11,2023-11-08,2023-10-14,1,63.36,Folk och fä HB,1024,4,1
+10328,FURIB,4,2023-10-14,2023-11-11,2023-10-17,3,87.03,Furia Bacalhau e Frutos do Mar,1028,2,2
+10329,SPLIR,4,2023-10-15,2023-11-26,2023-10-23,2,191.67,Split Rail Beer & Ale,1075,1,3
+10330,LILAS,3,2023-10-16,2023-11-13,2023-10-28,1,12.75,LILA-Supermercado,1046,2,1
+10331,BONAP,9,2023-10-16,2023-11-27,2023-10-21,1,10.19,Bon app'',1009,1,2
+10332,MEREP,3,2023-10-17,2023-11-28,2023-10-21,2,52.84,Mère Paillarde,1051,1,3
+10333,WARTH,5,2023-10-18,2023-11-15,2023-10-25,3,0.59,Wartian Herkku,1087,2,1
+10334,VICTE,8,2023-10-21,2023-11-18,2023-10-28,2,8.56,Victuailles en stock,1084,2,2
+10335,HUNGO,7,2023-10-22,2023-11-19,2023-10-24,2,42.11,Hungry Owl All-Night Grocers,1037,1,1
+10336,PRINI,7,2023-10-23,2023-11-20,2023-10-25,2,15.51,Princesa Isabel Vinhos,1060,1,4
+10337,FRANK,4,2023-10-24,2023-11-21,2023-10-29,3,108.26,Frankenversand,1025,0,1
+10338,OLDWO,4,2023-10-25,2023-11-22,2023-10-29,3,84.21,Old World Delicatessen,1055,0,3
+10339,MEREP,2,2023-10-28,2023-11-25,2023-11-04,2,15.66,Mère Paillarde,1051,3,1
+10340,BONAP,1,2023-10-29,2023-11-26,2023-11-08,3,166.31,Bon app'',1009,2,1
+10341,SIMOB,7,2023-10-29,2023-11-26,2023-11-05,3,26.78,Simons bistro,1073,3,3
+10342,FRANK,4,2023-10-30,2023-11-13,2023-11-04,2,54.83,Frankenversand,1025,3,2
+10343,LEHMS,4,2023-10-31,2023-11-28,2023-11-06,1,110.37,Lehmanns Marktstand,1044,3,3
+10345,QUICK,2,2023-11-04,2023-12-02,2023-11-11,2,249.06,QUICK-Stop,1063,2,3
+10346,RATTC,3,2023-11-05,2023-12-17,2023-11-08,3,142.08,Rattlesnake Canyon Grocery,1065,4,3
+10347,FAMIA,4,2023-11-06,2023-12-04,2023-11-08,3,3.1,Familia Arquibaldo,1021,1,4
+10348,WANDK,4,2023-11-07,2023-12-05,2023-11-15,2,0.78,Die Wandernde Kuh,1086,2,1
+10349,SPLIR,7,2023-11-08,2023-12-06,2023-11-15,1,8.63,Split Rail Beer & Ale,1075,1,4
+10350,LAMAI,6,2023-11-11,2023-12-09,2023-12-03,2,64.19,La maison d''Asie,1041,3,2
+10351,ERNSH,1,2023-11-11,2023-12-09,2023-11-20,1,162.33,Ernst Handel,1020,3,1
+10352,FURIB,3,2023-11-12,2023-11-26,2023-11-18,3,1.3,Furia Bacalhau e Frutos do Mar,1028,4,3
+10353,PICCO,7,2023-11-13,2023-12-11,2023-11-25,3,360.63,Piccolo und mehr,1059,3,4
+10354,PERIC,8,2023-11-14,2023-12-12,2023-11-20,3,53.8,Pericles Comidas clásicas,1058,3,3
+10356,WANDK,6,2023-11-18,2023-12-16,2023-11-27,2,36.71,Die Wandernde Kuh,1086,0,1
+10357,LILAS,1,2023-11-19,2023-12-17,2023-12-02,3,34.88,LILA-Supermercado,1046,1,1
+10358,LAMAI,5,2023-11-20,2023-12-18,2023-11-27,1,19.64,La maison d''Asie,1041,4,2
+10359,SEVES,5,2023-11-21,2023-12-19,2023-11-26,3,288.43,Seven Seas Imports,1072,2,3
+10360,BLONP,4,2023-11-22,2023-12-20,2023-12-02,3,131.7,Blondel père et fils,1007,2,1
+10361,QUICK,1,2023-11-22,2023-12-20,2023-12-03,2,183.17,QUICK-Stop,1063,1,2
+10362,BONAP,3,2023-11-25,2023-12-23,2023-11-28,1,96.04,Bon app'',1009,3,3
+10363,DRACD,4,2023-11-26,2023-12-24,2023-12-04,3,30.54,Drachenblut Delikatessen,1017,1,2
+10364,EASTC,1,2023-11-26,2024-01-07,2023-12-04,1,71.97,Eastern Connection,1019,3,2
+10365,ANTON,3,2023-11-27,2023-12-25,2023-12-02,2,22.0,Antonio Moreno Taquería,1003,2,2
+10366,GALED,8,2023-11-28,2024-01-09,2023-12-30,2,10.14,Galería del gastronómo,1029,1,2
+10367,VAFFE,7,2023-11-28,2023-12-26,2023-12-02,3,13.55,Vaffeljernet,1083,0,4
+10368,ERNSH,2,2023-11-29,2023-12-27,2023-12-02,2,101.95,Ernst Handel,1020,2,3
+10369,SPLIR,8,2023-12-02,2023-12-30,2023-12-09,2,195.68,Split Rail Beer & Ale,1075,0,1
+10371,LAMAI,1,2023-12-03,2023-12-31,2023-12-24,1,0.45,La maison d''Asie,1041,4,2
+10372,QUEEN,5,2023-12-04,2024-01-01,2023-12-09,2,890.78,Queen Cozinha,1062,2,1
+10373,HUNGO,4,2023-12-05,2024-01-02,2023-12-11,3,124.12,Hungry Owl All-Night Grocers,1037,1,4
+10374,WOLZA,1,2023-12-05,2024-01-02,2023-12-09,3,3.94,Wolski Zajazd,1091,1,2
+10375,HUNGC,3,2023-12-06,2024-01-03,2023-12-09,2,20.12,Hungry Coyote Import Store,1036,1,1
+10376,MEREP,1,2023-12-09,2024-01-06,2023-12-13,2,20.39,Mère Paillarde,1051,1,4
+10377,SEVES,1,2023-12-09,2024-01-06,2023-12-13,3,22.21,Seven Seas Imports,1072,1,1
+10378,FOLKO,5,2023-12-10,2024-01-07,2023-12-19,3,5.44,Folk och fä HB,1024,1,1
+10379,QUEDE,2,2023-12-11,2024-01-08,2023-12-13,1,45.03,Que Delícia,1061,0,1
+10380,HUNGO,8,2023-12-12,2024-01-09,2024-01-16,3,35.03,Hungry Owl All-Night Grocers,1037,1,1
+10381,LILAS,3,2023-12-12,2024-01-09,2023-12-13,3,7.99,LILA-Supermercado,1046,1,2
+10382,ERNSH,4,2023-12-13,2024-01-10,2023-12-16,1,94.77,Ernst Handel,1020,4,2
+10384,BERGS,3,2023-12-16,2024-01-13,2023-12-20,3,168.64,Berglunds snabbköp,1005,0,3
+10385,SPLIR,1,2023-12-17,2024-01-14,2023-12-23,2,30.96,Split Rail Beer & Ale,1075,3,1
+10386,FAMIA,9,2023-12-18,2024-01-01,2023-12-25,3,13.99,Familia Arquibaldo,1021,2,1
+10387,SANTG,1,2023-12-18,2024-01-15,2023-12-20,2,93.63,Santé Gourmet,1070,2,3
+10388,SEVES,2,2023-12-19,2024-01-16,2023-12-20,1,34.86,Seven Seas Imports,1072,3,4
+10389,BOTTM,4,2023-12-20,2024-01-17,2023-12-24,2,47.42,Bottom-Dollar Markets,1010,1,2
+10390,ERNSH,6,2023-12-23,2024-01-20,2023-12-26,1,126.38,Ernst Handel,1020,2,4
+10391,DRACD,3,2023-12-23,2024-01-20,2023-12-31,3,5.45,Drachenblut Delikatessen,1017,1,1
+10392,PICCO,2,2023-12-24,2024-01-21,2024-01-01,3,122.46,Piccolo und mehr,1059,4,1
+10393,SAVEA,1,2023-12-25,2024-01-22,2024-01-03,3,126.56,Save-a-lot Markets,1071,1,1
+10394,HUNGC,1,2023-12-25,2024-01-22,2024-01-03,3,30.34,Hungry Coyote Import Store,1036,3,2
+10395,HILAA,6,2023-12-26,2024-01-23,2024-01-03,1,184.41,HILARION-Abastos,1035,3,2
+10396,FRANK,1,2023-12-27,2024-01-10,2024-01-06,3,135.35,Frankenversand,1025,3,2
+10397,PRINI,5,2023-12-27,2024-01-24,2024-01-02,1,60.26,Princesa Isabel Vinhos,1060,0,1
+10398,SAVEA,2,2023-12-30,2024-01-27,2024-01-09,3,89.16,Save-a-lot Markets,1071,0,4
+10399,VAFFE,8,2023-12-31,2024-01-14,2024-01-08,3,27.36,Vaffeljernet,1083,0,2
+10400,EASTC,1,2024-01-01,2024-01-29,2024-01-16,3,83.93,Eastern Connection,1019,2,3
+10401,RATTC,1,2024-01-01,2024-01-29,2024-01-10,1,12.51,Rattlesnake Canyon Grocery,1065,4,1
+10402,ERNSH,8,2024-01-02,2024-02-13,2024-01-10,2,67.88,Ernst Handel,1020,2,1
+10403,ERNSH,4,2024-01-03,2024-01-31,2024-01-09,3,73.79,Ernst Handel,1020,3,3
+10404,MAGAA,2,2024-01-03,2024-01-31,2024-01-08,1,155.97,Magazzini Alimentari Riuniti,1049,1,4
+10405,LINOD,1,2024-01-06,2024-02-03,2024-01-22,1,34.82,LINO-Delicateses,1047,1,2
+10406,QUEEN,7,2024-01-07,2024-02-18,2024-01-13,1,108.04,Queen Cozinha,1062,3,1
+10407,OTTIK,2,2024-01-07,2024-02-04,2024-01-30,2,91.48,Ottilies Käseladen,1056,1,1
+10408,FOLIG,8,2024-01-08,2024-02-05,2024-01-14,1,11.26,Folies gourmandes,1023,0,3
+10409,OCEAN,3,2024-01-09,2024-02-06,2024-01-14,1,29.83,Océano Atlántico Ltda.,1054,1,2
+10410,BOTTM,3,2024-01-10,2024-02-07,2024-01-15,3,2.4,Bottom-Dollar Markets,1010,1,1
+10411,BOTTM,9,2024-01-10,2024-02-07,2024-01-21,3,23.65,Bottom-Dollar Markets,1010,1,2
+10412,WARTH,8,2024-01-13,2024-02-10,2024-01-15,2,3.77,Wartian Herkku,1087,1,1
+10413,LAMAI,3,2024-01-14,2024-02-11,2024-01-16,2,95.66,La maison d''Asie,1041,3,1
+10414,FAMIA,2,2024-01-14,2024-02-11,2024-01-17,3,21.48,Familia Arquibaldo,1021,3,3
+10415,HUNGC,3,2024-01-15,2024-02-12,2024-01-24,1,0.2,Hungry Coyote Import Store,1036,1,1
+10416,WARTH,8,2024-01-16,2024-02-13,2024-01-27,3,22.72,Wartian Herkku,1087,2,4
+10417,SIMOB,4,2024-01-16,2024-02-13,2024-01-28,3,70.29,Simons bistro,1073,1,1
+10418,QUICK,4,2024-01-17,2024-02-14,2024-01-24,1,17.55,QUICK-Stop,1063,2,2
+10420,WELLI,3,2024-01-21,2024-02-18,2024-01-27,1,44.12,Wellington Importadora,1088,3,3
+10421,QUEDE,8,2024-01-21,2024-03-04,2024-01-27,1,99.23,Que Delícia,1061,2,1
+10422,FRANS,2,2024-01-22,2024-02-19,2024-01-31,1,3.02,Franchi S.p.A.,1027,1,4
+10423,GOURL,6,2024-01-23,2024-02-06,2024-02-24,3,24.5,Gourmet Lanchonetes,1031,1,2
+10424,MEREP,7,2024-01-23,2024-02-20,2024-01-27,2,370.61,Mère Paillarde,1051,1,2
+10425,LAMAI,6,2024-01-24,2024-02-21,2024-02-14,2,7.93,La maison d''Asie,1041,0,1
+10426,GALED,4,2024-01-27,2024-02-24,2024-02-06,1,18.69,Galería del gastronómo,1029,3,3
+10427,PICCO,4,2024-01-27,2024-02-24,2024-03-03,2,31.29,Piccolo und mehr,1059,0,4
+10428,REGGC,7,2024-01-28,2024-02-25,2024-02-04,1,11.09,Reggiani Caseifici,1066,1,1
+10429,HUNGO,3,2024-01-29,2024-03-12,2024-02-07,2,56.63,Hungry Owl All-Night Grocers,1037,4,1
+10430,ERNSH,4,2024-01-30,2024-02-13,2024-02-03,1,458.78,Ernst Handel,1020,1,2
+10431,BOTTM,4,2024-01-30,2024-02-13,2024-02-07,2,44.17,Bottom-Dollar Markets,1010,3,2
+10432,SPLIR,3,2024-01-31,2024-02-14,2024-02-07,2,4.34,Split Rail Beer & Ale,1075,4,3
+10433,PRINI,3,2024-02-03,2024-03-03,2024-03-04,3,73.83,Princesa Isabel Vinhos,1060,2,2
+10434,FOLKO,3,2024-02-03,2024-03-03,2024-02-13,2,17.92,Folk och fä HB,1024,1,1
+10435,CONSH,8,2024-02-04,2024-03-18,2024-02-07,2,9.21,Consolidated Holdings,1016,1,3
+10436,BLONP,3,2024-02-05,2024-03-05,2024-02-11,2,156.66,Blondel père et fils,1007,3,1
+10437,WARTH,8,2024-02-05,2024-03-05,2024-02-12,1,19.97,Wartian Herkku,1087,2,3
+10438,TOMSP,3,2024-02-06,2024-03-06,2024-02-14,2,8.24,Toms Spezialitäten,1079,1,1
+10439,MEREP,6,2024-02-07,2024-03-07,2024-02-10,3,4.07,Mère Paillarde,1051,0,4
+10440,SAVEA,4,2024-02-10,2024-03-10,2024-02-28,2,86.53,Save-a-lot Markets,1071,4,4
+10441,OLDWO,3,2024-02-10,2024-03-24,2024-03-14,2,73.02,Old World Delicatessen,1055,0,1
+10442,ERNSH,3,2024-02-11,2024-03-11,2024-02-18,2,47.94,Ernst Handel,1020,1,1
+10443,REGGC,8,2024-02-12,2024-03-12,2024-02-14,1,13.95,Reggiani Caseifici,1066,2,3
+10444,BERGS,3,2024-02-12,2024-03-12,2024-02-21,3,3.5,Berglunds snabbköp,1005,1,4
+10445,BERGS,3,2024-02-13,2024-03-13,2024-02-20,1,9.3,Berglunds snabbköp,1005,0,3
+10446,TOMSP,6,2024-02-14,2024-03-14,2024-02-19,1,14.68,Toms Spezialitäten,1079,2,3
+10447,RICAR,4,2024-02-14,2024-03-14,2024-03-07,2,68.66,Ricardo Adocicados,1067,2,1
+10448,RANCH,4,2024-02-17,2024-03-17,2024-02-24,2,38.82,Rancho grande,1064,3,1
+10449,BLONP,3,2024-02-18,2024-03-18,2024-02-27,2,53.3,Blondel père et fils,1007,3,1
+10450,VICTE,8,2024-02-19,2024-03-19,2024-03-11,2,7.23,Victuailles en stock,1084,2,4
+10451,QUICK,4,2024-02-19,2024-03-05,2024-03-12,3,189.09,QUICK-Stop,1063,2,2
+10452,SAVEA,8,2024-02-20,2024-03-20,2024-02-26,1,140.26,Save-a-lot Markets,1071,2,3
+10454,LAMAI,4,2024-02-21,2024-03-21,2024-02-25,3,2.74,La maison d''Asie,1041,3,1
+10455,WARTH,8,2024-02-24,2024-04-07,2024-03-03,2,180.45,Wartian Herkku,1087,3,1
+10456,KOENE,8,2024-02-25,2024-04-08,2024-02-28,2,8.12,Königlich Essen,1039,3,3
+10457,KOENE,2,2024-02-25,2024-03-25,2024-03-03,1,11.57,Königlich Essen,1039,2,3
+10458,SUPRD,7,2024-02-26,2024-03-26,2024-03-04,3,147.06,Suprêmes délices,1076,2,3
+10459,VICTE,4,2024-02-27,2024-03-27,2024-02-28,2,25.09,Victuailles en stock,1084,1,4
+10460,FOLKO,8,2024-02-28,2024-03-28,2024-03-03,1,16.27,Folk och fä HB,1024,3,2
+10461,LILAS,1,2024-02-28,2024-03-28,2024-03-05,3,148.61,LILA-Supermercado,1046,1,4
+10462,CONSH,2,2024-03-03,2024-03-31,2024-03-18,1,6.17,Consolidated Holdings,1016,3,1
+10463,SUPRD,5,2024-03-04,2024-04-01,2024-03-06,3,14.78,Suprêmes délices,1076,2,4
+10464,FURIB,4,2024-03-04,2024-04-01,2024-03-14,2,89.0,Furia Bacalhau e Frutos do Mar,1028,2,4
+10465,VAFFE,1,2024-03-05,2024-04-02,2024-03-14,3,145.04,Vaffeljernet,1083,0,3
+10466,COMMI,4,2024-03-06,2024-04-03,2024-03-13,1,11.93,Comércio Mineiro,1015,4,3
+10467,MAGAA,8,2024-03-06,2024-04-03,2024-03-11,2,4.93,Magazzini Alimentari Riuniti,1049,4,3
+10468,KOENE,3,2024-03-07,2024-04-04,2024-03-12,3,44.12,Königlich Essen,1039,3,3
+10470,BONAP,4,2024-03-11,2024-04-08,2024-03-14,2,64.56,Bon app'',1009,2,1
+10471,BSBEV,2,2024-03-11,2024-04-08,2024-03-18,3,45.59,B''s Beverages,1011,4,4
+10472,SEVES,8,2024-03-12,2024-04-09,2024-03-19,1,4.2,Seven Seas Imports,1072,3,1
+10473,ISLAT,1,2024-03-13,2024-03-27,2024-03-21,3,16.37,Island Trading,1038,1,1
+10474,PERIC,5,2024-03-13,2024-04-10,2024-03-21,2,83.49,Pericles Comidas clásicas,1058,2,2
+10475,SUPRD,9,2024-03-14,2024-04-11,2024-04-04,1,68.52,Suprêmes délices,1076,1,3
+10476,HILAA,8,2024-03-17,2024-04-14,2024-03-24,3,4.41,HILARION-Abastos,1035,2,1
+10477,PRINI,5,2024-03-17,2024-04-14,2024-03-25,2,13.02,Princesa Isabel Vinhos,1060,4,1
+10478,VICTE,2,2024-03-18,2024-04-01,2024-03-26,3,4.81,Victuailles en stock,1084,4,1
+10479,RATTC,3,2024-03-19,2024-04-16,2024-03-21,3,708.95,Rattlesnake Canyon Grocery,1065,2,3
+10480,FOLIG,6,2024-03-20,2024-04-17,2024-03-24,2,1.35,Folies gourmandes,1023,2,2
+10481,RICAR,8,2024-03-20,2024-04-17,2024-03-25,2,64.33,Ricardo Adocicados,1067,3,3
+10482,LAZYK,1,2024-03-21,2024-04-18,2024-04-10,3,7.48,Lazy K Kountry Store,1043,3,2
+10484,BSBEV,3,2024-03-24,2024-04-21,2024-04-01,3,6.88,B''s Beverages,1011,3,1
+10485,LINOD,4,2024-03-25,2024-04-08,2024-03-31,2,64.45,LINO-Delicateses,1047,2,4
+10486,HILAA,1,2024-03-26,2024-04-23,2024-04-02,2,30.53,HILARION-Abastos,1035,4,4
+10487,QUEEN,2,2024-03-26,2024-04-23,2024-03-28,2,71.07,Queen Cozinha,1062,4,2
+10488,FRANK,8,2024-03-27,2024-04-24,2024-04-02,2,4.93,Frankenversand,1025,2,2
+10489,PICCO,6,2024-03-28,2024-04-25,2024-04-09,2,5.29,Piccolo und mehr,1059,3,3
+10490,HILAA,7,2024-03-31,2024-04-28,2024-04-03,2,210.19,HILARION-Abastos,1035,2,1
+10491,FURIB,8,2024-03-31,2024-04-28,2024-04-08,3,16.96,Furia Bacalhau e Frutos do Mar,1028,2,3
+10492,BOTTM,3,2024-04-01,2024-04-29,2024-04-11,1,62.89,Bottom-Dollar Markets,1010,1,1
+10493,LAMAI,4,2024-04-02,2024-04-30,2024-04-10,3,10.64,La maison d''Asie,1041,2,3
+10494,COMMI,4,2024-04-02,2024-04-30,2024-04-09,2,65.99,Comércio Mineiro,1015,3,4
+10496,TRADH,7,2024-04-04,2024-05-02,2024-04-07,2,46.77,Tradiçao Hipermercados,1081,2,1
+10673,WILMK,2,2024-09-18,2024-10-16,2024-09-19,1,22.76,Wilman Kala,1090,0,1
+10497,LEHMS,7,2024-04-04,2024-05-02,2024-04-07,1,36.21,Lehmanns Marktstand,1044,1,3
+10498,HILAA,8,2024-04-07,2024-05-05,2024-04-11,2,29.75,HILARION-Abastos,1035,2,3
+10499,LILAS,4,2024-04-08,2024-05-06,2024-04-16,2,102.02,LILA-Supermercado,1046,1,2
+10500,LAMAI,6,2024-04-09,2024-05-07,2024-04-17,1,42.68,La maison d''Asie,1041,1,1
+10501,BLAUS,9,2024-04-09,2024-05-07,2024-04-16,3,8.85,Blauer See Delikatessen,1006,2,1
+10502,PERIC,2,2024-04-10,2024-05-08,2024-04-29,1,69.32,Pericles Comidas clásicas,1058,4,1
+10503,HUNGO,6,2024-04-11,2024-05-09,2024-04-16,2,16.74,Hungry Owl All-Night Grocers,1037,0,3
+10505,MEREP,3,2024-04-14,2024-05-12,2024-04-21,3,7.13,Mère Paillarde,1051,4,1
+10506,KOENE,9,2024-04-15,2024-05-13,2024-05-02,2,21.19,Königlich Essen,1039,4,1
+10507,ANTON,7,2024-04-15,2024-05-13,2024-04-22,1,47.45,Antonio Moreno Taquería,1003,1,3
+10508,OTTIK,1,2024-04-16,2024-05-14,2024-05-13,2,4.99,Ottilies Käseladen,1056,3,1
+10509,BLAUS,4,2024-04-17,2024-05-15,2024-04-29,1,0.15,Blauer See Delikatessen,1006,4,3
+10510,SAVEA,6,2024-04-18,2024-05-16,2024-04-28,3,367.63,Save-a-lot Markets,1071,1,1
+10511,BONAP,4,2024-04-18,2024-05-16,2024-04-21,3,350.64,Bon app'',1009,2,4
+10512,FAMIA,7,2024-04-21,2024-05-19,2024-04-24,2,3.53,Familia Arquibaldo,1021,4,2
+10513,WANDK,7,2024-04-22,2024-06-03,2024-04-28,1,105.65,Die Wandernde Kuh,1086,1,1
+10514,ERNSH,3,2024-04-22,2024-05-20,2024-05-16,2,789.95,Ernst Handel,1020,1,4
+10515,QUICK,2,2024-04-23,2024-05-07,2024-05-23,1,204.47,QUICK-Stop,1063,2,3
+10516,HUNGO,2,2024-04-24,2024-05-22,2024-05-01,3,62.78,Hungry Owl All-Night Grocers,1037,2,3
+10517,NORTS,3,2024-04-24,2024-05-22,2024-04-29,3,32.07,North/South,1053,2,1
+10518,TORTU,4,2024-04-25,2024-05-09,2024-05-05,2,218.15,Tortuga Restaurante,1080,0,1
+10520,SANTG,7,2024-04-29,2024-05-27,2024-05-01,1,13.37,Santé Gourmet,1070,1,1
+10521,CACTU,8,2024-04-29,2024-05-27,2024-05-02,2,17.22,Cactus Comidas para llevar,1012,4,3
+10522,LEHMS,4,2024-04-30,2024-05-28,2024-05-06,1,45.33,Lehmanns Marktstand,1044,1,3
+10523,SEVES,7,2024-05-01,2024-05-29,2024-05-30,2,77.63,Seven Seas Imports,1072,0,3
+10524,BERGS,1,2024-05-01,2024-05-29,2024-05-07,2,244.79,Berglunds snabbköp,1005,2,3
+10525,BONAP,1,2024-05-02,2024-05-30,2024-05-23,2,11.06,Bon app'',1009,0,2
+10526,WARTH,4,2024-05-05,2024-06-02,2024-05-15,2,58.59,Wartian Herkku,1087,0,3
+10527,QUICK,7,2024-05-05,2024-06-02,2024-05-07,1,41.9,QUICK-Stop,1063,2,2
+10528,GREAL,6,2024-05-06,2024-05-20,2024-05-09,2,3.35,Great Lakes Food Market,1032,0,4
+10529,MAISD,5,2024-05-07,2024-06-04,2024-05-09,2,66.69,Maison Dewey,1050,3,4
+10530,PICCO,3,2024-05-08,2024-06-05,2024-05-12,2,339.22,Piccolo und mehr,1059,4,4
+10531,OCEAN,7,2024-05-08,2024-06-05,2024-05-19,1,8.12,Océano Atlántico Ltda.,1054,3,4
+10532,EASTC,7,2024-05-09,2024-06-06,2024-05-12,3,74.46,Eastern Connection,1019,1,1
+10533,FOLKO,8,2024-05-12,2024-06-09,2024-05-22,1,188.04,Folk och fä HB,1024,3,1
+10534,LEHMS,8,2024-05-12,2024-06-09,2024-05-14,2,27.94,Lehmanns Marktstand,1044,1,1
+10535,ANTON,4,2024-05-13,2024-06-10,2024-05-21,1,15.64,Antonio Moreno Taquería,1003,2,3
+10536,LEHMS,3,2024-05-14,2024-06-11,2024-06-06,2,58.88,Lehmanns Marktstand,1044,1,1
+10538,BSBEV,9,2024-05-15,2024-06-12,2024-05-16,3,4.87,B''s Beverages,1011,1,3
+10539,BSBEV,6,2024-05-16,2024-06-13,2024-05-23,3,12.36,B''s Beverages,1011,1,1
+10540,QUICK,3,2024-05-19,2024-06-16,2024-06-13,3,1007.64,QUICK-Stop,1063,2,3
+10541,HANAR,2,2024-05-19,2024-06-16,2024-05-29,1,68.65,Hanari Carnes,1034,4,1
+10542,KOENE,1,2024-05-20,2024-06-17,2024-05-26,3,10.95,Königlich Essen,1039,2,3
+10543,LILAS,8,2024-05-21,2024-06-18,2024-05-23,2,48.17,LILA-Supermercado,1046,3,1
+10544,LONEP,4,2024-05-21,2024-06-18,2024-05-30,1,24.91,Lonesome Pine Restaurant,1048,0,3
+10545,LAZYK,8,2024-05-22,2024-06-19,2024-06-26,2,11.92,Lazy K Kountry Store,1043,1,2
+10546,VICTE,1,2024-05-23,2024-06-20,2024-05-27,3,194.72,Victuailles en stock,1084,4,1
+10547,SEVES,3,2024-05-23,2024-06-20,2024-06-02,2,178.43,Seven Seas Imports,1072,2,2
+10548,TOMSP,3,2024-05-26,2024-06-23,2024-06-02,2,1.43,Toms Spezialitäten,1079,2,2
+10549,QUICK,5,2024-05-27,2024-06-10,2024-05-30,1,171.24,QUICK-Stop,1063,3,1
+10551,FURIB,4,2024-05-28,2024-07-09,2024-06-06,3,72.95,Furia Bacalhau e Frutos do Mar,1028,2,3
+10552,HILAA,2,2024-05-29,2024-06-26,2024-06-05,1,83.22,HILARION-Abastos,1035,4,1
+10553,WARTH,2,2024-05-30,2024-06-27,2024-06-03,2,149.49,Wartian Herkku,1087,3,3
+10554,OTTIK,4,2024-05-30,2024-06-27,2024-06-05,3,120.97,Ottilies Käseladen,1056,2,4
+10555,SAVEA,6,2024-06-02,2024-06-30,2024-06-04,3,252.49,Save-a-lot Markets,1071,1,2
+10556,SIMOB,2,2024-06-03,2024-07-15,2024-06-13,1,9.8,Simons bistro,1073,4,2
+10557,LEHMS,9,2024-06-03,2024-06-17,2024-06-06,2,96.72,Lehmanns Marktstand,1044,3,3
+10559,BLONP,6,2024-06-05,2024-07-03,2024-06-13,1,8.05,Blondel père et fils,1007,2,2
+10560,FRANK,8,2024-06-06,2024-07-04,2024-06-09,1,36.65,Frankenversand,1025,3,3
+10561,FOLKO,2,2024-06-06,2024-07-04,2024-06-09,2,242.21,Folk och fä HB,1024,3,1
+10562,REGGC,1,2024-06-09,2024-07-07,2024-06-12,1,22.95,Reggiani Caseifici,1066,2,3
+10563,RICAR,2,2024-06-10,2024-07-22,2024-06-24,2,60.43,Ricardo Adocicados,1067,2,3
+10564,RATTC,4,2024-06-10,2024-07-08,2024-06-16,3,13.75,Rattlesnake Canyon Grocery,1065,2,3
+10565,MEREP,8,2024-06-11,2024-07-09,2024-06-18,2,7.15,Mère Paillarde,1051,1,1
+10566,BLONP,9,2024-06-12,2024-07-10,2024-06-18,1,88.4,Blondel père et fils,1007,4,1
+10567,HUNGO,1,2024-06-12,2024-07-10,2024-06-17,1,33.97,Hungry Owl All-Night Grocers,1037,4,2
+10568,GALED,3,2024-06-13,2024-07-11,2024-07-09,3,6.54,Galería del gastronómo,1029,1,2
+10569,RATTC,5,2024-06-16,2024-07-14,2024-07-11,1,58.98,Rattlesnake Canyon Grocery,1065,1,1
+10570,MEREP,3,2024-06-17,2024-07-15,2024-06-19,3,188.99,Mère Paillarde,1051,2,3
+10571,ERNSH,8,2024-06-17,2024-07-29,2024-07-04,3,26.06,Ernst Handel,1020,1,4
+10572,BERGS,3,2024-06-18,2024-07-16,2024-06-25,2,116.43,Berglunds snabbköp,1005,0,3
+10573,ANTON,7,2024-06-19,2024-07-17,2024-06-20,3,84.84,Antonio Moreno Taquería,1003,3,2
+10574,TRAIH,4,2024-06-19,2024-07-17,2024-06-30,2,37.6,Trail''s Head Gourmet Provisioners,1082,0,1
+10575,MORGK,5,2024-06-20,2024-07-04,2024-06-30,1,127.34,Morgenstern Gesundkost,1052,0,1
+10576,TORTU,3,2024-06-23,2024-07-07,2024-06-30,3,18.56,Tortuga Restaurante,1080,3,4
+10577,TRAIH,9,2024-06-23,2024-08-04,2024-06-30,2,25.41,Trail''s Head Gourmet Provisioners,1082,2,3
+10578,BSBEV,4,2024-06-24,2024-07-22,2024-07-25,3,29.6,B''s Beverages,1011,4,3
+10579,LETSS,1,2024-06-25,2024-07-23,2024-07-04,2,13.73,Let''s Stop N Shop,1045,2,3
+10580,OTTIK,4,2024-06-26,2024-07-24,2024-07-01,3,75.89,Ottilies Käseladen,1056,1,1
+10581,FAMIA,3,2024-06-26,2024-07-24,2024-07-02,1,3.01,Familia Arquibaldo,1021,3,4
+10582,BLAUS,3,2024-06-27,2024-07-25,2024-07-14,2,27.71,Blauer See Delikatessen,1006,1,2
+10583,WARTH,2,2024-06-30,2024-07-28,2024-07-04,2,7.28,Wartian Herkku,1087,2,2
+10584,BLONP,4,2024-06-30,2024-07-28,2024-07-04,1,59.14,Blondel père et fils,1007,1,3
+10585,WELLI,7,2024-07-01,2024-07-29,2024-07-10,1,13.41,Wellington Importadora,1088,3,1
+10586,REGGC,9,2024-07-02,2024-07-30,2024-07-09,1,0.48,Reggiani Caseifici,1066,1,3
+10587,QUEDE,1,2024-07-02,2024-07-30,2024-07-09,1,62.52,Que Delícia,1061,3,1
+10588,QUICK,2,2024-07-03,2024-07-31,2024-07-10,3,194.67,QUICK-Stop,1063,2,3
+10589,GREAL,8,2024-07-04,2024-08-01,2024-07-14,2,4.42,Great Lakes Food Market,1032,0,1
+10590,MEREP,4,2024-07-07,2024-08-04,2024-07-14,3,44.77,Mère Paillarde,1051,1,4
+10591,VAFFE,1,2024-07-07,2024-07-21,2024-07-16,1,55.92,Vaffeljernet,1083,1,2
+10592,LEHMS,3,2024-07-08,2024-08-05,2024-07-16,1,32.1,Lehmanns Marktstand,1044,1,2
+10593,LEHMS,7,2024-07-09,2024-08-06,2024-08-13,2,174.2,Lehmanns Marktstand,1044,1,1
+10594,OLDWO,3,2024-07-09,2024-08-06,2024-07-16,2,5.24,Old World Delicatessen,1055,2,3
+10595,ERNSH,2,2024-07-10,2024-08-07,2024-07-14,1,96.78,Ernst Handel,1020,3,2
+10713,SAVEA,1,2024-10-22,2024-11-19,2024-10-24,1,167.05,Save-a-lot Markets,1071,1,1
+10597,PICCO,7,2024-07-11,2024-08-08,2024-07-18,3,35.12,Piccolo und mehr,1059,3,4
+10598,RATTC,1,2024-07-14,2024-08-11,2024-07-18,3,44.42,Rattlesnake Canyon Grocery,1065,1,4
+10599,BSBEV,6,2024-07-15,2024-08-26,2024-07-21,3,29.98,B''s Beverages,1011,2,3
+10600,HUNGC,4,2024-07-16,2024-08-13,2024-07-21,1,45.13,Hungry Coyote Import Store,1036,3,1
+10601,HILAA,7,2024-07-16,2024-08-27,2024-07-22,1,58.3,HILARION-Abastos,1035,2,1
+10602,VAFFE,8,2024-07-17,2024-08-14,2024-07-22,2,2.92,Vaffeljernet,1083,4,2
+10603,SAVEA,8,2024-07-18,2024-08-15,2024-08-08,2,48.77,Save-a-lot Markets,1071,3,3
+10604,FURIB,1,2024-07-18,2024-08-15,2024-07-29,1,7.46,Furia Bacalhau e Frutos do Mar,1028,2,4
+10605,MEREP,1,2024-07-21,2024-08-18,2024-07-29,2,379.13,Mère Paillarde,1051,2,2
+10606,TRADH,4,2024-07-22,2024-08-19,2024-07-31,3,79.4,Tradiçao Hipermercados,1081,4,3
+10607,SAVEA,5,2024-07-22,2024-08-19,2024-07-25,1,200.24,Save-a-lot Markets,1071,0,3
+10608,TOMSP,4,2024-07-23,2024-08-20,2024-08-01,2,27.79,Toms Spezialitäten,1079,0,2
+10609,DUMON,7,2024-07-24,2024-08-21,2024-07-30,2,1.85,Du monde entier,1018,1,3
+10610,LAMAI,8,2024-07-25,2024-08-22,2024-08-06,1,26.78,La maison d''Asie,1041,1,4
+10611,WOLZA,6,2024-07-25,2024-08-22,2024-08-01,2,80.65,Wolski Zajazd,1091,3,3
+10612,SAVEA,1,2024-07-28,2024-08-25,2024-08-01,2,544.08,Save-a-lot Markets,1071,1,2
+10613,HILAA,4,2024-07-29,2024-08-26,2024-08-01,2,8.11,HILARION-Abastos,1035,2,1
+10614,BLAUS,8,2024-07-29,2024-08-26,2024-08-01,3,1.93,Blauer See Delikatessen,1006,2,3
+10615,WILMK,2,2024-07-30,2024-08-27,2024-08-06,3,0.75,Wilman Kala,1090,0,1
+10616,GREAL,1,2024-07-31,2024-08-28,2024-08-05,2,116.53,Great Lakes Food Market,1032,0,2
+10617,GREAL,4,2024-07-31,2024-08-28,2024-08-04,2,18.53,Great Lakes Food Market,1032,1,1
+10618,MEREP,1,2024-08-01,2024-09-12,2024-08-08,1,154.68,Mère Paillarde,1051,2,3
+10619,MEREP,3,2024-08-04,2024-09-01,2024-08-07,3,91.05,Mère Paillarde,1051,1,1
+10621,ISLAT,4,2024-08-05,2024-09-02,2024-08-11,2,23.73,Island Trading,1038,0,3
+10622,RICAR,4,2024-08-06,2024-09-03,2024-08-11,3,50.97,Ricardo Adocicados,1067,2,1
+10623,FRANK,8,2024-08-07,2024-09-04,2024-08-12,2,97.18,Frankenversand,1025,0,4
+10624,THECR,4,2024-08-07,2024-09-04,2024-08-19,2,94.8,The Cracker Box,1078,1,1
+10625,ANATR,3,2024-08-08,2024-09-05,2024-08-14,1,43.9,Ana Trujillo Emparedados y helados,1002,0,1
+10626,BERGS,1,2024-08-11,2024-09-08,2024-08-20,2,138.69,Berglunds snabbköp,1005,4,4
+10627,SAVEA,8,2024-08-11,2024-09-22,2024-08-21,3,107.46,Save-a-lot Markets,1071,3,2
+10628,BLONP,4,2024-08-12,2024-09-09,2024-08-20,3,30.36,Blondel père et fils,1007,3,2
+10630,KOENE,1,2024-08-13,2024-09-10,2024-08-19,2,32.35,Königlich Essen,1039,3,4
+10631,LAMAI,8,2024-08-14,2024-09-11,2024-08-15,1,0.87,La maison d''Asie,1041,3,3
+10632,WANDK,8,2024-08-14,2024-09-11,2024-08-19,1,41.38,Die Wandernde Kuh,1086,2,3
+10633,ERNSH,7,2024-08-15,2024-09-12,2024-08-18,3,477.9,Ernst Handel,1020,1,1
+10634,FOLIG,4,2024-08-15,2024-09-12,2024-08-21,3,487.38,Folies gourmandes,1023,0,3
+10635,MAGAA,8,2024-08-18,2024-09-15,2024-08-21,3,47.46,Magazzini Alimentari Riuniti,1049,1,2
+10636,WARTH,4,2024-08-19,2024-09-16,2024-08-26,1,1.15,Wartian Herkku,1087,2,1
+10637,QUEEN,6,2024-08-19,2024-09-16,2024-08-26,1,201.29,Queen Cozinha,1062,1,1
+10638,LINOD,3,2024-08-20,2024-09-17,2024-09-01,1,158.44,LINO-Delicateses,1047,0,3
+10639,SANTG,7,2024-08-20,2024-09-17,2024-08-27,3,38.64,Santé Gourmet,1070,3,4
+10640,WANDK,4,2024-08-21,2024-09-18,2024-08-28,1,23.55,Die Wandernde Kuh,1086,2,1
+10641,HILAA,4,2024-08-22,2024-09-19,2024-08-26,2,179.61,HILARION-Abastos,1035,3,2
+10642,SIMOB,7,2024-08-22,2024-09-19,2024-09-05,3,41.89,Simons bistro,1073,2,2
+10643,ALFKI,6,2024-08-25,2024-09-22,2024-09-02,1,29.46,Alfreds Futterkiste,1001,3,3
+10644,WELLI,3,2024-08-25,2024-09-22,2024-09-01,2,0.14,Wellington Importadora,1088,1,1
+10645,HANAR,4,2024-08-26,2024-09-23,2024-09-02,1,12.41,Hanari Carnes,1034,2,3
+10646,HUNGO,9,2024-08-27,2024-10-08,2024-09-03,3,142.33,Hungry Owl All-Night Grocers,1037,3,2
+10647,QUEDE,4,2024-08-27,2024-09-10,2024-09-03,2,45.54,Que Delícia,1061,3,2
+10648,RICAR,5,2024-08-28,2024-10-09,2024-09-09,2,14.25,Ricardo Adocicados,1067,2,2
+10649,MAISD,5,2024-08-28,2024-09-25,2024-08-29,3,6.2,Maison Dewey,1050,1,1
+10650,FAMIA,5,2024-08-29,2024-09-26,2024-09-03,3,176.81,Familia Arquibaldo,1021,0,4
+10651,WANDK,8,2024-09-01,2024-09-29,2024-09-11,2,20.6,Die Wandernde Kuh,1086,3,4
+10652,GOURL,4,2024-09-01,2024-09-29,2024-09-08,2,7.14,Gourmet Lanchonetes,1031,3,3
+10653,FRANK,1,2024-09-02,2024-09-30,2024-09-19,1,93.25,Frankenversand,1025,0,3
+10654,BERGS,5,2024-09-02,2024-09-30,2024-09-11,1,55.26,Berglunds snabbköp,1005,2,3
+10655,REGGC,1,2024-09-03,2024-10-01,2024-09-11,2,4.41,Reggiani Caseifici,1066,2,3
+10656,GREAL,6,2024-09-04,2024-10-02,2024-09-10,1,57.15,Great Lakes Food Market,1032,2,3
+10657,SAVEA,2,2024-09-04,2024-10-02,2024-09-15,2,352.69,Save-a-lot Markets,1071,1,1
+10658,QUICK,4,2024-09-05,2024-10-03,2024-09-08,1,364.15,QUICK-Stop,1063,0,1
+10659,QUEEN,7,2024-09-05,2024-10-03,2024-09-10,2,105.81,Queen Cozinha,1062,3,4
+10660,HUNGC,8,2024-09-08,2024-10-06,2024-10-15,1,111.29,Hungry Coyote Import Store,1036,3,1
+10661,HUNGO,7,2024-09-09,2024-10-07,2024-09-15,3,17.55,Hungry Owl All-Night Grocers,1037,1,2
+10662,LONEP,3,2024-09-09,2024-10-07,2024-09-18,2,1.28,Lonesome Pine Restaurant,1048,4,3
+10663,BONAP,2,2024-09-10,2024-09-24,2024-10-03,2,113.15,Bon app'',1009,4,1
+10664,FURIB,1,2024-09-10,2024-10-08,2024-09-19,3,1.27,Furia Bacalhau e Frutos do Mar,1028,1,2
+10665,LONEP,1,2024-09-11,2024-10-09,2024-09-17,2,26.31,Lonesome Pine Restaurant,1048,2,3
+10667,ERNSH,7,2024-09-12,2024-10-10,2024-09-19,1,78.09,Ernst Handel,1020,3,2
+10668,WANDK,1,2024-09-15,2024-10-13,2024-09-23,2,47.22,Die Wandernde Kuh,1086,3,1
+10669,SIMOB,2,2024-09-15,2024-10-13,2024-09-22,1,24.39,Simons bistro,1073,3,1
+10670,FRANK,4,2024-09-16,2024-10-14,2024-09-18,1,203.48,Frankenversand,1025,2,4
+10671,FRANR,1,2024-09-17,2024-10-15,2024-09-24,1,30.34,France restauration,1026,1,2
+10672,BERGS,9,2024-09-17,2024-10-01,2024-09-26,2,95.75,Berglunds snabbköp,1005,1,1
+10674,ISLAT,4,2024-09-18,2024-10-16,2024-09-30,2,0.9,Island Trading,1038,4,1
+10675,FRANK,5,2024-09-19,2024-10-17,2024-09-23,2,31.85,Frankenversand,1025,2,1
+10676,TORTU,2,2024-09-22,2024-10-20,2024-09-29,2,2.01,Tortuga Restaurante,1080,1,1
+10677,ANTON,1,2024-09-22,2024-10-20,2024-09-26,3,4.03,Antonio Moreno Taquería,1003,1,1
+10678,SAVEA,7,2024-09-23,2024-10-21,2024-10-16,3,388.98,Save-a-lot Markets,1071,4,2
+10679,BLONP,8,2024-09-23,2024-10-21,2024-09-30,3,27.94,Blondel père et fils,1007,2,3
+10680,OLDWO,1,2024-09-24,2024-10-22,2024-09-26,1,26.61,Old World Delicatessen,1055,1,3
+10681,GREAL,3,2024-09-25,2024-10-23,2024-09-30,3,76.13,Great Lakes Food Market,1032,3,1
+10682,ANTON,3,2024-09-25,2024-10-23,2024-10-01,2,36.13,Antonio Moreno Taquería,1003,1,3
+10683,DUMON,2,2024-09-26,2024-10-24,2024-10-01,1,4.4,Du monde entier,1018,4,2
+10684,OTTIK,3,2024-09-26,2024-10-24,2024-09-30,1,145.63,Ottilies Käseladen,1056,2,2
+10685,GOURL,4,2024-09-29,2024-10-13,2024-10-03,2,33.75,Gourmet Lanchonetes,1031,1,3
+10686,PICCO,2,2024-09-30,2024-10-28,2024-10-08,1,96.5,Piccolo und mehr,1059,2,4
+10687,HUNGO,9,2024-09-30,2024-10-28,2024-10-30,2,296.43,Hungry Owl All-Night Grocers,1037,2,1
+10688,VAFFE,4,2024-10-01,2024-10-15,2024-10-07,2,299.09,Vaffeljernet,1083,4,1
+10689,BERGS,1,2024-10-01,2024-10-29,2024-10-07,2,13.42,Berglunds snabbköp,1005,3,2
+10690,HANAR,1,2024-10-02,2024-10-30,2024-10-03,1,15.8,Hanari Carnes,1034,1,2
+10691,QUICK,2,2024-10-03,2024-11-14,2024-10-22,2,810.05,QUICK-Stop,1063,3,1
+10692,ALFKI,4,2024-10-03,2024-10-31,2024-10-13,2,61.02,Alfred''s Futterkiste,1001,4,2
+10694,QUICK,8,2024-10-06,2024-11-03,2024-10-09,3,398.36,QUICK-Stop,1063,0,1
+10695,WILMK,7,2024-10-07,2024-11-18,2024-10-14,1,16.72,Wilman Kala,1090,2,4
+10697,LINOD,3,2024-10-08,2024-11-05,2024-10-14,1,45.52,LINO-Delicateses,1047,2,3
+10698,ERNSH,4,2024-10-09,2024-11-06,2024-10-17,1,272.47,Ernst Handel,1020,1,1
+10699,MORGK,3,2024-10-09,2024-11-06,2024-10-13,3,0.58,Morgenstern Gesundkost,1052,1,1
+10700,SAVEA,3,2024-10-10,2024-11-07,2024-10-16,1,65.1,Save-a-lot Markets,1071,1,1
+10701,HUNGO,6,2024-10-13,2024-10-27,2024-10-15,3,220.31,Hungry Owl All-Night Grocers,1037,4,1
+10702,ALFKI,4,2024-10-13,2024-11-24,2024-10-21,1,23.94,Alfred''s Futterkiste,1001,1,1
+10703,FOLKO,6,2024-10-14,2024-11-11,2024-10-20,2,152.3,Folk och fä HB,1024,2,3
+10704,QUEEN,6,2024-10-14,2024-11-11,2024-11-07,1,4.78,Queen Cozinha,1062,3,3
+10705,HILAA,9,2024-10-15,2024-11-12,2024-11-18,2,3.52,HILARION-Abastos,1035,1,2
+10706,OLDWO,8,2024-10-16,2024-11-13,2024-10-21,3,135.63,Old World Delicatessen,1055,3,4
+10708,THEBI,6,2024-10-17,2024-11-28,2024-11-05,2,2.96,The Big Cheese,1077,3,2
+10709,GOURL,1,2024-10-17,2024-11-14,2024-11-20,3,210.8,Gourmet Lanchonetes,1031,2,3
+10710,FRANS,1,2024-10-20,2024-11-17,2024-10-23,1,4.98,Franchi S.p.A.,1027,3,3
+10711,SAVEA,5,2024-10-21,2024-12-02,2024-10-29,2,52.41,Save-a-lot Markets,1071,4,1
+10712,HUNGO,3,2024-10-21,2024-11-18,2024-10-31,1,89.93,Hungry Owl All-Night Grocers,1037,4,3
+10714,SAVEA,5,2024-10-22,2024-11-19,2024-10-27,3,24.49,Save-a-lot Markets,1071,0,2
+10715,BONAP,3,2024-10-23,2024-11-06,2024-10-29,1,63.2,Bon app'',1009,4,4
+10716,RANCH,4,2024-10-24,2024-11-21,2024-10-27,2,22.57,Rancho grande,1064,0,1
+10717,FRANK,1,2024-10-24,2024-11-21,2024-10-29,2,59.25,Frankenversand,1025,1,1
+10718,KOENE,1,2024-10-27,2024-11-24,2024-10-29,3,170.88,Königlich Essen,1039,3,1
+10719,LETSS,8,2024-10-27,2024-11-24,2024-11-05,2,51.44,Let''s Stop N Shop,1045,1,4
+10720,QUEDE,8,2024-10-28,2024-11-11,2024-11-05,2,9.53,Que Delícia,1061,4,1
+10721,QUICK,5,2024-10-29,2024-11-26,2024-10-31,3,48.92,QUICK-Stop,1063,3,1
+10722,SAVEA,8,2024-10-29,2024-12-10,2024-11-04,1,74.58,Save-a-lot Markets,1071,1,2
+10724,MEREP,8,2024-10-30,2024-12-11,2024-11-05,2,57.75,Mère Paillarde,1051,0,1
+10725,FAMIA,4,2024-10-31,2024-11-28,2024-11-05,3,10.83,Familia Arquibaldo,1021,3,1
+10726,EASTC,4,2024-11-03,2024-11-17,2024-12-05,1,16.56,Eastern Connection,1019,4,1
+10727,REGGC,2,2024-11-03,2024-12-01,2024-12-05,1,89.9,Reggiani Caseifici,1066,1,3
+10728,QUEEN,4,2024-11-04,2024-12-02,2024-11-11,2,58.33,Queen Cozinha,1062,2,1
+10729,LINOD,8,2024-11-04,2024-12-16,2024-11-14,3,141.06,LINO-Delicateses,1047,1,1
+10730,BONAP,5,2024-11-05,2024-12-03,2024-11-14,1,20.12,Bon app'',1009,3,1
+10732,BONAP,3,2024-11-06,2024-12-04,2024-11-07,1,16.97,Bon app'',1009,2,4
+10733,BERGS,1,2024-11-07,2024-12-05,2024-11-10,3,110.11,Berglunds snabbköp,1005,1,1
+10734,GOURL,2,2024-11-07,2024-12-05,2024-11-12,3,1.63,Gourmet Lanchonetes,1031,3,1
+10735,LETSS,6,2024-11-10,2024-12-08,2024-11-21,2,45.97,Let''s Stop N Shop,1045,3,1
+10736,HUNGO,9,2024-11-11,2024-12-09,2024-11-21,2,44.1,Hungry Owl All-Night Grocers,1037,3,4
+10738,SPECD,2,2024-11-12,2024-12-10,2024-11-18,1,2.91,Spécialités du monde,1074,0,1
+10742,BOTTM,3,2024-11-14,2024-12-12,2024-11-18,3,243.73,Bottom-Dollar Markets,1010,4,1
+10744,VAFFE,6,2024-11-17,2024-12-15,2024-11-24,1,69.19,Vaffeljernet,1083,2,3
+10745,QUICK,9,2024-11-18,2024-12-16,2024-11-27,1,3.52,QUICK-Stop,1063,0,2
+10747,PICCO,6,2024-11-19,2024-12-17,2024-11-26,1,117.33,Piccolo und mehr,1059,3,2
+10748,SAVEA,3,2024-11-20,2024-12-18,2024-11-28,1,232.55,Save-a-lot Markets,1071,2,1
+10749,ISLAT,4,2024-11-20,2024-12-18,2024-12-19,2,61.53,Island Trading,1038,4,2
+10750,WARTH,9,2024-11-21,2024-12-19,2024-11-24,1,79.3,Wartian Herkku,1087,1,3
+10752,NORTS,2,2024-11-24,2024-12-22,2024-11-28,3,1.39,North/South,1053,1,2
+10753,FRANS,3,2024-11-25,2024-12-23,2024-11-27,1,7.7,Franchi S.p.A.,1027,4,4
+10754,MAGAA,6,2024-11-25,2024-12-23,2024-11-27,3,2.38,Magazzini Alimentari Riuniti,1049,3,3
+10755,BONAP,4,2024-11-26,2024-12-24,2024-11-28,2,16.71,Bon app'',1009,0,4
+10756,SPLIR,8,2024-11-27,2024-12-25,2024-12-02,2,73.21,Split Rail Beer & Ale,1075,3,3
+10757,SAVEA,6,2024-11-27,2024-12-25,2024-12-15,1,8.19,Save-a-lot Markets,1071,2,3
+10759,ANATR,3,2024-11-28,2024-12-26,2024-12-12,3,11.99,Ana Trujillo Emparedados y helados,1002,4,4
+10760,MAISD,4,2024-12-01,2024-12-29,2024-12-10,1,155.64,Maison Dewey,1050,3,1
+10761,RATTC,5,2024-12-02,2024-12-30,2024-12-08,2,18.66,Rattlesnake Canyon Grocery,1065,2,1
+10762,FOLKO,3,2024-12-02,2024-12-30,2024-12-09,1,328.74,Folk och fä HB,1024,3,2
+10763,FOLIG,3,2024-12-03,2024-12-31,2024-12-08,3,37.35,Folies gourmandes,1023,3,2
+10764,ERNSH,6,2024-12-03,2024-12-31,2024-12-08,3,145.45,Ernst Handel,1020,1,2
+10765,QUICK,3,2024-12-04,1998-01-01,2024-12-09,3,42.74,QUICK-Stop,1063,0,3
+10766,OTTIK,4,2024-12-05,1998-01-02,2024-12-09,1,157.55,Ottilies Käseladen,1056,4,3
+10767,SUPRD,4,2024-12-05,1998-01-02,2024-12-15,3,1.59,Suprêmes délices,1076,1,4
+10769,VAFFE,3,2024-12-08,1998-01-05,2024-12-12,1,65.06,Vaffeljernet,1083,4,1
+10770,HANAR,8,2024-12-09,1998-01-06,2024-12-17,3,5.32,Hanari Carnes,1034,4,3
+10771,ERNSH,9,2024-12-10,1998-01-07,1998-01-02,2,11.19,Ernst Handel,1020,2,3
+10772,LEHMS,3,2024-12-10,1998-01-07,2024-12-19,2,91.28,Lehmanns Marktstand,1044,3,4
+10773,ERNSH,1,2024-12-11,1998-01-08,2024-12-16,3,96.43,Ernst Handel,1020,1,3
+10774,FOLKO,4,2024-12-11,2024-12-25,2024-12-12,1,48.2,Folk och fä HB,1024,4,1
+10775,THECR,7,2024-12-12,1998-01-09,2024-12-26,1,20.25,The Cracker Box,1078,3,2
+10776,ERNSH,1,2024-12-15,1998-01-12,2024-12-18,3,351.53,Ernst Handel,1020,1,2
+10777,GOURL,7,2024-12-15,2024-12-29,1998-01-21,2,3.01,Gourmet Lanchonetes,1031,1,1
+10836,ERNSH,7,1998-01-16,1998-02-13,1998-01-21,1,411.88,Ernst Handel,1020,0,1
+10778,BERGS,3,2024-12-16,1998-01-13,2024-12-24,1,6.79,Berglunds snabbköp,1005,4,4
+10779,MORGK,3,2024-12-16,1998-01-13,1998-01-14,2,58.13,Morgenstern Gesundkost,1052,0,3
+10780,LILAS,2,2024-12-16,2024-12-30,2024-12-25,1,42.13,LILA-Supermercado,1046,2,4
+10781,WARTH,2,2024-12-17,1998-01-14,2024-12-19,3,73.16,Wartian Herkku,1087,3,1
+10782,CACTU,9,2024-12-17,1998-01-14,2024-12-22,3,1.1,Cactus Comidas para llevar,1012,3,3
+10783,HANAR,4,2024-12-18,1998-01-15,2024-12-19,2,124.98,Hanari Carnes,1034,2,1
+10784,MAGAA,4,2024-12-18,1998-01-15,2024-12-22,3,70.09,Magazzini Alimentari Riuniti,1049,2,1
+10785,GROSR,1,2024-12-18,1998-01-15,2024-12-24,3,1.51,GROSELLA-Restaurante,1033,4,2
+10786,QUEEN,8,2024-12-19,1998-01-16,2024-12-23,1,110.87,Queen Cozinha,1062,3,3
+10787,LAMAI,2,2024-12-19,1998-01-02,2024-12-26,1,249.93,La maison d''Asie,1041,3,2
+10788,QUICK,1,2024-12-22,1998-01-19,1998-01-19,2,42.7,QUICK-Stop,1063,0,3
+10789,FOLIG,1,2024-12-22,1998-01-19,2024-12-31,2,100.6,Folies gourmandes,1023,1,3
+10790,GOURL,6,2024-12-22,1998-01-19,2024-12-26,1,28.23,Gourmet Lanchonetes,1031,1,3
+10791,FRANK,6,2024-12-23,1998-01-20,1998-01-01,2,16.85,Frankenversand,1025,0,4
+10792,WOLZA,1,2024-12-23,1998-01-20,2024-12-31,3,23.79,Wolski Zajazd,1091,3,1
+10794,QUEDE,6,2024-12-24,1998-01-21,1998-01-02,1,21.49,Que Delícia,1061,2,3
+10795,ERNSH,8,2024-12-24,1998-01-21,1998-01-20,2,126.66,Ernst Handel,1020,3,1
+10796,HILAA,3,2024-12-25,1998-01-22,1998-01-14,1,26.52,HILARION-Abastos,1035,1,4
+10797,DRACD,7,2024-12-25,1998-01-22,1998-01-05,2,33.35,Drachenblut Delikatessen,1017,3,1
+10798,ISLAT,2,2024-12-26,1998-01-23,1998-01-05,1,2.33,Island Trading,1038,2,1
+10799,KOENE,9,2024-12-26,1998-02-06,1998-01-05,3,30.76,Königlich Essen,1039,3,2
+10800,SEVES,1,2024-12-26,1998-01-23,1998-01-05,3,137.44,Seven Seas Imports,1072,2,1
+10801,BOLID,4,2024-12-29,1998-01-26,2024-12-31,2,97.09,Bólido Comidas preparadas,1008,2,3
+10802,SIMOB,4,2024-12-29,1998-01-26,1998-01-02,2,257.26,Simons bistro,1073,3,3
+10803,WELLI,4,2024-12-30,1998-01-27,1998-01-06,1,55.23,Wellington Importadora,1088,1,1
+10804,SEVES,6,2024-12-30,1998-01-27,1998-01-07,2,27.33,Seven Seas Imports,1072,4,3
+10805,THEBI,2,2024-12-30,1998-01-27,1998-01-09,3,237.34,The Big Cheese,1077,3,2
+10806,VICTE,3,2024-12-31,1998-01-28,1998-01-05,2,22.11,Victuailles en stock,1084,1,1
+10807,FRANS,4,2024-12-31,1998-01-28,1998-01-30,1,1.36,Franchi S.p.A.,1027,3,4
+10808,OLDWO,2,1998-01-01,1998-01-29,1998-01-09,3,45.53,Old World Delicatessen,1055,1,1
+10809,WELLI,7,1998-01-01,1998-01-29,1998-01-07,1,4.87,Wellington Importadora,1088,4,1
+10811,LINOD,8,1998-01-02,1998-01-30,1998-01-08,1,31.22,LINO-Delicateses,1047,4,3
+10812,REGGC,5,1998-01-02,1998-01-30,1998-01-12,1,59.78,Reggiani Caseifici,1066,0,1
+10813,RICAR,1,1998-01-05,1998-02-02,1998-01-09,1,47.38,Ricardo Adocicados,1067,1,2
+10814,VICTE,3,1998-01-05,1998-02-02,1998-01-14,3,130.94,Victuailles en stock,1084,3,1
+10815,SAVEA,2,1998-01-05,1998-02-02,1998-01-14,3,14.62,Save-a-lot Markets,1071,1,1
+10816,GREAL,4,1998-01-06,1998-02-03,1998-02-04,2,719.78,Great Lakes Food Market,1032,2,3
+10817,KOENE,3,1998-01-06,1998-01-20,1998-01-13,2,306.07,Königlich Essen,1039,4,3
+10818,MAGAA,7,1998-01-07,1998-02-04,1998-01-12,3,65.48,Magazzini Alimentari Riuniti,1049,3,2
+10819,CACTU,2,1998-01-07,1998-02-04,1998-01-16,3,19.76,Cactus Comidas para llevar,1012,0,3
+10820,RATTC,3,1998-01-07,1998-02-04,1998-01-13,2,37.52,Rattlesnake Canyon Grocery,1065,3,1
+10821,SPLIR,1,1998-01-08,1998-02-05,1998-01-15,1,36.68,Split Rail Beer & Ale,1075,4,1
+10822,TRAIH,6,1998-01-08,1998-02-05,1998-01-16,3,7.0,Trail''s Head Gourmet Provisioners,1082,4,3
+10823,LILAS,5,1998-01-09,1998-02-06,1998-01-13,2,163.97,LILA-Supermercado,1046,1,2
+10824,FOLKO,8,1998-01-09,1998-02-06,1998-01-30,1,1.23,Folk och fä HB,1024,1,1
+10825,DRACD,1,1998-01-09,1998-02-06,1998-01-14,1,79.25,Drachenblut Delikatessen,1017,3,1
+10826,BLONP,6,1998-01-12,1998-02-09,1998-02-06,1,7.09,Blondel père et fils,1007,0,4
+10827,BONAP,1,1998-01-12,1998-01-26,1998-02-06,2,63.54,Bon app'',1009,3,4
+10828,RANCH,9,1998-01-13,1998-01-27,1998-02-04,1,90.85,Rancho grande,1064,2,1
+10829,ISLAT,9,1998-01-13,1998-02-10,1998-01-23,1,154.72,Island Trading,1038,2,4
+10830,TRADH,4,1998-01-13,1998-02-24,1998-01-21,2,81.83,Tradiçao Hipermercados,1081,3,1
+10831,SANTG,3,1998-01-14,1998-02-11,1998-01-23,2,72.19,Santé Gourmet,1070,3,4
+10832,LAMAI,2,1998-01-14,1998-02-11,1998-01-19,2,43.26,La maison d''Asie,1041,3,2
+10833,OTTIK,6,1998-01-15,1998-02-12,1998-01-23,2,71.49,Ottilies Käseladen,1056,2,2
+10834,TRADH,1,1998-01-15,1998-02-12,1998-01-19,3,29.78,Tradiçao Hipermercados,1081,1,2
+10835,ALFKI,1,1998-01-15,1998-02-12,1998-01-21,3,69.53,Alfred''s Futterkiste,1001,3,1
+10837,BERGS,9,1998-01-16,1998-02-13,1998-01-23,3,13.32,Berglunds snabbköp,1005,2,3
+10838,LINOD,3,1998-01-19,1998-02-16,1998-01-23,3,59.28,LINO-Delicateses,1047,4,2
+10839,TRADH,3,1998-01-19,1998-02-16,1998-01-22,3,35.43,Tradiçao Hipermercados,1081,1,2
+10840,LINOD,4,1998-01-19,1998-03-02,1998-02-16,2,2.71,LINO-Delicateses,1047,1,1
+10841,SUPRD,5,1998-01-20,1998-02-17,1998-01-29,2,424.3,Suprêmes délices,1076,1,3
+10842,TORTU,1,1998-01-20,1998-02-17,1998-01-29,3,54.42,Tortuga Restaurante,1080,2,1
+10843,VICTE,4,1998-01-21,1998-02-18,1998-01-26,2,9.26,Victuailles en stock,1084,3,4
+10844,PICCO,8,1998-01-21,1998-02-18,1998-01-26,2,25.22,Piccolo und mehr,1059,1,1
+10845,QUICK,8,1998-01-21,1998-02-04,1998-01-30,1,212.98,QUICK-Stop,1063,1,2
+10846,SUPRD,2,1998-01-22,1998-03-05,1998-01-23,3,56.46,Suprêmes délices,1076,1,2
+10847,SAVEA,4,1998-01-22,1998-02-05,1998-02-10,3,487.57,Save-a-lot Markets,1071,3,2
+10848,CONSH,7,1998-01-23,1998-02-20,1998-01-29,2,38.24,Consolidated Holdings,1016,4,1
+10849,KOENE,9,1998-01-23,1998-02-20,1998-01-30,2,0.56,Königlich Essen,1039,1,2
+10850,VICTE,1,1998-01-23,1998-03-06,1998-01-30,1,49.19,Victuailles en stock,1084,2,1
+10851,RICAR,5,1998-01-26,1998-02-23,1998-02-02,1,160.55,Ricardo Adocicados,1067,3,1
+10852,RATTC,8,1998-01-26,1998-02-09,1998-01-30,1,174.05,Rattlesnake Canyon Grocery,1065,2,1
+10853,BLAUS,9,1998-01-27,1998-02-24,1998-02-03,2,53.83,Blauer See Delikatessen,1006,2,4
+10854,ERNSH,3,1998-01-27,1998-02-24,1998-02-05,2,100.22,Ernst Handel,1020,1,2
+10855,OLDWO,3,1998-01-27,1998-02-24,1998-02-04,1,170.97,Old World Delicatessen,1055,3,1
+10856,ANTON,3,1998-01-28,1998-02-25,1998-02-10,2,58.43,Antonio Moreno Taquería,1003,2,1
+10857,BERGS,8,1998-01-28,1998-02-25,1998-02-06,2,188.85,Berglunds snabbköp,1005,1,3
+10858,LACOR,2,1998-01-29,1998-02-26,1998-02-03,1,52.51,La corne d''abondance,1040,2,1
+10859,FRANK,1,1998-01-29,1998-02-26,1998-02-02,2,76.1,Frankenversand,1025,0,4
+10860,FRANR,3,1998-01-29,1998-02-26,1998-02-04,3,19.26,France restauration,1026,1,1
+10862,LEHMS,8,1998-01-30,1998-03-13,1998-02-02,2,53.23,Lehmanns Marktstand,1044,3,1
+10863,HILAA,4,1998-02-02,1998-03-02,1998-02-17,2,30.26,HILARION-Abastos,1035,1,4
+10865,QUICK,2,1998-02-02,1998-02-16,1998-02-12,1,348.14,QUICK-Stop,1063,3,2
+10866,BERGS,5,1998-02-03,1998-03-03,1998-02-12,1,109.11,Berglunds snabbköp,1005,0,2
+10867,LONEP,6,1998-02-03,1998-03-17,1998-02-11,1,1.93,Lonesome Pine Restaurant,1048,2,1
+10868,QUEEN,7,1998-02-04,1998-03-04,1998-02-23,2,191.27,Queen Cozinha,1062,2,2
+10869,SEVES,5,1998-02-04,1998-03-04,1998-02-09,1,143.28,Seven Seas Imports,1072,2,1
+10870,WOLZA,5,1998-02-04,1998-03-04,1998-02-13,3,12.04,Wolski Zajazd,1091,1,3
+10871,BONAP,9,1998-02-05,1998-03-05,1998-02-10,2,112.27,Bon app'',1009,1,1
+10873,WILMK,4,1998-02-06,1998-03-06,1998-02-09,1,0.82,Wilman Kala,1090,1,2
+10875,BERGS,4,1998-02-06,1998-03-06,1998-03-03,2,32.37,Berglunds snabbköp,1005,1,2
+10876,BONAP,7,1998-02-09,1998-03-09,1998-02-12,3,60.42,Bon app'',1009,4,1
+10877,RICAR,1,1998-02-09,1998-03-09,1998-02-19,1,38.06,Ricardo Adocicados,1067,1,3
+10878,QUICK,4,1998-02-10,1998-03-10,1998-02-12,1,46.69,QUICK-Stop,1063,2,3
+10879,WILMK,3,1998-02-10,1998-03-10,1998-02-12,3,8.5,Wilman Kala,1090,3,4
+10880,FOLKO,7,1998-02-10,1998-03-24,1998-02-18,1,88.01,Folk och fä HB,1024,3,1
+10881,CACTU,4,1998-02-11,1998-03-11,1998-02-18,1,2.84,Cactus Comidas para llevar,1012,2,3
+10882,SAVEA,4,1998-02-11,1998-03-11,1998-02-20,3,23.1,Save-a-lot Markets,1071,3,3
+10883,LONEP,8,1998-02-12,1998-03-12,1998-02-20,3,0.53,Lonesome Pine Restaurant,1048,1,1
+10884,LETSS,4,1998-02-12,1998-03-12,1998-02-13,2,90.97,Let''s Stop N Shop,1045,4,1
+10885,SUPRD,6,1998-02-12,1998-03-12,1998-02-18,3,5.64,Suprêmes délices,1076,2,2
+10886,HANAR,1,1998-02-13,1998-03-13,1998-03-02,1,4.99,Hanari Carnes,1034,2,3
+10887,GALED,8,1998-02-13,1998-03-13,1998-02-16,3,1.25,Galería del gastronómo,1029,1,1
+10889,RATTC,9,1998-02-16,1998-03-16,1998-02-23,3,280.61,Rattlesnake Canyon Grocery,1065,3,4
+10890,DUMON,7,1998-02-16,1998-03-16,1998-02-18,1,32.76,Du monde entier,1018,3,1
+10891,LEHMS,7,1998-02-17,1998-03-17,1998-02-19,2,20.37,Lehmanns Marktstand,1044,2,4
+10892,MAISD,4,1998-02-17,1998-03-17,1998-02-19,2,120.27,Maison Dewey,1050,2,1
+10893,KOENE,9,1998-02-18,1998-03-18,1998-02-20,2,77.78,Königlich Essen,1039,2,2
+10894,SAVEA,1,1998-02-18,1998-03-18,1998-02-20,1,116.13,Save-a-lot Markets,1071,4,2
+10895,ERNSH,3,1998-02-18,1998-03-18,1998-02-23,1,162.75,Ernst Handel,1020,3,4
+10896,MAISD,7,1998-02-19,1998-03-19,1998-02-27,3,32.45,Maison Dewey,1050,4,4
+10897,HUNGO,3,1998-02-19,1998-03-19,1998-02-25,2,603.54,Hungry Owl All-Night Grocers,1037,0,3
+10898,OCEAN,4,1998-02-20,1998-03-20,1998-03-06,2,1.27,Océano Atlántico Ltda.,1054,2,1
+10899,LILAS,5,1998-02-20,1998-03-20,1998-02-26,3,1.21,LILA-Supermercado,1046,0,3
+10900,WELLI,1,1998-02-20,1998-03-20,1998-03-04,2,1.66,Wellington Importadora,1088,4,1
+10901,HILAA,4,1998-02-23,1998-03-23,1998-02-26,1,62.09,HILARION-Abastos,1035,1,4
+10902,FOLKO,1,1998-02-23,1998-03-23,1998-03-03,1,44.15,Folk och fä HB,1024,2,4
+10903,HANAR,3,1998-02-24,1998-03-24,1998-03-04,3,36.71,Hanari Carnes,1034,2,4
+10905,WELLI,9,1998-02-24,1998-03-24,1998-03-06,2,13.72,Wellington Importadora,1088,0,2
+10906,WOLZA,4,1998-02-25,1998-03-11,1998-03-03,3,26.29,Wolski Zajazd,1091,1,1
+10907,SPECD,6,1998-02-25,1998-03-25,1998-02-27,3,9.19,Spécialités du monde,1074,2,1
+10908,REGGC,4,1998-02-26,1998-03-26,1998-03-06,2,32.96,Reggiani Caseifici,1066,4,1
+10909,SANTG,1,1998-02-26,1998-03-26,1998-03-10,2,53.05,Santé Gourmet,1070,2,2
+10910,WILMK,1,1998-02-26,1998-03-26,1998-03-04,3,38.11,Wilman Kala,1090,1,2
+10912,HUNGO,2,1998-02-26,1998-03-26,1998-03-18,2,580.91,Hungry Owl All-Night Grocers,1037,4,1
+10913,QUEEN,4,1998-02-26,1998-03-26,1998-03-04,1,33.05,Queen Cozinha,1062,2,2
+10914,QUEEN,6,1998-02-27,1998-03-27,1998-03-02,1,21.19,Queen Cozinha,1062,1,2
+10915,TORTU,2,1998-02-27,1998-03-27,1998-03-02,2,3.51,Tortuga Restaurante,1080,1,1
+10916,RANCH,1,1998-02-27,1998-03-27,1998-03-09,2,63.77,Rancho grande,1064,1,1
+10917,ROMEY,4,1998-03-02,1998-03-30,1998-03-11,2,8.29,Romero y tomillo,1069,1,3
+10918,BOTTM,3,1998-03-02,1998-03-30,1998-03-11,3,48.83,Bottom-Dollar Markets,1010,2,2
+10919,LINOD,2,1998-03-02,1998-03-30,1998-03-04,2,19.8,LINO-Delicateses,1047,1,2
+10921,VAFFE,1,1998-03-03,1998-04-14,1998-03-09,1,176.48,Vaffeljernet,1083,1,3
+10922,HANAR,5,1998-03-03,1998-03-31,1998-03-05,3,62.74,Hanari Carnes,1034,3,4
+10923,LAMAI,7,1998-03-03,1998-04-14,1998-03-13,3,68.26,La maison d''Asie,1041,3,3
+10924,BERGS,3,1998-03-04,1998-04-01,1998-04-08,2,151.52,Berglunds snabbköp,1005,2,3
+10925,HANAR,3,1998-03-04,1998-04-01,1998-03-13,1,2.27,Hanari Carnes,1034,2,2
+10926,ANATR,4,1998-03-04,1998-04-01,1998-03-11,3,39.92,Ana Trujillo Emparedados y helados,1002,3,2
+10927,LACOR,4,1998-03-05,1998-04-02,1998-04-08,1,19.79,La corne d''abondance,1040,3,2
+10928,GALED,1,1998-03-05,1998-04-02,1998-03-18,1,1.36,Galería del gastronómo,1029,3,2
+10929,FRANK,6,1998-03-05,1998-04-02,1998-03-12,1,33.93,Frankenversand,1025,2,1
+10930,SUPRD,4,1998-03-06,1998-04-17,1998-03-18,3,15.55,Suprêmes délices,1076,2,4
+10932,BONAP,8,1998-03-06,1998-04-03,1998-03-24,1,134.64,Bon app'',1009,2,2
+10933,ISLAT,6,1998-03-06,1998-04-03,1998-03-16,3,54.15,Island Trading,1038,1,3
+10934,LEHMS,3,1998-03-09,1998-04-06,1998-03-12,3,32.01,Lehmanns Marktstand,1044,2,3
+10935,WELLI,4,1998-03-09,1998-04-06,1998-03-18,3,47.59,Wellington Importadora,1088,1,1
+10936,GREAL,3,1998-03-09,1998-04-06,1998-03-18,2,33.68,Great Lakes Food Market,1032,3,3
+10937,CACTU,7,1998-03-10,1998-03-24,1998-03-13,3,31.51,Cactus Comidas para llevar,1012,4,1
+10938,QUICK,3,1998-03-10,1998-04-07,1998-03-16,2,31.89,QUICK-Stop,1063,0,2
+10939,MAGAA,2,1998-03-10,1998-04-07,1998-03-13,2,76.33,Magazzini Alimentari Riuniti,1049,2,3
+10940,BONAP,8,1998-03-11,1998-04-08,1998-03-23,3,19.77,Bon app'',1009,2,1
+10941,SAVEA,7,1998-03-11,1998-04-08,1998-03-20,2,400.81,Save-a-lot Markets,1071,1,4
+10942,REGGC,9,1998-03-11,1998-04-08,1998-03-18,3,17.95,Reggiani Caseifici,1066,3,2
+10943,BSBEV,4,1998-03-11,1998-04-08,1998-03-19,2,2.17,B''s Beverages,1011,2,1
+10944,BOTTM,6,1998-03-12,1998-03-26,1998-03-13,3,52.92,Bottom-Dollar Markets,1010,4,1
+10945,MORGK,4,1998-03-12,1998-04-09,1998-03-18,1,10.22,Morgenstern Gesundkost,1052,1,2
+10946,VAFFE,1,1998-03-12,1998-04-09,1998-03-19,2,27.2,Vaffeljernet,1083,2,4
+10947,BSBEV,3,1998-03-13,1998-04-10,1998-03-16,2,3.26,B''s Beverages,1011,1,2
+10949,BOTTM,2,1998-03-13,1998-04-10,1998-03-17,3,74.44,Bottom-Dollar Markets,1010,0,1
+10950,MAGAA,1,1998-03-16,1998-04-13,1998-03-23,2,2.5,Magazzini Alimentari Riuniti,1049,2,1
+10952,ALFKI,1,1998-03-16,1998-04-27,1998-03-24,1,40.42,Alfred''s Futterkiste,1001,1,1
+10954,LINOD,5,1998-03-17,1998-04-28,1998-03-20,1,27.91,LINO-Delicateses,1047,1,3
+10955,FOLKO,8,1998-03-17,1998-04-14,1998-03-20,2,3.26,Folk och fä HB,1024,3,2
+10956,BLAUS,6,1998-03-17,1998-04-28,1998-03-20,2,44.65,Blauer See Delikatessen,1006,2,3
+10957,HILAA,8,1998-03-18,1998-04-15,1998-03-27,3,105.36,HILARION-Abastos,1035,1,3
+10958,OCEAN,7,1998-03-18,1998-04-15,1998-03-27,2,49.56,Océano Atlántico Ltda.,1054,1,4
+10959,GOURL,6,1998-03-18,1998-04-29,1998-03-23,2,4.98,Gourmet Lanchonetes,1031,0,1
+10960,HILAA,3,1998-03-19,1998-04-02,1998-04-08,1,2.08,HILARION-Abastos,1035,2,2
+10961,QUEEN,8,1998-03-19,1998-04-16,1998-03-30,1,104.47,Queen Cozinha,1062,4,2
+10962,QUICK,8,1998-03-19,1998-04-16,1998-03-23,2,275.79,QUICK-Stop,1063,0,4
+10963,FURIB,9,1998-03-19,1998-04-16,1998-03-26,3,2.7,Furia Bacalhau e Frutos do Mar,1028,4,2
+10964,SPECD,3,1998-03-20,1998-04-17,1998-03-24,2,87.38,Spécialités du monde,1074,3,1
+10965,OLDWO,6,1998-03-20,1998-04-17,1998-03-30,3,144.38,Old World Delicatessen,1055,3,2
+10967,TOMSP,2,1998-03-23,1998-04-20,1998-04-02,2,62.22,Toms Spezialitäten,1079,2,1
+10968,ERNSH,1,1998-03-23,1998-04-20,1998-04-01,3,74.6,Ernst Handel,1020,2,1
+10969,COMMI,1,1998-03-23,1998-04-20,1998-03-30,2,0.21,Comércio Mineiro,1015,2,1
+10970,BOLID,9,1998-03-24,1998-04-07,1998-04-24,1,16.16,Bólido Comidas preparadas,1008,3,2
+10971,FRANR,2,1998-03-24,1998-04-21,1998-04-02,2,121.82,France restauration,1026,4,4
+10972,LACOR,4,1998-03-24,1998-04-21,1998-03-26,2,0.02,La corne d''abondance,1040,2,3
+10973,LACOR,6,1998-03-24,1998-04-21,1998-03-27,2,15.17,La corne d''abondance,1040,3,1
+10974,SPLIR,3,1998-03-25,1998-04-08,1998-04-03,3,12.96,Split Rail Beer & Ale,1075,2,2
+10975,BOTTM,1,1998-03-25,1998-04-22,1998-03-27,3,32.27,Bottom-Dollar Markets,1010,3,3
+10976,HILAA,1,1998-03-25,1998-05-06,1998-04-03,1,37.97,HILARION-Abastos,1035,1,3
+10977,FOLKO,8,1998-03-26,1998-04-23,1998-04-10,3,208.5,Folk och fä HB,1024,1,1
+10978,MAISD,9,1998-03-26,1998-04-23,1998-04-23,2,32.82,Maison Dewey,1050,1,1
+10979,ERNSH,8,1998-03-26,1998-04-23,1998-03-31,2,353.07,Ernst Handel,1020,3,3
+10980,FOLKO,4,1998-03-27,1998-05-08,1998-04-17,1,1.26,Folk och fä HB,1024,3,2
+10981,HANAR,1,1998-03-27,1998-04-24,1998-04-02,2,193.37,Hanari Carnes,1034,0,1
+10982,BOTTM,2,1998-03-27,1998-04-24,1998-04-08,1,14.01,Bottom-Dollar Markets,1010,3,1
+10983,SAVEA,2,1998-03-27,1998-04-24,1998-04-06,2,657.54,Save-a-lot Markets,1071,3,4
+10984,SAVEA,1,1998-03-30,1998-04-27,1998-04-03,3,211.22,Save-a-lot Markets,1071,3,3
+10985,HUNGO,2,1998-03-30,1998-04-27,1998-04-02,1,91.51,Hungry Owl All-Night Grocers,1037,2,2
+10986,OCEAN,8,1998-03-30,1998-04-27,1998-04-21,2,217.86,Océano Atlántico Ltda.,1054,3,2
+10987,EASTC,8,1998-03-31,1998-04-28,1998-04-06,1,185.48,Eastern Connection,1019,0,3
+10988,RATTC,3,1998-03-31,1998-04-28,1998-04-10,2,61.14,Rattlesnake Canyon Grocery,1065,3,2
+10989,QUEDE,2,1998-03-31,1998-04-28,1998-04-02,1,34.76,Que Delícia,1061,1,1
+10990,ERNSH,2,1998-04-01,1998-05-13,1998-04-07,3,117.61,Ernst Handel,1020,2,1
+10991,QUICK,1,1998-04-01,1998-04-29,1998-04-07,1,38.51,QUICK-Stop,1063,3,1
+10992,THEBI,1,1998-04-01,1998-04-29,1998-04-03,3,4.27,The Big Cheese,1077,2,3
+10993,FOLKO,7,1998-04-01,1998-04-29,1998-04-10,3,8.81,Folk och fä HB,1024,3,1
+10994,VAFFE,2,1998-04-02,1998-04-16,1998-04-09,3,65.53,Vaffeljernet,1083,2,3
+10995,PERIC,1,1998-04-02,1998-04-30,1998-04-06,3,46.0,Pericles Comidas clásicas,1058,3,2
+10996,QUICK,4,1998-04-02,1998-04-30,1998-04-10,2,1.12,QUICK-Stop,1063,4,3
+10997,LILAS,8,1998-04-03,1998-05-15,1998-04-13,2,73.91,LILA-Supermercado,1046,3,1
+10998,WOLZA,8,1998-04-03,1998-04-17,1998-04-17,2,20.31,Wolski Zajazd,1091,1,1
+10999,OTTIK,6,1998-04-03,1998-05-01,1998-04-10,2,96.35,Ottilies Käseladen,1056,4,2
+11000,RATTC,2,1998-04-06,1998-05-04,1998-04-14,3,55.12,Rattlesnake Canyon Grocery,1065,2,4
+11001,FOLKO,2,1998-04-06,1998-05-04,1998-04-14,2,197.3,Folk och fä HB,1024,0,1
+11002,SAVEA,4,1998-04-06,1998-05-04,1998-04-16,1,141.16,Save-a-lot Markets,1071,4,1
+11003,THECR,3,1998-04-06,1998-05-04,1998-04-08,3,14.91,The Cracker Box,1078,2,1
+11004,MAISD,3,1998-04-07,1998-05-05,1998-04-20,1,44.84,Maison Dewey,1050,0,2
+11005,WILMK,2,1998-04-07,1998-05-05,1998-04-10,1,0.75,Wilman Kala,1090,3,2
+11023,BSBEV,1,1998-04-14,1998-04-28,1998-04-24,2,123.83,B''s Beverages,1011,0,4
+11024,EASTC,4,1998-04-15,1998-05-13,1998-04-20,1,74.36,Eastern Connection,1019,2,1

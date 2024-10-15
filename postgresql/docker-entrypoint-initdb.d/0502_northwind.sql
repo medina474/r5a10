@@ -1,8 +1,8 @@
 \c northwind 
 
 alter table only products
-  add foreign key (supplier_id) 
-  references suppliers;
+  add foreign key (fournisseur_id) 
+  references fournisseurs;
 
 alter table only products
   add foreign key (category_id) 
@@ -20,6 +20,9 @@ alter table only orders
   add foreign key (ship_via) 
   references shippers;
 
+alter table only orders
+  add foreign key (adresse_id) 
+  references adresses;
 
 alter table only orders
   add foreign key (livraison_methode_id) 
@@ -37,11 +40,12 @@ alter table only commande_historique
   add foreign key (commande_id) 
   references orders (order_id);
 
-alter table only suppliers
-  add foreign key (banque_id) 
+
+alter table only fournisseurs
+  add foreign key (banque_code) 
   references banques;
 
-alter table only suppliers
+alter table only fournisseurs
   add foreign key (adresse_id) 
   references adresses;
 

@@ -1,11 +1,11 @@
-"id","nom","code","adresse_id"
-1,BNP Paribas,BNPAFRPPEPL,1101
-2,Boursorama,BOUSFRPPBDF,1102
-3,Caisse d'Épargne,CEPAFRPP513,1103
-4,Crédit Agricole,AGRIFRPP861,1104
-5,LCL,CRLYFRPPRMA,1105
-6,HSBC Continental Europe,CCFRFRPP310,1106
-7,Société Générale,SOGEFRPPSTD,1107
-8,La Banque Postale Centre Financier de Nancy,PSSTFRPPNCY,1108
-9,Banque Populaire Alsace Lorraine Champagne,CCBPFRPPMTZ,1109
-10,Crédit Mutuel Strasbourg,CMCIFR2ACEE,1110
+"banque_code","nom","adresse_id"
+BNPAFRPPEPL,BNP Paribas,1101
+BOUSFRPPBDF,Boursorama,1102
+CEPAFRPP513,Caisse d'Épargne,1103
+AGRIFRPP861,Crédit Agricole,1104
+CRLYFRPPRMA,LCL,1105
+CCFRFRPP310,HSBC Continental Europe,1106
+SOGEFRPPSTD,Société Générale,1107
+PSSTFRPPNCY,La Banque Postale Centre Financier de Nancy,1108
+CCBPFRPPMTZ,Banque Populaire Alsace Lorraine Champagne,1109
+CMCIFR2ACEE,Crédit Mutuel Strasbourg,1110

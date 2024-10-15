@@ -67,9 +67,8 @@ create or replace table pays_devises
 
 create or replace table banques
 (
-  banqueId  integer,
+  banque_code  character varying(11),
   banque  character varying(50),
-  code  character varying(11),
   adresse  character varying(30),
   codepostal  character varying(8),
   ville  character varying(30)
@@ -137,7 +136,7 @@ create or replace table shippers
   Phone character varying(15)
 );
 
-create or replace table suppliers
+create or replace table fournisseurs
 (
   SupplierID integer PRIMARY KEY AUTO_INCREMENT,
   SupplierName character varying(50),
@@ -158,7 +157,7 @@ create or replace table products
   Unit character varying(25),
   Price decimal(5,2),
 	FOREIGN KEY (category_id) REFERENCES categories (category_id),
-	FOREIGN KEY (SupplierID) REFERENCES suppliers (SupplierID)
+	FOREIGN KEY (SupplierID) REFERENCES fournisseurs (SupplierID)
 );
 
 create or replace table orders

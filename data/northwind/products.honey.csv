@@ -1,4 +1,4 @@
-product_id,product_name,supplier_id,category_id,quantity_per_unit,unit_price real,units_in_stock,units_on_order,reorder_level,discontinued
+product_id,product_name,fournisseur_id,category_id,quantity_per_unit,unit_price real,units_in_stock,units_on_order,reorder_level,discontinued
 78,"The Laughing Cow",18,2,"6 boxes",29.90,
 79,"Miel fleurs sauvages",18,3,"250 g",4.9,
 80,"Miel fleurs sauvages",18,3,"500 g",9.5,

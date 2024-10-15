@@ -16,8 +16,8 @@ alter table only orders
 alter table only shippers
   add primary key (shipper_id);
 
-alter table only suppliers
-  add primary key (supplier_id);
+alter table only fournisseurs
+  add primary key (fournisseur_id);
 
 alter table only products
   add primary key (product_id);
@@ -26,4 +26,4 @@ alter table only livraison_methode
   add primary key (methode_id);
   
 alter table only banques
-  add primary key (banque_id);
+  add primary key (banque_code);

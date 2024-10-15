@@ -1,36 +1,5 @@
   --\c northwind
 
-  --DROP TABLE IF EXISTS commande_historique;
-  --DROP TABLE IF EXISTS commande_ligne;
-  --DROP TABLE IF EXISTS commande;
-  --DROP TABLE IF EXISTS livraison_methode;
-
-  --DROP TABLE IF EXISTS adherent_adresse;
-  --DROP TABLE IF EXISTS adherents;
-  --DROP TABLE IF EXISTS adresses;
-
-  
-  --DROP TABLE IF EXISTS exemplaires;
-  --DROP TABLE IF EXISTS relations;
-  --DROP TABLE IF EXISTS collections;
-  --DROP TABLE IF EXISTS incorpore;
-  --DROP TABLE IF EXISTS editions;
-  --DROP TABLE IF EXISTS participe;
-  --DROP TABLE IF EXISTS auteurs;
-  --DROP TABLE IF EXISTS oeuvres;
-  --DROP TABLE IF EXISTS editeurs;
-  --DROP TABLE IF EXISTS series;
-  --DROP TABLE IF EXISTS genres;
-  
-  
-  -- Lookup tables
-  --DROP TABLE IF EXISTS langues;
-  --DROP TABLE IF EXISTS pays;
-  --DROP TABLE IF EXISTS statuts;
-
---
--- PRAGMA integrity_check;
--- PRAGMA foreign_key_check; 
 
 CREATE TABLE langues (
   langue_id INTEGER,
@@ -56,10 +25,6 @@ CREATE TABLE statuts (
   statut TEXT
 );
 
-CREATE TABLE pays (
-  pays_id INTEGER PRIMARY KEY,
-  pays_name TEXT
-);
 
 CREATE TABLE adherents (
   adherent_id INTEGER PRIMARY KEY,
@@ -89,8 +54,6 @@ CREATE TABLE commande (
   livraison_methode_id INTEGER, -- REFERENCES livraison_methode (methode_id),
   dest_adresse_id INTEGER -- REFERENCES adresses (adresse_id)
 );
-
-
 
 CREATE TABLE commande_ligne (
   ligne_id INTEGER PRIMARY KEY,

@@ -48,19 +48,19 @@ cd /docker-entrypoint-data.d/aviation
 
 wget $host/aviation/aeroports.csv
 
-# Books
-mkdir -p /docker-entrypoint-data.d/books
-cd /docker-entrypoint-data.d/books
+# Biblio
+mkdir -p /docker-entrypoint-data.d/biblio
+cd /docker-entrypoint-data.d/biblio
 
-wget $host/books/auteurs.csv
-wget $host/books/editeurs.csv
-wget $host/books/participe.csv
-wget $host/books/oeuvres.csv
-wget $host/books/editions.csv
-wget $host/books/incorpore.csv
+wget $host/biblio/auteurs.csv
+wget $host/biblio/editeurs.csv
+wget $host/biblio/participe.csv
+wget $host/biblio/oeuvres.csv
+wget $host/biblio/editions.csv
+wget $host/biblio/incorpore.csv
 
-wget $host/books/adresses.csv
-wget $host/books/livraison_methode.csv
+wget $host/biblio/adresses.csv
+wget $host/biblio/livraison_methode.csv
 
 
 # Northwind
@@ -70,7 +70,7 @@ cd /docker-entrypoint-data.d/northwind
 wget $host/northwind/marques.csv
 wget $host/northwind/categories.csv
 wget $host/northwind/customers.csv
-wget $host/northwind/suppliers.csv
+wget $host/northwind/fournisseurs.csv
 wget $host/northwind/shippers.csv
 wget $host/northwind/banques.csv
 wget $host/northwind/products.csv

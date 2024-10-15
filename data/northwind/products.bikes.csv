@@ -1,4 +1,4 @@
-product_id,product_name,supplier_id,category_id,quantity_per_unit,unit_price real,units_in_stock,units_on_order,reorder_level,discontinued
+product_id,product_name,fournisseur_id,category_id,quantity_per_unit,unit_price real,units_in_stock,units_on_order,reorder_level,discontinued
 101,Trek 820 - 2016,9,6,2016,379.99
 104,Trek Fuel EX 8 29 - 2016,9,6,2016,2899.99
 107,Trek Slash 8 27.5 - 2016,9,6,2016,3999.99

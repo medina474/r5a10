@@ -1164,7 +1164,7 @@ INSERT INTO personnes (id, nom, prenom, genre, naissance) VALUES
 (1151, 'Caille', 'Joël', 1, '1990-10-30'),
 (1152, 'Chaillou', 'Emmanuel', 1, '1973-11-01'),
 (1153, 'Thevenin', 'Guillaume', 1, '1983-03-03'),
-(1154, 'Dos santos', 'Aimé', 1, '1975-06-13'),
+(1154, 'Dos Santos', 'Aimé', 1, '1975-06-13'),
 (1155, 'Andre', 'Noel', 1, '1984-02-26'),
 (1156, 'Ledoux', 'Jennifer', 2, '1972-06-16');
 

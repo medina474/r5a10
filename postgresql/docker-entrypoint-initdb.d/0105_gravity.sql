@@ -1,6 +1,6 @@
   --\c northwind
 
-
+/*
 CREATE TABLE langues (
   langue_id INTEGER,
   langue_code VARCHAR(5) PRIMARY KEY,
@@ -62,3 +62,4 @@ CREATE TABLE commande_ligne (
   cout NUMERIC,
   date_retour TIMESTAMP
 );
+*/

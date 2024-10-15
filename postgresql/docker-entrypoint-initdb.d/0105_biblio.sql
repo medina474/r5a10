@@ -5,6 +5,12 @@ create table biblio.auteurs (
   nom text not null
 );
 
+create table biblio.editeurs (
+  editeur_id integer,
+  editeur_nom text,
+  ville text
+);
+
 create table biblio.oeuvres (
   oeuvre_id integer,
   titre text,
@@ -15,22 +21,16 @@ create table biblio.oeuvres (
 );
 
 create table biblio.participe (
-  oeuvre_id integer not null, 
+  oeuvre_id integer not null,
   auteur_id integer not null,
   fonction text,
   alias text
   --constraint pk_oeuvreauteur primary key (oeuvre_id, auteur_id)
 );
 
-create table biblio.editeurs (
-  editeur_id integer,
-  editeur_nom text,
-  ville text
-);
-
 create table biblio.editions (
   edition_id integer,
-  editeur_id integer, 
+  editeur_id integer,
   isbn13 text,
   publication_date date,
   num_pages integer,
@@ -41,7 +41,7 @@ create table biblio.editions (
 );
 
 create table biblio.incorpore (
-  oeuvre_id integer not null, 
+  oeuvre_id integer not null,
   edition_id integer not null,
   infos json
 );

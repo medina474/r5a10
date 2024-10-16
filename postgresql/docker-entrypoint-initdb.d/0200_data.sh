@@ -69,7 +69,7 @@ cd /docker-entrypoint-data.d/ventdest
 
 wget $host/ventdest/marques.csv
 wget $host/ventdest/categories.csv
-wget $host/ventdest/customers.csv
+wget $host/ventdest/clients.csv
 wget $host/ventdest/fournisseurs.csv
 wget $host/ventdest/shippers.csv
 wget $host/ventdest/banques.csv

@@ -26,3 +26,4 @@ create extension if not exists postgis schema postgis;
 
 create schema biblio;
 create schema aviation;
+create schema fake;

@@ -83,7 +83,7 @@ create or replace table categories
   Description character varying(255)
 );
 
-create or replace table customers
+create or replace table clients
 (
   CustomerID integer,
   CustomerName character varying(100),

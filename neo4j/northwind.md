@@ -1,4 +1,4 @@
-LOAD CSV WITH HEADERS FROM 'http://caddy/northwind/customers.csv' as row
+LOAD CSV WITH HEADERS FROM 'http://caddy/ventdest/customers.csv' as row
 CREATE (n:Customer{
   customer_id:row.customer_id,
   company_name:row.company_name,
@@ -12,4 +12,3 @@ CREATE (n:Customer{
   phone:row.phone,
   fax:row.fax
   })
-

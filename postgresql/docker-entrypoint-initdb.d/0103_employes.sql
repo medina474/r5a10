@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 CREATE TABLE employes (
   employe_id integer not null,

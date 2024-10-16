@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 alter table products  
   alter column product_id 

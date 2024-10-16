@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 alter table aviation.aeroports
   add primary key (aeroport_code_icao);

@@ -1,4 +1,4 @@
-\c northwind 
+\c ventdest 
 
 alter table only aviation.aeroports
   add foreign key (pays)

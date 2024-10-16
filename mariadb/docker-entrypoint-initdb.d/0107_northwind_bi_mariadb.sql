@@ -1,4 +1,4 @@
-use northwind;
+use ventdest;
 
 -- Augmenter la limite des itérations pour cette session
 set session max_recursive_iterations = 3000;

@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 create temporary table aeroports_tmp (
   AirportID integer,

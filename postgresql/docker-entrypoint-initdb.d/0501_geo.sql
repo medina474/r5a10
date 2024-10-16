@@ -1,4 +1,4 @@
-\c northwind 
+\c ventdest 
 
 -- pays_langues -> pays
 alter table only pays_langues

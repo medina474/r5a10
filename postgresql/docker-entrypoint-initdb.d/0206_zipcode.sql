@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 create temporary table temp (
   col1 text,

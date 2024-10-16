@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 alter table pays
   add check (code2 ~ '^[a-z]{2}$');

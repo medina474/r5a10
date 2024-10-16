@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 alter table if exists biblio.auteurs
   add primary key (auteur_id);

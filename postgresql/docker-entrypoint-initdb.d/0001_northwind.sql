@@ -1,4 +1,4 @@
-create role northwind with
+create role ventdest with
   login
   nosuperuser
   nocreatedb
@@ -8,14 +8,14 @@ create role northwind with
   connection limit -1
   password 'motdepasse';
 
-drop database if exists northwind with (force);
-create database northwind;
-alter database northwind owner to northwind;
-grant connect on database northwind to northwind;
+drop database if exists ventdest with (force);
+create database ventdest;
+alter database ventdest owner to ventdest;
+grant connect on database ventdest to ventdest;
 
 create role clients_web nologin;
 
-\c northwind
+\c ventdest
 
 grant usage on schema public to clients_web;
 alter default privileges in schema public grant select on tables to clients_web;

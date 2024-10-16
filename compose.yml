@@ -314,7 +314,7 @@ services:
       - PGPORT=${POSTGRAPHILE_DB_PORT:-5432}
       - PGUSER=${POSTGRAPHILE_DB_USER:-postgraphile}
       - PGPASSWORD=${DB_PASSWORD}
-      - PGDATABASE=${DB_NAME:-northwind}
+      - PGDATABASE=${DB_NAME:-ventdest}
 
 # Oriented Documents
 

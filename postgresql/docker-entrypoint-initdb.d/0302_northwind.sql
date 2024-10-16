@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 alter table only categories
   add primary key (category_id);

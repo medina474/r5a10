@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 -- grant select on all tables in schema public to clients_web;
 
 -- PostgREST

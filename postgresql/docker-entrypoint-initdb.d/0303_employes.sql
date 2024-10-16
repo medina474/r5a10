@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 alter table only employes
   add primary key (employe_id);

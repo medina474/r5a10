@@ -1,7 +1,7 @@
 import { join } from "https://deno.land/std@0.224.0/path/mod.ts";
 import postgres from 'https://deno.land/x/postgresjs/mod.js';
 
-const sql = postgres('postgres://postgres:supermotdepasse@localhost:5432/northwind')
+const sql = postgres('postgres://postgres:supermotdepasse@localhost:5432/ventdest')
 
 // Fonction pour insérer des données dans PostgreSQL
 async function insertIntoDatabase(jsonData: object) {

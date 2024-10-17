@@ -1,4 +1,4 @@
-use northwind;
+use ventdest;
 
 INSERT INTO order_details (OrderID, ProductID, unit_price, quantity, discount) VALUES (10248, 11, 14, 12, 0);
 INSERT INTO order_details (OrderID, ProductID, unit_price, quantity, discount) VALUES (10248, 42, 9.80, 10, 0);

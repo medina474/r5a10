@@ -1,4 +1,4 @@
-use northwind;
+use ventdest;
 
 set character_set_client='utf8';
 set character_set_connection='utf8';
@@ -169,29 +169,29 @@ ignore into table regions columns terminated by ',' optionally enclosed by '"' i
 load data infile "/data/regions/us.csv"
 ignore into table regions columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind_langues.csv"
+load data infile "/data/ventdest_langues.csv"
 ignore into table langues columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind_pays_langues.csv"
+load data infile "/data/ventdest_pays_langues.csv"
 ignore into table pays_langues columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind_devises.csv"
+load data infile "/data/ventdest_devises.csv"
 ignore into table devises columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind_banques.csv"
+load data infile "/data/ventdest_banques.csv"
 ignore into table banques columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind/shippers.csv"
+load data infile "/data/ventdest/shippers.csv"
 ignore into table shippers columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind_marque.csv"
+load data infile "/data/ventdest_marque.csv"
 ignore into table marques columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind_customers.csv"
+load data infile "/data/ventdest_customers.csv"
 ignore into table customers columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind_products.csv"
+load data infile "/data/ventdest_products.csv"
 ignore into table products columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/northwind_orders.csv"
+load data infile "/data/ventdest_orders.csv"
 ignore into table orders columns terminated by ',' optionally enclosed by '"' ignore 1 lines;

@@ -63,28 +63,28 @@ wget $host/biblio/adresses.csv
 wget $host/biblio/livraison_methode.csv
 
 
-# Northwind
-mkdir -p /docker-entrypoint-data.d/northwind
-cd /docker-entrypoint-data.d/northwind
+# Vent d'Est
+mkdir -p /docker-entrypoint-data.d/ventdest
+cd /docker-entrypoint-data.d/ventdest
 
-wget $host/northwind/marques.csv
-wget $host/northwind/categories.csv
-wget $host/northwind/customers.csv
-wget $host/northwind/fournisseurs.csv
-wget $host/northwind/shippers.csv
-wget $host/northwind/banques.csv
-wget $host/northwind/products.csv
-wget $host/northwind/orders.csv
-wget $host/northwind/marques.csv
-wget $host/northwind/order_details.csv
+wget $host/ventdest/marques.csv
+wget $host/ventdest/categories.csv
+wget $host/ventdest/customers.csv
+wget $host/ventdest/fournisseurs.csv
+wget $host/ventdest/shippers.csv
+wget $host/ventdest/banques.csv
+wget $host/ventdest/products.csv
+wget $host/ventdest/orders.csv
+wget $host/ventdest/marques.csv
+wget $host/ventdest/order_details.csv
 
-mkdir -p /docker-entrypoint-data.d/northwind/employes
-cd /docker-entrypoint-data.d/northwind/employes
+mkdir -p /docker-entrypoint-data.d/ventdest/employes
+cd /docker-entrypoint-data.d/ventdest/employes
 
-wget $host/northwind/employes/zones.csv
-wget $host/northwind/employes/zone_regions.csv
-wget $host/northwind/employes/employes.csv
-wget $host/northwind/employes/employe_regions.csv
+wget $host/ventdest/employes/zones.csv
+wget $host/ventdest/employes/zone_regions.csv
+wget $host/ventdest/employes/employes.csv
+wget $host/ventdest/employes/employe_regions.csv
 
 mkdir -p /docker-entrypoint-data.d/postal
 cd /docker-entrypoint-data.d/postal

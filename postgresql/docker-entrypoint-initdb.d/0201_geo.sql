@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 \copy pays (code2, code3, code_num, pays, drapeau_unicode, forme_longue) from '/docker-entrypoint-data.d/geo/pays.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 

@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 create table biblio.auteurs (
   auteur_id integer,

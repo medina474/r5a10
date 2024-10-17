@@ -1,5 +1,5 @@
-create schema northwind;
-use northwind;
+create schema ventdest;
+use ventdest;
 
 start transaction;
 

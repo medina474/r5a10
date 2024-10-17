@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 create table codepostal (
   code_insee character(5),

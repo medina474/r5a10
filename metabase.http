@@ -35,7 +35,7 @@ X-Metabase-Session: 12507a99-bdee-4e3a-8897-66e7761c0951
 
 {
   "engine":"postgres",
-  "name":"northwind",
+  "name":"ventdest",
   "is_on_demand":false,
   "is_full_sync":true,
   "is_sample":false,
@@ -46,7 +46,7 @@ X-Metabase-Session: 12507a99-bdee-4e3a-8897-66e7761c0951
   "details":{
     "host":"postgresql",
     "port":null,
-    "dbname":"northwind",
+    "dbname":"ventdest",
     "user":"postgres",
     "password":"supermotdepasse",
     "ssl":false,

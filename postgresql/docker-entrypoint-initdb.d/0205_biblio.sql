@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 \copy biblio.auteurs from '/docker-entrypoint-data.d/biblio/auteurs.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy biblio.oeuvres from '/docker-entrypoint-data.d/biblio/oeuvres.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');

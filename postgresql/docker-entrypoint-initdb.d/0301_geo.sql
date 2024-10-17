@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 alter table pays
   add primary key (code2);

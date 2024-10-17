@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 alter table biblio.participe
   add foreign key (auteur_id) 

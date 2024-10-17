@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 create table categories (
   category_id integer not null,
@@ -102,4 +102,4 @@ create table banques (
   adresse_id  integer
 );
 
-select '=============== FIN STRUCTURE Northwind' as msg;
+select '=============== FIN STRUCTURE VENT D''EST' as msg;

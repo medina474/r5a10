@@ -1,4 +1,4 @@
-\c northwind 
+\c ventdest 
 
 alter table only products
   add foreign key (fournisseur_id) 

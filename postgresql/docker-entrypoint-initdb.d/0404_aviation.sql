@@ -1,4 +1,4 @@
-\c northwind
+\c ventdest
 
 create unique index aeroports_aeroport_code_iata_idx
   on aviation.aeroports (aeroport_code_iata);

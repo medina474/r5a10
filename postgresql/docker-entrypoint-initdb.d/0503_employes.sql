@@ -1,4 +1,4 @@
-\c northwind 
+\c ventdest 
 
 alter table only employe_regions
   add foreign key (employe_id) 

@@ -1,0 +1,481 @@
+﻿nom,popularite,pays
+Jansen,1695969,nl
+De Jong,1619399,nl
+De Vries,1540073,nl
+Jans,1293894,nl
+Janssen,1141635,nl
+Bakker,1113099,nl
+Van Dijk,1080462,nl
+Jacobs,1011445,nl
+Van Den Berg,966351,nl
+Visser,959782,nl
+Smit,959226,nl
+Meijer,829711,nl
+Willems,814671,nl
+Mulder,804002,nl
+De Groot,786303,nl
+De Boer,773036,nl
+Vos,746505,nl
+Bos,723087,nl
+Peeters,714974,nl
+Hendriks,700125,nl
+Vermeulen,674749,nl
+Peters,672487,nl
+Smits,664353,nl
+Dekker,581560,nl
+De Wit,539079,nl
+Janssens,530755,nl
+Brouwer,528214,nl
+Verhoeven,522906,nl
+Pieters,505954,nl
+Van Den Heuvel,504044,nl
+Van Leeuwen,494490,nl
+Martens,483893,nl
+Wouters,472244,nl
+Van Der Linden,469821,nl
+Maes,448290,nl
+Dijkstra,446627,nl
+De Bruijn,443614,nl
+De Vos,440071,nl
+De Graaf,427916,nl
+Maas,409943,nl
+Kok,408337,nl
+Van Loon,407194,nl
+Hermans,405900,nl
+Van Der Heijden,399961,nl
+Timmermans,393195,nl
+Goossens,391670,nl
+De Haan,389713,nl
+Van Den Broek,381910,nl
+Mertens,372052,nl
+De Jonge,368058,nl
+Dubois,360091,nl
+Van Der Meer,352591,nl
+Van Der Veen,349566,nl
+Koster,348229,nl
+Schouten,335421,nl
+Geerts,335289,nl
+Stevens,332991,nl
+Blom,329453,nl
+Prins,322891,nl
+Van Beek,321389,nl
+Van Dam,320892,nl
+Van De Ven,317929,nl
+Lambert,315169,nl
+Cornelis,302106,nl
+Gerrits,300926,nl
+Aerts,299300,nl
+De Bruin,297180,nl
+Kuiper,295918,nl
+Claes,293514,nl
+Sanders,289279,nl
+Van Veen,282291,nl
+Van Wijk,276388,nl
+Kuipers,275588,nl
+Kramer,274076,nl
+Van Dongen,272490,nl
+Van Den Bosch,270379,nl
+Boer,270287,nl
+Van Vliet,267205,nl
+Simons,266553,nl
+Huisman,266208,nl
+Bosch,263925,nl
+Hoekstra,263894,nl
+De Leeuw,263658,nl
+Van Der Wal,262940,nl
+Muller,262820,nl
+Koning,254392,nl
+Dupont,251733,nl
+Scholten,249663,nl
+Willemsen,247647,nl
+Groen,246300,nl
+Post,245513,nl
+Van,240554,nl
+Pauwels,240129,nl
+Roos,240020,nl
+De Smet,239443,nl
+De Ridder,236936,nl
+De Rooij,236028,nl
+Vink,235695,nl
+Martin,232093,nl
+Mol,230846,nl
+Hofman,229821,nl
+Van De Velde,229719,nl
+Jonker,229687,nl
+Van Der Meulen,227187,nl
+Bosman,227020,nl
+Kuijpers,226688,nl
+Brouwers,225525,nl
+De Lange,225117,nl
+Thomas,224682,nl
+Leclercq,224478,nl
+Boon,224268,nl
+Gerard,222463,nl
+Cornelissen,221028,nl
+Gerritsen,220535,nl
+De Koning,218982,nl
+Verhagen,218699,nl
+Postma,216187,nl
+Evers,215607,nl
+Van Der Laan,214446,nl
+Van Der Velden,213885,nl
+Jansz,213671,nl
+Van Der Horst,213335,nl
+Dekkers,212615,nl
+De Wilde,210228,nl
+Lefebvre,209237,nl
+Michiels,209003,nl
+Veenstra,208526,nl
+Wolters,207830,nl
+Francois,207690,nl
+De Haas,207338,nl
+Schipper,206526,nl
+Harms,205696,nl
+Alberts,202543,nl
+Joosten,202502,nl
+De Jongh,202432,nl
+Hendrickx,202189,nl
+Lemmens,202178,nl
+Van Es,201670,nl
+Van Rooij,201490,nl
+Dumont,201340,nl
+Smeets,200555,nl
+Molenaar,200351,nl
+Verbeek,200093,nl
+Simon,198683,nl
+Van Den Bergh,197369,nl
+Segers,196455,nl
+Van Hoof,196155,nl
+De Ruiter,193744,nl
+Vermeer,190326,nl
+Van Damme,189441,nl
+Roelofs,189294,nl
+Groot,187615,nl
+Schaap,186680,nl
+Leroy,186527,nl
+Driessen,185713,nl
+Timmerman,185674,nl
+Verhulst,184622,nl
+Timmer,184148,nl
+Van Gils,183856,nl
+Van Driel,182743,nl
+Stam,182108,nl
+Otten,181584,nl
+Van Doorn,181316,nl
+Groeneveld,180764,nl
+De Winter,179723,nl
+Kroon,179689,nl
+Coppens,177740,nl
+Buijs,177393,nl
+Aarts,176623,nl
+Jager,176176,nl
+Smets,174708,nl
+Laurent,174387,nl
+Renard,172910,nl
+Franken,172146,nl
+Van Den Broeck,171916,nl
+Derks,171407,nl
+Blok,170998,nl
+Rutten,170805,nl
+Faber,170762,nl
+Denis,169100,nl
+Bertrand,168549,nl
+Petit,165998,nl
+Snijders,165045,nl
+Klein,163795,nl
+Noel,163309,nl
+Vissers,163273,nl
+Van Der Werf,163038,nl
+Charlier,162430,nl
+De Bie,162386,nl
+Hindriks,162002,nl
+Koopman,161863,nl
+Devos,161376,nl
+Carlier,161330,nl
+Damen,161009,nl
+Fontaine,160810,nl
+Van Eck,159587,nl
+Van Gelder,158846,nl
+Lammers,157920,nl
+Bouman,157719,nl
+Cools,157299,nl
+Robert,157134,nl
+Bouwman,156217,nl
+Van Der Velde,156058,nl
+Versteeg,155043,nl
+Evrard,152669,nl
+De Jager,152526,nl
+De Backer,152393,nl
+Van Os,152012,nl
+Hartman,151970,nl
+Adam,151152,nl
+Schellekens,150794,nl
+Smulders,150351,nl
+Klaassen,150129,nl
+Lejeune,150098,nl
+Cohen,149727,nl
+Fransen,149635,nl
+Van Lieshout,149301,nl
+Beckers,148771,nl
+Konings,148675,nl
+De Ruijter,148290,nl
+Zijlstra,147945,nl
+Van Rijn,147100,nl
+Bosma,147087,nl
+Bijl,146928,nl
+Baert,146453,nl
+Geurts,146017,nl
+Michel,145956,nl
+Mathieu,145902,nl
+Mahieu,145730,nl
+Van Alphen,145263,nl
+Verweij,145233,nl
+Hubert,144873,nl
+Janse,144354,nl
+Van Den Brink,143935,nl
+Engels,143783,nl
+Verschoor,143045,nl
+Van Eijk,143006,nl
+Willemse,142390,nl
+Claeys,141898,nl
+Teunissen,140463,nl
+Thijssen,140227,nl
+Moreau,140148,nl
+Van Der Steen,139778,nl
+Van Dalen,138415,nl
+Baas,137996,nl
+Wauters,137974,nl
+Bernard,137322,nl
+De Beer,135984,nl
+Desmet,135551,nl
+Engelen,135028,nl
+Zwart,135013,nl
+Van Dijck,134827,nl
+Schuurman,134746,nl
+Venema,134648,nl
+Vonk,134565,nl
+De,134522,nl
+Kool,134200,nl
+Hoek,133368,nl
+Andre,133339,nl
+Berends,132950,nl
+Schepers,132839,nl
+Visscher,132274,nl
+Swart,132262,nl
+Somers,131980,nl
+Mulders,131914,nl
+Daniels,131697,nl
+De Cock,131314,nl
+De Wolf,131308,nl
+Arends,130678,nl
+Andries,130388,nl
+Lauwers,130295,nl
+Boersma,129617,nl
+Reinders,129001,nl
+Lebrun,128082,nl
+De Roo,127964,nl
+Descamps,127843,nl
+Van Der Aa,127741,nl
+Lemaire,127026,nl
+Van Berkel,126797,nl
+Meijers,126570,nl
+Lambrechts,126456,nl
+Leemans,126218,nl
+Bastin,125988,nl
+Arts,125772,nl
+Van Schaik,125616,nl
+Van Gestel,125488,nl
+De Clercq,124929,nl
+Clement,124902,nl
+Jaspers,124057,nl
+Pronk,123839,nl
+Henry,123343,nl
+Ooms,123331,nl
+Leonard,123156,nl
+Schreurs,123050,nl
+Schut,122915,nl
+Verschueren,122704,nl
+Hendrix,122616,nl
+Van Vugt,122346,nl
+Lefevre,122267,nl
+Koopmans,122218,nl
+Michaux,122029,nl
+De Man,121964,nl
+Van Hout,121845,nl
+Van Bergen,121552,nl
+Vervoort,120729,nl
+Herman,120532,nl
+Wessels,120385,nl
+Verheijen,120300,nl
+Brand,120171,nl
+Stolk,119938,nl
+Brands,119895,nl
+Coenen,119783,nl
+Verhoef,119596,nl
+Everts,118964,nl
+Servais,118728,nl
+Van Hees,118680,nl
+Toussaint,118216,nl
+Verbruggen,117973,nl
+Schippers,117620,nl
+Keizer,117615,nl
+Deckers,117532,nl
+Rietveld,117529,nl
+Timmers,117263,nl
+Legrand,117033,nl
+Tromp,116963,nl
+Wiersma,116932,nl
+Vandenberghe,116903,nl
+Bogaert,116876,nl
+Boom,116775,nl
+De Pauw,116748,nl
+Lucas,116528,nl
+Claessens,115955,nl
+De Kort,115809,nl
+Van Der Heide,115766,nl
+De Visser,115721,nl
+Smolders,115430,nl
+Van Pelt,115406,nl
+Van Egmond,114918,nl
+Van Der Molen,114750,nl
+Delvaux,114733,nl
+Bogaerts,114662,nl
+Van Ham,114570,nl
+Van Erp,114352,nl
+De Moor,114212,nl
+De Waal,114183,nl
+De Kok,114145,nl
+Mercier,114143,nl
+Brink,114132,nl
+Bartels,114126,nl
+Houben,113879,nl
+Michielsen,113841,nl
+Wagenaar,113778,nl
+Van De Laar,113713,nl
+De Bruyn,113671,nl
+Brinkman,113469,nl
+Albers,113387,nl
+Gregoire,113282,nl
+Polak,113130,nl
+Van Iersel,112885,nl
+Jacques,112749,nl
+Van Kessel,112637,nl
+Nijenhuis,112583,nl
+De Witte,112425,nl
+Van Rijswijk,111751,nl
+Meert,111553,nl
+Hollander,111483,nl
+Van Essen,111233,nl
+Vandamme,111022,nl
+Van Den Akker,111004,nl
+Schoenmakers,110934,nl
+Pot,110608,nl
+Wijnen,110443,nl
+Deprez,110267,nl
+Van Rossum,110077,nl
+Dirks,110056,nl
+Vis,109929,nl
+Staal,109808,nl
+Parmentier,109759,nl
+Thiry,109635,nl
+Jonkers,109359,nl
+Huizinga,109334,nl
+Berger,109330,nl
+Lievens,109208,nl
+Manders,108904,nl
+Oomen,108902,nl
+Goffin,108624,nl
+Gillet,108281,nl
+Franssen,108262,nl
+Moens,108205,nl
+Veldman,107227,nl
+Van Der Linde,106991,nl
+Knol,106977,nl
+Van Aken,106845,nl
+Schreuder,106500,nl
+Van Den Bossche,106494,nl
+Thijs,106361,nl
+Claessen,106284,nl
+De Graaff,106238,nl
+Hartog,105936,nl
+Bouma,105616,nl
+Van De Wiel,105295,nl
+Boers,105270,nl
+Van Den Bos,105049,nl
+Kooij,104852,nl
+Collard,104786,nl
+Van Mierlo,104619,nl
+Van Loo,104538,nl
+Gielen,104263,nl
+Van Son,104219,nl
+Van Zanten,104046,nl
+Terpstra,103922,nl
+Kersten,103832,nl
+Van Riel,103479,nl
+Nijs,103039,nl
+Van Der Ploeg,102975,nl
+Marchal,102949,nl
+Vermeersch,102900,nl
+Feenstra,102853,nl
+Frere,102824,nl
+Van Der Woude,102739,nl
+Hamers,102395,nl
+Derksen,102304,nl
+Steenbergen,102189,nl
+Heijnen,102166,nl
+Valk,102059,nl
+Van Oosten,102030,nl
+Bosmans,102009,nl
+Van Der Hoeven,101990,nl
+Smet,101854,nl
+Koops,101850,nl
+Guillaume,101805,nl
+Bruins,101741,nl
+Van Der Sluis,101653,nl
+Verstraete,101532,nl
+Boonstra,101465,nl
+Theunissen,101373,nl
+Lenaerts,101202,nl
+Van Gorp,100895,nl
+Moonen,100786,nl
+Moerman,100337,nl
+Verbeke,99990,nl
+Kooijman,99975,nl
+Verlinden,99877,nl
+Beekman,99704,nl
+Bauwens,99486,nl
+De Greef,99241,nl
+Drenth,99189,nl
+Van Esch,99177,nl
+Cornet,99078,nl
+Van Der Meijden,99004,nl
+Van Hove,98981,nl
+Leenders,98899,nl
+Marechal,98849,nl
+Rousseau,98721,nl
+De Klerk,98688,nl
+Lamers,98411,nl
+Dujardin,98383,nl
+Burgers,98270,nl
+Veen,97977,nl
+Kremer,97894,nl
+Bax,97710,nl
+Van Der Veer,97588,nl
+Vogels,97521,nl
+Urbain,97494,nl
+Lecomte,97387,nl
+Adams,97202,nl
+Kamphuis,97075,nl
+Troost,97051,nl
+Roland,97032,nl
+Poncelet,96819,nl
+Baars,96629,nl
+Kuijper,96340,nl
+Van Santen,96121,nl
+Van Mourik,95989,nl
+Van Der Zee,95760,nl
+Melis,95703,nl
+Klomp,95639,nl
+Van De Sande,95526,nl
+Harmens,95445,nl
+Swinkels,95441,nl

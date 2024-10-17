@@ -2,10 +2,27 @@
 
 host=http://caddy
 
-mkdir -p /docker-entrypoint-data.d/geo
-cd /docker-entrypoint-data.d/geo
+# Fake
+
+mkdir -p /docker-entrypoint-data.d/fake
+cd /docker-entrypoint-data.d/fake
+
+wget $host/fake/personnes.csv
+wget $host/fake/noms.fr.csv
+wget $host/fake/noms.gb.csv
+wget $host/fake/noms.de.csv
+wget $host/fake/noms.it.csv
+wget $host/fake/noms.es.csv
+wget $host/fake/noms.pt.csv
+wget $host/fake/noms.nl.csv
+wget $host/fake/noms.se.csv
+wget $host/fake/prenoms.csv
+wget $host/fake/pyramide.csv
 
 # Geo
+
+mkdir -p /docker-entrypoint-data.d/geo
+cd /docker-entrypoint-data.d/geo
 
 wget $host/geo/pays.csv
 wget $host/geo/pays-es.txt

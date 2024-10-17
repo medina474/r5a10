@@ -30,3 +30,9 @@ create table fake.prenoms (
   prenom text,
   sexe smallint
 );
+
+create table fake.pyramide (
+  annee smallint,
+  sexe smallint,
+  nombre int
+);

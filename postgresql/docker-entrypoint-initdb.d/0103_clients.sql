@@ -21,9 +21,12 @@ create table fake.personnes (
 );
 
 create table fake.noms (
-  nom text
+  nom text,
+  popularite int,
+  pays text
 );
 
 create table fake.prenoms (
-  prenom text
+  prenom text,
+  sexe smallint
 );

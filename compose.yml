@@ -434,13 +434,13 @@ services:
       FERRETDB_TELEMETRY: disable
 
 # Age Viewer
-  age_viewer:
-    container_name: r5a10-age_viewer
-    tty: true
-    build:
-      context: ./age-viewer
-    depends_on:
-      - postgresql
-    ports:
-      - 3000:3000
-    command: npm run start
+  # age_viewer:
+  #   container_name: r5a10-age_viewer
+  #   tty: true
+  #   build:
+  #     context: ./age-viewer
+  #   depends_on:
+  #     - postgresql
+  #   ports:
+  #     - 3000:3000
+  #   command: npm run start

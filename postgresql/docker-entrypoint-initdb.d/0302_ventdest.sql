@@ -3,7 +3,7 @@
 alter table only categories
   add primary key (category_id);
 
-alter table only customers
+alter table only clients
   add primary key (customer_id);
 
 alter table only order_details

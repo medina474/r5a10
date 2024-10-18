@@ -10,7 +10,7 @@ alter table only products
 
 alter table only orders
   add foreign key (customer_id) 
-  references customers;
+  references clients;
 
 alter table only orders
   add foreign key (employe_id) 
@@ -53,6 +53,6 @@ alter table only banques
   add foreign key (adresse_id) 
   references adresses;
 
-alter table only customers
+alter table only clients
   add foreign key (adresse_id) 
   references adresses (adresse_id);

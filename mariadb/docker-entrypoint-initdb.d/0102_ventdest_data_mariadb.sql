@@ -187,8 +187,8 @@ ignore into table shippers columns terminated by ',' optionally enclosed by '"' 
 load data infile "/data/ventdest_marque.csv"
 ignore into table marques columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
-load data infile "/data/ventdest_customers.csv"
-ignore into table customers columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
+load data infile "/data/ventdest_clients.csv"
+ignore into table clients columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
 load data infile "/data/ventdest_products.csv"
 ignore into table products columns terminated by ',' optionally enclosed by '"' ignore 1 lines;

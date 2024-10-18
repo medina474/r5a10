@@ -11,3 +11,6 @@ with r as (select random() as rnd)
 where cumulative >= r.rnd
 order by cumulative
 fetch first 1 rows only
+
+
+

@@ -13,3 +13,4 @@ update orders set order_date = order_date + INTERVAL '3 years',
 update fake.personnes set
   nom = null
   from fake.noms n where n.nom = fake.personnes.nom
+

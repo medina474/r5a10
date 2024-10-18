@@ -39,8 +39,13 @@ with
   	from fake.pyramide where annee > $1 and annee < $2) 
 select annee, sexe
  from a, c, t
- where cumulative_sum >= a.r * t.total_sum 
+ where cumulative_sum >= a.r * t.total_sum  out annee int, out sexe smallint)
  limit 1;
 $$ LANGUAGE sql;
 
-
+create function fake_personne(in text, in int, in int, out nom text, out annee int, out sexe smallint) as $$
+with
+a as (select annee, sexe from fake_annee($2, $3)),
+nom as (select fake_nom($1))
+select fake_nom, annee, sexe from a, nom
+$$ LANGUAGE sql;

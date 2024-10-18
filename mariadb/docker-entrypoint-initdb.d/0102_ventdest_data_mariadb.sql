@@ -72,7 +72,7 @@ load data infile "/data/ventdest/clients.csv"
 ignore into table tiers columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
 
-load data infile "/data/geo/pays.csv"
+load data infile "/data/geo/regions.csv"
 ignore into table pays columns terminated by ',' optionally enclosed by '"' ignore 1 lines;
 
 load data infile "/data/regions/at.csv"

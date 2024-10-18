@@ -15,7 +15,7 @@ create table marques (
 CREATE TABLE products (
   product_id integer not null,
   product_name text not null,
-  fournisseur_id integer,
+  fournisseur_id text,
   category_id integer,
   quantity_per_unit character varying(20),
   unit_price real,

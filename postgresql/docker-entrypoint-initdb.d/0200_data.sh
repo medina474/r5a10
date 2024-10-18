@@ -36,7 +36,7 @@ wget $host/geo/worldcities.csv
 mkdir -p /docker-entrypoint-data.d/regions
 cd /docker-entrypoint-data.d/regions
 
-wget $host/regions/pays.csv
+wget $host/regions/regions.csv
 wget $host/regions/at.csv
 wget $host/regions/au.csv
 wget $host/regions/be.csv

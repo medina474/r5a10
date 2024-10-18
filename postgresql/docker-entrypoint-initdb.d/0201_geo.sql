@@ -30,7 +30,7 @@ drop table pays_tmp;
 
 select '=============== FIN IMPORTATION DATA GEO' as msg;
 
-\copy regions FROM '/docker-entrypoint-data.d/regions/pays.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy regions FROM '/docker-entrypoint-data.d/regions/regions.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy regions FROM '/docker-entrypoint-data.d/regions/at.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy regions FROM '/docker-entrypoint-data.d/regions/au.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy regions FROM '/docker-entrypoint-data.d/regions/be.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
@@ -80,7 +80,7 @@ from villes_tmp;
 update villes 
   set admin_name = r.region_code 
   from  regions r 
-  where region_parent = villes.pays_code 
+  where hierarchie = villes.pays_code 
     and region = villes.admin_name;
 
 drop table villes_tmp;

@@ -26,11 +26,15 @@ comment on column pays.code_num
 
 create table regions (
   region_code character varying(6),
-  region_parent character varying(6),
+  hierarchie ltree,
   region text not null,
   division text,
   capitale text
 );
+
+comment on column regions.region_code 
+  is 'UN Standard country or area codes for statistical use (M49)';
+
 
 -- langues
 

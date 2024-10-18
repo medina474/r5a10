@@ -39,7 +39,7 @@ with
   	from fake.pyramide where annee > $1 and annee < $2) 
 select annee, sexe
  from a, c, t
- where cumulative_sum >= a.r * t.total_sum  out annee int, out sexe smallint)
+ where cumulative_sum >= a.r * t.total_sum
  limit 1;
 $$ LANGUAGE sql;
 

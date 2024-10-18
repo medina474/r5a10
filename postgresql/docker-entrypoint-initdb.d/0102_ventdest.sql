@@ -12,9 +12,6 @@ create table marques (
   marque text not null
 );
 
-
-
-
 CREATE TABLE products (
   product_id integer not null,
   product_name text not null,
@@ -53,7 +50,7 @@ CREATE TABLE orders (
   livraison_methode_id integer
 );
 
-create type commande_statut as enum 
+create type commande_statut as enum
   ('réservé', 'commande reçue', 'en attente de livraison', 'livraison en cours', 'livré', 'annulé', 'retourné', 'remboursé');
 
 create table commande_historique (
@@ -73,18 +70,6 @@ create table shippers (
   shipper_id integer not null,
   company_name text not null,
   phone character varying(24)
-);
-
--- suppliers
-create table fournisseurs (
-  fournisseur_id integer not null,
-  company_name text not null,
-  contact_name text,
-  contact_title text,
-  adresse_id integer,
-  phone text,
-  fax text,
-  banque_code text
 );
 
 create table banques (

@@ -1,16 +1,16 @@
 \c ventdest
 
-alter table if exists biblio.auteurs
+alter table biblio.auteurs
   add primary key (auteur_id);
 
-alter table if exists biblio.oeuvres
+alter table biblio.oeuvres
   add primary key (oeuvre_id);
 
-alter table if exists biblio.editeurs
+alter table biblio.editeurs
   add primary key (editeur_id);
 
-alter table if exists biblio.editions
+alter table biblio.editions
   add primary key (edition_id);
 
-alter table if exists biblio.exemplaires
+alter table biblio.exemplaires
   add primary key (exemplaire_id);

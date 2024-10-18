@@ -83,7 +83,7 @@ create or replace table categories
   Description character varying(255)
 );
 
-create or replace table clients
+create or replace table tiers
 (
   CustomerID integer,
   CustomerName character varying(100),
@@ -92,8 +92,8 @@ create or replace table clients
   City character varying(20),
   PostalCode character varying(10),
   Country character varying(15)
+  Phone character varying(15)
 );
-
 
 create table marques (
   marque_id integer,
@@ -136,17 +136,6 @@ create or replace table shippers
   Phone character varying(15)
 );
 
-create or replace table fournisseurs
-(
-  SupplierID integer PRIMARY KEY AUTO_INCREMENT,
-  SupplierName character varying(50),
-  ContactName character varying(50),
-  Address character varying(50),
-  City character varying(20),
-  PostalCode character varying(10),
-  Country character varying(15),
-  Phone character varying(15)
-);
 
 create or replace table products
 (
@@ -157,7 +146,7 @@ create or replace table products
   Unit character varying(25),
   Price decimal(5,2),
 	FOREIGN KEY (category_id) REFERENCES categories (category_id),
-	FOREIGN KEY (SupplierID) REFERENCES fournisseurs (SupplierID)
+	FOREIGN KEY (SupplierID) REFERENCES tiers (SupplierID)
 );
 
 create or replace table orders

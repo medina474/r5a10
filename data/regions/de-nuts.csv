@@ -1,0 +1,56 @@
+de-14a,de-14,Neckar-Alb,region
+de-14b,de-14,Bodensee-Oberschwaben,region
+de-14c,de-14,Donau-Iller,region
+de-141-RT,de-14c,Reutlingen,Landkreise
+de-142-TÜ,de-14c,Tübingen,Landkreise
+de-143-BL,de-14c,Zollernalb,Landkreise
+de-144-UL,de-14c,Ulm,kreisfreie Städte
+de-145-UL,de-14c,Arrondissement d'Alb-Danube,Landkreise
+de-146-BC,de-14c,Biberach,Landkreise
+de-148-RV,de-14c,Ravensbourg,Landkreise
+de-17-fn,de-14b Arrondissement du Lac de Constance,Landkreise
+de-149-SIG : Sigmaringen,Landkreise
+
+https://fr.wikipedia.org/wiki/Bade-Wurtemberg
+https://fr.wikipedia.org/wiki/Liste_des_r%C3%A9gions_NUTS_d%27Allemagne
+
+
+    BAD : Baden-Baden,kreisfreie Städte
+    FR : Fribourg-en-Brisgau,kreisfreie Städte
+    HD : Heidelberg,kreisfreie Städte
+    HN : Heilbronn,kreisfreie Städte
+    KA : Karlsruhe,kreisfreie Städte
+    MA : Mannheim,kreisfreie Städte
+    PF : Pforzheim,kreisfreie Städte
+    S : Stuttgart,kreisfreie Städte
+
+
+    BB : Böblingen,Landkreise
+    FR : Brisgau-Haute-Forêt-Noire,Landkreise
+    CW : Calw,Landkreise
+    EM : Arrondissement d'Emmendingen,Landkreise
+    PF : Arrondissement d'Enz,Landkreise
+    ES : Arrondissement d'Esslingen,Landkreise
+    FDS : Freudenstadt,Landkreise
+    GP : Göppingen,Landkreise
+    HDH : Heidenheim,Landkreise
+
+    HN : Heilbronn,Landkreise
+    KÜN : Hohenlohe,Landkreise
+    KA : Karlsruhe,Landkreise
+    KN : Constance,Landkreise
+    LÖ : Lörrach,Landkreise
+    LB : Ludwigsbourg,Landkreise
+    TBB : Main-Tauber,Landkreise
+    MOS : Neckar-Odenwald,Landkreise
+    OG : l'Ortenau,Landkreise
+    AA : Arrondissement d'Ostalb,Landkreise
+    RA : Rastatt,Landkreise
+
+	  WN : Rems-Murr,Landkreise
+    HD : Rhin-Neckar,Landkreise
+    RW : Rottweil,Landkreise
+    SHA : Schwäbisch Hall,Landkreise
+    VS : Forêt-Noire-Baar,Landkreise
+    TUT : Tuttlingen,Landkreise
+    WT : Waldshut,Landkreise

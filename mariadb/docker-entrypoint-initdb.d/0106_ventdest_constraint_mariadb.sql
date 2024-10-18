@@ -83,7 +83,7 @@ alter table employe_territories
   foreign key (employee_id) references employes;
 
 
-alter table clients
+alter table tiers
   add primary key (CustomerID);
 
 /*
@@ -91,13 +91,14 @@ alter table categories
   add constraint pk_categories
   primary key (categorie_code);
 */
+
 alter table orders
   add constraint fk_order_employes
   foreign key (employee_id) references employes (employe_id);
 
 alter table orders
-  add constraint fk_order_clients
-  foreign key (customerid) references clients (customerid);
+  add constraint fk_order_tiers
+  foreign key (customerid) references tiers (customerid);
 
 alter table orders
   add constraint fk_order_shippers

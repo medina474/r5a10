@@ -14,6 +14,3 @@
 \copy fake.prenoms from '/docker-entrypoint-data.d/fake/prenoms.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 \copy fake.pyramide from '/docker-entrypoint-data.d/fake/pyramide.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-
-
-\copy clients from '/docker-entrypoint-data.d/ventdest/clients.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');

@@ -1,5 +1,5 @@
-code,parent,intitule,,nom,capitale
-gb,154,Royaume-Uni,,pays,Londres
+code,hierarchie,region,francais,administration,capitale
+gb,154,Royaume-Uni,,1,Londres
 gb-bdg,gb-eng,Barking and Dagenham,,arrondissement de Londres,
 gb-bne,gb-eng,Barnet,,arrondissement de Londres,
 gb-bex,gb-eng,Bexley,,arrondissement de Londres,

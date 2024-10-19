@@ -1,5 +1,5 @@
-code,parent,intitule,,nom,capitale
-fi,154,Finland,,pays,Helsinki
+code,hierarchie,region,francais,administration,capitale
+fi,154,Finland,,1,Helsinki
 fi-01,fi,Ahvenanmaan maakunta,,maakunnan,Mariehamn
 fi-02,fi,Etelä-Karjala,,maakunnan,Lappeenranta
 fi-03,fi,Etelä-Pohjanmaa,,maakunnan,Seinäjoki

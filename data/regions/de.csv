@@ -1,4 +1,4 @@
-code,parent,intitule,francais,nom,capitale
+code,hierarchie,region,francais,administration,capitale
 DE,001.150.155.DE,Allemagne,,pays,Berlin
 DE-BB,001.150.DE.DE4,Brandenburg,Brandebourg,Land,Potsdam
 DE-BE,001.150.DE.DE3,Berlin,,Land,Berlin

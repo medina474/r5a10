@@ -1,4 +1,4 @@
-code,parent,intitule,,nom,capitale
+code,hierarchie,region,francais,administration,capitale
 jp,001.142.030.JP,Japon,,pays,Tokyo
 jp-01,001.142.030.JP.01,Hokkaidō-ken,,todōfuken,Sapporo
 jp-02,001.142.030.JP.02,Aomori-ken,,todōfuken,Aomori

@@ -1,4 +1,4 @@
-code,parent,intitule,,nom,capitale
+code,hierarchie,region,francais,administration,capitale
 dk,001.150.154.158.DK,Danemark,,pays,Copenhagen
 dk-81,001.150.154.158.DK.81,Nordjylland,,region,Aalborg
 dk-82,001.150.154.158.DK.82,Midtjylland,,region,Viborg

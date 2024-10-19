@@ -1,4 +1,4 @@
-code,parent,intitule,,nom,capitale
+code,hierarchie,region,francais,administration,capitale
 hu,001.150.151.HU,Hongrie,,pays,Budapest
 HU-BA,001.150.151.HU.BA,Baranya,,megye,Pécs
 HU-BE,001.150.151.HU.BE,Békés,,megye,Békéscsaba

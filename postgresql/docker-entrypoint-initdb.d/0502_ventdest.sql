@@ -1,7 +1,7 @@
 \c ventdest
 
 alter table only products
-  add foreign key (fournisseur_id)
+  add foreign key (tiers_id)
   references tiers (tiers_id);
 
 alter table only products

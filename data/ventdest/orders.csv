@@ -1,4 +1,4 @@
-"order_id","customer_id","employe_id","order_date","required_date","shipped_date","ship_via","freight","ship_name","adresse_id","livraison_methode_id"
+"order_id","customer_id","employe_id","order_date","required_date","shipped_date","ship_via","poids","ship_name","adresse_id","livraison_methode_id"
 10248,VINET,5,2020-01-04,2020-02-01,2020-01-16,3,32.38,Vins et alcools Chevalier,1151,3
 10249,TOMSP,6,2020-01-05,2020-02-16,2020-01-10,1,11.61,Toms Spezialitäten,1079,3
 10250,HANAR,4,2020-01-08,2020-02-05,2020-01-12,2,65.83,Hanari Carnes,1034,1

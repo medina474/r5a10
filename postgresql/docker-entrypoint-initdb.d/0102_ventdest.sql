@@ -15,10 +15,10 @@ create table marques (
 CREATE TABLE products (
   product_id integer not null,
   product_name text not null,
-  fournisseur_id text,
+  tiers_id text,
   category_id integer,
   quantity_per_unit character varying(20),
-  unit_price real,
+  unit_price decimal(8,2),
   units_in_stock integer,
   units_on_order integer,
   reorder_level integer,
@@ -44,7 +44,7 @@ CREATE TABLE orders (
   required_date date,
   shipped_date date,
   ship_via integer,
-  freight real,
+  poids real,
   ship_name text,
   adresse_id integer,
   livraison_methode_id integer

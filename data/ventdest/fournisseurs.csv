@@ -1,4 +1,4 @@
-"fournisseur_id","company_name","contact_name","contact_title","adresse_id","phone","fax","banque_code"
+"tiers_id","company_name","contact_name","contact_title","adresse_id","phone","fax","banque_code"
 1,Exotic Liquids,Charlotte Cooper,Purchasing Manager,1120,(171) 555-2222,,BNPAFRPPEPL
 2,New Orleans Cajun Delights,Shelley Burke,Order Administrator,1121,(100) 555-4822,,
 3,Grandma Kelly's Homestead,Regina Murphy,Sales Representative,1122,(313) 555-5735,(313) 555-3349,CRLYFRPPRMA

@@ -1,22 +1,22 @@
 code,parent,region,francais,division,capitale
-pt,039,Portugal,,pays,Lisbone
-pt-01,pt,Aveiro,,district,Aveiro
-pt-02,pt,Beja,,district,Beja
-pt-03,pt,Braga,,district,Braga
-pt-04,pt,Braganca,,district,Bragança
-pt-05,pt,Castelo Branco,,district,Castelo Branco
-pt-06,pt,Coimbra,,district,Coimbra
-pt-07,pt,Evora,,district,Évora
-pt-08,pt,Faro,,district,Faro
-pt-09,pt,Guarda,,district,Guarda
-pt-10,pt,Leiria,,district,Leiria
-pt-11,pt,Lisboa,,district,Lisbon
-pt-12,pt,Portalegre,,district,Portalegre
-pt-13,pt,Porto,,district,Porto
-pt-14,pt,Santarem,,district,Santarém
-pt-15,pt,Setubal,,district,Setúbal
-pt-16,pt,Viana do Castelo,,district,Viana do Castelo
-pt-17,pt,Vila Real,,district,Vila Real
-pt-18,pt,Viseu,,district,Viseu
-pt-20,pt,Acores (Azores),,região autónoma (autonomous region),Ponta Delgada
-pt-30,pt,Madeira,,região autónoma (autonomous region),Funchal
+PT,001.150.039.PT,Portugal,,pays,Lisbone
+PT-01,001.150.039.PT.01,Aveiro,,4,Aveiro
+PT-02,001.150.039.PT.02,Beja,,4,Beja
+PT-03,001.150.039.PT.03,Braga,,4,Braga
+PT-04,001.150.039.PT.04,Braganca,,4,Bragança
+PT-05,001.150.039.PT.05,Castelo Branco,,4,Castelo Branco
+PT-06,001.150.039.PT.06,Coimbra,,4,Coimbra
+PT-07,001.150.039.PT.07,Evora,,4,Évora
+PT-08,001.150.039.PT.08,Faro,,4,Faro
+PT-09,001.150.039.PT.09,Guarda,,4,Guarda
+PT-10,001.150.039.PT.10,Leiria,,4,Leiria
+PT-11,001.150.039.PT.11,Lisboa,,4,Lisbon
+PT-12,001.150.039.PT.12,Portalegre,,4,Portalegre
+PT-13,001.150.039.PT.13,Porto,,4,Porto
+PT-14,001.150.039.PT.14,Santarem,,4,Santarém
+PT-15,001.150.039.PT.15,Setubal,,4,Setúbal
+PT-16,001.150.039.PT.16,Viana do Castelo,,4,Viana do Castelo
+PT-17,001.150.039.PT.17,Vila Real,,4,Vila Real
+PT-18,001.150.039.PT.18,Viseu,,4,Viseu
+PT-20,001.150.039.PT.20,Acores (Azores),,região autónoma,Ponta Delgada
+PT-30,001.150.039.PT.30,Madeira,,região autónoma,Funchal

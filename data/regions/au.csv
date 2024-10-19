@@ -1,13 +1,13 @@
-code,parent,intitule,nom,capitale
-au,053,Australie,pays,Canberra
-au-act,au,Australian Capital Territory,territory,Canberra
-au-nsw,au,New South Wales,state,Sydney
-au-nt,au,Northern Territory,territory,Darwin
-au-qld,au,Queensland,state,Brisbane
-au-sa,au,South Australia,state,Adelaide
-au-tas,au,Tasmania,state,Hobart
-au-vic,au,Victoria,state,Melbourne
-au-wa,au,Western Australia,state,Perth
-cx,053,Île Christmas,territoire extérieur,Flying Fish Cove
-nf,053,Île Norfolk,territoire extérieur,Kingston
-cc,053,Îles des Cocos (Keeling),territoire extérieur,West Island
+code,parent,intitule,,nom,capitale
+au,001.009.053.AU,Australie,,pays,Canberra
+au-act,001.009.053.AU.ACT,Australian Capital Territory,,territory,Canberra
+au-nsw,001.009.053.AU.NSW,New South Wales,,state,Sydney
+au-nt,001.009.053.AU.NT,Northern Territory,,territory,Darwin
+au-qld,001.009.053.AU.QLD,Queensland,,state,Brisbane
+au-sa,001.009.053.AU.SA,South Australia,,state,Adelaide
+au-tas,001.009.053.AU.TAS,Tasmania,,state,Hobart
+au-vic,001.009.053.AU.VIC,Victoria,,state,Melbourne
+au-wa,001.009.053.AU.WA,Western Australia,,state,Perth
+cx,001.009.053.CX,Île Christmas,,territoire extérieur,Flying Fish Cove
+nf,001.009.053.NF,Île Norfolk,,territoire extérieur,Kingston
+cc,001.009.053.CC,Îles des Cocos (Keeling),,territoire extérieur,West Island

@@ -1,71 +1,71 @@
-code,parent,intitule,nom,capitale
-es,039,Espagne,pays,Madrid
-es-an,es,Andalucía,comunidad autónoma,Sevilla
-es-ar,es,Aragón,comunidad autónoma,Zaragoza
-es-as,es,"Asturias, Principado de",comunidad autónoma,Oviedo
-es-cn,es,Canarias,comunidad autónoma,Las Palmas de Gran Canaria
-es-cb,es,Cantabria,comunidad autónoma,Santander
-es-cm,es,Castilla-La Mancha,comunidad autónoma,Toledo
-es-cl,es,Castilla y León,comunidad autónoma,Valladolid
-es-ct,es,Catalunya,comunidad autónoma,Barcelona
-es-ex,es,Extremadura,comunidad autónoma,Mérida
-es-ga,es,Galicia,comunidad autónoma,Santiago de Compostela
-es-ib,es,Islas Baleares,comunidad autónoma,Palma
-es-ri,es,La Rioja,comunidad autónoma,Logroño
-es-md,es,"Madrid, Comunidad de",comunidad autónoma,Madrid
-es-mc,es,"Murcia, Región de",comunidad autónoma,Murcia
-es-nc,es,"Navarra, Comunidad Foral de",comunidad autónoma,Pamplona / Iruñea
-es-pv,es,Euskadi,Autonomia Erkidegoa,Vitoria-Gasteiz
-es-vc,es,"Valenciana, Comunitat",comunidad autónoma,Valencia
-es-ce,es,Ceuta,ciudades autónomas en el Norte de África,Ceuta
-es-ml,es,Melilla,ciudades autónomas en el Norte de África,Melilla
-es-a,es-vc,Alicante,provincia,Alicante
-es-ab,es-cm,Albacete,provincia,Albacete
-es-al,es-an,Almería,provincia,Almería
-es-av,es-cl,Ávila,provincia,Ávila
-es-b,es-ct,Barcelona,provincia,Barcelona
-es-ba,es-ex,Badajoz,provincia,Mérida
-es-bi,es-pv,Vizcaya,provincia,Bilbao
-es-bu,es-cl,Burgos,provincia,Burgos
-es-c,es-ga,A Coruña,provincia,Santiago de Compostela
-es-ca,es-an,Cádiz,provincia,Cádiz
-es-cc,es-ex,Cáceres,provincia,Cáceres
-es-co,es-an,Córdoba,provincia,Córdoba
-es-cr,es-cm,Ciudad Real,provincia,Ciudad Real
-es-cs,es-vc,Castellón,provincia,Castelló de la Plana
-es-cu,es-cm,Cuenca,provincia,Cuenca
-es-gc,es-cn,Las Palmas,provincia,Las Palmas de Gran Canaria
-es-gi,es-ct,Girona,provincia,Girona
-es-gr,es-an,Granada,provincia,Granada
-es-gu,es-cm,Guadalajara,provincia,Guadalajara
-es-h,es-an,Huelva,provincia,Huelva
-es-hu,es-ar,Huesca,provincia,Huesca
-es-j,es-an,Jaén,provincia,Jaén
-es-l,es-ct,Lleida,provincia,Lleida
-es-le,es-cl,León,provincia,León
-es-lo,es-ri,La Rioja,provincia,Logroño
-es-lu,es-ga,Lugo,provincia,Lugo
-es-m,es-md,Madrid,provincia,Madrid
-es-ma,es-an,Málaga,provincia,Málaga
-es-mu,es-mc,Murcia,provincia,Murcia
-es-na,es-nc,Navarra,provincia,Pamplona
-es-o,es-as,Asturias,provincia,Oviedo
-es-or,es-ga,Ourense,provincia,Ourense
-es-p,es-cl,Palencia,provincia,Palencia
-es-pm,es-ib,Baleares,provincia,Palma
-es-po,es-ga,Pontevedra,provincia,Pontevedra
-es-s,es-cb,Cantabria,provincia,Santander
-es-sa,es-cl,Salamanca,provincia,Salamanca
-es-se,es-an,Sevilla,provincia,Sevilla
-es-sg,es-cl,Segovia,provincia,Segovia
-es-so,es-cl,Soria,provincia,Soria
-es-ss,es-pv,Guipúzcoa,provincia,Donostia / San Sebastián
-es-t,es-ct,Tarragona,provincia,Tarragona
-es-te,es-ar,Teruel,provincia,Teruel
-es-tf,es-cn,Santa Cruz de Tenerife,provincia,Santa Cruz de Tenerife
-es-to,es-cm,Toledo,provincia,Toledo
-es-v,es-vc,Valencia,provincia,Valencia
-es-va,es-cl,Valladolid,provincia,Valladolid
-es-vi,es-pv,Álava,provincia,Gasteiz / Vitoria
-es-z,es-ar,Zaragoza,provincia,Zaragoza
-es-za,es-cl,Zamora,provincia,Zamora
+code,parent,intitule,,nom,capitale
+es,039,Espagne,,pays,Madrid
+es-an,es,Andalucía,,comunidad autónoma,Sevilla
+es-ar,es,Aragón,,comunidad autónoma,Zaragoza
+es-as,es,"Asturias, Principado de",,comunidad autónoma,Oviedo
+es-cn,es,Canarias,,comunidad autónoma,Las Palmas de Gran Canaria
+es-cb,es,Cantabria,,comunidad autónoma,Santander
+es-cm,es,Castilla-La Mancha,,comunidad autónoma,Toledo
+es-cl,es,Castilla y León,,comunidad autónoma,Valladolid
+es-ct,es,Catalunya,,comunidad autónoma,Barcelona
+es-ex,es,Extremadura,,comunidad autónoma,Mérida
+es-ga,es,Galicia,,comunidad autónoma,Santiago de Compostela
+es-ib,es,Islas Baleares,,comunidad autónoma,Palma
+es-ri,es,La Rioja,,comunidad autónoma,Logroño
+es-md,es,"Madrid, Comunidad de",,comunidad autónoma,Madrid
+es-mc,es,"Murcia, Región de",,comunidad autónoma,Murcia
+es-nc,es,"Navarra, Comunidad Foral de",,comunidad autónoma,Pamplona / Iruñea
+es-pv,es,Euskadi,,Autonomia Erkidegoa,Vitoria-Gasteiz
+es-vc,es,"Valenciana, Comunitat",,comunidad autónoma,Valencia
+es-ce,es,Ceuta,,ciudades autónomas en el Norte de África,Ceuta
+es-ml,es,Melilla,,ciudades autónomas en el Norte de África,Melilla
+es-a,es-vc,Alicante,,provincia,Alicante
+es-ab,es-cm,Albacete,,provincia,Albacete
+es-al,es-an,Almería,,provincia,Almería
+es-av,es-cl,Ávila,,provincia,Ávila
+es-b,es-ct,Barcelona,,provincia,Barcelona
+es-ba,es-ex,Badajoz,,provincia,Mérida
+es-bi,es-pv,Vizcaya,,provincia,Bilbao
+es-bu,es-cl,Burgos,,provincia,Burgos
+es-c,es-ga,A Coruña,,provincia,Santiago de Compostela
+es-ca,es-an,Cádiz,,provincia,Cádiz
+es-cc,es-ex,Cáceres,,provincia,Cáceres
+es-co,es-an,Córdoba,,provincia,Córdoba
+es-cr,es-cm,Ciudad Real,,provincia,Ciudad Real
+es-cs,es-vc,Castellón,,provincia,Castelló de la Plana
+es-cu,es-cm,Cuenca,,provincia,Cuenca
+es-gc,es-cn,Las Palmas,,provincia,Las Palmas de Gran Canaria
+es-gi,es-ct,Girona,,provincia,Girona
+es-gr,es-an,Granada,,provincia,Granada
+es-gu,es-cm,Guadalajara,,provincia,Guadalajara
+es-h,es-an,Huelva,,provincia,Huelva
+es-hu,es-ar,Huesca,,provincia,Huesca
+es-j,es-an,Jaén,,provincia,Jaén
+es-l,es-ct,Lleida,,provincia,Lleida
+es-le,es-cl,León,,provincia,León
+es-lo,es-ri,La Rioja,,provincia,Logroño
+es-lu,es-ga,Lugo,,provincia,Lugo
+es-m,es-md,Madrid,,provincia,Madrid
+es-ma,es-an,Málaga,,provincia,Málaga
+es-mu,es-mc,Murcia,,provincia,Murcia
+es-na,es-nc,Navarra,,provincia,Pamplona
+es-o,es-as,Asturias,,provincia,Oviedo
+es-or,es-ga,Ourense,,provincia,Ourense
+es-p,es-cl,Palencia,,provincia,Palencia
+es-pm,es-ib,Baleares,,provincia,Palma
+es-po,es-ga,Pontevedra,,provincia,Pontevedra
+es-s,es-cb,Cantabria,,provincia,Santander
+es-sa,es-cl,Salamanca,,provincia,Salamanca
+es-se,es-an,Sevilla,,provincia,Sevilla
+es-sg,es-cl,Segovia,,provincia,Segovia
+es-so,es-cl,Soria,,provincia,Soria
+es-ss,es-pv,Guipúzcoa,,provincia,Donostia / San Sebastián
+es-t,es-ct,Tarragona,,provincia,Tarragona
+es-te,es-ar,Teruel,,provincia,Teruel
+es-tf,es-cn,Santa Cruz de Tenerife,,provincia,Santa Cruz de Tenerife
+es-to,es-cm,Toledo,,provincia,Toledo
+es-v,es-vc,Valencia,,provincia,Valencia
+es-va,es-cl,Valladolid,,provincia,Valladolid
+es-vi,es-pv,Álava,,provincia,Gasteiz / Vitoria
+es-z,es-ar,Zaragoza,,provincia,Zaragoza
+es-za,es-cl,Zamora,,provincia,Zamora

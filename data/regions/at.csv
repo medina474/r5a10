@@ -1,11 +1,11 @@
-code,parent,intitule,nom,capitale
-at,155,Autriche,pays,Wien
-at-1,at,Burgenland,Land,Eisenstadt
-at-2,at,Karnten,Land,Klagenfurt
-at-3,at,Niederösterreich,Land,Sankt Pölten
-at-4,at,Oberösterreich,Land,Linz
-at-5,at,Salzburg,Land,Salzburg
-at-6,at,Steiermark,Land,Graz
-at-7,at,Tirol,Land,Innsbruck
-at-8,at,Vorarlberg,Land,Bregenz
-at-9,at,Wien,Land,Wien
+code,parent,intitule,,nom,capitale
+at,001.150.155.at,Autriche,,pays,Wien
+at-1,001.150.155.at.1,Burgenland,,Land,Eisenstadt
+at-2,001.150.155.at.2,Karnten,,Land,Klagenfurt
+at-3,001.150.155.at.3,Niederösterreich,,Land,Sankt Pölten
+at-4,001.150.155.at.4,Oberösterreich,,Land,Linz
+at-5,001.150.155.at.5,Salzburg,,Land,Salzburg
+at-6,001.150.155.at.6,Steiermark,,Land,Graz
+at-7,001.150.155.at.7,Tirol,,Land,Innsbruck
+at-8,001.150.155.at.8,Vorarlberg,,Land,Bregenz
+at-9,001.150.155.at.9,Wien,Vienne,Land,Wien

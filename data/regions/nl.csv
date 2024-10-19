@@ -1,17 +1,17 @@
-code,parent,intitule,nom,capitale
-nl,155,Pays-bas,pays,La Haye
-nl-dr,nl,Drenthe,province,Assen
-nl-fl,nl,Flevoland,province,Lelystad
-nl-fr,nl,Friesland,province,Leeuwarden
-nl-ge,nl,Gelderland,province,Arnhem
-nl-gr,nl,Groningen,province,Groningen
-nl-li,nl,Limburg,province,Maastricht
-nl-nb,nl,Noord Brabant,province,'s-Hertogenbosch
-nl-nh,nl,Noord Holland,province,Haarlem
-nl-ov,nl,Overijssel,province,Zwolle
-nl-ut,nl,Utrecht,province,Utrecht
-nl-ze,nl,Zeeland,province,Middelburg
-nl-zh,nl,Zuid Holland,province,Den Haag
-aw,029,Aruba,pays constitutif du royaume des Pays-Bas ,Oranjestad
-cw,029,Curaçao,pays constitutif du royaume des Pays-Bas,Willemstad
-sx,029,Sint Maarten,état autonome dépendant du royaume des Pays-Bas,Philipsburg
+code,parent,intitule,,nom,capitale
+nl,001.150.155.nl,Pays-bas,,pays,La Haye
+nl-dr,001.150.155.nl.dr,Drenthe,,province,Assen
+nl-fl,001.150.155.nl.fl,Flevoland,,province,Lelystad
+nl-fr,001.150.155.nl.fr,Friesland,,province,Leeuwarden
+nl-ge,001.150.155.nl.ge,Gelderland,,province,Arnhem
+nl-gr,001.150.155.nl.gr,Groningen,,province,Groningen
+nl-li,001.150.155.nl.li,Limburg,,province,Maastricht
+nl-nb,001.150.155.nl.nb,Noord Brabant,,province,'s-Hertogenbosch
+nl-nh,001.150.155.nl.nh,Noord Holland,,province,Haarlem
+nl-ov,001.150.155.nl.ov,Overijssel,,province,Zwolle
+nl-ut,001.150.155.nl.ut,Utrecht,,province,Utrecht
+nl-ze,001.150.155.nl.ze,Zeeland,,province,Middelburg
+nl-zh,001.150.155.nl.zh,Zuid Holland,,province,Den Haag
+aw,001.019.419.029.aw,Aruba,,pays constitutif du royaume des Pays-Bas,Oranjestad
+cw,001.019.419.029.cw,Curaçao,,pays constitutif du royaume des Pays-Bas,Willemstad
+sx,001.019.419.029.sx,Sint Maarten,,état autonome dépendant du royaume des Pays-Bas,Philipsburg

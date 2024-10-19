@@ -1,9 +1,9 @@
-code,parent,intitule,nom,capitale
-dk,154,Danemark,pays,Copenhagen
-dk-81,dk,Nordjylland,region,Aalborg
-dk-82,dk,Midtjylland,region,Viborg
-dk-83,dk,Syddanmark,region,Ribe
-dk-84,dk,Hovedstaden,region,Copenhagen
-dk-85,dk,Sjælland,region,Sorø
-fo,154,Îles Féroé,pays constitutif du royaume du Danemark,Tórshavn
-gl,021,Groenland,pays constitutif du royaume du Danemark ,Nuuk
+code,parent,intitule,,nom,capitale
+dk,001.150.154.158.DK,Danemark,,pays,Copenhagen
+dk-81,001.150.154.158.DK.81,Nordjylland,,region,Aalborg
+dk-82,001.150.154.158.DK.82,Midtjylland,,region,Viborg
+dk-83,001.150.154.158.DK.83,Syddanmark,,region,Ribe
+dk-84,001.150.154.158.DK.84,Hovedstaden,,region,Copenhagen
+dk-85,001.150.154.158.DK.85,Sjælland,Seeland,region,Sorø
+fo,001.150.154.FO,Îles Féroé,,pays constitutif du royaume du Danemark,Tórshavn
+gl,001.019.021.GL,Kalaallit Nunaat,Groenland,,pays constitutif du royaume du Danemark,Nuuk

@@ -1,65 +1,65 @@
-code,parent,intitule,nom,capitale
-us,021,États-Unis d'Amérique,pays,Washington
-us-ak,us,Alaska,state,Juneau
-us-al,us,Alabama,state,Montgomery
-us-ar,us,Arkansas,state,Little Rock
-us-az,us,Arizona,state,Phoenix
-us-ca,us,California,state,Sacramento
-us-co,us,Colorado,state,Denver
-us-ct,us,Connecticut,state,Hartford
-us-dc,us,District of Columbia,district,Washington
-us-de,us,Delaware,state,Dover
-us-fl,us,Florida,state,Tallahassee
-us-ga,us,Georgia,state,Atlanta
-us-hi,us,Hawaii,state,Honolulu
-us-ia,us,Iowa,state,Des Moines
-us-id,us,Idaho,state,Boise
-us-il,us,Illinois,state,Springfield
-us-in,us,Indiana,state,Indianapolis
-us-ks,us,Kansas,state,Topeka
-us-ky,us,Kentucky,state,Frankfort
-us-la,us,Louisiana,state,Baton Rouge
-us-ma,us,Massachusetts,state,Boston
-us-md,us,Maryland,state,Annapolis
-us-me,us,Maine,state,Augusta
-us-mi,us,Michigan,state,Lansing
-us-mn,us,Minnesota,state,Saint Paul
-us-mo,us,Missouri,state,Jefferson City
-us-ms,us,Mississippi,state,Jackson
-us-mt,us,Montana,state,Helena
-us-nc,us,North Carolina,state,Raleigh
-us-nd,us,North Dakota,state,Bismarck
-us-ne,us,Nebraska,state,Lincoln
-us-nh,us,New Hampshire,state,Concord
-us-nj,us,New Jersey,state,Trenton
-us-nm,us,New Mexico,state,Santa Fe
-us-nv,us,Nevada,state,Carson City
-us-ny,us,New York,state,Albany
-us-oh,us,Ohio,state,Columbus
-us-ok,us,Oklahoma,state,Oklahoma City
-us-or,us,Oregon,state,Salem
-us-pa,us,Pennsylvania,state,Harrisburg
-us-ri,us,Rhode Island,state,Providence
-us-sc,us,South Carolina,state,Columbia
-us-sd,us,South Dakota,state,Pierre
-us-tn,us,Tennessee,state,Nashville
-us-tx,us,Texas,state,Austin
-us-ut,us,Utah,state,Salt Lake City
-us-va,us,Virginia,state,Richmond
-us-vt,us,Vermont,state,Montpelier
-us-wa,us,Washington,state,Olympia
-us-wi,us,Wisconsin,state,Madison
-us-wv,us,West Virginia,state,Charleston
-us-wy,us,Wyoming,state,Cheyenne
-us-gu,us,Guam,territory,
-us-as,us,American Samoa,territory,
-us-mp,us,Northern Mariana Islands,territory,
-us-pr,us,Puerto Rico,territory,
-us-um,us,S. Minor Outlying Islands,territory,
-us-vi,us,Virgin Islands of the U.S.,territory,
-mp,057,Îles Mariannes du Nord,territoire non-incorporé et organisé,Saipan
-vi,029,Îles Vierges américaines,territoire non-incorporé et organisé,Charlotte-Amélie
-gu,057,Guam,territoire non-incorporé et organisé,Hagåtña
-um,057,Îles mineures éloignées des États-Unis,pays,
-as,061,Samoa américaines,territoire non-incorporé et non-organisé,Pago Pago
-pr,029,Porto Rico,territoire non-incorporé et organisé,San Juan
+code,parent,intitule,,nom,capitale
+us,001.019.021.US,États-Unis d'Amérique,,pays,Washington
+us-ak,001.019.021.US.AK,Alaska,,state,Juneau
+us-al,001.019.021.US.AL,Alabama,,state,Montgomery
+us-ar,001.019.021.US.AR,Arkansas,,state,Little Rock
+us-az,001.019.021.US.AZ,Arizona,,state,Phoenix
+us-ca,001.019.021.US.CA,California,,state,Sacramento
+us-co,001.019.021.US.CO,Colorado,,state,Denver
+us-ct,001.019.021.US.CT,Connecticut,,state,Hartford
+us-dc,001.019.021.US.DC,District of Columbia,,district,Washington
+us-de,001.019.021.US.DE,Delaware,,state,Dover
+us-fl,001.019.021.US.FL,Florida,,state,Tallahassee
+us-ga,001.019.021.US.GA,Georgia,,state,Atlanta
+us-hi,001.019.021.US.HI,Hawaii,,state,Honolulu
+us-ia,001.019.021.US.IA,Iowa,,state,Des Moines
+us-id,001.019.021.US.ID,Idaho,,state,Boise
+us-il,001.019.021.US.IL,Illinois,,state,Springfield
+us-in,001.019.021.US.IN,Indiana,,state,Indianapolis
+us-ks,001.019.021.US.KS,Kansas,,state,Topeka
+us-ky,001.019.021.US.KY,Kentucky,,state,Frankfort
+us-la,001.019.021.US.LA,Louisiana,,state,Baton Rouge
+us-ma,001.019.021.US.MA,Massachusetts,,state,Boston
+us-md,001.019.021.US.MD,Maryland,,state,Annapolis
+us-me,001.019.021.US.ME,Maine,,state,Augusta
+us-mi,001.019.021.US.MI,Michigan,,state,Lansing
+us-mn,001.019.021.US.MN,Minnesota,,state,Saint Paul
+us-mo,001.019.021.US.MO,Missouri,,state,Jefferson City
+us-ms,001.019.021.US.MS,Mississippi,,state,Jackson
+us-mt,001.019.021.US.MT,Montana,,state,Helena
+us-nc,001.019.021.US.NC,North Carolina,,state,Raleigh
+us-nd,001.019.021.US.ND,North Dakota,,state,Bismarck
+us-ne,001.019.021.US.NE,Nebraska,,state,Lincoln
+us-nh,001.019.021.US.NH,New Hampshire,,state,Concord
+us-nj,001.019.021.US.NJ,New Jersey,,state,Trenton
+us-nm,001.019.021.US.NM,New Mexico,,state,Santa Fe
+us-nv,001.019.021.US.NV,Nevada,,state,Carson City
+us-ny,001.019.021.US.NY,New York,,state,Albany
+us-oh,001.019.021.US.OH,Ohio,,state,Columbus
+us-ok,001.019.021.US.OK,Oklahoma,,state,Oklahoma City
+us-or,001.019.021.US.OR,Oregon,,state,Salem
+us-pa,001.019.021.US.PA,Pennsylvania,,state,Harrisburg
+us-ri,001.019.021.US.RI,Rhode Island,,state,Providence
+us-sc,001.019.021.US.SC,South Carolina,,state,Columbia
+us-sd,001.019.021.US.SD,South Dakota,,state,Pierre
+us-tn,001.019.021.US.TN,Tennessee,,state,Nashville
+us-tx,001.019.021.US.TX,Texas,,state,Austin
+us-ut,001.019.021.US.UT,Utah,,state,Salt Lake City
+us-va,001.019.021.US.VA,Virginia,,state,Richmond
+us-vt,001.019.021.US.VT,Vermont,,state,Montpelier
+us-wa,001.019.021.US.WA,Washington,,state,Olympia
+us-wi,001.019.021.US.WI,Wisconsin,,state,Madison
+us-wv,001.019.021.US.WV,West Virginia,,state,Charleston
+us-wy,001.019.021.US.WY,Wyoming,,state,Cheyenne
+us-gu,001.019.021.US.GU,Guam,,territory,
+us-as,001.019.021.US.AS,American Samoa,,territory,
+us-mp,001.019.021.US.MP,Northern Mariana Islands,,territory,
+us-pr,001.019.021.US.PR,Puerto Rico,,territory,
+us-um,001.019.021.US.UM,S. Minor Outlying Islands,,territory,
+us-vi,001.019.021.US.VI,Virgin Islands of the U.S.,,territory,
+mp,057,Îles Mariannes du Nord,,territoire non-incorporé et organisé,Saipan
+vi,029,Îles Vierges américaines,,territoire non-incorporé et organisé,Charlotte-Amélie
+gu,057,Guam,,territoire non-incorporé et organisé,Hagåtña
+um,057,Îles mineures éloignées des États-Unis,,pays,
+as,061,Samoa américaines,,territoire non-incorporé et non-organisé,Pago Pago
+pr,029,Porto Rico,,territoire non-incorporé et organisé,San Juan

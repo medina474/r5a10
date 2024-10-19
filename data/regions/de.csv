@@ -1,22 +1,34 @@
-code,parent,intitule,nom,capitale
-de,155,Allemagne,pays,Berlin
-de-bb,de,Brandenburg,Land,Potsdam
-de-be,de,Berlin,Land,Berlin
-de-bw,de,Baden-Württemberg,Land,Stuttgart
-de-by,de,Bayern,Freistaat,Munich
-de-hb,de,Bremen,Land,Bremen
-de-he,de,Hessen,Land,Wiesbaden
-de-hh,de,Hamburg,Freie und Hansestadt,Hamburg
-de-mv,de,Mecklenburg-Vorpommern,Land,Schwerin
-de-ni,de,Niedersachsen,Land,Hannover
-de-nw,de,Nordrhein-Westfalen,Land,Düsseldorf
-de-rp,de,Rheinland-Pfalz,Land,Mainz
-de-sh,de,Schleswig-Holstein,Land,Kiel
-de-sl,de,Saarland,Land,Saarbrücken
-de-sn,de,Sachsen,Freistaat,Dresden
-de-st,de,Sachsen-Anhalt,Land,Magdeburg
-de-th,de,Thüringen,Freistaat,Erfurt
-de-11,de-bw,Stuttgart,Regierungsbezirke,Stuttgart
-de-12,de-bw,Karlsruhe,Regierungsbezirke,Karlsruhe
-de-13,de-bw,Fribourg-en-Brisgau,Regierungsbezirke,Fribourg-en-Brisgau
-de-14,de-bw,Tübingen,Regierungsbezirke,Tübingen
+code,parent,intitule,francais,nom,capitale
+DE,001.150.155.DE,Allemagne,,pays,Berlin
+DE-BB,001.150.DE.DE4,Brandenburg,Brandebourg,Land,Potsdam
+DE-BE,001.150.DE.DE3,Berlin,,Land,Berlin
+DE-BW,001.150.DE.DE1,Baden-Württemberg,Bade-Wurtemberg,Land,Stuttgart
+DE-BY,001.150.DE.DE2,Bayern,Bavière,Freistaat,Munich
+DE-HB,001.150.DE.DE5,Bremen,Brême,Land,Bremen
+DE-HE,001.150.DE.DE7,Hessen,Hesse,Land,Wiesbaden
+DE-HH,001.150.DE.DE6,Hamburg,Hambourg,Freie und Hansestadt,Hamburg
+DE-MV,001.150.DE.DE8,Mecklenburg-Vorpommern,Mecklembourg-Poméranie-Occidentale,Land,Schwerin
+DE-NI,001.150.DE.DE9,Niedersachsen,Basse-Saxe,Land,Hannover
+DE-NW,001.150.DE.DEA,Nordrhein-Westfalen,Rhénanie-du-Nord-Westphalie,Land,Düsseldorf
+DE-RP,001.150.DE.DEB,Rheinland-Pfalz,Rhénanie-Palatinat,Land,Mainz
+DE-SH,001.150.DE.DEF,Schleswig-Holstein,Schleswig-Holstein,Land,Kiel
+DE-SL,001.150.DE.DEC,Saarland,Sarre,Land,Saarbrücken
+DE-SN,001.150.DE.DED,Sachsen,Saxe,Freistaat,Dresden
+DE-ST,001.150.DE.DEE,Sachsen-Anhalt,Saxe-Anhalt,Land,Magdeburg
+DE-TH,001.150.DE.DEG,Thüringen,Thuringe,Freistaat,Erfurt
+DE-11,001.150.DE.DE1.DE11,Stuttgart,Stuttgart,Regierungsbezirke,Stuttgart
+DE-12,001.150.DE.DE1.DE12,Karlsruhe,Karlsruhe,Regierungsbezirke,Karlsruhe
+DE-13,001.150.DE.DE1.DE13,Freiburg,Fribourg,Regierungsbezirke,Fribourg-en-Brisgau
+DE-14,001.150.DE.DE1.DE14,Tübingen,Tübingen,Regierungsbezirke,Tübingen
+DE-14A,001.150.DE.DE1.DE14.DE14A,Neckar-Alb,Neckar-Alb,region,
+DE-141,001.150.DE.DE1.DE14.DE14A.DE141,Reutlingen,,Landkreise,
+DE-142,001.150.DE.DE1.DE14.DE14A.DE142,Tübingen,,Landkreise,
+DE-143,001.150.DE.DE1.DE14.DE14A.DE143,Zollernalb,,Landkreise,
+DE-14C,001.150.DE.DE1.DE14.DE14C,Bodensee-Oberschwaben,Bodensee-Oberschwaben,region,
+DE-147,001.150.DE.DE1.DE14.DE14C.DE147,Bodenseekreis,Arrondissement du Lac de Constance,Landkreise,
+DE-148,001.150.DE.DE1.DE14.DE14C.DE148,Ravensbourg,,Landkreise,
+DE-149,001.150.DE.DE1.DE14.DE14C.DE149,Sigmaringen,,Landkreise,
+DE-14B,001.150.DE.DE1.DE14.DE14B,Donau-Iller,Donau-Iller,region,
+DE-144,001.150.DE.DE1.DE14.DE14B.DE144,Ulm,Ulm,kreisfreie Städte,
+DE-145,001.150.DE.DE1.DE14.DE14B.DE146,Alb-Donau,Arrondissement d'Alb-Danube,Landkreise,
+DE-146,001.150.DE.DE1.DE14.DE14B.DE146,Biberach,Biberach,Landkreise,

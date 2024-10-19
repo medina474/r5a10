@@ -28,6 +28,7 @@ create table regions (
   region_code character varying(6),
   hierarchie ltree,
   region text not null,
+  francais text,
   division text,
   capitale text
 );

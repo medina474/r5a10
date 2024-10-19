@@ -1,124 +1,124 @@
-code,parent,intitule,nom,capitale
-fr,155,France,pays,Paris
-fr-20r,fr,Corse,collectivité métropolitaine,Ajaccio
-fr-6ae,fr,Alsace,collectivité européenne,Strasbourg
-fr-ara,fr,Auvergne-Rhône-Alpes,région,Lyon
-fr-bfc,fr,Bourgogne-Franche-Comté,région,Dijon
-fr-bre,fr,Bretagne,région,Rennes
-fr-cvl,fr,Centre-Val de Loire,région,Orléans
-fr-ges,fr,Grand Est,région,Strasbourg
-fr-hdf,fr,Hauts-de-France,région,Lille
-fr-idf,fr,Île-de-France,région,Paris
-fr-naq,fr,Nouvelle-Aquitaine,région,Bordeaux
-fr-nor,fr,Normandie,région,Rouen
-fr-occ,fr,Occitanie,région,Toulouse
-fr-pac,fr,Provence-Alpes-Côte d'Azur,région,Marseille
-fr-pdl,fr,Pays de la Loire,région,Nantes
-fr-01,fr-ara,Ain,département,Bourg-en-Bresse
-fr-02,fr-hdf,Aisne,département,Laon
-fr-03,fr-ara,Allier,département,Moulins
-fr-04,fr-pac,Alpes-de-Haute-Provence,département,Digne-les-Bains
-fr-05,fr-pac,Hautes-Alpes,département,Gap
-fr-06,fr-pac,Alpes-Maritimes,département,Nice
-fr-07,fr-ara,Ardèche,département,Privas
-fr-08,fr-ges,Ardennes,département,Charleville-Mézières
-fr-09,fr-occ,Ariège,département,Foix
-fr-10,fr-ges,Aube,département,Troyes
-fr-11,fr-occ,Aude,département,Carcassonne
-fr-12,fr-occ,Aveyron,département,Rodez
-fr-13,fr-pac,Bouches-du-Rhône,département,Marseille
-fr-14,fr-nor,Calvados,département,Caen
-fr-15,fr-ara,Cantal,département,Aurillac
-fr-16,fr-naq,Charente,département,Angoulême
-fr-17,fr-naq,Charente-Maritime,département,La Rochelle
-fr-18,fr-cvl,Cher,département,Bourges
-fr-19,fr-naq,Corrèze,département,Tulle
-fr-21,fr-bfc,Côte-d'Or,département,Dijon
-fr-22,fr-bre,Côtes-d'Armor,département,Saint-Brieuc
-fr-23,fr-naq,Creuse,département,Guéret
-fr-24,fr-naq,Dordogne,département,Périgueux
-fr-25,fr-bfc,Doubs,département,Besançon
-fr-26,fr-ara,Drôme,département,Valence
-fr-27,fr-nor,Eure,département,Évreux
-fr-28,fr-cvl,Eure-et-Loir,département,Chartres
-fr-29,fr-bre,Finistère,département,Quimper
-fr-2A,fr-20r,Corse-du-Sud,département,Ajaccio
-fr-2B,fr-20r,Haute-Corse,département,Bastia
-fr-30,fr-occ,Gard,département,Nîmes
-fr-31,fr-occ,Haute-Garonne,département,Toulouse
-fr-32,fr-occ,Gers,département,Auch
-fr-33,fr-naq,Gironde,département,Bordeaux
-fr-34,fr-occ,Hérault,département,Montpellier
-fr-35,fr-bre,Ille-et-Vilaine,département,Rennes
-fr-36,fr-cvl,Indre,département,Châteauroux
-fr-37,fr-cvl,Indre-et-Loire,département,Tours
-fr-38,fr-ara,Isère,département,Grenoble
-fr-39,fr-bfc,Jura,département,Lons-le-Saunier
-fr-40,fr-naq,Landes,département,Mont-de-Marsan
-fr-41,fr-cvl,Loir-et-Cher,département,Blois
-fr-42,fr-ara,Loire,département,Saint-Étienne
-fr-43,fr-ara,Haute-Loire,département,Le Puy-en-Velay
-fr-44,fr-pdl,Loire-Atlantique,département,Nantes
-fr-45,fr-cvl,Loiret,département,Orléans
-fr-46,fr-occ,Lot,département,Cahors
-fr-47,fr-naq,Lot-et-Garonne,département,Agen
-fr-48,fr-occ,Lozère,département,Mende
-fr-49,fr-pdl,Maine-et-Loire,département,Angers
-fr-50,fr-nor,Manche,département,Saint-Lô
-fr-51,fr-ges,Marne,département,Châlons-en-Champagne
-fr-52,fr-ges,Haute-Marne,département,Chaumont
-fr-53,fr-pdl,Mayenne,département,Laval
-fr-54,fr-ges,Meurthe-et-Moselle,département,Nancy
-fr-55,fr-ges,Meuse,département,Bar-le-Duc
-fr-56,fr-bre,Morbihan,département,Vannes
-fr-57,fr-ges,Moselle,département,Metz
-fr-58,fr-bfc,Nièvre,département,Nevers
-fr-59,fr-hdf,Nord,département,Lille
-fr-60,fr-hdf,Oise,département,Beauvais
-fr-61,fr-nor,Orne,département,Alençon
-fr-62,fr-hdf,Pas-de-Calais,département,Arras
-fr-63,fr-ara,Puy-de-Dôme,département,Clermont-Ferrand
-fr-64,fr-naq,Pyrénées-Atlantiques,département,Pau
-fr-65,fr-occ,Hautes-Pyrénées,département,Tarbes
-fr-66,fr-occ,Pyrénées-Orientales,département,Perpignan
-fr-67,fr-6ae,Bas-Rhin,département,Strasbourg
-fr-68,fr-6ae,Haut-Rhin,département,Colmar
-fr-69,fr-ara,Rhône,département,Lyon
-fr-70,fr-bfc,Haute-Saône,département,Vesoul
-fr-71,fr-bfc,Saône-et-Loire,département,Mâcon
-fr-72,fr-pdl,Sarthe,département,Le Mans
-fr-73,fr-ara,Savoie,département,Chambéry
-fr-74,fr-ara,Haute-Savoie,département,Annecy
-fr-75c,fr-idf,Paris,collectivité métropolitaine,Paris
-fr-76,fr-nor,Seine-Maritime,département,Rouen
-fr-77,fr-idf,Seine-et-Marne,département,Melun
-fr-78,fr-idf,Yvelines,département,Versailles
-fr-79,fr-naq,Deux-Sèvres,département,Niort
-fr-80,fr-hdf,Somme,département,Amiens
-fr-81,fr-occ,Tarn,département,Albi
-fr-82,fr-occ,Tarn-et-Garonne,département,Montauban
-fr-83,fr-pac,Var,département,Toulon
-fr-84,fr-pac,Vaucluse,département,Avignon
-fr-85,fr-pdl,Vendée,département,La Roche-sur-Yon
-fr-86,fr-naq,Vienne,département,Poitiers
-fr-87,fr-naq,Haute-Vienne,département,Limoges
-fr-88,fr-ges,Vosges,département,Épinal
-fr-89,fr-bfc,Yonne,département,Auxerre
-fr-90,fr-bfc,Territoire de Belfort,département,Belfort
-fr-91,fr-idf,Essonne,département,Évry
-fr-92,fr-idf,Hauts-de-Seine,département,Nanterre
-fr-93,fr-idf,Seine-Saint-Denis,département,Bobigny
-fr-94,fr-idf,Val-de-Marne,département,Créteil
-fr-95,fr-idf,Val-d'Oise,département,Pontoise
-fr-69M,fr-ara,Métropole de Lyon,collectivité métropolitaine,Lyon
-fr-971,029,Guadeloupe,collectivité départementale d'outre-mer,Basse-Terre
-fr-972,029,Martinique,collectivité territoriale unique,Fort-de-France
-fr-973,005,Guyane,collectivité territoriale unique d'outre-mer,Cayenne
-fr-974,014,La Réunion,département et région d'outre-mer,Saint-Denis
-fr-976,014,Mayotte,département et région d’outre-mer,Mamoudzou
-fr-nc,054,Nouvelle-Calédonie,collectivité d’outre-mer à statut particulier,Nouméa
-fr-pf,061,Polynésie française,collectivité d'outre-mer,Papeete
-fr-wf,061,Îles Wallis-et-Futuna,collectivité d'outre-mer,Mata Utu
-fr-pm,021,Saint-Pierre-et-Miquelon,collectivité d'outre-mer,Saint-Pierre
-fr-mf,029,Saint-Martin,collectivité d'outre-mer,Marigot
-fr-tf,014,Terres australes françaises,territoire d'outre-mer,
+code,parent,intitule,,nom,capitale
+fr,001.150.155.fr,France,,pays,Paris
+fr-20r,001.150.155.fr.20r,Corse,,collectivité métropolitaine,Ajaccio
+fr-6ae,001.150.155.fr.6ae,Alsace,,collectivité européenne,Strasbourg
+fr-ara,001.150.155.fr.ara,Auvergne-Rhône-Alpes,,région,Lyon
+fr-bfc,001.150.155.fr.bfc,Bourgogne-Franche-Comté,,région,Dijon
+fr-bre,001.150.155.fr.bre,Bretagne,,région,Rennes
+fr-cvl,001.150.155.fr.cvl,Centre-Val de Loire,,région,Orléans
+fr-ges,001.150.155.fr.ges,Grand Est,,région,Strasbourg
+fr-hdf,001.150.155.fr.hdf,Hauts-de-France,,région,Lille
+fr-idf,001.150.155.fr.idf,Île-de-France,,région,Paris
+fr-naq,001.150.155.fr.naq,Nouvelle-Aquitaine,,région,Bordeaux
+fr-nor,001.150.155.fr.nor,Normandie,,région,Rouen
+fr-occ,001.150.155.fr.occ,Occitanie,,région,Toulouse
+fr-pac,001.150.155.fr.pac,Provence-Alpes-Côte d’Azur,,région,Marseille
+fr-pdl,001.150.155.fr.pdl,Pays de la Loire,,région,Nantes
+fr-01,001.150.155.fr.ara.01,Ain,,département,Bourg-en-Bresse
+fr-02,001.150.155.fr.hdf.02,Aisne,,département,Laon
+fr-03,001.150.155.fr.ara.03,Allier,,département,Moulins
+fr-04,001.150.155.fr.pac.04,Alpes-de-Haute-Provence,,département,Digne-les-Bains
+fr-05,001.150.155.fr.pac.05,Hautes-Alpes,,département,Gap
+fr-06,001.150.155.fr.pac.06,Alpes-Maritimes,,département,Nice
+fr-07,001.150.155.fr.ara.07,Ardèche,,département,Privas
+fr-08,001.150.155.fr.ges.08,Ardennes,,département,Charleville-Mézières
+fr-09,001.150.155.fr.occ.09,Ariège,,département,Foix
+fr-10,001.150.155.fr.ges.10,Aube,,département,Troyes
+fr-11,001.150.155.fr.occ.11,Aude,,département,Carcassonne
+fr-12,001.150.155.fr.occ.12,Aveyron,,département,Rodez
+fr-13,001.150.155.fr.pac.13,Bouches-du-Rhône,,département,Marseille
+fr-14,001.150.155.fr.nor.14,Calvados,,département,Caen
+fr-15,001.150.155.fr.ara.15,Cantal,,département,Aurillac
+fr-16,001.150.155.fr.naq.16,Charente,,département,Angoulême
+fr-17,001.150.155.fr.naq.17,Charente-Maritime,,département,La Rochelle
+fr-18,001.150.155.fr.cvl.18,Cher,,département,Bourges
+fr-19,001.150.155.fr.naq.19,Corrèze,,département,Tulle
+fr-21,001.150.155.fr.bfc.21,Côte-d'Or,,département,Dijon
+fr-22,001.150.155.fr.bre.22,Côtes-d'Armor,,département,Saint-Brieuc
+fr-23,001.150.155.fr.naq.23,Creuse,,département,Guéret
+fr-24,001.150.155.fr.naq.24,Dordogne,,département,Périgueux
+fr-25,001.150.155.fr.bfc.25,Doubs,,département,Besançon
+fr-26,001.150.155.fr.ara.26,Drôme,,département,Valence
+fr-27,001.150.155.fr.nor.27,Eure,,département,Évreux
+fr-28,001.150.155.fr.cvl.28,Eure-et-Loir,,département,Chartres
+fr-29,001.150.155.fr.bre.29,Finistère,,département,Quimper
+fr-2A,001.150.155.fr.20r.2A,Corse-du-Sud,,département,Ajaccio
+fr-2B,001.150.155.fr.20r.2B,Haute-Corse,,département,Bastia
+fr-30,001.150.155.fr.occ.30,Gard,,département,Nîmes
+fr-31,001.150.155.fr.occ.31,Haute-Garonne,,département,Toulouse
+fr-32,001.150.155.fr.occ.32,Gers,,département,Auch
+fr-33,001.150.155.fr.naq.33,Gironde,,département,Bordeaux
+fr-34,001.150.155.fr.occ.34,Hérault,,département,Montpellier
+fr-35,001.150.155.fr.bre.35,Ille-et-Vilaine,,département,Rennes
+fr-36,001.150.155.fr.cvl.36,Indre,,département,Châteauroux
+fr-37,001.150.155.fr.cvl.37,Indre-et-Loire,,département,Tours
+fr-38,001.150.155.fr.ara.38,Isère,,département,Grenoble
+fr-39,001.150.155.fr.bfc.39,Jura,,département,Lons-le-Saunier
+fr-40,001.150.155.fr.naq.40,Landes,,département,Mont-de-Marsan
+fr-41,001.150.155.fr.cvl.41,Loir-et-Cher,,département,Blois
+fr-42,001.150.155.fr.ara.42,Loire,,département,Saint-Étienne
+fr-43,001.150.155.fr.ara.43,Haute-Loire,,département,Le Puy-en-Velay
+fr-44,001.150.155.fr.pdl.44,Loire-Atlantique,,département,Nantes
+fr-45,001.150.155.fr.cvl.45,Loiret,,département,Orléans
+fr-46,001.150.155.fr.occ.46,Lot,,département,Cahors
+fr-47,001.150.155.fr.naq.47,Lot-et-Garonne,,département,Agen
+fr-48,001.150.155.fr.occ.48,Lozère,,département,Mende
+fr-49,001.150.155.fr.pdl.49,Maine-et-Loire,,département,Angers
+fr-50,001.150.155.fr.nor.50,Manche,,département,Saint-Lô
+fr-51,001.150.155.fr.ges.51,Marne,,département,Châlons-en-Champagne
+fr-52,001.150.155.fr.ges.52,Haute-Marne,,département,Chaumont
+fr-53,001.150.155.fr.pdl.53,Mayenne,,département,Laval
+fr-54,001.150.155.fr.ges.54,Meurthe-et-Moselle,,département,Nancy
+fr-55,001.150.155.fr.ges.55,Meuse,,département,Bar-le-Duc
+fr-56,001.150.155.fr.bre.56,Morbihan,,département,Vannes
+fr-57,001.150.155.fr.ges.57,Moselle,,département,Metz
+fr-58,001.150.155.fr.bfc.58,Nièvre,,département,Nevers
+fr-59,001.150.155.fr.hdf.59,Nord,,département,Lille
+fr-60,001.150.155.fr.hdf.60,Oise,,département,Beauvais
+fr-61,001.150.155.fr.nor.61,Orne,,département,Alençon
+fr-62,001.150.155.fr.hdf.62,Pas-de-Calais,,département,Arras
+fr-63,001.150.155.fr.ara.63,Puy-de-Dôme,,département,Clermont-Ferrand
+fr-64,001.150.155.fr.naq.64,Pyrénées-Atlantiques,,département,Pau
+fr-65,001.150.155.fr.occ.65,Hautes-Pyrénées,,département,Tarbes
+fr-66,001.150.155.fr.occ.66,Pyrénées-Orientales,,département,Perpignan
+fr-67,001.150.155.fr.6ae.67,Bas-Rhin,,département,Strasbourg
+fr-68,001.150.155.fr.6ae.68,Haut-Rhin,,département,Colmar
+fr-69,001.150.155.fr.Biberachara.69,Rhône,,département,Lyon
+fr-70,001.150.155.fr.bfc.70,Haute-Saône,,département,Vesoul
+fr-71,001.150.155.fr.bfc.71,Saône-et-Loire,,département,Mâcon
+fr-72,001.150.155.fr.pdl.72,Sarthe,,département,Le Mans
+fr-73,001.150.155.fr.ara.73,Savoie,,département,Chambéry
+fr-74,001.150.155.fr.ara.74,Haute-Savoie,,département,Annecy
+fr-75C,001.150.155.fr.idf.75c,Paris,,collectivité métropolitaine,Paris
+fr-76,001.150.155.fr.nor.76,Seine-Maritime,,département,Rouen
+fr-77,001.150.155.fr.idf.77,Seine-et-Marne,,département,Melun
+fr-78,001.150.155.fr.idf.78,Yvelines,,département,Versailles
+fr-79,001.150.155.fr.naq.79,Deux-Sèvres,,département,Niort
+fr-80,001.150.155.fr.hdf.80,Somme,,département,Amiens
+fr-81,001.150.155.fr.occ.81,Tarn,,département,Albi
+fr-82,001.150.155.fr.occ.82,Tarn-et-Garonne,,département,Montauban
+fr-83,001.150.155.fr.pac.83,Var,,département,Toulon
+fr-84,001.150.155.fr.pac.84,Vaucluse,,département,Avignon
+fr-85,001.150.155.fr.pdl.85,Vendée,,département,La Roche-sur-Yon
+fr-86,001.150.155.fr.naq.86,Vienne,,département,Poitiers
+fr-87,001.150.155.fr.naq.87,Haute-Vienne,,département,Limoges
+fr-88,001.150.155.fr.ges.88,Vosges,,département,Épinal
+fr-89,001.150.155.fr.bfc.89,Yonne,,département,Auxerre
+fr-90,001.150.155.fr.bfc.90,Territoire de Belfort,,département,Belfort
+fr-91,001.150.155.fr.idf.91,Essonne,,département,Évry
+fr-92,001.150.155.fr.idf.92,Hauts-de-Seine,,département,Nanterre
+fr-93,001.150.155.fr.idf.93,Seine-Saint-Denis,,département,Bobigny
+fr-94,001.150.155.fr.idf.94,Val-de-Marne,,département,Créteil
+fr-95,001.150.155.fr.idf.95,Val-d'Oise,,département,Pontoise
+fr-69M,001.150.155.fr.ara.69M,Métropole de Lyon,,collectivité métropolitaine,Lyon
+fr-971,001.019.419.029.gp,Guadeloupe,,collectivité départementale d'outre-mer,Basse-Terre
+fr-972,001.019.419.029.mq,Martinique,,collectivité territoriale unique,Fort-de-France
+fr-mf,001.019.419.029.mf,Saint-Martin,,collectivité d'outre-mer,Marigot
+fr-973,005,Guyane,,collectivité territoriale unique d'outre-mer,Cayenne
+fr-974,014,La Réunion,,département et région d'outre-mer,Saint-Denis
+fr-976,014,Mayotte,,département et région d’outre-mer,Mamoudzou
+fr-nc,054,Nouvelle-Calédonie,,collectivité d’outre-mer à statut particulier,Nouméa
+fr-pf,061,Polynésie française,,collectivité d'outre-mer,Papeete
+fr-wf,061,Îles Wallis-et-Futuna,,collectivité d'outre-mer,Mata Utu
+fr-pm,021,Saint-Pierre-et-Miquelon,,collectivité d'outre-mer,Saint-Pierre
+fr-tf,014,Terres australes françaises,,territoire d'outre-mer,

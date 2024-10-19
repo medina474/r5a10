@@ -1,72 +1,72 @@
-code,parent,intitule,nom,capitale
-lt,154,Lituanie,pays,Vilnius
-lt-AL,lt,Alytus,,Alytus
-lt-KL,lt,Klaipeda,,Klaipėda
-lt-KU,lt,Kaunas,,Kaunas
-lt-MR,lt,Marijampole,,Marijampolė
-lt-PN,lt,Panevezys,,Panevėžys
-lt-SA,lt,Siauliai,,Šiauliai
-lt-TA,lt,Taurage,,Tauragė
-lt-TE,lt,Telsiai,,Telšiai
-lt-UT,lt,Utena,,Utena
-lt-VL,lt,Vilnius,,Vilnius
-01,lt,Akmenė,district municipality,Akmenė
-02,lt,Alytaus miestas,city municipality,Alytus
-03,lt,Alytus,district municipality,Alytus
-04,lt,Anykščiai,district municipality,
-05,lt,Birštono,municipality,
-06,lt,Biržai,district municipality,
-07,lt,Druskininkai,municipality,Druskininkai
-08,lt,Elektrėnai,municipality,
-09,lt,Ignalina,district municipality,Ignalina
-10,lt,Jonava,district municipality,Jonava
-11,lt,Joniškis,district municipality,Joniškis
-12,lt,Jurbarkas,district municipality,Jurbarkas
-13,lt,Kaišiadorys,district municipality,Kaišiadorys
-14,lt,Kalvarijos,municipality,
-15,lt,Kauno miestas,city municipality,Kaunas
-16,lt,Kaunas,district municipality,Kaunas
-17,lt,Kazlų Rūdos,municipality,Skuodas
-18,lt,Kėdainiai,district municipality,Kėdainiai
-19,lt,Kelmė,district municipality,Kelmė
-20,lt,Klaipėdos miestas,city municipality,Klaipėda
-21,lt,Klaipėda,district municipality,Klaipėda
-22,lt,Kretinga,district municipality,Kretinga
-23,lt,Kupiškis,district municipality,Kupiskis
-24,lt,Lazdijai,district municipality,Lazdijai
-25,lt,Marijampolė,district municipality,Marijampolė
-26,lt,Mažeikiai,district municipality,Joniškis
-27,lt,Molėtai,district municipality,Molėtai
-28,lt,Neringa,municipality,Nida
-29,lt,Pagėgiai,municipality,Pagėgiai
-30,lt,Pakruojis,district municipality,Pakruojis
-31,lt,Palangos miestas,city municipality,
-32,lt,Panevėžio miestas,city municipality,Panevėžys
-33,lt,Panevėžys,district municipality,
-34,lt,Pasvalys,district municipality,Pasvalys
-35,lt,Plungė,district municipality,
-36,lt,Prienai,district municipality,Prienai
-37,lt,Radviliškis,district municipality,
-38,lt,Raseiniai,district municipality,Raseiniai
-39,lt,Rietavo,municipality,Rietavas
-40,lt,Rokiškis,district municipality,Rokiškis
-41,lt,Šakiai,district municipality,Šakiai
-42,lt,Šalčininkai,district municipality,Šalčininkai
-43,lt,Šiaulių miestas,city municipality,Šiauliai
-44,lt,Šiauliai,district municipality,Šiauliai
-45,lt,Šilalė,district municipality,Šilalė
-46,lt,Šilutė,district municipality,
-47,lt,Širvintos,district municipality,Širvintos
-48,lt,Skuodas,district municipality,Skuodas
-49,lt,Švenčionys,district municipality,
-50,lt,Tauragė,district municipality,Taurage
-51,lt,Telšiai,district municipality,Telsiai
-52,lt,Trakai,district municipality,
-53,lt,Ukmergė,district municipality,
-54,lt,Utena,district municipality,Utena
-55,lt,Varėna,district municipality,Varėna
-56,lt,Vilkaviškis,district municipality,Vilkaviskis
-57,lt,Vilniaus miestas,city municipality,Vilnius
-58,lt,Vilnius,district municipality,Vilnius
-59,lt,Visaginas,municipality,Visaginas
-60,lt,Zarasai,district municipality,Zarasai
+code,parent,intitule,,nom,capitale
+lt,001.150.154.157.LT,Lituanie,,pays,Vilnius
+lt-AL,001.150.154.157.lt,Alytus,,,Alytus
+lt-KL,001.150.154.157.lt,Klaipeda,,,Klaipėda
+lt-KU,001.150.154.157.lt,Kaunas,,,Kaunas
+lt-MR,001.150.154.157.lt,Marijampole,,,Marijampolė
+lt-PN,001.150.154.157.lt,Panevezys,,,Panevėžys
+lt-SA,001.150.154.157.lt,Siauliai,,,Šiauliai
+lt-TA,001.150.154.157.lt,Taurage,,,Tauragė
+lt-TE,001.150.154.157.lt,Telsiai,,,Telšiai
+lt-UT,001.150.154.157.lt,Utena,,,Utena
+lt-VL,001.150.154.157.lt,Vilnius,,,Vilnius
+01,001.150.154.157.LT.01,Akmenė,,district municipality,Akmenė
+02,001.150.154.157.LT.02,Alytaus miestas,,city municipality,Alytus
+03,001.150.154.157.LT.03,Alytus,,district municipality,Alytus
+04,001.150.154.157.LT.04,Anykščiai,,district municipality,
+05,001.150.154.157.LT.05,Birštono,,municipality,
+06,001.150.154.157.LT.06,Biržai,,district municipality,
+07,001.150.154.157.LT.07,Druskininkai,,municipality,Druskininkai
+08,001.150.154.157.LT.08,Elektrėnai,,municipality,
+09,001.150.154.157.LT.09,Ignalina,,district municipality,Ignalina
+10,001.150.154.157.LT.10,Jonava,,district municipality,Jonava
+11,001.150.154.157.LT.11,Joniškis,,district municipality,Joniškis
+12,001.150.154.157.LT.12,Jurbarkas,,district municipality,Jurbarkas
+13,001.150.154.157.LT.13,Kaišiadorys,,district municipality,Kaišiadorys
+14,001.150.154.157.LT.14,Kalvarijos,,municipality,
+15,001.150.154.157.LT.15,Kauno miestas,,city municipality,Kaunas
+16,001.150.154.157.LT.16,Kaunas,,district municipality,Kaunas
+17,001.150.154.157.LT.17,Kazlų Rūdos,,municipality,Skuodas
+18,001.150.154.157.LT.18,Kėdainiai,,district municipality,Kėdainiai
+19,001.150.154.157.LT.19,Kelmė,,district municipality,Kelmė
+20,001.150.154.157.LT.20,Klaipėdos miestas,,city municipality,Klaipėda
+21,001.150.154.157.LT.21,Klaipėda,,district municipality,Klaipėda
+22,001.150.154.157.LT.22,Kretinga,,district municipality,Kretinga
+23,001.150.154.157.LT.23,Kupiškis,,district municipality,Kupiskis
+24,001.150.154.157.LT.24,Lazdijai,,district municipality,Lazdijai
+25,001.150.154.157.LT.25,Marijampolė,,district municipality,Marijampolė
+26,001.150.154.157.LT.26,Mažeikiai,,district municipality,Joniškis
+27,001.150.154.157.LT.27,Molėtai,,district municipality,Molėtai
+28,001.150.154.157.LT.28,Neringa,,municipality,Nida
+29,001.150.154.157.LT.29,Pagėgiai,,municipality,Pagėgiai
+30,001.150.154.157.LT.30,Pakruojis,,district municipality,Pakruojis
+31,001.150.154.157.LT.31,Palangos miestas,,city municipality,
+32,001.150.154.157.LT.32,Panevėžio miestas,,city municipality,Panevėžys
+33,001.150.154.157.LT.33,Panevėžys,,district municipality,
+34,001.150.154.157.LT.34,Pasvalys,,district municipality,Pasvalys
+35,001.150.154.157.LT.35,Plungė,,district municipality,
+36,001.150.154.157.LT.36,Prienai,,district municipality,Prienai
+37,001.150.154.157.LT.37,Radviliškis,,district municipality,
+38,001.150.154.157.LT.38,Raseiniai,,district municipality,Raseiniai
+39,001.150.154.157.LT.39,Rietavo,,municipality,Rietavas
+40,001.150.154.157.LT.40,Rokiškis,,district municipality,Rokiškis
+41,001.150.154.157.LT.41,Šakiai,,district municipality,Šakiai
+42,001.150.154.157.LT.42,Šalčininkai,,district municipality,Šalčininkai
+43,001.150.154.157.LT.43,Šiaulių miestas,,city municipality,Šiauliai
+44,001.150.154.157.LT.44,Šiauliai,,district municipality,Šiauliai
+45,001.150.154.157.LT.45,Šilalė,,district municipality,Šilalė
+46,001.150.154.157.LT.46,Šilutė,,district municipality,
+47,001.150.154.157.LT.47,Širvintos,,district municipality,Širvintos
+48,001.150.154.157.LT.48,Skuodas,,district municipality,Skuodas
+49,001.150.154.157.LT.49,Švenčionys,,district municipality,
+50,001.150.154.157.LT.50,Tauragė,,district municipality,Taurage
+51,001.150.154.157.LT.51,Telšiai,,district municipality,Telsiai
+52,001.150.154.157.LT.52,Trakai,,district municipality,
+53,001.150.154.157.LT.53,Ukmergė,,district municipality,
+54,001.150.154.157.LT.54,Utena,,district municipality,Utena
+55,001.150.154.157.LT.55,Varėna,,district municipality,Varėna
+56,001.150.154.157.LT.56,Vilkaviškis,,district municipality,Vilkaviskis
+57,001.150.154.157.LT.57,Vilniaus miestas,,city municipality,Vilnius
+58,001.150.154.157.LT.58,Vilnius,,district municipality,Vilnius
+59,001.150.154.157.LT.59,Visaginas,,municipality,Visaginas
+60,001.150.154.157.LT.60,Zarasai,,district municipality,Zarasai

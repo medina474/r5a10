@@ -14,13 +14,13 @@ create table pays (
 );
 
 comment on column pays.code2
-  is 'iso 3166-1 alpha 2';
+  is 'code ISO 3166-1 alpha 2';
 
 comment on column pays.code3
-  is 'iso 3166-1 alpha 3';
+  is 'code ISO 3166-1 alpha 3';
 
 comment on column pays.code_num
-  is 'iso 3166-1 numeric';
+  is 'code ISO 3166-1 numérique identique à la division statistique des Nations Unies UN M.49';
 
 -- regions
 

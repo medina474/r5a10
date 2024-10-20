@@ -1,11 +1,11 @@
 code,hierarchie,region,francais,administration,capitale
-040,AT,001.150.155.040,Österreich,Autriche,pays,Wien
-,AT-1,001.150.155.AT11,Burgenland,,Land,Eisenstadt
-,AT-2,001.150.155.AT21,Kärnten,Carinthie,Land,Klagenfurt
-,AT-3,001.150.155.AT12,Niederösterreich,Basse-Autriche,Land,Sankt Pölten
-,AT-4,001.150.155.AT.4,Oberösterreich,Haute-Autriche,Land,Linz
-,AT-5,001.150.155.AT.5,Salzburg,,Land,Salzburg
-,AT-6,001.150.155.AT.6,Steiermark,,Land,Graz
-,AT-7,001.150.155.AT.7,Tirol,Tyrol,Land,Innsbruck
-,AT-8,001.150.155.AT.8,Vorarlberg,,Land,Bregenz
-,AT-9,001.150.155.AT.AT13,Wien,Vienne,Land,Wien
+AT,001.150.155.040,Österreich,Autriche,pays,Wien
+AT-1,001.150.155.040.AT-1,Burgenland,,Land,Eisenstadt
+AT-2,001.150.155.040.AT-2,Kärnten,Carinthie,Land,Klagenfurt
+AT-3,001.150.155.040.AT-3,Niederösterreich,Basse-Autriche,Land,Sankt Pölten
+AT-4,001.150.155.040.AT-4,Oberösterreich,Haute-Autriche,Land,Linz
+AT-5,001.150.155.040.AT-5,Salzburg,,Land,Salzburg
+AT-6,001.150.155.040.AT-6,Steiermark,,Land,Graz
+AT-7,001.150.155.040.AT-7,Tirol,Tyrol,Land,Innsbruck
+AT-8,001.150.155.040.AT-8,Vorarlberg,,Land,Bregenz
+AT-9,001.150.155.040.AT-9,Wien,Vienne,Land,Wien

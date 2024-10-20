@@ -1,5 +1,5 @@
 code,hierarchie,region,francais,administration,capitale
-us,001.019.021.US,États-Unis d'Amérique,,pays,Washington
+840,us,001.019.021.US,États-Unis d'Amérique,,pays,Washington
 us-ak,001.019.021.US.AK,Alaska,,state,Juneau
 us-al,001.019.021.US.AL,Alabama,,state,Montgomery
 us-ar,001.019.021.US.AR,Arkansas,,state,Little Rock
@@ -57,9 +57,9 @@ us-mp,001.019.021.US.MP,Northern Mariana Islands,,territory,
 us-pr,001.019.021.US.PR,Puerto Rico,,territory,
 us-um,001.019.021.US.UM,S. Minor Outlying Islands,,territory,
 us-vi,001.019.021.US.VI,Virgin Islands of the U.S.,,territory,
-mp,057,Îles Mariannes du Nord,,territoire non-incorporé et organisé,Saipan
-vi,029,Îles Vierges américaines,,territoire non-incorporé et organisé,Charlotte-Amélie
-gu,057,Guam,,territoire non-incorporé et organisé,Hagåtña
-um,057,Îles mineures éloignées des États-Unis,,pays,
-as,061,Samoa américaines,,territoire non-incorporé et non-organisé,Pago Pago
-pr,029,Porto Rico,,territoire non-incorporé et organisé,San Juan
+580,mp,057,Îles Mariannes du Nord,,territoire non-incorporé et organisé,Saipan
+850,vi,029,Îles Vierges américaines,,territoire non-incorporé et organisé,Charlotte-Amélie
+316,gu,057,Guam,,territoire non-incorporé et organisé,Hagåtña
+581,um,057,Îles mineures éloignées des États-Unis,,pays,
+016,as,061,Samoa américaines,,territoire non-incorporé et non-organisé,Pago Pago
+630,pr,029,Porto Rico,,territoire non-incorporé et organisé,San Juan

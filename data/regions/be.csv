@@ -1,15 +1,15 @@
 code,hierarchie,region,francais,administration,capitale
-be,155,Belgique,,pays,Bruxelles
-be-bru,be,Brussels,,Bruxelles-Capitale,Brussels
-be-vlg,be,Vlaams Gewest,,region,Brussels
-be-wal,be,Wallonie,,region,Namur
-be-van,be-vlg,Antwerpen,,province,Antwerp
-be-vbr,be-vlg,Vlaams Brabant,,province,Leuven
-be-vli,be-vlg,Limburg,,province,Hasselt
-be-vov,be-vlg,Oost-Vlaanderen,,province,Gent
-be-vwv,be-vlg,West-Vlaanderen,,province,Brugge
-be-wbr,be-wal,Brabant Wallon,,province,Wavre
-be-wht,be-wal,Hainaut,,province,Mons
-be-wlg,be-wal,Liège,,province,Liège
-be-wlx,be-wal,Luxembourg,,province,Arlon
-be-wna,be-wal,Namur,,province,Namur
+056,be,155,Belgique,,pays,Bruxelles
+,be-bru,be,Brussels,,Bruxelles-Capitale,Brussels
+,be-vlg,be,Vlaams Gewest,,region,Brussels
+,be-wal,be,Wallonie,,region,Namur
+,be-van,be-vlg,Antwerpen,,province,Antwerp
+,be-vbr,be-vlg,Vlaams Brabant,,province,Leuven
+,be-vli,be-vlg,Limburg,,province,Hasselt
+,be-vov,be-vlg,Oost-Vlaanderen,,province,Gent
+,be-vwv,be-vlg,West-Vlaanderen,,province,Brugge
+,be-wbr,be-wal,Brabant Wallon,,province,Wavre
+,be-wht,be-wal,Hainaut,,province,Mons
+,be-wlg,be-wal,Liège,,province,Liège
+,be-wlx,be-wal,Luxembourg,,province,Arlon
+,be-wna,be-wal,Namur,,province,Namur

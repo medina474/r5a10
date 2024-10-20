@@ -1,5 +1,5 @@
 code,hierarchie,region,francais,administration,capitale
-gb,154,Royaume-Uni,,1,Londres
+826,gb,154,Royaume-Uni,,1,Londres
 gb-bdg,gb-eng,Barking and Dagenham,,arrondissement de Londres,
 gb-bne,gb-eng,Barnet,,arrondissement de Londres,
 gb-bex,gb-eng,Bexley,,arrondissement de Londres,
@@ -221,19 +221,19 @@ gb-slk,gb-sct,South Lanarkshire,,zone de conseil,
 gb-stg,gb-sct,Stirling,,zone de conseil,
 gb-wdu,gb-sct,West Dunbartonshire,,zone de conseil,
 gb-wln,gb-sct,West Lothian,,zone de conseil,
-ai,029,Anguilla,,territoire britannique d'outre-mer,The Valley
-vg,029,Îles Vierges britanniques,,territoire britannique d'outre-mer,Road Town
-ky,029,Îles Caïmanes,,territoire britannique d'outre-mer,George Town
-ms,029,Montserrat,,territoire britannique d'outre-mer.,Brades
+660,ai,029,Anguilla,,territoire britannique d'outre-mer,The Valley
+092,vg,029,Îles Vierges britanniques,,territoire britannique d'outre-mer,Road Town
+136,ky,029,Îles Caïmanes,,territoire britannique d'outre-mer,George Town
+500,ms,029,Montserrat,,territoire britannique d'outre-mer.,Brades
 830,154,Îles de la Manche,,dépendance de la Couronne,
-gg,154,Guernesey,,dépendance de la Couronne,Saint-Pierre-Port
-im,154,Île de Man,,dépendance de la Couronne,Douglas
-je,154,Jersey,,dépendance de la Couronne,Saint-Hélier
-sh,011,Sainte-Hélène,,territoire britannique d'outre-mer,Jamestown
-pn,061,Pitcairn,,territoire britannique d'outre-mer,Adamstown
-io,014,Territoire britannique de l'océan Indien,,territoire britannique d'outre-mer,
-fk,005,Îles Falkland (Malvinas),,territoire britannique d'outre-mer,Stanley
-tc,029,Îles Turques-et-Caïques,,territoire britannique d'outre-mer,Cockburn Town
-bm,021,Bermudes,,Territoire britannique d'outre-mer,Hamilton
-gi,039,Gibraltar,,territoire britannique d'outre-mer,Gibraltar
-gs,005,Géorgie du Sud-et-les Îles Sandwich du Sud,,territoire britannique d'outre-mer,King Edward Point
+831,gg,154,Guernesey,,dépendance de la Couronne,Saint-Pierre-Port
+833,im,154,Île de Man,,dépendance de la Couronne,Douglas
+832,je,154,Jersey,,dépendance de la Couronne,Saint-Hélier
+654,sh,011,Sainte-Hélène,,territoire britannique d'outre-mer,Jamestown
+612,pn,061,Pitcairn,,territoire britannique d'outre-mer,Adamstown
+086,io,014,Territoire britannique de l'océan Indien,,territoire britannique d'outre-mer,
+238,fk,005,Îles Falkland (Malvinas),,territoire britannique d'outre-mer,Stanley
+796,tc,029,Îles Turques-et-Caïques,,territoire britannique d'outre-mer,Cockburn Town
+060,bm,021,Bermudes,,Territoire britannique d'outre-mer,Hamilton
+292,gi,039,Gibraltar,,territoire britannique d'outre-mer,Gibraltar
+239,gs,005,Géorgie du Sud-et-les Îles Sandwich du Sud,,territoire britannique d'outre-mer,King Edward Point

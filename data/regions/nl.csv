@@ -1,5 +1,5 @@
 code,hierarchie,region,francais,administration,capitale
-nl,001.150.155.nl,Pays-bas,,pays,La Haye
+528,nl,001.150.155.nl,Pays-bas,,pays,La Haye
 nl-dr,001.150.155.nl.dr,Drenthe,,province,Assen
 nl-fl,001.150.155.nl.fl,Flevoland,,province,Lelystad
 nl-fr,001.150.155.nl.fr,Friesland,,province,Leeuwarden
@@ -12,6 +12,6 @@ nl-ov,001.150.155.nl.ov,Overijssel,,province,Zwolle
 nl-ut,001.150.155.nl.ut,Utrecht,,province,Utrecht
 nl-ze,001.150.155.nl.ze,Zeeland,,province,Middelburg
 nl-zh,001.150.155.nl.zh,Zuid Holland,,province,Den Haag
-aw,001.019.419.029.aw,Aruba,,pays constitutif du royaume des Pays-Bas,Oranjestad
-cw,001.019.419.029.cw,Curaçao,,pays constitutif du royaume des Pays-Bas,Willemstad
-sx,001.019.419.029.sx,Sint Maarten,,état autonome dépendant du royaume des Pays-Bas,Philipsburg
+533,aw,001.019.419.029.aw,Aruba,,pays constitutif du royaume des Pays-Bas,Oranjestad
+531,cw,001.019.419.029.cw,Curaçao,,pays constitutif du royaume des Pays-Bas,Willemstad
+534,sx,001.019.419.029.sx,Sint Maarten,,état autonome dépendant du royaume des Pays-Bas,Philipsburg

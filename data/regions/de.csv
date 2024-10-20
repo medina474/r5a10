@@ -1,5 +1,5 @@
 code,hierarchie,region,francais,administration,capitale
-DE,001.150.155.DE,Allemagne,,pays,Berlin
+276,DE,001.150.155.DE,Allemagne,,pays,Berlin
 DE-BB,001.150.DE.DE4,Brandenburg,Brandebourg,Land,Potsdam
 DE-BE,001.150.DE.DE3,Berlin,,Land,Berlin
 DE-BW,001.150.DE.DE1,Baden-Württemberg,Bade-Wurtemberg,Land,Stuttgart
@@ -17,8 +17,43 @@ DE-SN,001.150.DE.DED,Sachsen,Saxe,Freistaat,Dresden
 DE-ST,001.150.DE.DEE,Sachsen-Anhalt,Saxe-Anhalt,Land,Magdeburg
 DE-TH,001.150.DE.DEG,Thüringen,Thuringe,Freistaat,Erfurt
 DE-11,001.150.DE.DE1.DE11,Stuttgart,Stuttgart,Regierungsbezirke,Stuttgart
+DE-111,001.150.DE.DE1.DE11.DE111,Stuttgart,,ville-arrondissement,
+DE-112,001.150.DE.DE1.DE11.DE112,Böblingen,Böblingen,Landkreis,
+DE-113,001.150.DE.DE1.DE11.DE113,Esslingen,Esslingen,Landkreis,
+DE-114,001.150.DE.DE1.DE11.DE114,Göppingen,Göppingen,Landkreis,
+DE-115,001.150.DE.DE1.DE11.DE115,Ludwigsburg,Louisbourg,Landkreis,
+DE-116,001.150.DE.DE1.DE11.DE116,Rems-Murr,,Kreis,
+DE-117,001.150.DE.DE1.DE11.DE117,Heilbronn,,ville-arrondissement,
+DE-118,001.150.DE.DE1.DE11.DE118,Heilbronn,Heilbronn,Landkreis,
+DE-119,001.150.DE.DE1.DE11.DE119,Hohenlohe,,Kreis,
+DE-11A,001.150.DE.DE1.DE11.DE11A,Schwäbisch Hall,Schwäbisch Hall,Landkreis,
+DE-11B,001.150.DE.DE1.DE11.DE11B,Main-Tauber,,Kreis,
+DE-11C,001.150.DE.DE1.DE11.DE11C,Heidenheim,,Landkreis,
+DE-11D,001.150.DE.DE1.DE11.DE11D,Arrondissement d'Ostalb,,Kreis,
 DE-12,001.150.DE.DE1.DE12,Karlsruhe,Karlsruhe,Regierungsbezirke,Karlsruhe
-DE-13,001.150.DE.DE1.DE13,Freiburg,Fribourg,Regierungsbezirke,Fribourg-en-Brisgau
+DE-121,001.150.DE.DE1.DE11.DE121,Baden-Baden,,ville-arrondissement,
+DE-122,001.150.DE.DE1.DE11.DE122,Karlsruhe,,ville-arrondissement,
+DE-123,001.150.DE.DE1.DE11.DE123,Karlsruhe,,Landkreis,
+DE-124,001.150.DE.DE1.DE11.DE124,Rastatt,,Landkreis,
+DE-125,001.150.DE.DE1.DE11.DE125,Heidelberg,,ville-arrondissement,
+DE-126,001.150.DE.DE1.DE11.DE126,Mannheim,,ville-arrondissement,
+DE-127,001.150.DE.DE1.DE11.DE127,Neckar-Odenwald,,Kreis,
+DE-128,001.150.DE.DE1.DE11.DE128,Rhin-Neckar,,Kreis,
+DE-129,001.150.DE.DE1.DE11.DE129,Pforzheim,,ville-arrondissement,
+DE-12A,001.150.DE.DE1.DE11.DE12A,Calw,,Landkreis,
+DE-12B,001.150.DE.DE1.DE11.DE12B,Enz,,Kreis,
+DE-12C,001.150.DE.DE1.DE11.DE12C,Freudenstadt,,Landkreis,
+DE-13,001.150.DE.DE1.DE13,Freiburg im Breisgau,Fribourg,Regierungsbezirke,Fribourg-en-Brisgau
+DE-131,001.150.DE.DE1.DE11.DE131,Freiburg im Breisgau,Fribourg-en-Brisgau,ville-arrondissement,
+DE-132,001.150.DE.DE1.DE11.DE132,Breisgau-Hochschwarzwald,Brisgau-Haute-Forêt-Noire,Landkreis,
+DE-133,001.150.DE.DE1.DE11.DE133,Emmendingen,,Landkreis,
+DE-134,001.150.DE.DE1.DE11.DE134,l'Ortenau,Ortenaukreis,Kreis,
+DE-135,001.150.DE.DE1.DE11.DE135,Rottweil,,Landkreis,
+DE-136,001.150.DE.DE1.DE11.DE136,Forêt-Noire-Baar,Kreisreudenstadt,
+DE-137,001.150.DE.DE1.DE11.DE137,Tuttlingen,,Landkreis,
+DE-138,001.150.DE.DE1.DE11.DE138,Konstanz,Constance,Landkreis,
+DE-139,001.150.DE.DE1.DE11.DE139,Lörrach,,Landkreis,
+DE-13A,001.150.DE.DE1.DE11.DE13A,Waldshut,,Landkreis,
 DE-14,001.150.DE.DE1.DE14,Tübingen,Tübingen,Regierungsbezirke,Tübingen
 DE-14A,001.150.DE.DE1.DE14.DE14A,Neckar-Alb,Neckar-Alb,region,
 DE-141,001.150.DE.DE1.DE14.DE14A.DE141,Reutlingen,,Landkreise,
@@ -30,5 +65,5 @@ DE-148,001.150.DE.DE1.DE14.DE14C.DE148,Ravensbourg,,Landkreise,
 DE-149,001.150.DE.DE1.DE14.DE14C.DE149,Sigmaringen,,Landkreise,
 DE-14B,001.150.DE.DE1.DE14.DE14B,Donau-Iller,Donau-Iller,region,
 DE-144,001.150.DE.DE1.DE14.DE14B.DE144,Ulm,Ulm,kreisfreie Städte,
-DE-145,001.150.DE.DE1.DE14.DE14B.DE146,Alb-Donau,Arrondissement d'Alb-Danube,Landkreise,
+DE-145,001.150.DE.DE1.DE14.DE14B.DE146,Alb-Donau,Alb-Danube,Landkreise,
 DE-146,001.150.DE.DE1.DE14.DE14B.DE146,Biberach,Biberach,Landkreise,

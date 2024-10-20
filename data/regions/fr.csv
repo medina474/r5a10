@@ -1,5 +1,5 @@
 code,hierarchie,region,francais,administration,capitale
-fr,001.150.155.fr,France,,pays,Paris
+250,fr,001.150.155.fr,France,,pays,Paris
 fr-20r,001.150.155.fr.20r,Corse,,collectivité métropolitaine,Ajaccio
 fr-6ae,001.150.155.fr.6ae,Alsace,,collectivité européenne,Strasbourg
 fr-ara,001.150.155.fr.ara,Auvergne-Rhône-Alpes,,2,Lyon
@@ -111,14 +111,14 @@ fr-93,001.150.155.fr.idf.93,Seine-Saint-Denis,,3,Bobigny
 fr-94,001.150.155.fr.idf.94,Val-de-Marne,,3,Créteil
 fr-95,001.150.155.fr.idf.95,Val-d'Oise,,3,Pontoise
 fr-69M,001.150.155.fr.ara.69M,Métropole de Lyon,,collectivité métropolitaine,Lyon
-fr-971,001.019.419.029.gp,Guadeloupe,,collectivité départementale d'outre-mer,Basse-Terre
-fr-972,001.019.419.029.mq,Martinique,,collectivité territoriale unique,Fort-de-France
-fr-mf,001.019.419.029.mf,Saint-Martin,,collectivité d'outre-mer,Marigot
-fr-973,005,Guyane,,collectivité territoriale unique d'outre-mer,Cayenne
-fr-974,014,La Réunion,,département et région d'outre-mer,Saint-Denis
-fr-976,014,Mayotte,,département et région d’outre-mer,Mamoudzou
-fr-nc,054,Nouvelle-Calédonie,,collectivité d’outre-mer à statut particulier,3,,Nouméa
-fr-pf,061,Polynésie française,,collectivité d'outre-mer,Papeete
-fr-wf,061,Îles Wallis-et-Futuna,,collectivité d'outre-mer,Mata Utu
-fr-pm,021,Saint-Pierre-et-Miquelon,,collectivité d'outre-mer,Saint-Pierre
-fr-tf,014,Terres australes françaises,,territoire d'outre-mer,
+312,fr-971,001.019.419.029.gp,Guadeloupe,,collectivité départementale d'outre-mer,Basse-Terre
+474,fr-972,001.019.419.029.mq,Martinique,,collectivité territoriale unique,Fort-de-France
+663,fr-mf,001.019.419.029.mf,Saint-Martin,,collectivité d'outre-mer,Marigot
+254,fr-973,005,Guyane,,collectivité territoriale unique d'outre-mer,Cayenne
+638,fr-974,014,La Réunion,,département et région d'outre-mer,Saint-Denis
+175,fr-976,014,Mayotte,,département et région d’outre-mer,Mamoudzou
+540,fr-nc,054,Nouvelle-Calédonie,,collectivité d’outre-mer à statut particulier,3,,Nouméa
+258,fr-pf,061,Polynésie française,,collectivité d'outre-mer,Papeete
+876,fr-wf,061,Îles Wallis-et-Futuna,,collectivité d'outre-mer,Mata Utu
+666,fr-pm,021,Saint-Pierre-et-Miquelon,,collectivité d'outre-mer,Saint-Pierre
+260,fr-tf,014,Terres australes françaises,,territoire d'outre-mer,

@@ -1,218 +1,218 @@
-code,parent,intitule,francais,nom,capitale
-001,001,Monde,,,
-002,001.002,Afrique,,,
-015,001.002.015,Afrique septentrionale,,,
-022,001.002.015.022,Maghreb,,,
-202,001.002.202,Afrique subsaharienne,,,
-018,001.002.202.018,Afrique australe,,,
-017,001.002.202.017,Afrique centrale,,,
-011,001.002.202.011,Afrique occidentale,,,
-014,001.002.202.014,Afrique orientale,,,
-019,001.019,Amériques,,,
-021,001.019.021,Amérique septentrionale,,,
-419,001.019.419,Amérique latine et Caraïbes,,,
-013,001.019.419.013,Amérique centrale,,,
-005,001.019.419.005,Amérique du Sud,,,
-029,001.019.419.029,Caraïbes,,,
-010,001.010,Antarctique,,,
-142,001.142,Asie,,,
-143,001.142.143,Asie centrale,,,
-035,001.142.035,Asie du Sud-Est,,,
-034,001.142.034,Asie méridionale,,,
-145,001.142.145,Asie occidentale,,,
-030,001.142.030,Asie orientale,,,
-009,001.009,Océanie,,,
-053,001.009.053,Australie et Nouvelle-Zélande,,,
-054,001.009.054,Mélanésie,,,
-057,001.009.057,Micronésie,,,
-061,001.009.061,Polynésie,,,
-150,001.150,Europe,,,
-039,001.150.039,Europe méridionale,,,
-155,001.150.155,Europe occidentale,,,
-151,001.150.151,Europe orientale,,,
-154,001.150.154,Europe septentrionale,,,
-157,001.150.154.157,Pays baltes,,,
-158,001.150.154.158,Scandinavie,,,
-dz,001.002.015.022.dz,Algérie,,1,Alger
-eg,001.002.015.eg,Égypte,,1,Le Caire
-ly,001.002.015.022.ly,Libye,,1,Tripoli
-ma,001.002.015.022.ma,Maroc,,1,Rabbat
-sd,001.002.015.sd,Soudan,,1,Khartoum
-tn,001.002.015.022.tn,Tunisie,,1,Tunis
-bi,001.002.202.014.bi,Burundi,,1,Bujumbura
-km,001.002.202.014.km,Comores,,1,Moroni
-dj,001.002.202.014.dj,Djibouti,,1,Djibouti
-er,001.002.202.014.er,Érythrée,,1,Asmara
-et,001.002.202.014.et,Éthiopie,,1,Addis-Abeba
-ke,001.002.202.014.ke,Kenya,,1,Nairobi
-mg,001.002.202.014.mg,Madagascar,,1,Antananarivo
-mw,001.002.202.014.mw,Malawi,,1,Lilongwe
-mu,001.002.202.014.mu,Maurice,,1,Port-Louis
-mz,001.002.202.014.mz,Mozambique,,1,Maputo
-rw,001.002.202.014.rw,Rwanda,,1,Kigali
-sc,001.002.202.014.sc,Seychelles,,1,Victoria
-so,001.002.202.014.so,Somalie,,1,Mogadiscio
-ss,001.002.202.014.ss,Soudan du Sud,,1,Djouba
-ug,001.002.202.014.ug,Ouganda,,1,Kampala
-tz,001.002.202.014.tz,Tanzanie,,1,Dar es Salam
-zm,001.002.202.014.zm,Zambie,,1,Lusaka
-zw,001.002.202.014.zw,Zimbabwe,,1,Harare
-ao,001.002.202.017.ao,Angola,,1,Luanda
-cm,001.002.202.017.cm,Cameroun,,1,Yaoundé
-cf,001.002.202.017.cf,Centrafrique,,1,Bangui
-td,001.002.202.017.td,Tchad,,1,N'Djaména
-cg,001.002.202.017.cg,Congo,,1,Brazzaville
-cd,001.002.202.017.cd,République démocratique du Congo,,1,Kinshasa
-gq,001.002.202.017.gq,Guinée équatoriale,,1,Malabo
-ga,001.002.202.017.ga,Gabon,,1,Libreville
-st,001.002.202.017.st,Sao Tomé-et-Principe,,1,São Tomé
-bw,001.002.202.018.bw,Botswana,,1,Gaborone
-sz,001.002.202.018.sz,Eswatini,,1,Mbabane
-ls,001.002.202.018.ls,Lesotho,,1,Maseru
-na,001.002.202.018.na,Namibie,,1,Windhoek
-za,001.002.202.018.za,Afrique du Sud,,1,Pretoria
-bj,001.002.202.011.bj,Bénin,,1,Cotonou
-bf,001.002.202.011.bf,Burkina Faso,,1,Ouagadougou
-cv,001.002.202.011.cv,Cabo Verde,,1,Praia
-ci,001.002.202.011.ci,Côte d’Ivoire,,1,Yamoussoukro
-gm,001.002.202.011.gm,Gambie,,1,Banjul
-gh,001.002.202.011.gh,Ghana,,1,Accra
-gn,001.002.202.011.gn,Guinée,,1,Conakry
-gw,001.002.202.011.gw,Guinée-Bissau,,1,Bissau
-lr,001.002.202.011.lr,Libéria,,1,Monrovia
-ml,001.002.202.011.ml,Mali,,1,Bamako
-mr,001.002.202.011.mr,Mauritanie,,1,Nouakchott
-ne,001.002.202.011.ne,Niger,,1,Niamey
-ng,001.002.202.011.ng,Nigéria,,1,Abuja
-sn,001.002.202.011.sn,Sénégal,,1,Dakar
-sl,001.002.202.011.sl,Sierra Leone,,1,Freetown
-tg,001.002.202.011.tg,Togo,,1,Lomé
-ag,001.019.419.029.ag,Antigua-et-Barbuda,,1,Saint John's
-bs,001.019.419.029.bs,Bahamas,,1,Nassau
-bb,001.019.419.029.bb,Barbade,,1,Bridgetown
-bq,001.019.419.029.bq,"Bonaire, Saint-Eustache et Saba",,1,
-kn,001.019.419.029.kn,Saint-Kitts-et-Nevis,,1,
-cu,001.019.419.029.cu,Cuba,,1,La Havane
-dm,001.019.419.029.dm,Dominique,,1,Roseau
-do,001.019.419.029.do,République dominicaine,,1,Saint-Domingue
-gd,001.019.419.029.gd,Grenade,,1,Saint-Georges
-ht,001.019.419.029.ht,Haïti,,1,Port-au-Prince
-jm,001.019.419.029.jm,Jamaïque,,1,Kingston
-lc,001.019.419.029.lc,Sainte-Lucie,,1,Castries
-vc,001.019.419.029.vc,Saint-Vincent-et-les Grenadines,,1,Kingstown
-tt,001.019.419.029.tt,Trinité-et-Tobago,,1,Port-d'Espagne
-bz,001.019.419.013.bz,Belize,,1,Belmopan
-cr,001.019.419.013.cr,Costa Rica,,1,San José
-sv,001.019.419.013.sv,El Salvador,,1,San Salvador
-gt,001.019.419.013.gt,Guatemala,,1,Guatemala
-hn,001.019.419.013.hn,Honduras,,1,Tegucigalpa
-mx,001.019.419.013.mx,Mexique,,1,Mexico
-ni,001.019.419.013.ni,Nicaragua,,1,Managua
-pa,001.019.419.013.pa,Panama,,1,Panama
-ar,001.019.419.005.ar,Argentine,,1,Buenos Aires
-bo,001.019.419.005.bo,Bolivie,,1,La Paz
-bv,001.019.419.005.bv,Île Bouvet,,1,
-br,001.019.419.005.br,Brésil,,1,Brasilia
-cl,001.019.419.005.cl,Chili,,1,Santiago
-co,001.019.419.005.co,Colombie,,1,Bogota
-ec,001.019.419.005.ec,Équateur,,1,Quito
-gy,001.019.419.005.gy,Guyana,,1,Georgetown
-py,001.019.419.005.py,Paraguay,,1,Asuncion
-pe,001.019.419.005.pe,Pérou,,1,Lima
-sr,001.019.419.005.sr,Suriname,,1,Paramaribo
-uy,001.019.419.005.uy,Uruguay,,1,Montevideo
-ve,001.019.419.005.ve,Venezuela,,1,Caracas
-ca,001.019.021.ca,Canada,,1,Ottawa
-kz,001.142.143.kz,Kazakhstan,,1,Astana
-kg,001.142.143.kg,Kirghizistan,,1,Bichkek
-tj,001.142.143.tj,Tadjikistan,,1,Douchanbé
-tm,001.142.143.tm,Turkménistan,,1,Achgabat
-uz,001.142.143.uz,Ouzbékistan,,1,Tachkent
-cn,001.142.030.cn,Chine,,1,Pékin
-kp,001.142.030.kp,Corée du Nord,,1,Pyongyang
-mn,001.142.030.mn,Mongolie,,1,Oulan-Bator
-kr,001.142.030.kr,Corée du Sud,,1,Séoul
-bn,001.142.035.bn,Brunéi Darussalam,,1,Bandar Seri Begawan
-kh,001.142.035.kh,Cambodge,,1,Phnom Penh
-id,001.142.035.id,Indonésie,,1,Jakarta
-la,001.142.035.la,Laos,,1,Vientiane
-my,001.142.035.my,Malaisie,,1,Kuala Lumpur
-mm,001.142.035.mm,Myanmar,,1,Naypyidaw
-ph,001.142.035.ph,Philippines,,1,Manille
-sg,001.142.035.sg,Singapour,,1,Singapour
-th,001.142.035.th,Thaïlande,,1,Bangkok
-tl,001.142.035.tl,Timor-Leste,,1,Dili
-vn,001.142.035.vn,Viêt Nam,,1,Hanoï
-af,001.142.034.af,Afghanistan,,1,Kaboul
-bd,001.142.034.bd,Bangladesh,,1,Dacca
-bt,001.142.034.bt,Bhoutan,,1,Thimphou
-in,001.142.034.in,Inde,,1,New Delhi
-ir,001.142.034.ir,Iran,,1,Téhéran
-mv,001.142.034.mv,Maldives,,1,Malé
-np,001.142.034.np,Népal,,1,Katmandou
-pk,001.142.034.pk,Pakistan,,1,Islamabad
-lk,001.142.034.lk,Sri Lanka,,1,Colombo
-am,001.142.145.am,Arménie,,1,Erevan
-az,001.142.145.az,Azerbaïdjan,,1,Bakou
-bh,001.142.145.bh,Bahreïn,,1,Manama
-cy,001.142.145.cy,Chypre,,1,Nicosie
-ge,001.142.145.ge,Géorgie,,1,Tbilissi
-iq,001.142.145.iq,Iraq,,1,Bagdad
-il,001.142.145.il,Israël,,1,Jérusalem
-jo,001.142.145.jo,Jordanie,,1,Amman
-kw,001.142.145.kw,Koweït,,1,Koweït
-lb,001.142.145.lb,Liban,,1,Beyrouth
-om,001.142.145.om,Oman,,1,Mascate
-qa,001.142.145.qa,Qatar,,1,Doha
-sa,001.142.145.sa,Arabie saoudite,,1,Riyad
-sy,001.142.145.sy,Syrie,,1,Damas
-tr,001.142.145.tr,Türkiye,,1,Ankara
-ae,001.142.145.ae,Émirats arabes unis,,1,Abou Dabi
-ye,001.142.145.ye,Yémen,,1,Aden
-by,001.150.151.by,Bélarus,,1,Minsk
-bg,001.150.151.bg,Bulgarie,,1,Sofia
-cz,001.150.151.cz,Tchéquie,,1,Prague
-md,001.150.151.md,Moldavie,,1,
-ro,001.150.151.ro,Roumanie,,1,Bucarest
-ru,001.150.151.ru,Russie,,1,Moscou
-sk,001.150.151.sk,Slovaquie,,1,Bratislava
-ee,001.150.154.ee,Estonie,,1,Tallinn
-is,001.150.154.is,Islande,,1,Reykjavik
-ie,001.150.154.ie,Irlande,,1,Dublin
-lv,001.150.154.lv,Lettonie,,1,Riga
-sj,001.150.154.sj,Îles Svalbard-et-Jan Mayen,,1,
-al,001.150.039.al,Albanie,,1,Tirana
-ad,001.150.039.ad,Andorre,,1,Andorre-la-Vieille
-ba,001.150.039.ba,Bosnie-Herzégovine,,1,Sarajevo
-gr,001.150.039.gr,Grèce,,1,Athènes
-va,001.150.039.va,Saint-Siège,,1,Vatican
-mt,001.150.039.mt,Malte,,1,La Valette
-me,001.150.039.me,Monténégro,,1,Podgorica
-mk,001.150.039.mk,Macédoine du Nord,,1,Skopje
-sm,001.150.039.sm,Saint-Marin,,1,Saint-Marin
-rs,001.150.039.rs,Serbie,,1,Belgrade
-si,001.150.039.si,Slovénie,,1,Ljubljana
-li,001.150.155.li,Liechtenstein,,1,Vaduz
-mc,001.150.155.mc,Monaco,,1,Monaco
-hm,001.009.053.hm,Île Heard-et-Îles MacDonald,,1,
-nz,001.009.053.nz,Nouvelle-Zélande,,1,Wellington
-fj,001.009.054.fj,Fidji,,1,Suva
-pg,001.009.054.pg,Papouasie-Nouvelle-Guinée,,1,Port Moresby
-sb,001.009.054.sb,Îles Salomon,,1,Honiara
-vu,001.009.054.vu,Vanuatu,,1,Port-Vila
-ki,001.009.057.ki,Kiribati,,1,Tarawa-Sud
-mh,001.009.057.mh,Îles Marshall,,1,Majuro
-fm,001.009.057.fm,Micronésie,,1,Palikir
-nr,001.009.057.nr,Nauru,,1,Yaren
-pw,001.009.057.pw,Palaos,,1,Melekeok
-ck,001.009.061.ck,Îles Cook,,1,Avarua
-nu,001.009.061.nu,Nioué,,1,
-tk,001.009.061.tk,Tokélaou,,1,
-to,001.009.061.to,Tonga,,1,Nukuʻalofa
-tv,001.009.061.tv,Tuvalu,,1,Funafuti
-ws,001.009.061.ws,Samoa,,1,Apia
-ps,001.142.145.ps,État de Palestine,,territoire,Ramallah
-eh,001.002.015.eh,Sahara occidental,,territoire,Laâyoune
-hk,001.142.030.hk,Hong Kong,,région administrative spéciale,Hong Kong
-mo,001.142.030.mo,Macao,,région administrative spéciale,Macao
-tw,001.142.030.tw,Taïwan,,1,Taipei
+code,iso2,hierarchie,region,francais,administration,capitale
+001,,001,Monde,,,
+002,,001.002,Afrique,,,
+015,,001.002.015,Afrique septentrionale,,,
+022,,001.002.015.022,Maghreb,,,
+202,,001.002.202,Afrique subsaharienne,,,
+018,,001.002.202.018,Afrique australe,,,
+017,,001.002.202.017,Afrique centrale,,,
+011,,001.002.202.011,Afrique occidentale,,,
+014,,001.002.202.014,Afrique orientale,,,
+019,,001.019,Amériques,,,
+021,,001.019.021,Amérique septentrionale,,,
+419,,001.019.419,Amérique latine et Caraïbes,,,
+013,,001.019.419.013,Amérique centrale,,,
+005,,001.019.419.005,Amérique du Sud,,,
+029,,001.019.419.029,Caraïbes,,,
+010,,001.010,Antarctique,,,
+142,,001.142,Asie,,,
+143,,001.142.143,Asie centrale,,,
+035,,001.142.035,Asie du Sud-Est,,,
+034,,001.142.034,Asie méridionale,,,
+145,,001.142.145,Asie occidentale,,,
+030,,001.142.030,Asie orientale,,,
+009,,001.009,Océanie,,,
+053,,001.009.053,Australie et Nouvelle-Zélande,,,
+054,,001.009.054,Mélanésie,,,
+057,,001.009.057,Micronésie,,,
+061,,001.009.061,Polynésie,,,
+150,,001.150,Europe,,,
+039,,001.150.039,Europe méridionale,,,
+155,,001.150.155,Europe occidentale,,,
+151,,001.150.151,Europe orientale,,,
+154,,001.150.154,Europe septentrionale,,,
+157,,001.150.154.157,Pays baltes,,,
+158,,001.150.154.158,Scandinavie,,,
+504,MA,001.002.015.022.504,Maroc,,1,Rabbat
+012,DZ,001.002.015.022.012,Algérie,,1,Alger
+788,TN,001.002.015.022.788,Tunisie,,1,Tunis
+434,LY,001.002.015.022.434,Libye,,1,Tripoli
+818,EG,001.002.015.eg,Égypte,,1,Le Caire
+732,EH,001.002.015.732,Sahara occidental,,territoire,Laâyoune
+729,SD,001.002.015.729,Soudan,,1,Khartoum
+108,BI,001.002.202.014.bi,Burundi,,1,Bujumbura
+174,KM,001.002.202.014.km,Comores,,1,Moroni
+262,DJ,001.002.202.014.dj,Djibouti,,1,Djibouti
+232,ER,001.002.202.014.er,Érythrée,,1,Asmara
+231,ET,001.002.202.014.et,Éthiopie,,1,Addis-Abeba
+404,KE,001.002.202.014.ke,Kenya,,1,Nairobi
+450,MG,001.002.202.014.mg,Madagascar,,1,Antananarivo
+454,MW,001.002.202.014.mw,Malawi,,1,Lilongwe
+480,MU,001.002.202.014.mu,Maurice,,1,Port-Louis
+508,MZ,001.002.202.014.mz,Mozambique,,1,Maputo
+646,RW,001.002.202.014.rw,Rwanda,,1,Kigali
+690,SC,001.002.202.014.sc,Seychelles,,1,Victoria
+706,SO,001.002.202.014.so,Somalie,,1,Mogadiscio
+728,SS,001.002.202.014.ss,Soudan du Sud,,1,Djouba
+800,UG,001.002.202.014.ug,Ouganda,,1,Kampala
+834,TZ,001.002.202.014.tz,Tanzanie,,1,Dar es Salam
+894,ZM,001.002.202.014.zm,Zambie,,1,Lusaka
+716,ZW,001.002.202.014.zw,Zimbabwe,,1,Harare
+024,AO,001.002.202.017.ao,Angola,,1,Luanda
+120,CM,001.002.202.017.cm,Cameroun,,1,Yaoundé
+140,CF,001.002.202.017.cf,Centrafrique,,1,Bangui
+148,TD,001.002.202.017.td,Tchad,,1,N'Djaména
+178,CG,001.002.202.017.cg,Congo,,1,Brazzaville
+180,CD,001.002.202.017.cd,République démocratique du Congo,,1,Kinshasa
+226,GQ,001.002.202.017.gq,Guinée équatoriale,,1,Malabo
+266,GA,001.002.202.017.ga,Gabon,,1,Libreville
+678,ST,001.002.202.017.st,Sao Tomé-et-Principe,,1,São Tomé
+072,BW,001.002.202.018.bw,Botswana,,1,Gaborone
+748,SZ,001.002.202.018.sz,Eswatini,,1,Mbabane
+426,LS,001.002.202.018.ls,Lesotho,,1,Maseru
+516,NA,001.002.202.018.na,Namibie,,1,Windhoek
+710,ZA,001.002.202.018.za,Afrique du Sud,,1,Pretoria
+204,BJ,001.002.202.011.bj,Bénin,,1,Cotonou
+854,BF,001.002.202.011.bf,Burkina Faso,,1,Ouagadougou
+132,CV,001.002.202.011.cv,Cabo Verde,,1,Praia
+384,CI,001.002.202.011.ci,Côte d’Ivoire,,1,Yamoussoukro
+270,GM,001.002.202.011.gm,Gambie,,1,Banjul
+288,GH,001.002.202.011.gh,Ghana,,1,Accra
+324,GN,001.002.202.011.gn,Guinée,,1,Conakry
+624,GW,001.002.202.011.gw,Guinée-Bissau,,1,Bissau
+430,LR,001.002.202.011.lr,Libéria,,1,Monrovia
+466,ML,001.002.202.011.ml,Mali,,1,Bamako
+478,MR,001.002.202.011.mr,Mauritanie,,1,Nouakchott
+562,NE,001.002.202.011.ne,Niger,,1,Niamey
+566,NG,001.002.202.011.ng,Nigéria,,1,Abuja
+686,SN,001.002.202.011.sn,Sénégal,,1,Dakar
+694,SL,001.002.202.011.sl,Sierra Leone,,1,Freetown
+768,TG,001.002.202.011.tg,Togo,,1,Lomé
+028,AG,001.019.419.029.ag,Antigua-et-Barbuda,,1,Saint John's
+044,BS,001.019.419.029.bs,Bahamas,,1,Nassau
+052,BB,001.019.419.029.bb,Barbade,,1,Bridgetown
+535,BQ,001.019.419.029.bq,"Bonaire, Saint-Eustache et Saba",,1,
+659,KN,001.019.419.029.kn,Saint-Kitts-et-Nevis,,1,
+192,CU,001.019.419.029.cu,Cuba,,1,La Havane
+212,DM,001.019.419.029.dm,Dominique,,1,Roseau
+214,DO,001.019.419.029.do,République dominicaine,,1,Saint-Domingue
+308,GD,001.019.419.029.gd,Grenade,,1,Saint-Georges
+332,HT,001.019.419.029.ht,Haïti,,1,Port-au-Prince
+388,JM,001.019.419.029.jm,Jamaïque,,1,Kingston
+662,LC,001.019.419.029.lc,Sainte-Lucie,,1,Castries
+670,VC,001.019.419.029.vc,Saint-Vincent-et-les Grenadines,,1,Kingstown
+780,TT,001.019.419.029.tt,Trinité-et-Tobago,,1,Port-d'Espagne
+084,BZ,001.019.419.013.bz,Belize,,1,Belmopan
+188,CR,001.019.419.013.cr,Costa Rica,,1,San José
+222,SV,001.019.419.013.sv,El Salvador,,1,San Salvador
+320,GT,001.019.419.013.gt,Guatemala,,1,Guatemala
+340,HN,001.019.419.013.hn,Honduras,,1,Tegucigalpa
+484,MX,001.019.419.013.mx,Mexique,,1,Mexico
+566,NI,001.019.419.013.ni,Nicaragua,,1,Managua
+591,PA,001.019.419.013.pa,Panama,,1,Panama
+032,AR,001.019.419.005.ar,Argentine,,1,Buenos Aires
+068,BO,001.019.419.005.bo,Bolivie,,1,La Paz
+074,BV,001.019.419.005.bv,Île Bouvet,,1,
+076,BR,001.019.419.005.br,Brésil,,1,Brasilia
+152,CL,001.019.419.005.cl,Chili,,1,Santiago
+170,CO,001.019.419.005.co,Colombie,,1,Bogota
+218,EC,001.019.419.005.ec,Équateur,,1,Quito
+328,GY,001.019.419.005.gy,Guyana,,1,Georgetown
+600,PY,001.019.419.005.py,Paraguay,,1,Asuncion
+604,PE,001.019.419.005.pe,Pérou,,1,Lima
+740,SR,001.019.419.005.sr,Suriname,,1,Paramaribo
+858,UY,001.019.419.005.uy,Uruguay,,1,Montevideo
+862,VE,001.019.419.005.ve,Venezuela,,1,Caracas
+124,CA,001.019.021.ca,Canada,,1,Ottawa
+398,KZ,001.142.143.kz,Kazakhstan,,1,Astana
+417,KG,001.142.143.kg,Kirghizistan,,1,Bichkek
+762,TJ,001.142.143.tj,Tadjikistan,,1,Douchanbé
+795,TM,001.142.143.tm,Turkménistan,,1,Achgabat
+860,UZ,001.142.143.uz,Ouzbékistan,,1,Tachkent
+156,CN,001.142.030.cn,Chine,,1,Pékin
+408,KP,001.142.030.kp,Corée du Nord,,1,Pyongyang
+496,MN,001.142.030.mn,Mongolie,,1,Oulan-Bator
+410,KR,001.142.030.kr,Corée du Sud,,1,Séoul
+096,BN,001.142.035.bn,Brunéi Darussalam,,1,Bandar Seri Begawan
+116,KH,001.142.035.kh,Cambodge,,1,Phnom Penh
+360,ID,001.142.035.id,Indonésie,,1,Jakarta
+418,LA,001.142.035.la,Laos,,1,Vientiane
+458,MY,001.142.035.my,Malaisie,,1,Kuala Lumpur
+104,MM,001.142.035.mm,Myanmar,,1,Naypyidaw
+608,PH,001.142.035.ph,Philippines,,1,Manille
+702,SG,001.142.035.sg,Singapour,,1,Singapour
+764,TH,001.142.035.th,Thaïlande,,1,Bangkok
+626,TL,001.142.035.tl,Timor-Leste,,1,Dili
+704,VN,001.142.035.vn,Viêt Nam,,1,Hanoï
+004,AF,001.142.034.004,Afghanistan,,1,Kaboul
+050,BD,001.142.034.bd,Bangladesh,,1,Dacca
+064,BT,001.142.034.bt,Bhoutan,,1,Thimphou
+356,IN,001.142.034.in,Inde,,1,New Delhi
+364,IR,001.142.034.ir,Iran,,1,Téhéran
+462,MV,001.142.034.mv,Maldives,,1,Malé
+524,NP,001.142.034.np,Népal,,1,Katmandou
+586,PK,001.142.034.pk,Pakistan,,1,Islamabad
+144,LK,001.142.034.lk,Sri Lanka,,1,Colombo
+051,AM,001.142.145.am,Arménie,,1,Erevan
+031,AZ,001.142.145.az,Azerbaïdjan,,1,Bakou
+048,BH,001.142.145.bh,Bahreïn,,1,Manama
+196,CY,001.142.145.cy,Chypre,,1,Nicosie
+268,GE,001.142.145.ge,Géorgie,,1,Tbilissi
+368,IQ,001.142.145.iq,Iraq,,1,Bagdad
+376,IL,001.142.145.il,Israël,,1,Jérusalem
+400,JO,001.142.145.jo,Jordanie,,1,Amman
+414,KW,001.142.145.kw,Koweït,,1,Koweït
+422,LB,001.142.145.lb,Liban,,1,Beyrouth
+512,OM,001.142.145.om,Oman,,1,Mascate
+634,QA,001.142.145.qa,Qatar,,1,Doha
+682,SA,001.142.145.sa,Arabie saoudite,,1,Riyad
+760,SY,001.142.145.sy,Syrie,,1,Damas
+792,TR,001.142.145.tr,Türkiye,,1,Ankara
+784,AE,001.142.145.ae,Émirats arabes unis,,1,Abou Dabi
+887,YE,001.142.145.ye,Yémen,,1,Aden
+112,BY,001.150.151.by,Bélarus,,1,Minsk
+100,BG,001.150.151.bg,Bulgarie,,1,Sofia
+203,CZ,001.150.151.cz,Tchéquie,,1,Prague
+498,MD,001.150.151.md,Moldavie,,1,
+642,RO,001.150.151.ro,Roumanie,,1,Bucarest
+643,RU,001.150.151.ru,Russie,,1,Moscou
+703,SK,001.150.151.sk,Slovaquie,,1,Bratislava
+233,EE,001.150.154.ee,Estonie,,1,Tallinn
+352,IS,001.150.154.is,Islande,,1,Reykjavik
+372,IE,001.150.154.ie,Irlande,,1,Dublin
+428,LV,001.150.154.lv,Lettonie,,1,Riga
+744,SJ,001.150.154.sj,Îles Svalbard-et-Jan Mayen,,1,
+008,AL,001.150.039.al,Albanie,,1,Tirana
+020,AD,001.150.039.ad,Andorre,,1,Andorre-la-Vieille
+070,BA,001.150.039.ba,Bosnie-Herzégovine,,1,Sarajevo
+300,GR,001.150.039.gr,Grèce,,1,Athènes
+336,VA,001.150.039.va,Saint-Siège,,1,Vatican
+470,MT,001.150.039.mt,Malte,,1,La Valette
+499,ME,001.150.039.me,Monténégro,,1,Podgorica
+807,MK,001.150.039.mk,Macédoine du Nord,,1,Skopje
+674,SM,001.150.039.sm,Saint-Marin,,1,Saint-Marin
+688,RS,001.150.039.rs,Serbie,,1,Belgrade
+705,SI,001.150.039.si,Slovénie,,1,Ljubljana
+438,LI,001.150.155.li,Liechtenstein,,1,Vaduz
+492,MC,001.150.155.mc,Monaco,,1,Monaco
+334,HM,001.009.053.hm,Île Heard-et-Îles MacDonald,,1,
+554,NZ,001.009.053.nz,Nouvelle-Zélande,,1,Wellington
+242,FJ,001.009.054.fj,Fidji,,1,Suva
+598,PG,001.009.054.pg,Papouasie-Nouvelle-Guinée,,1,Port Moresby
+090,SB,001.009.054.sb,Îles Salomon,,1,Honiara
+548,VU,001.009.054.vu,Vanuatu,,1,Port-Vila
+296,KI,001.009.057.ki,Kiribati,,1,Tarawa-Sud
+584,MH,001.009.057.mh,Îles Marshall,,1,Majuro
+583,FM,001.009.057.fm,Micronésie,,1,Palikir
+520,NR,001.009.057.nr,Nauru,,1,Yaren
+585,PW,001.009.057.pw,Palaos,,1,Melekeok
+184,CK,001.009.061.ck,Îles Cook,,1,Avarua
+570,NU,001.009.061.nu,Nioué,,1,
+772,TK,001.009.061.tk,Tokélaou,,1,
+776,TO,001.009.061.to,Tonga,,1,Nukuʻalofa
+798,TV,001.009.061.tv,Tuvalu,,1,Funafuti
+882,WS,001.009.061.ws,Samoa,,1,Apia
+275,PS,001.142.145.ps,État de Palestine,,territoire,Ramallah
+344,HK,001.142.030.hk,Hong Kong,,région administrative spéciale,Hong Kong
+446,MO,001.142.030.mo,Macao,,région administrative spéciale,Macao
+158,TW,001.142.030.tw,Taïwan,,1,Taipei

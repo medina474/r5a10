@@ -1,5 +1,5 @@
 @baseUrl = http://127.0.0.1:3002/api
-@token=c3f71b8a-1596-4990-a595-9f64c08c6e2a
+@token=ad9006a2-2603-4ec3-a283-a5ac6417baed
 ### Récupérer la valeur setup-token
 {{baseUrl}}/session/properties
 Content-Type: application/json
@@ -31,7 +31,7 @@ Content-Type: application/json
 # X-Metabase-Session = id
 POST {{baseUrl}}/database
 Content-Type: application/json
-X-Metabase-Session: 12507a99-bdee-4e3a-8897-66e7761c0951
+X-Metabase-Session: 3029b40c-5d3b-4ab1-9414-dda9d13e40b
 
 {
   "engine":"postgres",

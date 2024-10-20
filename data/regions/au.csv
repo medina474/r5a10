@@ -1,13 +1,13 @@
 code,hierarchie,region,francais,administration,capitale
-au,001.009.053.AU,Australie,,pays,Canberra
-au-act,001.009.053.036.ACT,Australian Capital Territory,,territory,Canberra
-au-nsw,001.009.053.036.NSW,New South Wales,,state,Sydney
-au-nt,001.009.053.036.NT,Northern Territory,,territory,Darwin
-au-qld,001.009.053.036.QLD,Queensland,,state,Brisbane
-au-sa,001.009.053.036.SA,South Australia,,state,Adelaide
-au-tas,001.009.053.036.TAS,Tasmania,,state,Hobart
-au-vic,001.009.053.036.VIC,Victoria,,state,Melbourne
-au-wa,001.009.053.036.WA,Western Australia,,state,Perth
-cx,001.009.053.162,Île Christmas,,territoire extérieur,Flying Fish Cove
-nf,001.009.053.574,Île Norfolk,,territoire extérieur,Kingston
-cc,001.009.053.166,Îles des Cocos (Keeling),,territoire extérieur,West Island
+AU,001.009.053.AU,Australie,,1,Canberra
+AU-ACT,001.009.053.036.ACT,Australian Capital Territory,,territory,Canberra
+AU-NSW,001.009.053.036.NSW,New South Wales,,7,Sydney
+AU-NT,001.009.053.036.NT,Northern Territory,,territory,Darwin
+AU-QLD,001.009.053.036.QLD,Queensland,,7,Brisbane
+AU-SA,001.009.053.036.SA,South Australia,,7,Adelaide
+AU-TAS,001.009.053.036.TAS,Tasmania,,7,Hobart
+AU-VIC,001.009.053.036.VIC,Victoria,,7,Melbourne
+AU-WA,001.009.053.036.WA,Western Australia,,7,Perth
+CX,001.009.053.162,Île Christmas,,territoire extérieur,Flying Fish Cove
+NF,001.009.053.574,Île Norfolk,,territoire extérieur,Kingston
+CC,001.009.053.166,Îles des Cocos (Keeling),,territoire extérieur,West Island

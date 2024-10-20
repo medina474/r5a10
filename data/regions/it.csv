@@ -1,129 +1,129 @@
 code,hierarchie,region,francais,administration,capitale
-380,it,001.150.039.IT,Italie,,pays,Rome
-it-21,001.150.039.IT.21,Piemonte,,regione,Torino
-it-25,001.150.039.IT.25,Lombardia,,regione,Milan
-it-34,001.150.039.IT.34,Veneto,,regione,Venice
-it-42,001.150.039.IT.42,Liguria,,regione,Genova
-it-45,001.150.039.IT.45,Emilia-Romagna,,regione,Bologna
-it-52,001.150.039.IT.52,Toscana,,regione,Florence
-it-55,001.150.039.IT.55,Umbria,,regione,Perugia
-it-57,001.150.039.IT.57,Marche,,regione,Ancona
-it-62,001.150.039.IT.62,Lazio,,regione,Rome
-it-65,001.150.039.IT.65,Abruzzo,,regione,L'Aquila
-it-67,001.150.039.IT.67,Molise,,regione,Campobasso
-it-72,001.150.039.IT.72,Campania,,regione,Campobasso
-it-75,001.150.039.IT.75,Puglia,,regione,Bari
-it-77,001.150.039.IT.77,Basilicata,,regione,Potenza
-it-78,001.150.039.IT.78,Calabria,,regione,Catanzaro
-it-23,001.150.039.IT.23,Valle d'Aosta,,Regione Autonoma,Aosta
-it-32,001.150.039.IT.32,Trentino-Alto Adige,,Regione Autonoma,Trento
-it-36,001.150.039.IT.36,Friuli-Venezia Giulia,,Regione Autonoma,Trieste
-it-82,001.150.039.IT.82,Sicilia,,Regione Autonoma,Palermo
-it-88,001.150.039.IT.88,Sardegna,,Regione Autonoma,Cagliari
-it-al,001.150.039.IT.21.AL,Alessandria,,province,Alessandria
-it-an,001.150.039.IT.57.AN,Ancona,,province,Ancona
-it-ar,001.150.039.IT.52.AR,Arezzo,,province,Arezzo
-it-ap,001.150.039.IT.57.AP,Ascoli Piceno,,province,Ascoli Piceno
-it-at,001.150.039.IT.21.AT,Asti,,province,Asti
-it-av,001.150.039.IT.72.AV,Avellino,,province,Avellino
-it-bt,001.150.039.IT.75.BT,Barletta-Andria-Trani,,province,Trani
-it-bl,001.150.039.IT.34.BL,Belluno,,province,Belluno
-it-bn,001.150.039.IT.72.BN,Benevento,,province,Benevento
-it-bg,001.150.039.IT.25.BG,Bergamo,,province,Bergamo
-it-bi,001.150.039.IT.21.BI,Biella,,province,Biella
-it-bs,001.150.039.IT.25.BS,Brescia,,province,Brescia
-it-br,001.150.039.IT.75.BR,Brindisi,,province,Brindisi
-it-cb,001.150.039.IT.67.CB,Campobasso,,province,Campobasso
-it-ce,001.150.039.IT.72.CE,Caserta,,province,Caserta
-it-cz,001.150.039.IT.78.CZ,Catanzaro,,province,Catanzaro
-it-ch,001.150.039.IT.65.CH,Chieti,,province,Chieti
-it-co,001.150.039.IT.25.CO,Como,,province,Como
-it-cs,001.150.039.IT.78.CS,Cosenza,,province,Cosenza
-it-cr,001.150.039.IT.25.CR,Cremona,,province,Cremona
-it-kr,001.150.039.IT.78.KR,Crotone,,province,Crotone
-it-cn,001.150.039.IT.21.CN,Cuneo,,province,Cuneo
-it-fm,001.150.039.IT.57.FM,Fermo,,province,Fermo
-it-fe,001.150.039.IT.45.FE,Ferrara,,province,Ferrara
-it-fg,001.150.039.IT.75.FG,Foggia,,province,Foggia
-it-fc,001.150.039.IT.45.FC,Forlì-Cesena,,province,Forlì
-it-fr,001.150.039.IT.62.FR,Frosinone,,province,Frosinone
-it-gr,001.150.039.IT.52.GR,Grosseto,,province,Grosseto
-it-im,001.150.039.IT.42.IM,Imperia,,province,Imperia
-it-is,001.150.039.IT.67.IS,Isernia,,province,Isernia
-it-sp,001.150.039.IT.42.SP,La Spezia,,province,La Spezia
-it-aq,001.150.039.IT.65.AQ,L'Aquila,,province,L'Aquila
-it-lt,001.150.039.IT.62.LT,Latina,,province,Latina
-it-le,001.150.039.IT.75.LE,Lecce,,province,Lecce
-it-lc,001.150.039.IT.25.LC,Lecco,,province,Lecco
-it-li,001.150.039.IT.52.LI,Livorno,,province,Livorno
-it-lo,001.150.039.IT.25.LO,Lodi,,province,Lodi
-it-lu,001.150.039.IT.52.LU,Lucca,,province,Lucca
-it-mc,001.150.039.IT.57.MC,Macerata,,province,Macerata
-it-mn,001.150.039.IT.25.MN,Mantova,,province,Mantova
-it-ms,001.150.039.IT.52.MS,Massa-Carrara,,province,Massa
-it-mt,001.150.039.IT.77.MT,Matera,,province,Matera
-it-mo,001.150.039.IT.45.MO,Modena,,province,Modena
-it-mb,001.150.039.IT.25.MB,Monza e Brianza,,province,Monza
-it-no,001.150.039.IT.21.NO,Novara,,province,Novara
-it-nu,001.150.039.IT.88.NU,Nuoro,,province,Nuoro
-it-or,001.150.039.IT.88.OR,Oristano,,province,Oristano
-it-pd,001.150.039.IT.34.PD,Padova,,province,Padova
-it-pr,001.150.039.IT.45.PR,Parma,,province,Parma
-it-pv,001.150.039.IT.25.PV,Pavia,,province,Pavia
-it-pg,001.150.039.IT.55.PG,Perugia,,province,Perugia
-it-pu,001.150.039.IT.57.PU,Pesaro e Urbino,,province,Pesaro
-it-pe,001.150.039.IT.65.PE,Pescara,,province,Pescara
-it-pc,001.150.039.IT.45.PC,Piacenza,,province,Piacenza
-it-pi,001.150.039.IT.52.PI,Pisa,,province,Pisa
-it-pt,001.150.039.IT.52.PT,Pistoia,,province,Pistoia
-it-pz,001.150.039.IT.77.PZ,Potenza,,province,Potenza
-it-po,001.150.039.IT.52.PO,Prato,,province,Prato
-it-ra,001.150.039.IT.45.RA,Ravenna,,province,Ravenna
-it-re,001.150.039.IT.45.RE,Reggio Emilia,,province,Reggio nell'Emilia
-it-ri,001.150.039.IT.62.RI,Rieti,,province,Rieti
-it-rn,001.150.039.IT.45.RN,Rimini,,province,Rimini
-it-ro,001.150.039.IT.34.RO,Rovigo,,province,Rovigo
-it-sa,001.150.039.IT.72.SA,Salerno,,province,Salerno
-it-ss,001.150.039.IT.88.SS,Sassari,,province,Sassari
-it-sv,001.150.039.IT.42.SV,Savona,,province,Savona
-it-si,001.150.039.IT.52.SI,Siena,,province,Siena
-it-so,001.150.039.IT.25.SO,Sondrio,,province,Sondrio
-it-vs,001.150.039.IT.88.VS,Medio Campidano,,province,Villacidro
-it-ci,001.150.039.IT.88.CI,Sulcis Iglesiente,,province,Carbonia e Iglesias
-it-ta,001.150.039.IT.75.TA,Taranto,,province,Taranto
-it-te,001.150.039.IT.65.TE,Teramo,,province,Teramo
-it-tr,001.150.039.IT.55.TR,Terni,,province,Terni
-it-tv,001.150.039.IT.34.TV,Treviso,,province,Treviso
-it-va,001.150.039.IT.25.VA,Varese,,province,Varese
-it-vb,001.150.039.IT.21.VB,Verbano-Cusio-Ossola,,province,Verbania
-it-vc,001.150.039.IT.21.VC,Vercelli,,province,Vercelli
-it-vr,001.150.039.IT.34.VR,Verona,,province,Verona
-it-vv,001.150.039.IT.78.VV,Vibo Valentia,,province,Vibo Valentia
-it-vi,001.150.039.IT.34.VI,Vicenza,,province,Vicenza
-it-vt,001.150.039.IT.62.VT,Viterbo,,province,Viterbo
-it-bz,001.150.039.IT.32.BZ,Bolzano,,autonomous province,Bolzano
-it-tn,001.150.039.IT.32.TN,Trento,,autonomous province,Trento
-it-go,001.150.039.IT.36.GO,Gorizia,,ente di decentramento regionale,Gorizia
-it-pn,001.150.039.IT.36.PN,Pordenone,,ente di decentramento regionale,Pordenone
-it-ts,001.150.039.IT.36.TS,Trieste,,ente di decentramento regionale,Trieste
-it-ud,001.150.039.IT.36.UD,Udine,,ente di decentramento regionale,Udine
-it-ag,001.150.039.IT.82.AG,Agrigento,,libero consorzio comunale,Agrigento
-it-cl,001.150.039.IT.82.CL,Caltanissetta,,libero consorzio comunale,Caltanissetta
-it-en,001.150.039.IT.82.EN,Enna,,libero consorzio comunale,Enna
-it-rg,001.150.039.IT.82.RG,Ragusa,,libero consorzio comunale,Ragusa
-it-sr,001.150.039.IT.82.SR,Siracusa,,libero consorzio comunale,Siracusa
-it-tp,001.150.039.IT.82.TP,Trapani,,libero consorzio comunale,Trapani
-it-ba,001.150.039.IT.75.BA,Bari,,metropolitan city,Bari
-it-bo,001.150.039.IT.45.BO,Bologna,,metropolitan city,Bologna
-it-ca,001.150.039.IT.88.CA,Cagliari,,metropolitan city,Cagliari
-it-ct,001.150.039.IT.82.CT,Catania,,metropolitan city,Catania
-it-fi,001.150.039.IT.52.FI,Firenze,,metropolitan city,Florence
-it-ge,001.150.039.IT.42.GE,Genova,,metropolitan city,Genoa
-it-me,001.150.039.IT.82.ME,Messina,,metropolitan city,Messina
-it-mi,001.150.039.IT.25.MI,Milano,,metropolitan city,Milan
-it-na,001.150.039.IT.72.NA,Napoli,,metropolitan city,Naples
-it-pa,001.150.039.IT.82.PA,Palermo,,metropolitan city,Palermo
-it-rc,001.150.039.IT.78.RC,Reggio Calabria,,metropolitan city,Reggio Calabria
-it-rm,001.150.039.IT.62.RM,Roma,,metropolitan city,Rome
-it-to,001.150.039.IT.21.TO,Torino,,metropolitan city,Turin
-it-ve,001.150.039.IT.34.VE,Venezia,,metropolitan city,Venice
+IT,001.150.039.380,Italie,,pays,Rome
+IT-21,001.150.039.380.IT-21,Piemonte,,regione,Torino
+IT-25,001.150.039.380.IT-25,Lombardia,,regione,Milan
+IT-34,001.150.039.380.IT-34,Veneto,,regione,Venice
+IT-42,001.150.039.380.IT-42,Liguria,,regione,Genova
+IT-45,001.150.039.380.IT-45,Emilia-Romagna,,regione,Bologna
+IT-52,001.150.039.380.IT-52,Toscana,,regione,Florence
+IT-55,001.150.039.380.IT-55,Umbria,,regione,Perugia
+IT-57,001.150.039.380.IT-57,Marche,,regione,Ancona
+IT-62,001.150.039.380.IT-62,Lazio,,regione,Rome
+IT-65,001.150.039.380.IT-65,Abruzzo,,regione,L'Aquila
+IT-67,001.150.039.380.IT-67,Molise,,regione,Campobasso
+IT-72,001.150.039.380.IT-72,Campania,,regione,Campobasso
+IT-75,001.150.039.380.IT-75,Puglia,,regione,Bari
+IT-77,001.150.039.380.IT-77,Basilicata,,regione,Potenza
+IT-78,001.150.039.380.IT-78,Calabria,,regione,Catanzaro
+IT-23,001.150.039.380.IT-23,Valle d'Aosta,,Regione Autonoma,Aosta
+IT-32,001.150.039.380.IT-32,Trentino-Alto Adige,,Regione Autonoma,Trento
+IT-36,001.150.039.380.IT-36,Friuli-Venezia Giulia,,Regione Autonoma,Trieste
+IT-82,001.150.039.380.IT-82,Sicilia,,Regione Autonoma,Palermo
+IT-88,001.150.039.380.IT-88,Sardegna,,Regione Autonoma,Cagliari
+IT-AL,001.150.039.380.IT-21.IT-AL,Alessandria,,province,Alessandria
+IT-AN,001.150.039.380.IT-57.IT-AN,Ancona,,province,Ancona
+IT-AR,001.150.039.380.IT-52.IT-AR,Arezzo,,province,Arezzo
+IT-AP,001.150.039.380.IT-57.IT-AP,Ascoli Piceno,,province,Ascoli Piceno
+IT-AT,001.150.039.380.IT-21.IT-AT,Asti,,province,Asti
+IT-AV,001.150.039.380.IT-72.IT-AV,Avellino,,province,Avellino
+IT-BT,001.150.039.380.IT-75.IT-BT,Barletta-Andria-Trani,,province,Trani
+IT-BL,001.150.039.380.IT-34.IT-BL,Belluno,,province,Belluno
+IT-BN,001.150.039.380.IT-72.IT-BN,Benevento,,province,Benevento
+IT-BG,001.150.039.380.IT-25.IT-BG,Bergamo,,province,Bergamo
+IT-BI,001.150.039.380.IT-21.IT-BI,Biella,,province,Biella
+IT-BS,001.150.039.380.IT-25.IT-BS,Brescia,,province,Brescia
+IT-BR,001.150.039.380.IT-75.IT-BR,Brindisi,,province,Brindisi
+IT-CB,001.150.039.380.IT-67.IT-CB,Campobasso,,province,Campobasso
+IT-CE,001.150.039.380.IT-72.IT-CE,Caserta,,province,Caserta
+IT-CZ,001.150.039.380.IT-78.IT-CZ,Catanzaro,,province,Catanzaro
+IT-CH,001.150.039.380.IT-65.IT-CH,Chieti,,province,Chieti
+IT-CO,001.150.039.380.IT-25.IT-CO,Como,,province,Como
+IT-CS,001.150.039.380.IT-78.IT-CS,Cosenza,,province,Cosenza
+IT-CR,001.150.039.380.IT-25.IT-CR,Cremona,,province,Cremona
+IT-KR,001.150.039.380.IT-78.IT-KR,Crotone,,province,Crotone
+IT-CN,001.150.039.380.IT-21.IT-CN,Cuneo,,province,Cuneo
+IT-FM,001.150.039.380.IT-57.IT-FM,Fermo,,province,Fermo
+IT-FE,001.150.039.380.IT-45.IT-FE,Ferrara,,province,Ferrara
+IT-FG,001.150.039.380.IT-75.IT-FG,Foggia,,province,Foggia
+IT-FC,001.150.039.380.IT-45.IT-FC,Forlì-Cesena,,province,Forlì
+IT-FR,001.150.039.380.IT-62.IT-FR,Frosinone,,province,Frosinone
+IT-GR,001.150.039.380.IT-52.IT-GR,Grosseto,,province,Grosseto
+IT-IM,001.150.039.380.IT-42.IT-IM,Imperia,,province,Imperia
+IT-IS,001.150.039.380.IT-67.IT-IS,Isernia,,province,Isernia
+IT-SP,001.150.039.380.IT-42.IT-SP,La Spezia,,province,La Spezia
+IT-AQ,001.150.039.380.IT-65.IT-AQ,L'Aquila,,province,L'Aquila
+IT-LT,001.150.039.380.IT-62.IT-LT,Latina,,province,Latina
+IT-LE,001.150.039.380.IT-75.IT-LE,Lecce,,province,Lecce
+IT-LC,001.150.039.380.IT-25.IT-LC,Lecco,,province,Lecco
+IT-LI,001.150.039.380.IT-52.IT-LI,Livorno,,province,Livorno
+IT-LO,001.150.039.380.IT-25.IT-LO,Lodi,,province,Lodi
+IT-LU,001.150.039.380.IT-52.IT-LU,Lucca,,province,Lucca
+IT-MC,001.150.039.380.IT-57.IT-MC,Macerata,,province,Macerata
+IT-MN,001.150.039.380.IT-25.IT-MN,Mantova,,province,Mantova
+IT-MS,001.150.039.380.IT-52.IT-MS,Massa-Carrara,,province,Massa
+IT-MT,001.150.039.380.IT-77.IT-MT,Matera,,province,Matera
+IT-MO,001.150.039.380.IT-45.IT-MO,Modena,,province,Modena
+IT-MB,001.150.039.380.IT-25.IT-MB,Monza e Brianza,,province,Monza
+IT-NO,001.150.039.380.IT-21.IT-NO,Novara,,province,Novara
+IT-NU,001.150.039.380.IT-88.IT-NU,Nuoro,,province,Nuoro
+IT-OR,001.150.039.380.IT-88.IT-OR,Oristano,,province,Oristano
+IT-PD,001.150.039.380.IT-34.IT-PD,Padova,,province,Padova
+IT-PR,001.150.039.380.IT-45.IT-PR,Parma,,province,Parma
+IT-PV,001.150.039.380.IT-25.IT-PV,Pavia,,province,Pavia
+IT-PG,001.150.039.380.IT-55.IT-PG,Perugia,,province,Perugia
+IT-PU,001.150.039.380.IT-57.IT-PU,Pesaro e Urbino,,province,Pesaro
+IT-PE,001.150.039.380.IT-65.IT-PE,Pescara,,province,Pescara
+IT-PC,001.150.039.380.IT-45.IT-PC,Piacenza,,province,Piacenza
+IT-PI,001.150.039.380.IT-52.IT-PI,Pisa,,province,Pisa
+IT-PT,001.150.039.380.IT-52.IT-PT,Pistoia,,province,Pistoia
+IT-PZ,001.150.039.380.IT-77.IT-PZ,Potenza,,province,Potenza
+IT-PO,001.150.039.380.IT-52.IT-PO,Prato,,province,Prato
+IT-RA,001.150.039.380.IT-45.IT-RA,Ravenna,,province,Ravenna
+IT-RE,001.150.039.380.IT-45.IT-RE,Reggio Emilia,,province,Reggio nell'Emilia
+IT-RI,001.150.039.380.IT-62.IT-RI,Rieti,,province,Rieti
+IT-RN,001.150.039.380.IT-45.IT-RN,Rimini,,province,Rimini
+IT-RO,001.150.039.380.IT-34.IT-RO,Rovigo,,province,Rovigo
+IT-SA,001.150.039.380.IT-72.IT-SA,Salerno,,province,Salerno
+IT-SS,001.150.039.380.IT-88.IT-SS,Sassari,,province,Sassari
+IT-SV,001.150.039.380.IT-42.IT-SV,Savona,,province,Savona
+IT-SI,001.150.039.380.IT-52.IT-SI,Siena,,province,Siena
+IT-SO,001.150.039.380.IT-25.IT-SO,Sondrio,,province,Sondrio
+IT-VS,001.150.039.380.IT-88.IT-VS,Medio Campidano,,province,Villacidro
+IT-CI,001.150.039.380.IT-88.IT-CI,Sulcis Iglesiente,,province,Carbonia e Iglesias
+IT-TA,001.150.039.380.IT-75.IT-TA,Taranto,,province,Taranto
+IT-TE,001.150.039.380.IT-65.IT-TE,Teramo,,province,Teramo
+IT-TR,001.150.039.380.IT-55.IT-TR,Terni,,province,Terni
+IT-TV,001.150.039.380.IT-34.IT-TV,Treviso,,province,Treviso
+IT-VA,001.150.039.380.IT-25.IT-VA,Varese,,province,Varese
+IT-VB,001.150.039.380.IT-21.IT-VB,Verbano-Cusio-Ossola,,province,Verbania
+IT-VC,001.150.039.380.IT-21.IT-VC,Vercelli,,province,Vercelli
+IT-VR,001.150.039.380.IT-34.IT-VR,Verona,,province,Verona
+IT-VV,001.150.039.380.IT-78.IT-VV,Vibo Valentia,,province,Vibo Valentia
+IT-VI,001.150.039.380.IT-34.IT-VI,Vicenza,,province,Vicenza
+IT-VT,001.150.039.380.IT-62.IT-VT,Viterbo,,province,Viterbo
+IT-BZ,001.150.039.380.IT-32.IT-BZ,Bolzano,,autonomous province,Bolzano
+IT-TN,001.150.039.380.IT-32.IT-TN,Trento,,autonomous province,Trento
+IT-GO,001.150.039.380.IT-36.IT-GO,Gorizia,,ente di decentramento regionale,Gorizia
+IT-PN,001.150.039.380.IT-36.IT-PN,Pordenone,,ente di decentramento regionale,Pordenone
+IT-TS,001.150.039.380.IT-36.IT-TS,Trieste,,ente di decentramento regionale,Trieste
+IT-UD,001.150.039.380.IT-36.IT-UD,Udine,,ente di decentramento regionale,Udine
+IT-AG,001.150.039.380.IT-82.IT-AG,Agrigento,,libero consorzio comunale,Agrigento
+IT-CL,001.150.039.380.IT-82.IT-CL,Caltanissetta,,libero consorzio comunale,Caltanissetta
+IT-EN,001.150.039.380.IT-82.IT-EN,Enna,,libero consorzio comunale,Enna
+IT-RG,001.150.039.380.IT-82.IT-RG,Ragusa,,libero consorzio comunale,Ragusa
+IT-SR,001.150.039.380.IT-82.IT-SR,Siracusa,,libero consorzio comunale,Siracusa
+IT-TP,001.150.039.380.IT-82.IT-TP,Trapani,,libero consorzio comunale,Trapani
+IT-BA,001.150.039.380.IT-75.IT-BA,Bari,,metropolitan city,Bari
+IT-BO,001.150.039.380.IT-45.IT-BO,Bologna,,metropolitan city,Bologna
+IT-CA,001.150.039.380.IT-88.IT-CA,Cagliari,,metropolitan city,Cagliari
+IT-CT,001.150.039.380.IT-82.IT-CT,Catania,,metropolitan city,Catania
+IT-FI,001.150.039.380.IT-52.IT-FI,Firenze,,metropolitan city,Florence
+IT-GE,001.150.039.380.IT-42.IT-GE,Genova,,metropolitan city,Genoa
+IT-ME,001.150.039.380.IT-82.IT-ME,Messina,,metropolitan city,Messina
+IT-MI,001.150.039.380.IT-25.IT-MI,Milano,,metropolitan city,Milan
+IT-NA,001.150.039.380.IT-72.IT-NA,Napoli,,metropolitan city,Naples
+IT-PA,001.150.039.380.IT-82.IT-PA,Palermo,,metropolitan city,Palermo
+IT-RC,001.150.039.380.IT-78.IT-RC,Reggio Calabria,,metropolitan city,Reggio Calabria
+IT-RM,001.150.039.380.IT-62.IT-RM,Roma,,metropolitan city,Rome
+IT-TO,001.150.039.380.IT-21.IT-TO,Torino,,metropolitan city,Turin
+IT-VE,001.150.039.380.IT-34.IT-VE,Venezia,,metropolitan city,Venice

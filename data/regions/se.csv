@@ -1,23 +1,23 @@
 code,hierarchie,region,francais,administration,capitale
-752,se,154,Suède,,pays,Stockholm
-se-ab,se,Stockholms,,län,Stockholm
-se-ac,se,Västerbottens,,län,Umeå
-se-bd,se,Norrbottens,,län,Luleå
-se-c,se,Uppsala,,län,Uppsala
-se-d,se,Södermanlands,,län,Nyköping
-se-e,se,Östergötlands,,län,Linköping
-se-f,se,Jönköpings,,län,Jönköping
-se-g,se,Kronobergs,,län,Växjö
-se-h,se,Kalmar,,län,Kalmar
-se-i,se,Gotlands,,län,Visby
-se-k,se,Blekinge,,län,Karlskrona
-se-m,se,Skåne,,län,Malmö
-se-n,se,Hallands,,län,Halmstad
-se-o,se,Västra Götaland,,län,Göteborg
-se-s,se,Värmlands,,län,Karlstad
-se-t,se,Örebro,,län,Örebro
-se-u,se,Västmanlands,,län,Västerås
-se-w,se,Dalarna,,län,Falun
-se-x,se,Gävleborgs,,län,Gävle
-se-y,se,Västernorrlands,,län,Härnösand
-se-z,se,Jämtlands,,län,Östersund
+SE,001.150.154.158.752,Suède,,1,Stockholm
+SE-AB,001.150.154.158.752.SE-AB,Stockholms,,11,Stockholm
+SE-AC,001.150.154.158.752.SE-AC,Västerbottens,Botnie occidentale,11,Umeå
+SE-BD,001.150.154.158.752.SE-BD,Norrbottens,Botnie septentrionale,11,Luleå
+SE-C,001.150.154.158.752.SE-C,Uppsala,,11,Uppsala
+SE-D,001.150.154.158.752.SE-D,Södermanlands,,11,Nyköping
+SE-E,001.150.154.158.752.SE-E,Östergötlands,,11,Linköping
+SE-F,001.150.154.158.752.SE-F,Jönköpings,,11,Jönköping
+SE-G,001.150.154.158.752.SE-G,Kronobergs,,11,Växjö
+SE-H,001.150.154.158.752.SE-H,Kalmar,,11,Kalmar
+SE-I,001.150.154.158.752.SE-I,Gotlands,,11,Visby
+SE-K,001.150.154.158.752.SE-K,Blekinge,,11,Karlskrona
+SE-M,001.150.154.158.752.SE-M,Skåne,,11,Malmö
+SE-N,001.150.154.158.752.SE-N,Hallands,,11,Halmstad
+SE-O,001.150.154.158.752.SE-O,Västra Götaland,,11,Göteborg
+SE-S,001.150.154.158.752.SE-S,Värmlands,,11,Karlstad
+SE-T,001.150.154.158.752.SE-T,Örebro,,11,Örebro
+SE-U,001.150.154.158.752.SE-U,Västmanlands,,11,Västerås
+SE-W,001.150.154.158.752.SE-W,Dalarna,,11,Falun
+SE-X,001.150.154.158.752.SE-X,Gävleborgs,,11,Gävle
+SE-Y,001.150.154.158.752.SE-Y,Västernorrlands,,11,Härnösand
+SE-Z,001.150.154.158.752.SE-Z,Jämtlands,,11,Östersund

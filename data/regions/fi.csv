@@ -1,22 +1,22 @@
 code,hierarchie,region,francais,administration,capitale
-246,fi,154,Finland,,1,Helsinki
-,fi-01,fi,Ahvenanmaan maakunta,,maakunnan,Mariehamn
-,fi-02,fi,Etelä-Karjala,,maakunnan,Lappeenranta
-,fi-03,fi,Etelä-Pohjanmaa,,maakunnan,Seinäjoki
-,fi-04,fi,Etelä-Savo,,maakunnan,Polvijärvi
-,fi-05,fi,Kainuu,,maakunnan,Kajaani
-,fi-06,fi,Kanta-Häme,,maakunnan,Hämeenlinna
-,fi-07,fi,Keski-Pohjanmaa,,maakunnan,Kokkola
-,fi-08,fi,Keski-Suomi,,maakunnan,Helsinki
-,fi-09,fi,Kymenlaakso,,maakunnan,Kouvola
-,fi-10,fi,Lappi,,maakunnan,Rovaniemi
-,fi-11,fi,Pirkanmaa,,maakunnan,Rovaniemi
-,fi-12,fi,Pohjanmaa,,maakunnan,Vaasa
-,fi-13,fi,Pohjois-Karjala,,maakunnan,Joensuu
-,fi-14,fi,Pohjois-Pohjanmaa,,maakunnan,Oulu
-,fi-15,fi,Pohjois-Savo,,maakunnan,Kuopio
-,fi-16,fi,Päijät-Häme,,maakunnan,Lahti
-,fi-17,fi,Satakunta,,maakunnan,Pori
-,fi-18,fi,Uusimaa,,maakunnan,Helsinki
-,fi-19,fi,Varsinais-Suomi,,maakunnan,Turku
-248,ax,154,Îles d’Åland,,province autonome,Mariehamn
+FI,001.150.154.246,Finland,,1,Helsinki
+FI-01,001.150.154.246.FI-01,Ahvenanmaan maakunta,,maakunnan,Mariehamn
+FI-02,001.150.154.246.FI-02,Etelä-Karjala,,maakunnan,Lappeenranta
+FI-03,001.150.154.246.FI-03,Etelä-Pohjanmaa,,maakunnan,Seinäjoki
+FI-04,001.150.154.246.FI-04,Etelä-Savo,,maakunnan,Polvijärvi
+FI-05,001.150.154.246.FI-05,Kainuu,,maakunnan,Kajaani
+FI-06,001.150.154.246.FI-06,Kanta-Häme,,maakunnan,Hämeenlinna
+FI-07,001.150.154.246.FI-07,Keski-Pohjanmaa,,maakunnan,Kokkola
+FI-08,001.150.154.246.FI-08,Keski-Suomi,,maakunnan,Helsinki
+FI-09,001.150.154.246.FI-09,Kymenlaakso,,maakunnan,Kouvola
+FI-10,001.150.154.246.FI-10,Lappi,,maakunnan,Rovaniemi
+FI-11,001.150.154.246.FI-11,Pirkanmaa,,maakunnan,Rovaniemi
+FI-12,001.150.154.246.FI-12,Pohjanmaa,,maakunnan,Vaasa
+FI-13,001.150.154.246.FI-13,Pohjois-Karjala,,maakunnan,Joensuu
+FI-14,001.150.154.246.FI-14,Pohjois-Pohjanmaa,,maakunnan,Oulu
+FI-15,001.150.154.246.FI-15,Pohjois-Savo,,maakunnan,Kuopio
+FI-16,001.150.154.246.FI-16,Päijät-Häme,,maakunnan,Lahti
+FI-17,001.150.154.246.FI-17,Satakunta,,maakunnan,Pori
+FI-18,001.150.154.246.FI-18,Uusimaa,,maakunnan,Helsinki
+FI-19,001.150.154.246.FI-19,Varsinais-Suomi,,maakunnan,Turku
+AX,001.150.154.248,Îles d’Åland,,province autonome,Mariehamn

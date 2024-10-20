@@ -1,15 +1,15 @@
 code,hierarchie,region,francais,administration,capitale
-056,be,155,Belgique,,pays,Bruxelles
-,be-bru,be,Brussels,,Bruxelles-Capitale,Brussels
-,be-vlg,be,Vlaams Gewest,,region,Brussels
-,be-wal,be,Wallonie,,region,Namur
-,be-van,be-vlg,Antwerpen,,province,Antwerp
-,be-vbr,be-vlg,Vlaams Brabant,,province,Leuven
-,be-vli,be-vlg,Limburg,,province,Hasselt
-,be-vov,be-vlg,Oost-Vlaanderen,,province,Gent
-,be-vwv,be-vlg,West-Vlaanderen,,province,Brugge
-,be-wbr,be-wal,Brabant Wallon,,province,Wavre
-,be-wht,be-wal,Hainaut,,province,Mons
-,be-wlg,be-wal,Liège,,province,Liège
-,be-wlx,be-wal,Luxembourg,,province,Arlon
-,be-wna,be-wal,Namur,,province,Namur
+BE,001.150.155.056,Belgique,,pays,Bruxelles
+BE-BRU,001.150.155.056.BE-BRU,Brussels,,Bruxelles-Capitale,Brussels
+BE-VLG,001.150.155.056.BE-VLG,Vlaams Gewest,,region,Brussels
+BE-WAL,001.150.155.056.BE-WAL,Wallonie,,region,Namur
+BE-VAN,001.150.155.056.BE-VLG.BE-VAN,Antwerpen,,8,Antwerp
+BE-VBR,001.150.155.056.BE-VLG.BE-VBR,Vlaams Brabant,,8,Leuven
+BE-VLI,001.150.155.056.BE-VLG.BE-VLI,Limburg,,8,Hasselt
+BE-VOV,001.150.155.056.BE-VLG.BE-VOV,Oost-Vlaanderen,,8,Gent
+BE-VWV,001.150.155.056.BE-VLG.BE-VWV,West-Vlaanderen,,8,Brugge
+BE-WBR,001.150.155.056.BE-WAL.BE-WBR,Brabant Wallon,,8,Wavre
+BE-WHT,001.150.155.056.BE-WAL.BE-WHT,Hainaut,,8,Mons
+BE-WLG,001.150.155.056.BE-WAL.BE-WLG,Liège,,8,Liège
+BE-WLX,001.150.155.056.BE-WAL.BE-WLX,Luxembourg,,8,Arlon
+BE-WNA,001.150.155.056.BE-WAL.BE-WNA,Namur,,8,Namur

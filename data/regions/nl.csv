@@ -1,17 +1,17 @@
 code,hierarchie,region,francais,administration,capitale
-528,nl,001.150.155.nl,Pays-bas,,pays,La Haye
-nl-dr,001.150.155.nl.dr,Drenthe,,province,Assen
-nl-fl,001.150.155.nl.fl,Flevoland,,province,Lelystad
-nl-fr,001.150.155.nl.fr,Friesland,,province,Leeuwarden
-nl-ge,001.150.155.nl.ge,Gelderland,,province,Arnhem
-nl-gr,001.150.155.nl.gr,Groningen,,province,Groningen
-nl-li,001.150.155.nl.li,Limburg,,province,Maastricht
-nl-nb,001.150.155.nl.nb,Noord Brabant,,province,'s-Hertogenbosch
-nl-nh,001.150.155.nl.nh,Noord Holland,,province,Haarlem
-nl-ov,001.150.155.nl.ov,Overijssel,,province,Zwolle
-nl-ut,001.150.155.nl.ut,Utrecht,,province,Utrecht
-nl-ze,001.150.155.nl.ze,Zeeland,,province,Middelburg
-nl-zh,001.150.155.nl.zh,Zuid Holland,,province,Den Haag
-533,aw,001.019.419.029.aw,Aruba,,pays constitutif du royaume des Pays-Bas,Oranjestad
-531,cw,001.019.419.029.cw,Curaçao,,pays constitutif du royaume des Pays-Bas,Willemstad
-534,sx,001.019.419.029.sx,Sint Maarten,,état autonome dépendant du royaume des Pays-Bas,Philipsburg
+NL,001.150.155.528,Pays-bas,,pays,La Haye
+NL-DR,001.150.155.528.NL-DR,Drenthe,,province,Assen
+NL-FL,001.150.155.528.NL-FL,Flevoland,,province,Lelystad
+NL-FR,001.150.155.528.NL-FR,Friesland,,province,Leeuwarden
+NL-GE,001.150.155.528.NL-GE,Gelderland,,province,Arnhem
+NL-GR,001.150.155.528.NL-GR,Groningen,,province,Groningen
+NL-LI,001.150.155.528.NL-LI,Limburg,,province,Maastricht
+NL-NB,001.150.155.528.NL-NB,Noord Brabant,,province,'s-Hertogenbosch
+NL-NH,001.150.155.528.NL-NH,Noord Holland,,province,Haarlem
+NL-OV,001.150.155.528.NL-OV,Overijssel,,province,Zwolle
+NL-UT,001.150.155.528.NL-UT,Utrecht,,province,Utrecht
+NL-ZE,001.150.155.528.NL-ZE,Zeeland,,province,Middelburg
+NL-ZH,001.150.155.528.NL-ZH,Zuid Holland,,province,Den Haag
+AW,001.019.419.029.533,Aruba,,pays constitutif du royaume des Pays-Bas,Oranjestad
+CW,001.019.419.029.531,Curaçao,,pays constitutif du royaume des Pays-Bas,Willemstad
+SX,001.019.419.029.534,Sint Maarten,,état autonome dépendant du royaume des Pays-Bas,Philipsburg

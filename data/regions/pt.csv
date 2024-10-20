@@ -1,22 +1,22 @@
 code,hierarchie,region,francais,administration,capitale
-620,PT,001.150.039.PT,Portugal,,pays,Lisbone
-PT-01,001.150.039.PT.01,Aveiro,,4,Aveiro
-PT-02,001.150.039.PT.02,Beja,,4,Beja
-PT-03,001.150.039.PT.03,Braga,,4,Braga
-PT-04,001.150.039.PT.04,Braganca,,4,Bragança
-PT-05,001.150.039.PT.05,Castelo Branco,,4,Castelo Branco
-PT-06,001.150.039.PT.06,Coimbra,,4,Coimbra
-PT-07,001.150.039.PT.07,Evora,,4,Évora
-PT-08,001.150.039.PT.08,Faro,,4,Faro
-PT-09,001.150.039.PT.09,Guarda,,4,Guarda
-PT-10,001.150.039.PT.10,Leiria,,4,Leiria
-PT-11,001.150.039.PT.11,Lisboa,,4,Lisbon
-PT-12,001.150.039.PT.12,Portalegre,,4,Portalegre
-PT-13,001.150.039.PT.13,Porto,,4,Porto
-PT-14,001.150.039.PT.14,Santarem,,4,Santarém
-PT-15,001.150.039.PT.15,Setubal,,4,Setúbal
-PT-16,001.150.039.PT.16,Viana do Castelo,,4,Viana do Castelo
-PT-17,001.150.039.PT.17,Vila Real,,4,Vila Real
-PT-18,001.150.039.PT.18,Viseu,,4,Viseu
-PT-20,001.150.039.PT.20,Acores (Azores),,região autónoma,Ponta Delgada
-PT-30,001.150.039.PT.30,Madeira,,região autónoma,Funchal
+PT,001.150.039.620,Portugal,,pays,Lisbone
+PT-01,001.150.039.620.PT-01,Aveiro,,4,Aveiro
+PT-02,001.150.039.620.PT-02,Beja,,4,Beja
+PT-03,001.150.039.620.PT-03,Braga,,4,Braga
+PT-04,001.150.039.620.PT-04,Braganca,,4,Bragança
+PT-05,001.150.039.620.PT-05,Castelo Branco,,4,Castelo Branco
+PT-06,001.150.039.620.PT-06,Coimbra,,4,Coimbra
+PT-07,001.150.039.620.PT-07,Evora,,4,Évora
+PT-08,001.150.039.620.PT-08,Faro,,4,Faro
+PT-09,001.150.039.620.PT-09,Guarda,,4,Guarda
+PT-10,001.150.039.620.PT-10,Leiria,,4,Leiria
+PT-11,001.150.039.620.PT-11,Lisboa,,4,Lisbon
+PT-12,001.150.039.620.PT-12,Portalegre,,4,Portalegre
+PT-13,001.150.039.620.PT-13,Porto,,4,Porto
+PT-14,001.150.039.620.PT-14,Santarem,,4,Santarém
+PT-15,001.150.039.620.PT-15,Setubal,,4,Setúbal
+PT-16,001.150.039.620.PT-16,Viana do Castelo,,4,Viana do Castelo
+PT-17,001.150.039.620.PT-17,Vila Real,,4,Vila Real
+PT-18,001.150.039.620.PT-18,Viseu,,4,Viseu
+PT-20,001.150.039.620.PT-20,Acores (Azores),,região autónoma,Ponta Delgada
+PT-30,001.150.039.620.PT-30,Madeira,,região autónoma,Funchal

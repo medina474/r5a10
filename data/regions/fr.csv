@@ -1,124 +1,124 @@
 code,hierarchie,region,francais,administration,capitale
-250,fr,001.150.155.fr,France,,pays,Paris
-fr-20r,001.150.155.fr.20r,Corse,,collectivité métropolitaine,Ajaccio
-fr-6ae,001.150.155.fr.6ae,Alsace,,collectivité européenne,Strasbourg
-fr-ara,001.150.155.fr.ara,Auvergne-Rhône-Alpes,,2,Lyon
-fr-bfc,001.150.155.fr.bfc,Bourgogne-Franche-Comté,,2,Dijon
-fr-bre,001.150.155.fr.bre,Bretagne,,2,Rennes
-fr-cvl,001.150.155.fr.cvl,Centre-Val de Loire,,2,Orléans
-fr-ges,001.150.155.fr.ges,Grand Est,,2,Strasbourg
-fr-hdf,001.150.155.fr.hdf,Hauts-de-France,,2,Lille
-fr-idf,001.150.155.fr.idf,Île-de-France,,2,Paris
-fr-naq,001.150.155.fr.naq,Nouvelle-Aquitaine,,2,Bordeaux
-fr-nor,001.150.155.fr.nor,Normandie,,2,Rouen
-fr-occ,001.150.155.fr.occ,Occitanie,,2,Toulouse
-fr-pac,001.150.155.fr.pac,Provence-Alpes-Côte d’Azur,,2,Marseille
-fr-pdl,001.150.155.fr.pdl,Pays de la Loire,,2,Nantes
-fr-01,001.150.155.fr.ara.01,Ain,,3,Bourg-en-Bresse
-fr-02,001.150.155.fr.hdf.02,Aisne,,3,Laon
-fr-03,001.150.155.fr.ara.03,Allier,,3,Moulins
-fr-04,001.150.155.fr.pac.04,Alpes-de-Haute-Provence,,3,Digne-les-Bains
-fr-05,001.150.155.fr.pac.05,Hautes-Alpes,,3,Gap
-fr-06,001.150.155.fr.pac.06,Alpes-Maritimes,,3,Nice
-fr-07,001.150.155.fr.ara.07,Ardèche,,3,Privas
-fr-08,001.150.155.fr.ges.08,Ardennes,,3,Charleville-Mézières
-fr-09,001.150.155.fr.occ.09,Ariège,,3,Foix
-fr-10,001.150.155.fr.ges.10,Aube,,3,Troyes
-fr-11,001.150.155.fr.occ.11,Aude,,3,Carcassonne
-fr-12,001.150.155.fr.occ.12,Aveyron,,3,Rodez
-fr-13,001.150.155.fr.pac.13,Bouches-du-Rhône,,3,Marseille
-fr-14,001.150.155.fr.nor.14,Calvados,,3,Caen
-fr-15,001.150.155.fr.ara.15,Cantal,,3,Aurillac
-fr-16,001.150.155.fr.naq.16,Charente,,3,Angoulême
-fr-17,001.150.155.fr.naq.17,Charente-Maritime,,3,La Rochelle
-fr-18,001.150.155.fr.cvl.18,Cher,,3,Bourges
-fr-19,001.150.155.fr.naq.19,Corrèze,,3,Tulle
-fr-21,001.150.155.fr.bfc.21,Côte-d'Or,,3,Dijon
-fr-22,001.150.155.fr.bre.22,Côtes-d'Armor,,3,Saint-Brieuc
-fr-23,001.150.155.fr.naq.23,Creuse,,3,Guéret
-fr-24,001.150.155.fr.naq.24,Dordogne,,3,Périgueux
-fr-25,001.150.155.fr.bfc.25,Doubs,,3,Besançon
-fr-26,001.150.155.fr.ara.26,Drôme,,3,Valence
-fr-27,001.150.155.fr.nor.27,Eure,,3,Évreux
-fr-28,001.150.155.fr.cvl.28,Eure-et-Loir,,3,Chartres
-fr-29,001.150.155.fr.bre.29,Finistère,,3,Quimper
-fr-2A,001.150.155.fr.20r.2A,Corse-du-Sud,,3,Ajaccio
-fr-2B,001.150.155.fr.20r.2B,Haute-Corse,,3,Bastia
-fr-30,001.150.155.fr.occ.30,Gard,,3,Nîmes
-fr-31,001.150.155.fr.occ.31,Haute-Garonne,,3,Toulouse
-fr-32,001.150.155.fr.occ.32,Gers,,3,Auch
-fr-33,001.150.155.fr.naq.33,Gironde,,3,Bordeaux
-fr-34,001.150.155.fr.occ.34,Hérault,,3,Montpellier
-fr-35,001.150.155.fr.bre.35,Ille-et-Vilaine,,3,Rennes
-fr-36,001.150.155.fr.cvl.36,Indre,,3,Châteauroux
-fr-37,001.150.155.fr.cvl.37,Indre-et-Loire,,3,Tours
-fr-38,001.150.155.fr.ara.38,Isère,,3,Grenoble
-fr-39,001.150.155.fr.bfc.39,Jura,,3,Lons-le-Saunier
-fr-40,001.150.155.fr.naq.40,Landes,,3,Mont-de-Marsan
-fr-41,001.150.155.fr.cvl.41,Loir-et-Cher,,3,Blois
-fr-42,001.150.155.fr.ara.42,Loire,,3,Saint-Étienne
-fr-43,001.150.155.fr.ara.43,Haute-Loire,,3,Le Puy-en-Velay
-fr-44,001.150.155.fr.pdl.44,Loire-Atlantique,,3,Nantes
-fr-45,001.150.155.fr.cvl.45,Loiret,,3,Orléans
-fr-46,001.150.155.fr.occ.46,Lot,,3,Cahors
-fr-47,001.150.155.fr.naq.47,Lot-et-Garonne,,3,Agen
-fr-48,001.150.155.fr.occ.48,Lozère,,3,Mende
-fr-49,001.150.155.fr.pdl.49,Maine-et-Loire,,3,Angers
-fr-50,001.150.155.fr.nor.50,Manche,,3,Saint-Lô
-fr-51,001.150.155.fr.ges.51,Marne,,3,Châlons-en-Champagne
-fr-52,001.150.155.fr.ges.52,Haute-Marne,,3,Chaumont
-fr-53,001.150.155.fr.pdl.53,Mayenne,,3,Laval
-fr-54,001.150.155.fr.ges.54,Meurthe-et-Moselle,,3,Nancy
-fr-55,001.150.155.fr.ges.55,Meuse,,3,Bar-le-Duc
-fr-56,001.150.155.fr.bre.56,Morbihan,,3,Vannes
-fr-57,001.150.155.fr.ges.57,Moselle,,3,Metz
-fr-58,001.150.155.fr.bfc.58,Nièvre,,3,Nevers
-fr-59,001.150.155.fr.hdf.59,Nord,,3,Lille
-fr-60,001.150.155.fr.hdf.60,Oise,,3,Beauvais
-fr-61,001.150.155.fr.nor.61,Orne,,3,Alençon
-fr-62,001.150.155.fr.hdf.62,Pas-de-Calais,,3,Arras
-fr-63,001.150.155.fr.ara.63,Puy-de-Dôme,,3,Clermont-Ferrand
-fr-64,001.150.155.fr.naq.64,Pyrénées-Atlantiques,,3,Pau
-fr-65,001.150.155.fr.occ.65,Hautes-Pyrénées,,3,Tarbes
-fr-66,001.150.155.fr.occ.66,Pyrénées-Orientales,,3,Perpignan
-fr-67,001.150.155.fr.6ae.67,Bas-Rhin,,3,Strasbourg
-fr-68,001.150.155.fr.6ae.68,Haut-Rhin,,3,Colmar
-fr-69,001.150.155.fr.Biberachara.69,Rhône,,3,Lyon
-fr-70,001.150.155.fr.bfc.70,Haute-Saône,,3,Vesoul
-fr-71,001.150.155.fr.bfc.71,Saône-et-Loire,,3,Mâcon
-fr-72,001.150.155.fr.pdl.72,Sarthe,,3,Le Mans
-fr-73,001.150.155.fr.ara.73,Savoie,,3,Chambéry
-fr-74,001.150.155.fr.ara.74,Haute-Savoie,,3,Annecy
-fr-75C,001.150.155.fr.idf.75c,Paris,,collectivité métropolitaine,Paris
-fr-76,001.150.155.fr.nor.76,Seine-Maritime,,3,Rouen
-fr-77,001.150.155.fr.idf.77,Seine-et-Marne,,3,Melun
-fr-78,001.150.155.fr.idf.78,Yvelines,,3,Versailles
-fr-79,001.150.155.fr.naq.79,Deux-Sèvres,,3,Niort
-fr-80,001.150.155.fr.hdf.80,Somme,,3,Amiens
-fr-81,001.150.155.fr.occ.81,Tarn,,3,Albi
-fr-82,001.150.155.fr.occ.82,Tarn-et-Garonne,,3,Montauban
-fr-83,001.150.155.fr.pac.83,Var,,3,Toulon
-fr-84,001.150.155.fr.pac.84,Vaucluse,,3,Avignon
-fr-85,001.150.155.fr.pdl.85,Vendée,,3,La Roche-sur-Yon
-fr-86,001.150.155.fr.naq.86,Vienne,,3,Poitiers
-fr-87,001.150.155.fr.naq.87,Haute-Vienne,,3,Limoges
-fr-88,001.150.155.fr.ges.88,Vosges,,3,Épinal
-fr-89,001.150.155.fr.bfc.89,Yonne,,3,Auxerre
-fr-90,001.150.155.fr.bfc.90,Territoire de Belfort,,3,Belfort
-fr-91,001.150.155.fr.idf.91,Essonne,,3,Évry
-fr-92,001.150.155.fr.idf.92,Hauts-de-Seine,,3,Nanterre
-fr-93,001.150.155.fr.idf.93,Seine-Saint-Denis,,3,Bobigny
-fr-94,001.150.155.fr.idf.94,Val-de-Marne,,3,Créteil
-fr-95,001.150.155.fr.idf.95,Val-d'Oise,,3,Pontoise
-fr-69M,001.150.155.fr.ara.69M,Métropole de Lyon,,collectivité métropolitaine,Lyon
-312,fr-971,001.019.419.029.gp,Guadeloupe,,collectivité départementale d'outre-mer,Basse-Terre
-474,fr-972,001.019.419.029.mq,Martinique,,collectivité territoriale unique,Fort-de-France
-663,fr-mf,001.019.419.029.mf,Saint-Martin,,collectivité d'outre-mer,Marigot
-254,fr-973,005,Guyane,,collectivité territoriale unique d'outre-mer,Cayenne
-638,fr-974,014,La Réunion,,département et région d'outre-mer,Saint-Denis
-175,fr-976,014,Mayotte,,département et région d’outre-mer,Mamoudzou
-540,fr-nc,054,Nouvelle-Calédonie,,collectivité d’outre-mer à statut particulier,3,,Nouméa
-258,fr-pf,061,Polynésie française,,collectivité d'outre-mer,Papeete
-876,fr-wf,061,Îles Wallis-et-Futuna,,collectivité d'outre-mer,Mata Utu
-666,fr-pm,021,Saint-Pierre-et-Miquelon,,collectivité d'outre-mer,Saint-Pierre
-260,fr-tf,014,Terres australes françaises,,territoire d'outre-mer,
+FR,001.150.155.250,France,,pays,Paris
+FR-20R,001.150.155.250.FR-20R,Corse,,collectivité métropolitaine,Ajaccio
+FR-6AE,001.150.155.250.FR-6AE,Alsace,,collectivité européenne,Strasbourg
+FR-ARA,001.150.155.250.FR-ARA,Auvergne-Rhône-Alpes,,2,Lyon
+FR-BFC,001.150.155.250.FR-BFC,Bourgogne-Franche-Comté,,2,Dijon
+FR-BRE,001.150.155.250.FR-BRE,Bretagne,,2,Rennes
+FR-CVL,001.150.155.250.FR-CVL,Centre-Val de Loire,,2,Orléans
+FR-GES,001.150.155.250.FR-GES,Grand Est,,2,Strasbourg
+FR-HDF,001.150.155.250.FR-HDF,Hauts-de-France,,2,Lille
+FR-IDF,001.150.155.250.FR-IDF,Île-de-France,,2,Paris
+FR-NAQ,001.150.155.250.FR-NAQ,Nouvelle-Aquitaine,,2,Bordeaux
+FR-NOR,001.150.155.250.FR-NOR,Normandie,,2,Rouen
+FR-OCC,001.150.155.250.FR-OCC,Occitanie,,2,Toulouse
+FR-PAC,001.150.155.250.FR-PAC,Provence-Alpes-Côte d’Azur,,2,Marseille
+FR-PDL,001.150.155.250.FR-PDL,Pays de la Loire,,2,Nantes
+FR-01,001.150.155.250.FR-ARA.FR-01,Ain,,3,Bourg-en-Bresse
+FR-02,001.150.155.250.FR-HDF.FR-02,Aisne,,3,Laon
+FR-03,001.150.155.250.FR-ARA.FR-03,Allier,,3,Moulins
+FR-04,001.150.155.250.FR-PAC.FR-04,Alpes-de-Haute-Provence,,3,Digne-les-Bains
+FR-05,001.150.155.250.FR-PAC.FR-05,Hautes-Alpes,,3,Gap
+FR-06,001.150.155.250.FR-PAC.FR-06,Alpes-Maritimes,,3,Nice
+FR-07,001.150.155.250.FR-ARA.FR-07,Ardèche,,3,Privas
+FR-08,001.150.155.250.FR-GES.FR-08,Ardennes,,3,Charleville-Mézières
+FR-09,001.150.155.250.FR-OCC.FR-09,Ariège,,3,Foix
+FR-10,001.150.155.250.FR-GES.FR-10,Aube,,3,Troyes
+FR-11,001.150.155.250.FR-OCC.FR-11,Aude,,3,Carcassonne
+FR-12,001.150.155.250.FR-OCC.FR-12,Aveyron,,3,Rodez
+FR-13,001.150.155.250.FR-PAC.FR-13,Bouches-du-Rhône,,3,Marseille
+FR-14,001.150.155.250.FR-NOR.FR-14,Calvados,,3,Caen
+FR-15,001.150.155.250.FR-ARA.FR-15,Cantal,,3,Aurillac
+FR-16,001.150.155.250.FR-NAQ.FR-16,Charente,,3,Angoulême
+FR-17,001.150.155.250.FR-NAQ.FR-17,Charente-Maritime,,3,La Rochelle
+FR-18,001.150.155.250.FR-CVL.FR-18,Cher,,3,Bourges
+FR-19,001.150.155.250.FR-NAQ.FR-19,Corrèze,,3,Tulle
+FR-21,001.150.155.250.FR-BFC.FR-21,Côte-d'Or,,3,Dijon
+FR-22,001.150.155.250.FR-BRE.FR-22,Côtes-d'Armor,,3,Saint-Brieuc
+FR-23,001.150.155.250.FR-NAQ.FR-23,Creuse,,3,Guéret
+FR-24,001.150.155.250.FR-NAQ.FR-24,Dordogne,,3,Périgueux
+FR-25,001.150.155.250.FR-BFC.FR-25,Doubs,,3,Besançon
+FR-26,001.150.155.250.FR-ARA.FR-26,Drôme,,3,Valence
+FR-27,001.150.155.250.FR-NOR.FR-27,Eure,,3,Évreux
+FR-28,001.150.155.250.FR-CVL.FR-28,Eure-et-Loir,,3,Chartres
+FR-29,001.150.155.250.FR-BRE.FR-29,Finistère,,3,Quimper
+FR-2A,001.150.155.250.FR-20R.FR-2A,Corse-du-Sud,,3,Ajaccio
+FR-2B,001.150.155.250.FR-20R.FR-2B,Haute-Corse,,3,Bastia
+FR-30,001.150.155.250.FR-OCC.FR-30,Gard,,3,Nîmes
+FR-31,001.150.155.250.FR-OCC.FR-31,Haute-Garonne,,3,Toulouse
+FR-32,001.150.155.250.FR-OCC.FR-32,Gers,,3,Auch
+FR-33,001.150.155.250.FR-NAQ.FR-33,Gironde,,3,Bordeaux
+FR-34,001.150.155.250.FR-OCC.FR-34,Hérault,,3,Montpellier
+FR-35,001.150.155.250.FR-BRE.FR-35,Ille-et-Vilaine,,3,Rennes
+FR-36,001.150.155.250.FR-CVL.FR-36,Indre,,3,Châteauroux
+FR-37,001.150.155.250.FR-CVL.FR-37,Indre-et-Loire,,3,Tours
+FR-38,001.150.155.250.FR-ARA.FR-38,Isère,,3,Grenoble
+FR-39,001.150.155.250.FR-BFC.FR-39,Jura,,3,Lons-le-Saunier
+FR-40,001.150.155.250.FR-NAQ.FR-40,Landes,,3,Mont-de-Marsan
+FR-41,001.150.155.250.FR-CVL.FR-41,Loir-et-Cher,,3,Blois
+FR-42,001.150.155.250.FR-ARA.FR-42,Loire,,3,Saint-Étienne
+FR-43,001.150.155.250.FR-ARA.FR-43,Haute-Loire,,3,Le Puy-en-Velay
+FR-44,001.150.155.250.FR-PDL.FR-44,Loire-Atlantique,,3,Nantes
+FR-45,001.150.155.250.FR-CVL.FR-45,Loiret,,3,Orléans
+FR-46,001.150.155.250.FR-OCC.FR-46,Lot,,3,Cahors
+FR-47,001.150.155.250.FR-NAQ.FR-47,Lot-et-Garonne,,3,Agen
+FR-48,001.150.155.250.FR-OCC.FR-48,Lozère,,3,Mende
+FR-49,001.150.155.250.FR-PDL.FR-49,Maine-et-Loire,,3,Angers
+FR-50,001.150.155.250.FR-NOR.FR-50,Manche,,3,Saint-Lô
+FR-51,001.150.155.250.FR-GES.FR-51,Marne,,3,Châlons-en-Champagne
+FR-52,001.150.155.250.FR-GES.FR-52,Haute-Marne,,3,Chaumont
+FR-53,001.150.155.250.FR-PDL.FR-53,Mayenne,,3,Laval
+FR-54,001.150.155.250.FR-GES.FR-54,Meurthe-et-Moselle,,3,Nancy
+FR-55,001.150.155.250.FR-GES.FR-55,Meuse,,3,Bar-le-Duc
+FR-56,001.150.155.250.FR-BRE.FR-56,Morbihan,,3,Vannes
+FR-57,001.150.155.250.FR-GES.FR-57,Moselle,,3,Metz
+FR-58,001.150.155.250.FR-BFC.FR-58,Nièvre,,3,Nevers
+FR-59,001.150.155.250.FR-HDF.FR-59,Nord,,3,Lille
+FR-60,001.150.155.250.FR-HDF.FR-60,Oise,,3,Beauvais
+FR-61,001.150.155.250.FR-NOR.FR-61,Orne,,3,Alençon
+FR-62,001.150.155.250.FR-HDF.FR-62,Pas-de-Calais,,3,Arras
+FR-63,001.150.155.250.FR-ARA.FR-63,Puy-de-Dôme,,3,Clermont-Ferrand
+FR-64,001.150.155.250.FR-NAQ.FR-64,Pyrénées-Atlantiques,,3,Pau
+FR-65,001.150.155.250.FR-OCC.FR-65,Hautes-Pyrénées,,3,Tarbes
+FR-66,001.150.155.250.FR-OCC.FR-66,Pyrénées-Orientales,,3,Perpignan
+FR-67,001.150.155.250.FR-6AE.FR-67,Bas-Rhin,,3,Strasbourg
+FR-68,001.150.155.250.FR-6AE.FR-68,Haut-Rhin,,3,Colmar
+FR-69,001.150.155.250.FR-ARA.FR-69,Rhône,,3,Lyon
+FR-70,001.150.155.250.FR-BFC.FR-70,Haute-Saône,,3,Vesoul
+FR-71,001.150.155.250.FR-BFC.FR-71,Saône-et-Loire,,3,Mâcon
+FR-72,001.150.155.250.FR-PDL.FR-72,Sarthe,,3,Le Mans
+FR-73,001.150.155.250.FR-ARA.FR-73,Savoie,,3,Chambéry
+FR-74,001.150.155.250.FR-ARA.FR-74,Haute-Savoie,,3,Annecy
+FR-75C,001.150.155.250.FR-IDF.FR-75C,Paris,,collectivité métropolitaine,Paris
+FR-76,001.150.155.250.FR-NOR.FR-76,Seine-Maritime,,3,Rouen
+FR-77,001.150.155.250.FR-IDF.FR-77,Seine-et-Marne,,3,Melun
+FR-78,001.150.155.250.FR-IDF.FR-78,Yvelines,,3,Versailles
+FR-79,001.150.155.250.FR-NAQ.FR-79,Deux-Sèvres,,3,Niort
+FR-80,001.150.155.250.FR-HDF.FR-80,Somme,,3,Amiens
+FR-81,001.150.155.250.FR-OCC.FR-81,Tarn,,3,Albi
+FR-82,001.150.155.250.FR-OCC.FR-82,Tarn-et-Garonne,,3,Montauban
+FR-83,001.150.155.250.FR-PAC.FR-83,Var,,3,Toulon
+FR-84,001.150.155.250.FR-PAC.FR-84,Vaucluse,,3,Avignon
+FR-85,001.150.155.250.FR-PDL.FR-85,Vendée,,3,La Roche-sur-Yon
+FR-86,001.150.155.250.FR-NAQ.FR-86,Vienne,,3,Poitiers
+FR-87,001.150.155.250.FR-NAQ.FR-87,Haute-Vienne,,3,Limoges
+FR-88,001.150.155.250.FR-GES.FR-88,Vosges,,3,Épinal
+FR-89,001.150.155.250.FR-BFC.FR-89,Yonne,,3,Auxerre
+FR-90,001.150.155.250.FR-BFC.FR-90,Territoire de Belfort,,3,Belfort
+FR-91,001.150.155.250.FR-IDF.FR-91,Essonne,,3,Évry
+FR-92,001.150.155.250.FR-IDF.FR-92,Hauts-de-Seine,,3,Nanterre
+FR-93,001.150.155.250.FR-IDF.FR-93,Seine-Saint-Denis,,3,Bobigny
+FR-94,001.150.155.250.FR-IDF.FR-94,Val-de-Marne,,3,Créteil
+FR-95,001.150.155.250.FR-IDF.FR-95,Val-d'Oise,,3,Pontoise
+FR-69M,001.150.155.250.FR.ARA.FR-69M,Métropole de Lyon,,collectivité métropolitaine,Lyon
+FR-971,001.019.419.029.312,Guadeloupe,,collectivité départementale d'outre-mer,Basse-Terre
+FR-972,001.019.419.029.474,Martinique,,collectivité territoriale unique,Fort-de-France
+FR-MF,001.019.419.029.663,Saint-Martin,,collectivité d'outre-mer,Marigot
+FR-973,001.019.419.005.254,Guyane,,collectivité territoriale unique d'outre-mer,Cayenne
+FR-974,001.002.202.014.638,La Réunion,,département et région d'outre-mer,Saint-Denis
+FR-976,001.002.202.014.175,Mayotte,,département et région d’outre-mer,Mamoudzou
+FR-NC,001.009.054.540,Nouvelle-Calédonie,,collectivité d’outre-mer à statut particulier,Nouméa
+FR-PF,001.009.061.258,Polynésie française,,collectivité d'outre-mer,Papeete
+FR-WF,001.009.061.876,Îles Wallis-et-Futuna,,collectivité d'outre-mer,Mata Utu
+FR-PM,001.019.021.666,Saint-Pierre-et-Miquelon,,collectivité d'outre-mer,Saint-Pierre
+FR-TF,001.002.202.014.260,Terres australes françaises,,territoire d'outre-mer,

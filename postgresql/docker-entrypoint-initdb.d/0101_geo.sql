@@ -25,7 +25,7 @@ comment on column pays.code_num
 -- regions
 
 create table regions (
-  region_code character varying(6),
+  region_code text,
   hierarchie ltree,
   region text not null,
   francais text,

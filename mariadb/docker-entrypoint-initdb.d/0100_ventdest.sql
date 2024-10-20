@@ -56,7 +56,7 @@ create or replace table devises
   minors character varying(20) default null
 );
 
-create or replace table pays_devises
+create table pays_devises
 (
   pays_code character(2) not null,
   devise_code character(3) not null,

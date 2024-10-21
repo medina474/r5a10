@@ -1,17 +1,17 @@
 code,hierarchie,region,francais,administration,capitale
-NL,001.EUR.155.528,Pays-bas,,pays,La Haye
-NL-DR,001.EUR.155.528.NL-DR,Drenthe,,province,Assen
-NL-FL,001.EUR.155.528.NL-FL,Flevoland,,province,Lelystad
-NL-FR,001.EUR.155.528.NL-FR,Friesland,,province,Leeuwarden
-NL-GE,001.EUR.155.528.NL-GE,Gelderland,,province,Arnhem
-NL-GR,001.EUR.155.528.NL-GR,Groningen,,province,Groningen
-NL-LI,001.EUR.155.528.NL-LI,Limburg,,province,Maastricht
-NL-NB,001.EUR.155.528.NL-NB,Noord Brabant,,province,'s-Hertogenbosch
-NL-NH,001.EUR.155.528.NL-NH,Noord Holland,,province,Haarlem
-NL-OV,001.EUR.155.528.NL-OV,Overijssel,,province,Zwolle
-NL-UT,001.EUR.155.528.NL-UT,Utrecht,,province,Utrecht
-NL-ZE,001.EUR.155.528.NL-ZE,Zeeland,,province,Middelburg
-NL-ZH,001.EUR.155.528.NL-ZH,Zuid Holland,,province,Den Haag
-AW,001.019.419.029.533,Aruba,,pays constitutif du royaume des Pays-Bas,Oranjestad
-CW,001.019.419.029.531,Curaçao,,pays constitutif du royaume des Pays-Bas,Willemstad
-SX,001.019.419.029.534,Sint Maarten,,état autonome dépendant du royaume des Pays-Bas,Philipsburg
+NL,T.EUR.EUO.NL,Pays-bas,,pays,La Haye
+NL-DR,T.EUR.EUO.NL.NL-DR,Drenthe,,province,Assen
+NL-FL,T.EUR.EUO.NL.NL-FL,Flevoland,,province,Lelystad
+NL-FR,T.EUR.EUO.NL.NL-FR,Friesland,,province,Leeuwarden
+NL-GE,T.EUR.EUO.NL.NL-GE,Gelderland,,province,Arnhem
+NL-GR,T.EUR.EUO.NL.NL-GR,Groningen,,province,Groningen
+NL-LI,T.EUR.EUO.NL.NL-LI,Limburg,,province,Maastricht
+NL-NB,T.EUR.EUO.NL.NL-NB,Noord Brabant,,province,'s-Hertogenbosch
+NL-NH,T.EUR.EUO.NL.NL-NH,Noord Holland,,province,Haarlem
+NL-OV,T.EUR.EUO.NL.NL-OV,Overijssel,,province,Zwolle
+NL-UT,T.EUR.EUO.NL.NL-UT,Utrecht,,province,Utrecht
+NL-ZE,T.EUR.EUO.NL.NL-ZE,Zeeland,,province,Middelburg
+NL-ZH,T.EUR.EUO.NL.NL-ZH,Zuid Holland,,province,Den Haag
+AW,T.AME.AML.CRB.AW,Aruba,,pays constitutif du royaume des Pays-Bas,Oranjestad
+CW,T.AME.AML.CRB.CW,Curaçao,,pays constitutif du royaume des Pays-Bas,Willemstad
+SX,T.AME.AML.CRB.SX,Sint Maarten,,état autonome dépendant du royaume des Pays-Bas,Philipsburg

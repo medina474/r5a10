@@ -1,65 +1,65 @@
 code,hierarchie,region,francais,administration,capitale
-US,001.019.021.840,États-Unis d'Amérique,,1,Washington
-US-AK,001.019.021.840.US-AK,Alaska,,7,Juneau
-US-AL,001.019.021.840.US-AL,Alabama,,7,Montgomery
-US-AR,001.019.021.840.US-AR,Arkansas,,7,Little Rock
-US-AZ,001.019.021.840.US-AZ,Arizona,,7,Phoenix
-US-CA,001.019.021.840.US-CA,California,,7,Sacramento
-US-CO,001.019.021.840.US-CO,Colorado,,7,Denver
-US-CT,001.019.021.840.US-CT,Connecticut,,7,Hartford
-US-DC,001.019.021.840.US-DC,District of Columbia,,district,Washington
-US-DE,001.019.021.840.US-DE,Delaware,,7,Dover
-US-FL,001.019.021.840.US-FL,Florida,,7,Tallahassee
-US-GA,001.019.021.840.US-GA,Georgia,,7,Atlanta
-US-HI,001.019.021.840.US-HI,Hawaii,,7,Honolulu
-US-IA,001.019.021.840.US-IA,Iowa,,7,Des Moines
-US-ID,001.019.021.840.US-ID,Idaho,,7,Boise
-US-IL,001.019.021.840.US-IL,Illinois,,7,Springfield
-US-IN,001.019.021.840.US-IN,Indiana,,7,Indianapolis
-US-KS,001.019.021.840.US-KS,Kansas,,7,Topeka
-US-KY,001.019.021.840.US-KY,Kentucky,,7,Frankfort
-US-LA,001.019.021.840.US-LA,Louisiana,,7,Baton Rouge
-US-MA,001.019.021.840.US-MA,Massachusetts,,7,Boston
-US-MD,001.019.021.840.US-MD,Maryland,,7,Annapolis
-US-ME,001.019.021.840.US-ME,Maine,,7,Augusta
-US-MI,001.019.021.840.US-MI,Michigan,,7,Lansing
-US-MN,001.019.021.840.US-MN,Minnesota,,7,Saint Paul
-US-MO,001.019.021.840.US-MO,Missouri,,7,Jefferson City
-US-MS,001.019.021.840.US-MS,Mississippi,,7,Jackson
-US-MT,001.019.021.840.US-MT,Montana,,7,Helena
-US-NC,001.019.021.840.US-NC,North Carolina,,7,Raleigh
-US-ND,001.019.021.840.US-ND,North Dakota,,7,Bismarck
-US-NE,001.019.021.840.US-NE,Nebraska,,7,Lincoln
-US-NH,001.019.021.840.US-NH,New Hampshire,,7,Concord
-US-NJ,001.019.021.840.US-NJ,New Jersey,,7,Trenton
-US-NM,001.019.021.840.US-NM,New Mexico,,7,Santa Fe
-US-NV,001.019.021.840.US-NV,Nevada,,7,Carson City
-US-NY,001.019.021.840.US-NY,New York,,7,Albany
-US-OH,001.019.021.840.US-OH,Ohio,,7,Columbus
-US-OK,001.019.021.840.US-OK,Oklahoma,,7,Oklahoma City
-US-OR,001.019.021.840.US-OR,Oregon,,7,Salem
-US-PA,001.019.021.840.US-PA,Pennsylvania,,7,Harrisburg
-US-RI,001.019.021.840.US-RI,Rhode Island,,7,Providence
-US-SC,001.019.021.840.US-SC,South Carolina,,7,Columbia
-US-SD,001.019.021.840.US-SD,South Dakota,,7,Pierre
-US-TN,001.019.021.840.US-TN,Tennessee,,7,Nashville
-US-TX,001.019.021.840.US-TX,Texas,,7,Austin
-US-UT,001.019.021.840.US-UT,Utah,,7,Salt Lake City
-US-VA,001.019.021.840.US-VA,Virginia,,7,Richmond
-US-VT,001.019.021.840.US-VT,Vermont,,7,Montpelier
-US-WA,001.019.021.840.US-WA,Washington,,7,Olympia
-US-WI,001.019.021.840.US-WI,Wisconsin,,7,Madison
-US-WV,001.019.021.840.US-WV,West Virginia,,7,Charleston
-US-WY,001.019.021.840.US-WY,Wyoming,,7,Cheyenne
-US-GU,001.019.021.840.US-GU,Guam,,territory,
-US-AS,001.019.021.840.US-AS,American Samoa,,territory,
-US-MP,001.019.021.840.US-MP,Northern Mariana Islands,,territory,
-US-PR,001.019.021.840.US-PR,Puerto Rico,,territory,
-US-UM,001.019.021.840.US-UM,S. Minor Outlying Islands,,territory,
-US-VI,001.019.021.840.US-VI,Virgin Islands of the U.S.,,territory,
-MP,001.009.057.580,Îles Mariannes du Nord,,territoire non-incorporé et organisé,Saipan
-VI,001.019.419.029.850,Îles Vierges américaines,,territoire non-incorporé et organisé,Charlotte-Amélie
-GU,001.009.057.316,Guam,,territoire non-incorporé et organisé,Hagåtña
-UM,001.009.057.581,Îles mineures éloignées des États-Unis,,pays,
-AS,001.009.061.016,Samoa américaines,,territoire non-incorporé et non-organisé,Pago Pago
-PR,001.019.419.029.630,Porto Rico,,territoire non-incorporé et organisé,San Juan
+US,T.AME.AMN.840,États-Unis d'Amérique,,1,Washington
+US-AK,T.AME.AMN.840.US-AK,Alaska,,7,Juneau
+US-AL,T.AME.AMN.840.US-AL,Alabama,,7,Montgomery
+US-AR,T.AME.AMN.840.US-AR,Arkansas,,7,Little Rock
+US-AZ,T.AME.AMN.840.US-AZ,Arizona,,7,Phoenix
+US-CA,T.AME.AMN.840.US-CA,California,,7,Sacramento
+US-CO,T.AME.AMN.840.US-CO,Colorado,,7,Denver
+US-CT,T.AME.AMN.840.US-CT,Connecticut,,7,Hartford
+US-DC,T.AME.AMN.840.US-DC,District of Columbia,,district,Washington
+US-DE,T.AME.AMN.840.US-DE,Delaware,,7,Dover
+US-FL,T.AME.AMN.840.US-FL,Florida,,7,Tallahassee
+US-GA,T.AME.AMN.840.US-GA,Georgia,,7,Atlanta
+US-HI,T.AME.AMN.840.US-HI,Hawaii,,7,Honolulu
+US-IA,T.AME.AMN.840.US-IA,Iowa,,7,Des Moines
+US-ID,T.AME.AMN.840.US-ID,Idaho,,7,Boise
+US-IL,T.AME.AMN.840.US-IL,Illinois,,7,Springfield
+US-IN,T.AME.AMN.840.US-IN,Indiana,,7,Indianapolis
+US-KS,T.AME.AMN.840.US-KS,Kansas,,7,Topeka
+US-KY,T.AME.AMN.840.US-KY,Kentucky,,7,Frankfort
+US-LA,T.AME.AMN.840.US-LA,Louisiana,,7,Baton Rouge
+US-MA,T.AME.AMN.840.US-MA,Massachusetts,,7,Boston
+US-MD,T.AME.AMN.840.US-MD,Maryland,,7,Annapolis
+US-ME,T.AME.AMN.840.US-ME,Maine,,7,Augusta
+US-MI,T.AME.AMN.840.US-MI,Michigan,,7,Lansing
+US-MN,T.AME.AMN.840.US-MN,Minnesota,,7,Saint Paul
+US-MO,T.AME.AMN.840.US-MO,Missouri,,7,Jefferson City
+US-MS,T.AME.AMN.840.US-MS,Mississippi,,7,Jackson
+US-MT,T.AME.AMN.840.US-MT,Montana,,7,Helena
+US-NC,T.AME.AMN.840.US-NC,North Carolina,,7,Raleigh
+US-ND,T.AME.AMN.840.US-ND,North Dakota,,7,Bismarck
+US-NE,T.AME.AMN.840.US-NE,Nebraska,,7,Lincoln
+US-NH,T.AME.AMN.840.US-NH,New Hampshire,,7,Concord
+US-NJ,T.AME.AMN.840.US-NJ,New Jersey,,7,Trenton
+US-NM,T.AME.AMN.840.US-NM,New Mexico,,7,Santa Fe
+US-NV,T.AME.AMN.840.US-NV,Nevada,,7,Carson City
+US-NY,T.AME.AMN.840.US-NY,New York,,7,Albany
+US-OH,T.AME.AMN.840.US-OH,Ohio,,7,Columbus
+US-OK,T.AME.AMN.840.US-OK,Oklahoma,,7,Oklahoma City
+US-OR,T.AME.AMN.840.US-OR,Oregon,,7,Salem
+US-PA,T.AME.AMN.840.US-PA,Pennsylvania,,7,Harrisburg
+US-RI,T.AME.AMN.840.US-RI,Rhode Island,,7,Providence
+US-SC,T.AME.AMN.840.US-SC,South Carolina,,7,Columbia
+US-SD,T.AME.AMN.840.US-SD,South Dakota,,7,Pierre
+US-TN,T.AME.AMN.840.US-TN,Tennessee,,7,Nashville
+US-TX,T.AME.AMN.840.US-TX,Texas,,7,Austin
+US-UT,T.AME.AMN.840.US-UT,Utah,,7,Salt Lake City
+US-VA,T.AME.AMN.840.US-VA,Virginia,,7,Richmond
+US-VT,T.AME.AMN.840.US-VT,Vermont,,7,Montpelier
+US-WA,T.AME.AMN.840.US-WA,Washington,,7,Olympia
+US-WI,T.AME.AMN.840.US-WI,Wisconsin,,7,Madison
+US-WV,T.AME.AMN.840.US-WV,West Virginia,,7,Charleston
+US-WY,T.AME.AMN.840.US-WY,Wyoming,,7,Cheyenne
+US-GU,T.AME.AMN.840.US-GU,Guam,,territory,
+US-AS,T.AME.AMN.840.US-AS,American Samoa,,territory,
+US-MP,T.AME.AMN.840.US-MP,Northern Mariana Islands,,territory,
+US-PR,T.AME.AMN.840.US-PR,Puerto Rico,,territory,
+US-UM,T.AME.AMN.840.US-UM,S. Minor Outlying Islands,,territory,
+US-VI,T.AME.AMN.840.US-VI,Virgin Islands of the U.S.,,territory,
+MP,T.OCE.057.580,Îles Mariannes du Nord,,territoire non-incorporé et organisé,Saipan
+VI,T.AME.AML.CRB.850,Îles Vierges américaines,,territoire non-incorporé et organisé,Charlotte-Amélie
+GU,T.OCE.057.316,Guam,,territoire non-incorporé et organisé,Hagåtña
+UM,T.OCE.057.581,Îles mineures éloignées des États-Unis,,pays,
+AS,T.OCE.PLN.016,Samoa américaines,,territoire non-incorporé et non-organisé,Pago Pago
+PR,T.AME.AML.CRB.630,Porto Rico,,territoire non-incorporé et organisé,San Juan

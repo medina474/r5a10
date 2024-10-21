@@ -59,7 +59,7 @@ select '=============== FIN IMPORTATION DATA GEO' as msg;
 
 select '=============== FIN IMPORTATION DATA REGIONS' as msg;
 
-create temporary table villes_tmp (
+create table villes_fra (
   type_commune text,
   code_commune text,
   code_region text,
@@ -74,11 +74,14 @@ create temporary table villes_tmp (
   commune_parente text
 );
 
-insert into regions (region_code,region,francais,administration)
-select 'FR-'||code_commune, nom, libelle,15
-from villes_tmp;
+\copy villes_fra from '/docker-entrypoint-data.d/geo/v_commune_2023.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
-drop table villes_tmp;
+insert into regions (region_code, hierarchie, region, francais, administration)
+select 'FR-'||code_commune, (hierarchie::text || '.FR-'||code_commune)::ltree, nom, libelle, 15
+from villes_fra, regions
+where hierarchie ~ ('*.'||'FR-'||code_departement)::lquery;
+
+--drop table villes_tmp;
 
 create temporary table villes_tmp (
   city text,

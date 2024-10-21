@@ -1,8 +1,8 @@
 code,hierarchie,region,francais,administration,capitale
 GB,T.EUR.EUN.GB,Royaume-Uni,,1,Londres
-GB-ENG,T.EUR.EUN.GB.GB-ENG,England,,pays,
-GB-SCT,T.EUR.EUN.GB.GB-SCT,Scotland,,pays,
-GB-WLS,T.EUR.EUN.GB.GB-WLS,Wales [Cymru GB-CYM],,pays,
+GB-ENG,T.EUR.EUN.GB.GB-ENG,England,Angleterre,1,
+GB-SCT,T.EUR.EUN.GB.GB-SCT,Scotland,Écosse,1,
+GB-WLS,T.EUR.EUN.GB.GB-WLS,Wales [Cymru GB-CYM],Pays de Galles,1,
 GB-NIR,T.EUR.EUN.GB.GB-NIR,Northern Ireland,,province,
 GB-BDG,T.EUR.EUN.GB.GB-ENG.GB-BDG,Barking and Dagenham,,arrondissement de Londres,
 GB-BNE,T.EUR.EUN.GB.GB-ENG.GB-BNE,Barnet,,arrondissement de Londres,

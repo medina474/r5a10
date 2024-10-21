@@ -14,7 +14,7 @@ iso,hierarchie,region,francais,administration,capitale
 013,T.AME.AML.AMC,Amérique centrale,,,
 005,T.AME.AML.AMS,Amérique du Sud,,,
 029,T.AME.AML.CRB,Caraïbes,,,
-010,T.ANT,Antarctique,,,
+AQ,T.AQ,Antarctique,,,
 142,T.ASI,Asie,,,
 143,T.ASI.ASC,Asie centrale,,,
 035,T.ASI.ASS,Asie du Sud-Est,,,
@@ -131,7 +131,6 @@ UZ,T.ASI.ASC.UZ,Ouzbékistan,,1,Tachkent
 CN,T.ASI.ASE.CN,Chine,,1,Pékin
 KP,T.ASI.ASE.KP,Corée du Nord,,1,Pyongyang
 MN,T.ASI.ASE.MN,Mongolie,,1,Oulan-Bator
-KR,T.ASI.ASE.KR,Corée du Sud,,1,Séoul
 BN,T.ASI.ASS.BN,Brunéi Darussalam,,1,Bandar Seri Begawan
 KH,T.ASI.ASS.KH,Cambodge,,1,Phnom Penh
 ID,T.ASI.ASS.ID,Indonésie,,1,Jakarta
@@ -183,7 +182,6 @@ SJ,T.EUR.EUN.SJ,Îles Svalbard-et-Jan Mayen,,1,
 AL,T.EUR.EUS.AL,Albanie,,1,Tirana
 AD,T.EUR.EUS.AD,Andorre,,1,Andorre-la-Vieille
 BA,T.EUR.EUS.BA,Bosnie-Herzégovine,,1,Sarajevo
-GR,T.EUR.EUS.GR,Grèce,,1,Athènes
 VA,T.EUR.EUS.VA,Saint-Siège,,1,Vatican
 MT,T.EUR.EUS.MT,Malte,,1,La Valette
 ME,T.EUR.EUS.ME,Monténégro,,1,Podgorica

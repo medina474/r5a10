@@ -17,7 +17,7 @@ truncate table pays_tmp;
 \copy pays_tmp FROM '/docker-entrypoint-data.d/geo/pays-en.txt' (FORMAT CSV, delimiter E'\t', ENCODING 'UTF8');
 
 update pays set nom_eng = (select t.nom from pays_tmp t where pays.code3 = t.code3);
-update pays set nom_eng = 'Taiwan' where code2 = 'tw'; 
+update pays set nom_eng = 'Taiwan' where code2 = 'tw';
 
 drop table pays_tmp;
 
@@ -94,15 +94,17 @@ create temporary table villes_tmp (
   id text
 );
 
+select '=============== WORLDCITIES' as msg;
+
 \copy villes_tmp from '/docker-entrypoint-data.d/geo/worldcities.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
-insert into villes (nom, pays_code, admin_name, capital, population, coordonnees)
-select city, lower(iso2), admin_name, capital, population, postgis.st_makepoint(lng, lat)
+insert into geo.villes (nom, pays_code, admin_name, capital, population, coordonnees)
+select city, upper(iso2), admin_name, capital, population, postgis.st_makepoint(lng, lat)
 from villes_tmp;
 
-update villes 
-  set admin_name = r.region_code 
-  from  regions r 
+update geo.villes
+  set admin_name = r.region_code
+  from  regions r
   where hierarchie ~ ('*.'||villes.pays_code||'.*')::lquery
     and region = villes.admin_name;
 

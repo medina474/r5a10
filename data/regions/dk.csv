@@ -1,9 +1,9 @@
 code,hierarchie,region,francais,administration,capitale
-DK,001.150.154.158.208,Danemark,,pays,Copenhagen
-DK-81,001.150.154.158.208.DK-81,Nordjylland,,2,Aalborg
-DK-82,001.150.154.158.208.DK-82,Midtjylland,,2,Viborg
-DK-83,001.150.154.158.208.DK-83,Syddanmark,,2,Ribe
-DK-84,001.150.154.158.208.DK-84,Hovedstaden,,2,Copenhagen
-DK-85,001.150.154.158.208.DK-85,Sjælland,Seeland,2,Sorø
-FO,001.150.154.234,Îles Féroé,,pays constitutif du royaume du Danemark,Tórshavn
+DK,001.EUR.154.SCD.SK,Danemark,,pays,Copenhagen
+DK-81,001.EUR.154.SCD.SK.DK-81,Nordjylland,,2,Aalborg
+DK-82,001.EUR.154.SCD.SK.DK-82,Midtjylland,,2,Viborg
+DK-83,001.EUR.154.SCD.SK.DK-83,Syddanmark,,2,Ribe
+DK-84,001.EUR.154.SCD.SK.DK-84,Hovedstaden,,2,Copenhagen
+DK-85,001.EUR.154.SCD.SK.DK-85,Sjælland,Seeland,2,Sorø
+FO,001.EUR.154.234,Îles Féroé,,pays constitutif du royaume du Danemark,Tórshavn
 GL,001.019.021.304,Kalaallit Nunaat,Groenland,pays constitutif du royaume du Danemark,Nuuk

@@ -1,22 +1,22 @@
 code,hierarchie,region,francais,administration,capitale
-FI,001.150.154.246,Finland,,1,Helsinki
-FI-01,001.150.154.246.FI-01,Ahvenanmaan maakunta,,maakunnan,Mariehamn
-FI-02,001.150.154.246.FI-02,Etelä-Karjala,,maakunnan,Lappeenranta
-FI-03,001.150.154.246.FI-03,Etelä-Pohjanmaa,,maakunnan,Seinäjoki
-FI-04,001.150.154.246.FI-04,Etelä-Savo,,maakunnan,Polvijärvi
-FI-05,001.150.154.246.FI-05,Kainuu,,maakunnan,Kajaani
-FI-06,001.150.154.246.FI-06,Kanta-Häme,,maakunnan,Hämeenlinna
-FI-07,001.150.154.246.FI-07,Keski-Pohjanmaa,,maakunnan,Kokkola
-FI-08,001.150.154.246.FI-08,Keski-Suomi,,maakunnan,Helsinki
-FI-09,001.150.154.246.FI-09,Kymenlaakso,,maakunnan,Kouvola
-FI-10,001.150.154.246.FI-10,Lappi,,maakunnan,Rovaniemi
-FI-11,001.150.154.246.FI-11,Pirkanmaa,,maakunnan,Rovaniemi
-FI-12,001.150.154.246.FI-12,Pohjanmaa,,maakunnan,Vaasa
-FI-13,001.150.154.246.FI-13,Pohjois-Karjala,,maakunnan,Joensuu
-FI-14,001.150.154.246.FI-14,Pohjois-Pohjanmaa,,maakunnan,Oulu
-FI-15,001.150.154.246.FI-15,Pohjois-Savo,,maakunnan,Kuopio
-FI-16,001.150.154.246.FI-16,Päijät-Häme,,maakunnan,Lahti
-FI-17,001.150.154.246.FI-17,Satakunta,,maakunnan,Pori
-FI-18,001.150.154.246.FI-18,Uusimaa,,maakunnan,Helsinki
-FI-19,001.150.154.246.FI-19,Varsinais-Suomi,,maakunnan,Turku
-AX,001.150.154.248,Îles d’Åland,,province autonome,Mariehamn
+FI,001.EUR.154.246,Finland,,1,Helsinki
+FI-01,001.EUR.154.246.FI-01,Ahvenanmaan maakunta,,maakunnan,Mariehamn
+FI-02,001.EUR.154.246.FI-02,Etelä-Karjala,,maakunnan,Lappeenranta
+FI-03,001.EUR.154.246.FI-03,Etelä-Pohjanmaa,,maakunnan,Seinäjoki
+FI-04,001.EUR.154.246.FI-04,Etelä-Savo,,maakunnan,Polvijärvi
+FI-05,001.EUR.154.246.FI-05,Kainuu,,maakunnan,Kajaani
+FI-06,001.EUR.154.246.FI-06,Kanta-Häme,,maakunnan,Hämeenlinna
+FI-07,001.EUR.154.246.FI-07,Keski-Pohjanmaa,,maakunnan,Kokkola
+FI-08,001.EUR.154.246.FI-08,Keski-Suomi,,maakunnan,Helsinki
+FI-09,001.EUR.154.246.FI-09,Kymenlaakso,,maakunnan,Kouvola
+FI-10,001.EUR.154.246.FI-10,Lappi,,maakunnan,Rovaniemi
+FI-11,001.EUR.154.246.FI-11,Pirkanmaa,,maakunnan,Rovaniemi
+FI-12,001.EUR.154.246.FI-12,Pohjanmaa,,maakunnan,Vaasa
+FI-13,001.EUR.154.246.FI-13,Pohjois-Karjala,,maakunnan,Joensuu
+FI-14,001.EUR.154.246.FI-14,Pohjois-Pohjanmaa,,maakunnan,Oulu
+FI-15,001.EUR.154.246.FI-15,Pohjois-Savo,,maakunnan,Kuopio
+FI-16,001.EUR.154.246.FI-16,Päijät-Häme,,maakunnan,Lahti
+FI-17,001.EUR.154.246.FI-17,Satakunta,,maakunnan,Pori
+FI-18,001.EUR.154.246.FI-18,Uusimaa,,maakunnan,Helsinki
+FI-19,001.EUR.154.246.FI-19,Varsinais-Suomi,,maakunnan,Turku
+AX,001.EUR.154.248,Îles d’Åland,,province autonome,Mariehamn

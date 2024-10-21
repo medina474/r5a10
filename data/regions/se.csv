@@ -1,23 +1,23 @@
 code,hierarchie,region,francais,administration,capitale
-SE,001.150.154.158.752,Suède,,1,Stockholm
-SE-AB,001.150.154.158.752.SE-AB,Stockholms,,11,Stockholm
-SE-AC,001.150.154.158.752.SE-AC,Västerbottens,Botnie occidentale,11,Umeå
-SE-BD,001.150.154.158.752.SE-BD,Norrbottens,Botnie septentrionale,11,Luleå
-SE-C,001.150.154.158.752.SE-C,Uppsala,,11,Uppsala
-SE-D,001.150.154.158.752.SE-D,Södermanlands,,11,Nyköping
-SE-E,001.150.154.158.752.SE-E,Östergötlands,,11,Linköping
-SE-F,001.150.154.158.752.SE-F,Jönköpings,,11,Jönköping
-SE-G,001.150.154.158.752.SE-G,Kronobergs,,11,Växjö
-SE-H,001.150.154.158.752.SE-H,Kalmar,,11,Kalmar
-SE-I,001.150.154.158.752.SE-I,Gotlands,,11,Visby
-SE-K,001.150.154.158.752.SE-K,Blekinge,,11,Karlskrona
-SE-M,001.150.154.158.752.SE-M,Skåne,,11,Malmö
-SE-N,001.150.154.158.752.SE-N,Hallands,,11,Halmstad
-SE-O,001.150.154.158.752.SE-O,Västra Götaland,,11,Göteborg
-SE-S,001.150.154.158.752.SE-S,Värmlands,,11,Karlstad
-SE-T,001.150.154.158.752.SE-T,Örebro,,11,Örebro
-SE-U,001.150.154.158.752.SE-U,Västmanlands,,11,Västerås
-SE-W,001.150.154.158.752.SE-W,Dalarna,,11,Falun
-SE-X,001.150.154.158.752.SE-X,Gävleborgs,,11,Gävle
-SE-Y,001.150.154.158.752.SE-Y,Västernorrlands,,11,Härnösand
-SE-Z,001.150.154.158.752.SE-Z,Jämtlands,,11,Östersund
+SE,001.EUR.154.SCD.SE,Suède,,1,Stockholm
+SE-AB,001.EUR.154.SCD.SE.SE-AB,Stockholms,,11,Stockholm
+SE-AC,001.EUR.154.SCD.SE.SE-AC,Västerbottens,Botnie occidentale,11,Umeå
+SE-BD,001.EUR.154.SCD.SE.SE-BD,Norrbottens,Botnie septentrionale,11,Luleå
+SE-C,001.EUR.154.SCD.SE.SE-C,Uppsala,,11,Uppsala
+SE-D,001.EUR.154.SCD.SE.SE-D,Södermanlands,,11,Nyköping
+SE-E,001.EUR.154.SCD.SE.SE-E,Östergötlands,,11,Linköping
+SE-F,001.EUR.154.SCD.SE.SE-F,Jönköpings,,11,Jönköping
+SE-G,001.EUR.154.SCD.SE.SE-G,Kronobergs,,11,Växjö
+SE-H,001.EUR.154.SCD.SE.SE-H,Kalmar,,11,Kalmar
+SE-I,001.EUR.154.SCD.SE.SE-I,Gotlands,,11,Visby
+SE-K,001.EUR.154.SCD.SE.SE-K,Blekinge,,11,Karlskrona
+SE-M,001.EUR.154.SCD.SE.SE-M,Skåne,,11,Malmö
+SE-N,001.EUR.154.SCD.SE.SE-N,Hallands,,11,Halmstad
+SE-O,001.EUR.154.SCD.SE.SE-O,Västra Götaland,,11,Göteborg
+SE-S,001.EUR.154.SCD.SE.SE-S,Värmlands,,11,Karlstad
+SE-T,001.EUR.154.SCD.SE.SE-T,Örebro,,11,Örebro
+SE-U,001.EUR.154.SCD.SE.SE-U,Västmanlands,,11,Västerås
+SE-W,001.EUR.154.SCD.SE.SE-W,Dalarna,,11,Falun
+SE-X,001.EUR.154.SCD.SE.SE-X,Gävleborgs,,11,Gävle
+SE-Y,001.EUR.154.SCD.SE.SE-Y,Västernorrlands,,11,Härnösand
+SE-Z,001.EUR.154.SCD.SE.SE-Z,Jämtlands,,11,Östersund

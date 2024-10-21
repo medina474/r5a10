@@ -1,45 +1,45 @@
 code,hierarchie,region,francais,administration,capitale
-HU,001.150.151.348,Hongrie,,pays,Budapest
-HU-BA,001.150.151.348.HU-BA,Baranya,,megye,Pécs
-HU-BE,001.150.151.348.HU-BE,Békés,,megye,Békéscsaba
-HU-BK,001.150.151.348.HU-BK,Bács-Kiskun,,megye,Kecskemét
-HU-BU,001.150.151.348.HU-BU,Budapest főváros,,főváros,Budapest
-HU-BZ,001.150.151.348.HU-BZ,Borsod-Abaúj-Zemplén,,megye,Miskolc
-HU-CS,001.150.151.348.HU-CS,Csongrád,,megye,Szeged
-HU-FE,001.150.151.348.HU-FE,Fejér,,megye,Székesfehérvár
-HU-GS,001.150.151.348.HU-GS,Győr-Moson-Sopron,,megye,Győr
-HU-HB,001.150.151.348.HU-HB,Hajdú-Bihar,,megye,Debrecen
-HU-HE,001.150.151.348.HU-HE,Heves,,megye,Eger
-HU-JN,001.150.151.348.HU-JN,Jász-Nagykun-Szolnok,,megye,Szolnok
-HU-KE,001.150.151.348.HU-KE,Komárom-Esztergom,,megye,Tatabánya
-HU-NO,001.150.151.348.HU-NO,Nógrád,,megye,Salgótarján
-HU-PE,001.150.151.348.HU-PE,Pest,,megye,Budapest
-HU-SO,001.150.151.348.HU-SO,Somogy,,megye,Kaposvár
-HU-SZ,001.150.151.348.HU-SZ,Szabolcs-Szatmár-Bereg,,megye,Nyíregyháza
-HU-TO,001.150.151.348.HU-TO,Tolna,,megye,Szekszárd
-HU-VA,001.150.151.348.HU-VA,Vas,,megye,Szombathely
-HU-VE,001.150.151.348.HU-VE,Veszprém,,megye,Veszprém
-HU-ZA,001.150.151.348.HU-ZA,Zala,,megye,Zalaegerszeg
-HU-BC,001.150.151.348.HU-BC,Békéscsaba,,megyei város,
-HU-DE,001.150.151.348.HU-DE,Debrecen,,megyei város,
-HU-DU,001.150.151.348.HU-DU,Dunaújváros,,megyei város,
-HU-EG,001.150.151.348.HU-EG,Eger,,megyei város,
-HU-ER,001.150.151.348.HU-ER,Erd,,megyei város,
-HU-GY,001.150.151.348.HU-GY,Győr,,megyei város,
-HU-HV,001.150.151.348.HU-HV,Hódmezővásárhely,,megyei város,
-HU-KM,001.150.151.348.HU-KM,Kecskemét,,megyei város,
-HU-KV,001.150.151.348.HU-KV,Kaposvár,,megyei város,
-HU-MI,001.150.151.348.HU-MI,Miskolc,,megyei város,
-HU-NK,001.150.151.348.HU-NK,Nagykanizsa,,megyei város,
-HU-NY,001.150.151.348.HU-NY,Nyíregyháza,,megyei város,
-HU-PS,001.150.151.348.HU-PS,Pécs,,megyei város,
-HU-SD,001.150.151.348.HU-SD,Szeged,,megyei város,
-HU-SF,001.150.151.348.HU-SF,Székesfehérvár,,megyei város,
-HU-SH,001.150.151.348.HU-SH,Szombathely,,megyei város,
-HU-SK,001.150.151.348.HU-SK,Szolnok,,megyei város,
-HU-SN,001.150.151.348.HU-SN,Sopron,,megyei város,
-HU-SS,001.150.151.348.HU-SS,Szekszárd,,megyei város,
-HU-ST,001.150.151.348.HU-ST,Salgótarján,,megyei város,
-HU-TB,001.150.151.348.HU-TB,Tatabánya,,megyei város,
-HU-VM,001.150.151.348.HU-VM,Veszprém,,megyei város,
-HU-ZE,001.150.151.348.HU-ZE,Zalaegerszeg,,megyei város,
+HU,001.EUR.151.348,Hongrie,,pays,Budapest
+HU-BA,001.EUR.151.348.HU-BA,Baranya,,megye,Pécs
+HU-BE,001.EUR.151.348.HU-BE,Békés,,megye,Békéscsaba
+HU-BK,001.EUR.151.348.HU-BK,Bács-Kiskun,,megye,Kecskemét
+HU-BU,001.EUR.151.348.HU-BU,Budapest főváros,,főváros,Budapest
+HU-BZ,001.EUR.151.348.HU-BZ,Borsod-Abaúj-Zemplén,,megye,Miskolc
+HU-CS,001.EUR.151.348.HU-CS,Csongrád,,megye,Szeged
+HU-FE,001.EUR.151.348.HU-FE,Fejér,,megye,Székesfehérvár
+HU-GS,001.EUR.151.348.HU-GS,Győr-Moson-Sopron,,megye,Győr
+HU-HB,001.EUR.151.348.HU-HB,Hajdú-Bihar,,megye,Debrecen
+HU-HE,001.EUR.151.348.HU-HE,Heves,,megye,Eger
+HU-JN,001.EUR.151.348.HU-JN,Jász-Nagykun-Szolnok,,megye,Szolnok
+HU-KE,001.EUR.151.348.HU-KE,Komárom-Esztergom,,megye,Tatabánya
+HU-NO,001.EUR.151.348.HU-NO,Nógrád,,megye,Salgótarján
+HU-PE,001.EUR.151.348.HU-PE,Pest,,megye,Budapest
+HU-SO,001.EUR.151.348.HU-SO,Somogy,,megye,Kaposvár
+HU-SZ,001.EUR.151.348.HU-SZ,Szabolcs-Szatmár-Bereg,,megye,Nyíregyháza
+HU-TO,001.EUR.151.348.HU-TO,Tolna,,megye,Szekszárd
+HU-VA,001.EUR.151.348.HU-VA,Vas,,megye,Szombathely
+HU-VE,001.EUR.151.348.HU-VE,Veszprém,,megye,Veszprém
+HU-ZA,001.EUR.151.348.HU-ZA,Zala,,megye,Zalaegerszeg
+HU-BC,001.EUR.151.348.HU-BC,Békéscsaba,,megyei város,
+HU-DE,001.EUR.151.348.HU-DE,Debrecen,,megyei város,
+HU-DU,001.EUR.151.348.HU-DU,Dunaújváros,,megyei város,
+HU-EG,001.EUR.151.348.HU-EG,Eger,,megyei város,
+HU-ER,001.EUR.151.348.HU-ER,Erd,,megyei város,
+HU-GY,001.EUR.151.348.HU-GY,Győr,,megyei város,
+HU-HV,001.EUR.151.348.HU-HV,Hódmezővásárhely,,megyei város,
+HU-KM,001.EUR.151.348.HU-KM,Kecskemét,,megyei város,
+HU-KV,001.EUR.151.348.HU-KV,Kaposvár,,megyei város,
+HU-MI,001.EUR.151.348.HU-MI,Miskolc,,megyei város,
+HU-NK,001.EUR.151.348.HU-NK,Nagykanizsa,,megyei város,
+HU-NY,001.EUR.151.348.HU-NY,Nyíregyháza,,megyei város,
+HU-PS,001.EUR.151.348.HU-PS,Pécs,,megyei város,
+HU-SD,001.EUR.151.348.HU-SD,Szeged,,megyei város,
+HU-SF,001.EUR.151.348.HU-SF,Székesfehérvár,,megyei város,
+HU-SH,001.EUR.151.348.HU-SH,Szombathely,,megyei város,
+HU-SK,001.EUR.151.348.HU-SK,Szolnok,,megyei város,
+HU-SN,001.EUR.151.348.HU-SN,Sopron,,megyei város,
+HU-SS,001.EUR.151.348.HU-SS,Szekszárd,,megyei város,
+HU-ST,001.EUR.151.348.HU-ST,Salgótarján,,megyei város,
+HU-TB,001.EUR.151.348.HU-TB,Tatabánya,,megyei város,
+HU-VM,001.EUR.151.348.HU-VM,Veszprém,,megyei város,
+HU-ZE,001.EUR.151.348.HU-ZE,Zalaegerszeg,,megyei város,

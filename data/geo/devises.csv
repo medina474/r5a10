@@ -1,5 +1,5 @@
 devise_code,num4217,symbole,nom,format,division,minor,minors
-ATS,40,,Schilling autrichien,"?S #.###,##",100,Groschen,
+ATS,40,,Schilling autrichien,"S #.###,##",100,Groschen,
 AUD,36,,Dollar australien,$# ###.##,100,cent,cents
 BEF,56,,Franc belge,BEF #.###,100,centime,centimes
 BGN,975,Лв.,Lev bulgare,#,100,stotinki,

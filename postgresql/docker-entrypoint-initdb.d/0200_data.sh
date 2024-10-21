@@ -32,6 +32,7 @@ wget $host/geo/pays_langues.csv
 wget $host/geo/devises.csv
 wget $host/geo/pays_devises.csv
 wget $host/geo/worldcities.csv
+wget $host/geo/v_commune_2023.csv
 
 mkdir -p /docker-entrypoint-data.d/regions
 cd /docker-entrypoint-data.d/regions
@@ -43,6 +44,8 @@ wget $host/regions/be.csv
 wget $host/regions/bl.csv
 wget $host/regions/ch.csv
 wget $host/regions/de.csv
+wget $host/regions/dk.csv
+wget $host/regions/es.csv
 wget $host/regions/fi.csv
 wget $host/regions/fr.csv
 wget $host/regions/gb.csv
@@ -52,9 +55,11 @@ wget $host/regions/it.csv
 wget $host/regions/jp.csv
 wget $host/regions/lt.csv
 wget $host/regions/lu.csv
+wget $host/regions/mx.csv
 wget $host/regions/nl.csv
 wget $host/regions/pl.csv
 wget $host/regions/pt.csv
+wget $host/regions/ro.csv
 wget $host/regions/se.csv
 wget $host/regions/ua.csv
 wget $host/regions/us.csv

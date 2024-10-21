@@ -29,7 +29,7 @@ create table regions (
   hierarchie ltree,
   region text not null,
   francais text,
-  division text,
+  administration text,
   capitale text
 );
 

@@ -1,15 +1,15 @@
 code,hierarchie,region,francais,administration,capitale
-BE,001.EUR.155.056,Belgique,,pays,Bruxelles
-BE-BRU,001.EUR.155.056.BE-BRU,Brussels,,Bruxelles-Capitale,Brussels
-BE-VLG,001.EUR.155.056.BE-VLG,Vlaams Gewest,,region,Brussels
-BE-WAL,001.EUR.155.056.BE-WAL,Wallonie,,region,Namur
-BE-VAN,001.EUR.155.056.BE-VLG.BE-VAN,Antwerpen,,8,Antwerp
-BE-VBR,001.EUR.155.056.BE-VLG.BE-VBR,Vlaams Brabant,,8,Leuven
-BE-VLI,001.EUR.155.056.BE-VLG.BE-VLI,Limburg,,8,Hasselt
-BE-VOV,001.EUR.155.056.BE-VLG.BE-VOV,Oost-Vlaanderen,,8,Gent
-BE-VWV,001.EUR.155.056.BE-VLG.BE-VWV,West-Vlaanderen,,8,Brugge
-BE-WBR,001.EUR.155.056.BE-WAL.BE-WBR,Brabant Wallon,,8,Wavre
-BE-WHT,001.EUR.155.056.BE-WAL.BE-WHT,Hainaut,,8,Mons
-BE-WLG,001.EUR.155.056.BE-WAL.BE-WLG,Liège,,8,Liège
-BE-WLX,001.EUR.155.056.BE-WAL.BE-WLX,Luxembourg,,8,Arlon
-BE-WNA,001.EUR.155.056.BE-WAL.BE-WNA,Namur,,8,Namur
+BE,T.EUR.155.BE,Belgique,,pays,Bruxelles
+BE-BRU,T.EUR.155.BE.BE-BRU,Brussels,,Bruxelles-Capitale,Brussels
+BE-VLG,T.EUR.155.BE.BE-VLG,Vlaams Gewest,,region,Brussels
+BE-WAL,T.EUR.155.BE.BE-WAL,Wallonie,,region,Namur
+BE-VAN,T.EUR.155.BE.BE-VLG.BE-VAN,Antwerpen,,8,Antwerp
+BE-VBR,T.EUR.155.BE.BE-VLG.BE-VBR,Vlaams Brabant,,8,Leuven
+BE-VLI,T.EUR.155.BE.BE-VLG.BE-VLI,Limburg,,8,Hasselt
+BE-VOV,T.EUR.155.BE.BE-VLG.BE-VOV,Oost-Vlaanderen,,8,Gent
+BE-VWV,T.EUR.155.BE.BE-VLG.BE-VWV,West-Vlaanderen,,8,Brugge
+BE-WBR,T.EUR.155.BE.BE-WAL.BE-WBR,Brabant Wallon,,8,Wavre
+BE-WHT,T.EUR.155.BE.BE-WAL.BE-WHT,Hainaut,,8,Mons
+BE-WLG,T.EUR.155.BE.BE-WAL.BE-WLG,Liège,,8,Liège
+BE-WLX,T.EUR.155.BE.BE-WAL.BE-WLX,Luxembourg,,8,Arlon
+BE-WNA,T.EUR.155.BE.BE-WAL.BE-WNA,Namur,,8,Namur

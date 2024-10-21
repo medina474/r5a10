@@ -1,11 +1,11 @@
 code,hierarchie,region,francais,administration,chef-lieu
-AT,001.150.155.040,Österreich,Autriche,1,Wien
-AT-1,001.150.155.040.AT-1,Burgenland,Burgenland,6,Eisenstadt
-AT-2,001.150.155.040.AT-2,Kärnten,Carinthie,6,Klagenfurt
-AT-3,001.150.155.040.AT-3,Niederösterreich,Basse-Autriche,6,Sankt Pölten
-AT-4,001.150.155.040.AT-4,Oberösterreich,Haute-Autriche,6,Linz
-AT-5,001.150.155.040.AT-5,Salzburg,Salzbourg,6,Salzburg
-AT-6,001.150.155.040.AT-6,Steiermark,Styrie,6,Graz
-AT-7,001.150.155.040.AT-7,Tirol,Tyrol,6,Innsbruck
-AT-8,001.150.155.040.AT-8,Vorarlberg,Vorarlberg,6,Bregenz
-AT-9,001.150.155.040.AT-9,Wien,Vienne,6,Wien
+AT,T.EUR.155.AT,Österreich,Autriche,1,Wien
+AT-1,T.EUR.155.AT.AT-1,Burgenland,Burgenland,6,Eisenstadt
+AT-2,T.EUR.155.AT.AT-2,Kärnten,Carinthie,6,Klagenfurt
+AT-3,T.EUR.155.AT.AT-3,Niederösterreich,Basse-Autriche,6,Sankt Pölten
+AT-4,T.EUR.155.AT.AT-4,Oberösterreich,Haute-Autriche,6,Linz
+AT-5,T.EUR.155.AT.AT-5,Salzburg,Salzbourg,6,Salzburg
+AT-6,T.EUR.155.AT.AT-6,Steiermark,Styrie,6,Graz
+AT-7,T.EUR.155.AT.AT-7,Tirol,Tyrol,6,Innsbruck
+AT-8,T.EUR.155.AT.AT-8,Vorarlberg,Vorarlberg,6,Bregenz
+AT-9,T.EUR.155.AT.AT-9,Wien,Vienne,6,Wien

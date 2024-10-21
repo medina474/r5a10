@@ -1,15 +1,15 @@
 code,hierarchie,region,francais,administration,capitale
-NO,001.150.154.158.578,Norvège,,1,Oslo
-NO-03,001.150.154.158.578.NO-03,Oslo,,county,
-NO-11,001.150.154.158.578.NO-11,Rogaland,,county,Stavanger
-NO-15,001.150.154.158.578.NO-15,Møre og Romsdal,,county,
-NO-18,001.150.154.158.578.NO-18,Nordland,,county,
-NO-30,001.150.154.158.578.NO-30,Viken,,county,
-NO-34,001.150.154.158.578.NO-34,Innlandet,,county,
-NO-38,001.150.154.158.578.NO-38,Vestfold og Telemark,,county,
-NO-42,001.150.154.158.578.NO-42,Agder,,county,
-NO-46,001.150.154.158.578.NO-46,Vestland,,county,
-NO-50,001.150.154.158.578.NO-50,Trøndelag,,county,
-NO-54,001.150.154.158.578.NO-54,Troms og Finnmark,,county,
-NO-21,001.150.154.158.578.NO-21,Svalbard,,arctic region,
-NO-22,001.150.154.158.578.NO-22,Jan Mayen,,arctic region,
+NO,001.EUR.154.SCD.NO,Norvège,,1,Oslo
+NO-03,001.EUR.154.SCD.NO.NO-03,Oslo,,county,
+NO-11,001.EUR.154.SCD.NO.NO-11,Rogaland,,county,Stavanger
+NO-15,001.EUR.154.SCD.NO.NO-15,Møre og Romsdal,,county,
+NO-18,001.EUR.154.SCD.NO.NO-18,Nordland,,county,
+NO-30,001.EUR.154.SCD.NO.NO-30,Viken,,county,
+NO-34,001.EUR.154.SCD.NO.NO-34,Innlandet,,county,
+NO-38,001.EUR.154.SCD.NO.NO-38,Vestfold og Telemark,,county,
+NO-42,001.EUR.154.SCD.NO.NO-42,Agder,,county,
+NO-46,001.EUR.154.SCD.NO.NO-46,Vestland,,county,
+NO-50,001.EUR.154.SCD.NO.NO-50,Trøndelag,,county,
+NO-54,001.EUR.154.SCD.NO.NO-54,Troms og Finnmark,,county,
+NO-21,001.EUR.154.SCD.NO.NO-21,Svalbard,,arctic region,
+NO-22,001.EUR.154.SCD.NO.NO-22,Jan Mayen,,arctic region,

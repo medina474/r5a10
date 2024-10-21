@@ -33,7 +33,7 @@ create table regions (
   capitale text
 );
 
-comment on column regions.region_code 
+comment on column regions.region_code
   is 'UN Standard country or area codes for statistical use (M49)';
 
 
@@ -71,8 +71,8 @@ create table pays_devises (
   valide daterange default null
 );
 
-create table villes(
-  nom text,
+create table geo.villes(
+  nom text not null,
   pays_code text,
   admin_name text,
   capital text,

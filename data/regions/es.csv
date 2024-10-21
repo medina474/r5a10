@@ -1,71 +1,71 @@
 code,hierarchie,region,francais,administration,capitale
-ES,001.150.039.724,Espagne,,1,Madrid
-ES-AN,001.150.039.724.ES-AN,Andalucía,Andalousie,comunidad autónoma,Sevilla
-ES-AR,001.150.039.724.ES-AR,Aragón,,comunidad autónoma,Zaragoza
-ES-AS,001.150.039.724.ES-AS,"Asturias, Principado de",,comunidad autónoma,Oviedo
-ES-CN,001.150.039.724.ES-CN,Canarias,,comunidad autónoma,Las Palmas de Gran Canaria
-ES-CB,001.150.039.724.ES-CB,Cantabria,,comunidad autónoma,Santander
-ES-CM,001.150.039.724.ES-CM,Castilla-La Mancha,,comunidad autónoma,Toledo
-ES-CL,001.150.039.724.ES-CL,Castilla y León,,comunidad autónoma,Valladolid
-ES-CT,001.150.039.724.ES-CT,Catalunya,,comunidad autónoma,Barcelona
-ES-EX,001.150.039.724.ES-EX,Extremadura,,comunidad autónoma,Mérida
-ES-GA,001.150.039.724.ES-GA,Galicia,,comunidad autónoma,Santiago de Compostela
-ES-IB,001.150.039.724.ES-IB,Islas Baleares,,comunidad autónoma,Palma
-ES-RI,001.150.039.724.ES-RI,La Rioja,,comunidad autónoma,Logroño
-ES-MD,001.150.039.724.ES-MD,"Madrid, Comunidad de",,comunidad autónoma,Madrid
-ES-MC,001.150.039.724.ES-MC,"Murcia, Región de",,comunidad autónoma,Murcia
-ES-NC,001.150.039.724.ES-NC,"Navarra, Comunidad Foral de",,comunidad autónoma,Pamplona / Iruñea
-ES-PV,001.150.039.724.ES-PV,Euskadi,,Autonomia Erkidegoa,Vitoria-Gasteiz
-ES-VC,001.150.039.724.ES-VC,"Valenciana, Comunitat",,comunidad autónoma,Valencia
-ES-CE,001.150.039.724.ES-CE,Ceuta,,ciudades autónomas en el Norte de África,Ceuta
-ES-ML,001.150.039.724.ES-ML,Melilla,,ciudades autónomas en el Norte de África,Melilla
-ES-A,001.150.039.724.ES-VC.ES-A,Alicante,,provincia,Alicante
-ES-AB,001.150.039.724.ES-CM.ES-AB,Albacete,,provincia,Albacete
-ES-AL,001.150.039.724.ES-AN.ES-AL,Almería,,provincia,Almería
-ES-AV,001.150.039.724.ES-CL.ES-AV,Ávila,,provincia,Ávila
-ES-B,001.150.039.724.ES-CT.ES-B,Barcelona,,provincia,Barcelona
-ES-BA,001.150.039.724.ES-EX.ES-BA,Badajoz,,provincia,Mérida
-ES-BI,001.150.039.724.ES-PV.ES-BI,Vizcaya,,provincia,Bilbao
-ES-BU,001.150.039.724.ES-CL.ES-BU,Burgos,,provincia,Burgos
-ES-C,001.150.039.724.ES-GA.ES-C,A Coruña,,provincia,Santiago de Compostela
-ES-CA,001.150.039.724.ES-AN.ES-CA,Cádiz,,provincia,Cádiz
-ES-CC,001.150.039.724.ES-EX.ES-CC,Cáceres,,provincia,Cáceres
-ES-CO,001.150.039.724.ES-AN.ES-CO,Córdoba,,provincia,Córdoba
-ES-CR,001.150.039.724.ES-CM.ES-CR,Ciudad Real,,provincia,Ciudad Real
-ES-CS,001.150.039.724.ES-VC.ES-CS,Castellón,,provincia,Castelló de la Plana
-ES-CU,001.150.039.724.ES-CM.ES-CU,Cuenca,,provincia,Cuenca
-ES-GC,001.150.039.724.ES-CN.ES-GC,Las Palmas,,provincia,Las Palmas de Gran Canaria
-ES-GI,001.150.039.724.ES-CT.ES-GI,Girona,,provincia,Girona
-ES-GR,001.150.039.724.ES-AN.ES-GR,Granada,,provincia,Granada
-ES-GU,001.150.039.724.ES-CM.ES-GU,Guadalajara,,provincia,Guadalajara
-ES-H,001.150.039.724.ES-AN.ES-H,Huelva,,provincia,Huelva
-ES-HU,001.150.039.724.ES-AR.ES-HU,Huesca,,provincia,Huesca
-ES-J,001.150.039.724.ES-AN.ES-J,Jaén,,provincia,Jaén
-ES-L,001.150.039.724.ES-CT.ES-L,Lleida,,provincia,Lleida
-ES-LE,001.150.039.724.ES-CL.ES-LE,León,,provincia,León
-ES-LO,001.150.039.724.ES-RI.ES-LO,La Rioja,,provincia,Logroño
-ES-LU,001.150.039.724.ES-GA.ES-LU,Lugo,,provincia,Lugo
-ES-M,001.150.039.724.ES-MD.ES-M,Madrid,,provincia,Madrid
-ES-MA,001.150.039.724.ES-AN.ES-MA,Málaga,,provincia,Málaga
-ES-MU,001.150.039.724.ES-MC.ES-MU,Murcia,,provincia,Murcia
-ES-NA,001.150.039.724.ES-NC.ES-NA,Navarra,,provincia,Pamplona
-ES-O,001.150.039.724.ES-AS.ES-O,Asturias,,provincia,Oviedo
-ES-OR,001.150.039.724.ES-GA.ES-OR,Ourense,,provincia,Ourense
-ES-P,001.150.039.724.ES-CL.ES-P,Palencia,,provincia,Palencia
-ES-PM,001.150.039.724.ES-IB.ES-PM,Baleares,,provincia,Palma
-ES-PO,001.150.039.724.ES-GA.ES-PO,Pontevedra,,provincia,Pontevedra
-ES-S,001.150.039.724.ES-CB.ES-S,Cantabria,,provincia,Santander
-ES-SA,001.150.039.724.ES-CL.ES-SA,Salamanca,,provincia,Salamanca
-ES-SE,001.150.039.724.ES-AN.ES-SE,Sevilla,,provincia,Sevilla
-ES-SG,001.150.039.724.ES-CL.ES-SG,Segovia,,provincia,Segovia
-ES-SO,001.150.039.724.ES-CL.ES-SO,Soria,,provincia,Soria
-ES-SS,001.150.039.724.ES-PV.ES-SS,Guipúzcoa,,provincia,Donostia / San Sebastián
-ES-T,001.150.039.724.ES-CT.ES-T,Tarragona,,provincia,Tarragona
-ES-TE,001.150.039.724.ES-AR.ES-TE,Teruel,,provincia,Teruel
-ES-TF,001.150.039.724.ES-CN.ES-TF,Santa Cruz de Tenerife,,provincia,Santa Cruz de Tenerife
-ES-TO,001.150.039.724.ES-CM.ES-TO,Toledo,,provincia,Toledo
-ES-V,001.150.039.724.ES-VC.ES-V,Valencia,,provincia,Valencia
-ES-VA,001.150.039.724.ES-CL.ES-VA,Valladolid,,provincia,Valladolid
-ES-VI,001.150.039.724.ES-PV.ES-VI,Álava,,provincia,Gasteiz / Vitoria
-ES-Z,001.150.039.724.ES-AR.ES-Z,Zaragoza,,provincia,Zaragoza
-ES-ZA,001.150.039.724.ES-CL.ES-ZA,Zamora,,provincia,Zamora
+ES,001.EUR.039.724,Espagne,,1,Madrid
+ES-AN,001.EUR.039.ES.ES-AN,Andalucía,Andalousie,comunidad autónoma,Sevilla
+ES-AR,001.EUR.039.ES.ES-AR,Aragón,,comunidad autónoma,Zaragoza
+ES-AS,001.EUR.039.ES.ES-AS,"Asturias, Principado de",,comunidad autónoma,Oviedo
+ES-CN,001.EUR.039.ES.ES-CN,Canarias,,comunidad autónoma,Las Palmas de Gran Canaria
+ES-CB,001.EUR.039.ES.ES-CB,Cantabria,,comunidad autónoma,Santander
+ES-CM,001.EUR.039.ES.ES-CM,Castilla-La Mancha,,comunidad autónoma,Toledo
+ES-CL,001.EUR.039.ES.ES-CL,Castilla y León,,comunidad autónoma,Valladolid
+ES-CT,001.EUR.039.ES.ES-CT,Catalunya,,comunidad autónoma,Barcelona
+ES-EX,001.EUR.039.ES.ES-EX,Extremadura,,comunidad autónoma,Mérida
+ES-GA,001.EUR.039.ES.ES-GA,Galicia,,comunidad autónoma,Santiago de Compostela
+ES-IB,001.EUR.039.ES.ES-IB,Islas Baleares,,comunidad autónoma,Palma
+ES-RI,001.EUR.039.ES.ES-RI,La Rioja,,comunidad autónoma,Logroño
+ES-MD,001.EUR.039.ES.ES-MD,"Madrid, Comunidad de",,comunidad autónoma,Madrid
+ES-MC,001.EUR.039.ES.ES-MC,"Murcia, Región de",,comunidad autónoma,Murcia
+ES-NC,001.EUR.039.ES.ES-NC,"Navarra, Comunidad Foral de",,comunidad autónoma,Pamplona / Iruñea
+ES-PV,001.EUR.039.ES.ES-PV,Euskadi,,Autonomia Erkidegoa,Vitoria-Gasteiz
+ES-VC,001.EUR.039.ES.ES-VC,"Valenciana, Comunitat",,comunidad autónoma,Valencia
+ES-CE,001.EUR.039.ES.ES-CE,Ceuta,,ciudades autónomas en el Norte de África,Ceuta
+ES-ML,001.EUR.039.ES.ES-ML,Melilla,,ciudades autónomas en el Norte de África,Melilla
+ES-A,001.EUR.039.ES.ES-VC.ES-A,Alicante,,provincia,Alicante
+ES-AB,001.EUR.039.ES.ES-CM.ES-AB,Albacete,,provincia,Albacete
+ES-AL,001.EUR.039.ES.ES-AN.ES-AL,Almería,,provincia,Almería
+ES-AV,001.EUR.039.ES.ES-CL.ES-AV,Ávila,,provincia,Ávila
+ES-B,001.EUR.039.ES.ES-CT.ES-B,Barcelona,,provincia,Barcelona
+ES-BA,001.EUR.039.ES.ES-EX.ES-BA,Badajoz,,provincia,Mérida
+ES-BI,001.EUR.039.ES.ES-PV.ES-BI,Vizcaya,,provincia,Bilbao
+ES-BU,001.EUR.039.ES.ES-CL.ES-BU,Burgos,,provincia,Burgos
+ES-C,001.EUR.039.ES.ES-GA.ES-C,A Coruña,,provincia,Santiago de Compostela
+ES-CA,001.EUR.039.ES.ES-AN.ES-CA,Cádiz,,provincia,Cádiz
+ES-CC,001.EUR.039.ES.ES-EX.ES-CC,Cáceres,,provincia,Cáceres
+ES-CO,001.EUR.039.ES.ES-AN.ES-CO,Córdoba,,provincia,Córdoba
+ES-CR,001.EUR.039.ES.ES-CM.ES-CR,Ciudad Real,,provincia,Ciudad Real
+ES-CS,001.EUR.039.ES.ES-VC.ES-CS,Castellón,,provincia,Castelló de la Plana
+ES-CU,001.EUR.039.ES.ES-CM.ES-CU,Cuenca,,provincia,Cuenca
+ES-GC,001.EUR.039.ES.ES-CN.ES-GC,Las Palmas,,provincia,Las Palmas de Gran Canaria
+ES-GI,001.EUR.039.ES.ES-CT.ES-GI,Girona,,provincia,Girona
+ES-GR,001.EUR.039.ES.ES-AN.ES-GR,Granada,,provincia,Granada
+ES-GU,001.EUR.039.ES.ES-CM.ES-GU,Guadalajara,,provincia,Guadalajara
+ES-H,001.EUR.039.ES.ES-AN.ES-H,Huelva,,provincia,Huelva
+ES-HU,001.EUR.039.ES.ES-AR.ES-HU,Huesca,,provincia,Huesca
+ES-J,001.EUR.039.ES.ES-AN.ES-J,Jaén,,provincia,Jaén
+ES-L,001.EUR.039.ES.ES-CT.ES-L,Lleida,,provincia,Lleida
+ES-LE,001.EUR.039.ES.ES-CL.ES-LE,León,,provincia,León
+ES-LO,001.EUR.039.ES.ES-RI.ES-LO,La Rioja,,provincia,Logroño
+ES-LU,001.EUR.039.ES.ES-GA.ES-LU,Lugo,,provincia,Lugo
+ES-M,001.EUR.039.ES.ES-MD.ES-M,Madrid,,provincia,Madrid
+ES-MA,001.EUR.039.ES.ES-AN.ES-MA,Málaga,,provincia,Málaga
+ES-MU,001.EUR.039.ES.ES-MC.ES-MU,Murcia,,provincia,Murcia
+ES-NA,001.EUR.039.ES.ES-NC.ES-NA,Navarra,,provincia,Pamplona
+ES-O,001.EUR.039.ES.ES-AS.ES-O,Asturias,,provincia,Oviedo
+ES-OR,001.EUR.039.ES.ES-GA.ES-OR,Ourense,,provincia,Ourense
+ES-P,001.EUR.039.ES.ES-CL.ES-P,Palencia,,provincia,Palencia
+ES-PM,001.EUR.039.ES.ES-IB.ES-PM,Baleares,,provincia,Palma
+ES-PO,001.EUR.039.ES.ES-GA.ES-PO,Pontevedra,,provincia,Pontevedra
+ES-S,001.EUR.039.ES.ES-CB.ES-S,Cantabria,,provincia,Santander
+ES-SA,001.EUR.039.ES.ES-CL.ES-SA,Salamanca,,provincia,Salamanca
+ES-SE,001.EUR.039.ES.ES-AN.ES-SE,Sevilla,,provincia,Sevilla
+ES-SG,001.EUR.039.ES.ES-CL.ES-SG,Segovia,,provincia,Segovia
+ES-SO,001.EUR.039.ES.ES-CL.ES-SO,Soria,,provincia,Soria
+ES-SS,001.EUR.039.ES.ES-PV.ES-SS,Guipúzcoa,,provincia,Donostia / San Sebastián
+ES-T,001.EUR.039.ES.ES-CT.ES-T,Tarragona,,provincia,Tarragona
+ES-TE,001.EUR.039.ES.ES-AR.ES-TE,Teruel,,provincia,Teruel
+ES-TF,001.EUR.039.ES.ES-CN.ES-TF,Santa Cruz de Tenerife,,provincia,Santa Cruz de Tenerife
+ES-TO,001.EUR.039.ES.ES-CM.ES-TO,Toledo,,provincia,Toledo
+ES-V,001.EUR.039.ES.ES-VC.ES-V,Valencia,,provincia,Valencia
+ES-VA,001.EUR.039.ES.ES-CL.ES-VA,Valladolid,,provincia,Valladolid
+ES-VI,001.EUR.039.ES.ES-PV.ES-VI,Álava,,provincia,Gasteiz / Vitoria
+ES-Z,001.EUR.039.ES.ES-AR.ES-Z,Zaragoza,,provincia,Zaragoza
+ES-ZA,001.EUR.039.ES.ES-CL.ES-ZA,Zamora,,provincia,Zamora

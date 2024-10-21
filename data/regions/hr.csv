@@ -1,23 +1,23 @@
 code,hierarchie,region,francais,administration,capitale
-HR,001.150.039.191,Croatie,,pays,Zagreb
-HR-01,001.150.039.191.HR-01,Zagreb,,županija,
-HR-02,001.150.039.191.HR-02,Krapina-Zagorje,,županija,Krapina
-HR-03,001.150.039.191.HR-03,Sisak-Moslavina,,županija,Sisak
-HR-04,001.150.039.191.HR-04,Karlovac,,županija,Karlovac
-HR-05,001.150.039.191.HR-05,Varazdin,,županija,Varaždin
-HR-06,001.150.039.191.HR-06,Koprivnica-Krizevci,,županija,Koprivnica
-HR-07,001.150.039.191.HR-07,Bjelovar-Bilogora,,županija,Bjelovar
-HR-08,001.150.039.191.HR-08,Primorje-Gorski Kotar,,županija,Rijeka
-HR-09,001.150.039.191.HR-09,Lika-Senj,,županija,Gospić
-HR-10,001.150.039.191.HR-10,Virovitica-Podravina,,županija,Virovitica
-HR-11,001.150.039.191.HR-11,Pozega-Slavonia,,županija,Požega
-HR-12,001.150.039.191.HR-12,Brod-Posavina,,županija,Slavonski Brod
-HR-13,001.150.039.191.HR-13,Zadar,,županija,Zadar
-HR-14,001.150.039.191.HR-14,Osijek-Baranja,,županija,Osijek
-HR-15,001.150.039.191.HR-15,Sibenik-Knin,,županija,Šibenik
-HR-16,001.150.039.191.HR-16,Vukovar-Srijem,,županija,Vukovar
-HR-17,001.150.039.191.HR-17,Split-Dalmatia,,županija,Split
-HR-18,001.150.039.191.HR-18,Istria,,županija,Pazin
-HR-19,001.150.039.191.HR-19,Dubrovnik-Neretva,,županija,Dubrovnik
-HR-20,001.150.039.191.HR-20,Medjimurje,,županija,Čakovec
-HR-21,001.150.039.191.HR-21,Zagreb,,grad,Zagreb
+HR,001.EUR.039.191,Croatie,,pays,Zagreb
+HR-01,001.EUR.039.191.HR-01,Zagreb,,županija,
+HR-02,001.EUR.039.191.HR-02,Krapina-Zagorje,,županija,Krapina
+HR-03,001.EUR.039.191.HR-03,Sisak-Moslavina,,županija,Sisak
+HR-04,001.EUR.039.191.HR-04,Karlovac,,županija,Karlovac
+HR-05,001.EUR.039.191.HR-05,Varazdin,,županija,Varaždin
+HR-06,001.EUR.039.191.HR-06,Koprivnica-Krizevci,,županija,Koprivnica
+HR-07,001.EUR.039.191.HR-07,Bjelovar-Bilogora,,županija,Bjelovar
+HR-08,001.EUR.039.191.HR-08,Primorje-Gorski Kotar,,županija,Rijeka
+HR-09,001.EUR.039.191.HR-09,Lika-Senj,,županija,Gospić
+HR-10,001.EUR.039.191.HR-10,Virovitica-Podravina,,županija,Virovitica
+HR-11,001.EUR.039.191.HR-11,Pozega-Slavonia,,županija,Požega
+HR-12,001.EUR.039.191.HR-12,Brod-Posavina,,županija,Slavonski Brod
+HR-13,001.EUR.039.191.HR-13,Zadar,,županija,Zadar
+HR-14,001.EUR.039.191.HR-14,Osijek-Baranja,,županija,Osijek
+HR-15,001.EUR.039.191.HR-15,Sibenik-Knin,,županija,Šibenik
+HR-16,001.EUR.039.191.HR-16,Vukovar-Srijem,,županija,Vukovar
+HR-17,001.EUR.039.191.HR-17,Split-Dalmatia,,županija,Split
+HR-18,001.EUR.039.191.HR-18,Istria,,županija,Pazin
+HR-19,001.EUR.039.191.HR-19,Dubrovnik-Neretva,,županija,Dubrovnik
+HR-20,001.EUR.039.191.HR-20,Medjimurje,,županija,Čakovec
+HR-21,001.EUR.039.191.HR-21,Zagreb,,grad,Zagreb

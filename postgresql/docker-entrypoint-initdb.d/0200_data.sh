@@ -49,6 +49,7 @@ wget $host/regions/es.csv
 wget $host/regions/fi.csv
 wget $host/regions/fr.csv
 wget $host/regions/gb.csv
+wget $host/regions/gr.csv
 wget $host/regions/hr.csv
 wget $host/regions/hu.csv
 wget $host/regions/it.csv

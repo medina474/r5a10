@@ -14,7 +14,6 @@ async function getFoodFact(ean13) {
     await ensureDir(`json/openfoodfacts`);
     await Deno.writeTextFile(`json/openfoodfacts/${ean13}.json`, JSON.stringify(data, null, 2));
   
-
     const produit = {
       "ingredients":[]
     }
@@ -29,4 +28,4 @@ async function getFoodFact(ean13) {
   }
 }
 
-getFoodFact('5410041010800');
+getFoodFact('3560071266097');

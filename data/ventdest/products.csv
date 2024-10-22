@@ -1,15 +1,15 @@
 product_id,product_name,fournisseur_id,category_id,quantity_per_unit,unit_price   code_barre,,discontinued
-1,Petit écolier chocolat noir,8,1,12 boxes x 30 bags,1.50,5410041010800,0
-2,Petit écolier chocolat au lait,1,1,12 - 12 oz bottles,1.45,7622210421968,0
-3,Petit écolier chocolat blanc,1,2,12 - 550 ml bottles,1.65,,0
-4,Pépito chocolat noir,2,2,48 - 6 oz jars,22,7622210717870,0
-5,Pépito chocolat au lait,2,2,36 boxes,21.35,7622210717801,1
-6,Prince Goût Chocolat,3,2,12 - 8 oz jars,25,7622210449283,0
-7,Uncle Bob''s Organic Dried Pears,3,7,12 - 1 lb pkgs.,30,,0
-8,Northwoods Cranberry Sauce,3,2,12 - 12 oz jars,40,,0
-9,Mishi Kobe Niku,4,6,18 - 500 g pkgs.,97,,1
-10,Ikura,4,8,12 - 200 ml jars,31,,0
-11,Queso Cabrales,5,4,1 kg pkg.,21,,0
+1,Petit écolier chocolat noir,8,1,12 biscuits,1.55,5410041010800,0
+2,Petit écolier chocolat au lait,1,1,12 biscuits,1.59,7622210421968,0
+3,Petit écolier chocolat blanc,1,2,12 biscuits,1.65,3017760654098,0
+4,Pépito chocolat noir,2,2,20 biscuits,1.45,7622210717870,0
+5,Pépito chocolat au lait,2,2,20 biscuits,1.45,7622210717801,1
+6,Prince Goût Chocolat,3,2,15 biscuits,1.49,7622210449283,0
+7,Prince Goût Chocolat Multi Céréales au blé complet,3,7,15 biscuits,1.49,7622210449313,0
+8,DéliChoc chocolat au lait,3,2,12 biscuits,1.99,3116430216342,0
+9,Granola chocolat au lait,4,6,16 biscuits,1.45,7622210601988,1
+10,Le biscuit de Naty,4,8,12 biscuits,3.99,3229820112046,0
+11,Sablés au chocolat Bio,5,4,1 kg pkg.,3.15,3560071266097,0
 12,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38,,0
 13,Konbu,6,8,2 kg box,6,,0
 14,Tofu,6,7,40 - 100 g pkgs.,23.25,,0

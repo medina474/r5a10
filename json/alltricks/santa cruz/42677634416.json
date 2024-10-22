@@ -1,0 +1,127 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2547815",
+  "tailles": [
+    "S / 155-165 cm"
+  ],
+  "name": "VTT Tout-Suspendu Santa Cruz Hightower 3 Carbone C Sram GX Eagle 12V 29'' Violet 2023",
+  "marque": "Santa Cruz",
+  "description": "La dernière génération de notre Hightower reste un best-of en matière d'ingénierie. Aujourd'hui retravaillé, mais toujours paré à tous les terrains. Grand dans sa taille de roues, modéré en débattement et faible en excuses, ce modèle à tout faire ne cesse d'en redemander grâce à un mélange équilibré entre durabilité, équipements optimisés et géométrie adaptée. Si vous ne cherchez pas à aller dans les extrêmes, mais cherchez un vélo extrêmement efficace, le Hightower est votre nouvelle référence.\r\n\r\nLe système de suspension VPP utilise un bras oscillant d'une seule pièce qui ne nécessite pas de points de pivot sur les bases et ainsi procure un ensemble robuste et extrêmement performant.\r\n\r\nSensibilité de la suspension : En comparant avec le Hightower précédent, nous avons réduit les anti-squat sur les premiers 40% du débattement. Ceci améliore notablement la sensibilité de la suspension, en montée comme en descente, grâce à l’influence de la chaîne sur la suspension qui se voit réduite.\r\n\r\nConsistance de la suspension : La courbe de ratio de suspension est légèrement plus droite que pour la version précédente du Hightower, offrant plus de progressivité sur la fin du débattement. Ceci permet une plus grande résistance au talonnage avec un amortissement plus consistant et un meilleur support. \r\n\r\nGlovebox : Placez tout ce que vous souhaitez pour votre sortie dans l'emplacement sécurisé et assurément qualitatif se trouvant dans le tube inférieur. Notre Glovebox, ou plus communément appelée boite à gants, est équipée d'origine d'une trousse à outil et d'un étui pour chambre à air. Deux pochettes de qualité pour garder tout ce dont vous pourriez avoir besoin à portée de main.\r\n \r\nAperçu du Sag : Une petite fenêtre permettant de voir le sag facilite le réglage de l'amortisseur. Le détail est poussé avec un petit garde-boue qui protège l’amortisseur, avec le passage des gaines et durites bien intégrées et guidées en interne dans le triangle avant, ainsi que des protections caoutchouc bien placées.\r\n\r\nFlip chip : En position basse, le ratio de suspension devient plus progressif, spécialement en fin de course avec une forte résistance au talonnage. En position haute, le vélo restera plus haut en débattement avec un meilleur support mi-course. Les plus pointilleux pourront adapter la suspension, selon leurs besoins et préférences.  ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/815/547815/2547815/5134154",
+  "mpn": "42677634416",
+  "gtin13": "42677634416",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 1,
+      "prix": 4430.99,
+      "mpn": "42677634416",
+      "sku": "2531011",
+      "gtin13": "42677634416",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2665486-vtt_tout_suspendu_santa_cruz_hightower_3_carbone_c_sram_gx_eagle_12v_29___violet_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gloss Translucent Purple"
+    }
+  ],
+  "informations": {
+    "poids": "14.51 kg",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Santa Cruz Hightower 3 C 29'' Kit R",
+      "fourche": "Fox 36 Float Performance, 150mm",
+      "amortisseur": "Rockshox Super Deluxe Select+ 210x55"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12 vitesses",
+      "cassette": "Sram PG1275, 12 vitesses, 10-50 dents",
+      "chaîne": "Sram GX Eagle",
+      "pédalier": "Sram GX Eagle 148 DUB 30 dents",
+      "boîtier de pédalier": "Sram DUB 68/73mm Threaded BB"
+    },
+    "équipements": {
+      "freins": "Sram Code R, disques Avid Centerline 180/180 mm",
+      "selle": "WTB Silverado Medium CroMo",
+      "tige de selle": "SDG Tellis Dropper, 31.6"
+    },
+    "roues": {
+      "jantes": "RaceFace AR Offset 30 29\"",
+      "moyeu avant": "DT Swiss 370, 15x110, 28h ",
+      "moyeu arrière": "DT Swiss 370, 12x148, XD, 36t, 28h",
+      "pneu avant": " Maxxis Minion DHR II 29\"x2.4\", 3C MaxxGrip, EXO, TR ",
+      "pneu arrière": " Maxxis Minion DHR II 29\"x2.4\", 3C MaxxTerra, EXO, TR"
+    },
+    "direction": {
+      "cintre": "Burgtec RideWide Alloy Bar, 800mm",
+      "poignées": "Santa Cruz Bicycles House Grips",
+      "potence": "Burgtec Enduro MK3, 42mm",
+      "jeu de direction": "Cane Creek 40 IS Integrated Headset"
+    }
+  },
+  "geometries": [
+    {
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1183,
+      "stack (mm)": 611,
+      "reach (mm)": 430
+    },
+    {
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1217,
+      "stack (mm)": 625,
+      "reach (mm)": 455
+    },
+    {
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 626,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1244,
+      "stack (mm)": 634,
+      "reach (mm)": 475
+    },
+    {
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 76.9,
+      "empattement (mm)": 1276,
+      "stack (mm)": 652,
+      "reach (mm)": 495
+    },
+    {
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 674,
+      "longueur base (mm)": 443,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 76.9,
+      "empattement (mm)": 1310,
+      "stack (mm)": 665,
+      "reach (mm)": 520
+    }
+  ]
+}

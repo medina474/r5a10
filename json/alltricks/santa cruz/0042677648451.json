@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2660803",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Tout-Suspendu Santa Cruz Bronson 4.1 S Carbone C Sram GX Eagle 12V MX (29/27.5'') Blanc Chalk 2024",
+  "marque": "Santa Cruz",
+  "description": "À fond sur tous les chemins ou plus haut sur n'importe quel saut, chaque génération de Bronson redéfinit les codes de ce qu'on peut attendre d'un VTT.\r\n\r\n150 mm de débattement arrière et l'évolution de la suspension du Bronson permettent de confirmer cette idée. Pousser un peu plus loin, un peu plus sur chaque descente, allant chercher ce petit grain de folie qui pousse à envoyer et sans cesse y retourner. Pas de soucis de ce côté-là puisque la conception de suspension VPP™ permet de remonter sans perdre cette énergie positive qui pousse à recommencer à nouveau, encore et encore. Si votre truc c'est la vitesse sans négliger le style ou si, selon vous, le fun ne doit rien enlever à la vitesse, alors la plateforme \"MX\" (29\" à l'avant, 27.5\" à l'arrière) vous confortera dans l'idée que les contraires s'attirent. Une roue avant plus grande apporte plus d'adhérence et de stabilité pour un sentiment de contrôle et de confiance dans les virages et les portions cassantes, alors que la roue arrière plus petite permet de changer de direction rapidement, jouer avec le terrain et exploser tous les appuis qui se trouveront sur votre passage.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/803/660803/2660803/5349026",
+  "mpn": "0042677648451",
+  "gtin13": "0042677648451",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 4899.99,
+      "mpn": "0042677648451",
+      "sku": "2555492",
+      "gtin13": "0042677648451",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2778085-vtt_tout_suspendu_santa_cruz_bronson_4_1_s_carbone_c_sram_gx_eagle_12v_mx__29_27_5____blanc_chalk_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 4899.99,
+      "mpn": "0042677648475",
+      "sku": "2555500",
+      "gtin13": "0042677648475",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2778085-vtt_tout_suspendu_santa_cruz_bronson_4_1_s_carbone_c_sram_gx_eagle_12v_mx__29_27_5____blanc_chalk_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gloss Chalk White"
+    }
+  ],
+  "informations": {
+    "poids": "14.76 kg (M)",
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Santa Cruz Bronson 4.1 C MX (29''/27.5'') Kit S",
+      "fourche": "Fox 36 Float Performance, 160mm",
+      "amortisseur": "Rockshox Super Deluxe Select+ 230x60"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12 vitesses",
+      "cassette": "Sram PG1275, 12 vitesses, 10-50 dents",
+      "chaîne": "Sram GX Eagle 12 vitesses",
+      "pédalier": "Sram GX Eagle 148 DUB 32t",
+      "boîtier de pédalier": "Sram DUB 68/73mm Threaded BB"
+    },
+    "équipements": {
+      "freins": "Sram Code R, disques Avid Centerline 200/180 mm",
+      "selle": "WTB Silverado, CroMo",
+      "tige de selle": "OneUp V2 Dropper Post, 31.6 or RockShox Reverb, 31.6"
+    },
+    "roues": {
+      "jantes": "AV : RaceFace AR Offset 30, 29\", AR : RaceFace AR Offset 30, 27.5\"",
+      "moyeux": "AV : DT Swiss 370, 15x110, 6-Bolt, 28h, AR : DT Swis 370, 12x148, XD, 6-Bolt, 36t, 28h",
+      "pneus": "AV : Maxxis Minion DHF 29\"x2.5\"WT, 3C MaxxGrip, EXO, AR : Maxxis Minion DHR II 27.5\"x2.4\", 3C MaxxTerra, EXO"
+    },
+    "direction": {
+      "cintre": "Burgtec RideWide Alloy",
+      "poignées": "Santa Cruz Bicycles House Grips",
+      "potence": "Burgtec Enduro MK3, 42mm",
+      "jeu de direction": "Cane Creek 40 IS Integrated Headset"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)*": "536 / 542",
+      "longueur base (mm)*": "427 / 432",
+      "douille de direction (mm)": 110,
+      "angle de direction (°)*": "64.7° / 64.5°",
+      "angle tube de selle (°)*": "77.6° / 76.9°",
+      "empattement (mm)*": "1149 / 1154",
+      "stack (mm)*": "594 / 595",
+      "reach (mm)*": "405 / 402"
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)*": "570 / 575",
+      "longueur base (mm)*": "431 / 432",
+      "douille de direction (mm)": 100,
+      "angle de direction (°)*": "64.7° / 64.5°",
+      "angle tube de selle (°)*": "77.2° / 76.7°",
+      "empattement (mm)*": "1188 / 1189",
+      "stack (mm)*": "617 / 619",
+      "reach (mm)*": "430 / 427"
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)*": "599 / 604",
+      "longueur base (mm)*": "435 / 436",
+      "douille de direction (mm)": 110,
+      "angle de direction (°)*": "64.7° / 64.5°",
+      "angle tube de selle (°)*": "77.1° / 76.6°",
+      "empattement (mm)*": "1221 / 1222",
+      "stack (mm)*": "626 / 628",
+      "reach (mm)*": "455 / 452"
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)*": "623 / 627",
+      "longueur base (mm)*": "438 / 439",
+      "douille de direction (mm)": 120,
+      "angle de direction (°)*": "64.7° / 64.5°",
+      "angle tube de selle (°)*": "76.9° / 76.5°",
+      "empattement (mm)*": "1249 / 1249",
+      "stack (mm)*": "635 / 637",
+      "reach (mm)*": "475 / 472"
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)*": "653 / 657",
+      "longueur base (mm)*": "442 / 443",
+      "douille de direction (mm)": 135,
+      "angle de direction (°)*": "64.7° / 64.5°",
+      "angle tube de selle (°)*": "76.7° / 76.4°",
+      "empattement (mm)*": "1284 / 1285",
+      "stack (mm)*": "649 / 651",
+      "reach (mm)*": "500 / 497"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2632939",
+  "tailles": [
+    "S / 160-170 cm",
+    "M / 168-176 cm",
+    "L / 175-188 cm",
+    "XL / 185-200 cm"
+  ],
+  "name": "VTT Tout-Suspendu Mondraker F-Podium Carbon DC Sram SX/GX Eagle 12V 29'' Gris / carbon / rouge 2023",
+  "marque": "Mondraker",
+  "description": "Caractéristiques\r\nCadre F-Podium 29 Stealth Air tout en carbone, système de suspension Zero optimisé XCO, 115 mm, Forward Geometry XC, biellette supérieure Monoblock en carbone, boîtier de pédalier BSA, douille de direction conique, acheminement interne des câbles HHG,design spécifique pour transmission monoplateau, axe arrière Boost 12 x 148 mm, garde-boue d'amortisseur, fixation Postmount pour frein arrière.\r\nAmortisseur arrière Rockshox SID Select+ RLR Debonair, 185 x 50 mm. Réglages : Compression OneLock 2 positions (ouvert/bloqué), rebond basse vitesse, précontrainte pneumatique. Trunnion montage haut, bagues inférieures 22,2 x 10 mm\r\nRéglage de l'amortisseur Compression légère, rebond moyen, blocage 430, réducteur 1 Token\r\nFourche Rockshox SID SL Base RL 29, 120 mm, DebonAir, pivot conique, axe Boost 15 x 110 mm, plongeurs conique en aluminium 35 mm, déport 44 mm. Réglages : Compression OneLock 2 positions (ouvert/bloqué), rebond basse vitesse, précontrainte pneumatique\r\nJeu de direction Acros AZX-239 R1 Block Lock, ZS44/28,6 supérieur, ZS56/40 inférieur\r\nFourche remote RockShox OneLoc\r\nPotence MDK, aluminium 6061 T6, alésage 31,8 mm, galbe : +/-5º, longueur : tailles S / M : 50 mm, tailles L : 60 mm, tailles XL : 70 mm\r\nCintre Onoff Sulfur 0.2, aluminium 6061 double renfort, galbe : 4,8 mm, largeur : 760 mm, cintrage 9degrés, réhausse 0degrés, alésage 31,8 mm\r\nPoignées Onoff Twin, verrouillage simple, 135 mm\r\nTige de selle Tige de selle télescopique interne Onoff Pija, diamètre 31,6 mm, taille S : 405 x 95-125 mm, taille M : 458 x 120-150 mm, taille L : 498 x 140-170 mm, taille XL : 498 x 140-170 m\r\nSelle Fizik Antares R7\r\nFrein avant\r\nSram Level T, étrier 2 pièces, disque monopièce Centerline 180 mm IS 6 trous, plaquettes organiques sur acier\r\n\r\nFrein arrière Sram Level T, étrier 2 pièces, disque monopièce Centerline 160 mm IS 6 trous, plaquettes organiques sur acier\r\nLevier de frein Sram Level T, levier Direct Link, réglage de la garde avec outil, bagues de pivot de levier\r\nJantes Mavic Crossmax 29, largeur intérieure 25 mm, jante soudée, sans crochet, Tubeless Ready, 24 rayons\r\nRayons Mavic droit à double renfort, laçage sans contact\r\nMoyeu avant Mavic, Boost 15 x 110 mm, IS 6 trous\r\nMoyeu arrière Mavic, Boost 12 x 148 mm, système à rochets ID360, IS 6 trous\r\nPneu avant Maxxis Rekon Race 29 x 2,4, protection EXO, Tubeless Ready, 120 TPI, tringle souple\r\nPneu arrière Maxxis Rekon Race 29 x 2,4, protection EXO, Tubeless Ready, 120 TPI, tringle souple\r\nPlateaux 34 dents, acier, X-Sync 2\r\nBoitier de pédalier Sram DUB BSA, roulements étanches, 73 mm\r\nChaine Sram SX Eagle, 12 vitesses, Powerlock\r\nDérailleur arrière Sram GX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, 1 x 12 vitesses, X-Actuation 1:1\r\nLeviers de changement de vitesse Sram Trigger SX Eagle, 12 vitesses, X-Actuation 1:1\r\nCasette Sram XG-1230, 11-50 dts, 12 vitesses\r\nPatte de dérailleur Sram UDH\r\nPoids 12,6 kg",
+  "image": "https://product-cdn-frz.alltricks.com/medium/939/632939/2632939/5312099",
+  "mpn": "010.23062",
+  "gtin13": "8435392857796",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-176 cm",
+      "stock": 10,
+      "prix": 3599.99,
+      "mpn": "010.23062",
+      "sku": "2186106",
+      "gtin13": "8435392857796",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755877-vtt_tout_suspendu_mondraker_f_podium_carbon_dc_sram_sx_gx_eagle_12v_29___gris___carbon___rouge_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 3599.99,
+      "mpn": "010.23063",
+      "sku": "2186023",
+      "gtin13": "8435392857802",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755877-vtt_tout_suspendu_mondraker_f_podium_carbon_dc_sram_sx_gx_eagle_12v_29___gris___carbon___rouge_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "groupe": "N.C."
+  },
+  "caracteristiques": {}
+}

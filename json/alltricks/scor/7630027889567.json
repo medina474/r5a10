@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2755260",
+  "tailles": [
+    "M / 165-180 cm",
+    "L / 175-190 cm"
+  ],
+  "name": "VTT Tout-Suspendu Scor 4060 ST Sram GX 12V 29'' Rose",
+  "marque": "SCOR",
+  "description": "Le 4060 ST GX est prêt à tout affronter, sans oublier de bien s’amuser en cours de route. Son cadre léger entièrement en carbone associé à un système de suspension haut de gamme donne un vélo super rapide, fait pour t’emmener là où d’autres vélos de trail n’osent pas s’aventurer. Sans faire de compromis sur les composants afin de se concentrer sur la performance, ce vélo est là pour impressionner et tout donner.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/260/755260/2755260/5541218",
+  "mpn": "30002920",
+  "gtin13": "7630027889567",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-180 cm",
+      "stock": 8,
+      "prix": 4999.99,
+      "mpn": "30002920",
+      "sku": "2741837",
+      "gtin13": "7630027889567",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2885552-vtt_tout_suspendu_scor_4060_st_sram_gx_12v_29___rose"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-190 cm",
+      "stock": 3,
+      "prix": 4999.99,
+      "mpn": "30002921",
+      "sku": "2741863",
+      "gtin13": "7630027889550",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2885552-vtt_tout_suspendu_scor_4060_st_sram_gx_12v_29___rose"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Yum Gum"
+    }
+  ],
+  "informations": {
+    "poids": "14,00 kg",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SCOR 4060 Full Carbon Frame, Lower-Link Driven Instant Center Linkage, 140 / 160mm Rear Wheel Travel, Fully Guided Internal Cable Routing, Stash Box, Boost 148, SRAM UDH, Lower ISCG 05 Mount / Chainguide",
+      "fourche": "RockShox Pike Ultimate RC2, 150mm Travel, Offset 44mm",
+      "amortisseur": "RockShox Super Deluxe Ultimate RCT, 205 x 57.5mm Trunnion"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle Trigger, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12 vitesses",
+      "cassette": "Sram GX PG-1275 Eagle, 10-52 dts, 12 vitesses",
+      "chaîne": "Sram GX Eagle",
+      "pédalier": "Sram GX Carbon Lunar, 170 mm, 32 dts",
+      "boîtier de pédalier": "Sram DUB"
+    },
+    "équipements": {
+      "freins": "Sram Code RSC, Sram Centerline 200/200 mm, 6 trous",
+      "selle": "WTB Silverado Titanium",
+      "tige de selle": "BikeYoke Divine"
+    },
+    "roues": {
+      "jantes": "DTSwiss XM 1700 Spline, largeur interne 30 mm, tubeless ready, moyeux DT350, roue libre XD",
+      "pneus": "Avant : Maxxis Assegai 29 x 2.5\" 3C MaxxTerra Exo TR, Arrière : Maxxis Dissector 29 x 2.4\" 3C MaxxTerra Exo+ TR"
+    },
+    "direction": {
+      "cintre": "SCOR Carbon Bar, 31.8mm Clamp, 800mm Wide, 20mm Rise, 5° Upsweep, 7.5° Backsweep",
+      "poignées": "Burgtec Bartender Pro",
+      "potence": "Burgtec Enduro MK3, 31.8mm Bar Bore, 35mm Length, 0° Angle"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 561,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 87,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1185,
+      "stack (mm)": 599,
+      "reach (mm)": 436,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 425,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 99,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1210,
+      "stack (mm)": 611,
+      "reach (mm)": 461,
+      "débattement tige de selle (mm)": 160
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1235,
+      "stack (mm)": 625,
+      "reach (mm)": 485,
+      "débattement tige de selle (mm)": 160
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 655,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 127,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1265,
+      "stack (mm)": 636,
+      "reach (mm)": 516,
+      "débattement tige de selle (mm)": 185
+    }
+  ]
+}

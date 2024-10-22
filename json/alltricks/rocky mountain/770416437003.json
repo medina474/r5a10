@@ -1,0 +1,144 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2590012",
+  "tailles": [
+    "S / 157-170 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "name": "VTT Tout-Suspendu Rocky Mountain Instinct Carbon 70 Shimano XT 12V 29'' Bleu Orange 2023",
+  "marque": "Rocky Mountain",
+  "description": "Si vous cherchez un vélo qui peut tout faire, vous avez trouvé. L’Instinct permet de conquérir les sentiers techniques, mais aussi de pousser à fond en ascension. Nous avons revu sa géométrie, les caractéristiques de son cadre et la cinématique de ses suspensions pour vous donner de l’assurance dans les montées, les descentes et tout le reste du trajet. Fiez-vous à votre Instinct.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/12/590012/2590012/5231500",
+  "mpn": "B0215LG93",
+  "gtin13": "770416437003",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 157-170 cm",
+      "stock": 1,
+      "prix": 6570.38,
+      "mpn": "B0215SM93",
+      "sku": "2587438",
+      "gtin13": "770416436921",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716165-vtt_tout_suspendu_rocky_mountain_instinct_carbon_70_shimano_xt_12v_29___bleu_orange_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 1,
+      "prix": 6899.99,
+      "mpn": "B0215MD93",
+      "sku": "2587487",
+      "gtin13": "770416436969",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716165-vtt_tout_suspendu_rocky_mountain_instinct_carbon_70_shimano_xt_12v_29___bleu_orange_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 6899.99,
+      "mpn": "B0215LG93",
+      "sku": "2587450",
+      "gtin13": "770416437003",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716165-vtt_tout_suspendu_rocky_mountain_instinct_carbon_70_shimano_xt_12v_29___bleu_orange_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 1,
+      "prix": 6570.38,
+      "mpn": "B0215XL93",
+      "sku": "2587434",
+      "gtin13": "770416437041",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716165-vtt_tout_suspendu_rocky_mountain_instinct_carbon_70_shimano_xt_12v_29___bleu_orange_2023"
+    }
+  ],
+  "informations": {
+    "poids": "14,22 Kg",
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "SMOOTHWALL™ Carbon | Integrated Display | Mid-High Pivot Smoothlink Suspension System | Press Fit BB | RIDE-4™ Adjustable Geometry + Suspension Rate | 160mm Travel. FORM™ Alloy Rear Triangle",
+      "fourche": "Fox 36 Float EVOL FIT4 Performance Elite Series 150mm | 27.5 = 37mm Offset | 29 = 44mm Offset",
+      "amortisseur": "Fox Float X Performance Elite | Sealed Bearing Eyelet | 25x8mm F Hardware | XS - SM = 190x45mm | MD - LG - XL = 210x52.5mm | Size-Specific tune in FAQ"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT",
+      "dérailleur arrière": "Shimano XT",
+      "cassette": "Shimano XT 10-51T",
+      "chaîne": "Shimano M8100",
+      "pédalier": "Shimano XT | 32T | 24mm Spindle | Crankarm Length: XS = 165mm Crankarm | SM - XL = 170mm"
+    },
+    "boitier de pédalier": "FSA BB92 24mm",
+    "équipements": {
+      "freins": "Shimano XT Trail 4 Piston | Metal Pads | F: Shimano RT66 180mm | R: Shimano RT66 180mm",
+      "selle": "WTB Volt Race 142",
+      "tige de selle": "Race Face Turbine R (by Fox) Dropper 30.9mm | XS - SM = 125mm | MD = 150mm | LG = 175mm | XL = 200mm"
+    },
+    "roues": {
+      "jantes": "Race Face AR 30 | 32H | Tubeless Ready - Tape | Valves Incl",
+      "pneus": "F: Maxxis Minion DHF 2.5 WT 3C MaxxTerra EXO+ Tubeless Ready | R: Maxxis Minion DHR II 2.4 WT 3C MaxxTerra EXO+ Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Rocky Mountain AM | 780mm Width | 38mm Rise | 9° Backsweep | 5° Upsweep | 35 Clamp",
+      "potence": "Rocky Mountain 35 AM | 5° Rise | All Sizes = 40m",
+      "jeu de direction": "FSA Orbit NO.57E | Sealed Stainless 36°x45° Bearings | 30.2mm x 41mm x 7.1mm Upper | 40mm x 51.8mm x 7.5mm Lower | 1.5\" Crown Race"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 582,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1182,
+      "stack (mm)": 611,
+      "reach (mm)": 437
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1209,
+      "stack (mm)": 615,
+      "reach (mm)": 462
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 636,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1240,
+      "stack (mm)": 628,
+      "reach (mm)": 487
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1277,
+      "stack (mm)": 642,
+      "reach (mm)": 517
+    }
+  ]
+}

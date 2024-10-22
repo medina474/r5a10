@@ -1,0 +1,33 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2575597",
+  "tailles": [
+    "M / 180-188 cm",
+    "L / 186-194 cm"
+  ],
+  "name": "VTT CUBE  AMS ZERO99 C:68X SL 29 teamline",
+  "marque": "Cube",
+  "description": "Les vélos de course ne remportent pas la victoire à eux seuls, mais le bon vélo peut vous donner un avantage certain. Le design du nouveau cadre de l'AMS ZERO99 C:68X SL 29 n'est qu'un premier détail. Nous avons sélectionné des roues Newmen Advanced SL X.A.30 Carbon pour leur légèreté et leur capacité d'accélération, puis l'avons équipé de pneus de 2,25 pouces très adhérents et de chambres à air Schwalbe Aerothan ultra légères pour un transfert de puissance optimal. Ses composants de transmission Sram Eagle 1x12 vitesses se chargent de vous faire avancer tandis que ses puissants freins à disque hydrauliques Magura MT8SL vous garantissent un freinage net et précis. Enfin, ses composants de suspension RockShox SID ultra légers avec système de blocage TwistLoc maintiennent vos pneus collés au sol. Croyez-nous: il est rapide.Cadre \tC:68X Monocoque Advanced Twin Mold Technology, FSP 4-Link, Boost 148, UDH™couleur \tteamlineFrame Material \tC:68XFrame weight \t1600 gfourche \tRockShox SID SL Ultimate, Tapered, 15x110mm, 100mm, TwistLocamortisseur \tRockShox SID Luxe Ultimate RLR, 190x40mm, TwistLocjeu de direction \tACROS Integrated, Top 1 1/8\", Bottom 1 1/2\", Fiber Inserts for Angle Adjustmentcintre \tNewmen Advanced 318.0, Carbon, 740mmpoignées \tRockShox TwistLoc w/ fixed right gripdérailleur arrière \tSram X01 Eagle™, 12-Speedleviers \tSram GX Eagle™ Triggerfrein \tMagura MT8 SL, Hydr. Disc Brake (180/160)plateau \tSram X1 Eagle™ Carbon DUB 32T, 175mmcassette \tSram XG-1295, 10-52Tjeu de pédalier \tSram DUB MTB, 92mm Pressfitroues \tNewmen Advanced SL X.A.30 Carbon, 28/28 Spokes, 15x110mm / 12x148mm, Tubeless Readypneu avant \tSchwalbe Racing Ray, Super Race, Addix Speed, Kevlar, 2.25pneu arrière \tSchwalbe Racing Ralph, Super Race, Addix Speed, Kevlar, 2.25selle \tNatural Fit Nuance SLtige de selle \tNewmen Advanced, Carbon, 30.9mmPotence \tNewmen Evolution SL 318.2, 31.8mmextras \tSchwalbe Aerothan™ Inner Tubespoids \t9,7 kgPoids maximum en charge \t115 kgPar défaut, ce vélo est livré assemblé à 80% minimum. Voici un tutoriel pour finaliser l'assemblage de votre vélo",
+  "image": "https://product-cdn-frz.alltricks.com/medium/597/575597/2575597/5193929",
+  "mpn": "652200L",
+  "gtin13": "4054571452757",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 186-194 cm",
+      "stock": 1,
+      "prix": 4299.99,
+      "mpn": "652200L",
+      "sku": "2575598",
+      "gtin13": "4054571452757",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2686441-vtt_cube__ams_zero99_c_68x_sl_29_teamline"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "N.C."
+  },
+  "caracteristiques": {}
+}

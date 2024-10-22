@@ -1,0 +1,43 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2573671",
+  "tailles": [
+    "M / 180-188 cm",
+    "L / 186-194 cm"
+  ],
+  "name": "VTT CUBE AMS ZERO99 C:68X SLT 29 liquidblue´n´blue",
+  "marque": "Cube",
+  "description": "La précision est un atout majeur en compétition. C'est pourquoi, avec le nouvel AMS ZERO99 C:68X SLT 29, nous avons opté pour une transmission AXS 12 vitesses. Avec sa transmission sans fil et d'une précision sans pareil, vous ne manquerez plus jamais un braquet. Ses freins à disque hydrauliques Sram Level Ultimate Rainbow vous permettent de garder le contrôle de votre vitesse, tandis que ses chambres à air Schwalbe Aerothan vous garantissent que le moindre coup de pédale se traduit par une progression vers l'avant. Ses composants de suspension Fox présentent 100 mm de débattement à l'avant et à l'arrière pour une meilleure adhérence, et son kit de finition en carbone Newmen (comprenant un jeu de roues en carbone) fait figure de touche finale. La suite vous appartient.Cadre C:68X® Monocoque Advanced Twin Mold Technology, FSP 4-Link, Boost 148, UDH™couleur liquidblue´n´blueFrame Material C:68X®Frame weight 1600 gamortisseur Fox Float DPS Factory Remote, 190x40mm, 2-Position Remote, Kashima Coatedentretoises d'amortisseur Front: 26x8mm, Rear: 30x8mmfourche suspendue Fox 32 SC Float Factory FIT4, 2-Position Remote, Tapered, 15x110mm, 100mm, Kashima Coatedcintre Newmen Advanced SL 318.0, Carbon, 740mmpoignées ACID React Prodérailleur arrière Sram XX1 Eagle AXS™, 12-Speedleviers Sram Eagle AXS™ Controllerfrein Sram Level Ultimate Rainbow, Hydr. Disc Brake (160/160)plateau Sram XX1 Eagle™ DUB SL, 32Tcassette Sram XG-1299 Eagle™ Rainbow, 10-52Tchaîne Sram PC-XX1 Eagle™ Rainbowjeu de pédalier Sram DUB MTB, 92mm Pressfitroues Newmen Advanced SL X.A.25 Carbon, 28/28 Spokes, 15x110mm/12x148mm, Tubeless Readypneu avant Schwalbe Racing Ray, Super Race, Addix Speedgrip, Kevlar, 2.1pneu arrière Schwalbe Racing Ralph, Super Race, Addix Speed, Kevlar, 2.1selle Natural Fit Nuance SLT Carbontige de selle Newmen Advanced, Carbon, 30.9mmPotence Newmen Evolution SL 318.2, 31.8mmextras Schwalbe Aerothan™ Inner Tubespoids 9,7 kgPoids maximum en charge 115 kgPar défaut ce vélo est livré assemblé à 80% ce mode de livraison est gratuit. Voici un tutoriel pour finaliser l'assemblage de votre vélo",
+  "image": "https://product-cdn-frz.alltricks.com/medium/671/573671/2573671/5190845",
+  "mpn": "652400L",
+  "gtin13": "4054571405647",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 180-188 cm",
+      "stock": 5,
+      "prix": 6199.99,
+      "mpn": "652400M",
+      "sku": "2589870",
+      "gtin13": "4054571405630",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2684709-vtt_cube_ams_zero99_c_68x_slt_29_liquidblue__n__blue"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 186-194 cm",
+      "stock": 5,
+      "prix": 6199.99,
+      "mpn": "652400L",
+      "sku": "2573672",
+      "gtin13": "4054571405647",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2684709-vtt_cube_ams_zero99_c_68x_slt_29_liquidblue__n__blue"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram XX1 Eagle AXS 12V"
+  },
+  "caracteristiques": {}
+}

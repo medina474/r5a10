@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2393448",
+  "tailles": [
+    "M / 160-175 cm"
+  ],
+  "name": "VTT Tout-Suspendu NS Bikes Define AL 130 2 Shimano Deore 12V 29'' Noir 2022",
+  "marque": "NS Bikes",
+  "description": "Le NS Bikes Define AL 130 2 est sans doute l'un des plus polyvalents de la gamme. Il permet de monter et de descendre des montagnes - toute la journée, tous les jours. pour de nombreux cyclistes, cette beauté en alliage pourrait être le seul vélo dont ils auront besoin. Il se situe en plein milieu du panorama des catégories et peut être utilisé pour tout, des longues randonnées aux journées amusantes au bike park.\r\nSur le papier, ce vélo a un débattement de 130 mm, mais ne vous y trompez pas, il donne vraiment l'impression d'avoir beaucoup plus que les chiffres indiqués. Ce sont les grandes roues et la géométrie ajustée qui définissent les capacités de ce vélo.\r\nEn même temps, les capacités d'escalade de ce vélo sont formidables. Le routage semi-interne unique du cadre est une solution élégante et facile à entretenir. Les grands pivots étanches garantissent de longues périodes de fonctionnement en douceur et sans entretien.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/448/393448/2393448/4570829",
+  "mpn": "NSB-00342",
+  "gtin13": "2019090013003",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-175 cm",
+      "stock": 2,
+      "prix": 2823.99,
+      "mpn": "NSB-00342",
+      "sku": "2393118",
+      "gtin13": "2019090013003",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2441030-vtt_tout_suspendu_ns_bikes_define_al_130_2_shimano_deore_12v_29___noir_2022"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {}
+}

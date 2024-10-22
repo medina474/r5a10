@@ -1,0 +1,145 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2660194",
+  "tailles": [
+    "S / 150-165 cm",
+    "M / 165-174 cm",
+    "L / 175-184 cm",
+    "XL / 185-200 cm"
+  ],
+  "name": "VTT Tout-Suspendu Rockrider Feel 900 S Sram NX 12V 29'' Gris 2024",
+  "marque": "Rockrider",
+  "description": "Le Rockrider Feel 900 S est conçu pour la pratique trail bike, jusqu'au all-mountain light. Très polyvalent, c'est un excellent grimpeur au caractère joueur en descente.\r\n\r\nSon cadre en carbone lui confère une grande nervosité, à vous les sessions déchaînées !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/194/660194/2660194/5348607",
+  "mpn": "4335065",
+  "gtin13": "3583787448908",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-165 cm",
+      "stock": 1,
+      "prix": 2699.99,
+      "mpn": "4335064",
+      "sku": "2648978",
+      "gtin13": "3583787448946",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2777746-vtt_tout_suspendu_rockrider_feel_900_s_sram_nx_12v_29___gris_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-184 cm",
+      "stock": 1,
+      "prix": 2699.99,
+      "mpn": "4335062",
+      "sku": "2649011",
+      "gtin13": "3583787448939",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2777746-vtt_tout_suspendu_rockrider_feel_900_s_sram_nx_12v_29___gris_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 2,
+      "prix": 2699.99,
+      "mpn": "4335065",
+      "sku": "2648960",
+      "gtin13": "3583787448908",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2777746-vtt_tout_suspendu_rockrider_feel_900_s_sram_nx_12v_29___gris_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gris"
+    }
+  ],
+  "informations": {
+    "poids": "13.90 kg (taille M)",
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Carbone horstlink, acheminement interne guidé, Boost148, débattement de 130 mm",
+      "fourche": "Rockshox PIKE, cartouche Charger, blocage, pivot conique, déport de 44 mm, Boost110, Maxle Stealth, débattement de 140 mm",
+      "amortisseur": "Rock Shox DELUXE SELECT + 130 mm, blocage 2 positions, Trunion 185x47.5 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX Eagle, 1x12 vitesses",
+      "dérailleur arrière": "Sram NX Eagle, chape longue, 12-vitesses",
+      "cassette": "Sram NX Eagle, 10-50 Dents, 12-vitesses",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Sram NX Eagle, plateau 32 dents, longueur de 175 mm"
+    },
+    "boitier de pédalier": "PressFit 92",
+    "équipements": {
+      "freins": "Freins à disque hydrauliques SRAM G2 R 4 pistons, disques Sram Centerline 6 trous (200/180 mm)",
+      "selle": "Decathlon short nose",
+      "tige de selle": "Rockrider Dropper, acheminement interne, 31,6 mm"
+    },
+    "roues": {
+      "jantes": "Mavic Crossmax XLS, Tubeless Ready, 24 trous, largeur de 30 mm, valve Presta",
+      "pneu avant": " Vittoria Mazza 29x2,35'' Trail, Tubeless Ready ",
+      "pneu arrière": " Vittoria Martello 29x2,35'' Trail, Tubeless Ready"
+    },
+    "moyeux ": "Avant : Infinity Aluminium, 6 trous, Boost110, axe traversant 15 mm / Arrière : Infinity Aluminium, Boost148, axe traversant 12 mm, roue libre Instant Drive 360",
+    "direction": {
+      "cintre": "Rockrider Sport, Alu, 31,8 mm, Rise 15 mm, Upsweep 5°, Backsweep 9°, largeur de 780 mm",
+      "poignées": "Rockrider Ergo lock on",
+      "potence": "Rockrider aluminium, 31,8 mm, 0°, longueur de 55 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 564,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1175,
+      "stack (mm)": 610,
+      "reach (mm)": 425,
+      "débattement tige de selle (mm)": 120
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1204,
+      "stack (mm)": 619,
+      "reach (mm)": 450,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1233,
+      "stack (mm)": 628,
+      "reach (mm)": 475,
+      "débattement tige de selle (mm)": 170
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1262,
+      "stack (mm)": 637,
+      "reach (mm)": 500,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

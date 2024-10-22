@@ -1,0 +1,139 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2700929",
+  "tailles": [
+    "S / 150-165 cm",
+    "M / 160-175 cm",
+    "L / 170-185 cm",
+    "XL / 180-198 cm"
+  ],
+  "name": "VTT Tout-Suspendu Orbea Occam M10 LT Shimano XT 12V 29'' Noir Matt",
+  "marque": "Orbea",
+  "description": "Les meilleurs vélos de trail modernes sont utilisés sur une variété impressionnante de terrains et doivent donc pouvoir s'y adapter. Avec sa géométrie plus agressive, une fourche Fox 36 et un débattement de 150 mm, l'Orbea Occam LT, le cousin sauvage de l'Occam, offre des performances optimales. La robuste fourche Fox 36 réduit l'angle de direction de l'Occam LT de 0,5º, pour une position encore plus stable.\r\n\r\nAu lieu d'utiliser un \"tunnel de choc\" moins efficace, l'Occam décale l'amortisseur vers le côté gauche du cadre, ce qui permet au support droit d'être plus central et de gérer plus efficacement les forces de suspension agissant sur le triangle avant. Cette solution permet de régler la rigidité de cette zone très sollicitée sans ajouter de poids inutile.\r\n\r\nOrbea utilise une construction en carbone à la pointe de la technologie pour fabriquer le cadre le plus sophistiqué possible. Un processus complexe et laborieux dont vous apprécierez les résultats une fois en selle. Les cadres Orbea Monocoque Race (OMR) ajoutent des fibres à haut module et à haute résistance aux configurations standard pour optimiser les rapports rigidité/poids. Le moulage des composants avec des mousses EPS et des inserts en PU pour le tube de direction et le boitier de pédalier élimine les plis et les arêtes dans des zones critiques, ce qui permet d'utiliser moins de carbone sans aucun compromis en termes de durabilité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/929/700929/2700929/5442711",
+  "mpn": "M25918C2",
+  "gtin13": "8434446598913",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-165 cm",
+      "stock": 10,
+      "prix": 3578.86,
+      "mpn": "M25915C2",
+      "sku": "2700865",
+      "gtin13": "8434446598395",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2819119-vtt_tout_suspendu_orbea_occam_m10_lt_shimano_xt_12v_29___noir_matt"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-175 cm",
+      "stock": 3,
+      "prix": 5299.99,
+      "mpn": "M25917C2",
+      "sku": "2700854",
+      "gtin13": "8434446598654",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2819119-vtt_tout_suspendu_orbea_occam_m10_lt_shimano_xt_12v_29___noir_matt"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-185 cm",
+      "stock": 4,
+      "prix": 5299.99,
+      "mpn": "M25918C2",
+      "sku": "2700873",
+      "gtin13": "8434446598913",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2819119-vtt_tout_suspendu_orbea_occam_m10_lt_shimano_xt_12v_29___noir_matt"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "C2 - Black (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Orbea Occam OMR, Concentric Boost 12x148 mm rear axle, Pure Trail geometry, Internal cable routing, Asymmetric design, 29\" wheels",
+      "fourche": "Fox 36 Float Factory, Grip2, QR15x110 mm, Kashima, 150 mm travel",
+      "amortisseur": "Fox DHX Factory 2-Position custom tune 210x55 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT M8100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, Shadow RD+, 12-vitesses",
+      "cassette": "Shimano Deore XT CS-M8100-12, 10-51 Dents",
+      "chaîne": "Shimano Deore CN-M6100",
+      "pédalier": "Shimano XT M8100, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano XT M8120, Hydr. Disc Brake",
+      "selle": "Fizik Taiga, S-alloy rail",
+      "tige de selle": "OC2 Dropper, 31.6 mm / Shimano SL-MT500-IL I-Spec EV Remote"
+    },
+    "roues": {
+      "jantes": "Race Face Turbine R 30, TLR, 29\"",
+      "pneu avant": " Maxxis Minion DHF, FB, 60 TPI, 3CMaxxTerra, Exo, TLR, 29x2.50\" ",
+      "pneu arrière": " Maxxis Dissector, 60 TPI, 3CMaxxTerra, Exo, TLR, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "Race Face Next R 35, Rise 20 mm, Width 780 mm",
+      "potence": "Race Face Aeffect R, 35 mm interface",
+      "jeu de direction": "Acros Alloy 1-1/8 - 1-1/2\" Integrated"
+    },
+    "référence": "M259"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 381,
+      "tube supérieur (mm)": 565,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1165,
+      "stack (mm)": 604,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1194,
+      "stack (mm)": 613,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 457,
+      "tube supérieur (mm)": 619,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1224,
+      "stack (mm)": 627,
+      "reach (mm)": 474
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 508,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1259,
+      "stack (mm)": 646,
+      "reach (mm)": 500
+    }
+  ]
+}

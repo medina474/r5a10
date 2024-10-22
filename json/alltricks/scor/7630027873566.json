@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2755196",
+  "tailles": [
+    "M / 165-180 cm"
+  ],
+  "name": "VTT Tout-Suspendu Scor 4060 ST Sram NX 12V 29'' Gris",
+  "marque": "SCOR",
+  "description": "Dépassant largement sa catégorie, le vélo de trail 4060 ST NX te donne la confiance nécessaire pour affronter les sentiers les plus difficiles, aussitôt sorti du carton. Avec son cadre léger entièrement en carbone et ses suspensions de qualité, ce vélo est aussi à l’aise sur les trails bien roulants que dans les chemins techniques et engagés. Le reste des composants ont été sélectionnés pour te permettre de partir rouler sans attendre, te laissant la possibilité d'apporter quelques améliorations plus tard. Avec tout ce dont tu as besoin, ni plus ni moins, la seule chose qu’il te reste à faire maintenant est de te faire plaisir.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/196/755196/2755196/5540776",
+  "mpn": "30001602",
+  "gtin13": "7630027873566",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-180 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "30001602",
+      "sku": "2741976",
+      "gtin13": "7630027873566",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2885531-vtt_tout_suspendu_scor_4060_st_sram_nx_12v_29___gris"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Grey"
+    }
+  ],
+  "informations": {
+    "poids": "14,90 kg",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SCOR 4060 Full Carbon Frame, Lower-Link Driven Instant Center Linkage, 140 / 160mm Rear Wheel Travel, Fully Guided Internal Cable Routing, Stash Box, Boost 148, SRAM UDH, Lower ISCG 05 Mount / Chainguide",
+      "fourche": "RockShox Pike Select RC, 150mm Travel, Offset 44mm",
+      "amortisseur": "RockShox Super Deluxe Select+ RT, 205 x 57.5mm Trunnion"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX Eagle Trigger, 1x12 vitesses",
+      "dérailleur arrière": "Sram NX Eagle, 12 vitesses",
+      "cassette": "Sram NX PG-1230 Eagle, 11-50 dts, 12 vitesses",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Sram Descendant 6K Eagle, 170 mm, 32 dts",
+      "boîtier de pédalier": "Sram DUB"
+    },
+    "équipements": {
+      "freins": "Sram Code R, Sram Centerline 200/200 mm, 6 trous",
+      "selle": "WTB",
+      "tige de selle": "X-fusion"
+    },
+    "roues": {
+      "jantes": "XDX-530, 6061-T6 Alloy, largeur interne 30 mm, tubeless ready, moyeux XDX-530, roue libre HG",
+      "pneus": "Avant : Maxxis Assegai 29 x 2.5\" 3C MaxxTerra Exo TR, Arrière : Maxxis Dissector 29 x 2.4\" 3C MaxxTerra Exo+ TR"
+    },
+    "direction": {
+      "cintre": "Scor Alloy Bar, 31.8mm Clamp, 800mm Wide, 20mm Rise, 5° Upsweep, 9° Backsweep",
+      "poignées": "VP VPG-125A",
+      "potence": "Scor Alloy Stem, 31.8mm Bar Bore, 35 mm Length, 0° Angle"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 561,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 87,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1185,
+      "stack (mm)": 599,
+      "reach (mm)": 436,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 425,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 99,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1210,
+      "stack (mm)": 611,
+      "reach (mm)": 461,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1235,
+      "stack (mm)": 625,
+      "reach (mm)": 485,
+      "débattement tige de selle (mm)": 170
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 655,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 127,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1265,
+      "stack (mm)": 636,
+      "reach (mm)": 516,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

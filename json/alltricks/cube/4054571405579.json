@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2590018",
+  "tailles": [
+    "M / 168-178 cm",
+    "L / 176-186 cm",
+    "XL / 184-196 cm"
+  ],
+  "name": "VTT Tout-Suspendu Cube AMS Zero99 C:68X Race 29 Shimano XT 12V 29'' Argent 2023",
+  "marque": "Cube",
+  "description": "Le cadre AMS Zero99 C:68X a été développé à partir du carbone de haute qualité de chez Cube et réalise l’exploit de ne peser que 1600 g environ. Mais il n’est pas uniquement question de légèreté. Ses bases arrière présentent suffisamment de dégagement pour des pneus de 2,25 pouces et permettent un transfert de puissance optimal. Ses tubes plus minces offrent un plus grand confort. Il dispose des inserts pour ajuster précisément l'angle de direction. Enfin, avec ses 100 mm de débattement à l'avant et à l'arrière, et une géométrie pensée pour le dynamisme et la vitesse, vous avez tout ce dont vous avez besoin pour prendre la tête de la course.\r\n\r\nLe podium vient de se rapprocher. Avec son cadre en carbone C:68X® de première qualité et ses composants soigneusement sélectionnés, le Cube AMS Zero99 C:68X Race 29 établit de nouvelles normes en matière de vitesse en cross-country. Il est équipé d’une fourche Fox 32 Float et d’un amortisseur Fox DPS Performance Elite, présentant tous les deux un système de blocage au guidon. Les ingénieurs de chez Cube ont sélectionné une transmission Shimano XT 1x12 vitesses pour son incroyable fiabilité. Ensuite, ils ont ajouté des freins à disque hydrauliques Shimano XT pour faire bonne mesure. Enfin, pour couronner le tout, il est équipé d’un poste de pilotage en carbone Newmen et d'une selle en carbone Natural Fit. Vous avez là tout ce dont vous avez besoin pour décrocher la victoire.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/18/590018/2590018/5231586",
+  "mpn": "652100XL",
+  "gtin13": "4054571405579",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 5,
+      "prix": 3799.99,
+      "mpn": "652100M",
+      "sku": "2397516",
+      "gtin13": "4054571405555",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716170-vtt_tout_suspendu_cube_ams_zero99_c_68x_race_29_shimano_xt_12v_29___argent_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 176-186 cm",
+      "stock": 5,
+      "prix": 3799.99,
+      "mpn": "652100L",
+      "sku": "2397515",
+      "gtin13": "4054571405562",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716170-vtt_tout_suspendu_cube_ams_zero99_c_68x_race_29_shimano_xt_12v_29___argent_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 184-196 cm",
+      "stock": 1,
+      "prix": 3799.99,
+      "mpn": "652100XL",
+      "sku": "2504662",
+      "gtin13": "4054571405579",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2716170-vtt_tout_suspendu_cube_ams_zero99_c_68x_race_29_shimano_xt_12v_29___argent_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "silver´n´black"
+    }
+  ],
+  "informations": {
+    "poids": "10.7 kg",
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:68X Monocoque Advanced Twin Mold Technology, FSP 4-Link, Boost 148, UDH, 100 mm travel, Width tire maximum: 57 mm",
+      "fourche": "Fox 32 SC Float Performance, 2-Position Remote, Tapered, Boost 15x110 mm, 100 mm travel",
+      "amortisseur": "Fox Float DPS Performance Elite Remote, 190x40 mm, 2-Position Remote / Entretoises d'amortisseur : 26x8 mm (Haut), 30x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT SL-M8100-IR, Direct Attach, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano XT CS-M8100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Shimano XT FC-M8100, Boost, 32 Dents",
+      "boîtier de pédalier": "Shimano BB-MT500PA, 92 mm Pressfit"
+    },
+    "équipements": {
+      "freins": "Shimano XT BR-M8100, Hydr. Disc Brake, (180/160)",
+      "selle": "Natural Fit Nuance SLT Carbon",
+      "tige de selle": "Newmen Advanced, Carbon, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Evolution SL X.A.25, 28/28 Spokes, Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneu avant": " Schwalbe Racing Ray, Super Race, Addix Speed, Kevlar, 29x2.25\" ",
+      "pneu arrière": " Schwalbe Racing Ralph, Super Race, Addix Speed, Kevlar, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "Newmen Advanced 318.0, Carbon, 740 mm",
+      "poignées": "Acid React Pro",
+      "potence": "Newmen Evolution SL 318.2, 31.8 mm, 6°",
+      "jeu de direction": "Acros Integrated, Top 1 1/8\", Bottom 1 1/2\", Fiber Inserts for Angle Adjustment"
+    },
+    "référence": 652100
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur* (mm)": "569 / 570",
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 100,
+      "angle de direction* (°)": "67.4 / 68",
+      "angle tube de selle* (°)": "74.7 / 74.5",
+      "empattement* (mm)": "1130 / 1123",
+      "stack* (mm)": "583 / 585",
+      "reach* (mm)": "415 / 414",
+      "longueur potence (mm)": 70,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "594 / 595",
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 110,
+      "angle de direction* (°)": "67.4 / 68",
+      "angle tube de selle* (°)": "74.7 / 74.5",
+      "empattement* (mm)": "1156 / 1149",
+      "stack* (mm)": "593 / 594",
+      "reach* (mm)": "437 / 436",
+      "longueur potence (mm)": 80,
+      "longueur manivelles (mm)": 175
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "619 / 620",
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 120,
+      "angle de direction* (°)": "67.4 / 68",
+      "angle tube de selle* (°)": "74.7 / 74.5",
+      "empattement* (mm)": "1181 / 1174",
+      "stack* (mm)": "602 / 603",
+      "reach* (mm)": "459 / 458",
+      "longueur potence (mm)": 90,
+      "longueur manivelles (mm)": 175
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur* (mm)": "643 / 645",
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 135,
+      "angle de direction* (°)": "67.4 / 68",
+      "angle tube de selle* (°)": "74.7 / 74.5",
+      "empattement* (mm)": "1208 / 1201",
+      "stack* (mm)": "616 / 617",
+      "reach* (mm)": "479 / 478",
+      "longueur potence (mm)": 100,
+      "longueur manivelles (mm)": 175
+    }
+  ]
+}

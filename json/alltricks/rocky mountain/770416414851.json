@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2588950",
+  "tailles": [
+    "M / 167-177 cm",
+    "L / 175-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Rocky Mountain Instinct Alloy 30 Shimano Deore 12V 29'' Or Rouge 2022",
+  "marque": "Rocky Mountain",
+  "description": "Si vous cherchez un vélo qui peut tout faire, vous avez trouvé. L’Instinct permet de conquérir les sentiers techniques, mais aussi de pousser à fond en ascension. Nous avons revu sa géométrie, les caractéristiques de son cadre et la cinématique de ses suspensions pour vous donner de l’assurance dans les montées, les descentes et tout le reste du trajet. Fiez-vous à votre Instinct.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/950/588950/2588950/5228042",
+  "mpn": "B0221LG91",
+  "gtin13": "770416414851",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "B0221LG91",
+      "sku": "2587492",
+      "gtin13": "770416414851",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2713664-vtt_tout_suspendu_rocky_mountain_instinct_alloy_30_shimano_deore_12v_29___or_rouge_2022"
+    }
+  ],
+  "informations": {
+    "poids": "15,77 kg",
+    "genre": "Homme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "FORM™ Alloy | Full Sealed Cartridge Bearings | Press Fit BB | Internal Cable Routing | 2-Bolt ISCG05 Tabs | RIDE-9™ Adjustable Geometry | 2 Position Axle | 140mm Travel. FORM™ Alloy Rear Triangle",
+      "fourche": "RockShox 35 Gold RL 150mm | 27.5 = 37mm Offset | 29 = 42mm Offset",
+      "amortisseur": "RockShox Deluxe Select+ | Sealed Bearing Eyelet | 25x8mm F Hardware | SM = 210x55mm | MD - LG - XL = 230x60mm | Size-Specific tune in FAQ"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 12spd",
+      "dérailleur arrière": "Shimano Deore 12spd",
+      "cassette": "Shimano Deore 10-51T 12spd",
+      "chaîne": "Shimano M6100",
+      "pédalier": "FSA Comet MegaExo HD | 32T | 24mm Spindle | Crankarm Length: XS = 165mm | SM - XL = 170mm",
+      "boîtier de pédalier": "FSA BB92 24mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT4120 4 Piston | Resin Pads | F:Shimano RT64 203mm | R:Shimano RT64 180mm",
+      "selle": "WTB Volt 142",
+      "tige de selle": "Rocky Mountain Toonie Drop Composite 30.9mm | SM = 125mm | MD = 150mm | LG - XL = 170mm"
+    },
+    "roues": {
+      "jantes": "WTB ST i30 TCS 2.0 Tubeless | 32H | Tubeless Ready - Tape / Valves Incl",
+      "pneus": "F: Maxxis Minion DHF 2.5 WT EXO Tubeless Ready // R: Maxxis Minion DHR II 2.4 WT EXO Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Rocky Mountain AM | 780mm Width | 25mm Rise | 9° Backsweep | 5° Upsweep | 31.8 Clamp",
+      "potence": "Rocky Mountain 31.8 AM | 5° Rise | All Sizes = 40m",
+      "jeu de direction": "FSA Orbit NO.57E | Sealed 36°x45° Bearings | 30.2mm x 41mm x 7.1mm Upper | 40mm x 51.8mm x 7.5mm Lower | 1.5\" Crown Race"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieure (mm)": 582,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1182,
+      "stack (mm)": 611,
+      "reach (mm)": 437
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieure (mm)": 608,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1209,
+      "stack (mm)": 615,
+      "reach (mm)": 462
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieure (mm)": 636,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1240,
+      "stack (mm)": 628,
+      "reach (mm)": 487
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieure (mm)": 670,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1277,
+      "stack (mm)": 642,
+      "reach (mm)": 517
+    }
+  ]
+}

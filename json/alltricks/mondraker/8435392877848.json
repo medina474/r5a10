@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2675202",
+  "tailles": [
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "name": "VTT Tout-Suspendu Mondraker Summum Sram GX DH 7V 29'' Gris 2024",
+  "marque": "Mondraker",
+  "description": "Le Mondraker Summum  est un vélo qui résulte plus de 20 ans d'expérience dans la fabrication de vélos DH haut rendement. Et ce n'est pas rien, avec plusieurs podiums en Coupe du monde et Championnat du monde 2016 à Val di Sole, monopolisant l’ensemble du podium de cette année-là.\r\nUn moment historique qui prouve que, même le plus basique de la gamme peut atteindre le plus haut niveau.\r\nCe n'est pas pour rien que le système de suspension et les principales caractéristiques sont identiques à ceux du Summum Carbon RR avec lequel concourent nos riders de la MS Mondraker Team. Le kit de changement de géométrie est optionnel.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/202/675202/2675202/5382779",
+  "mpn": "010.24170",
+  "gtin13": "8435392877848",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 1,
+      "prix": 3799.99,
+      "mpn": "010.24170",
+      "sku": "2564947",
+      "gtin13": "8435392877848",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2798476-vtt_tout_suspendu_mondraker_summum_sram_gx_dh_7v_29___gris_2024"
+    }
+  ],
+  "informations": {
+    "poids": "18.4 kg",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX DH 7V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Summum 29 Stealth Evo Aluminium 6061, tubes hydroformés, système de suspension Zero, débattement de 200 mm, Forward Geometry, biellette supérieure en aluminium avec roulements pour amortisseur, axe arrière SuperBoost 12 x 157 mm, boîtier de pédalier BSA 83 mm, roulements Enduro double capacité MAX., acheminement interne des câbles HHG, ISCG 05.",
+      "fourche": "RockShox Boxxer Select RC 29, 200 mm, DebonAir+, pivot de fourche de 1-1/8”, essieu Boost 20x110 mm, déport 52 mm. Réglages : compression basse vitesse, rebond, précontrainte pneumatique",
+      "amortisseur": "RockShox Super Deluxe Coil Select R, 225x70 mm. LNM ST B1, rebond linéaire, compression moyenne, précontrainte du ressort. Trunnion montage haut, bagues inférieures 30x8 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram trigger GX DH, 7 vitesses, X-actuation 1:1",
+      "dérailleur arrière": "Sram GX DH, 7 vitesses, chape moyenne, X-actuation 1:1",
+      "cassette": "Sram PG 720 11-25 dts, 7 vitesses",
+      "chaîne": "Sram PC1110 11 vitesses, Powerlock",
+      "pédalier": "Truvativ Descendant DH, axe DUB, plateau Direct Mount 34 dts, acier, X-Sync, 165 mm",
+      "boîtier de pédalier": "Sram DUB BSA, roulements étanches, 83 mm"
+    },
+    "équipements": {
+      "freins": "Sram DB8, étrier surdimensionné 4 pistons, disque 6 trous Centerline 220/203 mm IS, plaquettes métalliques",
+      "selle": "SDG I-Fly 2.0 I-Beam, mousse de polyuréthane haute densité, côtés en Cordura",
+      "tige de selle": "SDG Micro I-Beam SP-751 aluminium, diamètre 31,6 mm, longueur 300 mm, micro-réglage"
+    },
+    "roues": {
+      "jantes": "Mavic Deemax BikePark 29, largeur intérieure 30 mm, 32 rayons plats acier",
+      "moyeu avant": "Mavic Boost 20x110 mm, IS 6 trous ",
+      "moyeu arrière": "Mavic 12x157 mm, roue libre ID360, roulements étanches, IS 6 trous, roue libre HG",
+      "pneus": "Michelin DH34 29x2,4'', Tubeless Ready, composé Magi-X DH, double-enveloppe DH renforcée, tringle rigide."
+    },
+    "direction": {
+      "cintre": "OnOff Sulfur 1.0, aluminium 6061 double renfort, galbe : 20 mm, largeur : 800 mm, cintrage 9°, réhausse 5°, alésage 31,8 mm",
+      "poignées": "Onoff Twin, verrouillage simple, 135 mm",
+      "potence": "OnOff Krypton DH CNC FG intégré, longueur réglable de 25 à 30 mm, alésage 31,8 mm, aluminium 6061, entretoise 2 x 6 mm",
+      "jeu de direction": "OnOff Mercurium 1.5 ZS pour pivot 1-1/8\", roulements étanches ACB 41x30,15x7x45°x45°, cuvettes de kit de géométrie, diamètre externe 56 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 112,
+      "angle de direction (°)": 63,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1260,
+      "stack (mm)": 632,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 593,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 112,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1270,
+      "stack (mm)": 632,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 112,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1295,
+      "stack (mm)": 632,
+      "reach (mm)": 475
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 643,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 112,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1320,
+      "stack (mm)": 632,
+      "reach (mm)": 500
+    }
+  ]
+}

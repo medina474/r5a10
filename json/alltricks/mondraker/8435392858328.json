@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2492211",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-200 cm"
+  ],
+  "name": "VTT Tout-Suspendu Mondraker Foxy Carbon R Sram NX Eagle 12V 29'' Orange / Noir",
+  "marque": "Mondraker",
+  "description": "Le Foxy Carbon R est la gamme la plus économique avec le cadre carbone identique à celui du XR et du RR Carbon.\r\nIl est équipé de suspensions Fox avec 160 mm de débattement avant et 150 mm à l'arrière. Il est également équipé d'une transmission Sram NX Eagle à 12 vitesses, de roues e*thirteen LG1 Plus Enduro, de freins Sram G2 R à 4 pistons et de composants OnOff, avec la tige de selle télescopique Pija.\r\n ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/211/492211/2492211/4883512",
+  "mpn": "010.23115",
+  "gtin13": "8435392858328",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 10,
+      "prix": 3899.99,
+      "mpn": "010.23114",
+      "sku": "2186181",
+      "gtin13": "8435392858311",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2559452-vtt_tout_suspendu_mondraker_foxy_carbon_r_sram_nx_eagle_12v_29___orange___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 3899.99,
+      "mpn": "010.23115",
+      "sku": "2186164",
+      "gtin13": "8435392858328",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2559452-vtt_tout_suspendu_mondraker_foxy_carbon_r_sram_nx_eagle_12v_29___orange___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 2,
+      "prix": 3899.99,
+      "mpn": "010.23116",
+      "sku": "2398020",
+      "gtin13": "8435392858335",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2559452-vtt_tout_suspendu_mondraker_foxy_carbon_r_sram_nx_eagle_12v_29___orange___noir"
+    }
+  ],
+  "informations": {
+    "poids": "14.9 kg",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Foxy 29 Stealth Air tout en carbone, système de suspension Zero, débattement de 150 mm, Forward Geometry, biellette supérieure Monoblock en carbone, axe arrière Boost 12 x 148 mm, tube de direction conique, boîtier de pédalier BSA 73 mm, design spécifique pour transmission monoplateau, acheminement interne des câbles HHG, roulements étanches Enduro MAX, garde-boue d'amortisseur, ISCG 05, protections de cadre sur mesure.",
+      "fourche": "Fox 36 29 Float Performance GRIP, 160 mm, 3 positions, pivot conique, axe Boost 15 x 110 mm, déport 44 mm. Réglages : ajustement instantané de la compression, rebond basse vitesse, précontrainte pneumatique",
+      "amortisseur": "Fox Float-X LV Performance, 205 x 65 mm. Réglages : compression 2 positions de levier, rebond basse vitesse, précontrainte pneumatique. Trunnion montage haut, bagues inférieures 30 x 8 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger NX Eagle, X-Actuation 1:1, 1x12-vitesses",
+      "dérailleur arrière": "Sram Trigger NX Eagle, 12 vitesses",
+      "cassette": "Sram XG-1230, 11-50 dents, 12 vitesses",
+      "chaîne": "Sram NX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "Truvativ Descendant 6K Eagle, Boost, axe DUB, plateau Direct Mount - Tailles S/M : 170 mm / Taille L/XL : 175 mm - plateau : 32 dents, acier, X-Sync 2",
+      "boîtier de pédalier": "Sram DUB BSA, roulements étanches, 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram G2 R, étrier 4 pistons, disque monopièce 6 trous Centerline 200/180 mm IS, plaquettes organiques",
+      "selle": "SDG Bel-Air 3.0, mousse LPU, rails en acier",
+      "tige de selle": "Tige de selle télescopique interne Onoff Pija, diamètre 31,6 mm Taille S : 405 x 95-125 mm / Taille M : 458 x 120-150 mm / Taille L : 498 x 140-170 mm / Taille XL : 498 x 140-170 mm"
+    },
+    "roues": {
+      "jantes": "e*thirteen LG1 Enduro, IW30 sans crochet, aluminium 6069 soudé, largeur interne 30 mm, Tubeless Ready, 28 rayons",
+      "moyeu avant": "e*thirteen Boost 15 x 110 mm, triple étanchéité, entièrement usiné en aluminium, IS 6 trous   ",
+      "moyeu arrière": "e*thirteen Boost 12 x 148 mm, triple étanchéité, entièrement usiné en aluminium avec engagement de 6 degrés, IS 6 trous, roue libre Shimano",
+      "pneu avant": " Maxxis Minion DHF 29 x 2,5 WT, Tubeless Ready, composé 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple ",
+      "pneu arrière": " Maxxis Minion DHR II 29 x 2,4 WT, Tubeless Ready, composé 3C MAXX TERRA, protection EXO+, 120 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 1.0, aluminium 6061 double renfort, galbe : 20 mm, largeur : 800 mm, cintrage 9°, réhausse 5°, alésage 31,8 mm",
+      "poignées": "Onoff Desert, verrouillage simple, 135 mm",
+      "potence": "Onoff Sulfur FG 30 mm 0º, alliage d'aluminium forgé 6061, alésage 31,8 mm",
+      "jeu de direction": "Acros personnalisé pour tube de direction de 1-1/2\", roulements à contact oblique 40 x 52 x 7, acheminement interne des câbles"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 375,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70,
+      "empattement (mm)": 1210,
+      "stack (mm)": 617,
+      "reach (mm)": 445
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70,
+      "empattement (mm)": 1233,
+      "stack (mm)": 627,
+      "reach (mm)": 465
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70,
+      "empattement (mm)": 1260,
+      "stack (mm)": 641,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70,
+      "empattement (mm)": 1286,
+      "stack (mm)": 656,
+      "reach (mm)": 505
+    }
+  ]
+}

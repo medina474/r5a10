@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2705885",
+  "tailles": [
+    "S / 150-165 cm",
+    "M / 160-175 cm",
+    "L / 170-185 cm",
+    "XL / 180-198 cm"
+  ],
+  "name": "VTT Tout-Suspendu Orbea Occam LT M30 Shimano SLX/XT 12V 29'' Vert Gris Spaceship 2024",
+  "marque": "Orbea",
+  "description": "Peu importe où l’aventure vous mène, l'Orbea Occam LT est prêt à vous accompagner. Léger et robuste avec une géométrie agressive, ce vélo vous encourage à repousser vos limites et à vous amuser. Même sur les pistes les plus mouvementées, la suspension progressive reste souple et confortable et fonctionne parfaitement avec les amortisseurs à ressort.\r\n\r\nPourquoi choisir un vélo de Trail agressif plutôt qu'une machine d’Enduro ? L'Occam LT vous répondrait : le plaisir. Un mélange parfait d’efficacité en montée et d’agilité en descente. Léger, agile et réactif, voici un vélo qui ne demande qu'à déraper et à sauter. Grâce au système « Attitude Adjust », l'Occam LT place les riders dans une position idéale pour un pilotage engagé.\r\n\r\nAvec la technologie « Attitude Adjust », vous pouvez adapter rapidement la géométrie à toutes les aventures que les sentiers peuvent réserver. Le système QuickFlip de l'Occam LT permet d'ajuster la géométrie en quelques secondes. Grâce à un axe excentrique astucieux, il suffit de desserrer la vis à l'aide d'une clé hexagonal de 6 mm, puis de tirer légèrement vers le haut sur le tube supérieur. Il est ainsi possible de basculer entre les positions « High » et « Low » en moins de 15 secondes.\r\n\r\nAvec ses nombreuses fonctionnalités, l'Occam LT est prêt pour partir à l’assaut des sentiers les plus mouvementés. Grâce au tube de selle raide et ininterrompu de l’Occam, tous les cyclistes devraient pouvoir insérer entièrement une tige de selle télescopique de 230 mm. Il est ainsi possible de baisser complétement la selle en descente afin de gagner en liberté de mouvement au-dessus du vélo et d’améliorer le contrôle. Pour cela, les tiges télescopiques à grand débattement sont votre meilleure solution !\r\n\r\nSi l'Occam est disponible en quatre tailles (S, M, L et XL), son design Steep'n'Deep associé à l'un des tubes de selle les plus courts du marché signifie que plusieurs tailles peuvent convenir selon les préférences de portée personnelles. Optez pour une taille de cadre plus grande pour maximiser la stabilité ou pour un cadre plus petit pour un Occam plus ludique.\r\n\r\nDans la version Carbone OMR, les fibres à haut module et à haute résistance ainsi que des procédés de pointe pour le travail du carbone permettent aux ingénieurs de chez Orbea d'utiliser moins de matériau sans compromettre la robustesse.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/885/705885/2705885/5451509",
+  "mpn": "R26305P4",
+  "gtin13": "8434446520013",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-165 cm",
+      "stock": 10,
+      "prix": 3635.62,
+      "mpn": "R26303P4",
+      "sku": "2626416",
+      "gtin13": "8434446519956",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824915-vtt_tout_suspendu_orbea_occam_lt_m30_shimano_slx_xt_12v_29___vert_gris_spaceship_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-175 cm",
+      "stock": 1,
+      "prix": 4699,
+      "mpn": "R26305P4",
+      "sku": "2626227",
+      "gtin13": "8434446520013",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824915-vtt_tout_suspendu_orbea_occam_lt_m30_shimano_slx_xt_12v_29___vert_gris_spaceship_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-185 cm",
+      "stock": 1,
+      "prix": 4699,
+      "mpn": "R26307P4",
+      "sku": "2626352",
+      "gtin13": "8434446520051",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824915-vtt_tout_suspendu_orbea_occam_lt_m30_shimano_slx_xt_12v_29___vert_gris_spaceship_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-198 cm",
+      "stock": 10,
+      "prix": 3633.91,
+      "mpn": "R26309P4",
+      "sku": "2626353",
+      "gtin13": "8434446520082",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824915-vtt_tout_suspendu_orbea_occam_lt_m30_shimano_slx_xt_12v_29___vert_gris_spaceship_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "P4 - Spaceship Green - Corn Yellow (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Orbea Occam OMR, Concentric Boost 12x148 mm rear axle, Pure Trail geometry, Internal cable routing, Asymmetric design, 29\" wheels",
+      "fourche": "Fox 36 Float Performance, Grip 3-Position, QR15x110 mm, 160 mm travel",
+      "amortisseur": "Fox Float X Performance 2-Position Evol LV custom tune 210x55 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX M7100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore XT RD-M8100-SGS, Shadow RD+, 12-vitesses",
+      "cassette": "Shimano SLX CS-M7100-12, 10-51 Dents",
+      "chaîne": "Shimano Deore CN-M6100",
+      "pédalier": "Race Face Aeffect, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6120, Hydr. Disc Brake",
+      "selle": "Ergon SM Enduro",
+      "tige de selle": "OC Mountain Control MC21, 31.6 mm Dropper / Shimano SL-MT500-IL I-Spec EV Remote"
+    },
+    "roues": {
+      "jantes": "Race Face AR 30, TLR, 29\"",
+      "pneu avant": " Maxxis Minion DHF, FB, 60 TPI, 3C MaxxTerra, Exo, TR, 29x2.50\" ",
+      "pneu arrière": " Maxxis Dissector, 60 TPI, 3C MaxxTerra, Exo, TLR, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC30, Rise 20 mm, Width 800 mm",
+      "potence": "OC Mountain Control MC20, 0º",
+      "jeu de direction": "Alloy 1-1/2\", Black Oxidated Bearing"
+    },
+    "référence": "R263"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 405,
+      "tube supérieur* (mm)": "571 / 572",
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction* (°)": "64.5 / 64",
+      "angle tube de selle* (°)": "77.5 / 77",
+      "empattement* (mm)": "1199 / 1200",
+      "stack* (mm)": "616 / 621",
+      "reach* (mm)": "435 / 430"
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 415,
+      "tube supérieur* (mm)": "597 / 598",
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction* (°)": "64.5 / 64",
+      "angle tube de selle* (°)": "77.5 / 77",
+      "empattement* (mm)": "1226 / 1227",
+      "stack* (mm)": "621 / 625",
+      "reach* (mm)": "460 / 455"
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur* (mm)": "624 / 625",
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction* (°)": "64.5 / 64",
+      "angle tube de selle* (°)": "77.5 / 77",
+      "empattement* (mm)": "1255 / 1257",
+      "stack* (mm)": "630 / 635",
+      "reach* (mm)": "485 / 480"
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur* (mm)": "651 / 653",
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction* (°)": "64.5 / 64",
+      "angle tube de selle* (°)": "77.5 / 77",
+      "empattement* (mm)": "1285 / 1286",
+      "stack* (mm)": "639 / 644",
+      "reach* (mm)": "510 / 505"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2510020",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "name": "VTT Tout-Suspendu BH Lynx Trail Carbon 9.0 Shimano Deore XT 12V 29'' Noir/Jaune 2022",
+  "marque": "BH",
+  "description": "Le VTT BH Lynx Trail Carbon 9.0 est le vélo idéal si l'agilité, une géométrie équilibrée, une rigidité à revendre… . Voilà comment on dispose du VTT le plus sympa, tous les jours de la semaine et à n’importe quelle heure. Dans ces conditions, tous les jours peuvent devenir épiques.\r\n\r\nLe cadre carbone de le Lynx Trail est développé grâce à la technologie HCIMde moulage carbone HCIM (Technique de moulage du carbone à double pression externe et interne) qui permet de réduire au maximum le poids du cadre et de la biellette. Pour sa fabrication, les fibres de carbone Ballistic Carbon Layup ont été utilisées pour assurer une bonne résistance aux impacts, le tout en obtenant un cadre qui ne pèse que 2 200 grammes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/20/510020/2510020/4932643",
+  "mpn": "DA902NYYSM",
+  "gtin13": "8413616900107",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 5,
+      "prix": 3899.99,
+      "mpn": "DA902NYYSM",
+      "sku": "2187313",
+      "gtin13": "8413616900107",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2576912-vtt_tout_suspendu_bh_lynx_trail_carbon_9_0_shimano_deore_xt_12v_29___noir_jaune_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 16,
+      "prix": 3899.99,
+      "mpn": "DA902NYYMD",
+      "sku": "2187491",
+      "gtin13": "8413616900091",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2576912-vtt_tout_suspendu_bh_lynx_trail_carbon_9_0_shimano_deore_xt_12v_29___noir_jaune_2022"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Noir/Jaune"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Lynx Trail Carbon 150mm, BC Layup, ISCG 0.5 Lite, UDH Hanger",
+      "fourche": "Fox 36 Performance Grip Kabolt 150mm Sweep Adjust",
+      "amortisseur": "Fox X2 Evol LV, Performance, 190x40, CM,RM,LM 40x8 Aircan"
+    },
+    "direction": {
+      "jeu de direction": "Acros ICR FIT 36/45º, Block Lock 160º",
+      "cintre": "BH Trail Carbon, 800mm, 10mm Rise, 9º Back Sweep",
+      "potence": "BH TRAIL 45mm, 35mm, 0º"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 6100 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT 8100 12 vitesses",
+      "cassette": "Shimano Deore 6100 10/51 Dents",
+      "chaîne": "Shimano Deore",
+      "pédalier": "Shimaano Deore 6130 SuperBoost, 32, 170mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT520 4 Pistons 180mm",
+      "selle": "Scratch X8",
+      "tige de selle": "Race Face Aeffect 31,6mm, 425mm, 150mm Drop"
+    },
+    "roues": {
+      "jantes": "Race Face Aeffect 30mm, SuperBoost",
+      "pneus": "Maxxis High Roller EXO, 3C, 2.35"
+    },
+    "grips": "BH Control Grip"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 556,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1146,
+      "stack (mm)": 609,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 582,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1169,
+      "stack (mm)": 610,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1193,
+      "stack (mm)": 619,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1214,
+      "stack (mm)": 634,
+      "reach (mm)": 490
+    }
+  ]
+}

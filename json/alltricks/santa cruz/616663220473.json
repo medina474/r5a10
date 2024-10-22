@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2753305",
+  "tailles": [
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Tout-Suspendu Santa Cruz Bronson 5 Carbone C Sram GX AXS 12V MX (29/27.5'') Marron 2025",
+  "marque": "Santa Cruz",
+  "description": "À fond sur tous les chemins ou plus haut sur n'importe quel saut, chaque génération de Bronson redéfinit les codes de ce qu'on peut attendre d'un VTT.\r\n\r\n150 mm de débattement arrière et l'évolution de la suspension du Bronson permettent de confirmer cette idée. Pousser un peu plus loin, un peu plus sur chaque descente, allant chercher ce petit grain de folie qui pousse à envoyer et sans cesse y retourner. Pas de soucis de ce côté-là puisque la conception de suspension VPP™ permet de remonter sans perdre cette énergie positive qui pousse à recommencer à nouveau, encore et encore. Si votre truc c'est la vitesse sans négliger le style ou si, selon vous, le fun ne doit rien enlever à la vitesse, alors la plateforme \"MX\" (29\" à l'avant, 27.5\" à l'arrière) vous confortera dans l'idée que les contraires s'attirent. Une roue avant plus grande apporte plus d'adhérence et de stabilité pour un sentiment de contrôle et de confiance dans les virages et les portions cassantes, alors que la roue arrière plus petite permet de changer de direction rapidement, jouer avec le terrain et exploser tous les appuis qui se trouveront sur votre passage.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/305/753305/2753305/5534815",
+  "mpn": "616663220473",
+  "gtin13": "616663220473",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 7399,
+      "mpn": "616663220473",
+      "sku": "2741885",
+      "gtin13": "616663220473",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2883639-vtt_tout_suspendu_santa_cruz_bronson_5_carbone_c_sram_gx_axs_12v_mx__29_27_5____marron_2025"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Translucent Root Beer"
+    }
+  ],
+  "informations": {
+    "poids": "15.03 kg (M)",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Santa Cruz Bronson 5 C MX (29''/27.5'')",
+      "fourche": "Fox 36 Float Performance Elite, Grip X2, 160mm",
+      "amortisseur": "Fox Float X Permformance Elite, 230x57.5"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram AXS Pod, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX AXS T-Type, 12 vitesses",
+      "cassette": "Sram GX T-Type, 12 vitesses, 10-52 dts",
+      "chaîne": "Sram GX T-Type 12 vitesses",
+      "pédalier": "Sram GX T-Type DUB 32 dts",
+      "boîtier de pédalier": "Sram DUB 73mm MTB Wide BB"
+    },
+    "équipements": {
+      "freins": "Sram Maven Bronze Stealth, disques Sram HS2 200/180 mm",
+      "selle": "SDG Bel-Air V3, Lux-Alloy",
+      "tige de selle": "OneUp V2 Dropper Post, 31.6"
+    },
+    "roues": {
+      "jantes": "RaceFace AR Offset 30, 29/27.5'', moyeux DTSwiss 370 15x110/12x148 mm, 6 trous, roue libre XD",
+      "pneus": "AV : Maxxis Assegai 29\"x2.5\", 3C MaxxGrip, EXO+, AR : Maxxis Minion DHR II 27.5\"x2.4\", 3C MaxxTerra, EXO+"
+    },
+    "direction": {
+      "cintre": "Santa Cruz 35 Carbon Bar, 800mm",
+      "poignées": "Santa Cruz Bicycles House Grips",
+      "potence": "OneUp Stem, 42mm OU Burgtec Enduro Stem, 42mm",
+      "jeu de direction": "Cane Creek 40 IS Integrated Headset"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 542,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": "64.5°",
+      "angle tube de selle (°)": "76.9°",
+      "empattement (mm)*": 1154,
+      "stack (mm)": 595,
+      "reach (mm)": 402
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": "64.5°",
+      "angle tube de selle (°)": "76.7°",
+      "empattement (mm)*": 1189,
+      "stack (mm)": 619,
+      "reach (mm)": 427
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 604,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": "64.5°",
+      "angle tube de selle (°)": "76.6°",
+      "empattement (mm)*": 1222,
+      "stack (mm)": 628,
+      "reach (mm)": 452
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 627,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": "64.5°",
+      "angle tube de selle (°)": "76.5°",
+      "empattement (mm)*": 1249,
+      "stack (mm)": 637,
+      "reach (mm)": 472
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 657,
+      "longueur base (mm)": 443,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": "64.5°",
+      "angle tube de selle (°)": "76.4°",
+      "empattement (mm)*": 1285,
+      "stack (mm)": 651,
+      "reach (mm)": 497
+    }
+  ]
+}

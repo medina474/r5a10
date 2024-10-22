@@ -1,0 +1,148 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2709923",
+  "tailles": [
+    "S / 150-170 cm",
+    "M / 160-180 cm",
+    "L / 170-190 cm",
+    "XL / 180-200 cm"
+  ],
+  "name": "VTT Tout-Suspendu Orbea Occam SL M30 Shimano Deore XT/SLX 12V 29'' Vert Gris Spaceship 2024",
+  "marque": "Orbea",
+  "description": "Peu importe où l’aventure vous mène, l'Orbea Occam SL est prêt à vous accompagner. À la fois léger et robuste, ce vélo est taillé pour la vitesse. Alors, déclenchez les chronos, ajoutez-y du flow, car l’Occam SL ne demande qu'une chose : rouler.\r\n\r\nPourquoi choisir un vélo de Trail plutôt qu'une machine de XC pure ? L'Occam SL vous répondrait : le plaisir. Un mélange parfait d’efficacité en montée et d’agilité en descente. Léger et posé, voici un vélo qui inspire la confiance tout en ajoutant du flow à toutes vos sorties. Grâce à la technologie Fast Trail, le réglage de l'anti-squat, soit le comportement de la suspension lors du pédalage, permet une grande efficacité de propulsion et est l'une des raisons pour lesquelles l'Occam SL grimpe si bien.\r\n\r\nAvec ses nombreuses fonctionnalités, l'Occam SL est prêt pour vos plus grandes aventures. Grâce au tube de selle raide et ininterrompu de l’Occam, tous les cyclistes devraient pouvoir insérer entièrement une tige de selle télescopique de 230 mm. Il est ainsi possible de baisser complétement la selle en descente afin de gagner en liberté de mouvement au-dessus du vélo et d’améliorer le contrôle. Pour cela, les tiges télescopiques à grand débattement sont votre meilleure solution !\r\n\r\nSi l'Occam est disponible en quatre tailles (S, M, L et XL), son design Steep'n'Deep associé à l'un des tubes de selle les plus courts du marché signifie que plusieurs tailles peuvent convenir selon les préférences de portée personnelles. Optez pour une taille de cadre plus grande pour maximiser la stabilité ou pour un cadre plus petit pour un Occam plus ludique.\r\n\r\nDans la version Carbone OMR, les fibres à haut module et à haute résistance ainsi que des procédés de pointe pour le travail du carbone permettent aux ingénieurs de chez Orbea d'utiliser moins de matériau sans compromettre la robustesse.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/923/709923/2709923/5464561",
+  "mpn": "R26207P4",
+  "gtin13": "8434446519734",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-170 cm",
+      "stock": 10,
+      "prix": 3525.47,
+      "mpn": "R26203P4",
+      "sku": "2626414",
+      "gtin13": "8434446519673",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2833006-vtt_tout_suspendu_orbea_occam_sl_m30_shimano_deore_xt_slx_12v_29___vert_gris_spaceship_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-180 cm",
+      "stock": 1,
+      "prix": 4499,
+      "mpn": "R26205P4",
+      "sku": "2626298",
+      "gtin13": "8434446519703",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2833006-vtt_tout_suspendu_orbea_occam_sl_m30_shimano_deore_xt_slx_12v_29___vert_gris_spaceship_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-190 cm",
+      "stock": 1,
+      "prix": 4499,
+      "mpn": "R26207P4",
+      "sku": "2626332",
+      "gtin13": "8434446519734",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2833006-vtt_tout_suspendu_orbea_occam_sl_m30_shimano_deore_xt_slx_12v_29___vert_gris_spaceship_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-200 cm",
+      "stock": 10,
+      "prix": 3523.81,
+      "mpn": "R26209P4",
+      "sku": "2626266",
+      "gtin13": "8434446519765",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2833006-vtt_tout_suspendu_orbea_occam_sl_m30_shimano_deore_xt_slx_12v_29___vert_gris_spaceship_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "P4 - Spaceship Green - Corn Yellow (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Orbea Occam OMR, Concentric Boost 12x148 rear axle, Pure Trail geometry, Internal cable routing, Asymmetric design, 29\" wheels, 140 mm travel",
+      "fourche": "Fox 34 Float Performance, Remote Push-lock, QR15x110 mm, 140 mm travel",
+      "amortisseur": "Fox Float Performance, Remote Push-lock, Evol, custom tune, 210x50 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX M7100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore XT M8100, SGS Shadow Plus, 12-vitesses",
+      "cassette": "Shimano SLX CS-M7100, 10-51 Dents",
+      "chaîne": "Shimano M6100",
+      "pédalier": "Race Face Aeffect, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6100, Hydr. Disc Brake",
+      "selle": "Fizik Terra Ridon X5, 145 mm",
+      "tige de selle": "OC Mountain Control MC21, 31.6 mm, Dropper / OC Squidlock MC20 Remote, Dropper, Suspension 2 Pos"
+    },
+    "roues": {
+      "jantes": "Race Face AR 30c, Tubeless Ready, 29\"",
+      "pneus": "Schwalbe Wicked Will, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC30, Rise 20 mm, Width 800 mm",
+      "potence": "OC Mountain Control MC20, 0º",
+      "jeu de direction": "Alloy 1-1/2\", Black Oxidated Bearing"
+    },
+    "référence": "R262"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1191,
+      "stack (mm)": 611,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 596,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1218,
+      "stack (mm)": 615,
+      "reach (mm)": 465
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1245,
+      "stack (mm)": 624,
+      "reach (mm)": 490
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1276,
+      "stack (mm)": 633,
+      "reach (mm)": 515
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2652488",
+  "tailles": [
+    "M / 168-178 cm"
+  ],
+  "name": "VTT Tout-Suspendu Cube AMS One11 C:68X TM 29 Shimano XT 12V 29'' Gris Flash Vert Olive 2023",
+  "marque": "Cube",
+  "description": "Lorsque Cube a entrepris de développer le vélo de trail léger ultime, les ingénieurs de la marque sont partis de leur carbone C:68X® haut de gamme. Avec son profil élégant, son design fastidieux et les nombreux tests auxquels il a été soumis, ils sont parvenus à obtenir un cadre qui ne pèse qu’environ 1600 g. Conçu autour de haubans de 444 mm avec un dégagement suffisant pour l’équiper de pneus de 2,4 pouces, il dispose même d’un insert Acros permettant de peaufiner l’angle de direction. Ses 110 mm de débattement à l’arrière et 120 mm à l’avant (combinés à l’ultra réactivité de son cadre) se combinent efficacement pour disséquer même les portions de chemin les plus accidentées. Passez à la vitesse supérieure. Pilotez un Cube AMS One11 C:68X.\r\n\r\nIl n’y a pas meilleur outil pour arrondir les angles, absorber les racines et les pierres, et atteindre les sommets. Le cadre raffiné du Cube AMS One11 C:68X TM 29 n’est que le début. Avec le débattement avant de 120 mm de sa fourche Fox 34 Float SC Factory et celui de 110 mm de son amortisseur Fox Float DPS Factory à l’arrière, vous avez un contrôle absolu. Ses roues Newmen Evolution sont chaussées de pneus Maxxis Rekon et Rekon Race vous permettant de rester en parfait contact avec le sol. Sa transmission Shimano XT 1x12 vitesses transfert toute votre puissance via un pédalier Praxis Girder Carbon, aussi rigide que léger, tandis que ses freins à disque hydrauliques Shimano XT vous garantissent un freinage immédiat, mais uniquement quand vous aurez fini de tout déchirer.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/488/652488/2652488/5334225",
+  "mpn": "652600M",
+  "gtin13": "4054571405715",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 4,
+      "prix": 4299.99,
+      "mpn": "652600M",
+      "sku": "2397537",
+      "gtin13": "4054571405715",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2769848-vtt_tout_suspendu_cube_ams_one11_c_68x_tm_29_shimano_xt_12v_29___gris_flash_vert_olive_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "flashgrey´n´olive"
+    }
+  ],
+  "informations": {
+    "poids": "11.7 kg",
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:68X Monocoque Advanced Twin Mold Technology, FSP 4-Link, Boost 148, UDH, 110 mm travel, Width tires maximum: 64 mm",
+      "fourche": "Fox 34 SC Float Factory FIT4, Open(Adjustable)/Medium/Firm Mode, Tapered, Boost 15x110 mm, Kashima Coated, 120 mm travel",
+      "amortisseur": "Fox Float DPS Factory, 190x42.5 mm, Open(Adjustable)/Medium/Firm Mode, Kashima Coated / Entretoises d'amortisseur : 26x8 mm (Haut), 30x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT SL-M8100-IR, Direct Attach, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano SLX CS-M7100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Praxis Girder Carbon, Boost, 170 mm, 30 Dents",
+      "boîtier de pédalier": "Praxis PF92, sealed Enduro Bearings"
+    },
+    "équipements": {
+      "freins": "Shimano XT BR-M8120/BR-M8100, Hydr. Disc Brake, (180/180)",
+      "selle": "SDG Bel Air V3 Lux Alloy",
+      "tige de selle": "Fox Transfer Factory, Kashima Coated, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Evolution SL A.30, 28/28 Spokes, Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneu avant": " Maxxis Rekon, EXO, Tubeless Ready, 29x2.4\" ",
+      "pneu arrière": " Maxxis Rekon Race, EXO, Tubeless Ready, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "Newmen Evolution 318.20, 760 mm",
+      "poignées": "SDG Thrice",
+      "potence": "Newmen Evolution SL 318.4, 31.8 mm, 6°",
+      "jeu de direction": "Acros Integrated, Top 1 1/8\", Bottom 1 1/2\", Fiber Inserts for Angle Adjustment"
+    },
+    "référence": 652600
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur* (mm)": "573 / 575",
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 100,
+      "angle de direction* (°)": "66 / 66.6",
+      "angle tube de selle* (°)": "73.3 / 73.1",
+      "empattement* (mm)": "1141 / 1134",
+      "stack* (mm)": "592 / 594",
+      "reach* (mm)": "401 / 400",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 364,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "598 / 600",
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 110,
+      "angle de direction* (°)": "66.1 / 66.7",
+      "angle tube de selle* (°)": "73.4 / 73.2",
+      "empattement* (mm)": "1167 / 1160",
+      "stack* (mm)": "601 / 603",
+      "reach* (mm)": "423 / 422",
+      "longueur potence (mm)": 60,
+      "longueur tige de selle (mm)": 418,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "623 / 625",
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction* (°)": "66.1 / 66.7",
+      "angle tube de selle* (°)": "73.4 / 73.2",
+      "empattement* (mm)": "1193 / 1186",
+      "stack* (mm)": "611 / 613",
+      "reach* (mm)": "445 / 444",
+      "longueur potence (mm)": 60,
+      "longueur tige de selle (mm)": 418,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur* (mm)": "648 / 650",
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 135,
+      "angle de direction* (°)": "66.1 / 66.7",
+      "angle tube de selle* (°)": "73.4 / 73.2",
+      "empattement* (mm)": "1219 / 1212",
+      "stack* (mm)": "625 / 627",
+      "reach* (mm)": "466 / 465",
+      "longueur potence (mm)": 70,
+      "longueur tige de selle (mm)": 418,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

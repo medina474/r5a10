@@ -1,0 +1,146 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2675384",
+  "tailles": [
+    "M / 167-178 cm",
+    "L / 175-188 cm"
+  ],
+  "name": "VTT Tout-Suspendu Mondraker F-Podium R Sram GX Eagle 12V 29'' Gris Rouge 2024",
+  "marque": "Mondraker",
+  "description": "Le VTT tout-suspendu Mondraker F-Podium R est le vélo fait pour vous. Grâce à son système de suspension Zero, sa géométrie Forward et son cadre fabriqué entièrement en Stealth Air Full Carbon, le F-Podium R transformera n'importe quelle course de XC en un jeu d’enfants.\r\n\r\nIl a 100 mm de débattement arrière et une fourche de 120 mm très efficace.\r\nSi nous ajoutons les roues Crossmax Carbon XL R de Mavic et les pneus Maxxis Rekon 2.4\", vous savourerez les montées les plus exigeantes comme les descentes les plus rapides, en toute sécurité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/384/675384/2675384/5384257",
+  "mpn": "010.24075",
+  "gtin13": "8435392876896",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 2,
+      "prix": 5699.99,
+      "mpn": "010.24074",
+      "sku": "2564903",
+      "gtin13": "8435392876889",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2798479-vtt_tout_suspendu_mondraker_f_podium_r_sram_gx_eagle_12v_29___gris_rouge_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 5699.99,
+      "mpn": "010.24075",
+      "sku": "2565000",
+      "gtin13": "8435392876896",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2798479-vtt_tout_suspendu_mondraker_f_podium_r_sram_gx_eagle_12v_29___gris_rouge_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Flame Red"
+    }
+  ],
+  "informations": {
+    "poids": "11,9 kg",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "F-Podium 29 Stealth Air tout en carbone, système de suspension Zero optimisé XCO, 100 mm, Forward Geometry XC, biellette supérieure Monoblock en carbone, boîtier de pédalier BSA, douille de direction conique, acheminement interne des câbles HHG, design spécifique pour transmission monoplateau, axe arrière Boost 12 x 148 mm, garde-boue d'amortisseur, fixation Postmount pour frein arrière.",
+      "amortisseur": "Fox Float SL Performance SV EVOL, 165x45 mm. Réglages : Compression 3 positions à distance (ouvert/moyen/blocage), rebond faible vitesse, précontrainte pneumatique. Trunnion montage haut, bagues inférieures 30x8 mm",
+      "fourche": "Fox 34 Step Cast Float Grip Evol Performance, 110 mm, pivot conique, axe Boost 15 x 110 mm, déport 44 mm. Réglages : blocage au guidon 2 positions Push, rebond, précontrainte pneumatique"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger GX Eagle, 12 vitesses, X-Actuation 1:1, 12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, 1 x 12 vitesses, X-Actuation 1:1",
+      "cassette": "Sram PG-1275, 11-52 dts, 12 vitesses",
+      "chaîne": "Sram SX Eagle, Powerlock, 12 vitesses",
+      "pédalier": "SRAM GX Eagle, Boost, essieu DUB, plateau Direct Mount, 34 dts, acier, X-Sync 2",
+      "boîtier de pédalier": "Sram DUB BSA, roulements étanches, 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram Level Bronze Stealth, étrier 2 pièces, disque Centerline 180/160 mm IS 6 trous, plaquettes organiques",
+      "selle": "Fizik Vento Argo X5",
+      "tige de selle": "OnOff Pija dropper interne, diamètre 31,6 mm, manette universelle"
+    },
+    "roues": {
+      "jantes": "Mavic Crossmax Carbon XL R 29, largeur intérieure 25 mm, jante soudée, sans crochet, compatible tubeless, 24 rayons droits",
+      "moyeu avant": "Mavic, Boost 15 x 110 mm, IS 6 trous ",
+      "moyeu arrière": "Mavic, Boost 12 x 148 mm, système à rochets ID360, IS 6 trous, roue libre XD",
+      "pneus": "Maxxis Rekon Race 29 x 2,4'', protection EXO, compatible tubeless, 120 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 0.2, aluminium 6061 double renfort, galbe : 4,8 mm, largeur : 760 mm, cintrage 7°, hauteur 0°, alésage 31,8 mm",
+      "poignées": "Onoff Diamond, 1 lock-on, 135 mm",
+      "potence": "MDK, aluminium 6061 T6, alésage 31,8 mm, galbe : +/-5º",
+      "jeu de direction": "Acros custom pour douille de direction 1-1/2\", roulements à contact angulaire 40x52x7, acheminement interne de câbles"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 580,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 85,
+      "angle de direction (°)": 67.3,
+      "angle tube de selle (°)": 71.3,
+      "empattement (mm)": 1138,
+      "stack (mm)": 570,
+      "reach (mm)": 437,
+      "potence (mm)": 50,
+      "manivelles (mm)": 170,
+      "débattement tige de selle (mm)": "95-125"
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.3,
+      "angle tube de selle (°)": 71.3,
+      "empattement (mm)": 1159,
+      "stack (mm)": 575,
+      "reach (mm)": 453,
+      "potence (mm)": 50,
+      "manivelles (mm)": 175,
+      "débattement tige de selle (mm)": "120-150"
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67.3,
+      "angle tube de selle (°)": 71.3,
+      "empattement (mm)": 1183,
+      "stack (mm)": 584,
+      "reach (mm)": 473,
+      "potence (mm)": 60,
+      "manivelles (mm)": 175,
+      "débattement tige de selle (mm)": "140-170"
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 67.3,
+      "angle tube de selle (°)": 71.3,
+      "empattement (mm)": 1209,
+      "stack (mm)": 598,
+      "reach (mm)": 493,
+      "potence (mm)": 70,
+      "manivelles (mm)": 175,
+      "débattement tige de selle (mm)": "140-170"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2397657",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "name": "VTT Tout-Suspendu Bh Bikes Lynx Trail Carbon 9.5 Shimano XT 12V 29'' Noir/Jaune 2022",
+  "marque": "BH",
+  "description": "Agilité, géométrie bien équilibrée, rigidité à revendre... . C'est ainsi que l'on obtient le vélo tout terrain le plus cool, à tout moment de la semaine et de la journée. Dans ces conditions, n'importe quelle journée peut être épique.\r\n\r\nLe vélo a été construit à l'aide de la technologie de moulage du carbone HCIM, utilisée dans les cadres de route haute performance de BH Bikes. Il intègre des fibres de carbone \"Ballistic Carbon Layup\".\r\nIl intègre une technologie pour les cadres monocoques qui applique une pression élevée dans le moule afin d'atteindre les niveaux les plus élevés de matériau compact et d'éliminer les pressions irrégulières dans le cadre qui créent des bulles et des imperfections. Ce système de fabrication permet de contrôler et d'optimiser les épaisseurs idéales sur les différentes parties du cadre.\r\n\r\nLe Lynx Trail offre 150 mm de débattement. Grâce à l'antisquat, qui garantit l'efficacité du pédalage, et au brake-squat, qui assure un freinage optimal, le système de suspension Split Pivot permet d'affronter n'importe quel terrain dans n'importe quelle condition.\r\n\r\nSuperboost 157 X 12 : Le nouveau Super Boost augmente la force et la résistance de la roue arrière, grâce à une meilleure tension des rayons des deux côtés de la roue (\"Super Boost\").\r\nLe nouveau Super Boost augmente la force et la résistance de la roue arrière, grâce à une meilleure tension des rayons des deux côtés de la roue (\"le parapluie\"), des bases arrière courtes qui améliorent considérablement la maniabilité dans les descentes et un large passage de roue pour des pneus plus larges jusqu'à 2,6\".",
+  "image": "https://product-cdn-frz.alltricks.com/medium/657/397657/2397657/4574941",
+  "mpn": "DA952NYYMD",
+  "gtin13": "8413616900213",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 8,
+      "prix": 4999.9,
+      "mpn": "DA952NYYMD",
+      "sku": "2188075",
+      "gtin13": "8413616900213",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2444480-vtt_tout_suspendu_bh_bikes_lynx_trail_carbon_9_5_shimano_xt_12v_29___noir_jaune_2022"
+    }
+  ],
+  "informations": {
+    "poids": "--",
+    "genre": "Homme",
+    "matière du cadre": "Alu / Carbone",
+    "groupe": "N.C."
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Lynx Trail Carbon 150mm, BC Layup, ISCG 0.5 Lite, UDH Hanger",
+      "fourche": "Fox 36 Factory Grip 2 HSC, LSC, HSR, LSR Kabolt 150mm"
+    },
+    "amortisseur arrière": "Fox X2 Evol LV, Factory, 190x40mm, CM,RM,LM 40x8mm Aircan",
+    "manettes de vitesse": "Shimano XT 8100 12sp",
+    "transmission": {
+      "dérailleur arrière": "Shimano XT 8100 12sp",
+      "cassette": "Shimano XT 8100 10/51",
+      "chaîne": "Shimano XT",
+      "pédalier": "Shimano XT 8130 SuperBoost, 32, 170mm"
+    },
+    "équipements": {
+      "freins": "Shimano XT Enduro 180mm",
+      "selle": "Scratch X8",
+      "tige de selle": "Bike Yoke Revive 31,6mm, 400mm, 160mm Drop"
+    },
+    "roues": {
+      "jantes": "Race Face Turbine, 31mm, SuperBoost",
+      "pneus": "Maxxis High Roller EXO, 3C, 2.35"
+    },
+    "direction": {
+      "cintre": "BH Trail Carbon, 800mm, 10mm de hauteur, 9º d'inclinaison arrière",
+      "poignées": "BH Control Grip",
+      "potence": "BH Trail 45mm, 35mm, 0º",
+      "jeu de direction": "Acros ICR FIT 36/45º, Block Lock 160º"
+    },
+    "collier de selle": "Intégré",
+    "couleur": "Noir/jaune",
+    "référence": "DA952"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 556,
+      "bases de chaîne (mm)": 435,
+      "empattement (mm)": 1146,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 77,
+      "stack (mm)": 609,
+      "reach (mm)": 430
+    },
+    {
+      "taille du cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 582,
+      "bases de chaîne (mm)": 435,
+      "empattement (mm)": 1169,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 77,
+      "stack (mm)": 610,
+      "reach (mm)": 455
+    },
+    {
+      "taille du cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "bases de chaîne (mm)": 435,
+      "empattement (mm)": 1193,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 77,
+      "stack (mm)": 619,
+      "reach (mm)": 475
+    },
+    {
+      "taille du cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 625,
+      "bases de chaîne (mm)": 435,
+      "empattement (mm)": 1214,
+      "angle du tube de direction (°)": 65,
+      "angle du tube de selle (°)": 77,
+      "stack (mm)": 634,
+      "reach (mm)": 490
+    }
+  ]
+}

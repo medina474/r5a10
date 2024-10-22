@@ -1,0 +1,32 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2731526",
+  "tailles": [
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Tout Suspendu Santa Cruz Blur X01 CC RSV 29'' Sram X01 Eagle AXS 12V Gris 2024",
+  "marque": "Santa Cruz",
+  "description": "Le Santa Cruz Blur est un vélo de compétition de cross-country pour aller plus vite, plus loin, pour se dépasser.  Suffisamment léger pour battre des records et suffisamment solide pour encaisser les longues sorties, le Blur sait tout faire, sans rien compromettre.  Quel que soit votre terrain de jeu préféré, le Blur est prêt à mettre les gaz, 24 h/24, 7 j/7.\r\n\r\nLa conception de la suspension VPP® ultra-performante associée à un double blocage à distance et à un cadre en carbone ultra-rigide font que vous aurez plus de puissance sous le pied qu’une fusée au décollage.\r\nLe triangle arrière VPP® monobloc en carbone reprend la même architecture à double hauban que celle des vélos de descente vainqueurs en coupe du Monde.\r\nAssocié à un triangle avant monobloc en carbone, la rigidité latérale et la stabilité sont inédites pour un vélo poids plume de ce genre.\r\nUne géométrie et des composants innovants vous donnent envie de vous attaquer à des trajectoires les plus techniques qui feront la différence entre ceux qui monteront sur le podium et ceux qui « remporteront » la cuillère de bois.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/526/731526/2731526/5502947",
+  "mpn": "192219477398",
+  "gtin13": "00192219477398",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 6299.99,
+      "mpn": "192219477398",
+      "sku": "2724893",
+      "gtin13": "00192219477398",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2860473-vtt_tout_suspendu_santa_cruz_blur_x01_cc_rsv_29___sram_x01_eagle_axs_12v_gris_2024"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram X01 Eagle 12V"
+  },
+  "caracteristiques": {}
+}

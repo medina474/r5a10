@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2569755",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "name": "VTT Tout-Suspendu BH Lynx Race LT 3.5 Shimano Deore/XT 12V 29'' Bleu/Argent",
+  "marque": "BH",
+  "description": "Toujours rapide. Sur de courtes distances. Sur de longues distances. Sur les sentiers. Sur les routes de trial. Escalade. Descente. C'est ce que vous recherchez dans un double XC et vélo-marathon. Le cadre Nº1 pour la Coupe du Monde avec David Valero et l'équipe BH Coloma. \r\n\r\nPour le meilleur équilibre entre agressivité et stabilité.\r\n\r\nUne portée plus longue, un angle de direction de 68º /67º et des bases courtes de 430 mm préservent l'agilité en montée et en descente.\r\n \r\n\r\nÀ l’instar de tous les cadres haut de gamme BH, le Lynx Race est conçu sur les bases de la technologie de moulage carbone HCIM (Core Internal Molding) qui permet de réduire au maximum le poids du cadre et de la biellette, tout en faisant appel à une plus grande quantité de fibres à haut module pour obtenir un poids de 1 850 grammes amortisseur compris.\r\n\r\nUn nouvel axe principal de suspension, surdimensionné et à roulements autocentrés, permet d’augmenter de 30 % la rigidité torsionnelle.\r\n\r\nGrâce à l’utilisation du standard « Metric », le Lynx Race affiche un débattement de 100 ou 120 mm en conservant le même niveau d’antisquat, qui garantit l’efficacité du pédalage, et le même niveau de brake-squat, qui assure un freinage optimal.\r\n\r\nVos yeux voient les nids de poule et les obstacles. Mais votre corps ne les remarque pas. Ils sont là, mais pas pour vous ralentir. Maintenant, les obstacles sont là pour s'amuser.\r\n\r\nPartez à l'assaut de ce sentier assis sur la selle et sentez comment la roue trace le terrain tandis que vous pouvez vous concentrer sur le pédalage de plus en plus fort.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/755/569755/2569755/5183728",
+  "mpn": "DX353BSBMD",
+  "gtin13": "8413616968633",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 6,
+      "prix": 2979.99,
+      "mpn": "DX353BSBSM",
+      "sku": "2559912",
+      "gtin13": "8413616968640",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2682299-vtt_tout_suspendu_bh_lynx_race_lt_3_5_shimano_deore_xt_12v_29___bleu_argent"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 2979.99,
+      "mpn": "DX353BSBMD",
+      "sku": "2559724",
+      "gtin13": "8413616968633",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2682299-vtt_tout_suspendu_bh_lynx_race_lt_3_5_shimano_deore_xt_12v_29___bleu_argent"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Bleu/Argent"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "matière du cadre": "Alu / Carbone",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Lynx Race Carbon, PC Layup Front, Alloy7005 Rear Triangle",
+      "fourche": "Fox 32 Rhythm 120mm",
+      "amortisseur": "Fox DPS Evol Performance, 190x40mm, DCL, DRM, CMF"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT 8100, 12-vitesses",
+      "cassette": "Shimano Deore 6100, 10/51 Dents",
+      "chaîne": "Shimano Deore",
+      "pédalier": "Shimano MT510, 175 mm"
+    },
+    "équipements": {
+      "freins": "Shimano M410, 180/160 mm",
+      "selle": "Prologo Nago RS",
+      "tige de selle": "BH Lite 31.6mm 420mm"
+    },
+    "roues": {
+      "jantes": "Race Face Aeffect TLR, 27mm, 32H",
+      "pneu avant": " Maxxis Ardent EXO 2.25 ",
+      "pneu arrière": " Maxxis Ikon EXO 2.25"
+    },
+    "direction": {
+      "cintre": "BH Lite Flat 780mm",
+      "potence": "BH SL 80mm, 31,8mm, +/-6",
+      "jeu de direction": "Acros ICR 36/45, Block Lock 160"
+    },
+    "grips": "BH SL Lock On"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 565,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1101,
+      "stack (mm)": 587,
+      "reach (mm)": 402
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 574,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74.8,
+      "empattement (mm)": 1136,
+      "stack (mm)": 592,
+      "reach (mm)": 428
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74.8,
+      "empattement (mm)": 1157,
+      "stack (mm)": 607,
+      "reach (mm)": 448
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 619,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1173,
+      "stack (mm)": 622,
+      "reach (mm)": 464
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2561365",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "name": "VTT Tout-Suspendu Raymon FullRay 150 10.0 Sram GX Eagle 12V 29'' Noir/Blanc",
+  "marque": "Raymon",
+  "description": "Que ce soit pour un cross alpin, des sentiers monotraces ou des montées raides : nos vélos All Mountain sont imbattables. Tout comme vous, ils se sentent à l’aise sur tous les terrains et sont suffisamment robustes pour maîtriser les parcours exigeants. \r\nUn gros débattement et une bonne réactivité font battre le cœur des amateurs de VTT encore plus vite. Nos Fully absorbent facilement les irrégularités comme les pierres ou les racines et vous pouvez vous concentrer entièrement sur votre piste.\r\n\r\nPour encore plus de maniabilité, nous avons doté nos deux modèles haut de gamme d’un cadre principal en carbone, qui est à peine plus lourd et qui est extrêmement stable malgré son faible poids. Grâce à la géométrie compacte et au tube supérieur particulièrement incliné, nos FullRay offrent une position assise extrêmement agréable et une faible hauteur de déport qui vous permet de ne faire qu’un avec votre vélo. Les pneus de 29\" assurent une meilleure adhérence, une plus grande stabilité et un meilleur comportement face au risque de retournement, ce qui apporte sensiblement plus de sécurité, en particulier dans les descentes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/365/561365/2561365/5166004",
+  "mpn": "2000006442",
+  "gtin13": "9010654004355",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 9,
+      "prix": 2999.99,
+      "mpn": "2000006442",
+      "sku": "2180323",
+      "gtin13": "9010654004355",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2677147-vtt_tout_suspendu_raymon_fullray_150_10_0_sram_gx_eagle_12v_29___noir_blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 10,
+      "prix": 2999.99,
+      "mpn": "2000006446",
+      "sku": "2180119",
+      "gtin13": "9010654004362",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2677147-vtt_tout_suspendu_raymon_fullray_150_10_0_sram_gx_eagle_12v_29___noir_blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 7,
+      "prix": 2999.99,
+      "mpn": "2000006450",
+      "sku": "2180188",
+      "gtin13": "9010654004379",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2677147-vtt_tout_suspendu_raymon_fullray_150_10_0_sram_gx_eagle_12v_29___noir_blanc"
+    }
+  ],
+  "informations": {
+    "poids": "14.1 kg",
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : 29\", carbone, Boost",
+      "fourche": "Fox Float 36 Factory, Grip 2, Air, 150 mm, tapered",
+      "amortisseur": "Fox Float DPS Factory, Air, 205x60 mm, Tourillon"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12-vitesses",
+      "cassette": "Sram XG-1275, 10-52 dents",
+      "chaîne": "Sram GX Eagle, Powerlock",
+      "pédalier": "Sram GX Eagle, 32 Dents",
+      "boîtier de pédalier": "Sram DUB PressFit, PF92"
+    },
+    "équipements": {
+      "freins": "Sram G2 R, 4 pistons, Frein à disque hydraulique, Sram Centerline, 200/200 mm, 6 trous",
+      "selle": "R Raymon MTB",
+      "tige de selle": "R Raymon Pro, 31.6 mm, Tige de selle télescopique (Dropper Post)"
+    },
+    "roues": {
+      "jantes": "Newmen Evolution A.30, Tubeless ready, 6 trous, 15x110/12x148 mm, Axe traversant",
+      "pneu avant": " Maxxis Minion DHF, 63-622, 29x2.5, Tubeless Ready ",
+      "pneu arrière": " Maxxis Minion DHR II, 29x2.4, Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "R Raymon Riser 31.8 mm, 780 mm, Sweep: 6 °, Rise: 15 mm",
+      "poignées": "R Raymon MTB, Poignées à vis",
+      "potence": "R Raymon 31.8, 0 °, Ahead",
+      "jeu de direction": "R Raymon ZS44/ZS56"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 513,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1199,
+      "stack (mm)": 613,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 553,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1231,
+      "stack (mm)": 617,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1265,
+      "stack (mm)": 626,
+      "reach (mm)": 500
+    }
+  ]
+}

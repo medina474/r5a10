@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2661964",
+  "tailles": [
+    "XL / 185-200 cm"
+  ],
+  "name": "VTT Tout-Suspendu Rockrider Feel 900 S Team Edition Sram GX 12V 29'' Noir 2024",
+  "marque": "Rockrider",
+  "description": "Le Rockrider Feel 900 S Team Edition est conçu pour la pratique trail bike, jusqu'au all-mountain light. Très polyvalent, c'est un excellent grimpeur au caractère joueur en descente.\r\n\r\nSon cadre en carbone lui confère une grande nervosité, à vous les sessions déchaînées ! La gamme Ultimate de chez ROCKSHOX offre une large plage de réglages de vos suspensions.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/964/661964/2661964/5354745",
+  "mpn": "4465378",
+  "gtin13": "",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 1,
+      "prix": 3199.99,
+      "mpn": "4465378",
+      "sku": "2652117",
+      "gtin13": "",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2781980-vtt_tout_suspendu_rockrider_feel_900_s_team_edition_sram_gx_12v_29___noir_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Noir"
+    }
+  ],
+  "informations": {
+    "poids": "13.40 kg (taille M)",
+    "genre": "FemmeHomme",
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Carbone horstlink, acheminement interne guidé, Boost148, débattement de 130 mm",
+      "fourche": "Rockshox Pike Ultimate, cartouche Charger 3, Buttercups (système de réduction des vibrations), blocage, compression haute et basse vitesse, pivot conique, déport de 44 mm, Boost110, Maxle Stealth, débattement de 140 mm",
+      "amortisseur": "Rock Shox Deluxe Ultimate 130 mm, blocage 2 positions et compression 3 positions, Trunion 185x47.5 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle, chape longue, 12-vitesses",
+      "cassette": "Sram GX Eagle, 10-52 Dents, 12-vitesses",
+      "chaîne": "Sram GX Eagle",
+      "pédalier": "Sram GX Eagle, plateau 32 dents, longueur de 175 mm"
+    },
+    "boitier de pédalier": "PressFit 92",
+    "équipements": {
+      "freins": "Freins à disque hydrauliques SRAM G2 RSC 4 pistons, disques Sram HS2 6 trous (200/200 mm)",
+      "selle": "Decathlon short nose",
+      "tige de selle": "Rockrider Dropper, acheminement interne, 31,6 mm"
+    },
+    "roues": {
+      "jantes": "Mavic Crossmax XLR carbone, Tubeless Ready, 24 trous, largeur de 30 mm, Boost, roue libre XD, valve Presta",
+      "pneu avant": " Vittoria Mazza 29x2,35'' Trail, Tubeless Ready ",
+      "pneu arrière": " Vittoria Martello 29x2,35'' Trail, Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Rockrider Sport, Alu, 31,8 mm, Rise 15 mm, Upsweep 5°, Backsweep 9°, largeur de 780 mm",
+      "poignées": "Rockrider Ergo lock on",
+      "potence": "Rockrider aluminium, 31,8 mm, 0°, longueur de 55 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 564,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1175,
+      "stack (mm)": 610,
+      "reach (mm)": 425,
+      "débattement tige de selle (mm)": 120
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1204,
+      "stack (mm)": 619,
+      "reach (mm)": 450,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1233,
+      "stack (mm)": 628,
+      "reach (mm)": 475,
+      "débattement tige de selle (mm)": 170
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1262,
+      "stack (mm)": 637,
+      "reach (mm)": 500,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

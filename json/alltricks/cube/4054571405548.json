@@ -1,0 +1,53 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2516348",
+  "tailles": [
+    "L / 186-194 cm",
+    "S / 174-182 cm",
+    "18 Pouces / 175-185 cm"
+  ],
+  "name": "VTT CUBE AMS ZERO99 C:68X Race 29 silver´n´black",
+  "marque": "Cube",
+  "description": "Déscription\tLe podium vient de se rapprocher. Avec son cadre en carbone C:68X® de première qualité et ses composants soigneusement sélectionnés, l'AMS ZERO99 C:68X Race 29 établit de nouvelles normes en matière de vitesse en cross-country. Il est équipé d'une fourche Fox 32 Float et d'un amortisseur Fox DPS Performance Elite, présentant tous les deux un système de blocage au guidon. Nous avons sélectionné une transmission Shimano XT 1x12 vitesses pour son incroyable fiabilité. Ensuite, nous avons ajouté des freins à disque hydrauliques Shimano XT pour faire bonne mesure. Enfin, pour couronner le tout, il est équipé d'un poste de pilotage en carbone Newmen et d'une selle en carbone Natural Fit. Vous avez là tout ce dont vous avez besoin pour décrocher la victoire.Texte Succinct\tCe qui est rapide est léger, ce qui est rapide est efficace. L'AMS ZERO99 Race 29 est rapide. Très rapide.Détails\tCe qui est rapide est léger, ce qui est rapide est efficace. Le cadre du tout nouvel AMS ZERO99 C:68X Race 29 a été développé à partir de notre carbone de haute qualité et réalise l'exploit de ne peser que 1600 g environ. Mais il n'est pas question que de légèreté. Ses bases arrières présentent suffisamment de débattement pour des pneus de 2,25 pouces et permettent un transfert de puissance optimal. Ses tubes plus minces offrent un plus grand confort. Il dispose des inserts pour ajuster précisément l'angle de direction. Enfin, avec ses 100 mm de débattement à l'avant et à l'arrière, et une géométrie pensée pour le dynamisme et la vitesse, vous avez tout ce dont vous avez besoin pour prendre la tête du peloton.Cadre\tC:68X® Monocoque Advanced Twin Mold Technology, FSP 4-Link, Boost 148, UDH™Couleur\tsilver´n´blackTaille\t29: S, M, L, XLHeadline\tTHE MOSTUNCOMPROMISING RACE FULL-SUSSER EVERSocialMedia Text\tLes courses ne se gagnent pas toutes seules, mais le bon outil facilite la victoire. Avec sa construction en carbone C:68X® de première qualité, sa géométrie conçue pour un plus grand dynamisme et une allure plus élevée, et ses composants soigneusement sélectionnés, l'AMS ZERO99 C:68X Race 29 va vous permettre de jouer les premiers rôles.Frame Material\tC:68X®Frame Weight\t1600 gAmortisseur\tFox Float DPS Performance Elite Remote, 190x40mm, 2-Position RemoteEntretoises D'amortisseur\tFront: 26x8mm, Rear: 30x8mmFourche Suspendue\tFox 32 SC Float Performance, 2-Position Remote, Tapered, 15x110mm, 100mmCintre\tNewmen Advanced 318.0, Carbon, 740mmPoignées\tACID React ProDérailleur Arrière\tShimano XT RD-M8100-SGS, ShadowPlus, 12-SpeedLeviers\tShimano XT SL-M8100-IR, Direct AttachFrein\tShimano XT BR-M8100, Hydr. Disc Brake (180/160)Plateau\tShimano XT FC-M8100, Boost, 32TCassette\tShimano XT CS-M8100, 10-51TChaîne\tShimano CN-M6100Jeu De Pédalier\tShimano BB-MT500PA, 92mm PressfitRoues\tNewmen Evolution SL X.A.25, 28/28 Spokes, 15x110mm/12x148mm, Tubeless ReadyPneu Avant\tSchwalbe Racing Ray, Super Race, Addix Speed, Kevlar, 2.25Pneu Arrière\tSchwalbe Racing Ralph, Super Race, Addix Speed, Kevlar, 2.25Selle\tNatural Fit Nuance SLT CarbonTige De Selle\tNewmen Advanced, Carbon, 30.9mmPotence\tNewmen Evolution SL 318.2, 31.8mmPoids\t10,7 kgPoids Maximum En Charge\t115 kgMontage à 80% du véloMarquage antivol compris",
+  "image": "https://product-cdn-frz.alltricks.com/medium/348/516348/2516348/4952485",
+  "mpn": "652100S",
+  "gtin13": "4054571405548",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 186-194 cm",
+      "stock": 1,
+      "prix": 4999,
+      "sku": "2516349",
+      "gtin13": "4054571405562",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2586512-vtt_cube_ams_zero99_c_68x_race_29_silver__n__black"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 174-182 cm",
+      "stock": 5,
+      "prix": 3799.99,
+      "mpn": "652100S",
+      "sku": "2575601",
+      "gtin13": "4054571405548",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2586512-vtt_cube_ams_zero99_c_68x_race_29_silver__n__black"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "18 Pouces / 175-185 cm",
+      "stock": 1,
+      "prix": 4999,
+      "mpn": "",
+      "sku": "2530084",
+      "gtin13": "4054571405555",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2586512-vtt_cube_ams_zero99_c_68x_race_29_silver__n__black"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "matière du cadre": "Carbone",
+    "groupe": "N.C."
+  },
+  "caracteristiques": {}
+}

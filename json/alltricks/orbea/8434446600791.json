@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2725370",
+  "tailles": [
+    "S / 150-170 cm",
+    "M / 160-180 cm",
+    "L / 170-190 cm",
+    "XL / 180-200 cm"
+  ],
+  "name": "VTT Tout-Suspendu Orbea Rallon M20 Shimano SLX 12V 29'' Vert Forest Carbon View 2024",
+  "marque": "Orbea",
+  "description": "Les courses d'Enduro ont évolué et l'Orbea Rallon a évolué en conséquence. Plus long et plus ouvert que jamais, il a aussi plus de garde au sol pour offrir plus de choix en matière de taille de cadre. Le Rallon revient avec un tube supérieur plus bas pour s'adapter à des tiges télescopiques plus longues. Avec deux positions au niveau de l'amortisseur et deux choix de taille de roue arrière (29\" ou 27.5\"), ce vélo se veut plus modulable que jamais.\r\n\r\nAvec son tube de selle raide et son insertion profonde, le Rallon possède l'une des positions les plus basses du marché. Vous profitez ainsi d’une grande liberté quant au choix de votre tige de selle à long débattement. Pour éviter que la selle ne vous gêne dans les pentes raides et abruptes, les tiges de selles à long débattement sont la seule solution. La cinématique de suspension entièrement repensée permet d'obtenir une courbe plus progressive qui, associée au débattement arrière de 167 mm, devient difficile à battre : rapidité et agilité dans les courbes, contrôle et traction dans le dur. Ajoutez-y la grosse fourche Fox 38 et le Rallon est prêt à vous suivre dans toutes vos folies.\r\n\r\nIl a été forgé sur les courses d'Enduro et il est le choix évident de l'équipe d'Enduro d'Orbea. Mais la vitesse, c'est aussi du plaisir pur et de l'intrépidité, des virées entre amis aux journées entières au Bikepark à passer les plus gros gaps et écraser les bermes. Oubliez les limites, oubliez les distractions, concentrez-vous sur la vitesse.\r\n\r\nLe Rallon adore les défis. Avec ses 167 mm de débattement arrière axés descente, il trouve du grip dans les passages les plus compliqués, survole les pierriers et avale les plus gros drops sans aucune hésitation. Tout cela en restant efficace en montée et en relançant telle une fusée en sortie de courbe. Le Rallon est disponible en quatre tailles (S, M, L et XL), mais avec une mesure de tube de selle dans les plus courtes du marché, vous avez la liberté de choisir entre plusieurs tailles pour obtenir votre reach préféré. Il est conçu pour fonctionner avec une tige de selle télescopique à long débattement ; choisissez donc une taille plus grande pour maximiser la stabilité, ou optez pour une taille plus petite pour un Rallon plus ludique.\r\n\r\nLes cadres Orbea Monocoque Race (OMR) ajoutent des fibres à haut module et à haute résistance aux configurations standard pour optimiser les rapports rigidité/poids. Le moulage des composants avec des mousses EPS et des inserts en PU pour le tube de direction et le boitier de pédalier élimine les plis et les arêtes dans des zones critiques, ce qui permet d'utiliser moins de carbone sans aucun compromis en termes de durabilité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/370/725370/2725370/5492593",
+  "mpn": "R27107PB",
+  "gtin13": "8434446600791",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-180 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "R27105PB",
+      "sku": "2625741",
+      "gtin13": "8434446600777",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2851061-vtt_tout_suspendu_orbea_rallon_m20_shimano_slx_12v_29___vert_forest_carbon_view_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-190 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "R27107PB",
+      "sku": "2625757",
+      "gtin13": "8434446600791",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2851061-vtt_tout_suspendu_orbea_rallon_m20_shimano_slx_12v_29___vert_forest_carbon_view_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "PB - Forest Green Carbon View (Matt-Gloss) - Blue Stone (Gloss)"
+    }
+  ],
+  "informations": {
+    "genre": "HommeFemme",
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Orbea Monocoque Race (OMR) Carbon, Advanced Dynamics 167 mm suspension technology, 29\" wheels, Concentric Boost 12x148 mm rear axle, Pure Enduro geometry, Internal cable routing, ISCG05, 167 mm travel",
+      "fourche": "Fox 38 Float Performance, Grip 3-Position, QR15x110 mm, 170 mm travel",
+      "amortisseur": "Fox Float X Performance 2-Position Evol LV custom tune 230x62.5 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX M7100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX M7100 SGS, Shadow RD+, 12-vitesses",
+      "cassette": "Shimano SLX CS-M7100-12, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Race Face Aeffect, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore BR-M6120, Hydr. Disc Brake",
+      "selle": "Ergon SM Enduro",
+      "tige de selle": "OC Mountain Control MC21, 31.6 mm Dropper / Shimano SL-MT500-IL I-Spec EV Remote"
+    },
+    "roues": {
+      "jantes": "Race Face AR 30c, Tubeless Ready, 29\"",
+      "pneu avant": " Maxxis Assegai, FB, 120 TPI, 3C Maxx Terra, EXO+, TR, 29x2.50\" WT ",
+      "pneu arrière": " Maxxis Minion DHR II, FB, 120 TPI, 3C Maxx Terra, Exo+, TR, 29x2.40\" WT"
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC30, Rise 20 mm, Width 800 mm",
+      "potence": "Alloy 3D forged, 35 mm interface, -7º",
+      "jeu de direction": "Acros Alloy 1-1/8 - 1-1/2\" Integrated"
+    },
+    "référence": "R271"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 573,
+      "longueur base* (mm)": "440 / 442",
+      "douille de direction (mm)": 90,
+      "angle de direction* (°)": "64 / 63.5",
+      "angle tube de selle* (°)": "77.5 / 77",
+      "empattement (mm)": 1202,
+      "stack* (mm)": "619 / 623",
+      "reach* (mm)": "435 / 430"
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 600,
+      "longueur base* (mm)": "440 / 442",
+      "douille de direction (mm)": 100,
+      "angle de direction* (°)": "64 / 63.5",
+      "angle tube de selle* (°)": "77.5 / 77",
+      "empattement (mm)": 1231,
+      "stack* (mm)": "628 / 632",
+      "reach* (mm)": "460 / 455"
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 627,
+      "longueur base* (mm)": "440 / 442",
+      "douille de direction (mm)": 110,
+      "angle de direction* (°)": "64 / 63.5",
+      "angle tube de selle* (°)": "77.5 / 77",
+      "empattement (mm)": 1260,
+      "stack* (mm)": "637 / 641",
+      "reach* (mm)": "485 / 480"
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 655,
+      "longueur base* (mm)": "440 / 442",
+      "douille de direction (mm)": 120,
+      "angle de direction* (°)": "64 / 63.5",
+      "angle tube de selle* (°)": "77.5 / 77",
+      "empattement (mm)": 1290,
+      "stack* (mm)": "646 / 651",
+      "reach* (mm)": "510 / 505"
+    }
+  ]
+}

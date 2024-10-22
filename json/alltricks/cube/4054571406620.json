@@ -1,0 +1,168 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2494828",
+  "tailles": [
+    "M / 169-178 cm",
+    "L / 177-186 cm",
+    "XL / 185-197 cm",
+    "XXL / 196-203 cm"
+  ],
+  "name": "VTT Tout-Suspendu Cube Stereo One77 Race Shimano XT 12V 29'' Bleu Bondi 2023",
+  "marque": "Cube",
+  "description": "Grandes roues, grand débattement, grand plaisir. Le cadre du Cube Stereo One77 s’appuie sur le design de suspension en parallélogramme et l'Agile Trail Geometry de chez Cube pour des performances de suspension tout à fait exceptionnelles et un pilotage réactif sur une très large variété de terrains. Avec son Flip-Chip et ses deux points de fixation pour un amortisseur pneumatique ou à ressort, son réglage de suspension arrière a été conçu pour être progressif, et il dispose des inserts de réglage d'angle afin que vous puissiez peaufiner la géométrie selon vos préférences personnelles. Ses roulements dissimulés, son passage interne de câbles et son boîtier de pédalier fileté vous permettent de passer plus de temps à vous éclater qu’à entretenir votre vélo. En résumé, ce modèle redéfinit ce qu’un vélo à grandes roues et grand débattement est en mesure de faire.\r\n\r\nDes personnes vous ont dit qu’on ne peut pas tout avoir ? Elles n’ont très certainement jamais vu le Cube Stereo One77 Race. Sa précision de pilotage et sa capacité d’absorption des irrégularités du terrain trouvent leur origine dans une fourche RockShox Zeb Ultimate et un amortisseur Super Deluxe Ultimate aussi souples que précis. L’efficacité de son système de suspension s’accompagne d’une transmission Shimano XT 12 vitesses et d’un pédalier Race Face Turbine des plus fiables. Ses freins à disque hydrauliques Shimano XT correspondants et ses roues Newmen Evolution, chaussées de pneus Maxxis Assegai et Minion DHR II, vous garantissent un contrôle de tous les instants. Enfin, il dispose également d’une tige de selle télescopique déportée afin que vous puissiez rappeler à la montagne que le patron, c’est vous.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/828/494828/2494828/4887217",
+  "mpn": "656200XXL",
+  "gtin13": "4054571406620",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 169-178 cm",
+      "stock": 3,
+      "prix": 3099.99,
+      "mpn": "656200M",
+      "sku": "2395800",
+      "gtin13": "4054571406590",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2560611-vtt_tout_suspendu_cube_stereo_one77_race_shimano_xt_12v_29___bleu_bondi_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-186 cm",
+      "stock": 2,
+      "prix": 3099.99,
+      "mpn": "656200L",
+      "sku": "2395799",
+      "gtin13": "4054571406606",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2560611-vtt_tout_suspendu_cube_stereo_one77_race_shimano_xt_12v_29___bleu_bondi_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-197 cm",
+      "stock": 1,
+      "prix": 3099.99,
+      "mpn": "656200XL",
+      "sku": "2395745",
+      "gtin13": "4054571406613",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2560611-vtt_tout_suspendu_cube_stereo_one77_race_shimano_xt_12v_29___bleu_bondi_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XXL / 196-203 cm",
+      "stock": 5,
+      "prix": 3099.99,
+      "mpn": "656200XXL",
+      "sku": "2395844",
+      "gtin13": "4054571406620",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2560611-vtt_tout_suspendu_cube_stereo_one77_race_shimano_xt_12v_29___bleu_bondi_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "bondiblue´n´grey"
+    }
+  ],
+  "informations": {
+    "poids": "15.6 kg",
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : HPA Advanced Hydroform, ATG, ETC 4-Link, Air/Coil Shock Mount Flip-Chip, ISCG Mount, AXH, 170 mm travel",
+      "fourche": "RockShox ZEB Ultimate RC2, Tapered, Boost 15x110 mm, 170 mm travel",
+      "amortisseur": "RockShox Super Deluxe Ultimate, 230x65 mm, Rebound & Low Speed Compression Adjust w/ 2- Pos. Lever / Entretoises d'amortisseur : 40x8 mm (Haut), 28x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT SL-M8100-IR, Direct Attach, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano XT CS-M8100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Race Face Turbine, 170 mm, 30 Dents"
+    },
+    "guide-chaîne": "MRP SXg Chain Guide",
+    "équipements": {
+      "freins": "Shimano XT BR-M8120, Hydr. Disc Brake, (203/180)",
+      "selle": "SDG Bel Air V3 Lux Alloy",
+      "tige de selle": "Cube Dropper Post, Handlebar Lever, Internal Cable Routing, 31.6 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Evolution SL A.30, 28/28 Spokes, Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneus": "Avant : Maxxis Assegai, MaxxGrip/EXO+, Tubeless Ready, 29x2.5\" WT / Arrière : Maxxis Minion DHR II, MaxxTerra/EXO+, Tubeless Ready, 29x2.4\" WT"
+    },
+    "direction": {
+      "cintre": "Race Face Turbine R 35, 800 mm",
+      "poignées": "SDG Thrice",
+      "potence": "Race Face Turbine R 35",
+      "jeu de direction": "Acros Integrated, Top 1 1/8\", Bottom 1 1/2\", Fiber Inserts for Angle Adjustment"
+    },
+    "référence": 656200
+  },
+  "geometries": [
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "583 / 585",
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 103,
+      "angle de direction* (°)": "63.8 / 64.4",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1223 / 1216",
+      "stack* (mm)": "626 / 627",
+      "reach* (mm)": "446 / 444",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "604 / 605",
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 105,
+      "angle de direction* (°)": "63.8 / 64.4",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1244 / 1236",
+      "stack* (mm)": "627 / 629",
+      "reach* (mm)": "466 / 464",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "627 / 629",
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 115,
+      "angle de direction* (°)": "63.8 / 64.4",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1268 / 1261",
+      "stack* (mm)": "636 / 638",
+      "reach* (mm)": "486 / 484",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "655 / 656",
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 135,
+      "angle de direction* (°)": "63.8 / 64.4",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1297 / 1289",
+      "stack* (mm)": "656 / 658",
+      "reach* (mm)": "506 / 504",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

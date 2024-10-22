@@ -1,0 +1,113 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2460814",
+  "tailles": [
+    "M / 168-178 cm",
+    "L / 176-186 cm",
+    "XL / 184-196 cm"
+  ],
+  "name": "VTT Tout-Suspendu Cube Two15 Pro 27.5 Sram GX DH 7V 27.5'' Gris 2023",
+  "marque": "Cube",
+  "description": "Aussi élégant, dynamique et progressif soit-il, le Cube Two15 est une machine de descente redoutable. Les ingénieurs de la marque lui ont offert une plus grande portée, un culbuteur plus court, un passage de roue optimisé et un angle de direction un peu plus creux avec jeu de direction intégré. Sa base arrière et ses protections de tube diagonal sont désormais plus longues. Ils lui ont même incorporé une butée de fourche au niveau des passages internes de câbles. Enfin, son dynamisme et sa cinématique progressive lui confèrent ce petit plus qui fera de vous le roi de la descente.\r\n\r\nLe Cube Two15 Pro 27.5 réécrit les lois de la gravité. En plus de sa fourche à double couronnes X-Fusion RV-1 HLR présentant 200 mm de débattement pour un contrôle et un pilotage ultimes, ce rouleau compresseur est également équipé de l'amortisseur H3-C HLR à l’arrière. Sa paire de roues Answer ATAC DH robuste et rigide et ses puissants freins à disque hydrauliques Magura MT Thirty se combinent pour vous aider à garder vos roues en parfait contact avec le sol, quand vous le souhaitez. Enfin, sa transmission Sram GX DH 7-vitesses transfère efficacement votre puissance sur les chemins avec des changements de vitesse fiables et une profondeur de braquets parfaitement adaptés.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/814/460814/2460814/4711486",
+  "mpn": "658100XL",
+  "gtin13": "4054571406774",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 184-196 cm",
+      "stock": 2,
+      "prix": 2599.99,
+      "mpn": "658100XL",
+      "sku": "2396046",
+      "gtin13": "4054571406774",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2504412-vtt_tout_suspendu_cube_two15_pro_27_5_sram_gx_dh_7v_27_5___gris_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "grey´n´black"
+    }
+  ],
+  "informations": {
+    "poids": "17.4 kg",
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX DH 7V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : HPA Ultralight, Advanced Hydroform, Triple Butted, Carbon Rocker Arm, ETC 4-Link, ISCG Mount, 200 mm travel",
+      "fourche": "X-Fusion RV1 DH, 20x110 mm, High and Low Speed Compression, Rebound, 200 mm travel",
+      "amortisseur": "X-Fusion H3-C DH, 250x75 mm, High & Low Speed Compression, Rebound / Entretoises d'amortisseur : 30x8 mm (Haut), 20x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Trigger, 1x7-vitesses",
+      "dérailleur arrière": "Sram GX DH, 7-vitesses",
+      "cassette": "Sram PG-720, 11-25 Dents",
+      "chaîne": "Sram PC-1110",
+      "pédalier": "Race Face Atlas, 165 mm, 34 Dents"
+    },
+    "guide-chaîne": "MRP SXg Chain Guide",
+    "équipements": {
+      "freins": "Magura MT Thirty, Hydr. Disc Brake, (203/203), Front 4-Piston/Rear 4-Piston",
+      "selle": "Natural Fit Venec Lite",
+      "tige de selle": "Cube Performance Post, 31.6 mm"
+    },
+    "roues": {
+      "jantes": "Answer Atac DH TR29, 20x110/12x157 mm, Tubeless Ready",
+      "pneu avant": " Schwalbe Magic Mary, Bikepark, Addix Performance, 27.5x2.4\" ",
+      "pneu arrière": " Schwalbe Big Betty, Bikepark, Addix Performance, 27.5x2.4\""
+    },
+    "direction": {
+      "cintre": "Race Face Chester 35, 780 mm",
+      "poignées": "SDG Thrice",
+      "potence": "Race Face Chester 35, Direct Mount",
+      "jeu de direction": "Acros Integrated, Top & Bottom 1 1/8\", Fiber Inserts for Angle Adjustment"
+    },
+    "référence": 658100
+  },
+  "geometries": [
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 380,
+      "tube supérieur* (mm)": "545 / 546",
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 124,
+      "angle de direction* (°)": "62.5 / 63",
+      "angle tube de selle* (°)": "78.5 / 78.3",
+      "empattement* (mm)": "1242 / 1235",
+      "stack* (mm)": "618 / 620",
+      "reach* (mm)": "436 / 435"
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 400,
+      "tube supérieur* (mm)": "565 / 566",
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 124,
+      "angle de direction* (°)": "62.5 / 63",
+      "angle tube de selle* (°)": "78.5 / 78.3",
+      "empattement* (mm)": "1262 / 1255",
+      "stack* (mm)": "618 / 620",
+      "reach* (mm)": "456 / 455"
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 400,
+      "tube supérieur* (mm)": "585 / 586",
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 124,
+      "angle de direction* (°)": "62.5 / 63",
+      "angle tube de selle* (°)": "78.5 / 78.3",
+      "empattement* (mm)": "1282 / 1275",
+      "stack* (mm)": "618 / 620",
+      "reach* (mm)": "476 / 475"
+    }
+  ]
+}

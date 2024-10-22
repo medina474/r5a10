@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2664262",
+  "tailles": [
+    "S / 150-170 cm",
+    "M / 160-180 cm",
+    "L / 170-190 cm",
+    "XL / 180-200 cm"
+  ],
+  "name": "VTT Tout-Suspendu Orbea Occam SL H20 Sram GX/NX Eagle 12V 29'' Jaune Spicy Lime 2024",
+  "marque": "Orbea",
+  "description": "Peu importe où l’aventure vous mène, l'Orbea Occam SL est prêt à vous accompagner. À la fois léger et robuste, ce vélo est taillé pour la vitesse. Alors, déclenchez les chronos, ajoutez-y du flow, car l’Occam SL ne demande qu'une chose : rouler.\r\n\r\nPourquoi choisir un vélo de Trail plutôt qu'une machine de XC pure ? L'Occam SL vous répondrait : le plaisir. Un mélange parfait d’efficacité en montée et d’agilité en descente. Léger et posé, voici un vélo qui inspire la confiance tout en ajoutant du flow à toutes vos sorties. Grâce à la technologie Fast Trail, le réglage de l'anti-squat, soit le comportement de la suspension lors du pédalage, permet une grande efficacité de propulsion et est l'une des raisons pour lesquelles l'Occam SL grimpe si bien.\r\n\r\nAvec ses nombreuses fonctionnalités, l'Occam SL est prêt pour vos plus grandes aventures. Grâce au tube de selle raide et ininterrompu de l’Occam, tous les cyclistes devraient pouvoir insérer entièrement une tige de selle télescopique de 230 mm. Il est ainsi possible de baisser complétement la selle en descente afin de gagner en liberté de mouvement au-dessus du vélo et d’améliorer le contrôle. Pour cela, les tiges télescopiques à grand débattement sont votre meilleure solution !\r\n\r\nSi l'Occam est disponible en quatre tailles (S, M, L et XL), son design Steep'n'Deep associé à l'un des tubes de selle les plus courts du marché signifie que plusieurs tailles peuvent convenir selon les préférences de portée personnelles. Optez pour une taille de cadre plus grande pour maximiser la stabilité ou pour un cadre plus petit pour un Occam plus ludique.\r\n\r\nL'utilisation de technologies d'aluminium aussi avancées que les procédés de travail du carbone garantit que les vélos en aluminium de chez Orbea ne sont jamais de seconde qualité. Pour les vététistes qui préfèrent un cadre alu, l'option High Polished Alloy est tout simplement l'un des meilleurs cadres en aluminium disponibles sur le marché, avec un aspect carbone en prime.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/262/664262/2664262/5361136",
+  "mpn": "R25605P2",
+  "gtin13": "8434446642968",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-180 cm",
+      "stock": 1,
+      "prix": 2699.99,
+      "mpn": "R25605P2",
+      "sku": "2626196",
+      "gtin13": "8434446642968",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2784276-vtt_tout_suspendu_orbea_occam_sl_h20_sram_gx_nx_eagle_12v_29___jaune_spicy_lime_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-190 cm",
+      "stock": 1,
+      "prix": 2699.99,
+      "mpn": "R25607P2",
+      "sku": "2626213",
+      "gtin13": "8434446642999",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2784276-vtt_tout_suspendu_orbea_occam_sl_h20_sram_gx_nx_eagle_12v_29___jaune_spicy_lime_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-200 cm",
+      "stock": 2,
+      "prix": 2757.99,
+      "mpn": "R25609P2",
+      "sku": "2626365",
+      "gtin13": "8434446643026",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2784276-vtt_tout_suspendu_orbea_occam_sl_h20_sram_gx_nx_eagle_12v_29___jaune_spicy_lime_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "P2 - Spicy Lime - Corn Yellow (Gloss)"
+    }
+  ],
+  "informations": {
+    "genre": "FemmeHomme",
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX/NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Occam Hydro, Concentric Boost 12x148 mm rear axle, Pure Trail geometry, Internal cable routing, Asymmetric design, 29\" wheels, Linkage compatible with OC multitool, 140 mm travel",
+      "fourche": "Fox 34 Float Performance, Remote Push-lock, QR15x110 mm, 140 mm travel",
+      "amortisseur": "Fox Float Performance, Remote Push-lock, Evol, custom tune, 210x50 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12-vitesses",
+      "cassette": "Sram Eagle PG-1230, 11-50 Dents",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Truvativ Descendant 6K, DUB, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6100, Hydr. Disc Brake",
+      "selle": "Fizik Terra Ridon X5, 145 mm",
+      "tige de selle": "OC Mountain Control MC21, 31.6 mm, Dropper / OC Squidlock MC20 Remote, Dropper, Suspension 2 Pos"
+    },
+    "roues": {
+      "jantes": "Race Face AR, 30c, Tubeless Ready",
+      "pneu avant": " Maxxis Dissector, 60 TPI, 3C MaxxTerra, Exo, TLR, 29x2.40\" ",
+      "pneu arrière": " Maxxis Rekon, FB, 60 TPI, Dual, Exo, TR, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC30, Rise 20 mm, Width 800 mm",
+      "potence": "OC Mountain Control MC20, 0º",
+      "jeu de direction": "FSA 1-1/2\" Integrated Aluminium Cup"
+    },
+    "référence": "R256"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1191,
+      "stack (mm)": 611,
+      "reach (mm)": 440,
+      "longueur potence (mm)": 35,
+      "longueur manivelles (mm)": 165,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 596,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1218,
+      "stack (mm)": 615,
+      "reach (mm)": 465,
+      "longueur potence (mm)": 40,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 170
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1245,
+      "stack (mm)": 624,
+      "reach (mm)": 490,
+      "longueur potence (mm)": 40,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 170
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 78,
+      "empattement (mm)": 1276,
+      "stack (mm)": 633,
+      "reach (mm)": 515,
+      "longueur potence (mm)": 50,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 550,
+      "débattement tige de selle (mm)": 200
+    }
+  ]
+}

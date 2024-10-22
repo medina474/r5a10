@@ -36,5 +36,7 @@ create extension if not exists postgis schema postgis;
 
 create extension ltree schema public;
 create extension pg_idkit schema ext;
+create extension vector schema ext;
+create extension fuzzystrmatch schema ext;
 
 \dx

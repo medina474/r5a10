@@ -21,17 +21,18 @@ create table products (
   unit_price decimal(8,2),
   code_barre text,
   discontinued integer not null,
-  properties JSONB
+  properties JSONB,
+  nutriments ext.vector(3)
 );
 
 create table stocks (
   product_id integer not null,
-  qte_mini as integer,
-  qte_maxi as integer,
+  qte_mini integer,
+  qte_maxi integer,
   qte integer,
   qte_commandee integer,
-  qte_reservee integer,
-)
+  qte_reservee integer
+);
 
 
 create table order_details (

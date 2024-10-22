@@ -23,13 +23,16 @@ grant usage on schema public to role_web;
 alter default privileges in schema public grant select on tables to role_web;
 
 -- Schémas
+create schema extensions;
 create schema geo;
 create schema biblio;
 create schema aviation;
 create schema fake;
+create schema musique;
+create schema cinema;
 
 -- PostGIS
 create schema postgis;
 create extension if not exists postgis schema postgis;
 
-create extension ltree;
+create extension ltree schema extensions;

@@ -49,3 +49,16 @@ a as (select annee, sexe from fake_annee($2, $3)),
 nom as (select fake_nom($1))
 select fake_nom, annee, sexe from a, nom
 $$ LANGUAGE sql;
+
+
+create trigger cinema.trigger_vote_insert
+  after insert
+  on cinema.votes
+  for each row
+  execute function vote_calcul();
+
+create trigger cinema.trigger_vote_update
+  after update
+  on cinema.votes
+  for each row
+  execute function vote_calcul();

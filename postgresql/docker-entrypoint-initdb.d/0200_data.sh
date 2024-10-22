@@ -134,8 +134,8 @@ wget $host/cinema/films_slogan.csv
 wget $host/cinema/films.csv
 wget $host/cinema/franchises.csv
 wget $host/cinema/genres.csv
-wget $host/cinema/link_films.csv
-wget $host/cinema/link_personnes.csv
+wget $host/cinema/links_films.csv
+wget $host/cinema/links_personnes.csv
 wget $host/cinema/motscles.csv
 wget $host/cinema/personnes.csv
 wget $host/cinema/resumes.csv

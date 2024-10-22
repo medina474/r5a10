@@ -78,9 +78,9 @@ create temporary table villes_tmp (
 \copy villes_tmp from '/docker-entrypoint-data.d/geo/v_commune_2023.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 insert into regions (region_code, hierarchie, region, francais, administration)
-select 'FR-'||code_commune, (hierarchie::text || '.FR-'||code_commune)::extensions.ltree, nom, libelle, 15
+select 'FR-'||code_commune, (hierarchie::text || '.FR-'||code_commune)::ext.ltree, nom, libelle, 15
 from villes_tmp, regions
-where hierarchie ~ ('*.'||'FR-'||code_departement)::extensions.lquery;
+where hierarchie ~ ('*.'||'FR-'||code_departement)::ext.lquery;
 
 drop table villes_tmp;
 

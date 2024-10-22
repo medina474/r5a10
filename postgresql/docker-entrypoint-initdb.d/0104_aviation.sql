@@ -14,6 +14,14 @@ create table aviation.aeroports (
   coordonnees postgis.geometry(Point, 4326) default null::postgis.geometry
 );
 
+CREATE TABLE aviation.compagnies (
+  icao_code text,
+  iata_code text not null,
+  nom text,
+  callsign text
+);
+
+
 create table aviation.appareils (
   type text,
   msn text,

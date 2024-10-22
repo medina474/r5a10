@@ -41,13 +41,13 @@ comment on column geo.regions.region_code
 
 -- langues
 
-create table langues (
+create table geo.langues (
   code3 char(3) not null,
   langue character varying(20) default null,
   francais character varying(20) default null
 );
 
-create table pays_langues (
+create table geo.pays_langues (
   pays_code text not null,
   langue_code char(3) not null,
   officiel boolean default false,

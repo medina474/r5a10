@@ -1,7 +1,7 @@
 \c ventdest 
 
 -- pays_langues -> pays
-alter table only pays_langues
+alter table only geo.pays_langues
   add foreign key (pays_code)
   references pays (code2) match simple
   on update no action
@@ -9,9 +9,9 @@ alter table only pays_langues
   not valid;
 
 -- pays_langues -> langues
-alter table only pays_langues
+alter table only geo.pays_langues
   add foreign key (langue_code)
-  references langues (code3) match simple
+  references geo.langues (code3) match simple
   on update no action
   on delete no action
   not valid;

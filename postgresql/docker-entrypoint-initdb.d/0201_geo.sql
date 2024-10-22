@@ -21,8 +21,8 @@ update pays set nom_eng = 'Taiwan' where code2 = 'tw';
 
 drop table pays_tmp;
 
-\copy langues from '/docker-entrypoint-data.d/geo/langues.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy pays_langues from '/docker-entrypoint-data.d/geo/pays_langues.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.langues from '/docker-entrypoint-data.d/geo/langues.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.pays_langues from '/docker-entrypoint-data.d/geo/pays_langues.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 \copy devises from '/docker-entrypoint-data.d/geo/devises.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy pays_devises from '/docker-entrypoint-data.d/geo/pays_devises.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');

@@ -6,10 +6,10 @@ alter table pays
 alter table geo.regions
   add primary key (region_code);
 
-alter table langues
+alter table geo.langues
   add primary key (code3);
 
-alter table pays_langues
+alter table geo.pays_langues
   add primary key (pays_code, langue_code);
 
 alter table devises

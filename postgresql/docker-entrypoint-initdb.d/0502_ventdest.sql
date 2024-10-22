@@ -56,3 +56,7 @@ alter table only banques
 alter table only tiers
   add foreign key (adresse_id)
   references adresses (adresse_id);
+
+alter table only additifs
+  add foreign key (agent_id)
+  references agents;

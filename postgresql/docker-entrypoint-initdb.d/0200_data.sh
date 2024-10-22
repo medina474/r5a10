@@ -84,7 +84,6 @@ wget $host/biblio/editions.csv
 wget $host/biblio/incorpore.csv
 
 wget $host/biblio/adresses.csv
-wget $host/biblio/livraison_methode.csv
 
 
 # Vent d'Est
@@ -95,12 +94,19 @@ wget $host/ventdest/marques.csv
 wget $host/ventdest/categories.csv
 wget $host/ventdest/clients.csv
 wget $host/ventdest/fournisseurs.csv
-wget $host/ventdest/shippers.csv
 wget $host/ventdest/banques.csv
 wget $host/ventdest/products.csv
 wget $host/ventdest/orders.csv
 wget $host/ventdest/marques.csv
 wget $host/ventdest/order_details.csv
+
+wget $host/ventdest/additifs.csv
+
+mkdir -p /docker-entrypoint-data.d/ventdest/livraison
+cd /docker-entrypoint-data.d/ventdest/livraison
+
+wget $host/ventdest/livraison/livraison_methode.csv
+wget $host/ventdest/livraison/shippers.csv
 
 mkdir -p /docker-entrypoint-data.d/ventdest/employes
 cd /docker-entrypoint-data.d/ventdest/employes

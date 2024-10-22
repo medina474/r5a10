@@ -1,135 +1,151 @@
 film_id,titre,titre_original,annee,sortie,duree,franchise_id,vote_votants,vote_moyenne,pays
-bd3c1f61-5679-4eeb-82e9-d3ccb5aeccad,Turbo Interceptor,The Wraith,,1986-10-01,,,423,6.38,
-a30ef938-c6cf-4d29-842b-f87d394f8149,Au-delà de nos rêves,What Dreams May Come,,1998-10-02,,,2266,7.19,
-5653afd4-5488-4c69-b5d4-7d713580c76a,Twister,Twister,,1996-05-10,,,3349,6.52,
-0e631343-0cf5-4b49-aa28-396c14ed904a,Vous avez un mess@ge,You've Got Mail,,1998-12-18,,,3214,6.69,
-d5ecdba9-c330-4d51-bddb-e86e65b9ec02,The Hours,The Hours,,2002-12-27,,,1675,7.28,
-7d62091a-6dbd-401b-bdb4-412eacbcae32,The Birdcage,The Birdcage,,1996-03-08,,,1123,7.02,
-3187f7b0-e912-4b02-9e4f-883b31174829,Pour le pire et pour le meilleur,As Good as It Gets,,1997-12-19,,,3714,7.40,
-cd2212eb-4aaa-43f6-9103-28f2d08350de,Les Remplaçants,The Replacements,,2000-08-11,,,940,6.65,
-0d526949-1d6e-44a6-b989-3e455745bf4a,Seul au monde,Cast Away,,2000-12-22,,,11235,7.67,
-e45a9e0d-c09e-4725-bf26-7b9114446417,Les Aventures de Flynn Carson : Le Mystère de la lance sacrée,The Librarian: Quest for the Spear,,2004-07-12,,,624,6.27,
-b1b7df84-ab7d-4392-96ae-4bd9d8c26962,Dark City,Dark City,,1998-02-27,,,2718,7.30,
-ff913913-b4db-41bc-b151-41451a7ee856,La neige tombait sur les cèdres,Snow Falling on Cedars,,1999-12-22,,,133,6.05,
-a316d49b-01b8-4dbb-aeea-de97d6325217,Speed Racer,Speed Racer,,2008-05-07,,,1525,6.28,
-9005b7cc-4c3e-438d-ac6f-3d54374d0fc7,Hoffa,Hoffa,,1992-12-25,,,309,6.20,
-1c52370e-d93b-4c30-8485-6191a84d00fd,"Frost / Nixon, l'heure de vérité",Frost/Nixon,,2008-10-15,,,1152,7.28,
-d298370e-8e76-4e80-ba6b-5a9c074f2774,Les Aventures de Flynn Carson : Le Secret de la coupe maudite,The Librarian: The Curse of the Judas Chalice,,2008-10-25,,,464,6.28,
-e464100e-3c7e-41b3-9ee4-3ceee21b1d7d,Apollo 13,Apollo 13,,1995-06-30,,,5325,7.45,
-cc93f3c6-6019-4b39-ae58-382cd70550fd,That Thing You Do!,That Thing You Do!,,1996-10-04,,,818,6.87,
-91c30c7d-dc20-4f68-a279-1ff77fa1b460,V pour Vendetta,V for Vendetta,,2006-02-23,,,14313,7.90,
-a0a4211a-76f4-40da-a568-102edef43f6d,La Ligne verte,The Green Mile,,1999-12-10,,,17245,8.50,
-16f8c000-5039-4259-8e78-48b47002cae2,Da Vinci Code,The Da Vinci Code,,2006-05-17,,,9195,6.73,
-eb6ac955-692f-45cf-9f2a-8feb19c7ee74,Tout peut arriver,Something's Gotta Give,,2003-12-12,,,1549,6.60,
-af41e643-8503-4956-99ba-82e2beadec12,Rescue Dawn,Rescue Dawn,,2006-09-09,,,1228,6.95,
-9b7b2e57-c43e-4a9d-9206-86ab833197da,La Guerre selon Charlie Wilson,Charlie Wilson's War,,2007-12-19,,,1447,6.54,
-42fbbf77-9d4f-4517-873d-085b7ba58261,Ninja Assassin,Ninja Assassin,,2009-09-29,,,1524,6.64,
-b26dcd80-29b6-4f85-96ce-cfcd9b22cd93,Cloud Atlas,Cloud Atlas,,2012-10-26,,,6982,6.89,
-1c8bda53-208b-4861-a865-feb686a3005d,Les Aventures de Flynn Carson : Le Trésor du roi Salomon,The Librarian: Return to King Solomon's Mines,,2006-09-09,,,563,6.25,
-5b4e9649-11aa-40a6-88f4-387e29257dfe,École paternelle,Daddy Day Care,,2003-05-09,,,2065,5.90,
-e2d13c8e-734a-485e-8bf0-2676ad55b8ce,Un indien à New York,Jungle 2 Jungle,,1997-03-04,,,457,5.27,
-ab9fbb4a-7edc-474b-80a3-f00792302c23,Joyeux Noël,Mixed Nuts,,1994-12-21,,,186,5.43,
-0961c5a8-09d1-4c1a-abc6-c3986d41b435,Incassable,Unbreakable,,2000-11-22,,,9149,7.14,
-0dbb85a3-3f21-4619-b77b-60fc45873fdd,Expendables 4,Expend4bles,,2023-09-15,,,1479,6.20,
-cbfa08b7-429f-4811-a6fa-7040a81a001a,Expendables 2 : Unité spéciale,The Expendables 2,,2012-08-08,,,6640,6.35,
-bb6f41aa-05a2-4c30-a044-a29a4ba7594c,Expendables : Unité spéciale,The Expendables,,2010-08-03,,,7645,6.25,
-00fee661-504a-400e-a4be-302b6e19c07d,Expendables 3,The Expendables 3,,2014-08-07,,,4919,6.22,
-63a00eb1-4820-438b-b47a-056e02ddce75,"Shaft, les nuits rouges de Harlem",Shaft,,1971-06-25,,,10,2.85,
-d4c5c5c3-81ff-4e45-a394-2acb397cb595,Tigre et Dragon 2,"Crouching Tiger, Hidden Dragon: Sword of Destiny",,2016-02-18,,,619,6.12,
-44a55f7e-e20b-4bf1-92bc-863bc53552a7,Les Démons du maïs 2 : Le sacrifice final,Children of the Corn II: The Final Sacrifice,,1992-01-29,,,234,4.78,
-bf0e7b1e-101d-4136-94ba-0130f1b782f2,Virus,復活の日,,1980-06-26,,,52,6.40,
-744b75d1-2014-4129-bb6d-ea8faecf4781,The Human Tornado,The Human Tornado,,1976-10-02,,,45,5.90,
-d5ad39ec-e2f1-45e5-ab28-ea5432e54331,Shaolin Dolemite,Shaolin Dolemite,,1999-01-01,,,2,4.20,
-e615c20b-5f8c-48fb-99bd-48cc633246bd,Le Cobaye,The Lawnmower Man,,1992-03-05,,,705,5.57,
-927c47ee-80a4-44eb-a559-1357df366ee9,The Dolemite Explosion,The Dolemite Explosion,,2002-05-17,,,1,1.00,
-8992674b-7c50-480e-ad11-e3fedfd63842,Dolemite,Dolemite,,1975-04-26,,,113,5.80,
-c58ff765-a29c-4ec6-b8c1-bf8f2d5350cf,Les Démons du maïs,Children of the Corn,,1984-03-09,,,954,5.73,
-a8c04934-4434-4854-81b4-afcf4adbdf12,Ator l'invincible,Ator l'invincibile,,1982-10-07,,,79,4.00,
-6f2a8a13-ed30-4739-b7f7-e216d4ebcf7b,La voleuse de livres,The Book Thief,,2013-11-08,,,4239,7.50,
-4a8d011f-5de5-4e97-8dbc-e9d9d8645c9f,Little Miss Sunshine,Little Miss Sunshine,,2006-07-26,,,6915,7.69,
-86d5d814-a95a-4b54-9d1a-1c958a2bfff7,L'enfer des mandingos,Drum,,1976-07-30,,,16,5.20,
-868e9c58-52e7-40af-b093-154bee1ba3d3,Les Rescapés du futur,Futureworld,,1976-08-13,,,299,5.92,
-e4b1156c-e691-48b8-a4d2-1cefe7949114,Histoires de fantômes chinois 3,倩女幽魂III：道道道,,1991-07-18,,,81,6.30,
-2e395100-1aac-46ef-9b71-880167520688,Histoires de fantômes chinois,倩女幽魂,,1987-07-18,,,259,7.27,
-92cf4288-003d-4522-8c68-ce12317e1b50,Histoires de fantômes chinois 2,倩女幽魂II人間道,,1990-07-13,,,114,6.67,
-a6cc2428-c8ab-4812-8c01-0fefc0ee0b57,La Malédiction de la Panthère rose,Revenge of the Pink Panther,,1978-01-08,,,401,6.40,
-1bcfac02-be82-4210-83ca-fd58ea1f3f32,Le Continent des hommes-poissons,L'isola degli uomini pesce,,1979-01-18,,,66,5.60,
-72d118fc-06cf-48e4-88f9-b4b86cdd8b3d,La Nuit des morts-vivants,Night of the Living Dead,,1990-10-19,,,804,6.87,
-4f3048cc-1df7-4ea4-85c0-66e9945b225d,À la recherche de la Panthère Rose,Trail of the Pink Panther,,1982-12-03,,,256,5.20,
-85cba985-7779-4a5d-a1d3-d459e89c0ec1,L'Héritier de la Panthère Rose,Curse of the Pink Panther,,1983-08-12,,,168,4.70,
-03eb5f61-c25d-425f-b82c-88761b4fbee5,La Montagne du dieu cannibale,La montagna del dio cannibale,,1978-07-12,,,93,5.20,
-d893ef53-b77e-4474-bdb4-ac7359218f1a,L'infaillible inspecteur Clouseau,Inspector Clouseau,,1968-07-19,,,73,5.00,
-9426ff2d-fa39-4f4d-9068-b7e3112ff7d6,"Django, prépare ton cercueil !",Preparati la bara!,,1968-01-27,,,95,6.20,
-43143c2a-8110-4550-849e-e9a9ec0f8782,Vampiras: The Brides,Vampiras: The Brides,,2024-02-07,,,26,6.39,
-6092bfb2-6bc0-4732-b995-0dbbf52a7b97,Pauvres créatures,Poor Things,,2023-12-07,,,3580,7.79,
-fa5a2169-c6fc-44af-8252-219e23bdcdb7,Le Sang des héros,The Blood of Heroes,,1989-10-19,,,127,5.80,
-7af4c9aa-a570-4b8d-afc3-5606baa86b79,Atomic Cyborg,Vendetta dal futuro,,1986-03-26,,,73,5.40,
-1fb2ddb4-3bb8-4ada-a340-ac10e87d0e33,Mr Vampire et les démons de l’enfer,靈幻先生,,1987-12-17,,,32,7.09,
-816a73e4-1075-499b-bfe6-8b5218c6474b,Magic Cop,驅魔警察,,1990-11-01,,,24,6.69,
-dc56611f-168f-41f6-9db3-23d52c3d7ae6,Mr Vampire,殭屍先生,,1985-11-07,,,99,6.86,
-c023c116-38a4-49d9-ab2a-8832e64f8099,La fin de Mr Vampire,殭屍叔叔,,1988-12-22,,,22,7.09,
-33de851d-5d5b-4920-b52f-b15805135aca,Le retour de Mr Vampire,殭屍家族,,1986-08-15,,,30,6.13,
-196b418b-0bcb-416e-b844-0bdb6c4edfb5,M. Vampire 1992,新彊屍先生,,1992-08-08,,,20,6.15,
-5c20415c-eaa9-49a6-8f4d-22db416ffd81,Il était une fois en Chine 2 : La secte du lotus blanc,黃飛鴻之二 男兒當自強,,1992-04-16,,,233,7.14,
-c2f81363-614f-4cf7-84d7-adabea4cfa60,Il était une fois en Chine 5 : Dr Wong et les Pirates,黃飛鴻之五龍城殲霸,,1994-11-17,,,43,5.40,
-2f801df2-b1e3-4e0c-8cb1-2834094d44a4,Il était une fois en Chine 3 : Le tournoi du lion,黃飛鴻之三獅王爭霸,,1993-02-11,,,184,6.38,
-9d55c781-00d2-4baf-94cc-08d47606e43b,Il était une fois en Chine 6 : Dr Wong en Amérique,黃飛鴻之西域雄獅,,1997-02-01,,,93,5.75,
-aadd8744-cd5d-47f5-a343-081c7022e741,Dragons Forever,飛龍猛將,,1988-02-11,,,253,7.20,
-be9a47b5-8a4d-4f84-9795-d1733665c5d5,L'Auberge du dragon,新龍門客棧,,1992-08-22,,,114,7.03,
-d606982f-50df-4314-ad55-759c2b16c878,La Nuit des morts-vivants,Night of the Living Dead,,1968-10-04,,,2340,7.62,
-f97e3a76-caa9-45e7-a2a9-c0c892610c46,Il était une fois en Chine 4 : La Danse du dragon,黃飛鴻之四王者之風,,1993-06-10,,,48,5.63,
-2b174df4-b9ae-4aa3-a183-708eb739c51e,Histoire de fantômes chinois,倩女幽魂,,2011-04-21,,,47,5.50,
-ef0fdae1-be00-4add-b959-a06169f756b7,Jail House Eros,監獄不設防,,1989-12-07,,,6,5.50,
-13500559-6a82-44d2-8387-c092e9e49856,Soif de Justice,快餐車,,1984-08-17,,,367,6.90,
-dde461ce-e92b-4e3d-bcc0-dba95c06f3a8,47 Ronin,47 Ronin,,2013-12-06,,,3732,6.18,
+a30ef938-c6cf-4d29-842b-f87d394f8149,Au-delà de nos rêves,What Dreams May Come,1998,1998-10-02,,,2266,7.19,{us}
+5653afd4-5488-4c69-b5d4-7d713580c76a,Twister,Twister,1996,1996-05-10,,1062948,3349,6.52,{us}
+0d526949-1d6e-44a6-b989-3e455745bf4a,Seul au monde,Cast Away,2000,2000-12-22,,,11235,7.67,{us}
+e45a9e0d-c09e-4725-bf26-7b9114446417,Les Aventures de Flynn Carson : Le Mystère de la lance sacrée,The Librarian: Quest for the Spear,2004,2004-07-12,,85890,624,6.27,{us}
+b1b7df84-ab7d-4392-96ae-4bd9d8c26962,Dark City,Dark City,1998,1998-02-27,,,2718,7.30,"{au,us}"
+0e631343-0cf5-4b49-aa28-396c14ed904a,Vous avez un mess@ge,You've Got Mail,1998,1998-12-18,,,3214,6.69,{us}
+bd3c1f61-5679-4eeb-82e9-d3ccb5aeccad,Turbo Interceptor,The Wraith,1986,1986-10-01,,,423,6.38,"{us,ca}"
+cd2212eb-4aaa-43f6-9103-28f2d08350de,Les Remplaçants,The Replacements,2000,2000-08-11,,,940,6.65,{us}
+3187f7b0-e912-4b02-9e4f-883b31174829,Pour le pire et pour le meilleur,As Good as It Gets,1997,1997-12-19,,,3714,7.40,{us}
+7d62091a-6dbd-401b-bdb4-412eacbcae32,The Birdcage,The Birdcage,1996,1996-03-08,,,1123,7.02,{us}
+d5ecdba9-c330-4d51-bddb-e86e65b9ec02,The Hours,The Hours,2002,2002-12-27,,,1675,7.28,"{gb,us}"
+56e2a0bf-1e16-49fe-908e-50bde0049ddf,La Planète des singes,Planet of the Apes,,1968-02-07,,,3502,7.70,
+80d12778-8a1f-4d4c-8c85-0956361d4c11,La Planète des singes,Planet of the Apes,,2001-07-25,,,4024,5.80,
+ff913913-b4db-41bc-b151-41451a7ee856,La neige tombait sur les cèdres,Snow Falling on Cedars,1999,1999-12-22,,,133,6.05,{us}
+a316d49b-01b8-4dbb-aeea-de97d6325217,Speed Racer,Speed Racer,2008,2008-05-07,,,1525,6.28,"{de,gb,us}"
+9005b7cc-4c3e-438d-ac6f-3d54374d0fc7,Hoffa,Hoffa,1992,1992-12-25,,,309,6.20,{us}
+d298370e-8e76-4e80-ba6b-5a9c074f2774,Les Aventures de Flynn Carson : Le Secret de la coupe maudite,The Librarian: The Curse of the Judas Chalice,2008,2008-10-25,,85890,464,6.28,{us}
+1c52370e-d93b-4c30-8485-6191a84d00fd,"Frost / Nixon, l'heure de vérité",Frost/Nixon,2008,2008-10-15,,,1152,7.28,"{fr,gb,us}"
+23c58e56-263c-4006-a7b2-8bf5d26a2b0f,La Planète des singes : L'Affrontement,Dawn of the Planet of the Apes,,2014-07-08,,,11316,7.33,
+91c30c7d-dc20-4f68-a279-1ff77fa1b460,V pour Vendetta,V for Vendetta,2006,2006-02-23,,,14313,7.90,"{de,gb,us}"
+cc93f3c6-6019-4b39-ae58-382cd70550fd,That Thing You Do!,That Thing You Do!,1996,1996-10-04,,,818,6.87,{us}
+e464100e-3c7e-41b3-9ee4-3ceee21b1d7d,Apollo 13,Apollo 13,1995,1995-06-30,,,5325,7.45,{us}
+7d0dbaa6-4c40-497e-9181-7c041e75be8e,La Planète des singes : Suprématie,War for the Planet of the Apes,,2017-07-11,,,8923,7.21,
+3e582168-913b-4d0e-913e-6c246d696af4,La Planète des singes : Les Origines,Rise of the Planet of the Apes,,2011-08-03,,,11799,7.33,
+b26dcd80-29b6-4f85-96ce-cfcd9b22cd93,Cloud Atlas,Cloud Atlas,2012,2012-10-26,,,6982,6.89,"{de,us}"
+42fbbf77-9d4f-4517-873d-085b7ba58261,Ninja Assassin,Ninja Assassin,2009,2009-09-29,,,1524,6.64,"{fr,de,us}"
+9b7b2e57-c43e-4a9d-9206-86ab833197da,La Guerre selon Charlie Wilson,Charlie Wilson's War,2007,2007-12-19,,,1447,6.54,"{de,us}"
+af41e643-8503-4956-99ba-82e2beadec12,Rescue Dawn,Rescue Dawn,2006,2006-09-09,,,1228,6.95,"{lu,us}"
+eb6ac955-692f-45cf-9f2a-8feb19c7ee74,Tout peut arriver,Something's Gotta Give,2003,2003-12-12,,,1549,6.60,{us}
+16f8c000-5039-4259-8e78-48b47002cae2,Da Vinci Code,The Da Vinci Code,2006,2006-05-17,,115776,9195,6.73,{us}
+a0a4211a-76f4-40da-a568-102edef43f6d,La Ligne verte,The Green Mile,1999,1999-12-10,,,17245,8.50,{us}
+5b4e9649-11aa-40a6-88f4-387e29257dfe,École paternelle,Daddy Day Care,2003,2003-05-09,,228887,2065,5.90,{us}
+1c8bda53-208b-4861-a865-feb686a3005d,Les Aventures de Flynn Carson : Le Trésor du roi Salomon,The Librarian: Return to King Solomon's Mines,2006,2006-09-09,,85890,563,6.25,{us}
+62fff2cc-ed09-403f-a73a-0aa5e37a79ad,La Planète des singes : Le Nouveau Royaume,Kingdom of the Planet of the Apes,,2024-05-08,,,3069,7.10,
+e2d13c8e-734a-485e-8bf0-2676ad55b8ce,Un indien à New York,Jungle 2 Jungle,1997,1997-03-04,,,457,5.27,"{fr,us}"
+ab9fbb4a-7edc-474b-80a3-f00792302c23,Joyeux Noël,Mixed Nuts,1994,1994-12-21,,,186,5.43,{us}
+0dbb85a3-3f21-4619-b77b-60fc45873fdd,Expendables 4,Expend4bles,2023,2023-09-15,,126125,1479,6.20,"{bg,fr,us}"
+0961c5a8-09d1-4c1a-abc6-c3986d41b435,Incassable,Unbreakable,2000,2000-11-22,,,9149,7.14,{us}
+00fee661-504a-400e-a4be-302b6e19c07d,Expendables 3,The Expendables 3,2014,2014-08-07,,126125,4919,6.22,"{bg,fr,us}"
+bb6f41aa-05a2-4c30-a044-a29a4ba7594c,Expendables : Unité spéciale,The Expendables,2010,2010-08-03,,126125,7645,6.25,"{bg,us}"
+cbfa08b7-429f-4811-a6fa-7040a81a001a,Expendables 2 : Unité spéciale,The Expendables 2,2012,2012-08-08,,126125,6640,6.35,"{bg,us}"
+d095d671-dd5d-4164-8056-5af68b550d32,Le Baiser du vampire,The Kiss of the Vampire,1963,1963-09-11,,,97,6.14,{gb}
+fd3b5635-6de8-4a79-923c-5985486fa1d3,Les Trois visages de la peur,I tre volti della paura,1963,1963-08-17,,,407,7.21,"{fr,it}"
+ca24a09d-b2b4-400a-bda8-eb20f28e3750,La Momie sanglante,Blood from the Mummy's Tomb,1971,1971-06-16,,138965,89,5.61,{gb}
+be8da744-995c-4519-9c0f-ed8ce5e745fa,Comtesse Dracula,Countess Dracula,1971,1971-01-30,,,109,5.78,{gb}
+ecf7d29d-1bae-4b64-811f-41456c9549b6,Kaamelott - Deuxième volet (première partie),Kaamelott - Deuxième volet (première partie),2025,2025-12-10,,1076903,0,0.00,{fr}
+dd088fb8-410c-4f17-88c3-ded1643ef75e,Alita : Battle Angel,Alita: Battle Angel,2019,2019-01-31,122,,8707,7.23,{us}
+105110dc-f9a2-41ac-bbe1-66ecc9507f73,Police Story 2,警察故事續集,1988,1988-08-13,,269098,506,6.99,{hk}
+9275fcff-bfa0-4e68-81b2-5854d5c02c21,Police Story 3 : Supercop,警察故事 III：超級警察,1992,1992-07-04,,269098,464,6.85,{hk}
+a8c04934-4434-4854-81b4-afcf4adbdf12,Ator l'invincible,Ator l'invincibile,1982,1982-10-07,,48194,79,4.00,{it}
+e766f2f7-0280-4c6f-9492-0c9f04d6c6b9,La Rose et la Flèche,Robin and Marian,1976,1976-03-11,,,222,6.31,{us}
+d5ecf413-aad4-40bb-b56a-3fa4cbc98a01,Scream Blacula Scream,Scream Blacula Scream,1973,1973-06-27,,201930,61,5.90,{us}
+216e1d14-4ddd-4d01-b648-2c52ced065e9,Les Aventures extraordinaires d'Adèle Blanc-Sec,Les Aventures extraordinaires d'Adèle Blanc-Sec,2010,2010-04-09,107,,1221,6.16,{fr}
+879b8e8a-4343-4c0f-93f8-af433d7691d3,Ator l'invincibile 2,Ator l'invincibile 2,1982,1982-12-13,,48194,49,3.10,{it}
+1923c931-e7f7-4f55-bf69-40b1ef120510,Les Évadés de l'espace,宇宙からのメッセージ,1978,1978-04-29,,,49,5.89,{jp}
+0b1e0c98-a988-43c8-a5bc-644c68882b5e,惑星大戦争,惑星大戦争,1977,1977-12-17,,491769,17,6.24,{jp}
+a182473b-58f7-406c-b862-94aa89a85d50,Alien : Covenant,Alien: Covenant,2017,2017-05-09,122,135416,8188,6.11,"{gb,us}"
+14b8ff95-805b-4a04-9719-e6f692f2d504,"Blacula, le vampire noir",Blacula,1972,1972-08-25,,201930,150,5.50,{us}
+228a9b65-21cd-4a5a-9bcc-b13447d2847e,"Coffy, la panthère noire de Harlem",Coffy,1973,1973-06-13,,,233,6.67,{us}
+a7a90aba-ef82-4cb9-81c3-e92993b293d0,1941,,,,118,,572,5.80,{us}
+bb03e089-ad9d-4f1d-a079-697c17d86eaf,La Fissure 2,Gate II,1990,1990-05-24,,340623,86,5.40,{ca}
+92cf4288-003d-4522-8c68-ce12317e1b50,Histoires de fantômes chinois 2,倩女幽魂II人間道,1990,1990-07-13,,9046,114,6.67,{hk}
+4f3048cc-1df7-4ea4-85c0-66e9945b225d,À la recherche de la Panthère Rose,Trail of the Pink Panther,1982,1982-12-03,,937,256,5.20,"{gb,us}"
+6092bfb2-6bc0-4732-b995-0dbbf52a7b97,Pauvres créatures,Poor Things,2023,2023-12-07,,,3580,7.79,"{ie,gb,us}"
+1fb2ddb4-3bb8-4ada-a340-ac10e87d0e33,Mr Vampire et les démons de l’enfer,靈幻先生,1987,1987-12-17,,1274215,32,7.09,{hk}
+33de851d-5d5b-4920-b52f-b15805135aca,Le retour de Mr Vampire,殭屍家族,1986,1986-08-15,,1274215,30,6.13,{hk}
+c2f81363-614f-4cf7-84d7-adabea4cfa60,Il était une fois en Chine 5 : Dr Wong et les Pirates,黃飛鴻之五龍城殲霸,1994,1994-11-17,,10457,43,5.40,{hk}
+f97e3a76-caa9-45e7-a2a9-c0c892610c46,Il était une fois en Chine 4 : La Danse du dragon,黃飛鴻之四王者之風,1993,1993-06-10,,10457,48,5.63,{hk}
+afcfea85-a01a-4847-a8d3-fb8bc699f736,Le Hobbit : La Bataille des cinq armées,The Hobbit: The Battle of the Five Armies,2014,2014-12-10,144,121938,13683,7.31,"{nz,us}"
+aa3b7c77-9aa1-4cd0-bf37-2f6d9dbd7d65,"OSS 117 : Le Caire, nid d'espions","OSS 117 : Le Caire, nid d'espions",2006,2006-04-19,,91588,1668,7.30,{fr}
+15987c74-1864-4973-89bd-0da33b0d2995,OSS 117 : Rio ne répond plus,OSS 117 : Rio ne répond plus,2009,2009-04-15,,91588,1392,7.13,{fr}
+34c44d00-59d1-4269-ab83-7c58b8e52c98,Alien: Romulus,Alien: Romulus,2024,2024-08-14,,,0,0.00,{us}
+8aee8161-a6e5-4a00-be13-a66ef47084e0,Police Story,警察故事,1985,1985-12-14,,269098,836,7.50,{hk}
+2fe541f4-65ab-412e-b88a-e1ad875e3a07,Greta,Greta,2019,2019-02-28,98,,1269,6.59,"{hk,ie,kr,us}"
+911a63db-4e0a-473d-943b-1a46303fc57f,Blade Runner 2049,Blade Runner 2049,2017,2017-10-04,164,422837,12876,7.60,"{ca,gb,us}"
+4dd8e94a-7e0e-4e5b-ac6c-514df5fa279e,Ghost in the Shell,Ghost in the Shell,2017,2017-03-29,107,,7727,6.07,"{cn,hk,in,us}"
+fed9498e-55be-4fff-b60f-48e4c18d0507,Divergente 2 : L'Insurrection,Insurgent,2015,2015-03-18,119,283579,9681,6.36,"{ca,us}"
+b907a64a-0e09-4e07-b03d-011c7539096a,The Grand Budapest Hotel,The Grand Budapest Hotel,2014,2014-02-26,100,,14181,8.05,"{de,us}"
+0ac6aea2-3040-4e00-a6bd-c02b1f2bc237,Le Hobbit : Un voyage inattendu,The Hobbit: An Unexpected Journey,2012,2012-12-12,169,121938,17772,7.35,"{nz,us}"
+bd265fd5-9204-4371-8fd7-7534506663ca,Cowboys & Envahisseurs,Cowboys & Aliens,2011,2011-07-29,118,,4831,5.60,"{in,us}"
+7a636eda-3b61-4a78-bcd2-816415262e8c,Harry Potter et les Reliques de la mort - 1ère partie,Harry Potter and the Deathly Hallows: Part 1,2010,2010-11-17,146,1241,18270,7.76,"{gb,us}"
+63a00eb1-4820-438b-b47a-056e02ddce75,"Shaft, les nuits rouges de Harlem",Shaft,1971,1971-06-25,,495,10,2.85,{us}
+44a55f7e-e20b-4bf1-92bc-863bc53552a7,Les Démons du maïs 2 : Le sacrifice final,Children of the Corn II: The Final Sacrifice,1992,1992-01-29,,115225,234,4.78,{us}
+c58ff765-a29c-4ec6-b8c1-bf8f2d5350cf,Les Démons du maïs,Children of the Corn,1984,1984-03-09,,115225,954,5.73,{us}
+d4c5c5c3-81ff-4e45-a394-2acb397cb595,Tigre et Dragon 2,"Crouching Tiger, Hidden Dragon: Sword of Destiny",2016,2016-02-18,,290973,619,6.12,{cn}
+bf0e7b1e-101d-4136-94ba-0130f1b782f2,Virus,復活の日,1980,1980-06-26,,,52,6.40,{jp}
+744b75d1-2014-4129-bb6d-ea8faecf4781,The Human Tornado,The Human Tornado,1976,1976-10-02,,405256,45,5.90,{us}
+d5ad39ec-e2f1-45e5-ab28-ea5432e54331,Shaolin Dolemite,Shaolin Dolemite,1999,1999-01-01,,405256,2,4.20,"{tw,us}"
+8992674b-7c50-480e-ad11-e3fedfd63842,Dolemite,Dolemite,1975,1975-04-26,,405256,113,5.80,{us}
+e615c20b-5f8c-48fb-99bd-48cc633246bd,Le Cobaye,The Lawnmower Man,1992,1992-03-05,,124935,705,5.57,"{gb,jp,us}"
+927c47ee-80a4-44eb-a559-1357df366ee9,The Dolemite Explosion,The Dolemite Explosion,2002,2002-05-17,,405256,1,1.00,{us}
+b9a83174-e2a7-4ce6-b371-4c08734cf144,Kaamelott - Premier volet,Kaamelott - Premier volet,2021,2021-07-21,,1076903,664,6.63,{fr}
 50da3df2-e797-4ee9-a161-a4e7fdd125ca,K,K,1997,1997-08-27,135,,56,5.82,{fr}
-6aa025e6-1eac-430c-88d7-5e0502dde7a4,Trouble Man,Trouble Man,,1972-11-01,,,32,6.20,
-c2206c2c-00c0-4696-8880-1e994a04463f,Vampire Bride,花嫁吸血魔,,1960-08-27,,,1,7.50,
-aa3b7c77-9aa1-4cd0-bf37-2f6d9dbd7d65,"OSS 117 : Le Caire, nid d'espions","OSS 117 : Le Caire, nid d'espions",,2006-04-19,,,1668,7.30,
-4ca4fbf6-bf5e-46bf-b549-ef95c788aec3,OSS 117 : Alerte rouge en Afrique noire,OSS 117 : Alerte rouge en Afrique noire,,2021-08-04,,,756,5.66,
-7252cc85-8894-4fa7-9ac7-f388c88a7280,Get Out,Get Out,,2017-02-24,,,16941,7.62,
-15987c74-1864-4973-89bd-0da33b0d2995,OSS 117 : Rio ne répond plus,OSS 117 : Rio ne répond plus,,2009-04-15,,,1392,7.13,
-81848e47-c0be-4f0c-8f1e-487d3312c37e,Orgie satanique,Devils of Darkness,,1965-05-01,,,22,5.00,
-346758b2-1939-43be-aa5b-f4f4df6206d0,Quand la Panthère Rose s'emmêle,The Pink Panther Strikes Again,,1976-12-15,,,513,6.90,
-475ed43b-6e9c-486b-b340-42fda617dc8c,Le Retour de la Panthère rose,The Return of the Pink Panther,,1975-05-21,,,575,6.79,
-02c3c5d6-e510-412e-8477-656b959fc978,Le Majordome,The Butler,,2013-08-16,,,2804,7.30,
-25399ad4-a1a5-4a10-9da3-d545b5c1956b,La Favorite,The Favourite,,2018-11-23,,,5323,7.52,
-34c44d00-59d1-4269-ab83-7c58b8e52c98,Alien: Romulus,Alien: Romulus,,2024-08-14,,,0,0.00,
-f38492e3-ffdb-463d-9d52-58d48f22c884,Ni chaînes ni maîtres,Ni chaînes ni maîtres,,2024-09-18,,,0,0.00,
-179d1072-0cf5-494c-b353-2704e56cfb72,Le Marin des mers de Chine,A計劃,,1983-12-22,,,438,7.20,
-8aee8161-a6e5-4a00-be13-a66ef47084e0,Police Story,警察故事,,1985-12-14,,,836,7.50,
-b9a83174-e2a7-4ce6-b371-4c08734cf144,Kaamelott - Premier volet,Kaamelott - Premier volet,,2021-07-21,,,664,6.63,
-ecf7d29d-1bae-4b64-811f-41456c9549b6,Kaamelott - Deuxième volet (première partie),Kaamelott - Deuxième volet (première partie),,2025-12-10,,,0,0.00,
-b405fd31-0cfb-4fad-b1d6-e33024a43ee1,Galia,Galia,,1966-01-26,,,10,5.00,
-f8069dd9-3276-4f44-a201-612026a9462a,Le Marin des mers de Chine 2,A計劃續集,,1987-07-25,,,259,7.10,
-4750ac4a-b9b7-42ee-9669-c707486e0737,Kaamelott - Deuxième volet (deuxième partie),Kaamelott - Deuxième volet (deuxième partie),,2026-04-11,,,0,0.00,
-105110dc-f9a2-41ac-bbe1-66ecc9507f73,Police Story 2,警察故事續集,,1988-08-13,,,506,6.99,
-9275fcff-bfa0-4e68-81b2-5854d5c02c21,Police Story 3 : Supercop,警察故事 III：超級警察,,1992-07-04,,,464,6.85,
+f8069dd9-3276-4f44-a201-612026a9462a,Le Marin des mers de Chine 2,A計劃續集,1987,1987-07-25,,189159,259,7.10,{hk}
+b405fd31-0cfb-4fad-b1d6-e33024a43ee1,Galia,Galia,1966,1966-01-26,,,10,5.00,"{fr,it}"
+4750ac4a-b9b7-42ee-9669-c707486e0737,Kaamelott - Deuxième volet (deuxième partie),Kaamelott - Deuxième volet (deuxième partie),2026,2026-04-11,,1076903,0,0.00,{fr}
+86d5d814-a95a-4b54-9d1a-1c958a2bfff7,L'enfer des mandingos,Drum,1976,1976-07-30,,535270,16,5.20,{us}
+4a8d011f-5de5-4e97-8dbc-e9d9d8645c9f,Little Miss Sunshine,Little Miss Sunshine,2006,2006-07-26,,,6915,7.69,{us}
+868e9c58-52e7-40af-b093-154bee1ba3d3,Les Rescapés du futur,Futureworld,1976,1976-08-13,,166698,299,5.92,{us}
+e4b1156c-e691-48b8-a4d2-1cefe7949114,Histoires de fantômes chinois 3,倩女幽魂III：道道道,1991,1991-07-18,,9046,81,6.30,{hk}
+2e395100-1aac-46ef-9b71-880167520688,Histoires de fantômes chinois,倩女幽魂,1987,1987-07-18,,9046,259,7.27,{hk}
+6f2a8a13-ed30-4739-b7f7-e216d4ebcf7b,La voleuse de livres,The Book Thief,2013,2013-11-08,,,4239,7.50,"{de,us}"
+a6cc2428-c8ab-4812-8c01-0fefc0ee0b57,La Malédiction de la Panthère rose,Revenge of the Pink Panther,1978,1978-01-08,,937,401,6.40,"{gb,us}"
+1bcfac02-be82-4210-83ca-fd58ea1f3f32,Le Continent des hommes-poissons,L'isola degli uomini pesce,1979,1979-01-18,,842877,66,5.60,{it}
+85cba985-7779-4a5d-a1d3-d459e89c0ec1,L'Héritier de la Panthère Rose,Curse of the Pink Panther,1983,1983-08-12,,937,168,4.70,{us}
+72d118fc-06cf-48e4-88f9-b4b86cdd8b3d,La Nuit des morts-vivants,Night of the Living Dead,1990,1990-10-19,,,804,6.87,{us}
+d893ef53-b77e-4474-bdb4-ac7359218f1a,L'infaillible inspecteur Clouseau,Inspector Clouseau,1968,1968-07-19,,937,73,5.00,{gb}
+03eb5f61-c25d-425f-b82c-88761b4fbee5,La Montagne du dieu cannibale,La montagna del dio cannibale,1978,1978-07-12,,,93,5.20,{it}
+816a73e4-1075-499b-bfe6-8b5218c6474b,Magic Cop,驅魔警察,1990,1990-11-01,,1274215,24,6.69,{hk}
+9426ff2d-fa39-4f4d-9068-b7e3112ff7d6,"Django, prépare ton cercueil !",Preparati la bara!,1968,1968-01-27,,,95,6.20,{it}
+43143c2a-8110-4550-849e-e9a9ec0f8782,Vampiras: The Brides,Vampiras: The Brides,2024,2024-02-07,,,26,6.39,"{es,us}"
+fa5a2169-c6fc-44af-8252-219e23bdcdb7,Le Sang des héros,The Blood of Heroes,1989,1989-10-19,,,127,5.80,"{us,au}"
+7af4c9aa-a570-4b8d-afc3-5606baa86b79,Atomic Cyborg,Vendetta dal futuro,1986,1986-03-26,,,73,5.40,{it}
+dc56611f-168f-41f6-9db3-23d52c3d7ae6,Mr Vampire,殭屍先生,1985,1985-11-07,,1274215,99,6.86,{hk}
+c023c116-38a4-49d9-ab2a-8832e64f8099,La fin de Mr Vampire,殭屍叔叔,1988,1988-12-22,,1274215,22,7.09,{hk}
+196b418b-0bcb-416e-b844-0bdb6c4edfb5,M. Vampire 1992,新彊屍先生,1992,1992-08-08,,1274215,20,6.15,{hk}
+5c20415c-eaa9-49a6-8f4d-22db416ffd81,Il était une fois en Chine 2 : La secte du lotus blanc,黃飛鴻之二 男兒當自強,1992,1992-04-16,,10457,233,7.14,{hk}
+2f801df2-b1e3-4e0c-8cb1-2834094d44a4,Il était une fois en Chine 3 : Le tournoi du lion,黃飛鴻之三獅王爭霸,1993,1993-02-11,,10457,184,6.38,{hk}
+9d55c781-00d2-4baf-94cc-08d47606e43b,Il était une fois en Chine 6 : Dr Wong en Amérique,黃飛鴻之西域雄獅,1997,1997-02-01,,10457,93,5.75,"{us,hk}"
+d606982f-50df-4314-ad55-759c2b16c878,La Nuit des morts-vivants,Night of the Living Dead,1968,1968-10-04,,261590,2340,7.62,{us}
+aadd8744-cd5d-47f5-a343-081c7022e741,Dragons Forever,飛龍猛將,1988,1988-02-11,,,253,7.20,{hk}
+be9a47b5-8a4d-4f84-9795-d1733665c5d5,L'Auberge du dragon,新龍門客棧,1992,1992-08-22,,,114,7.03,{hk}
+dde461ce-e92b-4e3d-bcc0-dba95c06f3a8,47 Ronin,47 Ronin,2013,2013-12-06,,732461,3732,6.18,"{jp,us,gb}"
+2b174df4-b9ae-4aa3-a183-708eb739c51e,Histoire de fantômes chinois,倩女幽魂,2011,2011-04-21,,,47,5.50,"{hk,cn}"
+ef0fdae1-be00-4add-b959-a06169f756b7,Jail House Eros,監獄不設防,1989,1989-12-07,,,6,5.50,{}
+13500559-6a82-44d2-8387-c092e9e49856,Soif de Justice,快餐車,1984,1984-08-17,,,367,6.90,{hk}
+4ca4fbf6-bf5e-46bf-b549-ef95c788aec3,OSS 117 : Alerte rouge en Afrique noire,OSS 117 : Alerte rouge en Afrique noire,2021,2021-08-04,,91588,756,5.66,{fr}
+6aa025e6-1eac-430c-88d7-5e0502dde7a4,Trouble Man,Trouble Man,1972,1972-11-01,,,32,6.20,{us}
+c2206c2c-00c0-4696-8880-1e994a04463f,Vampire Bride,花嫁吸血魔,1960,1960-08-27,,,1,7.50,{jp}
+346758b2-1939-43be-aa5b-f4f4df6206d0,Quand la Panthère Rose s'emmêle,The Pink Panther Strikes Again,1976,1976-12-15,,937,513,6.90,"{gb,us}"
+7252cc85-8894-4fa7-9ac7-f388c88a7280,Get Out,Get Out,2017,2017-02-24,,,16941,7.62,{us}
+81848e47-c0be-4f0c-8f1e-487d3312c37e,Orgie satanique,Devils of Darkness,1965,1965-05-01,,,22,5.00,{gb}
+475ed43b-6e9c-486b-b340-42fda617dc8c,Le Retour de la Panthère rose,The Return of the Pink Panther,1975,1975-05-21,,937,575,6.79,"{gb,us}"
+179d1072-0cf5-494c-b353-2704e56cfb72,Le Marin des mers de Chine,A計劃,1983,1983-12-22,,189159,438,7.20,{hk}
+02c3c5d6-e510-412e-8477-656b959fc978,Le Majordome,The Butler,2013,2013-08-16,,,2804,7.30,{us}
+25399ad4-a1a5-4a10-9da3-d545b5c1956b,La Favorite,The Favourite,2018,2018-11-23,,,5323,7.52,"{ie,gb,us}"
+f38492e3-ffdb-463d-9d52-58d48f22c884,Ni chaînes ni maîtres,Ni chaînes ni maîtres,2024,2024-09-18,,,0,0.00,{fr}
 3705e0ff-6947-4a2b-82ad-0c31a46779c0,Loverboy,,1989,1989-04-28,98,,152,6.10,{us}
 63f1c730-e61c-47fd-8c14-392d5c4924d1,D.C. Cab,,1983,1983-12-16,100,,80,5.30,{}
-dcbb054e-6913-424e-95d4-afbcbe547937,Postman,The Postman,,1997-12-25,,,1024,6.25,
 7907b854-448f-4844-8ec1-6bd619a66366,Démons,Dèmoni,1985,1985-10-04,89,430201,518,6.60,{it}
 4732cd91-b837-4234-b57a-e285d8004c48,The Canadian Conspiracy,"",1985,1985-01-01,70,,0,6.00,{}
 b43531e6-2f24-4c14-a669-7c5d693b13fd,Aussi profond que l'océan,The Deep End of the Ocean,1999,1999-03-12,108,,400,6.48,{us}
-fc6651a7-fb08-4717-a0d1-00fba5aef294,Le 6e Continent,,,,90,211753,152,5.63,"{gb,us}"
-7a5f8599-1346-47a6-a428-5dc543760d19,"Dracula, prince des ténèbres",,,,90,123724,232,6.75,{gb}
-ea5ae2a6-fd8f-4d53-9386-1f5ff9edcea5,Le Crocodile du Botswanga,Le Crocodile du Botswanga,,2014-02-19,,,320,5.19,
 7ce0cf5f-447c-4851-853e-ec328cf2f2b8,La Neuvième porte,The Ninth Gate,1999,1999-08-25,132,,2830,6.47,"{es,fr}"
 51a78fe8-070a-49a7-b522-c4fe3b0ca768,Le Loup-Garou de Londres,An American Werewolf in London,1981,1981-08-21,97,9380,2296,7.39,"{gb,us}"
-1496349a-cf1c-4d42-9c00-367b59de9485,Shadow in the Cloud,Shadow in the Cloud,2020,2020-12-31,83,,925,5.83,"{nz,us}"
-4dd8e94a-7e0e-4e5b-ac6c-514df5fa279e,Ghost in the Shell,Ghost in the Shell,2017,2017-03-29,107,,7727,6.07,"{cn,hk,in,us}"
-fd94a5b7-7583-4e36-98e8-4a311ec13796,Miss Peregrine et les enfants particuliers,Miss Peregrine's Home for Peculiar Children,2016,2016-09-27,127,,9609,6.83,"{be,gb,us}"
-bc95d7b5-ac25-41fe-9bfc-de30fdd8c37d,Hunger Games : La Révolte - Partie 1,The Hunger Games: Mockingjay - Part 1,2014,2014-11-19,123,131635,15236,6.81,"{ca,us}"
 ed102511-e774-4f5a-954a-214b2ef52e5f,Le Fou du labo 4,Le Fou du labo 4,1967,1967-11-29,,,15,5.90,{fr}
-d0b931ed-c938-4d79-9afc-0ea3258cc8b6,"Carrie, la vengeance",Carrie,2013,2013-10-16,100,,4290,6.03,{us}
 5a738dde-395c-488e-9692-43e8444bb38e,La Princesse rebelle,Fantaghirò,1991,1991-12-22,110,173738,142,6.38,{it}
-34d494dc-ad69-45af-adde-7f908836b2d3,Snowpiercer : Le Transperceneige,Snowpiercer,2013,2013-08-01,126,,9136,6.90,"{cz,kr}"
 430dc1bb-4b05-455e-adf7-39919bde8040,Virgin Suicides,The Virgin Suicides,1999,1999-05-19,96,,3021,7.10,{us}
-867296db-a97c-4e9f-9f71-6255214a30e7,Harry Potter et les Reliques de la mort - 2ème partie,Harry Potter and the Deathly Hallows: Part 2,2011,2011-07-12,130,1241,19724,8.10,"{gb,us}"
-795fe05d-9f55-4f33-b467-f889912ccb95,Julie & Julia,Julie & Julia,2009,2009-08-06,123,,1994,6.69,{us}
-a54833cd-69af-4fae-8b99-c2bc5851997c,The Rocker,The Rocker,2008,2008-08-20,102,,557,6.01,{us}
-4fefefb4-ef9c-4772-99c7-a15c064246d2,Camping,Camping,2006,2006-04-26,95,52097,827,5.55,{fr}
-5e2fa924-e4ec-4087-80f6-20464ed06941,Firewall,Firewall,2006,2006-02-08,105,,889,5.83,"{us,au}"
 4b4eb1a9-1539-4ce8-8484-8f703d740dc9,Le Clone,Le Clone,1998,1998-06-17,90,,15,2.60,{}
 a5a4d528-49ea-4301-b889-b77bbb6ad718,Matrix Reloaded,The Matrix Reloaded,2003,2003-05-15,138,2344,10439,7.04,{us}
 9cf1ca3b-05f2-4b94-b3e8-d5a9fde089d0,Paparazzi,Paparazzi,1998,1998-04-29,109,,57,5.00,{fr}
@@ -146,7 +162,21 @@ cc0a8a0f-b635-4ad5-869f-820253afa56b,Avec ou sans hommes,Boys on the Side,1995,1
 eb892002-e76b-4c0a-81cf-2ce8c55b14c7,Freddy sort de la nuit,New Nightmare,1994,1994-10-13,112,8581,1294,6.43,{us}
 507babc7-3548-4f15-ac5d-b73aae896c03,La Reine Margot,,1994,1994-05-13,158,,341,7.19,"{fr,de,it}"
 f39d1bf9-bc5d-48e9-b344-17cb6f4e9378,Milliardaire malgré lui,It Could Happen to You,1994,1994-07-29,101,,676,6.47,{us}
+fc6651a7-fb08-4717-a0d1-00fba5aef294,Le 6e Continent,,,,90,211753,152,5.63,"{gb,us}"
+dcbb054e-6913-424e-95d4-afbcbe547937,Postman,The Postman,1997,1997-12-25,,,1024,6.25,{us}
+7a5f8599-1346-47a6-a428-5dc543760d19,"Dracula, prince des ténèbres",,,,90,123724,232,6.75,{gb}
+bc95d7b5-ac25-41fe-9bfc-de30fdd8c37d,Hunger Games : La Révolte - Partie 1,The Hunger Games: Mockingjay - Part 1,2014,2014-11-19,123,131635,15236,6.81,"{ca,us}"
+ea5ae2a6-fd8f-4d53-9386-1f5ff9edcea5,Le Crocodile du Botswanga,Le Crocodile du Botswanga,2014,2014-02-19,,,320,5.19,{fr}
 cc64300c-8140-44cf-b1dc-b1fb5b4dd4fa,Un vampire à Brooklyn,,,,96,,546,5.10,{us}
+1496349a-cf1c-4d42-9c00-367b59de9485,Shadow in the Cloud,Shadow in the Cloud,2020,2020-12-31,83,,925,5.83,"{nz,us}"
+fd94a5b7-7583-4e36-98e8-4a311ec13796,Miss Peregrine et les enfants particuliers,Miss Peregrine's Home for Peculiar Children,2016,2016-09-27,127,,9609,6.83,"{be,gb,us}"
+867296db-a97c-4e9f-9f71-6255214a30e7,Harry Potter et les Reliques de la mort - 2ème partie,Harry Potter and the Deathly Hallows: Part 2,2011,2011-07-12,130,1241,19724,8.10,"{gb,us}"
+d0b931ed-c938-4d79-9afc-0ea3258cc8b6,"Carrie, la vengeance",Carrie,2013,2013-10-16,100,,4290,6.03,{us}
+34d494dc-ad69-45af-adde-7f908836b2d3,Snowpiercer : Le Transperceneige,Snowpiercer,2013,2013-08-01,126,,9136,6.90,"{cz,kr}"
+4fefefb4-ef9c-4772-99c7-a15c064246d2,Camping,Camping,2006,2006-04-26,95,52097,827,5.55,{fr}
+795fe05d-9f55-4f33-b467-f889912ccb95,Julie & Julia,Julie & Julia,2009,2009-08-06,123,,1994,6.69,{us}
+a54833cd-69af-4fae-8b99-c2bc5851997c,The Rocker,The Rocker,2008,2008-08-20,102,,557,6.01,{us}
+5e2fa924-e4ec-4087-80f6-20464ed06941,Firewall,Firewall,2006,2006-02-08,105,,889,5.83,"{us,au}"
 33e9bf11-2cec-48d2-8608-4f6e70180d0a,Exit to Eden,,1994,1994-10-14,113,,85,4.10,{us}
 8d1a631c-bf3a-4066-ae8e-5f93f39cc84f,Le Monstre,Il mostro,1994,1994-10-22,111,,589,6.97,"{it,fr}"
 5bfe6dcd-b02c-44ee-abc8-d29f268e90f5,Les Chenapans,The Little Rascals,1994,1994-08-05,82,,1133,6.78,{us}
@@ -157,7 +187,6 @@ b6dfc3b7-fc3c-451b-b11c-b5bcb60ea518,La mort vous va si bien,Death Becomes Her,1
 ee15eab3-de37-4288-a87b-50b59c1ea114,Envers et contre tous,Stand and Deliver,1988,1988-03-11,103,,345,7.63,{us}
 3b8ca89b-34aa-4a67-b2d2-0b04dd8e3b56,Ninja Kids : Les 3 Ninjas,3 Ninjas,1992,1992-08-07,96,71458,407,5.67,{us}
 0301d384-d303-47d1-9934-bc5ad4c5f4a9,Jennifer 8,Jennifer Eight,1992,1992-11-06,124,,331,6.04,{us}
-d5ecf413-aad4-40bb-b56a-3fa4cbc98a01,Scream Blacula Scream,Scream Blacula Scream,,1973-06-27,,,61,5.90,
 5318af15-fde8-4485-a477-e7e467f30a99,Le Temps d'un week-end,Scent of a Woman,1992,1992-12-23,157,,3178,7.78,{us}
 8a888446-7d6b-49a6-8ad4-fa8472f8be11,Il était une fois en Chine,黃飛鴻,1991,1991-08-15,134,10457,389,7.10,{hk}
 277ba080-ded1-4f5d-83d2-01b29ddbc22a,Rain Without Thunder,,1993,1993-02-05,85,,1,5.00,{}
@@ -165,7 +194,6 @@ d5ecf413-aad4-40bb-b56a-3fa4cbc98a01,Scream Blacula Scream,Scream Blacula Scream
 ed9fa51f-08e2-4379-8959-e2253626f04e,L'école des héros,Toy Soldiers,1991,1991-04-24,107,,301,6.41,{us}
 eef84646-d6af-46bf-b5ca-7d1596555e1e,Sois belle et tais-toi,Sois belle et tais-toi,1958,1958-05-07,,,20,5.20,{fr}
 1be3b9c7-4c36-471a-9707-7cd20377c9ea,Echec et mort,Hard to Kill,1990,1990-02-09,95,,570,5.98,"{us,es}"
-a2c2aac3-fba3-43f6-b187-7b8a1b5c09d7,Killers of the Flower Moon,Killers of the Flower Moon,2023,2023-10-18,,,2893,7.49,{us}
 7d1f0088-30fc-46ee-b63f-9b9f13a52873,L'Amour ne s'achète pas,Can't Buy Me Love,1987,1987-08-14,94,,625,6.97,{us}
 4544a546-42da-4757-8499-041a20af38c9,Black Cobra 3,The Black Cobra 3 (Manila Connection),1990,1990-01-06,92,463165,4,3.50,{it}
 bb9a82bd-a3fe-423e-8393-c4adaa0c213f,La pizzeria en révolte,Do the Right Thing,1989,1989-06-14,120,,1645,7.76,{us}
@@ -181,51 +209,47 @@ e9bed6de-5554-47cd-8c14-92731e34728e,L'hôtel New Hampshire,The Hotel New Hampsh
 fc4202e2-2111-435a-9876-071b6f952792,Les Croque-morts en folie,Night Shift,1982,1982-07-30,106,,176,6.00,{us}
 26ef5d2b-cd17-4b2d-b946-ce2e8e7c6709,Annie,,1982,1982-05-21,126,312735,659,6.52,{us}
 8102912f-dc96-4c90-b224-ca78f90e92ca,Leprechaun 6 - Le retour,Leprechaun: Back 2 tha Hood,2003,2003-12-30,90,19285,179,4.90,{us}
-0b1e0c98-a988-43c8-a5bc-644c68882b5e,惑星大戦争,惑星大戦争,,1977-12-17,,,17,6.24,
+a2c2aac3-fba3-43f6-b187-7b8a1b5c09d7,Killers of the Flower Moon,Killers of the Flower Moon,2023,2023-10-18,,,2893,7.49,{us}
 2f179d29-3ffe-4e7b-864e-785a13a12663,L’Âge de Cristal,Logan's Run,1976,1976-06-23,118,,867,6.60,{us}
 cee51897-ee38-40aa-b401-452d0d547ac9,Mort sur le Nil,Death on the Nile,1978,1978-09-29,142,752992,731,7.16,{gb}
 96812196-599b-4c4b-ae48-f07b72276edf,Les Naufragés du 747,Airport '77,1977,1977-03-11,113,33938,271,5.61,{us}
 3ad8e4aa-6a51-4cf3-9328-3c6e168f763a,Le Dernier Train du Katanga,Dark of the Sun,1968,1968-02-08,100,,66,6.49,{gb}
 410558ed-de0c-410b-85b4-f98f2f4bb6a3,Angélique et le Roy,Angélique et le Roy,1966,1966-01-31,100,91813,121,6.60,"{fr,it,de}"
-14b8ff95-805b-4a04-9719-e6f692f2d504,"Blacula, le vampire noir",Blacula,,1972-08-25,,,150,5.50,
 68849748-7927-4f66-b233-4a51a16c359a,Mariage à l'italienne,Matrimonio all'italiana,1964,1964-12-18,100,,476,7.75,"{it,fr}"
-228a9b65-21cd-4a5a-9bcc-b13447d2847e,"Coffy, la panthère noire de Harlem",Coffy,,1973-06-13,,,233,6.67,
-de9bb68a-6234-4fd3-8ca3-d394dc016715,La Foire des ténèbres,Something Wicked This Way Comes,,1983-04-29,,,168,6.44,
-5cdd2f19-70d3-4f26-a6f3-9052ea2542ba,Dynamite Jones,Cleopatra Jones,,1973-07-13,,,66,5.70,
-066ed10a-42c3-4ff0-90d1-d0ca46f66353,Foxy Brown,Foxy Brown,,1974-04-05,,,203,6.20,
-d5b07a3e-80e9-4095-81a5-256def657a36,Bucktown,Bucktown,,1975-07-02,,,24,5.60,
 6b3fe943-010c-4426-8dae-fb71d692c72a,Le Nouveau Monde,The New World,2005,2005-12-25,,,1101,6.50,{us}
 af0dc5ab-cc62-4a8e-9def-383755021a5e,Géronimo,Geronimo: An American Legend,1993,1993-12-10,,,243,6.29,{us}
 b7d170dc-0faf-42e0-b888-74f9e10de2d2,Falling in Love,,1984,1984-11-21,111,,332,6.64,{us}
 3a31b2ca-040f-4c82-85f6-d682f5d2db78,Fantasia chez les ploucs,Fantasia chez les ploucs,1971,1971-01-15,,,25,5.00,"{fr,it}"
 0e6e95f6-8cbe-4389-8a22-71b49b0a9b6f,Le Passage,,1986,1986-12-03,80,,21,4.43,{fr}
-b6e62e56-498c-4d9d-b824-d39a3d3d4b93,Dans la forêt,Dans la forêt,2016,2016-10-05,103,,50,5.44,"{fr,se}"
-a7a90aba-ef82-4cb9-81c3-e92993b293d0,1941,,,,118,,572,5.80,{us}
 599f5497-4e5f-4b93-8f5d-7d020eb49aa6,Atout cœur à Tokyo pour OSS 117,Atout cœur à Tokyo pour OSS 117,1966,1966-10-28,,183680,29,6.91,"{fr,it}"
 c79ca59b-96c9-4f3b-9128-76b83587c59e,OSS 117 prend des vacances,OSS 117 prend des vacances,1970,1970-02-04,,183680,8,4.40,"{br,fr,it}"
 308bc7b2-83e1-4844-91bd-a615725015a7,Junior le terrible 2,Problem Child 2,1991,1991-07-03,90,180854,576,5.80,{us}
 4f645df4-7390-4090-a4f2-7516ac21d6d4,Major Payne,,1995,1995-03-24,97,,736,6.36,{us}
-09372446-bb6a-4b3d-82f5-95f7e2a958a2,Dracula,,,,109,,231,6.34,"{us,gb}"
 74ed528e-ffbb-4f66-be91-299bac194f91,OSS 117 se déchaîne,OSS 117 se déchaîne,1963,1963-06-18,,183680,27,6.11,"{fr,it}"
 ab845b58-6823-42d9-a734-dd28a27deabe,Ne nous fâchons pas,Ne nous fâchons pas,1966,1966-04-20,,,150,7.70,{fr}
 153a94e7-c0dd-41f4-8cfe-8d1b6e1fdaa2,Cœur de tonnerre,Thunderheart,1992,1992-04-03,,,251,6.26,{us}
 d4b53eb2-7962-4f08-b46a-d1ada8c14a0b,Pas de roses pour OSS 117,Niente rose per OSS 117,1968,1968-07-27,,183680,14,5.80,"{fr,it}"
 abc63715-ece6-4348-9270-4891b25dab90,Banco à Bangkok pour OSS 117,Banco à Bangkok pour OSS 117,1964,1964-06-12,,183680,44,8.11,"{fr,it}"
-ea5493ca-79f0-4e42-8653-c0967a1cae79,Divergente 3 : Au-delà du mur,Allegiant,2016,2016-03-09,121,283579,6363,6.10,{us}
 303e6850-73e2-4e4b-8420-2b9404e45c98,La Forêt d'émeraude,The Emerald Forest,1985,1985-06-22,113,,215,6.69,"{gb,us}"
 0d48ee60-a4e3-4686-b82e-f95e7002a590,Cent Mille Dollars au soleil,Cent Mille Dollars au soleil,1964,1964-04-17,,,136,7.03,"{fr,it}"
 da5652e0-ed5c-4219-806e-b254a1743616,Le Tombeau hindou,Das indische Grabmal,1959,1959-03-05,,378025,98,6.06,"{fr,de,it}"
 53e96ab0-4fe8-49db-8e03-0bfe66fe661f,Furia à Bahia pour OSS 117,Furia à Bahia pour OSS 117,1965,1965-07-02,,183680,51,7.77,"{fr,it}"
-933aa493-07c9-4aba-8649-53cea38b85b9,Underworld : Blood Wars,Underworld: Blood Wars,2016,2016-11-24,93,2326,3493,5.85,{us}
-735e381f-a59a-4f6e-b428-2c06cac952cd,Border,Gräns,2018,2018-09-27,108,,757,6.71,"{dk,se}"
-91491463-e8f4-4d4f-a459-a7b9b4ca3362,Perfectos desconocidos,Perfectos desconocidos,2017,2017-12-01,99,,619,6.69,"{it,es}"
 b7a0528a-192a-44ac-9e9f-4e07025a486a,Hard Bounty,,1995,1995-06-01,88,,10,4.50,{}
 a34e82d3-1d4c-4aed-85b0-ce4dacf9f59b,Boomerang,,1992,1992-06-30,111,,534,5.67,{us}
-165485bf-8a72-47a1-8572-2a6e107f2d0c,Harry Potter et l'Ordre du Phénix,Harry Potter and the Order of the Phoenix,2007,2007-07-08,138,1241,18685,7.68,"{gb,us}"
-e03ced6f-fdbc-469d-9e45-f5a79684a3f2,Shutter Island,Shutter Island,2010,2010-02-14,138,,23014,8.20,{us}
-216e1d14-4ddd-4d01-b648-2c52ced065e9,Les Aventures extraordinaires d'Adèle Blanc-Sec,Les Aventures extraordinaires d'Adèle Blanc-Sec,2010,2010-04-09,107,,1221,6.16,{fr}
 b7c91869-74b7-438d-ae98-a31f3c6caebb,Le Fils de Chucky,Seed of Chucky,2004,2004-11-12,87,10455,1513,5.44,{us}
 2ffe35c6-6a00-4211-9cb1-8c067b2b22bc,Excalibur,Excalibur,1981,1981-04-10,135,,957,6.95,"{gb,us}"
+5cdd2f19-70d3-4f26-a6f3-9052ea2542ba,Dynamite Jones,Cleopatra Jones,1973,1973-07-13,,452675,66,5.70,{us}
+de9bb68a-6234-4fd3-8ca3-d394dc016715,La Foire des ténèbres,Something Wicked This Way Comes,1983,1983-04-29,,,168,6.44,{us}
+933aa493-07c9-4aba-8649-53cea38b85b9,Underworld : Blood Wars,Underworld: Blood Wars,2016,2016-11-24,93,2326,3493,5.85,{us}
+066ed10a-42c3-4ff0-90d1-d0ca46f66353,Foxy Brown,Foxy Brown,1974,1974-04-05,,,203,6.20,{us}
+d5b07a3e-80e9-4095-81a5-256def657a36,Bucktown,Bucktown,1975,1975-07-02,,,24,5.60,{us}
+09372446-bb6a-4b3d-82f5-95f7e2a958a2,Dracula,,,,109,,231,6.34,"{us,gb}"
+735e381f-a59a-4f6e-b428-2c06cac952cd,Border,Gräns,2018,2018-09-27,108,,757,6.71,"{dk,se}"
+91491463-e8f4-4d4f-a459-a7b9b4ca3362,Perfectos desconocidos,Perfectos desconocidos,2017,2017-12-01,99,,619,6.69,"{it,es}"
+ea5493ca-79f0-4e42-8653-c0967a1cae79,Divergente 3 : Au-delà du mur,Allegiant,2016,2016-03-09,121,283579,6363,6.10,{us}
+165485bf-8a72-47a1-8572-2a6e107f2d0c,Harry Potter et l'Ordre du Phénix,Harry Potter and the Order of the Phoenix,2007,2007-07-08,138,1241,18685,7.68,"{gb,us}"
+b6e62e56-498c-4d9d-b824-d39a3d3d4b93,Dans la forêt,Dans la forêt,2016,2016-10-05,103,,50,5.44,"{fr,se}"
+e03ced6f-fdbc-469d-9e45-f5a79684a3f2,Shutter Island,Shutter Island,2010,2010-02-14,138,,23014,8.20,{us}
 1299b0b4-eb06-48c3-a09e-5936b272e2ad,Troie,Troy,2004,2004-05-13,196,,9677,7.16,"{us,mt,gb}"
 76017a1a-cd6e-4c0f-9456-92a7cb257ff8,Harry Potter et la Chambre des secrets,Harry Potter and the Chamber of Secrets,2002,2002-11-13,161,1241,21011,7.70,"{gb,us}"
 13a7da4b-5f28-4efa-9eb1-faa663c27b85,Desperado,,1995,1995-08-25,107,9649,2688,6.90,"{us,mx}"
@@ -249,7 +273,6 @@ b054999b-8b89-4f5a-a95a-a01743d1c5ef,Dumb & Dumber,Dumb and Dumber,1994,1994-12-
 41138f6d-bfad-43ca-9c5c-22dc0c3f6075,La mère idéale,Trading Mom,1994,1994-03-04,82,,47,6.03,{us}
 c84a475c-5f44-472d-a3c7-c9f9bafcef96,El Dorado,El Dorado,1988,1988-04-20,149,,16,5.50,"{fr,it,es}"
 123ce545-ffdf-48f4-ae5f-aa48334ee4e7,Les Anges gardiens,,1995,1995-10-11,107,,241,6.22,{fr}
-fed9498e-55be-4fff-b60f-48e4c18d0507,Divergente 2 : L'Insurrection,Insurgent,2015,2015-03-18,119,283579,9681,6.36,"{ca,us}"
 32d0ba34-d5e5-4306-a727-be1998c06942,Légendes d'automne,Legends of the Fall,1994,1994-12-16,133,,2441,7.39,{us}
 88442b35-09c7-4bd5-bebc-4c851f821262,Russkies,,1987,1987-11-06,98,,26,5.30,{us}
 144b6fd8-3e7e-4b73-87d9-f82d5c13f6af,Les Visiteurs,,1993,1993-01-27,105,52888,1829,7.13,{fr}
@@ -281,7 +304,6 @@ d050276d-ce01-4af4-a7a3-be287ae17fab,J'ai épousé une extra-terrestre,My Stepmo
 dd2df805-715c-498b-8cb8-816dc993d09a,La Septième Prophétie,The Seventh Sign,1988,1988-04-01,97,,329,6.04,{us}
 f3594169-f7f8-4f66-9eae-da9137ce2800,À bout de course,Running on Empty,1988,1988-09-09,116,,290,7.50,{us}
 9b4a8296-c6fe-40c6-b1c5-9807b2004976,Over the Top - Le bras de fer,Over the Top,1987,1987-04-08,93,,1563,6.39,{us}
-93a3a1e4-b0a3-4c4b-afb6-e770a52aada6,Paranoïak,Disturbia,2007,2007-04-12,104,,3367,6.69,{us}
 f60219b6-9e92-4f19-8497-6d30824316cd,Une chance pas croyable,Outrageous Fortune,1987,1987-01-30,100,,109,6.02,{us}
 934238e8-fb87-4582-a030-d4144a4f656a,Pin,,1988,1988-11-25,103,,133,6.80,{ca}
 636205a2-c10f-4411-9093-2fed09ada8e3,Miracle sur la 8ème rue,*batteries not included,1987,1987-12-18,106,,668,6.64,{us}
@@ -302,23 +324,9 @@ f5a778cf-f33c-47dd-8b77-81456624dd80,Les Uns et les Autres,Les uns et les autres
 193ad47e-6665-4146-a253-90fe5590a25e,Voyage au Bout de l’Enfer,The Deer Hunter,1978,1978-12-08,183,,3603,8.01,"{gb,us}"
 820c275d-c4e2-43bb-8b30-3f6c9a20b2c8,La Petite Fille au bout du chemin,The Little Girl Who Lives Down the Lane,1976,1976-12-25,91,,294,7.00,"{ca,fr}"
 0f5b08c7-09db-44fe-9c0d-d1a83afaac48,Opération clandestine,The Carey Treatment,1972,1972-03-29,101,,23,5.80,{us}
-a182473b-58f7-406c-b862-94aa89a85d50,Alien : Covenant,Alien: Covenant,2017,2017-05-09,122,135416,8188,6.11,"{gb,us}"
-2fe541f4-65ab-412e-b88a-e1ad875e3a07,Greta,Greta,2019,2019-02-28,98,,1269,6.59,"{hk,ie,kr,us}"
-911a63db-4e0a-473d-943b-1a46303fc57f,Blade Runner 2049,Blade Runner 2049,2017,2017-10-04,164,422837,12876,7.60,"{ca,gb,us}"
+93a3a1e4-b0a3-4c4b-afb6-e770a52aada6,Paranoïak,Disturbia,2007,2007-04-12,104,,3367,6.69,{us}
 e9ff461e-ff75-434b-80fd-5fceb5df1725,Mortal Kombat,,1995,1995-08-18,102,9818,2152,5.84,{us}
-4140de5d-d160-4d6c-be08-e8e92e556298,Hunger Games : La Révolte - Partie 2,The Hunger Games: Mockingjay - Part 2,2015,2015-11-18,137,131635,12021,6.90,"{de,us}"
-979f2bf9-c94e-45de-8102-2e8a6ae88fd9,La 5ème Vague,The 5th Wave,2016,2016-01-14,113,,5621,5.94,{us}
-b8e3fc4a-0427-49fa-88f7-a2e48d2e97a7,Divergente,Divergent,2014,2014-03-14,140,283579,12355,6.92,{us}
-9d506d13-3af5-45f2-a399-e061b9cf091a,Hunger Games,The Hunger Games,2012,2012-03-12,142,131635,21227,7.21,{us}
-bcf2cfe3-e7b3-4740-a6c1-2d465b58aa62,12 Years a Slave,12 Years a Slave,2013,2013-10-18,134,,10851,7.95,"{us,gb}"
-fe065069-cd66-40f7-a88e-23cadb41fbae,Prometheus,Prometheus,2012,2012-05-30,124,135416,11729,6.55,"{gb,us}"
-4384a485-1bc8-44d7-b9de-b35cd85267f1,Journal d'un dégonflé,Diary of a Wimpy Kid,2010,2010-03-19,94,86110,1531,6.20,"{gb,us}"
-e58d219b-a427-41d5-9cc8-9523bdbc97d8,Hugo Cabret,Hugo,2011,2011-11-22,126,,7002,7.18,"{fr,gb,us}"
-45bb5cea-0470-4638-8b47-c3db8aba903c,La Stratégie Ender,Ender's Game,2013,2013-10-24,114,,5573,6.59,{us}
-42e29ed7-a4fd-485b-928f-205543982ecb,Underworld 3 : Le Soulèvement des Lycans,Underworld: Rise of the Lycans,2009,2009-01-22,85,2326,3429,6.51,{us}
 2d06cf92-df5b-44e3-8963-14068d070681,Amityville,The Amityville Horror,2005,2005-04-14,90,397842,2106,6.14,{us}
-2c8b67ca-a7dc-4ed2-8233-692ab3a08aa6,Zombies,Wicked Little Things,2006,2006-11-17,94,,245,5.69,{us}
-55a84b6c-64aa-40ac-9322-d7cf7499a4d9,Flight Plan,Flightplan,2005,2005-09-22,98,,2465,6.45,{us}
 f851fa63-1c5d-473d-9405-375675a20771,Mad Max,,1982,1982-01-13,85,8945,4054,6.69,"{au,us}"
 4e3c9adc-1dd0-4d60-bb5c-59bc21fd42eb,Black Mic Mac,Black Mic Mac,1986,1986-04-23,93,,17,5.50,{fr}
 65fd3b9c-5e89-421c-8ce6-a09cd6b2557f,Le Livre de la Jungle,The Jungle Book,1994,1994-12-23,115,,434,5.92,{us}
@@ -346,6 +354,18 @@ cb23bd52-5531-4d3e-b9e1-da03643446c3,Massacre à la tronçonneuse : La nouvelle 
 3581b6f1-8eb4-45c0-a8b5-8799e2108e7a,Fear,Fear,1996,1996-04-12,95,,731,6.34,{us}
 5a828f59-cf08-457d-a0ae-478beb5832e5,Jerry Maguire,Jerry Maguire,1996,1996-12-13,138,,3076,6.95,{us}
 6f93fddc-22ea-4d58-a223-eef0b6778c39,Arlette,Arlette,1997,1997-04-16,100,,28,5.52,{fr}
+4140de5d-d160-4d6c-be08-e8e92e556298,Hunger Games : La Révolte - Partie 2,The Hunger Games: Mockingjay - Part 2,2015,2015-11-18,137,131635,12021,6.90,"{de,us}"
+979f2bf9-c94e-45de-8102-2e8a6ae88fd9,La 5ème Vague,The 5th Wave,2016,2016-01-14,113,,5621,5.94,{us}
+b8e3fc4a-0427-49fa-88f7-a2e48d2e97a7,Divergente,Divergent,2014,2014-03-14,140,283579,12355,6.92,{us}
+9d506d13-3af5-45f2-a399-e061b9cf091a,Hunger Games,The Hunger Games,2012,2012-03-12,142,131635,21227,7.21,{us}
+45bb5cea-0470-4638-8b47-c3db8aba903c,La Stratégie Ender,Ender's Game,2013,2013-10-24,114,,5573,6.59,{us}
+bcf2cfe3-e7b3-4740-a6c1-2d465b58aa62,12 Years a Slave,12 Years a Slave,2013,2013-10-18,134,,10851,7.95,"{us,gb}"
+fe065069-cd66-40f7-a88e-23cadb41fbae,Prometheus,Prometheus,2012,2012-05-30,124,135416,11729,6.55,"{gb,us}"
+4384a485-1bc8-44d7-b9de-b35cd85267f1,Journal d'un dégonflé,Diary of a Wimpy Kid,2010,2010-03-19,94,86110,1531,6.20,"{gb,us}"
+e58d219b-a427-41d5-9cc8-9523bdbc97d8,Hugo Cabret,Hugo,2011,2011-11-22,126,,7002,7.18,"{fr,gb,us}"
+42e29ed7-a4fd-485b-928f-205543982ecb,Underworld 3 : Le Soulèvement des Lycans,Underworld: Rise of the Lycans,2009,2009-01-22,85,2326,3429,6.51,{us}
+2c8b67ca-a7dc-4ed2-8233-692ab3a08aa6,Zombies,Wicked Little Things,2006,2006-11-17,94,,245,5.69,{us}
+55a84b6c-64aa-40ac-9322-d7cf7499a4d9,Flight Plan,Flightplan,2005,2005-09-22,98,,2465,6.45,{us}
 94f56ce3-65b7-4743-bb21-248a9a27c21a,Copycat,,1995,1995-10-27,124,,888,6.50,{us}
 b7e72b7c-b920-4ff9-af8b-037a1cee0d27,Avec les félicitations du jury,With Honors,1994,1994-04-29,103,,190,6.81,{us}
 ce7d0ca9-cb49-4802-910d-c08a222ffb72,Les Quatre Filles du docteur March,Little Women,1994,1994-12-21,115,,1152,7.30,"{us,ca}"
@@ -353,16 +373,7 @@ a1c7138f-ac3a-41df-8016-f823754888d5,Pour l'amour d'une femme,When a Man Loves a
 b8e0e09c-e0cb-4836-b9ee-1392a40e9ad3,Dragnet,Dragnet,1987,1987-06-23,101,,455,5.95,{us}
 6390535c-8a66-4650-809a-0942421f75c1,La Gifle,La Gifle,1974,1974-10-23,100,,90,6.70,"{it,fr}"
 98a12a94-3e5f-42cc-bd4e-d21f2dc60752,Le caïd,Le caïd,1960,1960-05-31,92,,12,5.50,{fr}
-da11c397-81c3-432b-9cef-50e98cae458c,Dernier train pour Busan,부산행,2016,2016-07-20,118,619537,6978,7.76,{kr}
-f3771453-7ce6-4047-8667-5072cd7f6764,Disco,Disco,2008,2008-04-02,103,,336,4.39,{fr}
-dd088fb8-410c-4f17-88c3-ded1643ef75e,Alita : Battle Angel,Alita: Battle Angel,2019,2019-01-31,122,,8707,7.23,{us}
-a523f89d-ad7e-42e6-8025-63119414c47c,Paranoïa,Unsane,2018,2018-02-21,97,,1444,6.24,{us}
-f85a0b7b-42c4-4695-a41b-b5bf7a10d40f,Hunger Games : L'Embrasement,The Hunger Games: Catching Fire,2013,2013-11-15,146,131635,16722,7.43,{us}
-79d9218e-2936-49fb-b0d6-e521f2a8a991,Les Sorcières de Zugarramurdi,Las brujas de Zugarramurdi,2013,2013-09-20,112,,613,6.35,"{es,fr}"
 8a07eb51-4e56-48cf-85cc-3e363cde8598,Les Rivières pourpres,Les Rivières pourpres,2000,2000-09-27,105,3963,1434,6.93,{fr}
-e822644f-12fd-4c78-b3aa-e8792a26e0b9,Crimes à Oxford,The Oxford Murders,2008,2008-01-18,104,,617,5.95,"{fr,es,gb,us}"
-dfc0ee82-2804-48bf-b689-1cf7215e3bce,Hitcher,The Hitcher,2007,2007-01-19,80,,872,5.86,"{us,gb}"
-4b77fc68-9c6b-4def-97a1-7a89c2fbdb7d,Juno,Juno,2007,2007-12-05,91,,6895,7.05,{us}
 7740ae57-ed26-438a-a633-3bdde20ec58c,PCU,,1994,1994-04-29,81,,116,5.93,{us}
 980f3f6a-c71d-4364-a53d-ab2527a6de99,A.I. : Intelligence artificielle,A.I. Artificial Intelligence,2001,2001-06-29,145,,5860,7.04,{us}
 3cfe089a-b1c5-4fe5-8141-aa33f10cd657,"Harry, un ami qui vous veut du bien","Harry, un ami qui vous veut du bien",2000,2000-08-15,117,,228,6.84,{fr}
@@ -387,6 +398,14 @@ e39b7558-b9ab-4f1f-9129-5255dde633a9,Une lueur dans la nuit,Shining Through,1992
 7da97a42-fb54-4758-908c-1d77c261defc,Men at work,Men at Work,1990,1990-08-24,95,,350,5.69,{us}
 16084877-9f51-4589-a908-d22cee95c5d0,Kill me again,Kill Me Again,1989,1989-10-27,94,,107,5.96,{us}
 8d0e4e54-e662-4d5f-b6e7-246d41fcb7f3,Tenue correcte exigée,Tenue correcte exigée,1997,1997-03-21,93,,19,5.63,{fr}
+da11c397-81c3-432b-9cef-50e98cae458c,Dernier train pour Busan,부산행,2016,2016-07-20,118,619537,6978,7.76,{kr}
+a523f89d-ad7e-42e6-8025-63119414c47c,Paranoïa,Unsane,2018,2018-02-21,97,,1444,6.24,{us}
+f85a0b7b-42c4-4695-a41b-b5bf7a10d40f,Hunger Games : L'Embrasement,The Hunger Games: Catching Fire,2013,2013-11-15,146,131635,16722,7.43,{us}
+79d9218e-2936-49fb-b0d6-e521f2a8a991,Les Sorcières de Zugarramurdi,Las brujas de Zugarramurdi,2013,2013-09-20,112,,613,6.35,"{es,fr}"
+f3771453-7ce6-4047-8667-5072cd7f6764,Disco,Disco,2008,2008-04-02,103,,336,4.39,{fr}
+e822644f-12fd-4c78-b3aa-e8792a26e0b9,Crimes à Oxford,The Oxford Murders,2008,2008-01-18,104,,617,5.95,"{fr,es,gb,us}"
+dfc0ee82-2804-48bf-b689-1cf7215e3bce,Hitcher,The Hitcher,2007,2007-01-19,80,,872,5.86,"{us,gb}"
+4b77fc68-9c6b-4def-97a1-7a89c2fbdb7d,Juno,Juno,2007,2007-12-05,91,,6895,7.05,{us}
 7d3fbec7-7ae2-4782-99b7-28e866f2c2a7,Gorilles dans la brume,Gorillas in the Mist,1989,1989-01-25,130,,542,6.97,{us}
 322fafd2-4df9-4bfe-8d92-ede6f3ef3370,Opération crépuscule,The Package,1989,1989-01-25,108,,198,6.08,{us}
 d3824840-3587-4dce-8cbd-e33a5fbcd956,"She-Devil, la diable",She-Devil,1989,1989-12-08,99,,357,5.90,{us}
@@ -417,7 +436,6 @@ b5f83b9a-a54c-4f23-b704-518ea974c75e,King Lear,,1987,1987-09-15,90,,27,6.10,{us}
 aa1556c7-e59f-41a9-90c8-68c666e8fca9,Peggy Sue s'est mariée,Peggy Sue Got Married,1986,1986-10-10,103,,513,6.14,{us}
 fcad391b-09d0-48f9-b8d6-1b4f1ef8c6e6,A double tranchant,Jagged Edge,1985,1985-10-04,108,,240,6.29,{us}
 787e93a4-4987-49f0-86e5-cc3e4fd1d65c,Starman,,1984,1984-12-13,115,,797,6.90,{us}
-afcfea85-a01a-4847-a8d3-fb8bc699f736,Le Hobbit : La Bataille des cinq armées,The Hobbit: The Battle of the Five Armies,2014,2014-12-10,144,121938,13683,7.31,"{nz,us}"
 8a121e62-10bc-4dfd-a741-7dd440c467de,Allan Quatermain et les mines du roi Salomon,King Solomon's Mines,1986,1986-02-26,95,135502,379,5.47,{us}
 ce66d214-40dd-4552-ac18-82e7f447ed81,Le Guerrier de l'espace : Aventures en zone interdite,Spacehunter: Adventures in the Forbidden Zone,1983,1983-05-20,90,,111,5.26,{us}
 8d6d33f2-e1a8-4954-98ce-7c638f7b9a6d,Los Angeles 2013,Escape from L.A.,1996,1996-08-09,100,115838,1344,5.85,{us}
@@ -428,10 +446,7 @@ ce66d214-40dd-4552-ac18-82e7f447ed81,Le Guerrier de l'espace : Aventures en zone
 092de814-03a6-4ac1-9a47-ca052441c436,Tatie Danielle,Tatie Danielle,1990,1990-04-04,110,,212,6.52,{fr}
 c2f874ca-08e3-4996-8c9b-2c79f1c0dbde,La Poursuite implacable,Revolver,1973,1973-09-27,105,,49,6.82,"{fr,de,it}"
 eed8c483-0632-490f-b3e4-3bfd7b0eb109,"Les tiens, les miens, le nôtre","Yours, Mine and Ours",1968,1968-04-24,111,,130,6.80,{us}
-7a636eda-3b61-4a78-bcd2-816415262e8c,Harry Potter et les Reliques de la mort - 1ère partie,Harry Potter and the Deathly Hallows: Part 1,2010,2010-11-17,146,1241,18270,7.76,"{gb,us}"
-bd265fd5-9204-4371-8fd7-7534506663ca,Cowboys & Envahisseurs,Cowboys & Aliens,2011,2011-07-29,118,,4831,5.60,"{in,us}"
 3aaaf0bd-56e1-49db-a940-77a18b28973f,Le Seigneur des anneaux : La Communauté de l'anneau,The Lord of the Rings: The Fellowship of the Ring,2001,2001-12-18,179,119,24005,8.40,"{nz,us}"
-fe9b10a0-5fa2-46fb-9307-ca1900ba858a,Morse,Låt den rätte komma in,2009,2009-04-02,114,,2771,7.53,"{fr,no,se}"
 7742b519-7004-4c34-9c62-f39a7334a4f6,Les Chevaliers du ciel,Les Chevaliers du ciel,2005,2005-10-15,102,,187,6.03,"{be,fr,de}"
 2e7735ed-2a01-446e-b24e-7ce1b694a8bd,Le Boulet,Le Boulet,2002,2002-04-10,107,,348,5.87,"{fr,gb}"
 d75d54fa-ebe9-4339-aa46-420629cfddc6,La Famille Tenenbaum,The Royal Tenenbaums,2001,2001-10-05,108,,4332,7.49,{us}
@@ -464,6 +479,7 @@ a47a773f-976c-4448-8d31-a8f6d0b34784,La Cage aux folles III - « Elles » se mar
 5d078007-fb11-44ea-9b4b-619c3c73fe72,Ace Ventura en Afrique,Ace Ventura: When Nature Calls,1995,1995-11-10,91,3167,3919,6.31,{us}
 4d0e9173-6d59-44aa-8722-c28e36983ce6,The Truman Show,The Truman Show,1998,1998-06-04,102,,17407,8.14,{us}
 d3ffe1c2-80a1-4fb9-8a41-80d829220333,Charité biz'ness,Charité biz'ness,1998,1998-08-26,85,,1,4.50,{fr}
+fe9b10a0-5fa2-46fb-9307-ca1900ba858a,Morse,Låt den rätte komma in,2009,2009-04-02,114,,2771,7.53,"{fr,no,se}"
 1c876149-e2cf-4344-8f25-b629ab893392,Hercule et Sherlock,Hercule et Sherlock,1996,1996-12-04,95,,21,4.07,{fr}
 0b1d90ab-a6b1-40f1-8589-efdb8fc94d7c,Tyson,,1995,1995-04-29,110,,41,6.09,{us}
 e4d674eb-b343-4441-8cde-d79cd83f4281,Le Secret de Bear Mountain,Gold Diggers: The Secret of Bear Mountain,1995,1995-11-03,90,,139,6.30,{us}
@@ -491,7 +507,6 @@ c5c7641e-23b2-4802-927f-b8b865676b11,Les Aventures de Buckaroo Banzaï à traver
 ac7b9722-cae7-460d-a2d9-bf2594c2f035,Le Pont de Cassandra,The Cassandra Crossing,1977,1977-06-15,129,,195,6.30,"{de,it,gb,us}"
 656e659f-925e-4198-a5b8-427269f444e8,Les Grands Fonds,The Deep,1977,1977-06-17,124,,206,6.10,"{gb,us}"
 c5ecda7b-ac18-41da-b957-ed3be509d1f9,Black Christmas,Black Christmas,1974,1974-10-11,98,,733,6.93,{ca}
-0ac6aea2-3040-4e00-a6bd-c02b1f2bc237,Le Hobbit : Un voyage inattendu,The Hobbit: An Unexpected Journey,2012,2012-12-12,169,121938,17772,7.35,"{nz,us}"
 cbdfcd03-f210-4b29-b8e2-b05926be613a,La Chute de l'Empire romain,The Fall of the Roman Empire,1964,1964-03-24,187,,177,6.48,{us}
 be894aff-5683-4fb1-aeab-a7a73f45cc2e,Wind,,1992,1992-09-11,126,,35,6.40,{us}
 037181e3-2fcb-4da4-a15f-e313b22f824d,L'Empereur du mal,Fantaghirò 4,1994,1994-12-19,200,173738,82,6.32,{it}
@@ -524,17 +539,7 @@ a373147b-adcc-4a30-8a8e-4c60af79c83e,La loi du campus,The Brotherhood of Justice
 72266abe-5dba-40af-a967-188452b7f3b5,C'était demain,Time After Time,1979,1979-09-28,112,,314,6.87,{us}
 9da6d17b-3b1f-4670-89fe-8a37b4687268,Don Camillo en Russie,Il compagno Don Camillo,1965,1965-09-18,111,11582,165,7.10,"{fr,it}"
 653f42f0-68c9-4a36-934f-ba8dc1974f0f,Angèle,Angèle,1934,1934-10-26,150,,23,6.26,{fr}
-b907a64a-0e09-4e07-b03d-011c7539096a,The Grand Budapest Hotel,The Grand Budapest Hotel,2014,2014-02-26,100,,14181,8.05,"{de,us}"
-9289d18c-d9dd-4d3e-80b5-5707d5fdd6de,Enemy,Enemy,2014,2014-03-14,91,,5548,6.88,"{ca,fr,es}"
-6f6804bb-6b91-4ffb-b002-734c09079d9a,Le Hobbit : La Désolation de Smaug,The Hobbit: The Desolation of Smaug,2013,2013-12-11,161,121938,12614,7.57,"{nz,us}"
-911f9938-8ae7-4dda-a94d-b4bd4bf14219,Kick-Ass,Kick-Ass,2010,2010-03-22,117,179892,11214,7.12,"{gb,us}"
-bb6a100e-dc84-42bb-bc2b-5587f87e285a,L'Île de Nim,Nim's Island,2008,2008-04-03,100,232844,1089,5.91,{us}
-89cf48e3-2017-408c-9d09-0ae0badf6ebe,Laisse-moi entrer,Let Me In,2010,2010-10-01,116,,1906,6.77,"{gb,us}"
-c7d284fa-38a1-4012-8480-735d3f9e1e4a,La Vengeance dans la peau,The Bourne Ultimatum,2007,2007-08-03,115,31562,7312,7.43,"{fr,de,es,us}"
 bb124fa1-4e3a-47c6-8429-728cd477f283,Dragon rouge,Red Dragon,2002,2002-10-02,124,9743,4033,7.02,"{de,it,us}"
-1d4eac8f-37c0-4bd1-afbf-e2e8557af70c,Lieksa!,Lieksa!,2007,2007-09-14,95,,12,6.20,{fi}
-a9c20a29-38d8-4a28-8f47-dfb0cf3035b5,Tale of Vampires,Frostbiten,2006,2006-02-24,95,,59,5.17,"{ru,se}"
-540ef20e-292e-49ec-b2c4-584501eef931,Dikkenek,,2006,2006-06-21,84,,651,6.71,"{be,fr}"
 2fb21cb1-5f99-4afe-b2f3-f23ba63bb13e,Le Secret des poignards volants,十面埋伏,2004,2004-05-19,119,,1531,7.27,"{cn,hk,us}"
 00b4baa7-be74-4c20-8cdb-b63258e7772e,Hannibal,Hannibal,2001,2001-02-08,125,9743,4466,6.77,"{gb,us}"
 9890ea0e-ee10-4e50-a7a8-7db68e9c95c4,Rendez-vous,,1985,1985-05-15,82,,60,5.65,{fr}
@@ -544,6 +549,15 @@ dc4021d6-74c7-4ea2-b199-90dfc799db10,Les Douze Salopards 2 Nouvelle Mission,The 
 28a40848-cdda-4552-94b2-7edd1286135a,Une Baraque à Tout Casser,The Money Pit,1986,1986-03-26,87,,1062,6.51,{us}
 70c863e3-a89d-4e28-a67e-a16dbd4b5267,Couvre-feu,The Siege,1998,1998-11-06,111,,1240,6.29,{us}
 b9513b20-08fd-44eb-bee1-2d22356a7695,Planète hurlante,Screamers,1995,1995-09-08,108,122017,500,6.20,"{ca,jp,us}"
+6f6804bb-6b91-4ffb-b002-734c09079d9a,Le Hobbit : La Désolation de Smaug,The Hobbit: The Desolation of Smaug,2013,2013-12-11,161,121938,12614,7.57,"{nz,us}"
+9289d18c-d9dd-4d3e-80b5-5707d5fdd6de,Enemy,Enemy,2014,2014-03-14,91,,5548,6.88,"{ca,fr,es}"
+911f9938-8ae7-4dda-a94d-b4bd4bf14219,Kick-Ass,Kick-Ass,2010,2010-03-22,117,179892,11214,7.12,"{gb,us}"
+89cf48e3-2017-408c-9d09-0ae0badf6ebe,Laisse-moi entrer,Let Me In,2010,2010-10-01,116,,1906,6.77,"{gb,us}"
+bb6a100e-dc84-42bb-bc2b-5587f87e285a,L'Île de Nim,Nim's Island,2008,2008-04-03,100,232844,1089,5.91,{us}
+c7d284fa-38a1-4012-8480-735d3f9e1e4a,La Vengeance dans la peau,The Bourne Ultimatum,2007,2007-08-03,115,31562,7312,7.43,"{fr,de,es,us}"
+1d4eac8f-37c0-4bd1-afbf-e2e8557af70c,Lieksa!,Lieksa!,2007,2007-09-14,95,,12,6.20,{fi}
+540ef20e-292e-49ec-b2c4-584501eef931,Dikkenek,,2006,2006-06-21,84,,651,6.71,"{be,fr}"
+a9c20a29-38d8-4a28-8f47-dfb0cf3035b5,Tale of Vampires,Frostbiten,2006,2006-02-24,95,,59,5.17,"{ru,se}"
 0375cf7e-d017-4851-9e11-9574c7288c16,Didier,Didier,1997,1997-01-28,105,,563,6.05,{fr}
 fa690cd6-0d51-4408-bbb4-ec6c9e6ba0a6,L'Homme au pistolet d'or,The Man with the Golden Gun,1974,1974-12-01,125,645,1905,6.45,"{gb,us}"
 c2f6fc7e-69c8-4c2a-8a50-e42386a58678,Le mystère Silkwood,Silkwood,1983,1983-12-14,131,,300,6.94,{us}
@@ -675,6 +689,7 @@ b43b7e4f-3e71-45a0-b55e-2b5b82ccae70,"Vampire, vous avez dit vampire ?",Fright N
 8ddaed1e-15b2-4c45-8e54-535ef4f1f649,"Angélique, marquise des anges","Angélique, marquise des anges",1964,1964-12-08,112,91813,159,6.90,"{fr,it,de}"
 012e0e93-669a-457d-ae21-a268644e9721,Alice,,1990,1990-12-25,102,,271,6.40,{us}
 e35469f1-f0d7-45d8-8301-e08e0021e5c0,Crocodile Dundee II,,1988,1988-05-19,110,9332,1042,5.82,"{au,us}"
+9401a1ab-6a47-49d4-a042-fb184d088aba,The Gate : La Fissure,The Gate,1987,1987-04-21,,340623,352,6.00,"{ca,us}"
 fe363b41-fd38-4789-a8b4-83f786a5ac8e,Justice sauvage,Out for Justice,1991,1991-04-12,91,,406,6.10,{us}
 553b00c7-2471-4dd9-b74d-7850200df25d,Le Prince des marées,The Prince of Tides,1991,1991-12-25,132,,256,6.60,{us}
 de9b32c3-2b51-473c-97a5-f36e1ca746c4,Dead Again,,1991,1991-08-23,103,,352,6.42,{us}
@@ -699,7 +714,6 @@ e8848ac3-089b-4ce5-a7ed-a71737d1c3e3,Les Frères Pétard,Les frères Pétard,198
 1eae6f89-a115-4d52-b6de-db9009d2d028,We Are the World: The Story Behind the Song,,1985,1985-01-28,52,,9,8.67,{us}
 d5f73d9f-e4d7-4e06-9f45-64a684ea9068,Retenez-moi... ou je fais un malheur !,Retenez-moi... ou je fais un malheur !,1984,1984-10-31,90,,1,7.50,{fr}
 d592bffa-5cd8-4dd1-b506-8622f8ba0f68,Pinot simple flic,,1984,1984-06-06,85,,76,5.55,{fr}
-9401a1ab-6a47-49d4-a042-fb184d088aba,The Gate : La Fissure,The Gate,,1987-04-21,,,352,6.00,
 b9449302-bfe0-4925-84a7-e142c04a9a46,La Vengeance du serpent à plumes,La Vengeance du serpent à plumes,1984,1984-11-28,104,,64,4.60,{fr}
 c322b093-07df-4b54-8841-739885029b74,Les Hauts de Hurlevent,Wuthering Heights,1982,1982-10-16,102,,261,6.60,"{gb,us}"
 b8f6fa3d-3ed0-415f-837f-eff9bdde1b98,Deux heures moins le quart avant Jésus-Christ,,1982,1982-10-06,82,,175,6.14,{fr}
@@ -738,7 +752,6 @@ a98f87fc-c1bb-44c9-9b7c-79808418f09f,L'émir préfère les blondes,L'émir préf
 5b23e4f4-9418-4060-b61f-35e77d3ea051,Tendre bonheur,Tender Mercies,1983,1983-03-04,92,,115,6.59,"{gb,us}"
 a0823f33-7fd3-4512-9503-ae229a74b11c,Ça chauffe au lycée Ridgemont,Fast Times at Ridgemont High,1982,1982-08-13,90,,1150,6.81,{us}
 0a709751-d4e3-402b-a74b-2de8dd887561,"Tu fais pas le poids, Shérif !",Smokey and the Bandit II,1980,1980-08-15,100,87220,262,5.57,{us}
-879b8e8a-4343-4c0f-93f8-af433d7691d3,Ator l'invincibile 2,Ator l'invincibile 2,,1982-12-13,,,49,3.10,
 b59eae62-23d4-4414-bc1e-16f41f874716,On a volé la cuisse de Jupiter,On a volé la cuisse de Jupiter,1980,1980-02-06,102,159742,64,6.20,{fr}
 96cb8ea6-1d8f-4d18-8371-8c6ff7727001,Wall Street,,1987,1987-12-10,122,52783,1931,7.17,{us}
 0ebff639-b6b2-40fe-bf00-bd5eeba62fe2,Faut pas pousser,Chissà perché... capitano tutte a me,1980,1980-12-11,99,351721,189,6.20,{it}
@@ -780,7 +793,6 @@ fb74c2f9-8ef1-433e-a067-746b5e0bfd59,E.T. l'extra-terrestre,E.T. the Extra-Terre
 fef478b0-7ec9-4612-ad50-0591e9f55078,Amityville : La Maison du diable,The Amityville Horror,1979,1979-07-26,118,397842,854,6.29,{us}
 384e6083-8c63-4f37-bf8b-9bd6f32eb129,Nashville Lady,Coal Miner's Daughter,1980,1980-03-07,124,,235,7.23,{us}
 211ca561-4eca-438c-9c28-6d451be556ca,La Fureur du Juste,The Octagon,1980,1980-08-14,104,,115,5.10,{us}
-e766f2f7-0280-4c6f-9492-0c9f04d6c6b9,La Rose et la Flèche,Robin and Marian,,1976-03-11,,,222,6.31,
 d79c5e47-7d29-4d72-8988-9853e6d5492b,La légion saute sur Kolwezi,La légion saute sur Kolwezi,1980,1980-01-09,96,,15,5.20,{fr}
 0ae82a80-bedc-4bc2-b6d7-d7eaab3d8bac,Kramer contre Kramer,Kramer vs. Kramer,1980,1980-02-27,104,,2085,7.60,{us}
 f5136621-f2bc-4d67-9c49-6ffe68bf4159,La Bataille de Midway,Midway,1976,1976-06-18,123,,272,6.63,{us}
@@ -1294,7 +1306,6 @@ c1b83977-d216-4626-8a62-d4e5ce3d551f,Sur un arbre perché,Sur Un Arbre Perché,1
 d063a376-9d0a-4546-a4f1-64d0332e286f,Si Versailles m'était conté...,Si Versailles m'était conté,1954,1954-02-10,165,,22,7.05,"{fr,it}"
 61db6124-a035-4d3c-a3c8-57be133ec0b4,Pumpkinhead - Le Démon d'Halloween,Pumpkinhead,1988,1988-06-09,86,123256,424,6.31,{us}
 100110e9-eba4-4fe0-8f3e-2d94403cf624,Son Alibi,Her Alibi,1989,1989-02-03,94,,124,5.40,{us}
-bb03e089-ad9d-4f1d-a079-697c17d86eaf,La Fissure 2,Gate II,,1990-05-24,,,86,5.40,
 33a71b7d-8fd2-468a-9cc6-76b5eaeefad9,Les Trois Fugitifs,Three Fugitives,1989,1989-01-27,92,,267,6.67,{us}
 9b0a0e7b-cdab-4b12-b52f-5411f533045e,9 Semaines ½,Nine 1/2 Weeks,1986,1986-02-09,112,121195,944,6.11,{us}
 ddedbc4a-f4a5-48e2-943d-b45464777741,La Folle Journée de Ferris Bueller,Ferris Bueller's Day Off,1986,1986-06-11,103,,4656,7.60,{us}
@@ -1371,7 +1382,6 @@ b29b28f7-94ac-4513-8fa2-efd5eaf2bd6b,La Chanteuse et le milliardaire,The Marryin
 0fb07ade-84a4-4fcc-879a-4c618f4e206e,Les Anges de la nuit,State of Grace,1990,1990-09-14,135,,307,6.97,{us}
 e38b3744-f845-49ec-b122-217208fb9f0b,Potins de Femmes,Steel Magnolias,1989,1989-11-15,118,,618,7.20,{us}
 86da70a8-36f3-4b04-b22a-922121d5dcd7,Le Fleuve de la mort,River's Edge,1986,1986-08-27,99,,253,6.53,{us}
-1923c931-e7f7-4f55-bf69-40b1ef120510,Les Évadés de l'espace,宇宙からのメッセージ,,1978-04-29,,,49,5.89,
 cee8b14c-1134-47cd-b1b7-c7bb03dab17f,Ça va cogner…,Any Which Way You Can,1980,1980-12-17,110,168182,310,5.78,{us}
 7f93885e-24e8-4748-8d05-6365ecd545d3,La brûlure,Heartburn,1986,1986-07-25,113,,179,6.00,{us}
 73ba754c-c5aa-4df9-9ca2-7f4d87f73cfe,À toute vitesse,Quicksilver,1986,1986-02-14,105,,84,5.61,{us}
@@ -1449,7 +1459,7 @@ f4a74ee8-dee1-40b4-9701-a5dbc4a708c8,Butch Cassidy et le Kid,Butch Cassidy and t
 8f59635a-1f9a-450c-b22b-6d9eea34ffc8,"Hier, aujourd'hui et demain","Ieri, oggi, domani",1963,1963-12-21,118,,396,7.53,"{fr,it}"
 9781b369-bc68-4a54-9e5c-82e522d7b3f7,Léon,Léon: The Professional,1994,1994-09-14,110,,17,3.88,"{us,fr}"
 3ea5be47-b212-4cad-aae9-a417e0259e29,Taxi Driver,,1976,1976-02-09,115,,4,4.00,{us}
-f3355e62-022a-4877-a0c0-0cf602fc462a,"Cours, Lola, cours",Lola rennt,,1998-03-03,,,94,3.29,
+f3355e62-022a-4877-a0c0-0cf602fc462a,"Cours, Lola, cours",Lola rennt,1998,1998-03-03,,,94,3.29,{de}
 eb4c69f6-9fa5-4eb7-9a16-0259a9eac719,Retour vers le futur,Back to the Future,1985,1985-10-30,116,264,48,3.11,{us}
 49a2eac0-1dfb-4302-ac68-88b9593e6c17,French Connection,The French Connection,1971,1971-10-09,104,155474,7,3.00,{us}
 3e75f35f-0af9-4fb3-af06-fadd4f17ba4b,Arlington Road,Arlington Road,1999,1999-03-19,117,,148,3.75,{us}
@@ -1477,9 +1487,9 @@ dc18e978-7d17-4d05-ac8e-678a609fbcc7,Rocky V,,1990,1990-12-19,104,1575,54,3.31,{
 0909cfa1-bd90-4492-857c-beba4115a494,La Péniche du bonheur,Houseboat,1958,1958-11-19,105,,64,3.09,{us}
 2757aa3a-c677-4f9a-9fb4-9dc5d937a815,Gleaming the Cube,,1989,1989-01-13,101,,90,3.48,{us}
 42db4905-7a70-4cb9-a903-137bd0ab54b2,"La vie, l'amour… les vaches",City Slickers,1991,1991-06-07,112,150156,4,3.25,{us}
+b257c8fe-9ac2-4b73-a5a9-019347f4e5d3,Le Labyrinthe de Pan,El laberinto del fauno,2006,2006-10-10,113,,1,2.00,"{mx,es,us}"
 4916968b-8a41-4322-a571-f90acc587db0,L'Île aux pirates,Cutthroat Island,1995,1995-12-22,123,,43,3.62,"{fr,de,it,us}"
 8d6a11d0-8506-4ce2-8306-a0f7717d383f,Dark Star,,1974,1974-04-01,85,,4,2.75,{us}
-b257c8fe-9ac2-4b73-a5a9-019347f4e5d3,Le Labyrinthe de Pan,El laberinto del fauno,2006,2006-10-10,113,,1,2.00,"{mx,es,us}"
 2e4712e4-1824-4978-aeff-a64a12dc9ae6,Tigre et Dragon,卧虎藏龍,2000,2000-07-06,120,290973,3,4.33,"{cn,hk,tw,us}"
 67db43b0-0dc8-4159-8848-98ee0c98f16e,48 heures,48 Hrs.,1983,1983-04-27,96,93295,200,3.90,{us}
 98d9d80d-1d62-4733-8376-8a45c2becbfb,Thelma et Louise,Thelma & Louise,1991,1991-05-29,129,,16,2.88,"{gb,us}"
@@ -1487,9 +1497,9 @@ b257c8fe-9ac2-4b73-a5a9-019347f4e5d3,Le Labyrinthe de Pan,El laberinto del fauno
 2df4771e-f0f0-4af3-ba7d-6c42ca086d06,Une Journée en enfer,Die Hard: With a Vengeance,1995,1995-05-19,128,1570,3,4.17,{us}
 2fbdc317-2395-4b5b-a837-8cbfc3bf78ad,58 minutes pour vivre,Die Hard 2,1990,1990-07-03,123,1570,83,3.45,{us}
 a19ade02-4f7e-4971-8502-623a14dddd18,Rock Academy,School of Rock,2003,2003-10-03,108,,92,3.73,"{de,us}"
+2123c3ab-9751-4f97-8657-767b62fcb058,Quand l'inspecteur s'emmêle,A Shot in the Dark,1964,1964-06-23,,937,14,3.43,"{gb,us}"
 013ab2ce-dd39-4b3b-bb02-8981cf338881,Gilbert Grape,What's Eating Gilbert Grape,1993,1993-12-17,112,,24,3.33,{us}
 7f45a520-c8fb-4c72-841d-d554909bcdf9,Peur primale,Primal Fear,1996,1996-03-06,131,,7,2.79,{us}
-2123c3ab-9751-4f97-8657-767b62fcb058,Quand l'inspecteur s'emmêle,A Shot in the Dark,,1964-06-23,,,14,3.43,
 435879d9-cf7f-4aec-8a0d-9cda9b2cb692,Les Nerfs à vif,Cape Fear,1991,1991-11-13,128,,4,3.75,{us}
 73ded726-63ba-44f2-9f49-a17ddb85182d,Edward aux mains d'argent,Edward Scissorhands,1990,1990-12-07,105,,33,4.14,{us}
 a4edd221-02cc-4d8d-b599-c561004cb38d,Un fauteuil pour deux,Trading Places,1983,1983-11-16,117,,2,3.00,{us}
@@ -1497,10 +1507,10 @@ a4edd221-02cc-4d8d-b599-c561004cb38d,Un fauteuil pour deux,Trading Places,1983,1
 3ebd6177-8a7d-4b5e-ac8d-689a9384eb42,Speed 2 : Cap sur le danger,Speed 2: Cruise Control,1997,1997-06-13,125,43064,65,3.57,{us}
 6ca248c6-8eb1-4b45-ac82-e1a0826a1193,Traque sur Internet,The Net,1995,1995-07-28,114,328073,4,2.38,{us}
 b119378c-5baa-4550-aaf1-511e678d0862,L'Excellente aventure de Bill et Ted,Bill & Ted's Excellent Adventure,1989,1989-02-17,90,91746,9,3.17,{us}
+c940d72c-7aec-4baf-a8ef-0cac6536f7a3,À la poursuite d'Octobre Rouge,,,,135,192492,1,4.00,{us}
 c59dd8c6-d7ad-4b9a-aa7e-6c1bb0fe581a,Retour vers le futur II,Back to the Future Part II,1989,1989-11-22,108,264,142,3.44,{us}
 8ee695fb-790f-4673-8c3b-b9cb234485ef,Les Douze salopards,The Dirty Dozen,1967,1967-06-15,145,124492,2,3.50,"{gb,us}"
 fe63a509-ad1d-4960-b4a9-b704a6aa9ea0,La boum,,1980,1980-12-17,110,41649,4,3.00,{fr}
-c940d72c-7aec-4baf-a8ef-0cac6536f7a3,À la poursuite d'Octobre Rouge,,,,135,192492,1,4.00,{us}
 e87a94bb-4e98-4c7e-8197-a3ea59fb5708,Les Évadés de la planète des singes,Escape from the Planet of the Apes,1971,1971-05-20,97,1709,21,2.95,{us}
 4647ea91-7d7a-4ca7-a47a-7eaccb57a7b6,Predator 2,,1990,1990-11-21,108,399,8,2.56,{us}
 2ed1d67e-a806-4e35-b625-ca2b029e366c,Re-Animator,,1986,1986-03-12,95,98036,16,3.81,{us}
@@ -1526,8 +1536,8 @@ b3e7519c-3dc0-4adb-934f-27ff81d4f3a8,Le Retour du Jedi,Return of the Jedi,1983,1
 c9958275-97e1-4c4a-bda9-3d5a669a8f03,Superman,,1978,1978-12-14,143,8537,9,3.56,"{ch,gb,us}"
 d03f8211-bb65-45a6-897c-db64375e39c9,Star Trek : Générations,Star Trek: Generations,1994,1994-11-18,115,115570,35,2.31,{us}
 60905791-102d-4b5e-9150-612ba25f6f8b,Troubles,Shattered,1991,1991-10-11,98,,8,3.75,{us}
-74a65761-ab21-41a1-bacb-cae7fa9ebbcb,Nell,,1994,1994-12-23,112,,29,4.45,{us}
 0a313c3a-91f9-4c40-acfb-ad1141939b8c,Zodiac,Zodiac,2007,2007-03-02,163,,10,3.60,{us}
+74a65761-ab21-41a1-bacb-cae7fa9ebbcb,Nell,,1994,1994-12-23,112,,29,4.45,{us}
 c69e6abd-3ba8-49c6-9ab6-de98960e0b6a,Elephant Man,The Elephant Man,1980,1980-10-09,124,,31,3.84,{us}
 2f0e57a4-e26d-477e-aa0e-cbf3401c47bd,Retour vers le futur III,Back to the Future Part III,1990,1990-05-25,118,264,55,2.81,{us}
 2ac94869-51ea-45e9-8b7f-954a64eee8a2,Sister Act,,1992,1992-05-28,100,103573,51,3.68,{us}
@@ -1644,8 +1654,8 @@ de862b4b-d544-463d-bfb6-9e0f678ec1e1,Working Girl,,1988,1988-12-20,115,,5,3.40,{
 4509426e-05d5-487e-8eb1-4b5edfe7492a,Les Griffes de la nuit,A Nightmare on Elm Street,1985,1985-03-06,90,8581,180,3.57,"{us,gb}"
 b0cef7ff-389b-4aa2-8929-057907b83293,Arizona Junior,Raising Arizona,1987,1987-03-01,94,,12,3.25,{us}
 a7fedd07-5bb4-4081-a519-777ffc21d756,Miller's Crossing,,1990,1990-09-21,122,,21,3.26,{us}
-031a2d46-b107-4479-bae6-047b0c8b0468,Rain Man,,1988,1988-12-12,133,,198,3.52,{us}
 8a34feea-3da8-4bfa-9c60-6f5b90c8a1bc,Le Bateau,,,,149,,3,3.67,{de}
+031a2d46-b107-4479-bae6-047b0c8b0468,Rain Man,,1988,1988-12-12,133,,198,3.52,{us}
 8309e00e-76ed-4402-a6ff-fdc24f825506,1900,Novecento,1976,1976-08-28,325,,1,3.00,"{fr,de,it}"
 d71ced87-d64b-479b-be89-0480057491e6,Pour une poignée de dollars,,1966,1966-03-15,95,,3,3.00,"{de,es,it}"
 766a751b-4998-4dfb-bdd8-829dba6a1008,Tenue de soirée,,1986,1986-04-23,84,,1,4.00,{fr}
@@ -1718,7 +1728,7 @@ d378a52e-24f3-48d1-b3a7-08f146ed6e37,La Fille en rouge,The Woman in Red,1984,198
 92704ab7-0d3c-4336-a5d8-8fca7dddd481,Boulevard du crépuscule,Sunset Boulevard,1950,1950-08-10,110,,14,4.04,{us}
 26dfc3f2-ebe2-4410-b84a-8046864f62af,Full Metal Jacket,,1987,1987-10-21,116,,1,4.00,"{gb,us}"
 f093a368-da44-4eb6-870a-95da34ec3c99,Matrix,The Matrix,1999,1999-03-31,135,2344,1,3.00,{us}
-12555184-5b92-4bf2-805a-9c41cdf3a8d8,Un cadavre au dessert,Murder by Death,,1976-06-23,,,1,3.00,
+12555184-5b92-4bf2-805a-9c41cdf3a8d8,Un cadavre au dessert,Murder by Death,1976,1976-06-23,,,1,3.00,{us}
 20a92b49-babc-4be5-8d55-85ae081ffc23,Matrix Revolutions,The Matrix Revolutions,2003,2003-11-05,128,2344,19,3.34,{us}
 12f4fc21-adc7-410b-8ac9-50f671844240,Out of Africa,,1985,1985-12-20,161,,6,2.75,{us}
 1a2693ad-3f29-408b-8b7c-b490f2287f7e,Poltergeist : La Vengeance des fantômes,Poltergeist,1982,1982-10-20,114,10453,14,3.11,{us}
@@ -1733,9 +1743,9 @@ c19fcd76-f958-4bc4-8c51-a5b5224f30c9,Bodyguard,The Bodyguard,1992,1992-11-25,129
 df58b6ff-2faa-4a5e-a125-10fdae3fa7a7,Tonnerre de feu,Blue Thunder,1983,1983-08-17,110,,2,3.50,{us}
 7e024afd-a4dc-4cac-b160-0c73f7471125,Calmos,,1976,1976-02-11,97,,1,2.00,{fr}
 88305ead-e718-43bd-a79d-35eecaa33c59,Angel Heart,,1987,1987-03-06,115,,7,3.86,"{ca,gb,us}"
+045b7f61-44fd-4f01-a23e-d984f0fffb7e,Nosferatu - Fantôme de la nuit,,,,107,,1,3.50,"{de,fr}"
 eba5bb86-066a-4d1b-855a-768bcf3f81e8,La vie est belle,La vita è bella,1997,1997-12-20,117,,29,2.76,{it}
 c45a37e5-fc9e-4e57-8455-580d43dde8bb,Quand Harry rencontre Sally...,When Harry Met Sally...,1989,1989-11-15,96,,5,3.20,{us}
-045b7f61-44fd-4f01-a23e-d984f0fffb7e,Nosferatu - Fantôme de la nuit,,,,107,,1,3.50,"{de,fr}"
 b4e158e0-5ee7-4b86-b035-3ade437316b8,Navajo Joe,Navajo Joe,1966,1966-11-25,93,,1,2.00,"{es,it}"
 ec17efda-a681-47d6-8beb-6dfb4c86ff36,C'est arrivé entre midi et trois heures,From Noon Till Three,1976,1976-08-13,99,,2,3.00,{us}
 44366d86-aafc-4f0f-8445-ca4fa89d7cf6,Boyz n the Hood : La loi de la rue,Boyz n the Hood,1991,1991-07-12,112,,8,3.19,{us}
@@ -1751,12 +1761,12 @@ a320e5ce-1d85-4002-95c3-b5184ee00c20,Pulp Fiction,,1994,1994-09-10,154,,6,3.92,{
 e17b7b90-f221-47be-8e6f-7e1cc10494a9,Les diamants sont éternels,Diamonds Are Forever,1971,1971-12-14,120,645,1,3.00,"{gb,us}"
 400b7b47-2bca-4d8b-b652-2c70033c3b98,La Dernière Marche,Dead Man Walking,1995,1995-12-29,122,,2,3.00,"{us,gb}"
 6b8e7f63-7ea5-4285-be47-260cd5fb41c6,Sur la route de Madison,The Bridges of Madison County,1995,1995-06-02,135,,10,2.45,{us}
+1c8e6f2e-e055-441f-b3da-65fa2ce4752e,No Country for Old Men,No Country for Old Men,2007,2007-06-13,122,,2,3.25,{us}
 1df93853-0d9f-48ac-aef9-bcd0cdcf7d11,L'Espion qui m'aimait,The Spy Who Loved Me,1977,1977-07-07,126,645,7,3.36,"{gb,us}"
 7583522a-3f6c-4e8a-95a2-36b3192a7372,Shining,The Shining,1980,1980-05-23,119,530064,10,2.85,"{gb,us}"
 6552e474-6ae1-4857-9773-e500443c6766,Short Cuts,,1993,1993-09-05,188,,2,4.00,{us}
 c08b4c66-07a4-4339-ae25-817b52d4bf74,Alerte !,Outbreak,1995,1995-03-10,128,,1,2.50,{us}
 bcebb93d-bcb5-4d3d-b636-349f00d9442c,Manhattan,,1979,1979-04-25,96,,2,2.00,{us}
-1c8e6f2e-e055-441f-b3da-65fa2ce4752e,No Country for Old Men,No Country for Old Men,2007,2007-06-13,122,,2,3.25,{us}
 80c07340-a069-476a-a0a0-2460dc69b3cc,Les Aventures de Jack Burton dans les griffes du mandarin,Big Trouble in Little China,1986,1986-09-03,99,,5,3.30,{us}
 400b6264-5395-47ce-a2d8-45dcc79ce13c,Moonraker,Moonraker,1979,1979-06-26,130,645,1,3.00,"{fr,gb,us}"
 a317842a-81f5-4a44-889c-ca8420cd1804,Octopussy,Octopussy,1983,1983-06-05,131,645,7,3.14,{gb}
@@ -1764,22 +1774,22 @@ a317842a-81f5-4a44-889c-ca8420cd1804,Octopussy,Octopussy,1983,1983-06-05,131,645
 8360dd9f-bf78-428d-8e26-82179778fd96,Dangereusement vôtre,A View to a Kill,1985,1985-05-24,131,645,27,3.11,"{gb,us}"
 8a207a86-2c69-43a7-b7b1-c17f751b8005,Embrasse-moi vampire,Vampire's Kiss,1988,1988-09-17,103,,9,4.11,{us}
 61137bdd-1246-49e0-95b7-f8f4ec194a9c,L'Enfer des Zombies,Zombi 2,1979,1979-08-25,91,133923,1,4.00,{it}
-05b85c8b-22e9-434d-854b-0866c9696c16,Le Crépuscule des Magiciens,Wizards of the Lost Kingdom,,1985-10-01,,,5,3.90,
+05b85c8b-22e9-434d-854b-0866c9696c16,Le Crépuscule des Magiciens,Wizards of the Lost Kingdom,1985,1985-10-01,,544508,5,3.90,"{ar,us}"
 e82d5a88-0193-4938-be27-1aecfdb76cfb,Carrie au bal du diable,Carrie,1976,1976-11-03,98,257053,1,4.50,{us}
 793b8600-0799-425a-99d2-0cf63ad2f1af,Sixième sens,The Sixth Sense,1999,1999-08-06,107,,62,4.19,{us}
 c91117eb-0480-4f2b-97ec-95166aaee385,Le Dernier Empereur,The Last Emperor,1987,1987-10-04,156,,1,2.00,"{cn,fr,it,gb}"
 3a6eb0b7-7321-4e43-984e-f87fa84a054a,Volte/Face,Face/Off,1997,1997-06-27,139,,3,3.67,{us}
 9a45ab17-c72e-4863-aa3f-653214789477,Les Aventures de Rabbi Jacob,,1973,1973-10-17,100,,3,3.33,"{fr,it}"
+0926d29f-b3bd-45cb-9217-1e9b0e824082,Harry Potter et le Prince de sang-mêlé,Harry Potter and the Half-Blood Prince,2009,2009-07-15,153,1241,1,4.00,"{gb,us}"
 ffa60852-9421-498a-9917-5a66e1bb8064,L'Aile ou la Cuisse,,1976,1976-10-27,104,,18,3.11,{fr}
 6da1aacb-3ad5-451a-8314-423bcd8b9209,Evil Dead,The Evil Dead,1983,1983-08-24,85,1960,1,5.00,{us}
-0926d29f-b3bd-45cb-9217-1e9b0e824082,Harry Potter et le Prince de sang-mêlé,Harry Potter and the Half-Blood Prince,2009,2009-07-15,153,1241,1,4.00,"{gb,us}"
 a05095d4-3c17-460f-af2d-4b2a3fa3c868,Les Affranchis,GoodFellas,1990,1990-09-12,141,,1,3.00,{us}
 428bc8c4-3f25-4a21-862e-f5d4abd1cf2c,Blade Runner,,1982,1982-09-15,117,422837,10,3.20,"{us,hk,gb}"
 d0b828fd-d1a3-4662-8883-a28b74ce34ad,Bienvenue à Gattaca,Gattaca,1997,1997-09-07,106,,6,3.33,{us}
 13587c37-a42b-483b-9ea0-1abb4deff5aa,L'Ordinateur des pompes funèbres,L'Ordinateur des pompes funèbres,1976,1976-04-07,75,,1,2.00,"{fr,it}"
 7fde740e-3327-453a-a9e9-6156e06c53ed,Presque Célèbre,Almost Famous,2000,2000-09-15,161,,69,3.11,{us}
+0bc6aa2a-ba30-4c3d-a6c7-0687f2d853e8,Hero,英雄,2002,2002-07-22,,,26,2.96,"{cn,hk,au}"
 90400cd3-f9f0-42b9-8a7d-ccc074325bed,Madame Doubtfire,Mrs. Doubtfire,1993,1993-11-24,125,,68,3.08,{us}
-0bc6aa2a-ba30-4c3d-a6c7-0687f2d853e8,Hero,英雄,,2002-07-22,,,26,2.96,
 2bd8cc93-eb2b-4afa-ae0b-786e7ae60211,Highlander,,1986,1986-03-26,106,8050,1,3.50,"{gb,us}"
 aaed2f1b-0010-46c0-91d3-b2ab6a06a834,"Good Morning, Vietnam",,1987,1987-12-23,121,,12,3.21,{us}
 0c9f4c5f-5bca-4205-8c17-0aee79ce50ac,Highlander 3,Highlander III: The Sorcerer,1994,1994-11-29,94,8050,5,3.30,"{ca,fr,gb,us}"
@@ -1790,9 +1800,9 @@ b89b0a85-3270-4a0b-aa9d-951ca060122f,Get Shorty,,1995,1995-10-20,105,91698,4,4.3
 c99e78fe-4f06-486c-b120-866f6644c31c,JFK,,1991,1991-12-20,189,,1,5.00,"{fr,us}"
 a6314f05-5a8b-44a6-9ec9-8430db5a1884,Chinatown,,1974,1974-06-20,130,359005,7,1.00,{us}
 d8112663-9621-4bcf-9afe-6ab9795cc903,La Grande Vadrouille,,1966,1966-12-08,132,,1,0.50,"{fr,gb}"
+36d4b30b-7af0-4caa-ad83-af17652917ff,Underworld 2 - Evolution,Underworld: Evolution,2006,2006-01-12,106,2326,1,3.00,"{us,ca,hu}"
 db4fbe3e-b2bb-4464-b1c6-069f31f1ea34,Planète interdite,Forbidden Planet,1956,1956-03-23,99,,26,3.13,"{us,jp}"
 c6864498-cb48-4084-92da-c72dcac1412f,Invasion Los Angeles,They Live,1988,1988-11-04,93,,9,3.67,{us}
-36d4b30b-7af0-4caa-ad83-af17652917ff,Underworld 2 - Evolution,Underworld: Evolution,2006,2006-01-12,106,2326,1,3.00,"{us,ca,hu}"
 62ac438a-c7d2-47ca-81ad-36793862be1e,"Robin des Bois, prince des voleurs",Robin Hood: Prince of Thieves,1991,1991-06-14,143,,2,3.00,{us}
 7b510ce0-ce89-4f75-b1d7-a7ef21604a8d,Vidéodrome,Videodrome,1983,1983-02-04,88,,18,3.67,{ca}
 8619a0ee-94f5-407a-8c27-86ea6b1cd734,Graffiti américain,American Graffiti,1973,1973-08-11,110,124950,41,3.82,{us}
@@ -1806,8 +1816,8 @@ d1867c35-feab-4c69-81cc-a7861dd49fc2,Nuits Blanches à Seattle,Sleepless in Seat
 e597facf-adf0-46c7-b6fd-aa8a3b91a15b,Voyage au centre de la mémoire,Total Recall,1990,1990-10-17,113,,12,3.50,"{us,mx}"
 c05c2eab-796a-4131-8920-368f915355c7,Running Man,The Running Man,1987,1987-11-13,101,,1,4.00,{us}
 0e245d7d-4f85-42b0-8810-36e8933d693b,K-19,,,,128,,74,3.79,"{ca,de,gb,us}"
+59673b66-25da-4213-8dbd-241bf23d19c2,La Secte des cannibales,Mangiati vivi!,1980,1980-03-19,,,1,3.00,{it}
 d26a8bea-bcce-448d-9295-415ca1952ecd,Sliver,,1993,1993-05-21,107,,1,3.00,"{us,be}"
-59673b66-25da-4213-8dbd-241bf23d19c2,La Secte des cannibales,Mangiati vivi!,,1980-03-19,,,1,3.00,
 b1ef0ebc-8702-4fa0-8976-13d3e3bf26b9,Indiana Jones et le temple maudit,Indiana Jones and the Temple of Doom,1984,1984-09-12,118,84,3,1.67,{us}
 ce508983-0df1-4f51-ae6c-93f6d73df90e,Hook ou la Revanche du capitaine Crochet,Hook,1991,1991-04-10,136,,5,3.30,{us}
 babad69c-d9e9-4668-93da-f12899a80b45,Danse lascive,Dirty Dancing,1987,1987-12-23,100,86058,23,2.89,{us}
@@ -1820,8 +1830,8 @@ a79b7844-1a1c-40c7-874d-508e9ab7743c,Danger planétaire,The Blob,1958,1958-09-10
 ceed4410-eb74-41d5-9452-eb3b7d9ab6a3,Wayne's World,,1992,1992-02-14,90,8979,1,3.50,{us}
 603e1f4f-fc3c-4cbb-b97d-5875a53d4539,La Famille Pierrafeu,The Flintstones,1994,1994-05-26,91,351684,3,3.67,{us}
 8b7b5588-fbb1-4b36-bcfb-7b193478e09a,Indiana Jones et la dernière croisade,Indiana Jones and the Last Crusade,1989,1989-05-24,127,84,17,3.44,{us}
-674cfade-38bb-4da0-b70b-c70d7e698546,Les Hommes du président,All the President's Men,1976,1976-04-09,139,,9,2.22,{us}
 1dcfc6cd-0879-45e3-9cef-22db27f2d5f2,USS Alabama,,,,115,,1,0.50,{us}
+674cfade-38bb-4da0-b70b-c70d7e698546,Les Hommes du président,All the President's Men,1976,1976-04-09,139,,9,2.22,{us}
 bef11baa-33f9-414f-bf36-b119fcccc7f7,Harcèlement,Disclosure,1994,1994-12-09,123,,34,2.91,{us}
 cccb8e48-0364-42ba-8475-319d3e31b29a,La Surprise,Milk Money,1994,1994-08-31,110,,1,4.00,{us}
 b52f92a3-a0a9-4638-b5de-52a7ccf2d9c3,La Rivière sauvage,The River Wild,1994,1994-09-30,107,,2,3.50,{us}
@@ -1832,9 +1842,9 @@ a530452f-c280-4ff2-b428-498e11f9965f,Le Docteur Jivago,Doctor Zhivago,1965,1965-
 4c275261-7078-4df8-bc1f-ecec5c1b2f0a,Boire et déboires,Blind Date,1987,1987-03-27,96,,14,3.57,{us}
 e155fb8f-15f9-4285-a742-7cc2a54aabcf,Gremlins,,1984,1984-12-05,105,89151,5,4.50,{us}
 90b547c5-c91e-42ff-8c2a-93f38df09665,Gremlins 2 : La Nouvelle Génération,Gremlins 2: The New Batch,1990,1990-06-15,106,89151,23,4.17,{us}
+15447d7f-88f8-4df9-881c-b6cf459bebe4,La Panthère Rose,The Pink Panther,1963,1963-12-18,,937,13,3.69,"{xc,gb,us}"
 c31b4ab4-1006-47c1-bb25-d18df8e12b53,Ne vous retournez pas,Don't Look Now,1973,1973-01-18,112,,16,3.81,"{it,gb}"
 6d4decac-4b66-46b1-8ca0-665cd1cca476,Dr Folamour,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1964-01-29,93,,6,4.08,"{gb,us}"
-15447d7f-88f8-4df9-881c-b6cf459bebe4,La Panthère Rose,The Pink Panther,,1963-12-18,,,13,3.69,
 79aeb14f-57aa-4c77-be76-49742fe1c84d,Et pour quelques dollars de plus,,1966,1966-09-30,130,,11,3.82,"{de,it,es}"
 297971d8-2037-4602-bfe0-55a86373f043,L'Arme fatale,Lethal Weapon,1987,1987-03-06,109,945,4,3.88,{us}
 4a07b180-d7c6-4233-9027-088f6240c87d,L'Arme fatale 2,Lethal Weapon 2,1989,1989-07-07,114,945,26,3.88,{us}

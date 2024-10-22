@@ -2,7 +2,6 @@ personne_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 1e8b43c2-94ed-4610-ba42-9e90fdd23259,Morrell,David,1943-04-24,,ca,,0
 4ed9956d-54fa-47f5-8432-4f90de4649af,Eco,Umberto,,,,,0
 5cacda27-bc0d-4f4e-9613-adc4ec450a7f,Kishiro,Yukito,1967-03-20,,jp,,0
-413b9f05-c6c9-446b-b5eb-b335db3b56ae,McCallany,Holt,1963-09-03,,,,62.35
 ea853bcb-5133-40e4-9269-735d810c84b2,Davis,Geena,1956-01-21,,us,,22.187
 bb85abd1-9c9b-4281-aff3-9cc5ca4a8578,Oldman,Gary,1958-03-21,,,,59.185
 22b17317-6ab4-4885-a6f3-583372f1b99b,Anspaugh,David,1946-09-24,,,,0
@@ -102,7 +101,7 @@ b7770571-dac0-4ce4-a95a-25c37342d642,James,Steve,1952-02-19,1993-12-18,us,,10.15
 8add261c-9aff-44f2-9aa1-63a3f33eac8d,Grey,Jennifer,1960-03-26,,us,,16.104
 a5b4eea4-8970-4943-ad3a-0e01830f489e,Gansbacher,Margit,1940-03-10,,it,Margie Newton,39.845
 0a510c9f-22aa-4794-982c-ae8b02385f1a,Tornade,Pierre,1930-01-21,2012-03-07,,,5.831
-1b399fb2-b4cf-4d79-ad90-e43790eea60f,Hood,Gavin,1963-05-12,,,,0
+413b9f05-c6c9-446b-b5eb-b335db3b56ae,McCallany,Holt,1963-09-03,,,,62.35
 488a70e2-a0a0-4334-a749-3114261be8eb,Yuen,Corey,1951-12-16,,,,0
 033fc60a-b332-47ee-a444-02f43dcf200f,Alric,Catherine,1954-03-23,,,,5.726
 5818b6a0-c862-4f00-8515-44f6b55fabc3,Mandoki,Luis,1954-01-01,,,,0
@@ -207,7 +206,7 @@ a8dd215c-c756-4adb-81eb-f751680a3b08,Pfeiffer,Michelle,1958-04-29,,us,,40.675
 3f3c5a30-f335-4350-ab7c-945ff1d2a390,Walken,Christopher,1943-03-31,,,,32.022
 65e94a1b-715d-4c52-be15-7bbab229dbc4,Baldwin,William,1963-02-21,,,,32.246
 dd874ec3-cb95-47e7-a94c-4f048f0c8213,Berryman,Michael,1948-09-03,,,,15.279
-5ff1a712-7a9d-4ea3-92b0-b3ce71a854ca,Michaël,Simon,1950-05-01,,,,0
+1b399fb2-b4cf-4d79-ad90-e43790eea60f,Hood,Gavin,1963-05-12,,,,0
 89abd682-f8ef-4a7a-87f4-01bd6b360495,Post,Ted,1918-03-31,2013-08-20,,,0
 a48c15d1-d214-4bfc-9461-a0e9b2bb890c,Burns,Tim,,,,,0
 ea5d905d-1657-4e89-b8e5-173ea29c960a,Ferris,Michael,1961-01-29,,,,0
@@ -315,7 +314,7 @@ d4809c32-d0ad-4b58-80d7-e6ca92be8e76,Bacon,Kevin,1958-07-08,,,,70.74
 04b5868b-b9e3-4784-be6a-4dc86d6424ce,Kane,Carol,1952-06-18,,,,26.032
 e9620608-8b1b-4451-9326-17937e5fefdd,Angulo,Álex,1953-04-12,2014-07-20,,,2.744
 d3e3ebd4-ae3f-41f5-ae4d-7458d2545d1a,Rader,Peter,,,,,0
-984c7659-1dc3-4d48-85b6-8c8202269a68,Coffey,Charlie,,,,,0
+5ff1a712-7a9d-4ea3-92b0-b3ce71a854ca,Michaël,Simon,1950-05-01,,,,0
 a6fb636e-1a5c-4413-bd26-34466324c4ff,Green,Ellen,,,,,0
 e07ddd11-7d96-45c0-8b35-210d699601a9,Tydor,Jonathan,,,,,0
 17624244-a366-4806-84a5-3b7ea26e91be,Connolly,Jon,,,,,0
@@ -422,7 +421,7 @@ ba8301bf-3264-48fe-8805-49f1f74445ed,Benigni,Roberto,1952-10-27,,it,,34.934
 83b0d6b4-ab1b-40f1-ac87-603636b15654,Gooding Jr.,Cuba,1968-01-02,,,,54.313
 73b1436e-a13b-49ec-aae9-bdcc3f1bf4b3,Duvall,Robert,1931-01-05,,,,25.066
 fb24c45c-68d7-47bd-b117-8034e05be47a,Mark,Robert,,,,,0
-740ad97c-b14b-46e5-9c1a-b7737c09e82c,Minion,Joseph,,,,,0
+984c7659-1dc3-4d48-85b6-8c8202269a68,Coffey,Charlie,,,,,0
 18a3940b-c6cc-4c22-be2b-ba3d5673decf,Kane,Michael,,,,,0
 99e108ee-7e2a-4371-b23d-14dedaaddf80,Sarner,Arlene,,,,,0
 12c72ec1-0078-4ec6-8759-ff9fa3c316ff,Jakoby,Don,,,,,0
@@ -533,8 +532,8 @@ aff70142-3df7-427f-8cef-8824d84fe904,Spearritt,Hannah,1981-04-01,,,,11.882
 933a9448-bfe8-438c-9580-787c55374ef4,Wheaton,Wil,1972-07-29,,,,25.144
 578ed45b-edca-4465-b142-40a0e256569f,Magimel,Benoît,1974-05-11,,,,23.883
 3eb4295e-bf8f-4a79-81d1-98ca4bc05084,Lucas,George,1944-05-14,,,,0
-0c8b6868-95a5-403d-97e9-38ec5d407219,Joxe,Sandra,,,,,0
-cbf3c2cb-f6f3-45dd-80a7-041e202ce0b9,Austen,Jane,1775-12-16,1817-07-18,,,0
+740ad97c-b14b-46e5-9c1a-b7737c09e82c,Minion,Joseph,,,,,0
+0b98ac3d-def4-4b39-8fde-ce3377e85035,Newman,David,1937-02-04,2003-06-27,,,0
 30aa59b5-e2f8-4ddf-9d06-bd50eb65916e,Martínez,Guillermo,,,,,0
 2151bc58-9aa1-42bd-81cc-d400cf619e94,Penney,Edmund,1926-07-26,2008-09-11,,,0
 1ace9f0c-09e6-4ac2-9a58-f9d2bb261926,Ormsby,Alan,,,,,0
@@ -643,8 +642,8 @@ b70e60fc-cc9f-4480-b327-60f999bbb244,Flynn Boyle,Lara,1970-03-24,,,,19.143
 c9155586-acc8-4dc9-b1f9-171d8a96b31f,Norton,Edward,1969-08-18,,,,48.912
 a5be2709-d6e9-46fb-b34a-fe8409799879,Rego,Luis,1943-05-30,,,,13.189
 100c402a-15fa-4e38-a9e1-d97596d539ac,Max,E.,,,,,0
-0b98ac3d-def4-4b39-8fde-ce3377e85035,Newman,David,1937-02-04,2003-06-27,,,0
-c0584c19-99d1-4e1b-ad96-5b7e4f47517e,Shabatai,Ya'ackov,,,,,0
+0c8b6868-95a5-403d-97e9-38ec5d407219,Joxe,Sandra,,,,,0
+cbf3c2cb-f6f3-45dd-80a7-041e202ce0b9,Austen,Jane,1775-12-16,1817-07-18,,,0
 53a384d6-4929-4faa-a8f3-6fc561f6964f,Jackman,Henry,1974-01-01,,,,0
 2f85ba80-28b0-4f83-9844-6044ab542588,Maas,Peter,1929-06-27,2001-08-23,,,0
 19f1b356-afe2-44a6-8438-124e83d402a6,Flaubert,Gustave,,,,,0
@@ -757,13 +756,13 @@ caa1dd9a-9c41-417d-a10d-c804bb6ba656,Craven,Wes,1939-08-02,2015-08-30,,,0
 df86bdab-91b8-4adc-8040-d6ea4ed0fc69,Alfredson,Tomas,1965-04-01,,,,0
 8a65d8a5-cefb-4ba5-9ed5-60c518c56152,Favreau,Jon,1966-10-19,,,,0
 2bd8e877-93d7-4fb3-94c7-8be019ac29ea,Sarde,Philippe,1948-06-21,,,,0
-6b9a39ec-e41a-4aea-ae49-54e5638c1dae,Morris,John,1926-10-18,2018-01-25,,,0
+c0584c19-99d1-4e1b-ad96-5b7e4f47517e,Shabatai,Ya'ackov,,,,,0
 ed424e0b-2b10-4d1e-bc6c-fa8c8adf3c00,De,Guido,1944-12-22,,,,0
 a9758bd9-4d11-447d-a3d4-38ad5f148be1,Shore,Howard,1946-10-18,,,,0
 a56db2fb-61ed-4db7-9987-7a86b18baeae,Bernard,James,,,,,0
+05d6c423-b78e-47b9-9b91-e6aff693767c,Anderson,Laurie,1947-06-05,,,,0
 9d2c7d10-6265-4e0b-ab48-af5c9703da2d,Schenker,Rudolf,1948-08-31,,de,,0
 2844cc9a-e417-4b7f-9a88-81f3b7b102ff,Meine,Klaus,1948-05-25,,de,,0
-05d6c423-b78e-47b9-9b91-e6aff693767c,Anderson,Laurie,1947-06-05,,,,0
 19e6ab67-8615-4aa7-b0e3-ed0babf92b45,Bonezzi,Bernardo,,,,,0
 a16074bb-a7a1-45de-894b-a8f64ad1462f,Budd,Roy,,,,,0
 ef468e98-919a-46b1-818d-f0afcdeb591e,Plumeri,Terry,,,,,0
@@ -872,10 +871,11 @@ e605c18f-8f35-4b4f-826f-8bb3c2cb1178,J.,D.,1965-01-17,,,,0
 5b35204f-55fd-4034-ae9e-6e80295dd9e5,Foley,James,1953-12-28,,,,0
 1ce780e4-9914-4dd0-a53a-84ef720eab95,Van,Olivier,,,,,0
 91a30d92-a036-49b3-b0f6-e2210d0980b6,Mansfield,David,1956-12-13,,,,0
-9ecb7c39-9dc6-4af8-8f2b-d39d4ea21c85,Wakeman,Rick,1949-05-18,,,,0
+6b9a39ec-e41a-4aea-ae49-54e5638c1dae,Morris,John,1926-10-18,2018-01-25,,,0
 c54783a6-1130-48c1-8e46-e2e77cdea2ce,Ceccarelli,Luigi,,,,,0
 a47daf9c-4006-44a2-99fb-d59330787b98,Rubinstein,Donald,,,,,0
 2bfedb50-0b6b-45e1-b3b5-24a8394f717c,Vai,Steve,1960-06-06,,,,0
+50cbcb1a-74a6-4ceb-9b5e-3107c1668865,Mann,Hummie,,,,,0
 3a3f4982-f328-44c4-a3d7-0c684f7dd8d9,Jabs,Matthias,1955-10-25,,gb,,0
 dcb4810d-9500-453c-9e33-7477e67a009d,Schenker,Michael,1955-01-10,,gb,,0
 5bc04333-8945-4f7f-ac35-f30657c97d8d,Dirkschneider,Udo,1952-04-06,,de,,0
@@ -904,7 +904,6 @@ ae7b597a-0a61-44aa-8211-b6521546e63d,Singer,Eric,1958-05-12,,gb,,0
 60ae3cad-d861-40a9-b76e-2f02a2f8807f,Joplin,Janis,1943-01-19,1970-10-04,us,,0
 568bfba7-21c0-468c-97d3-f45fb8058166,Rhoads,Randy,1956-12-06,1982-03-19,gb,,0
 10a457dd-20ac-4d9a-8bf2-da7e596d8046,Burton,Cliff,1962-02-10,1986-09-27,gb,,0
-50cbcb1a-74a6-4ceb-9b5e-3107c1668865,Mann,Hummie,,,,,0
 586df674-a076-4bc5-b746-1c9d319aea08,Paich,Marty,1925-01-23,1985-08-12,,,0
 fcebb17f-84dd-4f9d-9cf0-e48b82492f07,Oryema,Geoffrey,1953-04-16,2018-06-22,,,0
 1a3915eb-9b77-4dc1-beb6-c4965ae9b879,tenBroek,Nic.,,,,,0
@@ -985,9 +984,10 @@ a84eb8a8-b2e0-4ada-83fe-54921834049f,Segal,Peter,1962-04-20,,,,0
 ee85fbd7-43d2-42ed-923d-cc9637efee5c,Sommers,Stephen,1962-03-20,,,,0
 fa5eacd6-be96-4248-8f29-043955cde67a,Bergman,Andrew,1945-02-20,,,,0
 8a9c337d-9774-43b6-adcd-58a927eceeea,Bishop,Michael,,,,,0
-f3c177b3-2a05-4d78-865f-26b006e1e1b9,Chaffey,Don,1917-08-05,1990-11-13,,,0
+9ecb7c39-9dc6-4af8-8f2b-d39d4ea21c85,Wakeman,Rick,1949-05-18,,,,0
 c7d051ab-4b04-45b9-b1e3-7805ba7b9da4,Columbus,Chris,1958-09-10,,,,0
 aeb7882a-0f40-4bf0-be8b-8a481ef1c074,Ford,Francis,1939-04-07,,,,0
+f184af76-3bf5-41f3-b047-974d8d750345,Theron,Charlize,1975-08-07,,,,70.01
 2875319b-5c15-4964-94bd-80c2086b5531,Dio,Ronnie James,1942-07-10,2010-05-16,us,,0
 da0fbbd0-267a-4b38-9b6c-5a0b753faa0a,Halford,Robert John Arthur,1951-08-25,,gb,Rob Halford,0
 7a23b17c-748e-45bd-b550-d9b0e0260c5c,Kilmister,Lemmy,1945-12-24,2015-12-28,gb,,0
@@ -997,7 +997,6 @@ f706ac9d-1da5-44a1-a99d-b5ce3d8c6089,Ulrich,Lars,1963-12-26,,dk,,0
 0a6dbd99-c365-4c45-8057-98cda6163feb,Newsted,Jason,1963-03-04,,gb,,0
 f9383a75-7449-424d-9481-aa4aa15d92ba,Hammett,Kirk,1962-11-18,,us,,0
 b5275133-3d93-4636-9227-8d0c84d2bff9,Trujillo Veracruz,Roberto Agustín,1964-10-23,,us,Robert Trujillo,0
-f184af76-3bf5-41f3-b047-974d8d750345,Theron,Charlize,1975-08-07,,,,70.01
 884ba82e-3886-4c42-be57-a625e84189c0,Harmon,Robert,1953-01-01,,,,0
 19c111d3-4f78-4fff-b068-273a7ddbcac2,Previn,André,1929-04-06,2019-02-28,,,0
 a52a386c-dafc-4518-aba0-1b9df8a22086,Rich,Richard,1951-06-15,,,,0
@@ -1097,7 +1096,7 @@ a4d0ea46-f873-4f04-aa6a-e2387790a6ac,Streisand,Barbra,1942-04-24,,,,0
 61804556-bf34-41de-9bd6-0e77ce3113fa,Seltzer,David,1940-02-12,,,,0
 71efdc7b-90c8-43b1-9b1d-3ae12e36be44,Pearson,Duke,,,,,0
 45ca96af-5e2c-4761-b212-827e6240ddb5,Clifford,Matt,,,,,0
-7fc717be-5f44-461f-85b5-b6d967edaef0,Mamet,David,1947-11-30,,,,0
+f3c177b3-2a05-4d78-865f-26b006e1e1b9,Chaffey,Don,1917-08-05,1990-11-13,,,0
 e252ca21-3bce-4f05-ae6b-bea3f665992f,Joffé,Roland,1945-11-17,,,,0
 caafde9a-3fc4-4b45-bb83-fed37a97f728,Frizzi,Fabio,1951-07-02,,,,0
 17ffacaf-cc20-4ec4-af3d-c1c33748f474,Pérez,Louie,,,,,0
@@ -1209,7 +1208,7 @@ b345affa-4ae2-4051-bce1-c58997f78438,Van,Buddy,1929-08-20,2021-05-11,,,0
 b76ebd59-fac3-4e1c-a066-6bb6ce27b191,Goddard,Gary,1954-07-18,,,,0
 d8f8dd5d-d1ca-4903-9450-eaa4c6f06e13,Greenberg,Richard,,2018-06-16,,,0
 caf25e76-0afa-4b74-af14-0059dbbaab34,"",Koyuki,1976-12-18,,,,22.444
-c126d54f-a6dd-4535-b2f1-0ef6c25c968a,Kitay,David,1961-10-23,,,,0
+7fc717be-5f44-461f-85b5-b6d967edaef0,Mamet,David,1947-11-30,,,,0
 241cc58f-262e-4752-a58b-236ab817293f,Rouland,Jean-Paul,1928-05-28,,,,0
 1e73f9bd-bd38-415d-9739-c6617b953d31,Ritchie,Michael,1938-11-28,2001-04-16,,,0
 7787c978-bcaf-43ff-807b-c3a13321eb73,Wachowski,Lilly,1967-12-29,,us,,0
@@ -1319,7 +1318,7 @@ b9e9e696-d003-4093-ba49-a9e63a13ee0b,Lewis,Jerry,1926-03-16,2017-08-20,,,0
 80a972a9-dd3b-496a-b51f-e0d7d6efc707,Rudnick,Paul,1957-12-29,,,,0
 253e76cf-a77c-426a-88cf-3d6416c43c4f,A.,Dennis,,,,,0
 322fb6b8-6a74-4b09-8ef1-4c9671ad255c,Tchenko,Katia,1947-05-08,,,,5.573
-23e95005-fa85-4a84-bdda-af742d096e0d,Vinton,Will,1947-11-17,2018-10-04,,,0
+c126d54f-a6dd-4535-b2f1-0ef6c25c968a,Kitay,David,1961-10-23,,,,0
 b08745f1-8661-421f-8e4c-b8fd277a1b6b,Berger,Robert,,,,,0
 1bb9b726-8e3b-4048-bfec-021fe7f7af8e,Engelhard,Jack,,,,,0
 fa45e10b-c973-472c-9158-4e2172983f2c,Corbucci,Sergio,1926-12-06,1990-12-01,,,0
@@ -1426,7 +1425,7 @@ bf81abee-e5bb-44e4-92bf-22d9b5d01653,Weiser,Stanley,,,,,0
 f5664ede-0621-4db1-84c2-14b9c598db73,Kluger,Jeffrey,,,,,0
 e509fd4b-d43e-45b4-a42e-dda248323894,A.,Peter,,,,,0
 bec132b3-ff24-453b-885d-dac0199f21e8,Prud'homme,Alex,,,,,0
-6776df6c-abd8-417f-b0e4-00b0981f8de9,Goldman,William,1931-08-12,2018-11-16,,,0
+23e95005-fa85-4a84-bdda-af742d096e0d,Vinton,Will,1947-11-17,2018-10-04,,,0
 a461b59f-7443-4cfa-a1f4-c55765f8558b,Armstrong,Craig,1959-04-29,,,,0
 79cfe828-c7de-4e97-8e00-67a54c9f1239,Hickox,Anthony,1959-01-30,,,,0
 6e4ad1d5-b8e4-4691-86f6-a44325250899,Carew,Topper,,,,,0
@@ -1533,7 +1532,7 @@ ed577724-bc10-415c-a0d5-e0d00ce6a6da,Bernstein,Peter,1951-04-10,,,,0
 f3d8f00d-0701-44f8-a585-b72f7a891313,Rubinstein,John,1946-12-08,,,,0
 d8e423d8-143c-4fda-8a44-4e8b4e50a52d,Veyron,Martin,1950-03-27,,,,0
 0da17175-6f2f-420b-b6b3-e5fbb980dac4,Doukouré,Cheik,1943-01-01,,,,0
-b243eb24-1b83-4293-b819-0f3988f40565,Corbin,Barry,1940-10-16,,,,33.506
+6776df6c-abd8-417f-b0e4-00b0981f8de9,Goldman,William,1931-08-12,2018-11-16,,,0
 a925e881-98b0-4744-8bf0-57c042029673,Hepburn,Katharine,1907-05-12,2003-06-29,,,22.59
 bd769648-21b4-48ec-8c52-1b235e28e4a8,Rothberg,Jeff,,,,,0
 f330ec61-0ba9-4da9-b1f0-1353f9ab641c,Firth,Colin,1960-09-10,,,,50.849
@@ -1639,7 +1638,7 @@ dbf3daef-621d-46d6-a1ad-7188b1aaf681,Rickman,Thomas,,,,,0
 fa5643bb-b1df-4de4-a5fd-d52e14040bc9,Jurriaans,Saunder,,,,,0
 403ed51d-5d0e-40c0-86be-439ac89ebec8,Lehane,Dennis,1965-08-04,,,,0
 67100c0f-917a-4346-ac1c-d4137271f279,Peters,A.E.,,,,,0
-94971b31-45e5-411c-8ea0-6e44e0374e55,Rodgers,Mark,,,,,0
+b243eb24-1b83-4293-b819-0f3988f40565,Corbin,Barry,1940-10-16,,,,33.506
 cdc59d62-841b-40b9-85d0-a369209e71e4,Strangio,Frank,,,,,0
 d8028e68-d7c7-48b0-bb31-0269de5b6f34,McWorter,Kathy,,,,,0
 4f3f6745-8f2a-4bd2-86bc-60ecd41ed6a5,Freeman,Morgan,1937-06-01,,us,,58.228
@@ -1744,7 +1743,7 @@ aaa02a74-5d42-4842-a149-5a6b5c5b48e3,Abrams,J.J.,1966-06-27,,,,0
 984184bc-4ecb-4849-b74f-3aca5caf47fd,Schlöndorff,Volker,1939-03-31,,,,0
 50bf21dd-c7ff-4172-8482-cdfa43add6a4,Jarrott,Charles,1927-06-16,2011-03-04,,,0
 2e15b435-5dc6-4c73-9b2a-4c527dfb7196,Banke,Anders,,,,,0
-1ecf8ccf-d236-4f3e-b94f-154a782cc230,Franklin,Carl,1949-04-11,,,,0
+94971b31-45e5-411c-8ea0-6e44e0374e55,Rodgers,Mark,,,,,0
 b4166538-1ece-4723-9870-6b2166690b87,Candaele,Kelly,,,,,0
 4561e3b2-5c06-48b9-9f2a-2a682cd1b4f2,Latham,Aaron,,,,,0
 055b10e5-1aed-4dba-add5-d3a26593ea85,Underwood,Ron,1953-11-06,,,,0
@@ -1849,7 +1848,7 @@ cb9804c8-7a2e-4f77-9a0c-e543991b12af,Mann,Anthony,1906-06-30,1967-04-29,,,0
 6e64b82d-1151-4d3f-87fb-268eac477c36,Rosenthal,Laurence,1926-11-04,,,,0
 fb5c03ae-ed8b-48de-b6a2-cadf3a6aef51,Levin,Mark,1968-08-10,,,,0
 6e6b3260-ca73-4007-a99a-ca44096a2208,Savan,Glenn,,,,,0
-47d01367-2d67-4ca8-b559-a0f7cd17781e,Astier,Lionnel,1953-10-31,,,,8.868
+1ecf8ccf-d236-4f3e-b94f-154a782cc230,Franklin,Carl,1949-04-11,,,,0
 ff0bb66a-9e83-4a4f-9b7f-98414031689e,Logan,Bob,1941-09-29,,,,0
 d789a676-b159-45fd-9c73-4d9ddf96d29f,Michael,Dennis,,,,,0
 5a681ec0-e38e-45a0-b5ff-d2a5428cb634,Deville,Michel,1931-04-13,2023-02-16,,,0
@@ -1953,7 +1952,7 @@ a111f60d-161e-4305-b939-c224bd43ff07,Holdridge,Lee,1944-03-03,,,,0
 70f762f7-66bf-42bf-8a69-6ca5ac5a7e99,Reynolds,Jonathan,,,,,0
 27284a6a-63be-439a-9fb4-80c72f828865,Rymer,Michael,1963-03-01,,,,0
 0ac3a2be-f72e-47a1-86b6-9932279a01c3,Gregson-Williams,Harry,1961-12-13,,,,0
-571958b4-cb6d-4130-8684-9fcce7d9f9f5,Howarth,Alan,,,,,0
+47d01367-2d67-4ca8-b559-a0f7cd17781e,Astier,Lionnel,1953-10-31,,,,8.868
 52cff270-2eac-4c01-8dc3-623beaf35ea0,Smith,Maggie,1934-12-28,2024-09-27,,,19.115
 58fbf05d-0a25-46f2-bb1d-df51870fcc67,Lisberger,Steven,1951-04-24,,,,0
 603c3e5b-e5dc-4849-b507-ffcf29625478,Modine,Matthew,1959-03-22,,,,44.034
@@ -2056,7 +2055,7 @@ de8ea83b-876a-496d-98f9-68df5aaedebb,Michael Hall,Anthony,1968-04-14,,,,34.049
 5db9320b-f723-4418-a1d7-6d354a9d319b,Goldstein,Jenette,1960-02-04,,us,,12.832
 eaadc0c4-3bdc-4f0d-ad89-57f9d1f72525,Pialat,Maurice,1925-08-31,2003-01-11,,,0
 8134d5f0-cf3e-417a-a32d-bcdeb5573541,Gurskis,Dan,,,,,0
-84eb02aa-1ac0-476d-a471-561b5dd07e0c,Wah,Yuen,1950-09-02,,,,13.612
+571958b4-cb6d-4130-8684-9fcce7d9f9f5,Howarth,Alan,,,,,0
 8a5e7eab-46ba-44ac-bee7-05f9aff05e5a,Wong,Isabella,1961-08-19,,,,7.099
 373eaca2-1eaa-449d-a24b-1f25af2a2263,Blanc,Michel,1952-04-16,,fr,,15.671
 84e45c36-5279-44b4-81a1-8c02ea9423fa,Lafont,Bernadette,1938-10-28,2013-07-25,,,11.787
@@ -2157,7 +2156,7 @@ d0791cf1-298f-40ae-83db-138627c00880,Georgeson,Tom,1937-08-08,,,,20.195
 60369b57-d42e-4cf5-8c02-8e6f28d825a7,Van Damme,Jean-Claude,1960-10-18,,be,,66.089
 127683d0-dd0e-49dd-a787-2a576ba1655d,Culkin,Macaulay,1980-08-26,,,,21.202
 c32e1a30-dc30-40fd-82ab-d408596c5de8,Ikeuchi,Junko,1933-11-04,2010-09-26,,,10.963
-7aff9b4e-4b81-4daf-9cad-96a3d8e238f0,Stern,Sandor,1936-07-13,,,,0
+84eb02aa-1ac0-476d-a471-561b5dd07e0c,Wah,Yuen,1950-09-02,,,,13.612
 c71d12bc-ad45-4557-9616-4209143ff5a5,Kostmayer,John,,,,,0
 47483fae-2229-4cca-835b-e1b69bf54c87,Hamill,Mark,1951-09-25,,,,60.903
 d247621e-d5c0-4918-8990-09a45f8fa613,Carpenter,John,1948-01-16,,us,,21.414
@@ -2262,7 +2261,7 @@ df4f2f7a-e7bd-4e39-bf2b-871d1bf260cb,Mitchum,Robert,1917-08-06,1997-07-01,,,17.6
 33365a83-f403-4703-a772-dcfb092a95bd,Zurzolo,Angelo,,,,,0
 74d01206-9a85-48a5-86e9-75f658cac2cd,Longval,Jean-Marc,1957-06-12,,,,0
 061da207-3ba9-4ec9-8fe1-49ebe667256f,Winston,Seth,,,,,0
-ed469c3e-2d94-4e38-9b98-251502005d96,Matthau,Walter,1920-10-01,2000-07-01,,,2.744
+7aff9b4e-4b81-4daf-9cad-96a3d8e238f0,Stern,Sandor,1936-07-13,,,,0
 d72084b3-cb2a-4f45-83db-12833c43383d,Penn,Zak,1968-03-23,,,,0
 3d2ce3a6-d945-4082-9122-8204ac9589d1,Leo,James,1927-02-27,1993-10-20,,,0
 48e58294-25e5-44b9-9297-7959cc9949b3,McIntire,Tim,1944-07-19,1986-04-15,,,0
@@ -2364,7 +2363,7 @@ ae2972d2-2a79-4103-beb1-2ef69087c9f1,Sienkiewicz,Henryk,1846-05-05,1916-11-15,,,
 bb95d424-4c91-45ae-93ed-d075b4acb749,Villechaize,Hervé,1943-04-23,1993-09-04,,,18.646
 24bbcb0b-a79c-4e6e-866b-67b46787d39c,Gilford,Gwynne,1946-07-27,,,,8.233
 57e357dd-f64f-43b1-bcda-ad1a9f1efe04,Gottlieb,Carl,1938-03-18,,,,0
-d2f7436e-39f8-4728-8bbd-f412abe7eca4,Montel,Grégory,1976-09-20,,,,10.191
+ed469c3e-2d94-4e38-9b98-251502005d96,Matthau,Walter,1920-10-01,2000-07-01,,,2.744
 2a66da6f-fafe-4f92-b6e7-1ba1251d0808,Vigne,Daniel,1942-10-12,,,,0
 4fb15d05-7ae8-49c4-b756-71306ffb2168,Sevilla,Joëlle,1953-02-10,,,,5.401
 860dc82b-a1cd-4ee7-b39f-13a58fb20f33,Amiel,Jon,1948-05-20,,,,0
@@ -2468,7 +2467,7 @@ b11662ad-9d33-4067-a16d-2eb0093ad38c,Morricone,Ennio,1928-11-10,2020-07-06,,,0
 c0095a38-2a05-4589-a400-3f13614587d1,Kidron,Beeban,1961-05-02,,,,0
 0f9bc214-a9f2-4099-8c7d-131cff6cf113,Levant,Brian,1952-08-06,,,,0
 8254bbde-28f0-4dc4-8107-8af037a70e22,Mazursky,Paul,1930-04-25,2014-06-30,,,0
-84df9404-e052-40c9-b6cc-af34548d502b,Stewart,Dave,1952-09-09,,,,0
+d2f7436e-39f8-4728-8bbd-f412abe7eca4,Montel,Grégory,1976-09-20,,,,10.191
 608481e7-befa-4b88-b701-d9fa9830a329,Kozlowski,Linda,1958-01-07,,us,,10.174
 1ad1ab70-a1f5-49c4-9ee3-f96c65c0c158,Wandmacher,Michael,1967-10-29,,,,0
 9f25de2a-1fbe-44d8-8510-874374a5e13e,Escourrou,Pierre-Marie,1956-11-30,,,,4.303
@@ -2570,7 +2569,7 @@ ea90cd0b-6001-4621-bcac-412e3d4dfdc9,Ruben,Joseph,1950-05-10,,,,0
 257a4d28-0ace-45c6-bcc0-7db7b498fc74,Bridges,James,1936-02-03,1993-06-06,,,0
 b074c409-57b3-45fd-b6da-49f3d00b2ac7,Rooker,Michael,1955-04-06,,,,59.274
 8413bdfc-de4d-4a2a-b5e6-552819edd5e1,Jack,Harold,1924-04-26,1999-08-27,,,0
-97322bc2-acd8-445c-abfd-79d19773cee6,Nichols,Mike,1931-11-06,2014-11-19,,,0
+84df9404-e052-40c9-b6cc-af34548d502b,Stewart,Dave,1952-09-09,,,,0
 e7bac9a8-530c-4b42-a91f-80687548f806,Kwan,Suki,1966-03-11,,,,10.072
 76654776-e21d-4db5-ab1b-70d63d4753bf,Le,Matthieu,,,,,0
 8f6befee-6bba-4d46-9a4b-9dca146666f4,Hanalis,Blanche,1915-12-11,1992-07-27,,,0
@@ -2601,7 +2600,7 @@ b43245d8-a0d7-438f-b7bb-87a4479f7d34,Hamilton,Anna,,,,,0
 8076e7f0-a254-426d-b05a-cd79fd61b386,van,Laurens,,,,,0
 e5ee7f98-e99c-41fe-9295-0530616ab9d8,Fresson,Bernard,1931-05-27,2002-10-20,,,11.829
 28938581-a315-4bbf-901c-568ce241b5f0,Thompson,J. Lee,1914-08-01,2002-08-30,gb,,12.835
-6d6b9926-4fcc-4d9d-a518-c235ae6cf8e8,Zaza,Paul,,,,,0
+c1ff9e87-218e-4042-8275-8b4ff00297e6,Colizzi,Giuseppe,1925-06-28,1978-08-23,,,0
 e0dbea3f-52d0-4cff-9c60-687b6a08de76,Schroeder,Barbet,1941-08-26,,,,0
 333fd4ba-a77d-474c-ad87-f9d2bc53d909,Kenney,Douglas,1947-12-10,1980-08-27,,,0
 626a46e1-9321-403d-934e-912e72aeddbe,James,Brion,1945-02-20,1999-08-07,,,36.715
@@ -2656,7 +2655,7 @@ b0e8734a-2460-445b-9a3d-f135745d85a3,Ibrahim Mahfuz,Zainab,1924-05-27,1994-12-01
 06178566-b8b6-41c2-97ff-67452c54ac39,Bolling,Claude,1930-04-10,2020-12-29,,,0
 1f7d6d84-7158-47cb-b033-43c213b58158,D.,Bruce,,,,,0
 28c2a700-21de-49cf-b0b2-ff27ade9f708,Newton-John,Olivia,1948-09-26,2022-08-08,,,18.023
-597f72d1-a8b5-4d22-ba4a-fa519e682149,Hjortsberg,William,1941-02-23,2017-04-22,,,0
+4a4c4ae3-cd12-4937-8465-1e262aa5f1f4,La,Fratelli,,,,,0
 1b05738c-2131-4435-873b-c7336c2f6ab1,Mancina,Mark,1957-03-09,,,,0
 ccb48244-908e-4868-b351-f1af96b11de2,Monkman,Francis,1949-06-09,2023-05-12,,,0
 fafa15e0-5cc0-49da-84c2-608d11fb6d27,Fox,Michael J.,1961-06-09,,,,41.369
@@ -2669,9 +2668,9 @@ b06db7ce-2567-4648-bcfe-3128e75fb37b,Leung Ka-Fai,Tony,1958-02-01,,,,26.385
 4e756a99-0733-4dd6-8725-0a1f06bd09a4,Besson,Luc,1959-03-18,,,,0
 8a5ceb64-e7e7-478b-8938-469d6a87a053,Pike,Nicholas,,,,,0
 a54208a7-ca50-448f-9851-61f77c585c8d,Freeman,Leonard,1920-10-31,1974-01-20,,,0
-c1ff9e87-218e-4042-8275-8b4ff00297e6,Colizzi,Giuseppe,1925-06-28,1978-08-23,,,0
-4a4c4ae3-cd12-4937-8465-1e262aa5f1f4,La,Fratelli,,,,,0
-88174344-3659-4da8-8a99-804e569c5d88,Seigner,Mathilde,1968-01-17,,,,10.332
+97322bc2-acd8-445c-abfd-79d19773cee6,Nichols,Mike,1931-11-06,2014-11-19,,,0
+6d6b9926-4fcc-4d9d-a518-c235ae6cf8e8,Zaza,Paul,,,,,0
+597f72d1-a8b5-4d22-ba4a-fa519e682149,Hjortsberg,William,1941-02-23,2017-04-22,,,0
 13de9c65-6685-42e3-81a3-313c7799b3e3,Bryant,Chris,,,,,0
 8f65a94d-26b2-4791-800d-39915d9a6f4e,Werb,Mike,,,,,0
 ff02ad2e-a20b-444a-87be-3bf55bc7953d,Washington,Denzel,1954-12-28,,,,67.199
@@ -2679,7 +2678,7 @@ edae6dfc-2578-44ba-80e2-b21f30f9cf23,De,Everett,1946-07-12,2014-04-02,,,0
 69e7b5d8-b4d9-4139-bdbc-b928fd5744ca,Kubrick,Stanley,1928-07-26,1999-03-07,gb,,0
 55def63d-a118-4a05-968c-d05f12f5c645,Ardant,Fanny,1949-03-22,,,,25.862
 93733c67-5410-4644-9dcb-e1f77dee549b,Davis,Randolph,,,,,0
-d2a4f918-ad62-4959-80e0-d76769893bb3,Schepisi,Fred,1939-12-26,,,,0
+ae6919c5-cd08-4c87-8a4f-9ac889b37e76,Sinniger,Christian,1947-10-28,,,,8.302
 fb21eb15-ef35-4d9f-9462-c624709dfc4e,Elam,Jack,1920-11-13,2003-10-20,,,22.333
 241a4544-aceb-46bb-9228-744827d2ba7a,Gessner,Nicolas,1931-08-17,,,,0
 6a939301-14d5-42ac-9593-98b14726cfc6,Siegel,Don,1912-10-26,1991-04-20,,,0
@@ -2724,7 +2723,7 @@ f89880cb-fc33-4dee-8de4-b4ed73317c1d,Hulce,Thomas Edward,1953-12-06,,us,,14.663
 9a7f0eab-5443-44dd-80ed-146b44c312f4,Lewis,Charlotte,1967-08-07,,,,2.744
 034448fd-9a3b-49cf-a504-1085f9691add,Potente,Franka,1974-07-22,,,,21.784
 2c75bf62-52a7-4dda-b02b-d66243389546,Goodis,David,1917-03-02,1967-01-07,,,0
-ca7f30d3-9e55-4f5f-9af3-6d9a37404a11,Kiner,Kevin,1958-09-03,,,,0
+dbb64dbe-23db-433e-af34-1962bcc0068c,Curtis,Jamie Lee,1958-11-22,,us,,46.564
 e303c48d-32cf-4f00-b66d-dc1f01cd1d1c,De Mornay,Rebecca,1959-08-29,,,,33.612
 ee5ca5ed-86e9-4b58-b159-1b11efa273e2,Nielsen,Petra,1965-02-01,,,,4.041
 c9013524-f33c-44f2-861e-ff6e05ec6607,Sarafian,Tedi,,,,,0
@@ -2769,9 +2768,9 @@ fb31daf2-3278-47d1-8507-c743507eacf4,Neumeier,Edward,1957-08-24,,,,0
 e5923603-f06d-4166-8bc1-3ce7539c71fe,de Funès de Galarza,Louis Germain David,1914-07-31,1983-01-27,fr,Louis de Funès,15.252
 6f55188a-2a32-4211-871a-90c4a096ffc2,Cardona,René,1939-05-11,2003-02-05,,,0
 f33e35a1-45eb-4e2d-a345-cc38a407a6fc,Mackenzie,John,1932-08-16,2011-06-08,,,0
-ae6919c5-cd08-4c87-8a4f-9ac889b37e76,Sinniger,Christian,1947-10-28,,,,8.302
-dbb64dbe-23db-433e-af34-1962bcc0068c,Curtis,Jamie Lee,1958-11-22,,us,,46.564
-f03d0347-f50b-40e8-a54e-6d4150cf66a1,Ermey,Ronald Lee,1944-03-24,2018-04-15,us,R. Lee Ermey,28.299
+88174344-3659-4da8-8a99-804e569c5d88,Seigner,Mathilde,1968-01-17,,,,10.332
+d2a4f918-ad62-4959-80e0-d76769893bb3,Schepisi,Fred,1939-12-26,,,,0
+ca7f30d3-9e55-4f5f-9af3-6d9a37404a11,Kiner,Kevin,1958-09-03,,,,0
 2e24400b-2353-4be5-b6de-746870abf0cc,DeVito,Daniel Michael,1944-11-16,,us,Danny DeVito,37.844
 79525ec5-ba83-44b5-b2b9-9d7e3c334c6f,Prodromidès,Jean,1927-07-03,2016-03-17,,,0
 8d1aa8ab-f422-41db-9c78-45b82a1a6807,Hooper,Nicholas,,,,,0
@@ -2872,6 +2871,7 @@ b4a1e562-2d41-4841-9a46-0d40b340018f,Brooks,Richard,1912-05-18,1992-03-11,,,0
 feb4aa35-8850-4990-ab0b-185fc79b30af,Cassavetes,Nick,1959-05-21,,,,12.505
 57aa6745-b209-4c82-b360-ee72aea696b5,Weller,Peter,1947-06-24,,us,,38.732
 d1b5eea4-2394-4136-b5f4-6ebc6869f299,Van Cleef,Lee,1925-01-09,1989-12-16,,,45.751
+f03d0347-f50b-40e8-a54e-6d4150cf66a1,Ermey,Ronald Lee,1944-03-24,2018-04-15,us,R. Lee Ermey,28.299
 7f05043e-7d35-462c-858b-dbefe76dc6ca,Sinise,Gary,1955-03-17,,,,10.073
 1f05132f-89f8-4099-9868-4f0efffa7eb6,Clarke Duncan,Michael,1957-12-10,2012-09-03,,,13.404
 0327186f-c36a-4484-b642-2f4887e811c0,Condor,Lana,1997-05-11,,,,32.97
@@ -2907,20 +2907,24 @@ b5dc79d3-a37a-4371-acfa-49a770bc157a,Bell,Marshall,1942-09-28,,,,11.327
 e5e42f91-8109-4837-bfeb-d90fbfe00dd6,Langton,Brooke,1970-11-27,,,,8.815
 9a808018-1b7f-4eac-b0c5-240c5f0889a0,Hawke,Ethan,1970-11-06,,,,26.806
 14827705-9611-48ec-a828-f32345e29d21,Chappelle,Dave,1973-08-24,,,,6.813
+23ad92ee-d94a-463f-8a56-07dd08671121,Wright,Robin,1966-04-08,,,,16.035
 a10f2971-c9dd-48cf-ad49-3c02324eb114,de Bont,Jan,1943-10-22,,,,4.325
 36f24e33-8c40-4142-a3bd-09943cd64f61,Fox,Matthew,1966-07-14,,,,24.005
 7c396da0-050f-47e5-a3e8-bcd2913c3c35,Lane,Nathan,1956-02-03,,,,13.694
+01a9877b-3488-4289-88ff-2f3528a17d36,Treat Clark,Spencer,1987-09-24,,,,9.102
 ddce8d7f-8781-45e7-b7ee-fd16b815d55f,Rea,Stephen,1946-10-31,,,,7.513
 c154d011-3f87-4bc4-8479-75b1b9971a0d,Tykwer,Tom,1965-05-23,,,,11.634
+70f9101c-fcf4-41bc-952e-b3b2491293d5,Pszoniak,Wojciech,1942-05-02,2020-10-19,,,1.64
 9b61fa3e-18b8-43a9-86eb-d80258144be8,C. Reilly,John,1965-05-24,,,,9.882
 606a7b77-0873-4940-abc5-6f82dde3894c,Cromwell,James,1940-01-27,,,,31.532
-23ad92ee-d94a-463f-8a56-07dd08671121,Wright,Robin,1966-04-08,,,,16.035
-01a9877b-3488-4289-88ff-2f3528a17d36,Treat Clark,Spencer,1987-09-24,,,,9.102
+c316bc5c-a8ac-4b8a-b544-9693d0a50910,McDowell,Malcolm,1943-06-13,,,,21.171
+21b40c56-b8f8-4720-a1a0-e6c3331b65a9,Mikaël,Ludmila,1947-04-27,,,,2.788
 99be47c5-a3a3-4aa3-bc1f-8b487b38cf1a,Woodard,Charlayne,1953-12-29,,,,7.235
+1cd980a3-428c-4a4e-98c9-71eff5abeaed,Vaneck,Pierre,1931-04-15,2010-01-31,,,4.154
+cbad2fa4-216a-490f-9535-5a400162ef7c,Stefanson,Leslie,1971-05-10,,,,10.759
 3794e451-96ae-4732-9ade-258c1aa70018,Edwards,Anthony,1962-07-19,,,,13.306
 0f21286d-b24d-4232-b129-8c1f2d6e4ddb,Marshall,James,1967-01-02,,,,12.622
 950af2e9-53ba-4602-aed3-5cd6780b20f7,Walker,Eamonn,1962-06-12,,,,15.405
-cbad2fa4-216a-490f-9535-5a400162ef7c,Stefanson,Leslie,1971-05-10,,,,10.759
 2f1bacd3-e954-418a-9343-c33a1015328e,Baños,Roque,,,,,0
 cbfaf646-76f2-4e16-b34d-1b18a5c8b15d,Yune,Rick,1971-08-22,,,,7.365
 9556745f-e85c-426f-849c-586371ebd402,Duguay,Christian,1957-01-01,,,,0
@@ -2932,7 +2936,25 @@ be19aaef-7141-424e-bd95-a2094b054bfa,Matheson,Tim,1947-12-31,,,,34.177
 361d5313-1e91-46d6-b58c-31dcb8f7ec36,L.,Mark,1946-11-26,,,,0
 87d1d395-5e46-4a75-8236-8e33e75af1d4,Elliott,Ted,1961-07-04,,,,0
 3c203699-5c02-48bf-9751-d7dec120c326,Eidelman,Cliff,1964-12-05,,,,0
+417f64c8-2c93-496c-8611-9035445c9f6c,Damon,Mark,1933-04-22,2024-05-12,,,11.509
+734729e9-eaea-49f0-abdf-02dcc4c0a13b,Russell,Keri,1976-03-23,,,,21.494
+e0412d50-364d-47a5-a812-d345c0c74f6b,Serkis,Andy,1964-04-20,,,,31.356
+05594d38-1a3c-444c-a7c9-7a88517826a3,Warren,Estella,1978-12-23,,,,19.042
 775dfaed-673b-41a4-af64-e29acac59544,Williams,JoBeth,1948-12-06,,,,22.488
+646d292c-0e29-41c7-9879-60a53e42d0ac,Sapritch,Alice,1916-07-29,1990-03-24,,,2.665
+06176584-0461-4ac8-9da6-cf95deaffadc,Wise,Robert,1914-09-10,2005-09-14,,,0
+ef1eed8a-b82c-4660-97b8-0feee396d39a,Onorato,Glauco,1936-12-07,2009-12-31,,,2.194
+c89bfae9-b847-44dc-8bce-bc403b3a3a79,Dan George,Chief,1899-07-24,1981-09-23,,,4.564
+84fadafe-bec3-495c-91c2-1bf8ecfa9060,Kotto,Yaphet,1939-11-16,2021-03-15,,,18.168
+264396a0-d58a-4953-93dc-2a97bbf83dfe,Meyers,Nancy,1949-12-08,,,,0
+8244153a-dfa2-4bf0-822b-eaeef4a8396d,Bogdanovich,Peter,1939-07-30,2022-01-06,,,0
+56cb06f7-5d07-4022-a787-86b747df618b,Means,Russell,1939-11-10,2012-10-22,,,19.657
+93491397-957f-431b-ba09-7dc2d712809c,Guillermin,John,1925-11-11,2015-09-27,,,0
+d31db250-5a68-4f37-9db3-8725c38b86cf,Franciscus,James,1934-01-31,1991-07-08,,,7.326
+7179e20f-fe35-4222-beb7-6c9d9d582bf6,Hilliard,Steven,1937-11-01,2018-06-27,,,0
+f3cecf3d-e848-49fe-8e1f-8dd19cf76d99,Pinto,Freida,1984-10-18,,,,8.197
+cd48fccf-299f-49b5-9064-abd78f938df7,Margulies,David Joseph,1937-02-19,2016-01-11,us,David Margulies,7.903
+5536e7b3-39bc-4f3d-ad30-0c4b196f93a6,de,Álex,1965-12-04,,,,0
 a673b4d8-9e04-48ab-9b14-7a7d84ff3a2b,Turteltaub,Jon,1963-08-08,,,,0
 aaa943cd-a3dc-4dd0-8d43-c72d6b1211e4,Simon,Paul,1941-10-13,,,,0
 dd0d3199-6331-4e71-b6bc-b503d848a333,Davis,Carl,1936-10-28,2023-08-03,,,0
@@ -2944,21 +2966,21 @@ fbd8e822-e88c-404b-b2ad-7f75c75621b4,Norman,Monty,1928-04-04,2022-07-11,,,0
 ce3a1781-0c39-4690-95aa-c675e9df3db7,W.,David,,,,,0
 bcf44671-c2d5-47a7-91c1-37afb764c162,Jovovich,Milla,1975-12-17,,,,50.479
 329c6b4c-a590-427d-8475-d09bb03f0d0f,Manchette,Jean-Patrick,1942-12-19,1995-06-03,,,0
+f44c6a73-3e4d-4b18-b935-d9c80dfeafd0,Delbat,Germaine,1904-03-26,1988-04-24,,,1.369
 0b5f7f07-db42-41ff-a106-4a3a2d26a178,A.,Lloyd,1948-01-01,,,,0
 2834a265-c552-446c-ba27-e46186076cb6,Adjani,Isabelle,1955-06-27,,fr,,16.148
 9cedaa88-2e8f-42b3-8f46-bb4baab9e926,Giraudeau,Bernard,1947-06-18,2010-07-17,fr,,5.523
 0c46139e-23c0-4fcb-99f5-6b172b64a91c,Ellis,Jeffrey,,,,,0
 41e32109-e5cf-45a6-bb21-ef3127a89602,Glickenhaus,James,1950-07-24,,,,0
-06176584-0461-4ac8-9da6-cf95deaffadc,Wise,Robert,1914-09-10,2005-09-14,,,0
-c89bfae9-b847-44dc-8bce-bc403b3a3a79,Dan George,Chief,1899-07-24,1981-09-23,,,4.564
-84fadafe-bec3-495c-91c2-1bf8ecfa9060,Kotto,Yaphet,1939-11-16,2021-03-15,,,18.168
-264396a0-d58a-4953-93dc-2a97bbf83dfe,Meyers,Nancy,1949-12-08,,,,0
-8244153a-dfa2-4bf0-822b-eaeef4a8396d,Bogdanovich,Peter,1939-07-30,2022-01-06,,,0
-56cb06f7-5d07-4022-a787-86b747df618b,Means,Russell,1939-11-10,2012-10-22,,,19.657
-93491397-957f-431b-ba09-7dc2d712809c,Guillermin,John,1925-11-11,2015-09-27,,,0
-7179e20f-fe35-4222-beb7-6c9d9d582bf6,Hilliard,Steven,1937-11-01,2018-06-27,,,0
-cd48fccf-299f-49b5-9064-abd78f938df7,Margulies,David Joseph,1937-02-19,2016-01-11,us,David Margulies,7.903
-5536e7b3-39bc-4f3d-ad30-0c4b196f93a6,de,Álex,1965-12-04,,,,0
+2a5194c2-d23f-40ed-9aa7-ea09e4814b7d,David,Keith,1956-06-04,,,,37.195
+747f85fc-a088-48f9-96cb-3c4a62440404,Pellington,Mark,1962-03-17,,,,0
+32599c4d-880f-4d7c-83a1-94f0f807df1f,Hitchcock,Michael,1958-07-28,,,,0
+dd007e2f-57e7-42ad-9fb3-14bd9b9decd2,Golon,Anne,1921-12-17,2017-07-14,,,0
+9aa1be02-db7d-4b16-9996-707a63398107,Michael,David,1948-12-21,,,,0
+c31328d2-b4ef-4885-8c94-1863718e21dc,Ritt,Martin,1914-03-02,1990-12-08,,,0
+0b7a3fe3-f303-47dc-9cf0-9ef7404055af,Hyra,Margaret Mary Emily,1961-11-19,,us,Meg Ryan,14.966
+367ade34-b6ab-452b-8530-3ff690479490,Konoval,Karin,1961-06-04,,,,7.085
+3671a156-b99b-4467-a591-c425623aea0b,Karloff,Boris,1887-11-21,1969-02-02,,,6.415
 4be96bd8-4446-4b47-8aec-158e27c67cc0,B.,Arthur,1938-03-31,2016-04-23,,,0
 9cb91259-03fe-4959-89c4-37bd52a21e09,Cash,Jim,1941-01-17,2000-05-25,,,0
 2affcc8a-f239-4443-bc4d-5d8c125e94d6,Koepp,David,1963-06-09,,,,0
@@ -2978,13 +3000,17 @@ e8989c6c-0ad4-4b07-88f1-ccf4d4abd2b3,Sole,Alfred,1943-07-02,2022-02-15,,,0
 df14e6b2-1d8a-481c-b534-6d57c04e95b0,McNeely,Joel,1959-03-28,,,,0
 24b0730c-1838-4a06-b6f5-221e0c8b6fe7,Wilson,Georges,1921-10-16,2010-02-03,,,0
 d599b1c1-2ffe-409b-8328-73c9741e083d,Elbaz,Vincent,1971-02-03,,,,12.577
-2a5194c2-d23f-40ed-9aa7-ea09e4814b7d,David,Keith,1956-06-04,,,,37.195
-747f85fc-a088-48f9-96cb-3c4a62440404,Pellington,Mark,1962-03-17,,,,0
-32599c4d-880f-4d7c-83a1-94f0f807df1f,Hitchcock,Michael,1958-07-28,,,,0
-dd007e2f-57e7-42ad-9fb3-14bd9b9decd2,Golon,Anne,1921-12-17,2017-07-14,,,0
-9aa1be02-db7d-4b16-9996-707a63398107,Michael,David,1948-12-21,,,,0
-c31328d2-b4ef-4885-8c94-1863718e21dc,Ritt,Martin,1914-03-02,1990-12-08,,,0
-0b7a3fe3-f303-47dc-9cf0-9ef7404055af,Hyra,Margaret Mary Emily,1961-11-19,,us,Meg Ryan,14.966
+f2ac9db9-adb2-495e-84eb-74bade467196,Ferrus,Caroline,1976-10-05,,,,4.91
+c486a57a-ff55-43d0-ae12-b02696c50154,Tipping,Timothy,1958-02-13,1993-02-05,gb,Tip Tipping,8.98
+648d5457-9fd3-45f5-9bc3-34d482b72b9b,Cluzet,François,1955-09-21,,,,14.436
+3e48e998-80f3-4bc5-b2f5-091bb5b274ad,Trintignant,Jean-Louis,1930-12-11,2022-06-17,fr,,19.481
+be35d246-44da-45f7-be0a-db86b1020482,Henn,Caroline Marie,1976-05-07,,us,Carrie Henn,15.948
+19e88732-863d-4f44-a565-cdf9cff47f20,Levin,Ira,1929-08-27,2007-11-12,,,0
+b97c8d64-f73a-4949-98df-4dcad6e12241,Hunter,Kim,1922-11-12,2002-09-11,,,10.735
+e82dea08-7c73-4955-8937-a3fa39f2081a,Dafoe,Willem,1955-07-22,,,,51.445
+7587a864-5dc2-4d82-9532-9ff111a56bc1,Dickens,Charles,1812-02-07,1870-06-09,,,0
+3ecd6c0c-1d34-440d-8f98-d9c04abb7a12,Persson,Maria,1959-06-09,,,,11.995
+195a8aac-cfab-4ad9-a67e-5a13331094e9,Harrison,Linda,1945-07-26,,,,8.246
 bbe7935d-8c2c-4364-ae51-820c755fc172,Herry,Sylvette,1950-02-22,,fr,Miou-Miou,11.039
 22ed221e-5016-4138-9d6c-267c32220581,Clermont,Pierre,1941-01-19,2020-12-02,,,0
 47c2d6ad-88ef-421c-aabe-6134f43e97dd,Watanabe,Ken,1959-10-21,,,,36.951
@@ -3002,16 +3028,6 @@ cf700615-ffc2-4e7d-862d-601f6ad1c375,Storey,Michael,,,,,0
 eedaeaf2-b31d-456d-870f-0679136edd99,Enrico,Robert,1931-04-13,2001-02-22,,,0
 f2b2ed26-9515-4a13-b29b-22563408666b,Boyle,Danny,1956-10-20,,,,0
 6e506598-5262-4a5b-b505-48d9ca84c238,Eastwood,Clint,1930-05-31,,us,,81.059
-f2ac9db9-adb2-495e-84eb-74bade467196,Ferrus,Caroline,1976-10-05,,,,4.91
-c486a57a-ff55-43d0-ae12-b02696c50154,Tipping,Timothy,1958-02-13,1993-02-05,gb,Tip Tipping,8.98
-648d5457-9fd3-45f5-9bc3-34d482b72b9b,Cluzet,François,1955-09-21,,,,14.436
-3e48e998-80f3-4bc5-b2f5-091bb5b274ad,Trintignant,Jean-Louis,1930-12-11,2022-06-17,fr,,19.481
-be35d246-44da-45f7-be0a-db86b1020482,Henn,Caroline Marie,1976-05-07,,us,Carrie Henn,15.948
-19e88732-863d-4f44-a565-cdf9cff47f20,Levin,Ira,1929-08-27,2007-11-12,,,0
-e82dea08-7c73-4955-8937-a3fa39f2081a,Dafoe,Willem,1955-07-22,,,,51.445
-7587a864-5dc2-4d82-9532-9ff111a56bc1,Dickens,Charles,1812-02-07,1870-06-09,,,0
-3ecd6c0c-1d34-440d-8f98-d9c04abb7a12,Persson,Maria,1959-06-09,,,,11.995
-2c74e0c8-f11a-4749-b7f8-20f709ba7252,Bernstein,Charles,1943-02-28,,,,0
 e713859f-af45-4aa5-941f-2cd359491f1c,Cronenberg,David,1943-03-15,,ca,,24.811
 58a05564-5a60-4cf4-8239-8cc837cfb749,Gideon,Raynold,,,,,0
 aa7a390d-1ba8-4806-871f-a39d220e3382,Murphy,John,1965-03-04,,,,0
@@ -3111,3 +3127,4 @@ cfdd3d2c-fa5b-4030-a180-c166c2787315,Girouard,Anne,1976-03-18,,,,6.229
 4ec5d847-98bf-46e1-b29a-3a5fe34d83cf,Winner,Michael,1935-10-30,2013-01-21,,,0
 52d13d93-646c-4fc7-a5c4-b140faa16068,Bronson,Charles,1921-11-03,2003-08-30,,,52.825
 456d7ebf-04ae-4450-b469-96bfdfd977cc,Reeves,Keanu,1964-09-02,,ca,,108.81
+2c74e0c8-f11a-4749-b7f8-20f709ba7252,Bernstein,Charles,1943-02-28,,,,0

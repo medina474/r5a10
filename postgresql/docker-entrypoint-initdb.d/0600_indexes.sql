@@ -6,8 +6,8 @@ create index pays_nom
 create index auteur_nom
   on biblio.auteurs using btree (nom asc nulls last);
 
-create index path_gist_idx on regions using gist (hierarchie);
-create index path_idx on regions using btree (hierarchie);
+create index path_gist_idx on geo.regions using gist (hierarchie);
+create index path_idx on geo.regions using btree (hierarchie);
 
 update orders set order_date = order_date + INTERVAL '3 years',
   required_date = required_date + INTERVAL '3 years',

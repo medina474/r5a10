@@ -24,7 +24,6 @@ alter default privileges in schema public grant select on tables to role_web;
 
 -- Schémas
 create schema ext;
-create schema geo;
 create schema biblio;
 create schema aviation;
 create schema fake;
@@ -35,5 +34,7 @@ create schema cinema;
 create schema postgis;
 create extension if not exists postgis schema postgis;
 
-create extension ltree schema ext;
+create extension ltree schema public;
 create extension pg_idkit schema ext;
+
+\dx

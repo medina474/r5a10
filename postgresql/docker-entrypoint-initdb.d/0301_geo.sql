@@ -3,7 +3,7 @@
 alter table pays
   add primary key (code2);
 
-alter table regions
+alter table geo.regions
   add primary key (region_code);
 
 alter table langues

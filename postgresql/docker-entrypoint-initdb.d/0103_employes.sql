@@ -1,7 +1,7 @@
 \c ventdest
 
 CREATE TABLE employes (
-  employe_id integer not null,
+  employe_id smallint not null,
   last_name text not null,
   first_name text not null,
   title text,

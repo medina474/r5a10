@@ -1,20 +1,20 @@
-\c ventdest 
+\c ventdest
 
 alter table only employe_regions
-  add foreign key (employe_id) 
+  add foreign key (employe_id)
   references employes;
 
 alter table only employe_regions
-  add foreign key (region) 
-  references regions (region_code);
+  add foreign key (region)
+  references geo.regions (region_code);
 
 alter table only employes
-  add foreign key (reports_to) 
+  add foreign key (reports_to)
   references employes;
 
 alter table zone_regions
   add foreign key (region)
-  references regions (region_code) match simple
+  references geo.regions (region_code) match simple
   on update no action
   on delete no action
   not valid;
@@ -27,5 +27,5 @@ alter table zone_regions
   not valid;
 
 alter table only employes
-  add foreign key (adresse_id) 
+  add foreign key (adresse_id)
   references adresses (adresse_id);

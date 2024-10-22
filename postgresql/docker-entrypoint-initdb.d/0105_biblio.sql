@@ -57,7 +57,7 @@ create table biblio.exemplaires (
 select '=============== FIN STRUCTURE Books' as msg;
 
 create table musique.song (
-  id uuid7 default ext.idkit_uuidv7_generate() not null,
+  id uuid default ext.idkit_uuidv7_generate()::uuid not null,
   updated_at timestamp with time zone default now() not null,
   modified_at timestamp with time zone,
   title text not null,
@@ -65,7 +65,7 @@ create table musique.song (
 );
 
 create table musique.media (
-  id uuid7 default ext.idkit_uuidv7_generate() not null,
+  id uuid default ext.idkit_uuidv7_generate()::uuid not null,
   created_at timestamp without time zone default now() not null,
   updated_at timestamp without time zone,
   release uuid not null,
@@ -84,18 +84,18 @@ create table musique.recording (
 );
 
 CREATE TABLE musique.release (
-  id uuid7 DEFAULT ext.idkit_uuidv7_generate() NOT NULL,
-  created_at timestamp without time zone DEFAULT now() NOT NULL,
+  id uuid DEFAULT ext.idkit_uuidv7_generate()::uuid not null,
+  created_at timestamp without time zone DEFAULT now() not null,
   updated_at timestamp without time zone,
-  title character varying(50) NOT NULL,
+  title character varying(50) not null,
   date character varying(12)
 );
 
 
 CREATE TABLE musique.track (
-    media uuid7 DEFAULT ext.idkit_uuidv7_generate() not null,
-    recording character(15) NOT NULL,
-    created_at timestamp without time zone DEFAULT now() NOT NULL,
+    media uuid DEFAULT ext.idkit_uuidv7_generate()::uuid not null,
+    recording character(15) not null,
+    created_at timestamp without time zone DEFAULT now() not null,
     updated_at timestamp without time zone,
     position integer,
     number character varying(3)

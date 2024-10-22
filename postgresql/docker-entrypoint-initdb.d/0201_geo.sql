@@ -30,33 +30,34 @@ drop table pays_tmp;
 
 select '=============== FIN IMPORTATION DATA GEO' as msg;
 
-\copy regions FROM '/docker-entrypoint-data.d/regions/regions.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/at.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/au.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/be.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/bl.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/ch.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/de.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/dk.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/es.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/fi.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/fr.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/gb.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/gr.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/hr.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/hu.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/it.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/jp.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/lt.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/lu.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/mx.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/nl.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/pl.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/pt.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/ro.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/se.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/ua.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy regions FROM '/docker-entrypoint-data.d/regions/us.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/regions.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/at.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/au.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/be.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/bl.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/ca.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/ch.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/de.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/dk.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/es.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/fi.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/fr.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/gb.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/gr.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/hr.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/hu.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/it.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/jp.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/lt.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/lu.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/mx.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/nl.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/pl.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/pt.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/ro.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/se.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/ua.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy geo.regions FROM '/docker-entrypoint-data.d/regions/us.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 select '=============== FIN IMPORTATION DATA REGIONS' as msg;
 
@@ -77,10 +78,10 @@ create temporary table villes_tmp (
 
 \copy villes_tmp from '/docker-entrypoint-data.d/geo/v_commune_2023.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
-insert into regions (region_code, hierarchie, region, francais, administration)
-select 'FR-'||code_commune, (hierarchie::text || '.FR-'||code_commune)::ext.ltree, nom, libelle, 15
-from villes_tmp, regions
-where hierarchie ~ ('*.'||'FR-'||code_departement)::ext.lquery;
+insert into geo.regions (region_code, hierarchie, region, francais, administration)
+select 'FR-'||code_commune, (hierarchie::text || '.FR-'||code_commune)::ltree, nom, libelle, 15
+from villes_tmp, geo.regions
+where hierarchie ~ ('*.'||'FR-'||code_departement)::lquery;
 
 drop table villes_tmp;
 
@@ -108,7 +109,7 @@ from villes_tmp;
 
 update geo.villes
   set admin_name = r.region_code
-  from  regions r
+  from  geo.regions r
   where hierarchie ~ ('*.'||villes.pays_code||'.*')::lquery
     and region = villes.admin_name;
 

@@ -1,5 +1,7 @@
 \c ventdest
 
+create schema geo;
+
 -- pays
 
 create table pays (
@@ -20,21 +22,21 @@ comment on column pays.code3
   is 'code ISO 3166-1 alpha 3';
 
 comment on column pays.code_num
-  is 'code ISO 3166-1 numérique identique à la division statistique des Nations Unies UN M.49';
+  is 'code ISO 3166-1 numérique. Identique à la division statistique des Nations Unies UN M.49';
 
 -- regions
 
-create table regions (
+create table geo.regions (
   region_code text,
-  hierarchie ext.ltree,
+  hierarchie ltree,
   region text not null,
   francais text,
   administration text,
   capitale text
 );
 
-comment on column regions.region_code
-  is 'UN Standard country or area codes for statistical use (M49)';
+comment on column geo.regions.region_code
+  is 'code ISO 3166-2. Codes pour la représentation des noms de pays et de leurs subdivisions – Partie 2';
 
 
 -- langues

@@ -1,5 +1,5 @@
 code,hierarchie,region,francais,administration,capitale
-BE,T.EUR.EUO.BE,Belgique,,pays,Bruxelles
+BE,T.EUR.EUO.BE,Belgique,,1,Bruxelles
 BE-BRU,T.EUR.EUO.BE.BE-BRU,Brussels,,Bruxelles-Capitale,Brussels
 BE-VLG,T.EUR.EUO.BE.BE-VLG,Vlaams Gewest,,region,Brussels
 BE-WAL,T.EUR.EUO.BE.BE-WAL,Wallonie,,region,Namur

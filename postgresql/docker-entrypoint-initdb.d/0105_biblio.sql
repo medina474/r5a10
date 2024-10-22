@@ -55,3 +55,48 @@ create table biblio.exemplaires (
 );
 
 select '=============== FIN STRUCTURE Books' as msg;
+
+create table musique.song (
+  id uuid default extension.uuid_generate_v4() not null,
+  updated_at timestamp with time zone default now() not null,
+  modified_at timestamp with time zone,
+  title text not null,
+  iswc text
+);
+
+create table musique.media (
+  id uuid default extension.uuid_generate_v4() not null,
+  created_at timestamp without time zone default now() not null,
+  updated_at timestamp without time zone,
+  release uuid not null,
+  format character varying(10),
+  quantity smallint default 1
+);
+
+create table musique.recording (
+  isrc character(15) not null,
+  created_at timestamp without time zone default now() not null,
+  updated_at timestamp without time zone,
+  song uuid not null,
+  artist uuid not null,
+  length bigint,
+  description character varying(30)
+);
+
+CREATE TABLE musique.release (
+  id uuid DEFAULT extension.uuid_generate_v4() NOT NULL,
+  created_at timestamp without time zone DEFAULT now() NOT NULL,
+  updated_at timestamp without time zone,
+  title character varying(50) NOT NULL,
+  date character varying(12)
+);
+
+
+CREATE TABLE musique.track (
+    media uuid DEFAULT extension.uuid_generate_v4() NOT NULL,
+    recording character(15) NOT NULL,
+    created_at timestamp without time zone DEFAULT now() NOT NULL,
+    updated_at timestamp without time zone,
+    "position" integer,
+    number character varying(3)
+);

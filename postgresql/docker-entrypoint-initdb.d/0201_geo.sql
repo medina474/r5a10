@@ -42,6 +42,7 @@ select '=============== FIN IMPORTATION DATA GEO' as msg;
 \copy regions FROM '/docker-entrypoint-data.d/regions/fi.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy regions FROM '/docker-entrypoint-data.d/regions/fr.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy regions FROM '/docker-entrypoint-data.d/regions/gb.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy regions FROM '/docker-entrypoint-data.d/regions/gr.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy regions FROM '/docker-entrypoint-data.d/regions/hr.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy regions FROM '/docker-entrypoint-data.d/regions/hu.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy regions FROM '/docker-entrypoint-data.d/regions/it.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
@@ -59,7 +60,7 @@ select '=============== FIN IMPORTATION DATA GEO' as msg;
 
 select '=============== FIN IMPORTATION DATA REGIONS' as msg;
 
-create table villes_fra (
+create temporary table villes_tmp (
   type_commune text,
   code_commune text,
   code_region text,
@@ -74,14 +75,14 @@ create table villes_fra (
   commune_parente text
 );
 
-\copy villes_fra from '/docker-entrypoint-data.d/geo/v_commune_2023.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy villes_tmp from '/docker-entrypoint-data.d/geo/v_commune_2023.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 insert into regions (region_code, hierarchie, region, francais, administration)
-select 'FR-'||code_commune, (hierarchie::text || '.FR-'||code_commune)::ltree, nom, libelle, 15
-from villes_fra, regions
-where hierarchie ~ ('*.'||'FR-'||code_departement)::lquery;
+select 'FR-'||code_commune, (hierarchie::text || '.FR-'||code_commune)::extensions.ltree, nom, libelle, 15
+from villes_tmp, regions
+where hierarchie ~ ('*.'||'FR-'||code_departement)::extensions.lquery;
 
---drop table villes_tmp;
+drop table villes_tmp;
 
 create temporary table villes_tmp (
   city text,

@@ -1,4 +1,4 @@
-product_id,product_name,fournisseur_id,category_id,quantity_per_unit,unit_price   code_barre,,discontinued
+product_id,product_name,fournisseur_id,category_id,quantity_per_unit,unit_price,code_barre,discontinued
 1,Petit écolier chocolat noir,8,1,12 biscuits,1.55,5410041010800,0
 2,Petit écolier chocolat au lait,1,1,12 biscuits,1.59,7622210421968,0
 3,Petit écolier chocolat blanc,1,2,12 biscuits,1.65,3017760654098,0

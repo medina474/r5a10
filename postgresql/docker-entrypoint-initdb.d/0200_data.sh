@@ -83,7 +83,6 @@ wget $host/biblio/oeuvres.csv
 wget $host/biblio/editions.csv
 wget $host/biblio/incorpore.csv
 
-wget $host/biblio/adresses.csv
 
 
 # Vent d'Est
@@ -101,6 +100,7 @@ wget $host/ventdest/marques.csv
 wget $host/ventdest/order_details.csv
 
 wget $host/ventdest/additifs.csv
+wget $host/ventdest/adresses.csv
 
 mkdir -p /docker-entrypoint-data.d/ventdest/livraison
 cd /docker-entrypoint-data.d/ventdest/livraison
@@ -136,7 +136,9 @@ wget $host/cinema/franchises.csv
 wget $host/cinema/genres.csv
 wget $host/cinema/links_films.csv
 wget $host/cinema/links_personnes.csv
+wget $host/cinema/links_societes.csv
 wget $host/cinema/motscles.csv
 wget $host/cinema/personnes.csv
+wget $host/cinema/productions.csv
 wget $host/cinema/resumes.csv
 wget $host/cinema/societes.csv

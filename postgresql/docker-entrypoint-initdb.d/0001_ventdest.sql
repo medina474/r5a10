@@ -32,7 +32,7 @@ create schema cinema;
 
 -- PostGIS
 create schema postgis;
-create extension if not exists postgis schema postgis;
+create extension postgis schema postgis;
 
 create extension ltree schema public;
 create extension pg_idkit schema ext;

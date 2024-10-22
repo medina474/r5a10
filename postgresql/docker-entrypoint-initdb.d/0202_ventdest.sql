@@ -5,10 +5,10 @@
 
 
 \copy categories from '/docker-entrypoint-data.d/ventdest/categories.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy products (product_id,product_name,tiers_id,category_id,quantity_per_unit,unit_price,units_in_stock,units_on_order,reorder_level,discontinued) from '/docker-entrypoint-data.d/ventdest/products.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy products (product_id,product_name,tiers_id,category_id,quantity_per_unit,unit_price,code_barre,discontinued) from '/docker-entrypoint-data.d/ventdest/products.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy banques from '/docker-entrypoint-data.d/ventdest/banques.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy marques from '/docker-entrypoint-data.d/ventdest/marques.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy additifs from '/docker-entrypoint-data.d/additifs.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy additifs from '/docker-entrypoint-data.d/ventdest/additifs.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 
 \copy orders from '/docker-entrypoint-data.d/ventdest/orders.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy order_details from '/docker-entrypoint-data.d/ventdest/order_details.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');

@@ -51,13 +51,13 @@ select fake_nom, annee, sexe from a, nom
 $$ LANGUAGE sql;
 
 
-create trigger cinema.trigger_vote_insert
+create trigger trigger_vote_insert
   after insert
   on cinema.votes
   for each row
   execute function vote_calcul();
 
-create trigger cinema.trigger_vote_update
+create trigger trigger_vote_update
   after update
   on cinema.votes
   for each row

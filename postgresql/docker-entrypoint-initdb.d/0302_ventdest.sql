@@ -23,3 +23,9 @@ alter table only livraison_methode
 
 alter table only banques
   add primary key (banque_code);
+
+alter table only agents
+  add primary key (agent_id);
+
+alter table only additifs
+  add primary key (code);

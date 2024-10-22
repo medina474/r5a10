@@ -1,7 +1,7 @@
 \c ventdest
 
 create index cinema_coordonnees_idx
-  on cinema.cinemas
+  on cinema.etablissements
   using GIST (coordonnees);
   
 create index index_personnes_nom

@@ -85,9 +85,9 @@ E170i,Carbonate de calcium,1
 E170ii,Carbonate acide de calcium,1
 E171,Dioxyde de titane,1
 E172,Oxydes de fer,1
-E172i,Oxyde de fer, noir,1
-E172ii,Oxyde de fer, rouge,1
-E172iii,Oxyde de fer, jaune,1
+E172i,"Oxyde de fer, noir",1
+E172ii,"Oxyde de fer, rouge",1
+E172iii,"Oxyde de fer, jaune",1
 E173,Aluminium,1
 E174,Silver,1
 E175,Or,1
@@ -107,7 +107,7 @@ E213,Benzoate de calcium,2
 E214,Para-hydroxybenzoate d'éthyle,2
 E215,Dérivé sodique de l'ester éthylique de l'acide p-hydroxybenzoïque,2
 E216,P-hydroxybenzoate de propyle,2
-E217,Para-hydroxybenzoate de propyle sodique,,2
+E217,Para-hydroxybenzoate de propyle sodique,2
 E218,Para-hydroxybenzoate de méthyle,2
 E219,Para-hydroxybenzoate de méthyle sodique,2
 E220,Anhydride sulfureux,2
@@ -232,7 +232,7 @@ E642,Hydrochlorure de lysine,4
 E650,Acétate de zinc,4
 E1200,Polydextrose,5
 E1201,Polyvinylpyrrolidone,5
-E1400,Dextrines, amidon torréfié,5
+E1400,"Dextrines, amidon torréfié",5
 E1401,Amidon traité aux acides,5
 E1402,Amidon traité aux alcalis,5
 E1403,Amidon blanchi,5
@@ -348,7 +348,7 @@ E460ii,Cellulose en poudre,6
 E461,Ether méthilique de cellulose,6
 E462,Ethylcellulose,6
 E468,Gomme cellulosique réticulée,6
-E470,Sels d'acides gras (ayant pour base le calcium, le magnésium, le potassium, le sodium),6
+E470,"Sels d'acides gras (ayant pour base le calcium, le magnésium, le potassium, le sodium)",6
 E470ii,Sels de magnésium d'acides gras,6
 E471,Monopalmitine,6
 E472a,Mono- et diglycérides acétylés,6
@@ -549,7 +549,7 @@ E1503,Castor oil,9
 E1517,Diacétate de glycéryle,9
 E1518,Triacétine,9
 E1519,Alcool benzylique,9
-E1520,Propylèneglycolane-1,2-diol,9
+E1520,"Propylèneglycolane-1,2-diol",9
 E1521,Macrogol,9
 E375,Acide nicotinique,9
 E381,Citrate d'ammonium ferrique,9
@@ -592,10 +592,10 @@ E905b,Vaseline,11
 E905c,Cire de pétrole,11
 E905ci,Cire microcristalline,11
 E905cii,Cire de paraffine,11
-E905d,Huile minérale, viscosité élevée,11
-E905e,Huile minérale, viscosité moyenne et faible catégorie I,11
-E905f,Huile minérale, viscosité moyenne et faible catégorie II,11
-E905g,Huile minérale, viscosité moyenne et faible catégorie III,11
+E905d,"Huile minérale, viscosité élevée",11
+E905e,"Huile minérale, viscosité moyenne et faible catégorie I",11
+E905f,"Huile minérale, viscosité moyenne et faible catégorie II",11
+E905g,"Huile minérale, viscosité moyenne et faible catégorie III",11
 E906,Gomme Benjoin,11
 E907,Polydécènes hydrogénés,11
 E908,Cire son de riz,11

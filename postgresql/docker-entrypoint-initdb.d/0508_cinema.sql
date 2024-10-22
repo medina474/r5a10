@@ -1,5 +1,9 @@
 \c ventdest
 
+alter table cinema.certifications
+  add foreign key (pays_code)
+    references pays (code2);
+
 alter table cinema.films
   add constraint films_franchises_fk foreign key (franchise_id)
     references cinema.franchises (franchise_id) match simple

@@ -61,3 +61,18 @@ alter table cinema.links_films
 alter table cinema.links_personnes
   add constraint links_personnes_pkey 
   primary key (id, site_id);
+
+create unique index film_motscles_pkey 
+  on cinema.films_motscles
+  using btree (film_id, motcle_id);
+
+alter table cinema.films_motscles
+  add primary key 
+  using index film_motscles_pkey;
+
+create unique index certifications_pk
+  on cinema.certifications
+  using btree (pays_code, certification);
+
+alter table cinema.certifications
+  add primary key using index certifications_pk;

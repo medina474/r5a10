@@ -51,7 +51,7 @@ insert into cinema.etablissements (etablissement_id, nom, voie, ville, coordonne
 
 drop table etablissements_tmp;
 
-\copy cinema.certifications (pays, ordre, certification, description) from '/docker-entrypoint-data.d/cinema/certifications.csv' (format csv, header, encoding 'utf8');
+\copy cinema.certifications (pays_code, ordre, certification, description) from '/docker-entrypoint-data.d/cinema/certifications.csv' (format csv, header, encoding 'utf8');
 
 \copy cinema.societes from '/docker-entrypoint-data.d/cinema/societes.csv' (format csv, header, encoding 'utf8');
 

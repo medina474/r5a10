@@ -12,22 +12,29 @@ create table marques (
   marque text not null
 );
 
-CREATE TABLE products (
+create table products (
   product_id integer not null,
   product_name text not null,
   tiers_id text,
   category_id integer,
   quantity_per_unit character varying(20),
   unit_price decimal(8,2),
-  units_in_stock integer,
-  units_on_order integer,
-  reorder_level integer,
+  code_barre text,
   discontinued integer not null,
   properties JSONB
 );
 
+create table stocks (
+  product_id integer not null,
+  qte_mini as integer,
+  qte_maxi as integer,
+  qte integer,
+  qte_commandee integer,
+  qte_reservee integer,
+)
 
-CREATE TABLE order_details (
+
+create table order_details (
   order_id integer not null,
   product_id integer not null,
   unit_price real not null,
@@ -36,7 +43,7 @@ CREATE TABLE order_details (
 );
 
 
-CREATE TABLE orders (
+create table orders (
   order_id integer not null,
   customer_id character varying(5),
   employe_id integer,

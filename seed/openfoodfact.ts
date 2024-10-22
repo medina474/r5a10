@@ -1,3 +1,5 @@
+import { ensureDir } from "https://deno.land/std@0.224.0/fs/ensure_dir.ts";
+
 async function getFoodFact(ean13) {
   try {
     const url = `https://world.openfoodfacts.org/api/v3/product/${ean13}.json`
@@ -8,6 +10,10 @@ async function getFoodFact(ean13) {
     }
     const data = await response.json()
     console.log(data.product.product_name_fr)
+
+    await ensureDir(`json/openfoodfacts`);
+    await Deno.writeTextFile(`json/openfoodfacts/${ean13}.json`, JSON.stringify(data, null, 2));
+  
 
     const produit = {
       "ingredients":[]
@@ -23,4 +29,4 @@ async function getFoodFact(ean13) {
   }
 }
 
-getFoodFact('7622210449283');
+getFoodFact('5410041010800');

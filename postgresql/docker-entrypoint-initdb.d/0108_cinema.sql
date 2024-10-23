@@ -21,11 +21,6 @@ create table cinema.personnes (
 );
 
 
-alter table cinema.personnes
-  add constraint personne_nationalite
-  check (char_length(nationalite) = 2) not valid;
-
-
 create table cinema.films (
   film_id uuid default gen_random_uuid() not null,
   titre text not null,
@@ -37,6 +32,8 @@ create table cinema.films (
   slogan text,
   pays text[]
 );
+
+-- A transformer en table
 
 create type cinema.role as enum (
   'acteur',
@@ -109,13 +106,6 @@ create table cinema.certifications (
 );
 
 
-
-create index on cinema.productions 
-  using btree (film_id);
-
-create index on cinema.productions 
-  using btree (societe_id);
-
 create table cinema.resumes (
   film_id uuid not null,
   langue_code text not null,
@@ -126,11 +116,6 @@ alter table cinema.resumes
   add column ts tsvector
   generated always as (to_tsvector('french', resume)) stored;
 
-create index resumes_texte_idx 
-  on cinema.resumes using gin (ts);
-
-create index resume_film_fki
-  on cinema.resumes(film_id);
 
 alter table cinema.films
   add column vote_votants integer,
@@ -190,16 +175,3 @@ create table cinema.links_personnes (
 ) inherits (cinema.links);
 
 
-create function vote_calcul()
-  returns trigger
-  language 'plpgsql'
-as $body$
-declare
-  moyenne decimal(4,2);
-  votants integer;
-begin
-  select count(*), avg(note) into votants, moyenne from cinema.votes where film_id = new.film_id;
-  update films set vote_votants=coalesce(votants,0), vote_moyenne=coalesce(moyenne,0) where film_id = new.film_id;
-  return new;
-end
-$body$;

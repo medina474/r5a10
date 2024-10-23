@@ -1,14 +1,23 @@
 \c ventdest
 
-alter table only employe_regions
+create index 
+  on employe_regions
+  using btree (employe_id);
+
+alter table employe_regions
   add foreign key (employe_id)
   references employes;
 
-alter table only employe_regions
+create index 
+  on employe_regions
+  using btree (region);
+
+alter table employe_regions
   add foreign key (region)
   references geo.regions (region_code);
 
-alter table only employes
+
+alter table employes
   add foreign key (reports_to)
   references employes;
 
@@ -26,6 +35,6 @@ alter table zone_regions
   on delete no action
   not valid;
 
-alter table only employes
+alter table employes
   add foreign key (adresse_id)
   references adresses (adresse_id);

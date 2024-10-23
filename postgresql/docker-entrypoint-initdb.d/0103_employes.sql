@@ -1,6 +1,6 @@
 \c ventdest
 
-CREATE TABLE employes (
+create table employes (
   employe_id smallint not null,
   last_name text not null,
   first_name text not null,

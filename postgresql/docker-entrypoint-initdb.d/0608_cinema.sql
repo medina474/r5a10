@@ -1,5 +1,33 @@
 \c ventdest
 
+
+create index on cinema.productions 
+  using btree (film_id);
+
+create index on cinema.productions 
+  using btree (societe_id);
+
+create index resume_film_fki
+  on cinema.resumes(film_id);
+
+-- Links Sociétés
+
+create index links_societes_id
+  on cinema.links_societes
+  using btree (id);
+
+-- Links Films
+
+create index links_films_id
+  on cinema.links_films
+  using btree (id);
+
+-- Links Personnes
+
+create index links_personnes_id
+  on cinema.links_personnes
+  using btree (id);
+
 alter table cinema.certifications
   add foreign key (pays_code)
     references pays (code2);
@@ -168,3 +196,25 @@ alter table cinema.links_personnes
   add constraint links_personnes_fk
   foreign key (id) references cinema.personnes(personne_id)
   on delete cascade;
+
+create index film_motscles_films 
+  on cinema.films_motscles 
+  using btree (film_id);
+
+create index film_motscles_motscles 
+  on cinema.films_motscles 
+  using btree (motcle_id);
+
+alter table cinema.films_motscles
+  add constraint "film_motscles_film_id_fkey"
+  foreign key (film_id) references cinema.films(film_id) on delete cascade not valid;
+
+alter table cinema.films_motscles
+  validate constraint "film_motscles_film_id_fkey";
+
+alter table cinema.films_motscles
+  add constraint "film_motscles_motcle_id_fkey"
+  foreign key (motcle_id) references cinema.motscles(motcle_id) on delete cascade not valid;
+
+alter table cinema.films_motscles
+  validate constraint "film_motscles_motcle_id_fkey";

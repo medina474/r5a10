@@ -10,35 +10,35 @@ product_id,product_name,fournisseur_id,category_id,quantity_per_unit,unit_price,
 9,Granola chocolat au lait,4,6,16 biscuits,1.45,7622210601988,1
 10,Le biscuit de Naty,4,8,12 biscuits,3.99,3229820112046,0
 11,Sablés au chocolat Bio,5,4,1 kg pkg.,3.15,3560071266097,0
-12,Queso Manchego La Pastora,5,4,10 - 500 g pkgs.,38,,0
-13,Konbu,6,8,2 kg box,6,,0
-14,Tofu,6,7,40 - 100 g pkgs.,23.25,,0
-15,Genen Shouyu,6,2,24 - 250 ml bottles,13,,0
-16,Pavlova,7,3,32 - 500 g boxes,17.45,,0
-17,Alice Mutton,7,6,20 - 1 kg tins,39,,1
-18,Carnarvon Tigers,7,8,16 kg pkg.,62.5,,0
-19,Teatime Chocolate Biscuits,8,3,10 boxes x 12 pieces,9.19999981,,0
-20,Sir Rodney''s Marmalade,8,3,30 gift boxes,81,,0
-21,Sir Rodney''s Scones,8,3,24 pkgs. x 4 pieces,10,,0
-22,Gustaf''s Knäckebröd,9,5,24 - 500 g pkgs.,21,,0
-23,Tunnbröd,9,5,12 - 250 g pkgs.,9,,0
-24,Guaraná Fantástica,10,1,12 - 355 ml cans,4.5,,1
-25,NuNuCa Nuß-Nougat-Creme,11,3,20 - 450 g glasses,14,,0
-26,Gumbär Gummibärchen,11,3,100 - 250 g bags,31.2299995,,0
-27,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000015,,0
-28,Rössle Sauerkraut,12,7,25 - 825 g cans,45.5999985,,1
-29,Thüringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.790001,,1
-30,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8899994,,0
-31,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5,,0
-32,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32,,0
-33,Geitost,15,4,500 g,2.5,,0
-34,Sasquatch Ale,16,1,24 - 12 oz bottles,14,,0
-35,Steeleye Stout,16,1,24 - 12 oz bottles,18,,0
-36,Inlagd Sill,17,8,24 - 250 g  jars,19,,0
-37,Gravad lax,17,8,12 - 500 g pkgs.,26,,0
-38,Côte de Blaye,18,1,12 - 75 cl bottles,263.5,,0
-39,Chartreuse verte,18,1,750 cc per bottle,18,,0
-40,Boston Crab Meat,19,8,24 - 4 oz tins,18.3999996,,0
+12,Granola chocolat noir,5,4,10 - 500 g pkgs.,38,3017760595193,0
+13,Biscuit nappés de chocolat et graines de Chia,6,8,2 kg box,6,3760151013287,0
+14,Biscuits Lait d'amande et noisettes,6,7,40 - 100 g pkgs.,23.25,3229820802312,0
+15,Biscuit fondant choco lait,6,2,24 - 250 ml bottles,13,3175681210714,0
+16,Sablés Pépites Choco,7,3,32 - 500 g boxes,17.45,3456300013115,0
+17,Biscuits Nappé Intenses Éclats de fèves de cacao,7,6,20 - 1 kg tins,39,3229820804439,1
+18,Petit beurre tablette chocolat lait,7,8,16 kg pkg.,62.5,3560070682683,0
+19,Choco Rico ! chocolat au lait,8,3,10 boxes x 12 pieces,9.19999981,3178530422597,0
+20,Sablés De Retz,8,3,30 gift boxes,81,3023470010017,0
+21,Biscuit nappé chocolat au lait,8,3,24 pkgs. x 4 pieces,10,3564707083744,0
+22,Biscuits nappés chocolat noir,9,5,24 - 500 g pkgs.,21,3564707083546,0
+23,Milka choco biscuits,9,5,12 - 250 g pkgs.,9,7622300270469,0
+24,Guaraná Fantástica,10,1,12 - 355 ml cans,4.5,3564700855034,1
+25,NuNuCa Nuß-Nougat-Creme,11,3,20 - 450 g glasses,14,3564700855041,0
+26,Gumbär Gummibärchen,11,3,100 - 250 g bags,31.2299995,3564706609136,0
+27,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000015,3564706609143,0
+28,Rössle Sauerkraut,12,7,25 - 825 g cans,45.5999985,3564706618824,1
+29,Thüringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.790001,3564700855027,1
+30,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8899994,3564706609112,0
+31,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5,3564706609105,0
+32,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32,3564706618831,0
+33,Geitost,15,4,500 g,2.5,3564706618824,0
+34,Sasquatch Ale,16,1,24 - 12 oz bottles,14,3564700009604,0
+35,Steeleye Stout,16,1,24 - 12 oz bottles,18,3564700000748,0
+36,Inlagd Sill,17,8,24 - 250 g  jars,19,3564700000786,0
+37,Gravad lax,17,8,12 - 500 g pkgs.,26,3178530409840,0
+38,Côte de Blaye,18,1,12 - 75 cl bottles,263.5,7622300292508,0
+39,Chartreuse verte,18,1,750 cc per bottle,18,3456300014228,0
+40,Boston Crab Meat,19,8,24 - 4 oz tins,18.3999996,3760020502218,0
 41,Jack''s New England Clam Chowder,19,8,12 - 12 oz cans,9.64999962,,0
 42,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14,,1
 43,Ipoh Coffee,20,1,16 - 500 g tins,46,,0

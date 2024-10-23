@@ -1,4 +1,4 @@
-import sql from "./db.ts"
+import sql from "../db.ts"
 import { Film, getFilmInfo } from "./film.ts"
 
 const list_ids: string[] = ["2000", "20361"]

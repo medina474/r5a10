@@ -1,4 +1,4 @@
-import sql from './db.ts'
+import sql from '../db.ts'
 import { Person, getPersonInfo } from './model.ts';
 
 const list_ids = [""]

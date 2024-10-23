@@ -22,7 +22,7 @@ create table products (
   code_barre text,
   discontinued integer not null,
   properties JSONB,
-  nutriments ext.vector(3)
+  nutriments ext.vector(15)
 );
 
 create table stocks (

@@ -1,1 +1,1 @@
-select '=============== DEBUT IMPORT DATA' as msg;
+select '=============== IMPORTER LES DONNÉES' as msg;

@@ -1,15 +1,15 @@
 \c ventdest
 
 CREATE FUNCTION fake_nom(text) RETURNS text as $$
-WITH 
+WITH
 a as (
-  -- Nombre aléatoire en 0 et 1. 
+  -- Nombre aléatoire en 0 et 1.
   -- Ne pas mettre dans la requête finale pour ne pas tirer un nombre à chaque ligne
   -- Le tirer qu'une fois
   select random() r
 ),
 c as (
-  SELECT pays, nom, popularite, 
+  SELECT pays, nom, popularite,
     SUM(popularite) OVER (partition by pays ORDER BY popularite desc) AS cumulative_sum
   FROM fake.noms
 ),
@@ -17,7 +17,7 @@ t as (
   SELECT pays, SUM(popularite) AS total_sum FROM fake.noms group by pays
 )
 SELECT nom
---, c.pays 
+--, c.pays
 --, c.cumulative_sum
 --, total.total_sum
 --, a.r
@@ -25,18 +25,18 @@ SELECT nom
 --, cumulative_sum::float / t.total_sum as r2
 FROM c, t, a
 WHERE c.pays = $1
-  and t.pays = c.pays 
-	and cumulative_sum >= a.r * t.total_sum 
+  and t.pays = c.pays
+	and cumulative_sum >= a.r * t.total_sum
 ORDER BY cumulative_sum
 limit 1;
 $$ LANGUAGE sql;
 
 CREATE function fake_annee(in int, in int, out annee int, out sexe smallint) as $$
-with 
+with
   a as (select random() r),
   t as (select sum(nombre) as total_sum from fake.pyramide where annee > $1 and annee < $2),
-  c as (select sexe, annee, sum(nombre) OVER (ORDER BY annee, sexe) as cumulative_sum 
-  	from fake.pyramide where annee > $1 and annee < $2) 
+  c as (select sexe, annee, sum(nombre) OVER (ORDER BY annee, sexe) as cumulative_sum
+  	from fake.pyramide where annee > $1 and annee < $2)
 select annee, sexe
  from a, c, t
  where cumulative_sum >= a.r * t.total_sum
@@ -116,16 +116,8 @@ BEGIN
     inner join cinema.equipes e on e.film_id = f.film_id and e.alias is not null
     left join cinema.films_genres fg on fg.film_id = f.film_id
     left join cinema.genres g on g.genre_id = fg.genre_id
-    left join cinemacreate view cinema.view_personnes_sans_role as
- select p.personne_id,
-    p.prenom,
-    p.nom,
-    count(e.personne_id) as nb
-  from cinema.personnes p
-    left join cinema.equipes e on e.personne_id = p.personne_id
-  group by p.personne_id, p.prenom, p.nom
-  having count(e.personne_id) = 0;.franchises f2 on f2.franchise_id = f.franchise_id
-    left join lateral (SELECT r2.resume FROM cinema.resumes r2 WHERE r2.film_id  = f.film_id 
+    left join cinema.franchises f2 on f2.franchise_id = f.franchise_id
+    left join lateral (SELECT r2.resume FROM cinema.resumes r2 WHERE r2.film_id  = f.film_id
       order by array_position(array['deu','fra','eng'], r2.langue_code)
       fetch first 1 row only ) r on true
     left join cinema.films_motscles fmc on fmc.film_id = f.film_id
@@ -137,12 +129,12 @@ END;
 $$
 language plpgsql volatile;
 
-create or replace function cinema.etablissements_in_view(min_lat float, min_long float, max_lat float, max_long float)
-returns table (etablissement_id etablissements.etablissement_id%TYPE
-  , nom etablissements.nom%TYPE
-	, ville etablissements.ville%TYPE
-	, voie etablissements.voie%TYPE
-	, codepostal etablissements.codepostal%TYPE
+create function cinema.etablissements_in_view(min_lat float, min_long float, max_lat float, max_long float)
+returns table (etablissement_id cinema.etablissements.etablissement_id%TYPE
+  , nom cinema.etablissements.nom%TYPE
+	, ville cinema.etablissements.ville%TYPE
+	, voie cinema.etablissements.voie%TYPE
+	, codepostal cinema.etablissements.codepostal%TYPE
 	, lat float, long float)
 language sql
 as $function$

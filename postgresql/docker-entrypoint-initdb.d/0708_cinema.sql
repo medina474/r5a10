@@ -1,4 +1,4 @@
-\c ventdest 
+\c ventdest
 
 create view cinema.view_personnes_sans_role as
  select p.personne_id,

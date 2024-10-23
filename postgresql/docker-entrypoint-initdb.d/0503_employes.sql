@@ -1,31 +1,10 @@
 \c ventdest
 
-alter table only employe_regions
-  add foreign key (employe_id)
-  references employes;
-
-alter table only employe_regions
-  add foreign key (region)
-  references geo.regions (region_code);
-
 alter table only employes
-  add foreign key (reports_to)
-  references employes;
+  add primary key (employe_id);
 
-alter table zone_regions
-  add foreign key (region)
-  references geo.regions (region_code) match simple
-  on update no action
-  on delete no action
-  not valid;
+alter table only employe_regions
+  add primary key (employe_id, region);
 
-alter table zone_regions
-  add foreign key (zone_id)
-  references zones (zone_id) match simple
-  on update no action
-  on delete no action
-  not valid;
-
-alter table only employes
-  add foreign key (adresse_id)
-  references adresses (adresse_id);
+alter table only zones
+  add primary key (zone_id);

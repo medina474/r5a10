@@ -1,1 +1,1 @@
-select '=============== DEBUT STRUCTURE' as msg;
+select '=============== CRÉER LES TABLES' as msg;

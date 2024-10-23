@@ -1,25 +1,16 @@
 \c ventdest
 
-alter table biblio.participe
-  add foreign key (auteur_id) 
-  references biblio.auteurs;
+alter table biblio.auteurs
+  add primary key (auteur_id);
 
-alter table biblio.participe
-  add foreign key (oeuvre_id) 
-  references biblio.oeuvres;
+alter table biblio.oeuvres
+  add primary key (oeuvre_id);
 
-alter table biblio.incorpore
-  add foreign key (oeuvre_id) 
-  references biblio.oeuvres;
-
-alter table biblio.incorpore
-  add foreign key (edition_id) 
-  references biblio.editions;
-
-alter table biblio.exemplaires
-  add foreign key (edition_id) 
-  references biblio.editions;
+alter table biblio.editeurs
+  add primary key (editeur_id);
 
 alter table biblio.editions
-  add foreign key (editeur_id) 
-  references biblio.editeurs;
+  add primary key (edition_id);
+
+alter table biblio.exemplaires
+  add primary key (exemplaire_id);

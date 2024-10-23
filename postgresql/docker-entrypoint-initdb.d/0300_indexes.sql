@@ -1,13 +1,11 @@
 \c ventdest
+select '=============== CRÉER LES INDEX' as msg;
 
 create index pays_nom
   on pays using btree (pays asc nulls last);
 
 create index auteur_nom
   on biblio.auteurs using btree (nom asc nulls last);
-
-create index path_gist_idx on geo.regions using gist (hierarchie);
-create index path_idx on geo.regions using btree (hierarchie);
 
 update orders set order_date = order_date + INTERVAL '3 years',
   required_date = required_date + INTERVAL '3 years',

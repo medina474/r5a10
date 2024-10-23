@@ -116,7 +116,15 @@ BEGIN
     inner join cinema.equipes e on e.film_id = f.film_id and e.alias is not null
     left join cinema.films_genres fg on fg.film_id = f.film_id
     left join cinema.genres g on g.genre_id = fg.genre_id
-    left join cinema.franchises f2 on f2.franchise_id = f.franchise_id
+    left join cinemacreate view cinema.view_personnes_sans_role as
+ select p.personne_id,
+    p.prenom,
+    p.nom,
+    count(e.personne_id) as nb
+  from cinema.personnes p
+    left join cinema.equipes e on e.personne_id = p.personne_id
+  group by p.personne_id, p.prenom, p.nom
+  having count(e.personne_id) = 0;.franchises f2 on f2.franchise_id = f.franchise_id
     left join lateral (SELECT r2.resume FROM cinema.resumes r2 WHERE r2.film_id  = f.film_id 
       order by array_position(array['deu','fra','eng'], r2.langue_code)
       fetch first 1 row only ) r on true

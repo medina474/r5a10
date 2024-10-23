@@ -1,5 +1,9 @@
 import { ensureDir } from "https://deno.land/std@0.224.0/fs/ensure_dir.ts";
 
+
+/**
+ * Télécharge le fichier json correspondant à un produit
+ */
 async function getFoodFact(ean13) {
   try {
     const url = `https://world.openfoodfacts.org/api/v3/product/${ean13}.json`

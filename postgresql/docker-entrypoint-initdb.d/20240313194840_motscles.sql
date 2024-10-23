@@ -13,7 +13,6 @@
 -- to public
 -- using (true);
 
-
 -- create policy "enable read access for all users"
 -- on "motscles"
 -- as permissive

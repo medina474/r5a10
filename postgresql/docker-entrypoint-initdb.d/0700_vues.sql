@@ -29,6 +29,7 @@ create or replace view cinema.view_personnes_tmdb as  select p.nom,
      left join cinema.links l on (((p.personne_id = l.id) and (l.site_id = 1))))
   where (l.id is null);
 
+
 create or replace view cinema.view_nb_films as  select p.nom,
     l.identifiant,
     count(e.film_id) as count
@@ -43,6 +44,7 @@ create or replace view cinema.view_films_tmdb as  select f.titre,
    from (cinema.films f
      left join cinema.links l on (((f.film_id = l.id) and (l.site_id = 1))))
   where (l.id is null);
+
 
 create or replace view view_personnes_tmdb as  select p.nom,
     p.prenom,

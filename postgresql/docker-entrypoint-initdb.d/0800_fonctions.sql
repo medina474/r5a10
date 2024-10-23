@@ -143,7 +143,7 @@ as $function$
 		, ville
 		, voie
 		, codepostal
-		, st_y(coordonnees::geometry) as lat, st_x(coordonnees::geometry) as long
+		, postgis.st_y(coordonnees::postgis.geometry) as lat, postgis.st_x(coordonnees::postgis.geometry) as long
 	from cinema.etablissements
-	where coordonnees && ST_SetSRID(ST_MakeBox2D(ST_Point(min_long, min_lat), ST_Point(max_long, max_lat)), 4326)
+	where coordonnees OPERATOR(postgis.&&) postgis.ST_SetSRID(postgis.ST_MakeBox2D(postgis.ST_Point(min_long, min_lat), postgis.ST_Point(max_long, max_lat)), 4326)
 $function$;

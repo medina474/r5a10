@@ -1,19 +1,19 @@
 \c ventdest
 
 create table biblio.auteurs (
-  auteur_id integer,
+  auteur_id integer not null,
   nom text not null
 );
 
 create table biblio.editeurs (
-  editeur_id integer,
-  editeur_nom text,
+  editeur_id integer not null,
+  editeur_nom text not null,
   ville text
 );
 
 create table biblio.oeuvres (
-  oeuvre_id integer,
-  titre text,
+  oeuvre_id integer not null,
+  titre text not null,
   langue_code text, -- references langues (langue_code),
   genre_id integer,
   infos json
@@ -29,8 +29,8 @@ create table biblio.participe (
 );
 
 create table biblio.editions (
-  edition_id integer,
-  editeur_id integer,
+  edition_id integer not null,
+  editeur_id integer not null,
   isbn13 text,
   publication_date date,
   num_pages integer,
@@ -47,8 +47,8 @@ create table biblio.incorpore (
 );
 
 create table biblio.exemplaires (
-  exemplaire_id integer,
-  edition_id integer,
+  exemplaire_id integer not null,
+  edition_id integer not null,
   date_achat date,
   prix_achat numeric,
   etat text
@@ -93,10 +93,10 @@ CREATE TABLE musique.release (
 
 
 CREATE TABLE musique.track (
-    media uuid DEFAULT ext.idkit_uuidv7_generate()::uuid not null,
-    recording character(15) not null,
-    created_at timestamp without time zone DEFAULT now() not null,
-    updated_at timestamp without time zone,
-    position integer,
-    number character varying(3)
+  media uuid DEFAULT ext.idkit_uuidv7_generate()::uuid not null,
+  recording character(15) not null,
+  created_at timestamp without time zone DEFAULT now() not null,
+  updated_at timestamp without time zone,
+  position integer,
+  number character varying(3)
 );

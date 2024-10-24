@@ -48,7 +48,7 @@ CREATE TABLE adherent_adresse (
 
 CREATE TABLE commande (
   commande_id INTEGER PRIMARY KEY,
-  commande_date TIMESTAMP,
+  commande_date timestamp with time zone,
   date_echeance DATE,
   adherent_id INTEGER, -- REFERENCES adherents (adherent_id),
   livraison_methode_id INTEGER, -- REFERENCES livraison_methode (methode_id),
@@ -60,6 +60,6 @@ CREATE TABLE commande_ligne (
   commande_id INTEGER, -- REFERENCES commande (commande_id),
   exemplaire_id INTEGER, -- REFERENCES exemplaires (exemplaire_id),
   cout NUMERIC,
-  date_retour TIMESTAMP
+  date_retour timestamp with time zone
 );
 */

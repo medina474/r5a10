@@ -65,7 +65,7 @@ create table commande_historique (
   historique_id integer primary key,
   commande_id integer,
   statut_id commande_statut,
-  statut_date timestamp
+  statut_date timestamp with time zone
 );
 
 create table livraison_methode (

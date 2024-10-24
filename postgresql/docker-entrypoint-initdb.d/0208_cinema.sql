@@ -88,3 +88,11 @@ drop table slogan_tmp;
 \copy cinema.links_personnes from '/docker-entrypoint-data.d/cinema/links_personnes.csv' (format csv, header, encoding 'utf8');
 \copy cinema.links_societes from '/docker-entrypoint-data.d/cinema/links_societes.csv' (format csv, header, encoding 'utf8');
 \copy cinema.links_films from '/docker-entrypoint-data.d/cinema/links_films.csv' (format csv, header, encoding 'utf8');
+
+insert into cinema.sites (site_id, site, url) values
+	(1,'TMDB (The Movie Database)','https://www.themoviedb.org/movie/$id'),
+	(2,'IMDb (Internet Movie Database)','https://www.imdb.com/title/$id'),
+	(3,'Wikipedia','https://fr.wikipedia.org/wiki/$id'),
+	(4,'YouTube','https://youtu.be/$id'),
+	(5,'Sens Critique','https://www.senscritique.com/film/_/$id'),
+	(6,'AlloCiné','https://www.allocine.fr/film/fichefilm_gen_cfilm=$id.html');

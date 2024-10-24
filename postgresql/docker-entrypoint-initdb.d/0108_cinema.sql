@@ -93,6 +93,8 @@ create table cinema.societes (
   uei text
 );
 
+comment on column cinema.societes.uei 'Unique Entity ID';
+
 create table cinema.productions (
   film_id uuid not null,
   societe_id uuid not null
@@ -107,7 +109,7 @@ create table cinema.certifications (
 
 
 create table cinema.resumes (
-  film_id uuid not null,
+  film_id int not null,
   langue_code text not null,
   resume text not null
 );
@@ -118,29 +120,21 @@ alter table cinema.resumes
 
 
 alter table cinema.films
-  add column vote_votants integer,
+  add column vote_votants int,
   add column vote_moyenne decimal(4,2);
 
-create table cinema.votes (
-  userid int,
-  film_id uuid,
-  note decimal not null,
-  timestamp timestamp not null
-);
-
-
 create table cinema.seances (
- seance_id integer not null,
-  film_id uuid not null,
-  salle_id integer not null,
+  seance_id int not null,
+  film_id int not null,
+  salle_id int not null,
   seance date not null
 );
 
 create table cinema.salles (
-  salle_id integer not null,
-  etablissement_id integer not null,
+  salle_id int not null,
+  etablissement_id int not null,
   salle text not null,
-  sieges integer not null
+  sieges int not null
 );
 
 create index vote_film_fki
@@ -174,4 +168,9 @@ create table cinema.links_films (
 create table cinema.links_personnes (
 ) inherits (cinema.links);
 
-
+create table cinema.votes (
+  user_id int not null,
+  film_id int not null,
+  note decimal not null,
+  timestamp timestamp with time zone not null
+);

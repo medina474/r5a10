@@ -66,8 +66,8 @@ create table musique.song (
 
 create table musique.media (
   id uuid default ext.idkit_uuidv7_generate()::uuid not null,
-  created_at timestamp without time zone default now() not null,
-  updated_at timestamp without time zone,
+  created_at timestamp with time zone default now() not null,
+  updated_at timestamp with time zone,
   release uuid not null,
   format character varying(10),
   quantity smallint default 1
@@ -75,8 +75,8 @@ create table musique.media (
 
 create table musique.recording (
   isrc character(15) not null,
-  created_at timestamp without time zone default now() not null,
-  updated_at timestamp without time zone,
+  created_at timestamp with time zone default now() not null,
+  updated_at timestamp with time zone,
   song uuid not null,
   artist uuid not null,
   length bigint,
@@ -85,8 +85,8 @@ create table musique.recording (
 
 CREATE TABLE musique.release (
   id uuid DEFAULT ext.idkit_uuidv7_generate()::uuid not null,
-  created_at timestamp without time zone DEFAULT now() not null,
-  updated_at timestamp without time zone,
+  created_at timestamp with time zone DEFAULT now() not null,
+  updated_at timestamp with time zone,
   title character varying(50) not null,
   date character varying(12)
 );
@@ -95,8 +95,8 @@ CREATE TABLE musique.release (
 CREATE TABLE musique.track (
   media uuid DEFAULT ext.idkit_uuidv7_generate()::uuid not null,
   recording character(15) not null,
-  created_at timestamp without time zone DEFAULT now() not null,
-  updated_at timestamp without time zone,
+  created_at timestamp with time zone DEFAULT now() not null,
+  updated_at timestamp with time zone,
   position integer,
   number character varying(3)
 );

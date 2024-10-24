@@ -1,4 +1,4 @@
-"pays","ordre","certification","description"
+pays_code,ordre,certification,description
 FR,1,TP,Pour tous publics.
 FR,2,-12,Interdit aux moins de 12 ans.
 FR,3,-16,Interdit aux moins de 16 ans.

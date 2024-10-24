@@ -60,6 +60,10 @@ for (const p of produits) {
   vector = `[${vector}]`;
   console.log(vector);
 
+  for (const i of produit.product.ingredients) {
+    console.log(`${i.text} ${i.percent_estimated}`);
+  }
+
   await sql`update products set
   nutriments = ${vector}
   where product_id=${p.product_id}`;

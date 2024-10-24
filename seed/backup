@@ -1,0 +1,6 @@
+export PGHOST=localhost
+export PGPORT=5432
+export PGUSER=postgres
+export PGPASSWORD=supermotdepasse
+
+psql -h $PGHOST -p $PGPORT -d postgres -U $PGUSER -f backup.sql

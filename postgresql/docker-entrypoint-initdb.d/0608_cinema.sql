@@ -196,3 +196,6 @@ alter table cinema.films_motscles
   add foreign key (motcle_id)
   references cinema.motscles(motcle_id)
   on delete cascade;
+
+create index vote_film_fki
+  on cinema.votes(film_id);

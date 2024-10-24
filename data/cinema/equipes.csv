@@ -1,4 +1,4 @@
-f_id,p_id,role,alias,ordre
+film_id,personne_id,role,alias,ordre
 5,3129,acteur,Ted the Bellhop,0
 5,3130,acteur,Angela,1
 5,3131,acteur,Man,2
@@ -1589,7 +1589,7 @@ f_id,p_id,role,alias,ordre
 1367,1101,acteur,Apollo Creed,3
 1367,10494,musique,,99
 1368,16544,réalisateur,,0
-1368,,roman,,0
+1368,85589,roman,,0
 1368,16483,acteur,John Rambo,0
 1368,6197,acteur,Hope Sheriff Will Teasle,2
 1368,1760,musique,,99

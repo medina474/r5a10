@@ -2424,6 +2424,7 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 84982,Spera,Rob,,,,,0
 84983,Ayromlooi,Steven,,,,,0
 85277,McWorter,Kathy,,,,,0
+85589,Morrell,David,1943-04-24,,ca,,0
 86293,M.,Robert,1924-11-22,2024-02-06,,,0
 86372,Alan,Richard,,,,,0
 86926,DuBos,David,,,,,0
@@ -2441,6 +2442,7 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 87722,Rapace,Noomi,1979-12-28,,,,74.14
 88094,Hooks,Robert,1937-04-18,,,,16.642
 89085,Scotto,Vincent,1874-04-21,1952-11-15,,,0
+89153,Kishiro,Yukito,1967-03-20,,jp,,0
 89467,Giraldi,Bob,1939-01-17,,,,0
 90385,Vetere,Richard,,,,,0
 90661,J.,Robert,,,,,0
@@ -3090,7 +3092,6 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 ,Dickinson,Bruce,1958-08-07,,gb,,0
 ,Harris,Steve,1956-03-12,,gb,,0
 ,Gilmour,David,1946-03-06,,gb,,0
-,Morrell,David,1943-04-24,,ca,,0
 ,Blackmore,Ritchie,1945-04-14,,gb,,0
 ,Schenker,Rudolf,1948-08-31,,de,,0
 ,Pesch,Doro,1964-06-03,,de,,0
@@ -3106,7 +3107,6 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 ,Ulrich,Lars,1963-12-26,,dk,,0
 ,Dio,Ronnie James,1942-07-10,2010-05-16,us,,0
 ,Osbourne,John Michael,1948-12-03,,gb,Ozzy Osbourne,0
-,Kishiro,Yukito,1967-03-20,,jp,,0
 ,Kilmister,Lemmy,1945-12-24,2015-12-28,gb,,0
 ,Tipton,Glenn,1947-10-25,,gb,,0
 ,Eco,Umberto,,,,,0

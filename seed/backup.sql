@@ -1,5 +1,9 @@
 \c ventdest
 
+\copy products to '../data/ventdest/products.csv' (format csv, header, encoding 'utf8');
+
+-- Cinema
+
 \copy cinema.equipes to '../data/cinema/equipes.csv' (format csv, header, encoding 'utf8');
 
 \copy cinema.personnes to '../data/cinema/personnes.csv' (format csv, header, encoding 'utf8');

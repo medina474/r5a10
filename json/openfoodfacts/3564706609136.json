@@ -1,0 +1,1856 @@
+{
+  "code": "3564706609136",
+  "errors": [],
+  "product": {
+    "_id": "3564706609136",
+    "_keywords": [
+      "biscuit",
+      "ble",
+      "et",
+      "francai",
+      "gateaux",
+      "marque",
+      "nat",
+      "nutriscore",
+      "pomme",
+      "repere",
+      "snack",
+      "sucre",
+      "vie"
+    ],
+    "added_countries_tags": [],
+    "additives_n": 3,
+    "additives_old_n": 4,
+    "additives_old_tags": [
+      "en:e501",
+      "en:e450",
+      "en:e1403",
+      "en:e322"
+    ],
+    "additives_original_tags": [
+      "en:e501",
+      "en:e450",
+      "en:e322i"
+    ],
+    "additives_tags": [
+      "en:e322",
+      "en:e322i",
+      "en:e450",
+      "en:e501"
+    ],
+    "allergens": "en:gluten,en:milk",
+    "allergens_from_ingredients": "en:gluten, blé, malt d'orge, lait demi-écrémé",
+    "allergens_from_user": "(fr) en:gluten,en:milk",
+    "allergens_hierarchy": [
+      "en:gluten",
+      "en:milk"
+    ],
+    "allergens_lc": "fr",
+    "allergens_tags": [
+      "en:gluten",
+      "en:milk"
+    ],
+    "amino_acids_tags": [],
+    "brands": "Nat & Vie,Marque Repère",
+    "brands_tags": [
+      "nat-vie",
+      "marque-repere"
+    ],
+    "categories": "Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits",
+    "categories_hierarchy": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits"
+    ],
+    "categories_lc": "fr",
+    "categories_old": "Snacks, Snacks sucrés, Biscuits et gâteaux, Biscuits",
+    "categories_properties": {
+      "agribalyse_proxy_food_code:en": "24000"
+    },
+    "categories_properties_tags": [
+      "all-products",
+      "categories-known",
+      "agribalyse-food-code-unknown",
+      "agribalyse-proxy-food-code-24000",
+      "agribalyse-proxy-food-code-known",
+      "ciqual-food-code-unknown",
+      "agribalyse-known",
+      "agribalyse-24000"
+    ],
+    "categories_tags": [
+      "en:snacks",
+      "en:sweet-snacks",
+      "en:biscuits-and-cakes",
+      "en:biscuits"
+    ],
+    "category_properties": {},
+    "checkers_tags": [],
+    "ciqual_food_name_tags": [
+      "unknown"
+    ],
+    "cities_tags": [],
+    "code": "3564706609136",
+    "codes_tags": [
+      "code-13",
+      "3564706609xxx",
+      "356470660xxxx",
+      "35647066xxxxx",
+      "3564706xxxxxx",
+      "356470xxxxxxx",
+      "35647xxxxxxxx",
+      "3564xxxxxxxxx",
+      "356xxxxxxxxxx",
+      "35xxxxxxxxxxx",
+      "3xxxxxxxxxxxx"
+    ],
+    "compared_to_category": "en:biscuits",
+    "complete": 0,
+    "completeness": 0.7875,
+    "correctors_tags": [
+      "roboto-app",
+      "fix-salt-bot",
+      "moon-rabbit",
+      "teolemon",
+      "kiliweb",
+      "otherguru",
+      "noob10",
+      "itsjustruby",
+      "sebleouf"
+    ],
+    "countries": "France",
+    "countries_hierarchy": [
+      "en:france"
+    ],
+    "countries_lc": "fr",
+    "countries_tags": [
+      "en:france"
+    ],
+    "created_t": 1580913854,
+    "creator": "kiliweb",
+    "data_quality_bugs_tags": [],
+    "data_quality_errors_tags": [],
+    "data_quality_info_tags": [
+      "en:no-packaging-data",
+      "en:ecoscore-extended-data-not-computed",
+      "en:food-groups-1-known",
+      "en:food-groups-2-known",
+      "en:food-groups-3-unknown"
+    ],
+    "data_quality_tags": [
+      "en:no-packaging-data",
+      "en:ecoscore-extended-data-not-computed",
+      "en:food-groups-1-known",
+      "en:food-groups-2-known",
+      "en:food-groups-3-unknown",
+      "en:ingredients-percent-analysis-not-ok",
+      "en:ecoscore-packaging-packaging-data-missing",
+      "en:ecoscore-production-system-no-label"
+    ],
+    "data_quality_warnings_tags": [
+      "en:ingredients-percent-analysis-not-ok",
+      "en:ecoscore-packaging-packaging-data-missing",
+      "en:ecoscore-production-system-no-label"
+    ],
+    "data_sources": "App - yuka, Apps, App - smoothie-openfoodfacts",
+    "data_sources_tags": [
+      "app-yuka",
+      "apps",
+      "app-smoothie-openfoodfacts"
+    ],
+    "debug_param_sorted_langs": [
+      "fr"
+    ],
+    "ecoscore_data": {
+      "adjustments": {
+        "origins_of_ingredients": {
+          "aggregated_origins": [
+            {
+              "epi_score": "93",
+              "origin": "en:france",
+              "percent": 72,
+              "transportation_score": null
+            },
+            {
+              "epi_score": 0,
+              "origin": "en:unknown",
+              "percent": 18.6,
+              "transportation_score": null
+            }
+          ],
+          "epi_score": 66.96,
+          "epi_value": 2,
+          "origins_from_categories": [
+            "en:unknown"
+          ],
+          "origins_from_origins_field": [
+            "en:unknown"
+          ],
+          "transportation_score": 0,
+          "transportation_scores": {
+            "ad": 41.04,
+            "al": 0,
+            "at": 27.36,
+            "ax": 48.24,
+            "ba": 10.08,
+            "be": 61.2,
+            "bg": 15.12,
+            "ch": 49.68,
+            "cy": 28.8,
+            "cz": 34.56,
+            "de": 43.92,
+            "dk": 28.08,
+            "dz": 32.4,
+            "ee": 51.12,
+            "eg": 25.2,
+            "es": 26.64,
+            "fi": 49.68,
+            "fo": 44.64,
+            "fr": 72,
+            "gg": 56.16,
+            "gi": 2.88,
+            "gr": 35.28,
+            "hr": 21.6,
+            "hu": 18.72,
+            "ie": 33.84,
+            "il": 24.48,
+            "im": 36,
+            "is": 38.16,
+            "it": 33.84,
+            "je": 54.72,
+            "lb": 28.08,
+            "li": 46.08,
+            "lt": 45.36,
+            "lu": 59.04,
+            "lv": 51.12,
+            "ly": 40.32,
+            "ma": 43.2,
+            "mc": 37.44,
+            "md": 20.88,
+            "me": 26.64,
+            "mk": 20.88,
+            "mt": 41.04,
+            "nl": 55.44,
+            "no": 14.4,
+            "pl": 18,
+            "ps": 30.24,
+            "pt": 9.36,
+            "ro": 22.32,
+            "rs": 5.04,
+            "se": 10.8,
+            "si": 27.36,
+            "sj": 38.16,
+            "sk": 17.28,
+            "sm": 28.8,
+            "sy": 18.72,
+            "tn": 6.48,
+            "tr": 5.04,
+            "ua": 28.8,
+            "uk": 48.96,
+            "us": 0,
+            "va": 20.88,
+            "world": 0,
+            "xk": 20.16
+          },
+          "transportation_value": 0,
+          "transportation_values": {
+            "ad": 6,
+            "al": 0,
+            "at": 4,
+            "ax": 7,
+            "ba": 2,
+            "be": 9,
+            "bg": 2,
+            "ch": 7,
+            "cy": 4,
+            "cz": 5,
+            "de": 7,
+            "dk": 4,
+            "dz": 5,
+            "ee": 8,
+            "eg": 4,
+            "es": 4,
+            "fi": 7,
+            "fo": 7,
+            "fr": 11,
+            "gg": 8,
+            "gi": 0,
+            "gr": 5,
+            "hr": 3,
+            "hu": 3,
+            "ie": 5,
+            "il": 4,
+            "im": 5,
+            "is": 6,
+            "it": 5,
+            "je": 8,
+            "lb": 4,
+            "li": 7,
+            "lt": 7,
+            "lu": 9,
+            "lv": 8,
+            "ly": 6,
+            "ma": 6,
+            "mc": 6,
+            "md": 3,
+            "me": 4,
+            "mk": 3,
+            "mt": 6,
+            "nl": 8,
+            "no": 2,
+            "pl": 3,
+            "ps": 5,
+            "pt": 1,
+            "ro": 3,
+            "rs": 1,
+            "se": 2,
+            "si": 4,
+            "sj": 6,
+            "sk": 3,
+            "sm": 4,
+            "sy": 3,
+            "tn": 1,
+            "tr": 1,
+            "ua": 4,
+            "uk": 7,
+            "us": 0,
+            "va": 3,
+            "world": 0,
+            "xk": 3
+          },
+          "value": 2,
+          "values": {
+            "ad": 8,
+            "al": 2,
+            "at": 6,
+            "ax": 9,
+            "ba": 4,
+            "be": 11,
+            "bg": 4,
+            "ch": 9,
+            "cy": 6,
+            "cz": 7,
+            "de": 9,
+            "dk": 6,
+            "dz": 7,
+            "ee": 10,
+            "eg": 6,
+            "es": 6,
+            "fi": 9,
+            "fo": 9,
+            "fr": 13,
+            "gg": 10,
+            "gi": 2,
+            "gr": 7,
+            "hr": 5,
+            "hu": 5,
+            "ie": 7,
+            "il": 6,
+            "im": 7,
+            "is": 8,
+            "it": 7,
+            "je": 10,
+            "lb": 6,
+            "li": 9,
+            "lt": 9,
+            "lu": 11,
+            "lv": 10,
+            "ly": 8,
+            "ma": 8,
+            "mc": 8,
+            "md": 5,
+            "me": 6,
+            "mk": 5,
+            "mt": 8,
+            "nl": 10,
+            "no": 4,
+            "pl": 5,
+            "ps": 7,
+            "pt": 3,
+            "ro": 5,
+            "rs": 3,
+            "se": 4,
+            "si": 6,
+            "sj": 8,
+            "sk": 5,
+            "sm": 6,
+            "sy": 5,
+            "tn": 3,
+            "tr": 3,
+            "ua": 6,
+            "uk": 9,
+            "us": 2,
+            "va": 5,
+            "world": 2,
+            "xk": 5
+          }
+        },
+        "packaging": {
+          "non_recyclable_and_non_biodegradable_materials": 1,
+          "value": -15,
+          "warning": "packaging_data_missing"
+        },
+        "production_system": {
+          "labels": [],
+          "value": 0,
+          "warning": "no_label"
+        },
+        "threatened_species": {}
+      },
+      "agribalyse": {
+        "agribalyse_food_code": "24000",
+        "agribalyse_proxy_food_code": "24000",
+        "co2_agriculture": 2.3889426,
+        "co2_consumption": 0,
+        "co2_distribution": 0.019530673,
+        "co2_packaging": 0.11014808,
+        "co2_processing": 0.22878446,
+        "co2_total": 2.882859363,
+        "co2_transportation": 0.13545355,
+        "code": "24000",
+        "dqr": "2.14",
+        "ef_agriculture": 0.28329233,
+        "ef_consumption": 0,
+        "ef_distribution": 0.0048315303,
+        "ef_packaging": 0.01096965,
+        "ef_processing": 0.041686082,
+        "ef_total": 0.3518903043,
+        "ef_transportation": 0.011110712,
+        "is_beverage": 0,
+        "name_en": "Biscuit (cookie)",
+        "name_fr": "Biscuit sec, sans précision",
+        "score": 69,
+        "version": "3.1"
+      },
+      "grade": "c",
+      "grades": {
+        "ad": "b",
+        "al": "c",
+        "at": "b",
+        "ax": "b",
+        "ba": "c",
+        "be": "b",
+        "bg": "c",
+        "ch": "b",
+        "cy": "b",
+        "cz": "b",
+        "de": "b",
+        "dk": "b",
+        "dz": "b",
+        "ee": "b",
+        "eg": "b",
+        "es": "b",
+        "fi": "b",
+        "fo": "b",
+        "fr": "b",
+        "gg": "b",
+        "gi": "c",
+        "gr": "b",
+        "hr": "c",
+        "hu": "c",
+        "ie": "b",
+        "il": "b",
+        "im": "b",
+        "is": "b",
+        "it": "b",
+        "je": "b",
+        "lb": "b",
+        "li": "b",
+        "lt": "b",
+        "lu": "b",
+        "lv": "b",
+        "ly": "b",
+        "ma": "b",
+        "mc": "b",
+        "md": "c",
+        "me": "b",
+        "mk": "c",
+        "mt": "b",
+        "nl": "b",
+        "no": "c",
+        "pl": "c",
+        "ps": "b",
+        "pt": "c",
+        "ro": "c",
+        "rs": "c",
+        "se": "c",
+        "si": "b",
+        "sj": "b",
+        "sk": "c",
+        "sm": "b",
+        "sy": "c",
+        "tn": "c",
+        "tr": "c",
+        "ua": "b",
+        "uk": "b",
+        "us": "c",
+        "va": "c",
+        "world": "c",
+        "xk": "c"
+      },
+      "missing": {
+        "labels": 1,
+        "packagings": 1
+      },
+      "missing_data_warning": 1,
+      "missing_key_data": 1,
+      "previous_data": {
+        "agribalyse": {
+          "agribalyse_food_code": "24000",
+          "agribalyse_proxy_food_code": "24000",
+          "co2_agriculture": 3.8424243,
+          "co2_consumption": 0,
+          "co2_distribution": 0.029120657,
+          "co2_packaging": 0.10869536,
+          "co2_processing": 0.32913764,
+          "co2_total": 4.4447267,
+          "co2_transportation": 0.135384,
+          "code": "24000",
+          "dqr": "2.14",
+          "ef_agriculture": 0.36061354,
+          "ef_consumption": 0,
+          "ef_distribution": 0.0098990521,
+          "ef_packaging": 0.016471128,
+          "ef_processing": 0.051325736,
+          "ef_total": 0.44895118,
+          "ef_transportation": 0.010645482,
+          "is_beverage": 0,
+          "name_en": "Biscuit (cookie)",
+          "name_fr": "Biscuit sec, sans précision",
+          "score": 58
+        },
+        "grade": "d",
+        "score": 38
+      },
+      "score": 56,
+      "scores": {
+        "ad": 62,
+        "al": 56,
+        "at": 60,
+        "ax": 63,
+        "ba": 58,
+        "be": 65,
+        "bg": 58,
+        "ch": 63,
+        "cy": 60,
+        "cz": 61,
+        "de": 63,
+        "dk": 60,
+        "dz": 61,
+        "ee": 64,
+        "eg": 60,
+        "es": 60,
+        "fi": 63,
+        "fo": 63,
+        "fr": 67,
+        "gg": 64,
+        "gi": 56,
+        "gr": 61,
+        "hr": 59,
+        "hu": 59,
+        "ie": 61,
+        "il": 60,
+        "im": 61,
+        "is": 62,
+        "it": 61,
+        "je": 64,
+        "lb": 60,
+        "li": 63,
+        "lt": 63,
+        "lu": 65,
+        "lv": 64,
+        "ly": 62,
+        "ma": 62,
+        "mc": 62,
+        "md": 59,
+        "me": 60,
+        "mk": 59,
+        "mt": 62,
+        "nl": 64,
+        "no": 58,
+        "pl": 59,
+        "ps": 61,
+        "pt": 57,
+        "ro": 59,
+        "rs": 57,
+        "se": 58,
+        "si": 60,
+        "sj": 62,
+        "sk": 59,
+        "sm": 60,
+        "sy": 59,
+        "tn": 57,
+        "tr": 57,
+        "ua": 60,
+        "uk": 63,
+        "us": 56,
+        "va": 59,
+        "world": 56,
+        "xk": 59
+      },
+      "status": "known"
+    },
+    "ecoscore_grade": "c",
+    "ecoscore_score": 56,
+    "ecoscore_tags": [
+      "c"
+    ],
+    "editors_tags": [
+      "fix-salt-bot",
+      "itsjustruby",
+      "kiliweb",
+      "moon-rabbit",
+      "noob10",
+      "openfoodfacts-contributors",
+      "otherguru",
+      "roboto-app",
+      "sebleouf",
+      "teolemon",
+      "yuka.WHZFN0lxY3R2dUlndGNNanBEYnNvb0pZNExXU2VXV3VMZEFVSVE9PQ",
+      "yuka.sY2b0xO6T85zoF3NwEKvlmp_d-r_pQvcNEbmlkiolvbeM43YRItNx7nna6o"
+    ],
+    "emb_codes": "",
+    "emb_codes_tags": [],
+    "entry_dates_tags": [
+      "2020-02-05",
+      "2020-02",
+      "2020"
+    ],
+    "expiration_date": "",
+    "food_groups": "en:biscuits-and-cakes",
+    "food_groups_tags": [
+      "en:sugary-snacks",
+      "en:biscuits-and-cakes"
+    ],
+    "generic_name": "",
+    "generic_name_fr": "",
+    "id": "3564706609136",
+    "image_front_small_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/front_fr.31.200.jpg",
+    "image_front_thumb_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/front_fr.31.100.jpg",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/front_fr.31.400.jpg",
+    "image_ingredients_small_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/ingredients_fr.32.200.jpg",
+    "image_ingredients_thumb_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/ingredients_fr.32.100.jpg",
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/ingredients_fr.32.400.jpg",
+    "image_nutrition_small_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/nutrition_fr.33.200.jpg",
+    "image_nutrition_thumb_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/nutrition_fr.33.100.jpg",
+    "image_nutrition_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/nutrition_fr.33.400.jpg",
+    "image_small_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/front_fr.31.200.jpg",
+    "image_thumb_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/front_fr.31.100.jpg",
+    "image_url": "https://images.openfoodfacts.org/images/products/356/470/660/9136/front_fr.31.400.jpg",
+    "images": {
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 1200,
+            "w": 900
+          }
+        },
+        "uploaded_t": 1580913854,
+        "uploader": "kiliweb"
+      },
+      "2": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 93
+          },
+          "400": {
+            "h": 400,
+            "w": 371
+          },
+          "full": {
+            "h": 1200,
+            "w": 1114
+          }
+        },
+        "uploaded_t": 1580913855,
+        "uploader": "kiliweb"
+      },
+      "3": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 1200,
+            "w": 900
+          }
+        },
+        "uploaded_t": 1645194453,
+        "uploader": "kiliweb"
+      },
+      "4": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 93
+          },
+          "400": {
+            "h": 400,
+            "w": 371
+          },
+          "full": {
+            "h": 1200,
+            "w": 1114
+          }
+        },
+        "uploaded_t": 1645194455,
+        "uploader": "kiliweb"
+      },
+      "5": {
+        "sizes": {
+          "100": {
+            "h": 75,
+            "w": 100
+          },
+          "400": {
+            "h": 300,
+            "w": 400
+          },
+          "full": {
+            "h": 3024,
+            "w": 4032
+          }
+        },
+        "uploaded_t": 1649187054,
+        "uploader": "openfoodfacts-contributors"
+      },
+      "6": {
+        "sizes": {
+          "100": {
+            "h": 48,
+            "w": 100
+          },
+          "400": {
+            "h": 190,
+            "w": 400
+          },
+          "full": {
+            "h": 1248,
+            "w": 2622
+          }
+        },
+        "uploaded_t": 1676381484,
+        "uploader": "otherguru"
+      },
+      "7": {
+        "sizes": {
+          "100": {
+            "h": 75,
+            "w": 100
+          },
+          "400": {
+            "h": 300,
+            "w": 400
+          },
+          "full": {
+            "h": 3024,
+            "w": 4032
+          }
+        },
+        "uploaded_t": 1685887699,
+        "uploader": "sebleouf"
+      },
+      "8": {
+        "sizes": {
+          "100": {
+            "h": 75,
+            "w": 100
+          },
+          "400": {
+            "h": 300,
+            "w": 400
+          },
+          "full": {
+            "h": 3024,
+            "w": 4032
+          }
+        },
+        "uploaded_t": 1685887701,
+        "uploader": "sebleouf"
+      },
+      "9": {
+        "sizes": {
+          "100": {
+            "h": 75,
+            "w": 100
+          },
+          "400": {
+            "h": 300,
+            "w": 400
+          },
+          "full": {
+            "h": 3024,
+            "w": 4032
+          }
+        },
+        "uploaded_t": 1685887703,
+        "uploader": "sebleouf"
+      },
+      "10": {
+        "sizes": {
+          "100": {
+            "h": 75,
+            "w": 100
+          },
+          "400": {
+            "h": 300,
+            "w": 400
+          },
+          "full": {
+            "h": 3024,
+            "w": 4032
+          }
+        },
+        "uploaded_t": 1685887706,
+        "uploader": "sebleouf"
+      },
+      "11": {
+        "sizes": {
+          "100": {
+            "h": 75,
+            "w": 100
+          },
+          "400": {
+            "h": 300,
+            "w": 400
+          },
+          "full": {
+            "h": 3024,
+            "w": 4032
+          }
+        },
+        "uploaded_t": 1685887707,
+        "uploader": "sebleouf"
+      },
+      "front_fr": {
+        "angle": "0",
+        "coordinates_image_size": "400",
+        "geometry": "3765x1311-146-946",
+        "imgid": "8",
+        "normalize": "false",
+        "rev": "31",
+        "sizes": {
+          "100": {
+            "h": 35,
+            "w": 100
+          },
+          "200": {
+            "h": 70,
+            "w": 200
+          },
+          "400": {
+            "h": 139,
+            "w": 400
+          },
+          "full": {
+            "h": 1311,
+            "w": 3765
+          }
+        },
+        "white_magic": "false",
+        "x1": "14.5",
+        "x2": "388",
+        "y1": "93.921875",
+        "y2": "223.921875"
+      },
+      "ingredients_fr": {
+        "angle": "0",
+        "coordinates_image_size": "400",
+        "geometry": "1824x725-509-1485",
+        "imgid": "9",
+        "normalize": "false",
+        "rev": "32",
+        "sizes": {
+          "100": {
+            "h": 40,
+            "w": 100
+          },
+          "200": {
+            "h": 79,
+            "w": 200
+          },
+          "400": {
+            "h": 159,
+            "w": 400
+          },
+          "full": {
+            "h": 725,
+            "w": 1824
+          }
+        },
+        "white_magic": "false",
+        "x1": "50.5",
+        "x2": "231.5",
+        "y1": "147.34375",
+        "y2": "219.34375"
+      },
+      "nutrition_fr": {
+        "angle": "0",
+        "coordinates_image_size": "400",
+        "geometry": "3296x1029-277-1182",
+        "imgid": "10",
+        "normalize": "false",
+        "rev": "33",
+        "sizes": {
+          "100": {
+            "h": 31,
+            "w": 100
+          },
+          "200": {
+            "h": 62,
+            "w": 200
+          },
+          "400": {
+            "h": 125,
+            "w": 400
+          },
+          "full": {
+            "h": 1029,
+            "w": 3296
+          }
+        },
+        "white_magic": "false",
+        "x1": "27.5",
+        "x2": "354.5",
+        "y1": "117.359375",
+        "y2": "219.359375"
+      }
+    },
+    "informers_tags": [
+      "yuka.WHZFN0lxY3R2dUlndGNNanBEYnNvb0pZNExXU2VXV3VMZEFVSVE9PQ",
+      "kiliweb",
+      "roboto-app",
+      "moon-rabbit",
+      "sebleouf",
+      "teolemon",
+      "openfoodfacts-contributors",
+      "otherguru",
+      "noob10"
+    ],
+    "ingredients": [
+      {
+        "ciqual_proxy_food_code": "9410",
+        "id": "en:wheat-flour",
+        "origins": "en:france",
+        "percent": 72,
+        "percent_estimate": 72,
+        "text": "Farine de blé",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "17130",
+        "from_palm_oil": "no",
+        "id": "en:colza-oil",
+        "percent_estimate": 14,
+        "text": "huile de colza",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "2074",
+        "id": "en:concentrated-apple-juice",
+        "ingredients": [],
+        "percent": 9.4,
+        "percent_estimate": 9.4,
+        "text": "concentré de jus de pomme",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_food_code": "13050",
+        "id": "fr:flocons-de-pomme",
+        "percent": 4,
+        "percent_estimate": 4,
+        "text": "flocons de pomme",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:barley-malt-extract",
+        "percent_estimate": 0.299999999999997,
+        "text": "extrait de malt d'orge",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "fr:fructo-oligo",
+        "percent_estimate": 0.149999999999999,
+        "text": "fructo-oligo"
+      },
+      {
+        "id": "fr:saccharides",
+        "percent_estimate": 0.0750000000000028,
+        "text": "saccharides"
+      },
+      {
+        "ciqual_food_code": "9520",
+        "id": "en:rice-flour",
+        "percent_estimate": 0.0375000000000014,
+        "text": "farine de riz",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "ciqual_proxy_food_code": "19041",
+        "id": "en:semi-skimmed-milk",
+        "percent_estimate": 0.0187499999999972,
+        "text": "lait demi-écrémé",
+        "vegan": "no",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:raising-agent",
+        "ingredients": [
+          {
+            "id": "en:e501",
+            "percent_estimate": 0.00937499999999858,
+            "text": "e501",
+            "vegan": "yes",
+            "vegetarian": "yes"
+          }
+        ],
+        "percent_estimate": 0.00937499999999858,
+        "text": "poudres à lever"
+      },
+      {
+        "id": "en:e450",
+        "percent_estimate": 0.00468750000000284,
+        "text": "e450",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      },
+      {
+        "id": "en:natural-apple-flavouring",
+        "percent_estimate": 0.00234375000000142,
+        "text": "arôme naturel de pomme",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "en:natural-apricot-flavouring",
+        "percent_estimate": 0.00117187499999716,
+        "text": "arôme naturel d'abricot",
+        "vegan": "maybe",
+        "vegetarian": "maybe"
+      },
+      {
+        "id": "en:emulsifier",
+        "ingredients": [
+          {
+            "id": "en:sunflower-lecithin",
+            "percent_estimate": 0.000585937499998579,
+            "text": "lécithines de tournesol",
+            "vegan": "yes",
+            "vegetarian": "yes"
+          }
+        ],
+        "percent_estimate": 0.000585937499998579,
+        "text": "émulsifiant"
+      },
+      {
+        "ciqual_food_code": "9310",
+        "id": "en:oat-fibre",
+        "percent_estimate": 0.000585937500005684,
+        "text": "fibres d'avoine",
+        "vegan": "yes",
+        "vegetarian": "yes"
+      }
+    ],
+    "ingredients_analysis": {
+      "en:non-vegan": [
+        "en:semi-skimmed-milk"
+      ],
+      "en:palm-oil-content-unknown": [
+        "fr:fructo-oligo",
+        "fr:saccharides"
+      ],
+      "en:vegan-status-unknown": [
+        "fr:fructo-oligo",
+        "fr:saccharides"
+      ],
+      "en:vegetarian-status-unknown": [
+        "fr:fructo-oligo",
+        "fr:saccharides"
+      ]
+    },
+    "ingredients_analysis_tags": [
+      "en:palm-oil-free",
+      "en:non-vegan",
+      "en:vegetarian-status-unknown"
+    ],
+    "ingredients_from_or_that_may_be_from_palm_oil_n": 0,
+    "ingredients_from_palm_oil_n": 0,
+    "ingredients_from_palm_oil_tags": [],
+    "ingredients_hierarchy": [
+      "en:wheat-flour",
+      "en:cereal",
+      "en:flour",
+      "en:wheat",
+      "en:cereal-flour",
+      "en:colza-oil",
+      "en:oil-and-fat",
+      "en:vegetable-oil-and-fat",
+      "en:rapeseed-oil",
+      "en:concentrated-apple-juice",
+      "en:fruit",
+      "en:juice",
+      "en:malaceous-fruit",
+      "en:apple",
+      "en:fruit-juice",
+      "en:apple-juice",
+      "fr:flocons-de-pomme",
+      "en:barley-malt-extract",
+      "en:malt",
+      "en:malted-barley",
+      "fr:fructo-oligo",
+      "fr:saccharides",
+      "en:rice-flour",
+      "en:rice",
+      "en:semi-skimmed-milk",
+      "en:dairy",
+      "en:milk",
+      "en:raising-agent",
+      "en:e450",
+      "en:natural-apple-flavouring",
+      "en:flavouring",
+      "en:natural-flavouring",
+      "en:natural-apricot-flavouring",
+      "en:emulsifier",
+      "en:oat-fiber",
+      "en:fiber",
+      "en:vegetable-fiber",
+      "en:e501",
+      "en:sunflower-lecithin",
+      "en:e322",
+      "en:e322i"
+    ],
+    "ingredients_n": 17,
+    "ingredients_n_tags": [
+      "17",
+      "11-20"
+    ],
+    "ingredients_original_tags": [
+      "en:wheat-flour",
+      "en:colza-oil",
+      "en:concentrated-apple-juice",
+      "fr:flocons-de-pomme",
+      "en:barley-malt-extract",
+      "fr:fructo-oligo",
+      "fr:saccharides",
+      "en:rice-flour",
+      "en:semi-skimmed-milk",
+      "en:raising-agent",
+      "en:e450",
+      "en:natural-apple-flavouring",
+      "en:natural-apricot-flavouring",
+      "en:emulsifier",
+      "en:oat-fibre",
+      "en:e501",
+      "en:sunflower-lecithin"
+    ],
+    "ingredients_percent_analysis": -1,
+    "ingredients_tags": [
+      "en:wheat-flour",
+      "en:cereal",
+      "en:flour",
+      "en:wheat",
+      "en:cereal-flour",
+      "en:colza-oil",
+      "en:oil-and-fat",
+      "en:vegetable-oil-and-fat",
+      "en:rapeseed-oil",
+      "en:concentrated-apple-juice",
+      "en:fruit",
+      "en:juice",
+      "en:malaceous-fruit",
+      "en:apple",
+      "en:fruit-juice",
+      "en:apple-juice",
+      "fr:flocons-de-pomme",
+      "en:barley-malt-extract",
+      "en:malt",
+      "en:malted-barley",
+      "fr:fructo-oligo",
+      "fr:saccharides",
+      "en:rice-flour",
+      "en:rice",
+      "en:semi-skimmed-milk",
+      "en:dairy",
+      "en:milk",
+      "en:raising-agent",
+      "en:e450",
+      "en:natural-apple-flavouring",
+      "en:flavouring",
+      "en:natural-flavouring",
+      "en:natural-apricot-flavouring",
+      "en:emulsifier",
+      "en:oat-fiber",
+      "en:fiber",
+      "en:vegetable-fiber",
+      "en:e501",
+      "en:sunflower-lecithin",
+      "en:e322",
+      "en:e322i"
+    ],
+    "ingredients_text": "Farine de blé 72 %; huile de colza; concentré de jus de pomme 9,4 % (équivalent 60% de jus de pomme); flocons de pomme 4,0%; extrait de malt d'orge; fructo-oligo - saccharides; farine de riz; lait demi-écrémé; poudres à lever: E501, E450; arôme naturel de pomme; arôme naturel d'abricot; émulsifiant : lécithines (tournesol); fibres d'avoine. Traces de fruits à coque, œufs, graines de sésame et soja.",
+    "ingredients_text_fr": "Farine de blé 72 %; huile de colza; concentré de jus de pomme 9,4 % (équivalent 60% de jus de pomme); flocons de pomme 4,0%; extrait de malt d'orge; fructo-oligo - saccharides; farine de riz; lait demi-écrémé; poudres à lever: E501, E450; arôme naturel de pomme; arôme naturel d'abricot; émulsifiant : lécithines (tournesol); fibres d'avoine. Traces de fruits à coque, œufs, graines de sésame et soja.",
+    "ingredients_text_fr_ocr_1676381514": "Farine de blé 72 %; huile de colza; concentré de jus de pomme 9,4 % (équivalent 60% de jus de pomme); flocons de pomme 4,0%; extrait de malt d'orge; fructo-oligo- saccharides; farine de riz; lait demi-écrémé; poudres à lever: E501, E450; arôme naturel de pomme; arôme naturel d'abricot; émulsifiant : lécithines (tournesol); fibres d'avoine. Traces de fruits à coque, ceufs, graines de sésame et soja.",
+    "ingredients_text_fr_ocr_1676381514_result": "Farine de blé 72 %; huile de colza; concentré de jus de pomme 9,4 % (équivalent 60% de jus de pomme); flocons de pomme 4,0%; extrait de malt d'orge; fructo-oligo - saccharides; farine de riz; lait demi-écrémé; poudres à lever: E501, E450; arôme naturel de pomme; arôme naturel d'abricot; émulsifiant : lécithines (tournesol); fibres d'avoine. Traces de fruits à coque, ceufs, graines de sésame et soja.",
+    "ingredients_text_with_allergens": "Farine de <span class=\"allergen\">blé</span> 72 %; huile de colza; concentré de jus de pomme 9,4 % (équivalent 60% de jus de pomme); flocons de pomme 4,0%; extrait de <span class=\"allergen\">malt d'orge</span>; fructo-oligo - saccharides; farine de riz; <span class=\"allergen\">lait demi-écrémé</span>; poudres à lever: E501, E450; arôme naturel de pomme; arôme naturel d'abricot; émulsifiant : lécithines (tournesol); fibres d'avoine. Traces de <span class=\"allergen\">fruits à coque</span>, <span class=\"allergen\">œufs</span>, graines de <span class=\"allergen\">sésame</span> et <span class=\"allergen\">soja</span>.",
+    "ingredients_text_with_allergens_fr": "Farine de <span class=\"allergen\">blé</span> 72 %; huile de colza; concentré de jus de pomme 9,4 % (équivalent 60% de jus de pomme); flocons de pomme 4,0%; extrait de <span class=\"allergen\">malt d'orge</span>; fructo-oligo - saccharides; farine de riz; <span class=\"allergen\">lait demi-écrémé</span>; poudres à lever: E501, E450; arôme naturel de pomme; arôme naturel d'abricot; émulsifiant : lécithines (tournesol); fibres d'avoine. Traces de <span class=\"allergen\">fruits à coque</span>, <span class=\"allergen\">œufs</span>, graines de <span class=\"allergen\">sésame</span> et <span class=\"allergen\">soja</span>.",
+    "ingredients_that_may_be_from_palm_oil_n": 0,
+    "ingredients_that_may_be_from_palm_oil_tags": [],
+    "ingredients_with_specified_percent_n": 2,
+    "ingredients_with_specified_percent_sum": 76,
+    "ingredients_with_unspecified_percent_n": 12,
+    "ingredients_with_unspecified_percent_sum": 14.6,
+    "ingredients_without_ciqual_codes": [
+      "en:barley-malt-extract",
+      "en:e450",
+      "en:e501",
+      "en:emulsifier",
+      "en:natural-apple-flavouring",
+      "en:natural-apricot-flavouring",
+      "en:raising-agent",
+      "en:sunflower-lecithin",
+      "fr:fructo-oligo",
+      "fr:saccharides"
+    ],
+    "ingredients_without_ciqual_codes_n": 10,
+    "interface_version_created": "20150316.jqm2",
+    "interface_version_modified": "20190830",
+    "known_ingredients_n": 39,
+    "labels": "Nutriscore, Nutriscore A, Blé français",
+    "labels_hierarchy": [
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ble-francais"
+    ],
+    "labels_lc": "fr",
+    "labels_old": "Nutriscore, Nutriscore A, Blé français",
+    "labels_tags": [
+      "en:nutriscore",
+      "en:nutriscore-grade-a",
+      "fr:ble-francais"
+    ],
+    "lang": "fr",
+    "languages": {
+      "en:french": 5
+    },
+    "languages_codes": {
+      "fr": 5
+    },
+    "languages_hierarchy": [
+      "en:french"
+    ],
+    "languages_tags": [
+      "en:french",
+      "en:1"
+    ],
+    "last_edit_dates_tags": [
+      "2023-06-04",
+      "2023-06",
+      "2023"
+    ],
+    "last_editor": "sebleouf",
+    "last_image_dates_tags": [
+      "2023-06-04",
+      "2023-06",
+      "2023"
+    ],
+    "last_image_t": 1685887709,
+    "last_modified_by": "sebleouf",
+    "last_modified_t": 1685887777,
+    "last_updated_t": 1707643018,
+    "lc": "fr",
+    "link": "",
+    "main_countries_tags": [],
+    "manufacturing_places": "",
+    "manufacturing_places_tags": [],
+    "max_imgid": "11",
+    "minerals_tags": [],
+    "misc_tags": [
+      "en:packagings-number-of-components-0",
+      "en:some-ingredients-with-specified-percent",
+      "en:nutriscore-computed",
+      "en:nutrition-fruits-vegetables-nuts-estimate-from-ingredients",
+      "en:nutrition-all-nutriscore-values-known",
+      "en:nutrition-fruits-vegetables-legumes-estimate-from-ingredients",
+      "en:nutriscore-2021-different-from-2023",
+      "en:nutriscore-2021-better-than-2023",
+      "en:nutriscore-2021-a-2023-c",
+      "en:packagings-not-complete",
+      "en:packagings-empty",
+      "en:ecoscore-extended-data-not-computed",
+      "en:ecoscore-missing-data-warning",
+      "en:ecoscore-missing-data-labels",
+      "en:ecoscore-missing-data-packagings",
+      "en:ecoscore-missing-data-no-packagings",
+      "en:ecoscore-computed",
+      "en:ecoscore-changed",
+      "en:ecoscore-grade-changed"
+    ],
+    "no_nutrition_data": "",
+    "nova_group": 4,
+    "nova_group_debug": "",
+    "nova_groups": "4",
+    "nova_groups_markers": {
+      "3": [
+        [
+          "categories",
+          "en:sweet-snacks"
+        ]
+      ],
+      "4": [
+        [
+          "additives",
+          "en:e322"
+        ],
+        [
+          "additives",
+          "en:e450"
+        ],
+        [
+          "ingredients",
+          "en:emulsifier"
+        ],
+        [
+          "ingredients",
+          "en:flavouring"
+        ]
+      ]
+    },
+    "nova_groups_tags": [
+      "en:4-ultra-processed-food-and-drink-products"
+    ],
+    "nucleotides_tags": [],
+    "nutrient_levels": {
+      "fat": "moderate",
+      "salt": "low",
+      "saturated-fat": "moderate",
+      "sugars": "high"
+    },
+    "nutrient_levels_tags": [
+      "en:fat-in-moderate-quantity",
+      "en:saturated-fat-in-moderate-quantity",
+      "en:sugars-in-high-quantity",
+      "en:salt-in-low-quantity"
+    ],
+    "nutriments": {
+      "carbohydrates": 66,
+      "carbohydrates_100g": 66,
+      "carbohydrates_unit": "g",
+      "carbohydrates_value": 66,
+      "energy": 1954,
+      "energy-kcal": 467,
+      "energy-kcal_100g": 467,
+      "energy-kcal_unit": "kcal",
+      "energy-kcal_value": 467,
+      "energy-kcal_value_computed": 467.2,
+      "energy_100g": 1954,
+      "energy_unit": "kcal",
+      "energy_value": 467,
+      "fat": 18,
+      "fat_100g": 18,
+      "fat_unit": "g",
+      "fat_value": 18,
+      "fiber": 4.8,
+      "fiber_100g": 4.8,
+      "fiber_unit": "g",
+      "fiber_value": 4.8,
+      "fruits-vegetables-legumes-estimate-from-ingredients_100g": 13.4,
+      "fruits-vegetables-legumes-estimate-from-ingredients_serving": 13.4,
+      "fruits-vegetables-nuts-estimate-from-ingredients_100g": 27.4,
+      "fruits-vegetables-nuts-estimate-from-ingredients_serving": 27.4,
+      "nova-group": 4,
+      "nova-group_100g": 4,
+      "nova-group_serving": 4,
+      "nutrition-score-fr": -1,
+      "nutrition-score-fr_100g": -1,
+      "proteins": 7.9,
+      "proteins_100g": 7.9,
+      "proteins_unit": "g",
+      "proteins_value": 7.9,
+      "salt": 0.1,
+      "salt_100g": 0.1,
+      "salt_unit": "g",
+      "salt_value": 0.1,
+      "saturated-fat": 1.6,
+      "saturated-fat_100g": 1.6,
+      "saturated-fat_unit": "g",
+      "saturated-fat_value": 1.6,
+      "sodium": 0.04,
+      "sodium_100g": 0.04,
+      "sodium_unit": "g",
+      "sodium_value": 0.04,
+      "sugars": 13,
+      "sugars_100g": 13,
+      "sugars_unit": "g",
+      "sugars_value": 13
+    },
+    "nutriscore": {
+      "2021": {
+        "category_available": 1,
+        "data": {
+          "energy": 1954,
+          "energy_points": 5,
+          "energy_value": 1954,
+          "fiber": 4.8,
+          "fiber_points": 5,
+          "fiber_value": 4.8,
+          "fruits_vegetables_nuts_colza_walnut_olive_oils": 27.4,
+          "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+          "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 27.4,
+          "is_beverage": 0,
+          "is_cheese": 0,
+          "is_fat": 0,
+          "is_water": 0,
+          "negative_points": 8,
+          "positive_points": 9,
+          "proteins": 7.9,
+          "proteins_points": 4,
+          "proteins_value": 7.9,
+          "saturated_fat": 1.6,
+          "saturated_fat_points": 1,
+          "saturated_fat_value": 1.6,
+          "sodium": 40,
+          "sodium_points": 0,
+          "sodium_value": 40,
+          "sugars": 13,
+          "sugars_points": 2,
+          "sugars_value": 13
+        },
+        "grade": "a",
+        "nutrients_available": 1,
+        "nutriscore_applicable": 1,
+        "nutriscore_computed": 1,
+        "score": -1
+      },
+      "2023": {
+        "category_available": 1,
+        "data": {
+          "components": {
+            "negative": [
+              {
+                "id": "energy",
+                "points": 5,
+                "points_max": 10,
+                "unit": "kJ",
+                "value": 1954
+              },
+              {
+                "id": "sugars",
+                "points": 3,
+                "points_max": 15,
+                "unit": "g",
+                "value": 13
+              },
+              {
+                "id": "saturated_fat",
+                "points": 1,
+                "points_max": 10,
+                "unit": "g",
+                "value": 1.6
+              },
+              {
+                "id": "salt",
+                "points": 0,
+                "points_max": 20,
+                "unit": "g",
+                "value": 0.1
+              }
+            ],
+            "positive": [
+              {
+                "id": "proteins",
+                "points": 3,
+                "points_max": 7,
+                "unit": "g",
+                "value": 7.9
+              },
+              {
+                "id": "fiber",
+                "points": 2,
+                "points_max": 5,
+                "unit": "g",
+                "value": 4.8
+              },
+              {
+                "id": "fruits_vegetables_legumes",
+                "points": 0,
+                "points_max": 5,
+                "unit": "%",
+                "value": 13.4
+              }
+            ]
+          },
+          "count_proteins": 1,
+          "count_proteins_reason": "negative_points_less_than_11",
+          "is_beverage": 0,
+          "is_cheese": 0,
+          "is_fat_oil_nuts_seeds": 0,
+          "is_red_meat_product": 0,
+          "is_water": 0,
+          "negative_points": 9,
+          "negative_points_max": 55,
+          "positive_nutrients": [
+            "proteins",
+            "fiber",
+            "fruits_vegetables_legumes"
+          ],
+          "positive_points": 5,
+          "positive_points_max": 17
+        },
+        "grade": "c",
+        "nutrients_available": 1,
+        "nutriscore_applicable": 1,
+        "nutriscore_computed": 1,
+        "score": 4
+      }
+    },
+    "nutriscore_2021_tags": [
+      "a"
+    ],
+    "nutriscore_2023_tags": [
+      "c"
+    ],
+    "nutriscore_data": {
+      "energy": 1954,
+      "energy_points": 5,
+      "energy_value": 1954,
+      "fiber": 4.8,
+      "fiber_points": 5,
+      "fiber_value": 4.8,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils": 27.4,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils_points": 0,
+      "fruits_vegetables_nuts_colza_walnut_olive_oils_value": 27.4,
+      "grade": "a",
+      "is_beverage": 0,
+      "is_cheese": 0,
+      "is_fat": 0,
+      "is_water": 0,
+      "negative_points": 8,
+      "positive_points": 9,
+      "proteins": 7.9,
+      "proteins_points": 4,
+      "proteins_value": 7.9,
+      "saturated_fat": 1.6,
+      "saturated_fat_points": 1,
+      "saturated_fat_value": 1.6,
+      "score": -1,
+      "sodium": 40,
+      "sodium_points": 0,
+      "sodium_value": 40,
+      "sugars": 13,
+      "sugars_points": 2,
+      "sugars_value": 13
+    },
+    "nutriscore_grade": "a",
+    "nutriscore_score": -1,
+    "nutriscore_score_opposite": 1,
+    "nutriscore_tags": [
+      "a"
+    ],
+    "nutriscore_version": "2021",
+    "nutrition_data": "",
+    "nutrition_data_per": "100g",
+    "nutrition_data_prepared": "",
+    "nutrition_data_prepared_per": "100g",
+    "nutrition_grade_fr": "a",
+    "nutrition_grades": "a",
+    "nutrition_grades_tags": [
+      "a"
+    ],
+    "nutrition_score_beverage": 0,
+    "nutrition_score_debug": "",
+    "nutrition_score_warning_fruits_vegetables_legumes_estimate_from_ingredients": 1,
+    "nutrition_score_warning_fruits_vegetables_legumes_estimate_from_ingredients_value": 13.4,
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients": 1,
+    "nutrition_score_warning_fruits_vegetables_nuts_estimate_from_ingredients_value": 27.4,
+    "obsolete": "",
+    "obsolete_since_date": "",
+    "origin": "",
+    "origin_fr": "",
+    "origins": "",
+    "origins_hierarchy": [],
+    "origins_lc": "fr",
+    "origins_old": "",
+    "origins_tags": [],
+    "other_nutritional_substances_tags": [],
+    "packaging": "Boîte,Carton,Sachet",
+    "packaging_hierarchy": [
+      "en:cardboard",
+      "en:bag",
+      "en:box"
+    ],
+    "packaging_lc": "fr",
+    "packaging_materials_tags": [],
+    "packaging_old": "",
+    "packaging_recycling_tags": [],
+    "packaging_shapes_tags": [],
+    "packaging_tags": [
+      "en:cardboard",
+      "en:bag",
+      "en:box"
+    ],
+    "packaging_text": "",
+    "packaging_text_fr": "",
+    "packagings": [],
+    "packagings_complete": 0,
+    "packagings_materials": {},
+    "photographers_tags": [
+      "kiliweb",
+      "openfoodfacts-contributors",
+      "otherguru",
+      "sebleouf"
+    ],
+    "pnns_groups_1": "Sugary snacks",
+    "pnns_groups_1_tags": [
+      "sugary-snacks",
+      "known"
+    ],
+    "pnns_groups_2": "Biscuits and cakes",
+    "pnns_groups_2_tags": [
+      "biscuits-and-cakes",
+      "known"
+    ],
+    "popularity_key": 22990000049,
+    "popularity_tags": [
+      "top-10000-scans-2020",
+      "top-50000-scans-2020",
+      "top-100000-scans-2020",
+      "at-least-5-scans-2020",
+      "at-least-10-scans-2020",
+      "top-75-percent-scans-2020",
+      "top-80-percent-scans-2020",
+      "top-85-percent-scans-2020",
+      "top-90-percent-scans-2020",
+      "top-10000-fr-scans-2020",
+      "top-50000-fr-scans-2020",
+      "top-100000-fr-scans-2020",
+      "top-country-fr-scans-2020",
+      "at-least-5-fr-scans-2020",
+      "at-least-10-fr-scans-2020",
+      "top-5000-pt-scans-2020",
+      "top-10000-pt-scans-2020",
+      "top-50000-pt-scans-2020",
+      "top-100000-pt-scans-2020",
+      "top-10000-scans-2021",
+      "top-50000-scans-2021",
+      "top-100000-scans-2021",
+      "at-least-5-scans-2021",
+      "at-least-10-scans-2021",
+      "top-75-percent-scans-2021",
+      "top-80-percent-scans-2021",
+      "top-85-percent-scans-2021",
+      "top-90-percent-scans-2021",
+      "top-5000-fr-scans-2021",
+      "top-10000-fr-scans-2021",
+      "top-50000-fr-scans-2021",
+      "top-100000-fr-scans-2021",
+      "top-country-fr-scans-2021",
+      "at-least-5-fr-scans-2021",
+      "at-least-10-fr-scans-2021",
+      "top-1000-re-scans-2021",
+      "top-5000-re-scans-2021",
+      "top-10000-re-scans-2021",
+      "top-50000-re-scans-2021",
+      "top-100000-re-scans-2021",
+      "top-10000-pt-scans-2021",
+      "top-50000-pt-scans-2021",
+      "top-100000-pt-scans-2021",
+      "top-50000-ch-scans-2021",
+      "top-100000-ch-scans-2021",
+      "top-10000-scans-2022",
+      "top-50000-scans-2022",
+      "top-100000-scans-2022",
+      "at-least-5-scans-2022",
+      "at-least-10-scans-2022",
+      "top-75-percent-scans-2022",
+      "top-80-percent-scans-2022",
+      "top-85-percent-scans-2022",
+      "top-90-percent-scans-2022",
+      "top-5000-fr-scans-2022",
+      "top-10000-fr-scans-2022",
+      "top-50000-fr-scans-2022",
+      "top-100000-fr-scans-2022",
+      "top-country-fr-scans-2022",
+      "at-least-5-fr-scans-2022",
+      "at-least-10-fr-scans-2022",
+      "top-10000-scans-2023",
+      "top-50000-scans-2023",
+      "top-100000-scans-2023",
+      "at-least-5-scans-2023",
+      "at-least-10-scans-2023",
+      "top-75-percent-scans-2023",
+      "top-80-percent-scans-2023",
+      "top-85-percent-scans-2023",
+      "top-90-percent-scans-2023",
+      "top-5000-fr-scans-2023",
+      "top-10000-fr-scans-2023",
+      "top-50000-fr-scans-2023",
+      "top-100000-fr-scans-2023",
+      "top-country-fr-scans-2023",
+      "at-least-5-fr-scans-2023",
+      "at-least-10-fr-scans-2023",
+      "top-1000-re-scans-2023",
+      "top-5000-re-scans-2023",
+      "top-10000-re-scans-2023",
+      "top-50000-re-scans-2023",
+      "top-100000-re-scans-2023",
+      "top-50000-de-scans-2023",
+      "top-100000-de-scans-2023",
+      "top-10000-pt-scans-2023",
+      "top-50000-pt-scans-2023",
+      "top-100000-pt-scans-2023"
+    ],
+    "product_name": "Pomme",
+    "product_name_fr": "Pomme",
+    "product_quantity": "200",
+    "product_type": "food",
+    "purchase_places": "",
+    "purchase_places_tags": [],
+    "quantity": "200 g",
+    "removed_countries_tags": [],
+    "rev": 34,
+    "scans_n": 49,
+    "selected_images": {
+      "front": {
+        "display": {
+          "fr": "https://images.openfoodfacts.org/images/products/356/470/660/9136/front_fr.31.400.jpg"
+        },
+        "small": {
+          "fr": "https://images.openfoodfacts.org/images/products/356/470/660/9136/front_fr.31.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://images.openfoodfacts.org/images/products/356/470/660/9136/front_fr.31.100.jpg"
+        }
+      },
+      "ingredients": {
+        "display": {
+          "fr": "https://images.openfoodfacts.org/images/products/356/470/660/9136/ingredients_fr.32.400.jpg"
+        },
+        "small": {
+          "fr": "https://images.openfoodfacts.org/images/products/356/470/660/9136/ingredients_fr.32.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://images.openfoodfacts.org/images/products/356/470/660/9136/ingredients_fr.32.100.jpg"
+        }
+      },
+      "nutrition": {
+        "display": {
+          "fr": "https://images.openfoodfacts.org/images/products/356/470/660/9136/nutrition_fr.33.400.jpg"
+        },
+        "small": {
+          "fr": "https://images.openfoodfacts.org/images/products/356/470/660/9136/nutrition_fr.33.200.jpg"
+        },
+        "thumb": {
+          "fr": "https://images.openfoodfacts.org/images/products/356/470/660/9136/nutrition_fr.33.100.jpg"
+        }
+      }
+    },
+    "sortkey": 1604918280,
+    "specific_ingredients": [
+      {
+        "id": "en:wheat",
+        "ingredient": "en:wheat",
+        "label": "fr:ble-francais",
+        "origins": "en:france"
+      }
+    ],
+    "states": "en:to-be-completed, en:nutrition-facts-completed, en:ingredients-completed, en:expiration-date-to-be-completed, en:packaging-code-to-be-completed, en:characteristics-to-be-completed, en:origins-to-be-completed, en:categories-completed, en:brands-completed, en:packaging-completed, en:quantity-completed, en:product-name-completed, en:photos-to-be-validated, en:packaging-photo-to-be-selected, en:nutrition-photo-selected, en:ingredients-photo-selected, en:front-photo-selected, en:photos-uploaded",
+    "states_hierarchy": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:origins-to-be-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:packaging-photo-to-be-selected",
+      "en:nutrition-photo-selected",
+      "en:ingredients-photo-selected",
+      "en:front-photo-selected",
+      "en:photos-uploaded"
+    ],
+    "states_tags": [
+      "en:to-be-completed",
+      "en:nutrition-facts-completed",
+      "en:ingredients-completed",
+      "en:expiration-date-to-be-completed",
+      "en:packaging-code-to-be-completed",
+      "en:characteristics-to-be-completed",
+      "en:origins-to-be-completed",
+      "en:categories-completed",
+      "en:brands-completed",
+      "en:packaging-completed",
+      "en:quantity-completed",
+      "en:product-name-completed",
+      "en:photos-to-be-validated",
+      "en:packaging-photo-to-be-selected",
+      "en:nutrition-photo-selected",
+      "en:ingredients-photo-selected",
+      "en:front-photo-selected",
+      "en:photos-uploaded"
+    ],
+    "stores": "Leclerc",
+    "stores_tags": [
+      "leclerc"
+    ],
+    "teams": "chocolatine,la-robe-est-bleue",
+    "teams_tags": [
+      "chocolatine",
+      "la-robe-est-bleue"
+    ],
+    "traces": "en:eggs,en:nuts,en:sesame-seeds,en:soybeans",
+    "traces_from_ingredients": "fruits à coque, œufs, sésame, soja",
+    "traces_from_user": "(fr) en:eggs,en:nuts,en:sesame-seeds,en:soybeans",
+    "traces_hierarchy": [
+      "en:eggs",
+      "en:nuts",
+      "en:sesame-seeds",
+      "en:soybeans"
+    ],
+    "traces_lc": "fr",
+    "traces_tags": [
+      "en:eggs",
+      "en:nuts",
+      "en:sesame-seeds",
+      "en:soybeans"
+    ],
+    "unique_scans_n": 44,
+    "unknown_ingredients_n": 2,
+    "unknown_nutrients_tags": [],
+    "update_key": "add-product-type",
+    "vitamins_tags": [],
+    "weighers_tags": []
+  },
+  "result": {
+    "id": "product_found",
+    "lc_name": "Product found",
+    "name": "Product found"
+  },
+  "status": "success",
+  "warnings": []
+}

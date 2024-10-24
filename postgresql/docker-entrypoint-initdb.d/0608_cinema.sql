@@ -38,50 +38,12 @@ alter table cinema.films
     on update no action
     on delete no action;
 
-alter table cinema.resumes
-  add  constraint resumes_films_fk foreign key (film_id)
-    references cinema.films (film_id) match simple
-    on update no action
-    on delete no action;
-
-alter table cinema.films_genres
-  add constraint film_genre_genre
-  foreign key (genre_id)
-    references cinema.genres (genre_id) match simple
-    on update no action
-    on delete no action;
-
-alter table cinema.films_genres
-  add constraint film_genre_film
-  foreign key (film_id)
-    references cinema.films (film_id) match simple
-    on update no action
-    on delete no action;
-
-alter table cinema.productions
-  add constraint production_films_fk foreign key (film_id)
-  references cinema.films (film_id) match simple
-  on update no action
-  on delete no action;
-
-alter table cinema.productions add
-  constraint production_societes_fk foreign key (societe_id)
-  references cinema.societes (societe_id) match simple
-  on update no action
-  on delete no action;
-
 alter table cinema.votes
   add constraint vote_film_fk foreign key (film_id)
     references cinema.films (film_id) match simple
     on update no action
     on delete no action;
 
-alter table cinema.resumes
-add  constraint resume_langue_fk
-  foreign key (langue_code)
-  references geo.langues (code3) match simple
-  on update no action
-  on delete no action;
 
 alter table cinema.seances
   add constraint seance_salle_fk foreign key (salle_id)
@@ -129,14 +91,13 @@ add constraint films_genres_film_id_fkey
   references cinema.films(film_id)
   on delete cascade;
 
-
 -- films_genres -> genres
-
 create index on cinema.films_genres(genre_id);
 
 alter table cinema.films_genres
 add constraint films_genres_genre_id_fkey
-  foreign key (genre_id) references cinema.genres(genre_id)
+  foreign key (genre_id) 
+  references cinema.genres(genre_id)
   on delete cascade;
 
 

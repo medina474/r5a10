@@ -132,7 +132,7 @@ create table cinema.seances (
 
 create table cinema.salles (
   salle_id int not null,
-  etablissement_id int not null,
+  etablissement_id bigint not null,
   salle text not null,
   sieges int not null
 );
@@ -145,14 +145,24 @@ create table cinema.sites (
   url text not null
 );
 
-create type cinema.link_table as enum ('personnes', 'films', 'societes');
-
 create table cinema.links (
   id int not null,
   site_id smallint not null,
-  identifiant text not null,
-  "table" cinema.link_table not null
+  identifiant text not null
 );
+
+alter table cinema.links
+  add constraint links_no_insert_in_parent
+  check (false) no inherit;
+
+create table cinema.links_societes (
+) inherits (cinema.links);
+
+create table cinema.links_films (
+) inherits (cinema.links);
+
+create table cinema.links_personnes (
+) inherits (cinema.links);
 
 create table cinema.votes (
   user_id int not null,

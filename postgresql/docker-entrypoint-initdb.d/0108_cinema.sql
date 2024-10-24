@@ -10,7 +10,7 @@ create table cinema.etablissements (
 );
 
 create table cinema.personnes (
-  personne_id uuid default gen_random_uuid() not null,
+  personne_id int not null,
   nom text,
   prenom text,
   naissance date,
@@ -22,7 +22,7 @@ create table cinema.personnes (
 
 
 create table cinema.films (
-  film_id uuid default gen_random_uuid() not null,
+  film_id int not null,
   titre text not null,
   titre_original text,
   annee integer,
@@ -45,8 +45,8 @@ create type cinema.role as enum (
 );
 
 create table cinema.equipes (
-  film_id uuid not null,
-  personne_id uuid not null,
+  film_id int not null,
+  personne_id int not null,
   role cinema.role,
   alias text,
   ordre int2 null default 99
@@ -66,7 +66,7 @@ create table cinema.franchises (
 );
 
 create table cinema.films_motscles (
-  film_id uuid not null,
+  film_id int not null,
   motcle_id integer not null
 );
 
@@ -82,13 +82,13 @@ create table cinema.genres (
 );
 
 create table cinema.films_genres (
-  film_id uuid not null,
+  film_id int not null,
   genre_id integer not null
 );
 
 
 create table cinema.societes (
-  societe_id uuid default gen_random_uuid() not null primary key,
+  societe_id int not null,
   societe text not null,
   uei text
 );
@@ -96,8 +96,8 @@ create table cinema.societes (
 comment on column cinema.societes.uei is 'Unique Entity ID';
 
 create table cinema.productions (
-  film_id uuid not null,
-  societe_id uuid not null
+  film_id int not null,
+  societe_id int not null
 );
 
 create table cinema.certifications (
@@ -140,18 +140,18 @@ create table cinema.salles (
 
 
 create table cinema.sites (
-  site_id bigint not null,
+  site_id smallint not null,
   site text not null,
   url text not null
 );
 
-CREATE TYPE link_table AS ENUM ('personnes', 'films', 'societes');
+create type cinema.link_table as enum ('personnes', 'films', 'societes');
 
 create table cinema.links (
-  id uuid not null,
-  site_id bigint not null,
+  id int not null,
+  site_id smallint not null,
   identifiant text not null,
-  table link_table not null
+  "table" cinema.link_table not null
 );
 
 create table cinema.votes (

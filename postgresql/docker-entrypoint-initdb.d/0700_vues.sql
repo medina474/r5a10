@@ -12,7 +12,7 @@ create or replace view cinema.view_debug as  select fg.film_id,
     fg.genre_id
    from (cinema.films_genres fg
      left join cinema.films f on ((fg.film_id = f.film_id)))
-  where (f.film_id = null::uuid);
+  where (f.film_id = null);
 
 
 create or replace view cinema.view_films_tmdb as  select f.titre,

@@ -260,13 +260,12 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 2157,Williams,Robin,1951-07-21,2014-08-11,,,18.572
 2165,Arquette,Rosanna,1959-08-10,,,,28.013
 2178,Whitaker,Forest,1961-07-15,,,,37.554
-2189,"",Renaud,1952-05-11,,,,6.018
+2189,Séchan,Renaud,1952-05-11,,,Renaud,6.018
 2192,Wilson,Lambert,1958-08-03,,,,2.744
 2197,Russo,Daniel,1948-05-13,,fr,,4.843
 2199,Frank,Scott,1960-03-10,,,,0
 2201,von Sydow,Max,1929-04-10,2020-03-08,,,17.842
 2203,McDonough,Neal,1966-02-13,,,,1.96
-2209,de,Jan,1943-10-22,,,,0
 2209,de Bont,Jan,1943-10-22,,,,4.325
 2214,Haslinger,Paul,1962-12-11,,,,0
 2224,Christian,Slater,1969-08-18,,,,37.323
@@ -380,7 +379,6 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 3349,B.,James,,,,,0
 3375,Scharf,Walter,1910-08-01,2003-02-24,,,0
 3388,L. Brooks,James,1940-05-09,,,,5.422
-3388,L.,James,1940-05-09,,,,0
 3390,Adler,Warren,1927-12-16,2019-04-15,,,0
 3391,Turner,Kathleen,1954-06-19,,us,,34.432
 3392,Douglas,Michael,1944-09-25,,us,,51.091
@@ -422,7 +420,7 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 3981,Goldstein,Jenette,1960-02-04,,us,,12.832
 3999,Hulce,Thomas Edward,1953-12-06,,us,,14.663
 4012,Treat Clark,Spencer,1987-09-24,,,,9.102
-4014,W.,Paul,1965-03-04,,,,0
+4014,Anderson,Paul W.S.,1965-03-04,,,,0
 4027,Darabont,Frank,1959-01-28,,,,0
 4037,Shelton,Ron,1945-09-15,,,,0
 4038,Sarandon,Susan,1946-10-04,,us,,87.56
@@ -1867,7 +1865,7 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 51516,Hilliard,Steven,1937-11-01,2018-06-27,,,0
 51572,Norris,Aaron,1951-11-23,,,,0
 51576,Norris,Chuck,1940-03-10,,us,,39.845
-51576,Gansbacher,Margit,1940-03-10,,it,Margie Newton,39.845
+588158,Gansbacher,Margit,1940-03-10,,it,Margie Newton,39.845
 51586,Norris,Mike,1962-10-04,,,,0
 51588,Kiner,Kevin,1958-09-03,,,,0
 51627,Rickman,Thomas,,,,,0

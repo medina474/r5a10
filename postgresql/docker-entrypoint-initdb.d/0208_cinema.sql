@@ -64,7 +64,7 @@ select setval(pg_get_serial_sequence('cinema.franchises', 'franchise_id'), (sele
 \copy cinema.films(film_id,titre,titre_original,annee,sortie,duree,franchise_id,vote_votants,vote_moyenne, pays) from '/docker-entrypoint-data.d/cinema/films.csv' (format csv, header, encoding 'utf8');
 
 create temporary table slogan_tmp (
-  film_id uuid,
+  film_id int,
   slogan text);
 
 \copy slogan_tmp from '/docker-entrypoint-data.d/cinema/films_slogan.csv' (format csv, header, delimiter ',', encoding 'utf8');

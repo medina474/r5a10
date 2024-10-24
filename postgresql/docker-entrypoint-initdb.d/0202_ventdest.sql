@@ -5,7 +5,7 @@
 
 
 \copy categories from '/docker-entrypoint-data.d/ventdest/categories.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
-\copy products (product_id,product_name,tiers_id,category_id,quantity_per_unit,unit_price,code_barre,discontinued) from '/docker-entrypoint-data.d/ventdest/products.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
+\copy products (product_id,product_name,tiers_id,category_id,quantity_per_unit,unit_price,code_barre,discontinued,properties,nutriments) from '/docker-entrypoint-data.d/ventdest/products.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy banques from '/docker-entrypoint-data.d/ventdest/banques.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy marques from '/docker-entrypoint-data.d/ventdest/marques.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 \copy additifs from '/docker-entrypoint-data.d/ventdest/additifs.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');

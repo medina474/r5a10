@@ -39,4 +39,4 @@ async function getFoodFact(ean13) {
   }
 }
 
-getFoodFact('3560071266097');
+getFoodFact('3760020502218');

@@ -40,18 +40,20 @@ for (const p of produits) {
   nutriments["graisses saturées"] = nutriments["saturated-fat_100g"];
   nutriments["proteines"] = nutriments.proteins_100g;
   nutriments["fibres"] = nutriments.fiber_100g;
-  nutriments["nova"] = nutriments["nova-group_100g"];
+  nutriments["nova"] = nutriments["nova-group_100g"] ?? 0;
   nutriments["points_negatifs"] = produit.product.nutriscore["2023"].data.negative_points;
   nutriments["points_positifs"] = produit.product.nutriscore["2023"].data.positive_points;
-  nutriments["ecoscore"] = produit.product["ecoscore_score"] ? produit.product["ecoscore_score"] : 0;
+  nutriments["ecoscore"] = produit.product["ecoscore_score"] ?? 0;
+  nutriments["carbone"] = nutriments["carbon-footprint-from-known-ingredients_100g"] ?? 0;
+  nutriments["fruits"] =nutriments["fruits-vegetables-nuts-estimate-from-ingredients_100g"] ?? 0;
 
   let vector = [ nutriments["energie"], 
     nutriments["glucides"], nutriments["sucres"], 
     nutriments["graisses"], nutriments["graisses saturées"],
     nutriments["proteines"], nutriments["fiber_100g"],
     nutriments["salt_100g"], nutriments["sodium_100g"],
-    nutriments["fruits-vegetables-nuts-estimate-from-ingredients_100g"],
-    nutriments["carbon-footprint-from-known-ingredients_100g"],
+    nutriments["fruits"],
+    nutriments["carbone"],
     nutriments["ecoscore"],
     nutriments["nova"],
     nutriments["points_negatifs"], nutriments["points_positifs"]
@@ -60,13 +62,16 @@ for (const p of produits) {
   vector = `[${vector}]`;
   console.log(vector);
 
-  for (const i of produit.product.ingredients) {
-    console.log(`${i.text} ${i.percent_estimated}`);
+  if (produit.product.ingredients) {
+    for (const i of produit.product.ingredients) {
+      console.log(`${i.text} ${i.percent_estimated}`);
+    }
   }
 
   await sql`update products set
+  product_name = ${produit.product.product_name},
   nutriments = ${vector}
-  where product_id=${p.product_id}`;
+  where product_id = ${p.product_id}`;
 
 }
 

@@ -1,6 +1,7 @@
 \c ventdest
 
-create index 
+-- employe_regions -> employes
+create index
   on employe_regions
   using btree (employe_id);
 
@@ -8,7 +9,8 @@ alter table employe_regions
   add foreign key (employe_id)
   references employes;
 
-create index 
+-- employe_regions -> region
+create index
   on employe_regions
   using btree (region);
 

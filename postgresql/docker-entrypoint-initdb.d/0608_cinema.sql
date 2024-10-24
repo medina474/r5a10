@@ -1,10 +1,10 @@
 \c ventdest
 
 
-create index on cinema.productions 
+create index on cinema.productions
   using btree (film_id);
 
-create index on cinema.productions 
+create index on cinema.productions
   using btree (societe_id);
 
 create index resume_film_fki
@@ -112,33 +112,40 @@ alter table cinema.salles
         on delete no action
         not valid;
 
-alter table cinema.equipes
-add constraint equipe_film_fk foreign key (film_id) references cinema.films(film_id)
-    on update no action on delete no action not valid;
-
-alter table cinema.equipes
-add constraint equipe_personne_fk foreign key (personne_id)
-references cinema.personnes(personne_id)
-    on update no action on delete no action not valid;
+-- equipes -> films
+create index on cinema.equipes(film_id);
 
 alter table cinema.equipes
 add constraint equipes_film_id_fkey
-  foreign key (film_id) references cinema.films(film_id)
+  foreign key (film_id)
+  references cinema.films
   on delete cascade not valid;
 alter table cinema.equipes validate constraint equipes_film_id_fkey;
 
+-- equipes -> personnes
+create index on cinema.equipes(personne_id);
+
 alter table cinema.equipes
 add constraint equipes_personne_id_fkey
-  foreign key (personne_id) references cinema.personnes(personne_id)
+  foreign key (personne_id)
+  references cinema.personnes
   on delete cascade not valid;
 alter table cinema.equipes validate constraint equipes_personne_id_fkey;
 
+-- films_genres -> films
+create index on cinema.films_genres(film_id);
+
 alter table cinema.films_genres
 add constraint films_genres_film_id_fkey
-  foreign key (film_id) references cinema.films(film_id)
+  foreign key (film_id)
+  references cinema.films(film_id)
   on delete cascade not valid;
 
 alter table cinema.films_genres validate constraint films_genres_film_id_fkey;
+
+-- films_genres -> genres
+
+create index on cinema.films_genres(genre_id);
 
 alter table cinema.films_genres
 add constraint films_genres_genre_id_fkey
@@ -149,7 +156,7 @@ alter table cinema.films_genres validate constraint films_genres_genre_id_fkey;
 
 alter table cinema.productions
 add constraint productions_film_id_fkey
-  foreign key (film_id) references cinema.films(film_id)
+  foreign key (film_id) references cinema.films
   on delete cascade not valid;
 
 alter table cinema.productions
@@ -165,7 +172,7 @@ alter table cinema.productions
 
 alter table cinema.resumes
 add constraint resumes_film_id_fkey
-  foreign key (film_id) references cinema.films(film_id)
+  foreign key (film_id) references cinema.films
   on delete cascade not valid;
 
 alter table cinema.resumes
@@ -197,12 +204,12 @@ alter table cinema.links_personnes
   foreign key (id) references cinema.personnes(personne_id)
   on delete cascade;
 
-create index film_motscles_films 
-  on cinema.films_motscles 
+create index film_motscles_films
+  on cinema.films_motscles
   using btree (film_id);
 
-create index film_motscles_motscles 
-  on cinema.films_motscles 
+create index film_motscles_motscles
+  on cinema.films_motscles
   using btree (motcle_id);
 
 alter table cinema.films_motscles

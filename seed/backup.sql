@@ -1,23 +1,25 @@
-\copy equipes to '../data/cinema/equipes.csv' (format csv, header, encoding 'utf8');
+\c ventdest
 
-\copy personnes to '../data/cinema/personnes.csv' (format csv, header, encoding 'utf8');
+\copy cinema.equipes to '../data/cinema/equipes.csv' (format csv, header, encoding 'utf8');
 
-\copy franchises to '../data/cinema/franchises.csv' (format csv, header, encoding 'utf8');
-\copy films_genres to '../data/cinema/films_genres.csv' (format csv, header, encoding 'utf8');
+\copy cinema.personnes to '../data/cinema/personnes.csv' (format csv, header, encoding 'utf8');
 
-\copy links_societes to '../data/cinema/links_societes.csv' (format csv, header, encoding 'utf8');
-\copy links_personnes to '../data/cinema/links_personnes.csv' (format csv, header, encoding 'utf8');
-\copy links_films to '../data/cinema/links_films.csv' (format csv, header, encoding 'utf8');
+\copy cinema.franchises to '../data/cinema/franchises.csv' (format csv, header, encoding 'utf8');
+\copy cinema.films_genres to '../data/cinema/films_genres.csv' (format csv, header, encoding 'utf8');
 
-\copy societes to '../data/cinema/societes.csv' (format csv, header, encoding 'utf8');
-\copy productions to '../data/cinema/productions.csv' (format csv, header, encoding 'utf8');
+\copy cinema.links_societes to '../data/cinema/links_societes.csv' (format csv, header, encoding 'utf8');
+\copy cinema.links_personnes to '../data/cinema/links_personnes.csv' (format csv, header, encoding 'utf8');
+\copy cinema.links_films to '../data/cinema/links_films.csv' (format csv, header, encoding 'utf8');
 
-\copy films(film_id,titre,titre_original,annee,sortie,duree,franchise_id,vote_votants,vote_moyenne, pays) to '../data/cinema/films.csv' (format csv, header, encoding 'utf8');
-\copy resumes to '../data/cinema/resumes.csv' (format csv, header, encoding 'utf8');
-\copy (select film_id, slogan from films where slogan <> '') to '../data/cinema/films-slogan.csv' (format csv, header, delimiter ',', encoding 'utf8');
+\copy cinema.societes to '../data/cinema/societes.csv' (format csv, header, encoding 'utf8');
+\copy cinema.productions to '../data/cinema/productions.csv' (format csv, header, encoding 'utf8');
 
-\copy motscles to '../data//cinemamotscles.csv' (format csv, header, encoding 'utf8');
-\copy films_motscles to '../data/cinema/films_motscles.csv' (format csv, header, encoding 'utf8');
+\copy cinema.films(film_id,titre,titre_original,annee,sortie,duree,franchise_id,vote_votants,vote_moyenne, pays) to '../data/cinema/films.csv' (format csv, header, encoding 'utf8');
+\copy cinema.resumes to '../data/cinema/resumes.csv' (format csv, header, encoding 'utf8');
+\copy (select film_id, slogan from cinema.films where slogan <> '') to '../data/cinema/films_slogan.csv' (format csv, header, delimiter ',', encoding 'utf8');
+
+\copy cinema.motscles to '../data/cinema/motscles.csv' (format csv, header, encoding 'utf8');
+\copy cinema.films_motscles to '../data/cinema/films_motscles.csv' (format csv, header, encoding 'utf8');
 
 -- Musique
 --\copy artistes to '../data/musique/artistes.csv' (format csv, header, encoding 'utf8');

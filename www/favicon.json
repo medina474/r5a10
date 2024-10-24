@@ -1,0 +1,26 @@
+[
+  {
+    "input" : ["favicon.svg", "0:0:16:16" ],
+    "output": [ ["16.png"] ]
+  },
+  {
+    "input" : ["favicon.svg", "0:16:24:24" ],
+    "output": [ ["24.png"] ]
+  },
+  {
+    "input" : ["favicon.svg", "0:40:32:32" ],
+    "output": [ ["32.png"] ]
+  },
+  {
+    "input" : ["favicon.svg", "0:72:48:48" ],
+    "output": [ ["48.png"] ]
+  },
+  {
+  "input" : ["favicon.svg", "0:120:64:64" ],
+  "output": [ ["64.png"] ]
+  },
+  {
+    "input" : ["favicon.svg", "0:184:72:72" ],
+    "output": [ ["72.png"] ]
+  }
+]

@@ -1,78 +1,78 @@
-product_id,product_name,fournisseur_id,category_id,quantity_per_unit,unit_price,code_barre,discontinued
-1,Petit écolier chocolat noir,8,1,12 biscuits,1.55,5410041010800,0
-2,Petit écolier chocolat au lait,1,1,12 biscuits,1.59,7622210421968,0
-3,Petit écolier chocolat blanc,1,2,12 biscuits,1.65,3017760654098,0
-4,Pépito chocolat noir,2,2,20 biscuits,1.45,7622210717870,0
-5,Pépito chocolat au lait,2,2,20 biscuits,1.45,7622210717801,1
-6,Prince Goût Chocolat,3,2,15 biscuits,1.49,7622210449283,0
-7,Prince Goût Chocolat Multi Céréales au blé complet,3,7,15 biscuits,1.49,7622210449313,0
-8,DéliChoc chocolat au lait,3,2,12 biscuits,1.99,3116430216342,0
-9,Granola chocolat au lait,4,6,16 biscuits,1.45,7622210601988,1
-10,Le biscuit de Naty,4,8,12 biscuits,3.99,3229820112046,0
-11,Sablés au chocolat Bio,5,4,1 kg pkg.,3.15,3560071266097,0
-12,Granola chocolat noir,5,4,10 - 500 g pkgs.,38,3017760595193,0
-13,Biscuit nappés de chocolat et graines de Chia,6,8,2 kg box,6,3760151013287,0
-14,Biscuits Lait d'amande et noisettes,6,7,40 - 100 g pkgs.,23.25,3229820802312,0
-15,Biscuit fondant choco lait,6,2,24 - 250 ml bottles,13,3175681210714,0
-16,Sablés Pépites Choco,7,3,32 - 500 g boxes,17.45,3456300013115,0
-17,Biscuits Nappé Intenses Éclats de fèves de cacao,7,6,20 - 1 kg tins,39,3229820804439,1
-18,Petit beurre tablette chocolat lait,7,8,16 kg pkg.,62.5,3560070682683,0
-19,Choco Rico ! chocolat au lait,8,3,10 boxes x 12 pieces,9.19999981,3178530422597,0
-20,Sablés De Retz,8,3,30 gift boxes,81,3023470010017,0
-21,Biscuit nappé chocolat au lait,8,3,24 pkgs. x 4 pieces,10,3564707083744,0
-22,Biscuits nappés chocolat noir,9,5,24 - 500 g pkgs.,21,3564707083546,0
-23,Milka choco biscuits,9,5,12 - 250 g pkgs.,9,7622300270469,0
-24,Guaraná Fantástica,10,1,12 - 355 ml cans,4.5,3564700855034,1
-25,NuNuCa Nuß-Nougat-Creme,11,3,20 - 450 g glasses,14,3564700855041,0
-26,Gumbär Gummibärchen,11,3,100 - 250 g bags,31.2299995,3564706609136,0
-27,Schoggi Schokolade,11,3,100 - 100 g pieces,43.9000015,3564706609143,0
-28,Rössle Sauerkraut,12,7,25 - 825 g cans,45.5999985,3564706618824,1
-29,Thüringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.790001,3564700855027,1
-30,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.8899994,3564706609112,0
-31,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.5,3564706609105,0
-32,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32,3564706618831,0
-33,Geitost,15,4,500 g,2.5,3564706618824,0
-34,Sasquatch Ale,16,1,24 - 12 oz bottles,14,3564700009604,0
-35,Steeleye Stout,16,1,24 - 12 oz bottles,18,3564700000748,0
-36,Inlagd Sill,17,8,24 - 250 g  jars,19,3564700000786,0
-37,Gravad lax,17,8,12 - 500 g pkgs.,26,3178530409840,0
-38,Côte de Blaye,18,1,12 - 75 cl bottles,263.5,7622300292508,0
-39,Chartreuse verte,18,1,750 cc per bottle,18,3456300014228,0
-40,Boston Crab Meat,19,8,24 - 4 oz tins,18.3999996,3760020502218,0
-41,Jack''s New England Clam Chowder,19,8,12 - 12 oz cans,9.64999962,,0
-42,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14,,1
-43,Ipoh Coffee,20,1,16 - 500 g tins,46,,0
-44,Gula Malacca,20,2,20 - 2 kg bags,19.4500008,,0
-45,Rogede sild,21,8,1k pkg.,9.5,,0
-46,Spegesild,21,8,4 - 450 g glasses,12,,0
-47,Zaanse koeken,22,3,10 - 4 oz boxes,9.5,,0
-48,Chocolade,22,3,10 pkgs.,12.75,,0
-49,Maxilaku,23,3,24 - 50 g pkgs.,20,,0
-50,Valkoinen suklaa,23,3,12 - 100 g bars,16.25,,0
-51,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53,,0
-52,Filo Mix,24,5,16 - 2 kg boxes,7,,0
-53,Perth Pasties,24,6,48 pieces,32.7999992,,1
-54,Tourtière,25,6,16 pies,7.44999981,,0
-55,Pâté chinois,25,6,24 boxes x 2 pies,24,,0
-56,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38,,0
-57,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.5,,0
-58,Escargots de Bourgogne,27,8,24 pieces,13.25,,0
-59,Raclette Courdavault,28,4,5 kg pkg.,55,,0
-60,Camembert Pierrot,28,4,15 - 300 g rounds,34,,0
-61,Sirop d''érable,29,2,24 - 500 ml bottles,28.5,,0
-62,Tarte au sucre,29,3,48 pies,49.2999992,,0
-63,Vegie-spread,7,2,15 - 625 g jars,43.9000015,,0
-64,Wimmers gute Semmelknödel,12,5,20 bags x 4 pieces,33.25,,0
-65,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.0499992,,0
-66,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17,,0
-67,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14,,0
-68,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.5,,0
-69,Gudbrandsdalsost,15,4,10 kg pkg.,36,,0
-70,Outback Lager,7,1,24 - 355 ml bottles,15,,0
-71,Flotemysost,15,4,10 - 500 g pkgs.,21.5,,0
-72,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.7999992,,0
-73,Röd Kaviar,17,8,24 - 150 g jars,15,,0
-74,Longlife Tofu,4,7,5 kg pkg.,10,,0
-75,Rhönbräu Klosterbier,12,1,24 - 0.5 l bottles,7.75,,0
-76,Lakkalikööri,23,1,500 ml,18,,0
-77,Original Frankfurter grüne Soße,12,2,12 boxes,13,,0
+product_id,product_name,tiers_id,category_id,quantity_per_unit,unit_price,code_barre,discontinued,properties,nutriments
+1,Petit écolier chocolat noir,8,1,12 biscuits,1.55,5410041010800,0,,
+2,Petit écolier chocolat au lait,1,1,12 biscuits,1.59,7622210421968,0,,
+3,Petit écolier chocolat blanc,1,2,12 biscuits,1.65,3017760654098,0,,
+4,Pépito chocolat noir,2,2,20 biscuits,1.45,7622210717870,0,,
+5,Pépito chocolat au lait,2,2,20 biscuits,1.45,7622210717801,1,,
+6,Prince Goût Chocolat,3,2,15 biscuits,1.49,7622210449283,0,,
+7,Prince Goût Chocolat Multi Céréales au blé complet,3,7,15 biscuits,1.49,7622210449313,0,,
+8,DéliChoc chocolat au lait,3,2,12 biscuits,1.99,3116430216342,0,,
+9,Granola chocolat au lait,4,6,16 biscuits,1.45,7622210601988,1,,
+10,Le biscuit de Naty,4,8,12 biscuits,3.99,3229820112046,0,,
+11,Sablés au chocolat Bio,5,4,1 kg pkg.,3.15,3560071266097,0,,
+12,Granola chocolat noir,5,4,10 - 500 g pkgs.,38.00,3017760595193,0,,
+13,Biscuit nappés de chocolat et graines de Chia,6,8,2 kg box,6.00,3760151013287,0,,
+14,Biscuits Lait d'amande et noisettes,6,7,40 - 100 g pkgs.,23.25,3229820802312,0,,
+15,Biscuit fondant choco lait,6,2,24 - 250 ml bottles,13.00,3175681210714,0,,
+16,Sablés Pépites Choco,7,3,32 - 500 g boxes,17.45,3456300013115,0,,
+17,Biscuits Nappé Intenses Éclats de fèves de cacao,7,6,20 - 1 kg tins,39.00,3229820804439,1,,
+18,Petit beurre tablette chocolat lait,7,8,16 kg pkg.,62.50,3560070682683,0,,
+19,Choco Rico ! chocolat au lait,8,3,10 boxes x 12 pieces,9.20,3178530422597,0,,
+20,Sablés De Retz,8,3,30 gift boxes,81.00,3023470010017,0,,
+21,Biscuit nappé chocolat au lait,8,3,24 pkgs. x 4 pieces,10.00,3564707083744,0,,
+22,Biscuits nappés chocolat noir,9,5,24 - 500 g pkgs.,21.00,3564707083546,0,,
+23,Milka choco biscuits,9,5,12 - 250 g pkgs.,9.00,7622300270469,0,,
+24,Guaraná Fantástica,10,1,12 - 355 ml cans,4.50,3564700855034,1,,
+25,NuNuCa Nuß-Nougat-Creme,11,3,20 - 450 g glasses,14.00,3564700855041,0,,
+26,Gumbär Gummibärchen,11,3,100 - 250 g bags,31.23,3564706609136,0,,
+27,Schoggi Schokolade,11,3,100 - 100 g pieces,43.90,3564706609143,0,,
+28,Rössle Sauerkraut,12,7,25 - 825 g cans,45.60,3564706618824,1,,
+29,Thüringer Rostbratwurst,12,6,50 bags x 30 sausgs.,123.79,3564700855027,1,,
+30,Nord-Ost Matjeshering,13,8,10 - 200 g glasses,25.89,3564706609112,0,,
+31,Gorgonzola Telino,14,4,12 - 100 g pkgs,12.50,3564706609105,0,,
+32,Mascarpone Fabioli,14,4,24 - 200 g pkgs.,32.00,3564706618831,0,,
+33,Geitost,15,4,500 g,2.50,3564706618824,0,,
+34,Sasquatch Ale,16,1,24 - 12 oz bottles,14.00,3564700009604,0,,
+35,Steeleye Stout,16,1,24 - 12 oz bottles,18.00,3564700000748,0,,
+36,Inlagd Sill,17,8,24 - 250 g  jars,19.00,3564700000786,0,,
+37,Gravad lax,17,8,12 - 500 g pkgs.,26.00,3178530409840,0,,
+38,Côte de Blaye,18,1,12 - 75 cl bottles,263.50,7622300292508,0,,
+39,Chartreuse verte,18,1,750 cc per bottle,18.00,3456300014228,0,,
+40,Boston Crab Meat,19,8,24 - 4 oz tins,18.40,3760020502218,0,,
+41,Jack''s New England Clam Chowder,19,8,12 - 12 oz cans,9.65,,0,,
+42,Singaporean Hokkien Fried Mee,20,5,32 - 1 kg pkgs.,14.00,,1,,
+43,Ipoh Coffee,20,1,16 - 500 g tins,46.00,,0,,
+44,Gula Malacca,20,2,20 - 2 kg bags,19.45,,0,,
+45,Rogede sild,21,8,1k pkg.,9.50,,0,,
+46,Spegesild,21,8,4 - 450 g glasses,12.00,,0,,
+47,Zaanse koeken,22,3,10 - 4 oz boxes,9.50,,0,,
+48,Chocolade,22,3,10 pkgs.,12.75,,0,,
+49,Maxilaku,23,3,24 - 50 g pkgs.,20.00,,0,,
+50,Valkoinen suklaa,23,3,12 - 100 g bars,16.25,,0,,
+51,Manjimup Dried Apples,24,7,50 - 300 g pkgs.,53.00,,0,,
+52,Filo Mix,24,5,16 - 2 kg boxes,7.00,,0,,
+53,Perth Pasties,24,6,48 pieces,32.80,,1,,
+54,Tourtière,25,6,16 pies,7.45,,0,,
+55,Pâté chinois,25,6,24 boxes x 2 pies,24.00,,0,,
+56,Gnocchi di nonna Alice,26,5,24 - 250 g pkgs.,38.00,,0,,
+57,Ravioli Angelo,26,5,24 - 250 g pkgs.,19.50,,0,,
+58,Escargots de Bourgogne,27,8,24 pieces,13.25,,0,,
+59,Raclette Courdavault,28,4,5 kg pkg.,55.00,,0,,
+60,Camembert Pierrot,28,4,15 - 300 g rounds,34.00,,0,,
+61,Sirop d''érable,29,2,24 - 500 ml bottles,28.50,,0,,
+62,Tarte au sucre,29,3,48 pies,49.30,,0,,
+63,Vegie-spread,7,2,15 - 625 g jars,43.90,,0,,
+64,Wimmers gute Semmelknödel,12,5,20 bags x 4 pieces,33.25,,0,,
+65,Louisiana Fiery Hot Pepper Sauce,2,2,32 - 8 oz bottles,21.05,,0,,
+66,Louisiana Hot Spiced Okra,2,2,24 - 8 oz jars,17.00,,0,,
+67,Laughing Lumberjack Lager,16,1,24 - 12 oz bottles,14.00,,0,,
+68,Scottish Longbreads,8,3,10 boxes x 8 pieces,12.50,,0,,
+69,Gudbrandsdalsost,15,4,10 kg pkg.,36.00,,0,,
+70,Outback Lager,7,1,24 - 355 ml bottles,15.00,,0,,
+71,Flotemysost,15,4,10 - 500 g pkgs.,21.50,,0,,
+72,Mozzarella di Giovanni,14,4,24 - 200 g pkgs.,34.80,,0,,
+73,Röd Kaviar,17,8,24 - 150 g jars,15.00,,0,,
+74,Longlife Tofu,4,7,5 kg pkg.,10.00,,0,,
+75,Rhönbräu Klosterbier,12,1,24 - 0.5 l bottles,7.75,,0,,
+76,Lakkalikööri,23,1,500 ml,18.00,,0,,
+77,Original Frankfurter grüne Soße,12,2,12 boxes,13.00,,0,,

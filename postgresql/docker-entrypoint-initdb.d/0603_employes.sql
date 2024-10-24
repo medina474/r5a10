@@ -27,15 +27,13 @@ alter table zone_regions
   add foreign key (region)
   references geo.regions (region_code) match simple
   on update no action
-  on delete no action
-  not valid;
+  on delete no action;
 
 alter table zone_regions
   add foreign key (zone_id)
   references zones (zone_id) match simple
   on update no action
-  on delete no action
-  not valid;
+  on delete no action;
 
 alter table employes
   add foreign key (adresse_id)

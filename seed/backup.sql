@@ -17,7 +17,7 @@
 
 \copy (select f_id, titre, titre_original, annee, sortie,duree,franchise_id,vote_votants,vote_moyenne, pays from cinema.films order by f_id) to '../data/cinema/films.csv' (format csv, header, encoding 'utf8');
 \copy (select f_id, slogan from cinema.films where slogan <> '' order by f_id) to '../data/cinema/films_slogan.csv' (format csv, header, delimiter ',', encoding 'utf8');
-\copy (select f_id, langue_code, resume from cinema.resumes order by f_id) to '../data/cinema/resumes.csv' (format csv, header, encoding 'utf8');
+\copy (select f_id, langue_code, resume from cinema.resumes where resume <> '' order by f_id) to '../data/cinema/resumes.csv' (format csv, header, delimiter ',', encoding 'utf8');
 
 \copy (select s_id, societe, uei from cinema.societes order by s_id) to '../data/cinema/societes.csv' (format csv, header, encoding 'utf8');
 \copy (select f_id, s_id from cinema.productions order by f_id, s_id) to '../data/cinema/productions.csv' (format csv, header, encoding 'utf8');

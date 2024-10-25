@@ -1,6 +1,8 @@
 import sql from '../db.ts'
 import { Film } from './film.ts'
 
+const companies = [];
+
 /**
  * Sélectionner tous les films de la base de données
  */
@@ -117,9 +119,17 @@ for (const f of films) {
         }
       }
     } else {
+      const cp = companies.find( elt => elt.id == c.id );
+      if (cp == null) {
+        companies.push({ "id": c.id, "name": c.name, nb: 1 });
+      } else {
+        cp.nb++;
+      }
       console.log(`--- ${c.id} ${c.name}`)
     }
   }
 }
 
 await sql.end();
+
+console.log(companies.sort((a,b) => b.nb - a.nb).slice(0, 10));

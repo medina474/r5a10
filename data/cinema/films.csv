@@ -1,4 +1,4 @@
-f_id,titre,titre_original,annee,sortie,duree,franchise_id,vote_votants,vote_moyenne,pays
+film_id,titre,titre_original,annee,sortie,duree,franchise_id,vote_votants,vote_moyenne,pays
 5,Groom Service,Four Rooms,1995,1995-12-09,98,,56,3.27,{us}
 11,La Guerre des étoiles,Star Wars,1977,1977-05-25,121,10,82,3.69,{us}
 13,Forrest Gump,,1994,1994-06-23,142,,8,3.94,{us}

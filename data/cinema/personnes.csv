@@ -1,4 +1,4 @@
-p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
+personne_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 1,Lucas,George,1944-05-14,,,,0
 2,Hamill,Mark,1951-09-25,,,,60.903
 3,Ford,Harrison,1942-07-13,,us,,67.308
@@ -1865,7 +1865,6 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 51516,Hilliard,Steven,1937-11-01,2018-06-27,,,0
 51572,Norris,Aaron,1951-11-23,,,,0
 51576,Norris,Chuck,1940-03-10,,us,,39.845
-588158,Gansbacher,Margit,1940-03-10,,it,Margie Newton,39.845
 51586,Norris,Mike,1962-10-04,,,,0
 51588,Kiner,Kevin,1958-09-03,,,,0
 51627,Rickman,Thomas,,,,,0
@@ -2749,6 +2748,7 @@ p_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 583510,Marsani,Claudia,1959-02-05,,,,6.664
 584032,Bral,Jacques,,,,,0
 584535,Simon,Neil,1927-07-04,2018-08-26,,,0
+588158,Gansbacher,Margit,1940-03-10,,it,Margie Newton,39.845
 589521,Tornade,Pierre,1930-01-21,2012-03-07,,,5.831
 589662,Scott,Allan,1939-09-16,,,,0
 589675,Ciriaci,Pierluigi,,,it,,0.6

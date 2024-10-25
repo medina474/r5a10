@@ -85,21 +85,6 @@ add constraint resumes_langue_code_fkey
   foreign key (langue_code) references geo.langues(code3);
 
 
-alter table cinema.links_societes
-  add foreign key (id)
-  references cinema.societes(societe_id)
-  on delete cascade;
-
-alter table cinema.links_films
-  add foreign key (id)
-  references cinema.films(film_id)
-  on delete cascade;
-
-alter table cinema.links_personnes
-  add foreign key (id)
-  references cinema.personnes(personne_id)
-  on delete cascade;
-
 create index film_motscles_films
   on cinema.films_motscles
   using btree (film_id);

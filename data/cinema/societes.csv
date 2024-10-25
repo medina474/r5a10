@@ -1,34 +1,26 @@
 societe_id,societe,uei
-1,MGM (Metro-Goldwyn-Mayer),
-2,Lucasfilm,
-3,Imagine Entertainment,
+21,MGM (Metro-Goldwyn-Mayer),
+1,Lucasfilm,
+23,Imagine Entertainment,
 4,Paramount Pictures,
 5,Columbia Pictures,
-6,TriStar Pictures,
-7,Warner Bros. Pictures,
-8,Universal Pictures,
-9,United Artists,
-10,Walt Disney Pictures,
-11,DreamWorks Pictures,
-12,Miramax Films,
-13,Lions Gate Films,
-14,Touchstone Pictures,
-15,20th Century Fox Film Corporation,
-16,Golan-Globus Productions,
-17,Gaumont International,
-18,Walt Disney Productions,
-19,Orion Pictures,
-20,ITC Entertainment,
-21,Carolco Pictures,
-22,Les Films Christian Fechner,
-23,Amblin Entertainment,
-24,The Cannon Group,
-25,TF1 Films Production,FR87320734502
-26,Casterman,BE0466745984
-27,Dargaud,FR44542092788
-28,Dupuis,BE0429160563
-29,Glénat,FR13302069414
-30,Le Lombard,BE0403501390
-31,Delcourt,FR63334898822
-32,Soleil Productions,FR63334898822
-33,Vents d'Ouest,FR13302069414
+559,TriStar Pictures,
+174,Warner Bros. Pictures,
+33,Universal Pictures,
+60,United Artists,
+2,Walt Disney Pictures,
+7,DreamWorks Pictures,
+14,Miramax Films,
+35,Lions Gate Films,
+9195,Touchstone Pictures,
+25,20th Century Fox Film Corporation,
+13549,Golan-Globus Productions,
+7961,Gaumont International,
+3166,Walt Disney Productions,
+41,Orion Pictures,
+1155,ITC Entertainment,
+275,Carolco Pictures,
+461,Les Films Christian Fechner,
+56,Amblin Entertainment,
+1444,The Cannon Group,
+356,TF1 Films Production,FR87320734502

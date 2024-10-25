@@ -24,9 +24,6 @@ alter table cinema.links
   add constraint links_no_insert_in_parent
   check (false) no inherit;
 
-create table cinema.links_societes (
-) inherits (cinema.links);
-
 create table cinema.links_films (
 ) inherits (cinema.links);
 

@@ -63,9 +63,6 @@ alter table cinema.sites
 alter table cinema.links
   add primary key (id, site_id);
 
-alter table cinema.links_societes
-  add primary key (id, site_id);
-
 alter table cinema.links_films
   add primary key (id, site_id);
 

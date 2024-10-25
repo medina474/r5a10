@@ -25,7 +25,6 @@
 
 \copy (select * from cinema.votes order by film_id)  to '../data/cinema/votes.csv' (format csv, header, encoding 'utf8');
 
-\copy (select id, site_id, identifiant from cinema.links_societes order by id) to '../data/cinema/links_societes.csv' (format csv, header, encoding 'utf8');
 \copy (select id, site_id, identifiant from cinema.links_personnes order by id) to '../data/cinema/links_personnes.csv' (format csv, header, encoding 'utf8');
 \copy (select id, site_id, identifiant from cinema.links_films order by id) to '../data/cinema/links_films.csv' (format csv, header, encoding 'utf8');
 

@@ -94,7 +94,7 @@ for (const f of films) {
 
   for (const c of film.production_companies) {
 
-    const company = await sql`select societe_id  from cinema.societes s
+    const company = await sql`select societe_id from cinema.societes s
         where societe_id = ${c.id}`;
 
     if (company.count == 1) {

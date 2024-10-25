@@ -98,7 +98,7 @@ for (const f of films) {
         where societe_id = ${c.id}`;
 
     if (company.count == 1) {
-      const company_id = company[0].id
+      const company_id = company[0].societe_id
 
       const production = await sql`select societe_id from cinema.productions
           where film_id = ${f.film_id} and societe_id = ${c.id}`;

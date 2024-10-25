@@ -2,15 +2,6 @@
 
 create schema cinema;
 
-create table cinema.etablissements (
-  etablissement_id bigint not null,
-  nom text,
-  voie text,
-  codepostal text,
-  ville text,
-  coordonnees postgis.geometry(Point, 4326) default null::postgis.geometry
-);
-
 create table cinema.personnes (
   personne_id int not null,
   nom text,
@@ -21,7 +12,6 @@ create table cinema.personnes (
   artiste text,
   popularite decimal default 0
 );
-
 
 create table cinema.films (
   film_id int not null,
@@ -57,9 +47,6 @@ create table cinema.equipes (
 comment on table cinema.equipes is
   e'@foreignkey (personne) references cinema.acteur(id)|@fieldname rolebyacteur';
 
-
-create index on cinema.films 
-  using btree (franchise_id);
 
 
 create table cinema.franchises (
@@ -119,49 +106,3 @@ create table cinema.resumes (
 alter table cinema.resumes 
   add column ts tsvector
   generated always as (to_tsvector('french', resume)) stored;
-
-
-alter table cinema.films
-  add column vote_votants int,
-  add column vote_moyenne decimal(4,2);
-
-create table cinema.seances (
-  seance_id int not null,
-  film_id int not null,
-  salle_id int not null,
-  seance date not null
-);
-
-create table cinema.salles (
-  salle_id int not null,
-  etablissement_id bigint not null,
-  salle text not null,
-  sieges int not null
-);
-
-
-
-create table cinema.sites (
-  site_id smallint not null,
-  site text not null,
-  url text not null
-);
-
-create table cinema.links (
-  id int not null,
-  site_id smallint not null,
-  identifiant text not null
-);
-
-alter table cinema.links
-  add constraint links_no_insert_in_parent
-  check (false) no inherit;
-
-create table cinema.links_societes (
-) inherits (cinema.links);
-
-create table cinema.links_films (
-) inherits (cinema.links);
-
-create table cinema.links_personnes (
-) inherits (cinema.links);

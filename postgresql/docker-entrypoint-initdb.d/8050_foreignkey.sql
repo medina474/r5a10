@@ -10,25 +10,7 @@ create index on cinema.productions
 create index resume_film_fki
   on cinema.resumes(film_id);
 
--- Links Sociétés
 
-create index links_societes_id
-  on cinema.links_societes
-  using btree (id);
-
--- Links Films
-
-create index links_films_id
-  on cinema.links_films
-  using btree (id);
-
--- Links Personnes
-
-create index links_personnes_id
-  on cinema.links_personnes(id);
-
-create index links_personnes_site
-  on cinema.links_personnes(site_id);
 
 alter table cinema.certifications
   add foreign key (pays_code)
@@ -40,30 +22,7 @@ alter table cinema.films
     on update no action
     on delete no action;
 
-alter table cinema.votes
-  add constraint vote_film_fk foreign key (film_id)
-    references cinema.films (film_id) match simple
-    on update no action
-    on delete no action;
 
-
-alter table cinema.seances
-  add constraint seance_salle_fk foreign key (salle_id)
-    references cinema.salles (salle_id) match simple
-    on update no action
-    on delete no action;
-
-alter table cinema.seances
-  add constraint seance_film_fk foreign key (film_id)
-    references cinema.films (film_id) match simple
-    on update no action
-    on delete no action;
-
-alter table cinema.salles
-  add constraint salle_etablissement_fk foreign key (etablissement_id)
-    references cinema.etablissements (etablissement_id) match simple
-    on update no action
-    on delete no action;
 
 -- equipes -> films
 create index on cinema.equipes(film_id);
@@ -159,6 +118,3 @@ alter table cinema.films_motscles
   add foreign key (motcle_id)
   references cinema.motscles(motcle_id)
   on delete cascade;
-
-create index vote_film_fki
-  on cinema.votes(film_id);

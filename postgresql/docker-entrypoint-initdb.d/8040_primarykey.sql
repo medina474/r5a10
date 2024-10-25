@@ -1,8 +1,5 @@
 \c ventdest
 
-alter table cinema.etablissements
-  add primary key (etablissement_id);
-
 alter table cinema.personnes
   add primary key (personne_id);
 
@@ -34,12 +31,6 @@ alter table cinema.franchises
 
 alter table cinema.franchises
   add primary key (franchise_id);
-
-alter table cinema.seances
-  add primary key (seance_id);
-
-alter table cinema.salles
-  add primary key (salle_id);
 
 alter table cinema.motscles
   add primary key (motcle_id);

@@ -1,5 +1,8 @@
 \c ventdest
 
+create index on cinema.films 
+  using btree (franchise_id);
+
 create index cinema_coordonnees_idx
   on cinema.etablissements
   using GIST (coordonnees);

@@ -1,4 +1,4 @@
-\c ventdest 
+\c ventdest
 
 create view cinema.view_films_sans_equipe as
  select f.film_id, f.titre,
@@ -52,3 +52,13 @@ create or replace view view_personnes_tmdb as  select p.nom,
    from (cinema.personnes p
      left join cinema.links l on (((p.personne_id = l.id) and (l.site_id = 1))))
   where (l.id is null);
+  
+create view cinema.view_personnes_sans_role as
+ select p.personne_id,
+    p.prenom,
+    p.nom,
+    count(e.personne_id) as nb
+  from cinema.personnes p
+    left join cinema.equipes e on e.personne_id = p.personne_id
+  group by p.personne_id, p.prenom, p.nom
+  having count(e.personne_id) = 0;

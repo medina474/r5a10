@@ -1,5 +1,7 @@
 \c ventdest
 
+create schema cinema;
+
 create table cinema.etablissements (
   etablissement_id bigint not null,
   nom text,
@@ -163,10 +165,3 @@ create table cinema.links_films (
 
 create table cinema.links_personnes (
 ) inherits (cinema.links);
-
-create table cinema.votes (
-  user_id int not null,
-  film_id int not null,
-  note decimal not null,
-  timestamp timestamp with time zone not null
-);

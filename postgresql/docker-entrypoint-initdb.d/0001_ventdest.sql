@@ -28,7 +28,6 @@ create schema biblio;
 create schema aviation;
 create schema fake;
 create schema musique;
-create schema cinema;
 
 -- PostGIS
 create schema postgis;

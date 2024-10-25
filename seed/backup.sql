@@ -21,9 +21,9 @@
 
 \copy (select film_id, motcle_id from cinema.films_motscles order by film_id, motcle_id) to '../data/cinema/films_motscles.csv' (format csv, header, encoding 'utf8');
 
-\copy cinema.motscles to '../data/cinema/motscles.csv' (format csv, header, encoding 'utf8');
+\copy (select * from cinema.motscles order by motcle_id) to '../data/cinema/motscles.csv' (format csv, header, encoding 'utf8');
 
-\copy cinema.votes to '../data/cinema/votes.csv' (format csv, header, encoding 'utf8');
+\copy (select * from cinema.votes order by film_id)  to '../data/cinema/votes.csv' (format csv, header, encoding 'utf8');
 
 \copy (select id, site_id, identifiant from cinema.links_societes order by id) to '../data/cinema/links_societes.csv' (format csv, header, encoding 'utf8');
 \copy (select id, site_id, identifiant from cinema.links_personnes order by id) to '../data/cinema/links_personnes.csv' (format csv, header, encoding 'utf8');

@@ -21,6 +21,8 @@ wget $host/cinema/societes.csv
 
 wget $host/cinema/cnc-données-cartographie-2021.csv
 
+wget $host/cinema/votes.csv
+
 wget $host/cinema/links_films.csv
 wget $host/cinema/links_personnes.csv
 wget $host/cinema/links_societes.csv

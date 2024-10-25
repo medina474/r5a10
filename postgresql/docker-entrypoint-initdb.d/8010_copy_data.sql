@@ -10,7 +10,7 @@ select setval(pg_get_serial_sequence('cinema.genres', 'genre_id'), (select max(g
 \copy cinema.franchises from '/docker-entrypoint-data.d/cinema/franchises.csv' (format csv, header, encoding 'utf8');
 select setval(pg_get_serial_sequence('cinema.franchises', 'franchise_id'), (select max(franchise_id) from cinema.franchises));
 
-\copy cinema.films(film_id,titre,titre_original,annee,sortie,duree,franchise_id,vote_votants,vote_moyenne, pays) from '/docker-entrypoint-data.d/cinema/films.csv' (format csv, header, encoding 'utf8');
+\copy cinema.films(film_id,titre,titre_original,annee,sortie,duree,franchise_id, pays) from '/docker-entrypoint-data.d/cinema/films.csv' (format csv, header, encoding 'utf8');
 
 create temporary table slogan_tmp (
   film_id int,
@@ -33,6 +33,8 @@ drop table slogan_tmp;
 
 \copy cinema.motscles from '/docker-entrypoint-data.d/cinema/motscles.csv' (format csv, header, encoding 'utf8');
 \copy cinema.films_motscles from '/docker-entrypoint-data.d/cinema/films_motscles.csv' (format csv, header, encoding 'utf8');
+
+\copy cinema.votes from '/docker-entrypoint-data.d/cinema/votes.csv' (format csv, header, encoding 'utf8');
 
 \copy cinema.links_personnes from '/docker-entrypoint-data.d/cinema/links_personnes.csv' (format csv, header, encoding 'utf8');
 \copy cinema.links_societes from '/docker-entrypoint-data.d/cinema/links_societes.csv' (format csv, header, encoding 'utf8');

@@ -11,10 +11,11 @@ alter table cinema.genres
   add primary key (genre_id);
 
 create unique index film_genres_pkey
-  on cinema.films_motscles
+  on cinema.films_genres
   using btree (film_id, genre_id);
 
 alter table cinema.films_genres
+  add primary key
   using index film_genres_pkey;
 
 -- mots cles

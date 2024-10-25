@@ -13,8 +13,8 @@ $function$;
 create function cinema.reco()
   returns table (id cinema.films.film_id%TYPE
   ,titre cinema.films.titre%type
-  ,vote_votants cinema.films.vote_votants%type
-  ,vote_moyenne cinema.films.vote_moyenne%type
+  ,votants cinema.votes.votants%type
+  ,moyenne cinema.votes.moyenne%type
   ,score float)
   language 'plpgsql'
 as $body$
@@ -23,15 +23,15 @@ declare
   m int;
 begin
   select avg(f.vote_moyenne) into C
-    from cinema.films f;
+    from cinema.votes f;
   select percentile_disc(0.9) into m
-    within group (order by cinema.films.vote_votants)
+    within group (order by cinema.votes.votants)
     from cinema.films;
-  return query select f.film_id, f.titre, f.vote_votants
+  return query select f.film_id, f.titre, f.votants
   	,f.vote_moyenne
-  	,(f.vote_votants::numeric /(f.vote_votants::numeric + m) * f.vote_moyenne) + (m /(f.vote_votants::numeric + m) * C) as score
-    from cinema.films f
-    where f.vote_votants >= m
+  	,(f.votants::numeric /(f.votants::numeric + m) * f.vote_moyenne) + (m /(f.votants::numeric + m) * C) as score
+    from cinema.votes f
+    where f.votants >= m
     order by score desc
     limit 10;
 end
@@ -39,7 +39,7 @@ $body$;
 
 create function cinema.films_par_acteur (id varchar)
 RETURNS TABLE(film_id uuid, titre text, titre_original text,
-annee int, sortie date, duree int, vote_votants int, vote_moyenne numeric(4,2), franchise text, alias text[], genres text[], motscles text[], resume text) AS
+annee int, sortie date, duree int, votants int, vote_moyenne numeric(4,2), franchise text, alias text[], genres text[], motscles text[], resume text) AS
 $$
 BEGIN
   return query select f.film_id, f.titre, f.titre_original,

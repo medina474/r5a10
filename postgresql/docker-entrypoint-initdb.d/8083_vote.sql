@@ -9,7 +9,7 @@ declare
   votants integer;
 begin
   select count(*), avg(note) into votants, moyenne from cinema.votes where film_id = new.film_id;
-  update films set vote_votants=coalesce(votants,0), vote_moyenne=coalesce(moyenne,0) where film_id = new.film_id;
+  update cinema.votes set votants=coalesce(votants,0), moyenne=coalesce(moyenne,0) where film_id = new.film_id;
   return new;
 end
 $body$;

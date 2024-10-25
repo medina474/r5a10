@@ -1,5 +1,5 @@
-import sql from '../db.js'
-import { Film } from './film.js'
+import sql from '../db.ts'
+import { Film } from './film.ts'
 
 /**
  * Sélectionner tous les films de la base de données
@@ -51,13 +51,13 @@ for (const f of films) {
   */
 
   // Mettre à jour l'année de sortie et la durée
-  await sql`update films set
+  await sql`update cinema.films set
     annee = date_part('year', sortie),
     duree = ${film.runtime}
     where film_id = ${f.film_id}`;
 
   // Mettre à jour les pays de production
-  await sql`update films set
+  await sql`update cinema.films set
     pays=${film.production_countries.map(elt => elt.iso_3166_1.toLowerCase() )}
     where film_id = ${f.film_id}`;
 
@@ -68,19 +68,19 @@ for (const f of films) {
 
   // Mettre à jour les mots clés
   if (film.keywords.keywords.length > 0) {
-    await sql`insert into motscles  ${sql(film.keywords.keywords.map(elt => ({ 'motcle_id': elt.id, 'motcle': elt.name })))}
+    await sql`insert into cinema.motscles  ${sql(film.keywords.keywords.map(elt => ({ 'motcle_id': elt.id, 'motcle': elt.name })))}
       on conflict (motcle_id) do nothing`;
 
-    await sql`insert into films_motscles  ${sql(film.keywords.keywords.map(elt => ({ 'film_id': f.film_id, 'motcle_id': elt.id })))}
+    await sql`insert into cinema.films_motscles  ${sql(film.keywords.keywords.map(elt => ({ 'film_id': f.film_id, 'motcle_id': elt.id })))}
       on conflict (film_id, motcle_id) do nothing`;
   }
 
   // mettre à jour les collections (franchises)
   if (film.belongs_to_collection != null) {
-    await sql`insert into franchises values (${film.belongs_to_collection.id}, ${film.belongs_to_collection.name.replace(' - Saga', '')})
+    await sql`insert into cinema.franchises values (${film.belongs_to_collection.id}, ${film.belongs_to_collection.name.replace(' - Saga', '')})
       on conflict (franchise_id) do nothing`;
 
-    await sql`update films set franchise_id = ${film.belongs_to_collection.id}
+    await sql`update cinema.films set franchise_id = ${film.belongs_to_collection.id}
       where film_id = ${f.film_id}`;
   }
 
@@ -115,6 +115,7 @@ for (const f of films) {
     } else {
       console.log(`--- ${c.id} ${c.name}`)
     }
+  }
 }
 
 await sql.end();

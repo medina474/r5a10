@@ -213,8 +213,8 @@ film_id,titre,titre_original,annee,sortie,duree,franchise_id,pays
 861,Voyage au centre de la mémoire,Total Recall,1990,1990-10-17,113,,"{us,mx}"
 865,Running Man,The Running Man,1987,1987-11-13,101,,{us}
 867,Sliver,,1993,1993-05-21,107,,"{us,be}"
-869,La Planète des singes,Planet of the Apes,,2001-07-25,120,,
-871,La Planète des singes,Planet of the Apes,,1968-02-07,112,,
+869,La Planète des singes,Planet of the Apes,2001,2001-07-25,120,,{us}
+871,La Planète des singes,Planet of the Apes,1968,1968-02-07,112,1709,{us}
 873,La Couleur pourpre,The Color Purple,1985,1985-12-18,154,,{us}
 874,Un Homme pour l'éternité,A Man for All Seasons,1966,1966-12-13,120,,"{gb,us}"
 879,Hook ou la Revanche du capitaine Crochet,Hook,1991,1991-04-10,136,,{us}
@@ -1623,7 +1623,7 @@ film_id,titre,titre_original,annee,sortie,duree,franchise_id,pays
 61405,Quasimodo d'el Paris,Quasimodo d'el Paris,1999,1999-03-24,110,,{fr}
 61685,Marie-poupée,,1976,1976-08-25,120,,{fr}
 61755,Les Guerriers du Bronx,1990: I guerrieri del Bronx,1982,1982-08-22,92,324371,{it}
-61791,La Planète des singes : Les Origines,Rise of the Planet of the Apes,,2011-08-03,120,,
+61791,La Planète des singes : Les Origines,Rise of the Planet of the Apes,2011,2011-08-03,120,173710,"{gb,us}"
 61991,L'Effrontée,L'Effrontée,1985,1985-12-11,96,,{fr}
 62087,La Maison assassinée,La Maison assassinée,1988,1988-02-01,110,,{fr}
 62134,Paparazzi,Paparazzi,1998,1998-04-29,109,,{fr}
@@ -1742,7 +1742,7 @@ film_id,titre,titre_original,annee,sortie,duree,franchise_id,pays
 111480,Furia à Bahia pour OSS 117,Furia à Bahia pour OSS 117,1965,1965-07-02,103,183680,"{fr,it}"
 115082,Banco à Bangkok pour OSS 117,Banco à Bangkok pour OSS 117,1964,1964-06-12,118,183680,"{fr,it}"
 116215,Royce,,1994,1994-08-31,98,,"{gb,us}"
-119450,La Planète des singes : L'Affrontement,Dawn of the Planet of the Apes,,2014-07-08,131,,
+119450,La Planète des singes : L'Affrontement,Dawn of the Planet of the Apes,2014,2014-07-08,131,173710,"{gb,us}"
 120467,The Grand Budapest Hotel,The Grand Budapest Hotel,2014,2014-02-26,100,,"{de,us}"
 120910,Les Keufs,Les keufs,1987,1987-12-16,93,,{fr}
 121208,Galia,Galia,1966,1966-01-26,105,,"{fr,it}"
@@ -1809,7 +1809,7 @@ film_id,titre,titre_original,annee,sortie,duree,franchise_id,pays
 263341,Tigre et Dragon 2,"Crouching Tiger, Hidden Dragon: Sword of Destiny",2016,2016-02-18,100,290973,{cn}
 270447,Les Fauves,Les Fauves,1984,1984-04-18,90,,{fr}
 271559,Devarim,Zihron Devarim,1995,1995-01-01,113,,"{fr,il,it}"
-281338,La Planète des singes : Suprématie,War for the Planet of the Apes,,2017-07-11,142,,
+281338,La Planète des singes : Suprématie,War for the Planet of the Apes,2017,2017-07-11,142,173710,{us}
 283366,Miss Peregrine et les enfants particuliers,Miss Peregrine's Home for Peculiar Children,2016,2016-09-27,127,,"{be,gb,us}"
 299054,Expendables 4,Expend4bles,2023,2023-09-15,103,126125,"{bg,fr,us}"
 299687,La 5ème Vague,The 5th Wave,2016,2016-01-14,113,,{us}
@@ -1848,7 +1848,7 @@ film_id,titre,titre_original,annee,sortie,duree,franchise_id,pays
 597697,Believe You Can... And You Can!,,1983,1983-04-21,30,,{us}
 604563,OSS 117 : Alerte rouge en Afrique noire,OSS 117 : Alerte rouge en Afrique noire,2021,2021-08-04,116,91588,{fr}
 634230,Bleacher Bums,,1979,1979-05-15,85,,{us}
-653346,La Planète des singes : Le Nouveau Royaume,Kingdom of the Planet of the Apes,,2024-05-08,145,,
+653346,La Planète des singes : Le Nouveau Royaume,Kingdom of the Planet of the Apes,2024,2024-05-08,145,173710,{us}
 657343,The Evil Inside Me,,1993,1993-01-01,90,,{us}
 675327,Shadow in the Cloud,Shadow in the Cloud,2020,2020-12-31,83,,"{nz,us}"
 769714,Appearances,,1990,1990-06-17,95,,{us}

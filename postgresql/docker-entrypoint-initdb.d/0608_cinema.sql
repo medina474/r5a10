@@ -25,8 +25,10 @@ create index links_films_id
 -- Links Personnes
 
 create index links_personnes_id
-  on cinema.links_personnes
-  using btree (id);
+  on cinema.links_personnes(id);
+
+create index links_personnes_site
+  on cinema.links_personnes(site_id);
 
 alter table cinema.certifications
   add foreign key (pays_code)

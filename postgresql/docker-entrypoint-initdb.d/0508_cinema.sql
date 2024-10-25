@@ -54,16 +54,13 @@ alter table cinema.links
   add primary key (id, site_id);
 
 alter table cinema.links_societes
-  add constraint links_societes_pkey 
-  primary key (id, site_id);
+  add primary key (id, site_id);
 
 alter table cinema.links_films
-  add constraint links_films_pkey 
-  primary key (id, site_id);
+  add primary key (id, site_id);
 
 alter table cinema.links_personnes
-  add constraint links_personnes_pkey 
-  primary key (id, site_id);
+  add primary key (id, site_id);
 
 create unique index film_motscles_pkey 
   on cinema.films_motscles

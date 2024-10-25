@@ -33,7 +33,6 @@ add constraint equipes_film_id_fkey
   references cinema.films
   on delete cascade;
 
-
 -- equipes -> personnes
 create index on cinema.equipes(personne_id);
 
@@ -42,6 +41,7 @@ add constraint equipes_personne_id_fkey
   foreign key (personne_id)
   references cinema.personnes
   on delete cascade;
+
 
 -- films_genres -> films
 create index on cinema.films_genres(film_id);
@@ -57,7 +57,7 @@ create index on cinema.films_genres(genre_id);
 
 alter table cinema.films_genres
 add constraint films_genres_genre_id_fkey
-  foreign key (genre_id) 
+  foreign key (genre_id)
   references cinema.genres(genre_id)
   on delete cascade;
 

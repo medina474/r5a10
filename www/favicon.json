@@ -23,4 +23,24 @@
     "input" : ["favicon.svg", "0:184:72:72" ],
     "output": [ ["72.png"] ]
   }
+  ,
+  {
+    "input" : ["favicon.svg", "0:256:80:80" ],
+    "output": [ ["80.png"] ]
+  }
+  ,
+  {
+    "input" : ["favicon.svg", "0:336:96:96" ],
+    "output": [ ["96.png"] ]
+  }
+  ,
+  {
+    "input" : ["favicon.svg", "0:432:128:128" ],
+    "output": [ ["128.png"] ]
+  }
+  ,
+  {
+    "input" : ["favicon.svg", "0:560:256:256" ],
+    "output": [ ["256.png"] ]
+  }
 ]

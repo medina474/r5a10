@@ -15,7 +15,7 @@ alter table cinema.links_films
 
 alter table cinema.links_films
 add foreign key (site_id) 
-  references cinema.site
+  references cinema.sites
   on delete cascade;
 
 -- Links Personnes
@@ -33,5 +33,5 @@ alter table cinema.links_personnes
 
 alter table cinema.links_personnes
 add foreign key (site_id) 
-  references cinema.site
+  references cinema.sites
   on delete cascade;

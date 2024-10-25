@@ -93,19 +93,23 @@ for (const f of films) {
   }
 
   for (const c of film.production_companies) {
-
+ 
+    // Est ce que la société existe dans la base ?
     const company = await sql`select societe_id from cinema.societes s
         where societe_id = ${c.id}`;
 
+    // Oui une occurence a été trouvée
     if (company.count == 1) {
       const company_id = company[0].societe_id
 
+      // Est que lien de production a été fait ?
       const production = await sql`select societe_id from cinema.productions
           where film_id = ${f.film_id} and societe_id = ${c.id}`;
 
+      // Non le créé
       if (production.count == 0) {
         try {
-          console.log(`  + ${f.titre} / ${c.name}`);
+          console.log(`  + ${c.name}`);
           await sql`insert into cinema.productions (film_id, societe_id)
                 values (${f.film_id}, ${company_id})`
         } catch (error) {

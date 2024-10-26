@@ -66,11 +66,6 @@ wget $host/regions/se.csv
 wget $host/regions/ua.csv
 wget $host/regions/us.csv
 
-# Aviation
-mkdir -p /docker-entrypoint-data.d/aviation
-cd /docker-entrypoint-data.d/aviation
-
-wget $host/aviation/aeroports.csv
 
 # Biblio
 mkdir -p /docker-entrypoint-data.d/biblio

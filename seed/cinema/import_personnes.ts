@@ -13,7 +13,7 @@ for (const tmdb_id of list_ids) {
     })
   });
 
-  const file = `./data/tmdb/person/${tmdb_id}.json`
+  const file = `./json/tmdb/person/${tmdb_id}.json`
   await Deno.writeTextFile(file, await data.clone().text());
 
   const person: Person = await data.json();
@@ -23,14 +23,13 @@ for (const tmdb_id of list_ids) {
 
   try {
 
-  const personnes_ids = await sql`insert into cinema.personnes
-    (nom, prenom, naissance, deces, popularite)
-    values (${name_parts.slice(1).join(' ')}, ${name_parts[0]}, ${person.birthday}, ${person.deathday}, ${person.popularity})
+  await sql`insert into cinema.personnes
+    (personne_id, nom, prenom, naissance, deces, popularite)
+    values (${tmdb_id}, ${name_parts.slice(1).join(' ')}, ${name_parts[0]}, ${person.birthday}, ${person.deathday}, ${person.popularity})
     returning personnes.personne_id`;
 
-  const personne_id = personnes_ids[0].personne_id
 
-    await getPersonInfo(personne_id, person)
+    await getPersonInfo(tmdb_id, person)
   }
   catch(e) {console.log(e)}
 }

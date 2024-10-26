@@ -2409,18 +2409,19 @@ film_id,personne_id,role,alias,ordre
 3036,11181,réalisateur,,99
 3036,9152,musique,,99
 3036,29855,scénariste,,99
-3049,8875,acteur,Doctor,0
 3049,206,acteur,Ace Ventura,0
+3049,8875,acteur,Doctor,0
 3049,586,acteur,Lt. Lois Einhorn,2
 3049,12939,musique,,99
 3049,4499,réalisateur,,99
 3053,3556,acteur,Alfred,1
 3053,29490,acteur,Sarah Shagal,4
-3053,3556,réalisateur,,99
 3053,2356,scénariste,,99
+3053,3556,réalisateur,,99
 3053,12013,musique,,99
 3054,17844,acteur,Linka Karensky,1
 3054,29490,acteur,Freya Carlson,2
+3054,29909,acteur,Count Massimo Contini,4
 3054,31065,musique,,99
 3054,31062,roman,,99
 3054,29907,réalisateur,,99
@@ -5515,9 +5516,10 @@ film_id,personne_id,role,alias,ordre
 11580,33464,réalisateur,,99
 11583,738,acteur,Edward Pierce,0
 11583,55636,acteur,Robert Agar,1
-11583,4782,réalisateur,,99
+11583,57399,acteur,Miriam,2
 11583,4782,roman,,99
 11583,1760,musique,,99
+11583,4782,réalisateur,,99
 11584,67773,acteur,"C.D. ""Charlie"" Bales",0
 11584,589,acteur,Roxanne Kowalski,1
 11584,22675,acteur,Jerry,9
@@ -5652,8 +5654,8 @@ film_id,personne_id,role,alias,ordre
 11696,39141,musique,,99
 11709,6553,acteur,Camille Claudel,0
 11709,16927,acteur,Auguste Rodin,1
-11709,5488,musique,,99
 11709,34603,réalisateur,,99
+11709,5488,musique,,99
 11709,70310,roman,,99
 11718,8873,acteur,Helen Downing,2
 11718,12852,acteur,P.J. Downing,4
@@ -5669,6 +5671,7 @@ film_id,personne_id,role,alias,ordre
 11780,5049,acteur,John Graham,2
 11780,3129,acteur,Archibald Cunningham,3
 11780,7036,acteur,Alan MacDonald,4
+11780,53815,acteur,Argyll,7
 11780,30365,réalisateur,,99
 11797,14541,acteur,Jerry Dandrige,0
 11797,2722,musique,,99
@@ -6741,8 +6744,8 @@ film_id,personne_id,role,alias,ordre
 16820,29471,réalisateur,,99
 16820,15557,scénariste,,99
 16820,9217,musique,,99
-16858,12900,acteur,Assistant Insurance Man,0
 16858,6355,acteur,Joe Gideon,0
+16858,12900,acteur,Assistant Insurance Man,0
 16858,8875,acteur,Larry Goldie,9
 16858,66777,réalisateur,,99
 16858,47373,scénariste,,99
@@ -6757,12 +6760,13 @@ film_id,personne_id,role,alias,ordre
 17006,55271,acteur,Kung Fu Joe,3
 17006,4774,acteur,Slammer,5
 17006,62019,acteur,Lt. Baker,9
-17006,35689,scénariste,,99
 17006,35689,réalisateur,,99
+17006,35689,scénariste,,99
 17006,50715,musique,,99
 17102,113,acteur,Conte Dracula,0
-17102,30137,musique,,99
+17102,53815,acteur,Father Sandor,2
 17102,29662,réalisateur,,99
+17102,30137,musique,,99
 17169,49944,acteur,Loretta Quince,0
 17169,190,acteur,Philo Beddoe,0
 17169,12852,acteur,Fat Zack,7
@@ -8272,20 +8276,31 @@ film_id,personne_id,role,alias,ordre
 38985,69600,musique,,99
 38985,15175,réalisateur,,99
 38985,2560,roman,,99
+39043,83739,acteur,Countess Elisabeth,0
+39043,29909,acteur,Captain Dobi,1
+39043,30672,acteur,Imre Toth,2
+39043,57399,acteur,Ilona,4
 39074,17882,acteur,Sylvia,2
 39074,12900,acteur,Henderson's Attorney,5
-39074,1427791,musique,,99
 39074,933237,roman,,99
 39074,323,réalisateur,,99
+39074,1427791,musique,,99
 39074,1455,musique,,99
 39176,8399,acteur,Porter,0
 39176,10017,acteur,Matthew Corbeck,0
+39176,14134,scénariste,,99
 39176,1544,roman,,99
 39176,10723,réalisateur,,99
-39176,14134,scénariste,,99
 39176,58211,scénariste,,99
 39176,589662,scénariste,,99
 39176,32292,musique,,99
+39222,10465,acteur,Gerald Harcourt,0
+39222,102676,acteur,Marianne Harcourt,1
+39222,101875,acteur,Professor Zimmer,4
+39222,1137201,acteur,Sabena Ravna,5
+39263,95099,acteur,Margaret Fuchs / Queen Tera,0
+39263,53815,acteur,Professor Julian Fuchs,1
+39263,39066,acteur,Corbeck,2
 39382,4783,acteur,Brian de Bois-Guilbert,2
 39382,122793,réalisateur,,99
 39382,94781,scénariste,,99
@@ -8774,9 +8789,10 @@ film_id,personne_id,role,alias,ordre
 51980,87667,roman,,99
 51980,20718,réalisateur,,99
 51980,3139702,musique,,99
+51992,30672,acteur,Paul,2
 51992,24540,acteur,Renier,8
-51992,20937,réalisateur,,99
 51992,14252,musique,,99
+51992,20937,réalisateur,,99
 52315,921,acteur,Magda Kassar,0
 52315,104908,réalisateur,,99
 52315,985388,scénariste,,99
@@ -10195,11 +10211,15 @@ film_id,personne_id,role,alias,ordre
 634230,27991,acteur,"",6
 634230,27991,réalisateur,,99
 634230,3266,scénariste,,99
+653346,1586047,acteur,Noa,0
+653346,2146942,acteur,Nova / Mae,1
+653346,79072,acteur,Proximus Caesar,2
+653346,1444816,acteur,Raka,3
 657343,16660,acteur,Leo,4
 657343,1148757,réalisateur,,99
 675327,56734,acteur,Maude Garrett,0
-675327,1375901,musique,,99
 675327,1123897,réalisateur,,99
+675327,1375901,musique,,99
 675327,203285,scénariste,,99
 675327,1123897,scénariste,,99
 769714,11464,acteur,"",0

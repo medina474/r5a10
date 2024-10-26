@@ -12,5 +12,9 @@ alter table cinema.personnes
   add constraint personne_nationalite
   check (char_length(nationalite) = 2) not valid;
 
-create unique index personnes_unique on personnes using btree (nom, prenom);
-alter table personnes add constraint personnes_unique unique using index personnes_unique;
+create unique index personnes_unique 
+  on cinema.personnes using btree (nom, prenom);
+
+alter table cinema.personnes 
+  add constraint personnes_unique unique 
+  using index personnes_unique;

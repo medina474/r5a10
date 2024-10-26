@@ -46,8 +46,13 @@ for (const p of personnes)
     person = await data.json();
   }
 
-  console.log(`${person.name} ${person.popularity}`)
+  
+  if (!person.name) {
+    console.log(`${p.personne_id} fichier absent`)
+    continue;  
+  }
 
+  console.log(`${person.name} ${person.popularity}`)
   await getPersonInfo(p.personne_id, person)
 
   try {

@@ -39,8 +39,8 @@ film_id,personne_id,role,alias,ordre
 18,10208,acteur,General Tudor,18
 18,996,musique,,99
 18,59,réalisateur,,99
-28,349,acteur,Lieutenant Richard M. Colby,0
 28,13023,acteur,Miss May,0
+28,349,acteur,Lieutenant Richard M. Colby,0
 28,2975,acteur,Tyrone 'Clean' Miller,3
 28,3087,acteur,Lieutenant Colonel Bill Kilgore,6
 28,2778,acteur,Photojournalist,7
@@ -55,8 +55,8 @@ film_id,personne_id,role,alias,ordre
 33,193,acteur,'Little' Bill Daggett,1
 33,192,acteur,Ned Logan,2
 33,194,acteur,English Bob,4
-33,190,réalisateur,,99
 33,195,musique,,99
+33,190,réalisateur,,99
 63,62,acteur,James Cole,0
 63,287,acteur,Jeffrey Goines,2
 63,52,acteur,Dr. Peters,4
@@ -93,9 +93,9 @@ film_id,personne_id,role,alias,ordre
 85,488,réalisateur,,0
 85,650,acteur,Marion,1
 85,491,musique,,99
-87,3,acteur,Indiana Jones,0
 87,707,acteur,Art Weber,0
 87,488,réalisateur,,0
+87,3,acteur,Indiana Jones,0
 87,689,acteur,Willie Scott,1
 87,690,acteur,Demi-Lune,2
 87,491,musique,,99
@@ -117,8 +117,8 @@ film_id,personne_id,role,alias,ordre
 90,21644,musique,,99
 90,799,musique,,99
 90,769,réalisateur,,99
-96,776,acteur,Axel Foley,0
 96,893,réalisateur,,0
+96,776,acteur,Axel Foley,0
 96,920,acteur,Maxwell Dent,2
 96,921,acteur,Karla Fry,5
 96,781,acteur,Jeffrey Friedman,8
@@ -215,9 +215,9 @@ film_id,personne_id,role,alias,ordre
 122,113,acteur,Saruman the White (Extended Cut),9
 122,65,acteur,Bilbo Baggins,18
 122,48,acteur,Boromir,19
-122,108,réalisateur,,99
-122,117,musique,,99
 122,129,roman,,99
+122,117,musique,,99
+122,108,réalisateur,,99
 123,5049,acteur,Aragorn (voice),3
 123,129,roman,,99
 123,2027,musique,,99
@@ -269,10 +269,10 @@ film_id,personne_id,role,alias,ordre
 169,2047,acteur,Lieutenant Mike Harrigan,0
 169,2051,acteur,Leona Cantrell,3
 169,2053,acteur,Jerry Lambert,4
-169,1094,scénariste,,99
 169,37,musique,,99
 169,2042,réalisateur,,99
 169,1092,scénariste,,99
+169,1094,scénariste,,99
 170,2037,acteur,Jim,0
 170,2038,acteur,Selena,1
 170,2034,réalisateur,,99
@@ -317,8 +317,8 @@ film_id,personne_id,role,alias,ordre
 196,2453,acteur,Clara Clayton,2
 196,1063,acteur,Maggie McFly / Lorraine McFly,4
 196,1951,acteur,Jennifer Parker,5
-196,37,musique,,99
 196,24,réalisateur,,99
+196,37,musique,,99
 197,2461,acteur,William Wallace,0
 197,1957,acteur,Princess Isabelle,2
 197,2461,réalisateur,,99
@@ -345,9 +345,9 @@ film_id,personne_id,role,alias,ordre
 227,2880,acteur,Two-Bit Matthews,5
 227,500,acteur,Steve Randle,6
 227,2882,acteur,Cherry Valance,8
+227,2868,roman,,99
 227,2872,musique,,99
 227,1776,réalisateur,,99
-227,2868,roman,,99
 232,2876,acteur,Rusty James,0
 232,2295,acteur,The Motorcycle Boy,1
 232,2882,acteur,Patty,2
@@ -374,8 +374,8 @@ film_id,personne_id,role,alias,ordre
 238,3087,acteur,Tom Hagen,3
 238,3092,acteur,Kay Adams,5
 238,3094,acteur,Connie Corleone Rizzi,6
-238,3083,roman,,99
 238,3098,musique,,99
+238,3083,roman,,99
 238,1776,réalisateur,,99
 240,1158,acteur,Don Michael Corleone,0
 240,3087,acteur,Tom Hagen,1
@@ -383,17 +383,17 @@ film_id,personne_id,role,alias,ordre
 240,380,acteur,Vito Corleone,3
 240,3094,acteur,Constanzia 'Connie' Corleone,5
 240,1004,acteur,Tony Rosato,35
+240,3083,roman,,99
 240,3098,musique,,99
 240,1776,réalisateur,,99
-240,3083,roman,,99
 242,1158,acteur,Michael Corleone,0
 242,3092,acteur,Kay Adams,1
 242,3094,acteur,Connie Corleone Rizzi,2
 242,1271,acteur,Vincent Mancini,3
 242,3266,acteur,Joey Zasa,5
 242,1769,acteur,Mary Corleone,8
-242,2872,musique,,99
 242,1776,réalisateur,,99
+242,2872,musique,,99
 249,3392,acteur,Oliver Rose,0
 249,3391,acteur,Barbara Rose,1
 249,518,acteur,Gavin D'Amato,2
@@ -408,9 +408,9 @@ film_id,personne_id,role,alias,ordre
 251,2704,musique,,99
 253,10222,acteur,James Bond,0
 253,5050,acteur,Kananga/Mr. Big,1
+253,9915,réalisateur,,99
 253,9856,roman,,99
 253,10214,musique,,99
-253,9915,réalisateur,,99
 268,8399,acteur,Nic,0
 268,2232,acteur,Batman/Bruce Wayne,0
 268,514,acteur,Joker/Jack Napier,1
@@ -419,9 +419,9 @@ film_id,personne_id,role,alias,ordre
 274,1038,acteur,Clarice Starling,0
 274,4173,acteur,Dr. Hannibal Lecter,1
 274,349,acteur,Jack Crawford,2
+274,16294,réalisateur,,99
 274,117,musique,,99
 274,16786,roman,,99
-274,16294,réalisateur,,99
 277,3967,acteur,Selene,0
 277,3968,acteur,Lucian,2
 277,2214,musique,,99
@@ -430,8 +430,8 @@ film_id,personne_id,role,alias,ordre
 278,192,acteur,Ellis Boyd 'Red' Redding,1
 278,6574,acteur,Captain Byron T. Hadley,4
 278,6576,acteur,Bogs Diamond,7
-278,153,musique,,99
 278,4027,réalisateur,,99
+278,153,musique,,99
 278,3027,roman,,99
 279,3999,acteur,Wolfgang Amadeus Mozart,1
 279,3974,réalisateur,,99
@@ -440,14 +440,14 @@ film_id,personne_id,role,alias,ordre
 280,2713,acteur,Sarah Connor,1
 280,418,acteur,T-1000,3
 280,3981,acteur,Janelle Voight,9
+280,2710,réalisateur,,99
 280,2710,scénariste,,99
 280,2722,musique,,99
-280,2710,réalisateur,,99
 280,2711,scénariste,,99
 281,9780,acteur,Lornette 'Mace' Mason,1
 281,7132,acteur,Burton Steckler,5
-281,14392,réalisateur,,99
 281,5912,musique,,99
+281,14392,réalisateur,,99
 287,1269,acteur,Crash Davis,0
 287,4038,acteur,Annie Savoy,1
 287,504,acteur,Ebby Calvin 'Nuke' LaLoosh,2
@@ -477,9 +477,9 @@ film_id,personne_id,role,alias,ordre
 319,4690,acteur,Vincenzo Coccotti,6
 319,287,acteur,Floyd,7
 319,2231,acteur,Big Don,9
-319,947,musique,,99
 319,138,scénariste,,99
 319,893,réalisateur,,99
+319,947,musique,,99
 329,4783,acteur,Dr. Alan Grant,0
 329,4785,acteur,Dr. Ian Malcolm,2
 329,4786,acteur,Hammond,3
@@ -501,8 +501,8 @@ film_id,personne_id,role,alias,ordre
 348,578,réalisateur,,99
 348,1760,musique,,99
 350,5064,acteur,Miranda Priestly,1
-350,10568,roman,,99
 350,10572,musique,,99
+350,10568,roman,,99
 350,5065,réalisateur,,99
 364,2232,acteur,Bruce Wayne / Batman,0
 364,518,acteur,Oswald Cobblepot / The Penguin,1
@@ -525,13 +525,13 @@ film_id,personne_id,role,alias,ordre
 378,1224,réalisateur,,99
 379,1241,acteur,Bernie Bernbaum,2
 379,884,acteur,Mink Larouie,8
-379,1223,réalisateur,,99
-379,1224,réalisateur,,99
 379,1225,musique,,99
+379,1224,réalisateur,,99
+379,1223,réalisateur,,99
 380,4483,acteur,Raymond Babbitt,0
 380,500,acteur,Charlie Babbitt,1
-380,8246,réalisateur,,99
 380,947,musique,,99
+380,8246,réalisateur,,99
 387,920,acteur,Captain Lieutenant 'Der Alte',0
 387,5236,roman,,99
 387,5231,réalisateur,,99
@@ -551,8 +551,8 @@ film_id,personne_id,role,alias,ordre
 414,206,acteur,Edward Nygma / The Riddler,2
 414,2227,acteur,Dr. Chase Meridian,3
 414,69597,acteur,Sugar,7
-414,5572,réalisateur,,99
 414,5581,musique,,99
+414,5572,réalisateur,,99
 424,3896,acteur,Oskar Schindler,0
 424,2282,acteur,Itzhak Stern,1
 424,491,musique,,99
@@ -593,9 +593,9 @@ film_id,personne_id,role,alias,ordre
 475,6728,scénariste,,99
 476,2876,acteur,Bob,0
 476,6471,acteur,Tom the Priest,8
-476,6469,roman,,99
 476,5581,musique,,99
 476,5216,réalisateur,,99
+476,6469,roman,,99
 482,6487,acteur,John Shaft,0
 482,6563,acteur,Ellie Moore,4
 483,2963,acteur,Sailor Ripley,0
@@ -625,8 +625,8 @@ film_id,personne_id,role,alias,ordre
 505,1723,réalisateur,,99
 509,1204,acteur,Anna Scott,0
 509,3291,acteur,William Thacker,1
-509,7020,musique,,99
 509,7017,réalisateur,,99
+509,7020,musique,,99
 510,514,acteur,Randle Patrick McMurphy,0
 510,518,acteur,Martini,3
 510,1062,acteur,Max Taber,6
@@ -638,8 +638,8 @@ film_id,personne_id,role,alias,ordre
 522,520,acteur,Dolores Fuller,2
 522,1532,acteur,Bunny Breckinridge,5
 522,7132,acteur,Orson Welles,9
-522,117,musique,,99
 522,510,réalisateur,,99
+522,117,musique,,99
 524,380,acteur,Sam 'Ace' Rothstein,0
 524,4430,acteur,Ginger McKenna,1
 524,4517,acteur,Nicky Santoro,2
@@ -729,8 +729,8 @@ film_id,personne_id,role,alias,ordre
 591,20795,acteur,Jacques Saunière,9
 592,193,acteur,Harry Caul,0
 592,3,acteur,Martin Stett,8
-592,1776,scénariste,,99
 592,1776,réalisateur,,99
+592,1776,scénariste,,99
 592,8422,musique,,99
 595,3087,acteur,Boo Radley,0
 595,8482,réalisateur,,99
@@ -758,28 +758,28 @@ film_id,personne_id,role,alias,ordre
 603,532,acteur,Cypher,5
 603,9374,acteur,Mouse,8
 603,9376,acteur,Switch,9
-603,9339,réalisateur,,99
-603,9339,scénariste,,99
 603,9340,scénariste,,99
 603,4949,musique,,99
 603,9340,réalisateur,,99
+603,9339,scénariste,,99
+603,9339,réalisateur,,99
 604,6384,acteur,Thomas A. Anderson / Neo,0
 604,2975,acteur,Morpheus,1
 604,530,acteur,Trinity,2
 604,1331,acteur,Agent Smith,3
 604,28782,acteur,Persephone,7
 604,2192,acteur,The Merovingian,9
+604,9339,réalisateur,,99
 604,4949,musique,,99
 604,9340,réalisateur,,99
-604,9339,réalisateur,,99
 605,6384,acteur,Thomas A. Anderson / Neo,0
 605,2975,acteur,Morpheus,1
 605,530,acteur,Trinity,2
 605,1331,acteur,Agent Smith,3
 605,28782,acteur,Persephone,12
-605,9339,réalisateur,,99
-605,9340,réalisateur,,99
 605,4949,musique,,99
+605,9340,réalisateur,,99
+605,9339,réalisateur,,99
 606,4135,acteur,Denys George Finch Hatton,0
 606,5064,acteur,Karen Christence Dinesen Blixen,1
 606,2289,musique,,99
@@ -830,9 +830,9 @@ film_id,personne_id,role,alias,ordre
 623,383,acteur,Ken Pile,3
 623,8946,acteur,Wendy,4
 623,8947,acteur,Georges Thomason,5
-623,8929,réalisateur,,99
 623,8930,scénariste,,99
 623,8933,musique,,99
+623,8929,réalisateur,,99
 624,8949,acteur,Wyatt,0
 624,2778,acteur,Billy,1
 624,514,acteur,George Hanson,2
@@ -847,9 +847,9 @@ film_id,personne_id,role,alias,ordre
 628,2224,acteur,Malloy,3
 628,9029,acteur,Santiago,4
 628,205,acteur,Claudia,5
-628,17016,réalisateur,,99
 628,9018,roman,,99
 628,5581,musique,,99
+628,17016,réalisateur,,99
 634,9137,acteur,Bridget Jones,0
 634,5472,acteur,Mark Darcy,1
 634,3291,acteur,Daniel Cleaver,2
@@ -897,12 +897,12 @@ film_id,personne_id,role,alias,ordre
 650,9769,musique,,99
 650,6482,scénariste,,99
 650,6482,réalisateur,,99
-651,55636,acteur,Hawkeye Pierce,0
 651,9811,acteur,Spearchucker Jones,0
+651,55636,acteur,Hawkeye Pierce,0
 651,4139,acteur,Duke Forrest,2
 651,3087,acteur,Maj. Frank Burns,4
-651,9789,réalisateur,,99
 651,9796,musique,,99
+651,9789,réalisateur,,99
 651,9790,roman,,99
 652,287,acteur,Achilles,0
 652,48,acteur,Odysseus,4
@@ -985,9 +985,9 @@ film_id,personne_id,role,alias,ordre
 675,11184,acteur,Filius Flitwick,15
 675,10978,acteur,Minerva McGonagall,17
 675,10993,acteur,Draco Malfoy,22
-675,11344,musique,,99
-675,10966,roman,,99
 675,11343,réalisateur,,99
+675,10966,roman,,99
+675,11344,musique,,99
 679,10205,acteur,Lieutenant Ellen Ripley,0
 679,2710,réalisateur,,0
 679,2712,acteur,Corporal Dwayne Hicks,1
@@ -1005,8 +1005,8 @@ film_id,personne_id,role,alias,ordre
 679,10211,acteur,Corporal Dietrich,13
 679,10213,acteur,Crowe,14
 679,1729,musique,,99
-680,11805,acteur,Brett,0
 680,884,acteur,Buddy Holly,0
+680,11805,acteur,Brett,0
 680,8891,acteur,Vincent Vega,0
 680,4690,acteur,Captain Koons,0
 680,2231,acteur,Jules Winnfield,1
@@ -1017,9 +1017,9 @@ film_id,personne_id,role,alias,ordre
 680,2165,acteur,Jody,12
 680,138,réalisateur,,99
 681,738,acteur,James Bond,0
-681,9856,roman,,99
 681,9915,réalisateur,,99
 681,2289,musique,,99
+681,9856,roman,,99
 682,10222,acteur,James Bond,0
 682,113,acteur,Francisco Scaramanga,1
 682,10343,acteur,Nick Nack,4
@@ -1033,9 +1033,9 @@ film_id,personne_id,role,alias,ordre
 686,4139,acteur,David Drumlin,4
 686,52,acteur,Ted Arroway,6
 686,9780,acteur,Rachel Constantine,7
+686,10293,roman,,99
 686,24,réalisateur,,99
 686,37,musique,,99
-686,10293,roman,,99
 687,6574,acteur,State Trooper,0
 687,4038,acteur,Sister Helen Prejean,0
 687,8655,acteur,Clyde Percy,4
@@ -1155,9 +1155,9 @@ film_id,personne_id,role,alias,ordre
 767,4566,acteur,Severus Snape,6
 767,10978,acteur,Minerva McGonagall,13
 767,11184,acteur,Filius Flitwick,18
-767,11344,musique,,99
-767,10966,roman,,99
 767,11343,réalisateur,,99
+767,10966,roman,,99
+767,11344,musique,,99
 769,2231,acteur,Stacks Edwards,0
 769,380,acteur,James Conway,1
 769,4517,acteur,Tommy DeVito,2
@@ -1181,9 +1181,9 @@ film_id,personne_id,role,alias,ordre
 782,1903,acteur,Detective Hugo,3
 782,11626,acteur,Director Josef,5
 782,4252,acteur,"""German""",6
-782,10759,musique,,99
 782,8685,réalisateur,,99
 782,8685,scénariste,,99
+782,10759,musique,,99
 786,3910,acteur,Elaine Miller,1
 786,11649,réalisateur,,99
 786,11656,musique,,99
@@ -1220,8 +1220,8 @@ film_id,personne_id,role,alias,ordre
 807,287,acteur,Detective David Mills,1
 807,8655,acteur,Police Captain,6
 807,12047,acteur,Dead Man at 1st Crime Scene,9
-807,12047,scénariste,,99
 807,7467,réalisateur,,99
+807,12047,scénariste,,99
 807,117,musique,,99
 813,20904,acteur,Japanese General,0
 813,7633,acteur,Dr. Rumack,2
@@ -1235,15 +1235,15 @@ film_id,personne_id,role,alias,ordre
 813,12936,scénariste,,99
 813,3415,scénariste,,99
 814,14464,acteur,Nurse Alex Price,1
-814,4610,réalisateur,,99
 814,7182,musique,,99
+814,4610,réalisateur,,99
 819,4724,acteur,Sean Nokes,0
 819,380,acteur,Père Bobby,1
 819,4483,acteur,"Danny Snyder, l'avocat",2
 819,287,acteur,Michael Sullivan,4
+819,12253,roman,,99
 819,491,musique,,99
 819,8246,réalisateur,,99
-819,12253,roman,,99
 820,1269,acteur,Jim Garrison,0
 820,64,acteur,Lee Harvey Oswald,2
 820,4724,acteur,Willie O'Keefe,3
@@ -1275,9 +1275,9 @@ film_id,personne_id,role,alias,ordre
 834,7229,musique,,99
 837,4512,acteur,Max Renn,0
 837,12483,acteur,Harlan,3
+837,117,musique,,99
 837,224,réalisateur,,99
 837,224,scénariste,,99
-837,117,musique,,99
 838,6159,acteur,Steve Bolander,1
 838,12407,acteur,Debbie Dunham,5
 838,3,acteur,Bob Falfa,11
@@ -1304,8 +1304,8 @@ film_id,personne_id,role,alias,ordre
 847,11184,acteur,Willow Ufgood,0
 847,5576,acteur,Madmartigan,1
 847,12656,acteur,Sorsha,2
-847,6159,réalisateur,,99
 847,1729,musique,,99
+847,6159,réalisateur,,99
 849,3896,acteur,Kegan,7
 849,1729,musique,,99
 849,12804,réalisateur,,99
@@ -1317,8 +1317,8 @@ film_id,personne_id,role,alias,ordre
 856,593,acteur,Dolores,2
 856,3391,acteur,Jessica Rabbit (voice),4
 856,1091,acteur,Raoul,9
-856,37,musique,,99
 856,12821,roman,,99
+856,37,musique,,99
 856,24,réalisateur,,99
 858,31,acteur,Sam Baldwin,0
 858,5344,acteur,Annie Reed,1
@@ -1359,9 +1359,9 @@ film_id,personne_id,role,alias,ordre
 867,13021,acteur,Zeke Hawkins,1
 867,13022,acteur,Jack Lansford,2
 867,13023,acteur,Judy Marks,4
+867,13015,réalisateur,,99
 867,13019,roman,,99
 867,117,musique,,99
-867,13015,réalisateur,,99
 869,13240,acteur,Captain Leo Davidson,0
 869,3129,acteur,Thade,1
 869,61981,acteur,Attar,3
@@ -1405,15 +1405,15 @@ film_id,personne_id,role,alias,ordre
 888,558641,musique,,99
 891,4483,acteur,Carl Bernstein,0
 891,4135,acteur,Bob Woodward,1
-891,8422,musique,,99
 891,6349,réalisateur,,99
+891,8422,musique,,99
 902,2372,acteur,One,0
 902,2413,acteur,The Diver / The Clones,1
 902,13687,acteur,Marcello,4
 902,13689,acteur,Ex-Acrobat,10
+902,2419,réalisateur,,99
 902,5628,musique,,99
 902,13680,réalisateur,,99
-902,2419,réalisateur,,99
 907,400,acteur,Tonya Gromeko,2
 907,12238,réalisateur,,99
 907,2704,musique,,99
@@ -1429,8 +1429,8 @@ film_id,personne_id,role,alias,ordre
 916,12804,réalisateur,,99
 916,9217,musique,,99
 918,62,acteur,Walter Davis,1
-918,1927,réalisateur,,99
 918,1938,musique,,99
+918,1927,réalisateur,,99
 925,1004,acteur,Salvatore 'Sal' Fragione,0
 925,5281,acteur,Mookie,1
 925,1241,acteur,Pino Fragione,4
@@ -1442,8 +1442,8 @@ film_id,personne_id,role,alias,ordre
 927,3034,acteur,Pete Fountaine,4
 927,4600,réalisateur,,99
 927,10965,scénariste,,99
-927,1760,musique,,99
 927,16155,musique,,99
+927,1760,musique,,99
 928,16171,acteur,Kate Beringer,1
 928,113,acteur,Doctor Catheter,5
 928,1760,musique,,99
@@ -1474,9 +1474,9 @@ film_id,personne_id,role,alias,ordre
 942,4517,acteur,Leo Getz,2
 942,6576,acteur,Hans,8
 942,3981,acteur,Meagan Shapiro,9
-942,14322,musique,,99
 942,7187,réalisateur,,99
 942,2585,musique,,99
+942,14322,musique,,99
 942,7714,musique,,99
 948,8944,acteur,Laurie Strode,1
 948,14692,acteur,Michael Myers,9
@@ -1488,8 +1488,8 @@ film_id,personne_id,role,alias,ordre
 949,10127,acteur,Nate,3
 949,524,acteur,"Lauren Gustafson, belle-fille du lt. Hanna",13
 949,11160,acteur,Trejo,19
-949,638,scénariste,,99
 949,37317,musique,,99
+949,638,scénariste,,99
 949,5581,musique,,99
 949,638,réalisateur,,99
 951,1100,acteur,John Kimble,0
@@ -1522,9 +1522,9 @@ film_id,personne_id,role,alias,ordre
 988,14838,réalisateur,,99
 990,3636,acteur,Eddie 'Fast Eddie' Felson,0
 990,6721,acteur,Sarah Packard,2
-990,14875,réalisateur,,99
 990,14877,roman,,99
 990,5260,musique,,99
+990,14875,réalisateur,,99
 991,7487,acteur,Thomas Jerome Newton,0
 991,12407,acteur,Mary-Lou,2
 991,7795,acteur,Oliver Farnsworth,4
@@ -1655,14 +1655,14 @@ film_id,personne_id,role,alias,ordre
 1410,11770,musique,,99
 1412,1533,acteur,Ann Bishop Mullany,0
 1412,13548,acteur,Graham Dalton,2
-1412,1884,scénariste,,99
 1412,1884,réalisateur,,99
 1412,8377,musique,,99
+1412,1884,scénariste,,99
 1417,16970,acteur,Ofelia,0
 1417,16972,acteur,Capitán Vidal,1
 1417,3813,acteur,Dr. Ferreiro,5
-1417,10828,réalisateur,,99
 1417,17004,musique,,99
+1417,10828,réalisateur,,99
 1443,4512,acteur,Mr. Lisbon,0
 1443,3391,acteur,Mrs. Lisbon,1
 1443,205,acteur,Lux Lisbon,2
@@ -1798,9 +1798,9 @@ film_id,personne_id,role,alias,ordre
 1669,4783,acteur,Captain Vasily Borodin,3
 1669,15152,acteur,Admiral James Greer,4
 1669,13472,acteur,Dr. Yevgeniy Petrov,8
+1669,1090,réalisateur,,99
 1669,7728,musique,,99
 1669,38568,roman,,99
-1669,1090,réalisateur,,99
 1687,588,acteur,Aide,0
 1687,10539,acteur,Dr. Zira,1
 1687,9108,réalisateur,,99
@@ -1952,8 +1952,8 @@ film_id,personne_id,role,alias,ordre
 1949,11085,acteur,William Armstrong,2
 1949,3223,acteur,Paul Avery,3
 1949,13550,acteur,Jack Mulanax,5
-1949,8422,musique,,99
 1949,7467,réalisateur,,99
+1949,8422,musique,,99
 1955,4173,acteur,Dr. Frederick Treves,0
 1955,5049,acteur,John Merrick,1
 1955,10774,acteur,Mrs. Kendal,2
@@ -1961,9 +1961,9 @@ film_id,personne_id,role,alias,ordre
 1955,719,musique,,99
 2005,2395,acteur,Deloris Van Cartier/Sister Mary Clarence,0
 2005,10978,acteur,Mother Superior,1
+2005,32588,scénariste,,99
 2005,9251,musique,,99
 2005,716,réalisateur,,99
-2005,32588,scénariste,,99
 2007,1733,acteur,Augusto Odone,0
 2007,4038,acteur,Michaela Odone,1
 2007,14501,acteur,Professor Nikolais,2
@@ -1976,8 +1976,8 @@ film_id,personne_id,role,alias,ordre
 2019,11401,réalisateur,,99
 2019,28241,musique,,99
 2038,20959,acteur,Chappy,0
-2038,20951,roman,,99
 2038,64508,roman,,99
+2038,20951,roman,,99
 2038,20953,musique,,99
 2039,38225,acteur,Loretta Castorini,0
 2039,2963,acteur,Ronny Cammareri,1
@@ -2079,8 +2079,8 @@ film_id,personne_id,role,alias,ordre
 2210,22675,acteur,Zeebo,3
 2210,21731,acteur,Woody,4
 2210,40680,acteur,Candy,5
-2210,4613,musique,,99
 2210,22671,scénariste,,99
+2210,4613,musique,,99
 2210,22672,scénariste,,99
 2210,40680,scénariste,,99
 2210,22669,réalisateur,,99
@@ -2144,8 +2144,8 @@ film_id,personne_id,role,alias,ordre
 2323,1269,acteur,Ray Kinsella,0
 2323,15152,acteur,Terrence Mann,3
 2323,11805,acteur,Archie Graham,7
-2323,1729,musique,,99
 2323,23968,réalisateur,,99
+2323,1729,musique,,99
 2436,18702,acteur,Jimmy Lee,0
 2436,418,acteur,Kongo Shuko,2
 2436,24955,musique,,99
@@ -2187,8 +2187,8 @@ film_id,personne_id,role,alias,ordre
 2493,13524,acteur,Count Tyrone Rugen,5
 2493,12900,acteur,Vizzini,6
 2493,7904,acteur,Miracle Max,9
-2493,3026,réalisateur,,99
 2493,8271,musique,,99
+2493,3026,réalisateur,,99
 2493,348,roman,,99
 2501,1892,acteur,Jason Bourne,0
 2501,679,acteur,Marie Helena Kreutz,1
@@ -2202,22 +2202,22 @@ film_id,personne_id,role,alias,ordre
 2503,1892,acteur,Jason Bourne,0
 2503,11064,acteur,Noah Vosen,2
 2503,349,acteur,Ezra Kramer,3
-2503,11098,musique,,99
 2503,25606,roman,,99
 2503,25598,réalisateur,,99
+2503,11098,musique,,99
 2528,17882,acteur,Emma Bovary,0
 2528,35527,acteur,Charles Bovary,1
 2528,24487,acteur,Rodolphe Boulanger,2
 2528,24381,acteur,M. Homais,3
-2528,19167,musique,,99
 2528,25852,roman,,99
 2528,19069,réalisateur,,99
+2528,19167,musique,,99
 2565,31,acteur,Joe Banks,0
 2565,10556,acteur,Hairdresser,0
 2565,5344,acteur,DeDe / Angelica / Patricia Graynamore,1
+2565,1586078,musique,,99
 2565,3535,musique,,99
 2565,26095,réalisateur,,99
-2565,1586078,musique,,99
 2604,8977,acteur,Marine Officer,0
 2604,500,acteur,Ron Kovic,0
 2604,5293,acteur,Charlie,0
@@ -2242,9 +2242,9 @@ film_id,personne_id,role,alias,ordre
 2614,4600,réalisateur,,99
 2616,34612,acteur,School Child,0
 2616,11510,acteur,Miles Russell,3
+2616,11505,scénariste,,99
 2616,11505,réalisateur,,99
 2616,12939,musique,,99
-2616,11505,scénariste,,99
 2617,707,acteur,Roman Craig,0
 2617,516,acteur,Kate Craig,3
 2617,26502,réalisateur,,99
@@ -2271,9 +2271,9 @@ film_id,personne_id,role,alias,ordre
 2636,16483,acteur,Ray Quick,0
 2636,4430,acteur,May Munro,1
 2636,4512,acteur,Ned Trent,2
+2636,1217663,roman,,99
 2636,2289,musique,,99
 2636,26648,réalisateur,,99
-2636,1217663,roman,,99
 2640,1920,acteur,Veronica Sawyer,0
 2640,2224,acteur,Jason 'J.D.' Dean,1
 2640,7145,réalisateur,,99
@@ -2345,8 +2345,8 @@ film_id,personne_id,role,alias,ordre
 2898,1524,acteur,Dr. Bettes,9
 2907,1062,acteur,Uncle Fester,2
 2907,6886,acteur,Wednesday Addams,3
-2907,9251,musique,,99
 2907,5174,réalisateur,,99
+2907,9251,musique,,99
 2912,24381,acteur,"Paul Thomas, aka 'Popaul'",1
 2912,19085,musique,,99
 2912,19069,réalisateur,,99
@@ -2394,21 +2394,21 @@ film_id,personne_id,role,alias,ordre
 3004,29490,acteur,Pat,0
 3004,12329,acteur,Di Seta,3
 3004,19646,acteur,Judy,6
-3004,94371,roman,,99
-3004,29501,musique,,99
-3004,29500,musique,,99
 3004,29494,réalisateur,,99
 3004,1118227,roman,,99
+3004,29500,musique,,99
+3004,94371,roman,,99
+3004,29501,musique,,99
 3036,380,acteur,The Creature / Sharp Featured Man,0
 3036,11181,acteur,Victor Frankenstein,1
 3036,3999,acteur,Henry Clerval,2
 3036,65,acteur,Baron Frankenstein,5
 3036,8930,acteur,Prof. Waldman,7
-3036,4027,scénariste,,99
-3036,28970,roman,,99
 3036,11181,réalisateur,,99
-3036,9152,musique,,99
+3036,4027,scénariste,,99
 3036,29855,scénariste,,99
+3036,9152,musique,,99
+3036,28970,roman,,99
 3049,206,acteur,Ace Ventura,0
 3049,8875,acteur,Doctor,0
 3049,586,acteur,Lt. Lois Einhorn,2
@@ -2451,8 +2451,8 @@ film_id,personne_id,role,alias,ordre
 3176,1200057,musique,,99
 3176,31074,réalisateur,,99
 3480,24366,acteur,Julien Dandieu,0
-3480,24775,musique,,99
 3480,32012,réalisateur,,99
+3480,24775,musique,,99
 3512,23880,acteur,Casey Ryback,0
 3512,25541,acteur,Sarah Ryback,2
 3512,783,acteur,Scotty,9
@@ -2467,8 +2467,8 @@ film_id,personne_id,role,alias,ordre
 3536,10297,acteur,Lt. Andrew Tyler,0
 3536,2053,acteur,Lt. Cmdr. Mike Dahlgren,1
 3536,18181,acteur,Maj. Matthew Coonen,4
-3536,7213,réalisateur,,99
 3536,21467,musique,,99
+3536,7213,réalisateur,,99
 3580,6949,acteur,Rev. Gustav Briegleb,1
 3580,190,réalisateur,,99
 3580,33045,scénariste,,99
@@ -2596,17 +2596,17 @@ film_id,personne_id,role,alias,ordre
 4274,24366,acteur,Dubreuilh,1
 4274,1957,acteur,Madeleine,3
 4274,34616,acteur,Vulpi,6
+4274,35927,réalisateur,,99
 4274,20075,musique,,99
 4274,27723,roman,,99
-4274,35927,réalisateur,,99
 4327,69597,acteur,Dylan Sanders,1
 4327,140,acteur,Alex Munday,2
 4327,1532,acteur,John Bosley,3
 4327,6807,acteur,Eric Knox,4
 4327,13472,acteur,Roger Corwin,5
+4327,1300,scénariste,,99
 4327,36426,scénariste,,99
 4327,9612,scénariste,,99
-4327,1300,scénariste,,99
 4327,1999,musique,,99
 4437,6355,acteur,Dr. Heywood Floyd,0
 4437,15735,acteur,Tanya Kirbuk,2
@@ -2640,9 +2640,9 @@ film_id,personne_id,role,alias,ordre
 4481,6012,acteur,Ugolin Soubeyran,1
 4481,13689,acteur,le spécialiste du Génie rural,6
 4481,948462,acteur,Le Curé,7
-4481,38393,roman,,99
-4481,37187,musique,,99
 4481,20718,réalisateur,,99
+4481,37187,musique,,99
+4481,38393,roman,,99
 4482,35137,acteur,Marijo,1
 4482,4275,acteur,Laurent Lafaye,2
 4482,13689,acteur,Antoine,3
@@ -2657,8 +2657,8 @@ film_id,personne_id,role,alias,ordre
 4483,38494,réalisateur,,99
 4484,12270,acteur,Zaza,1
 4484,24629,acteur,Simon Charrier,3
-4484,1259,musique,,99
 4484,24380,réalisateur,,99
+4484,1259,musique,,99
 4485,1977,acteur,Gorodish,1
 4485,2413,acteur,Le curé,7
 4485,47337,acteur,L'Antillais,9
@@ -2670,14 +2670,14 @@ film_id,personne_id,role,alias,ordre
 4488,20953,musique,,99
 4488,38685,scénariste,,99
 4546,28906,acteur,Edmond Dantès,0
-4546,37915,réalisateur,,99
 4546,20923,musique,,99
+4546,37915,réalisateur,,99
 4546,24840,roman,,99
 4547,1038,acteur,Meg Altman,0
 4547,2178,acteur,Burnham,2
 4547,12047,acteur,Sleepy Neighbor,8
-4547,117,musique,,99
 4547,7467,réalisateur,,99
+4547,117,musique,,99
 4580,15200,acteur,Johnny,1
 4580,16927,acteur,Horseman,3
 4580,21175,acteur,A worker,5
@@ -2703,15 +2703,15 @@ film_id,personne_id,role,alias,ordre
 4683,28254,acteur,Camille Bliss,0
 4683,1958,acteur,Maître Murene,4
 4683,38901,acteur,Sam Golden,5
+4683,64802,roman,,99
 4683,25183,scénariste,,99
 4683,1650,scénariste,,99
-4683,64802,roman,,99
 4683,1650,réalisateur,,99
 4722,8655,acteur,General Platt,6
 4722,2178,acteur,Major Collins,8
-4722,29716,roman,,99
 4722,39107,musique,,99
 4722,39104,réalisateur,,99
+4722,29716,roman,,99
 4727,11187,acteur,Maréchal des logis-chef Ludovic Cruchot,0
 4727,24629,acteur,Adjudant Jérôme Gerber,2
 4727,24388,acteur,André-Hugues Boiselier,5
@@ -2720,8 +2720,8 @@ film_id,personne_id,role,alias,ordre
 4727,39143,acteur,Gaston Tricard,19
 4727,39142,acteur,Jules Berlicot,22
 4727,39145,acteur,Sister Clotilde,27
-4727,39138,réalisateur,,99
 4727,39141,musique,,99
+4727,39138,réalisateur,,99
 4728,11187,acteur,Maréchal des logis-chef Ludovic Cruchot,0
 4728,24629,acteur,Adjudant Jérôme Gerber,1
 4728,36316,acteur,Albert Merlot,2
@@ -2731,8 +2731,8 @@ film_id,personne_id,role,alias,ordre
 4728,39145,acteur,Sœur Clotilde,19
 4728,39141,musique,,99
 4728,39138,réalisateur,,99
-4729,11187,acteur,Maréchal des logis-chef Ludovic Cruchot,0
 4729,24629,acteur,Adjudant Jérôme Gerber,0
+4729,11187,acteur,Maréchal des logis-chef Ludovic Cruchot,0
 4729,37457,acteur,Lucien Fougasse,1
 4729,36316,acteur,Albert Merlot,3
 4729,39143,acteur,Gaston Tricard,5
@@ -2794,18 +2794,18 @@ film_id,personne_id,role,alias,ordre
 5144,21177,acteur,Louis XIV,4
 5144,39350,acteur,La Voisin,5
 5144,7277,acteur,Floridor,7
-5144,41523,musique,,99
 5144,41518,réalisateur,,99
+5144,41523,musique,,99
 5203,2295,acteur,James Wheeler,2
-5203,42118,musique,,99
 5203,42113,réalisateur,,99
+5203,42118,musique,,99
 5203,42117,musique,,99
 5228,1229,acteur,Craig Blake,0
 5228,593,acteur,Zoe,0
 5228,1100,acteur,Joe Santo,2
 5228,5139,acteur,Franklin,4
-5228,19450,réalisateur,,99
 5228,42623,roman,,99
+5228,19450,réalisateur,,99
 5228,42625,musique,,99
 5228,42624,musique,,99
 5503,3,acteur,Richard Kimble,0
@@ -2814,9 +2814,9 @@ film_id,personne_id,role,alias,ordre
 5503,1213,musique,,99
 5503,12989,réalisateur,,99
 5548,27811,acteur,Murphy / RoboCop,0
+5548,7728,musique,,99
 5548,44036,scénariste,,99
 5548,10491,réalisateur,,99
-5548,7728,musique,,99
 5548,7722,scénariste,,99
 5549,27811,acteur,RoboCop,0
 5549,6576,acteur,Stef,0
@@ -2833,19 +2833,19 @@ film_id,personne_id,role,alias,ordre
 5902,4173,acteur,Lt. Col. John D. Frost,6
 5902,193,acteur,Maj. Gen. Stanislaw F. Sosabowski,7
 5902,37777,acteur,Generalmajor der Waffen-SS Karl Ludwig,8
-5902,14930,musique,,99
 5902,4786,réalisateur,,99
 5902,46470,roman,,99
+5902,14930,musique,,99
 5919,13565,acteur,Michael O'Hallorhan le colonel des pompiers,0
 5919,3636,acteur,Doug Roberts,1
 5919,8252,acteur,Jim Duncan,2
 5919,6450,acteur,Susan Franklin,3
 5919,28906,acteur,Roger Simmons,6
-5919,46604,roman,,99
-5919,46605,roman,,99
 5919,491,musique,,99
 5919,6778,réalisateur,,99
 5919,46606,roman,,99
+5919,46605,roman,,99
+5919,46604,roman,,99
 5923,13565,acteur,Jake Holman,0
 5923,4786,acteur,Frenchy Burgoyne,1
 5923,1744,réalisateur,,99
@@ -2929,8 +2929,8 @@ film_id,personne_id,role,alias,ordre
 6312,18702,acteur,Mani,5
 6312,24381,acteur,Le Comte de Morangias,6
 6312,6304,acteur,Sardis,7
-6312,8296,réalisateur,,99
 6312,11468,musique,,99
+6312,8296,réalisateur,,99
 6320,16927,acteur,Louis Vincent Mangin,0
 6320,1957,acteur,Noria,1
 6320,44556,acteur,Lambert,2
@@ -2949,10 +2949,10 @@ film_id,personne_id,role,alias,ordre
 6404,14277,acteur,Conte Dracula,0
 6404,6553,acteur,Lucy Harker,1
 6404,49505,acteur,Renfield,3
-6404,6818,scénariste,,99
-6404,6818,réalisateur,,99
 6404,1544,roman,,99
 6404,20552,musique,,99
+6404,6818,scénariste,,99
+6404,6818,réalisateur,,99
 6444,19934,acteur,Catherine Billard,2
 6444,35905,musique,,99
 6444,20849,réalisateur,,99
@@ -2963,8 +2963,8 @@ film_id,personne_id,role,alias,ordre
 6471,1895,réalisateur,,99
 6471,52029,musique,,99
 6474,16475,acteur,Joe,0
-6474,49450,réalisateur,,99
 6474,1259,musique,,99
+6474,49450,réalisateur,,99
 6476,49944,acteur,Massive Woman,0
 6476,4960,acteur,Graham Dorsey,0
 6476,49923,réalisateur,,99
@@ -2994,8 +2994,8 @@ film_id,personne_id,role,alias,ordre
 6644,11435,réalisateur,,99
 6916,15140,acteur,Kid,0
 6916,18841,acteur,Ben,1
-6916,18837,musique,,99
 6916,51421,réalisateur,,99
+6916,18837,musique,,99
 6916,18836,musique,,99
 6917,10822,acteur,Glen,0
 6917,51424,acteur,Al,1
@@ -3015,12 +3015,12 @@ film_id,personne_id,role,alias,ordre
 6964,12988,acteur,Dave,6
 6977,16851,acteur,Llewelyn Moss,0
 6977,12852,acteur,Ellis,7
-6977,1224,réalisateur,,99
 6977,51736,roman,,99
+6977,1224,réalisateur,,99
 6977,1223,réalisateur,,99
 6977,1225,musique,,99
-6978,6856,acteur,Jack Burton,0
 6978,11770,réalisateur,,0
+6978,6856,acteur,Jack Burton,0
 6978,20904,acteur,David Lo Pan,3
 6978,11395,acteur,Egg Shen,4
 6978,15445,musique,,99
@@ -3028,9 +3028,9 @@ film_id,personne_id,role,alias,ordre
 7007,738,acteur,Capt. John Connor,0
 7007,10814,acteur,Lt. Webster Smith,1
 7007,884,acteur,Willy Wilhelm,11
+7007,51808,musique,,99
 7007,4782,roman,,99
 7007,648,réalisateur,,99
-7007,51808,musique,,99
 7091,2963,acteur,Peter Loew,0
 7091,2051,acteur,Alva Restrepo,1
 7091,3130,acteur,Rachel,2
@@ -3198,19 +3198,19 @@ film_id,personne_id,role,alias,ordre
 8398,54827,réalisateur,,99
 8428,2224,acteur,Mark Hunter,0
 8428,13922,acteur,Joey,0
-8428,55790,réalisateur,,99
 8428,8377,musique,,99
+8428,55790,réalisateur,,99
 8446,1038,acteur,Tallulah,1
 8446,9168,réalisateur,,99
 8446,35040,musique,,99
 8446,9168,scénariste,,99
 8467,206,acteur,Lloyd Christmas,0
 8467,8447,acteur,Harry Dunne,1
+8467,55162,scénariste,,99
 8467,7396,scénariste,,99
 8467,7396,réalisateur,,99
 8467,7395,scénariste,,99
 8467,55165,musique,,99
-8467,55162,scénariste,,99
 8469,21561,acteur,"Eric ""Otter"" Stratton",1
 8469,3999,acteur,"Larry ""Pinto"" Kroger",4
 8469,14888,acteur,Daniel Simpson Day,10
@@ -3256,8 +3256,8 @@ film_id,personne_id,role,alias,ordre
 8736,24041,acteur,Claudy,5
 8736,56226,acteur,Le commissaire Laurence,6
 8736,19934,acteur,Sylvie,7
-8736,62433,musique,,99
 8736,56225,réalisateur,,99
+8736,62433,musique,,99
 8764,5576,acteur,Nick Rivers,0
 8764,3415,réalisateur,,99
 8764,12936,réalisateur,,99
@@ -3279,9 +3279,9 @@ film_id,personne_id,role,alias,ordre
 8839,8984,acteur,Dr. James Harvey,1
 8839,14702,acteur,Carrigan Crittenden,3
 8839,707,acteur,Dr. Raymond Stantz (uncredited),9
+8839,11887,réalisateur,,99
 8839,1729,musique,,99
 8839,56054,scénariste,,99
-8839,11887,réalisateur,,99
 8839,56055,scénariste,,99
 8844,2157,acteur,Alan Parrish,0
 8844,205,acteur,Judy Shepherd,1
@@ -3296,14 +3296,14 @@ film_id,personne_id,role,alias,ordre
 8851,56141,réalisateur,,99
 8851,56463,musique,,99
 8852,11395,acteur,Howard Birack,2
-8852,15445,musique,,99
 8852,11770,musique,,99
+8852,15445,musique,,99
 8852,11770,réalisateur,,99
 8856,2877,acteur,Daniel LaRusso,0
 8856,23915,acteur,Mr. Miyagi,1
+8856,16513,réalisateur,,99
 8856,61,scénariste,,99
 8856,10494,musique,,99
-8856,16513,réalisateur,,99
 8867,16644,acteur,Frank Castle / The Punisher,0
 8867,20959,acteur,Jake Berkowitz,1
 8867,52358,scénariste,,99
@@ -3312,19 +3312,19 @@ film_id,personne_id,role,alias,ordre
 8872,6684,acteur,Stacy,4
 8872,1535,acteur,Noah Vanderhoff,7
 8872,13023,acteur,Mrs. Vanderhoff,13
-8872,58448,réalisateur,,99
 8872,28156,musique,,99
+8872,58448,réalisateur,,99
 8963,18324,acteur,Seaman William Barnes,0
 8963,5292,acteur,"Lt. Commander Ronald ""Ron"" Hunter",0
 8963,193,acteur,"Captain Franklin ""Frank"" Ramsey",1
 8963,110,acteur,Lt. Peter 'Weps' Ince,4
-8963,893,réalisateur,,99
 8963,947,musique,,99
+8963,893,réalisateur,,99
 8984,3392,acteur,Tom Sanders,0
 8984,3416,acteur,Meredith Johnson,1
 8984,55636,acteur,Bob Garvin,2
-8984,4782,roman,,99
 8984,8246,réalisateur,,99
+8984,4782,roman,,99
 8986,29369,acteur,V,0
 8986,228,acteur,Tom Wheeler,1
 8986,56890,acteur,Waltzer,3
@@ -3335,8 +3335,8 @@ film_id,personne_id,role,alias,ordre
 8987,11064,acteur,Tom Hartman,1
 8987,4724,acteur,Wade,2
 8987,4764,acteur,Terry,3
-8987,323,réalisateur,,99
 8987,1760,musique,,99
+8987,323,réalisateur,,99
 9037,101908,acteur,Michael,0
 9037,1160,acteur,Stephanie,1
 9037,21063,acteur,Dolores Rebchuck,5
@@ -3381,9 +3381,9 @@ film_id,personne_id,role,alias,ordre
 9061,689,acteur,Laurie Armstrong,3
 9061,1245,acteur,Kate Armstrong,5
 9061,228,acteur,Blair Sullivan,6
+9061,56872,réalisateur,,99
 9061,1213,musique,,99
 9061,65723,roman,,99
-9061,56872,réalisateur,,99
 9064,10207,acteur,Kyle MacRae,4
 9064,19155,musique,,99
 9064,52194,réalisateur,,99
@@ -3399,8 +3399,8 @@ film_id,personne_id,role,alias,ordre
 9080,7908,acteur,Test Monitor,6
 9080,7182,musique,,99
 9080,4610,réalisateur,,99
-9086,110,acteur,John W. Poe,0
 9086,2880,acteur,William H. 'Billy the Kid' Bonney,0
+9086,110,acteur,John W. Poe,0
 9086,2628,acteur,Josiah Gordon 'Doc' Scurlock,1
 9086,38560,acteur,Jose Chavez y Chavez,2
 9086,2224,acteur,Arkansas Dave Rudabaugh,3
@@ -3408,8 +3408,8 @@ film_id,personne_id,role,alias,ordre
 9087,3392,acteur,Andrew Shepherd,0
 9087,516,acteur,Sydney Ellen Wade,1
 9087,521,acteur,Lewis Rothschild,3
-9087,3026,réalisateur,,99
 9087,13520,scénariste,,99
+9087,3026,réalisateur,,99
 9087,9251,musique,,99
 9089,18686,acteur,Claudia Larson,0
 9089,3223,acteur,Tommy Larson,1
@@ -3475,10 +3475,10 @@ film_id,personne_id,role,alias,ordre
 9312,9204,musique,,99
 9315,1038,acteur,Kyle,0
 9315,48,acteur,Captain Rich,6
-9315,57271,scénariste,,99
 9315,57270,réalisateur,,99
 9315,21807,scénariste,,99
 9315,1729,musique,,99
+9315,57271,scénariste,,99
 9317,11187,acteur,Claude Ratinier (Le Glaude),0
 9317,24540,acteur,Francis Chérasse (Le Bombé),1
 9317,35323,acteur,L'Oxien (La Denrée),2
@@ -3503,8 +3503,8 @@ film_id,personne_id,role,alias,ordre
 9331,38568,roman,,99
 9331,1729,musique,,99
 9331,13015,réalisateur,,99
-9340,49944,acteur,Mama Fratelli,0
 9340,1328,acteur,Mikey Walsh,0
+9340,49944,acteur,Mama Fratelli,0
 9340,16851,acteur,Brand Walsh,1
 9340,3034,acteur,"Clark ""Mouth"" Devereaux",3
 9340,690,acteur,Data,6
@@ -3525,8 +3525,8 @@ film_id,personne_id,role,alias,ordre
 9350,16483,acteur,Gabe Walker,0
 9350,14888,acteur,Treasury Agent,0
 9350,12132,acteur,Hal Tucker,2
-9350,7020,musique,,99
 9350,16938,réalisateur,,99
+9350,7020,musique,,99
 9354,8872,acteur,Wayne Szalinski,0
 9354,4945,réalisateur,,99
 9354,1729,musique,,99
@@ -3537,19 +3537,19 @@ film_id,personne_id,role,alias,ordre
 9356,8891,acteur,James Ubriacco,1
 9356,62,voix,Mikey,2
 9356,62,voix,Mikey,2
-9356,62,acteur,Mikey (voice),2
 9356,62,voix,Mikey,2
+9356,62,acteur,Mikey (voice),2
+9356,22675,voix,Eddie,5
+9356,22675,voix,Eddie,5
+9356,22675,voix,Eddie,5
 9356,22675,acteur,Eddie (voice),5
-9356,22675,voix,Eddie,5
-9356,22675,voix,Eddie,5
-9356,22675,voix,Eddie,5
-9356,14639,voix,Mr. Toilet Man,6
 9356,14639,acteur,Mr. Toilet Man (voice),6
+9356,14639,voix,Mr. Toilet Man,6
 9356,13550,acteur,Stuart,8
-9356,25143,musique,,99
-9356,57434,scénariste,,99
-9356,57434,réalisateur,,99
 9356,57359,scénariste,,99
+9356,57434,scénariste,,99
+9356,25143,musique,,99
+9356,57434,réalisateur,,99
 9359,2461,acteur,Bret Maverick,0
 9359,1038,acteur,Annabelle Bransford,1
 9359,6804,acteur,Joseph,3
@@ -3565,17 +3565,17 @@ film_id,personne_id,role,alias,ordre
 9361,57450,roman,,99
 9362,4724,acteur,Valentine McKee,0
 9362,11395,acteur,Walter Chang,5
-9362,37592,musique,,99
 9362,33485,réalisateur,,99
+9362,37592,musique,,99
 9366,85,acteur,Donnie Brasco / Joseph D. 'Joe' Pistone,0
 9366,1158,acteur,Benjamin 'Lefty' Ruggiero,1
 9366,147,acteur,Dominick 'Sonny Black' Napolitano,2
 9366,9257,acteur,Nicholas 'Nicky' Santora,3
 9366,7471,acteur,Dr. Berger,9
+9366,57456,roman,,99
 9366,9152,musique,,99
 9366,10723,réalisateur,,99
 9366,57457,roman,,99
-9366,57456,roman,,99
 9374,62,acteur,Dr. Ernest Menville,1
 9374,5064,acteur,Madeline Ashton Menville,2
 9374,24,réalisateur,,99
@@ -3585,8 +3585,8 @@ film_id,personne_id,role,alias,ordre
 9377,4756,acteur,Ferris Bueller,0
 9377,722,acteur,Jeanie Bueller,4
 9377,6952,acteur,Boy in Police Station,8
-9377,11505,scénariste,,99
 9377,11505,réalisateur,,99
+9377,11505,scénariste,,99
 9378,4252,acteur,Arthur Kriticos,0
 9378,21962,musique,,99
 9378,57521,réalisateur,,99
@@ -3598,8 +3598,8 @@ film_id,personne_id,role,alias,ordre
 9387,1100,acteur,Conan,0
 9387,15152,acteur,Thulsa Doom,1
 9387,2201,acteur,King Osric,2
-9387,7728,musique,,99
 9387,8328,réalisateur,,99
+9387,7728,musique,,99
 9390,500,acteur,Jerry Maguire,0
 9390,9137,acteur,Dorothy Boyd,1
 9390,9777,acteur,Rod Tidwell,2
@@ -3616,16 +3616,16 @@ film_id,personne_id,role,alias,ordre
 9394,18841,acteur,Bambino,1
 9394,56036,musique,,99
 9394,56033,réalisateur,,99
-9395,23880,acteur,Nico,0
 9395,12132,acteur,Man in Bar,0
+9395,23880,acteur,Nico,0
 9395,12989,réalisateur,,0
 9395,2230,acteur,Delores 'Jacks' Jackson,1
 9395,4430,acteur,Sara Toscani,3
 9395,50715,musique,,99
 9396,57147,acteur,Michael J. 'Crocodile' Dundee,0
 9396,57166,acteur,Sue Charlton,1
-9396,3048,musique,,99
 9396,57594,réalisateur,,99
+9396,3048,musique,,99
 9399,16590,acteur,Dock Worker,0
 9399,15111,acteur,Lyon,0
 9399,16590,réalisateur,,0
@@ -3649,9 +3649,9 @@ film_id,personne_id,role,alias,ordre
 9428,1532,acteur,Raleigh St. Clair,8
 9428,7447,acteur,Narrator (voice),13
 9428,5655,réalisateur,,99
+9428,5666,musique,,99
 9428,5655,scénariste,,99
 9428,887,scénariste,,99
-9428,5666,musique,,99
 9446,12898,acteur,Michael Cromwell,0
 9446,10080,acteur,Dr. Patricia Cromwell,2
 9462,19429,acteur,Tang Lung,0
@@ -3684,8 +3684,8 @@ film_id,personne_id,role,alias,ordre
 9482,2201,acteur,Chief Justice Fargo,5
 9482,6720,acteur,Dr. Ilsa Hayden,8
 9482,15152,acteur,Narrator (uncredited),37
-9482,37,musique,,99
 9482,33279,réalisateur,,99
+9482,37,musique,,99
 9489,5344,acteur,Kathleen Kelly,0
 9489,31,acteur,Joe Fox,1
 9489,17141,acteur,Frank Navasky,2
@@ -3707,8 +3707,8 @@ film_id,personne_id,role,alias,ordre
 9494,8891,acteur,James Ubriacco,1
 9494,62,voix,Mikey,2
 9494,62,voix,Mikey,2
-9494,62,acteur,Mikey (voice),2
 9494,62,voix,Mikey,2
+9494,62,acteur,Mikey (voice),2
 9494,18364,acteur,Albert,4
 9494,57434,scénariste,,99
 9494,25143,musique,,99
@@ -3761,9 +3761,9 @@ film_id,personne_id,role,alias,ordre
 9549,5047,acteur,Betty Grissom,7
 9549,2714,acteur,Wally Schirra,11
 9549,4785,acteur,NASA Recruiter,23
+9549,648,réalisateur,,99
 9549,10494,musique,,99
 9549,57949,roman,,99
-9549,648,réalisateur,,99
 9550,1339,acteur,Xiao Mei,2
 9550,607,réalisateur,,99
 9550,12455,musique,,99
@@ -3847,8 +3847,8 @@ film_id,personne_id,role,alias,ordre
 9591,882,acteur,Faye Dolan,2
 9591,18324,acteur,Lenny Haise,4
 9591,6885,acteur,Tina,6
-9593,22675,acteur,Damon Wayans,0
 9593,418,acteur,T-1000,0
+9593,22675,acteur,Damon Wayans,0
 9593,1100,acteur,Jack Slater / Himself,0
 9593,4391,acteur,Benedict,5
 9593,5401,acteur,Tony Vivaldi,9
@@ -3863,10 +3863,10 @@ film_id,personne_id,role,alias,ordre
 9595,6952,acteur,Topper Harley / Rhett Butler / Superman,0
 9595,2130,acteur,Kent Gregory,1
 9595,69718,acteur,Jim 'Wash Out' Pfaffenbach,5
-9595,12991,scénariste,,99
-9595,58120,musique,,99
-9595,12936,réalisateur,,99
 9595,12936,scénariste,,99
+9595,58120,musique,,99
+9595,12991,scénariste,,99
+9595,12936,réalisateur,,99
 9599,2138,acteur,Meg Penny,0
 9599,12407,acteur,Fran Hewitt,4
 9599,52953,musique,,99
@@ -3875,8 +3875,8 @@ film_id,personne_id,role,alias,ordre
 9602,2231,acteur,Hold-Up Man,0
 9602,15152,acteur,King Jaffe Joffer,2
 9602,9777,acteur,Boy Getting Haircut,17
-9602,4610,réalisateur,,99
 9602,4613,musique,,99
+9602,4610,réalisateur,,99
 9603,12900,acteur,Mr. Wendell Hall,0
 9603,57434,réalisateur,,99
 9603,25143,musique,,99
@@ -3933,15 +3933,15 @@ film_id,personne_id,role,alias,ordre
 9651,6450,acteur,Selena,1
 9651,7678,acteur,Ethan,3
 9651,12021,acteur,Alura,4
-9651,16187,réalisateur,,99
 9651,1760,musique,,99
+9651,16187,réalisateur,,99
 9659,2461,acteur,Max,0
 9659,58438,musique,,99
 9659,20629,réalisateur,,99
 9663,1229,acteur,Starman / Scott Hayden,0
 9663,650,acteur,Jenny Hayden,1
-9663,7066,musique,,99
 9663,11770,réalisateur,,99
+9663,7066,musique,,99
 9663,3028,scénariste,,99
 9663,3029,scénariste,,99
 9665,4756,acteur,Col. Robert Gould Shaw,0
@@ -3979,8 +3979,8 @@ film_id,personne_id,role,alias,ordre
 9699,5823,acteur,Charwoman,6
 9702,10182,acteur,Ivan,0
 9702,18792,acteur,Bonafide,5
-9702,10494,musique,,99
 9702,18596,réalisateur,,99
+9702,10494,musique,,99
 9710,47893,réalisateur,,0
 9710,28906,acteur,Allan Quatermain,0
 9710,4430,acteur,Jesse Huston,1
@@ -3989,8 +3989,8 @@ film_id,personne_id,role,alias,ordre
 9717,16897,acteur,Warren Stantin,0
 9717,13022,acteur,Jonathan Knox,1
 9717,6574,acteur,Steve,3
-9717,29056,musique,,99
 9717,1724,réalisateur,,99
+9717,29056,musique,,99
 9739,16483,acteur,John Spartan,0
 9739,10814,acteur,Simon Phoenix,1
 9739,18277,acteur,Lt. Lenina Huxley,2
@@ -3999,9 +3999,9 @@ film_id,personne_id,role,alias,ordre
 9740,4173,acteur,Dr. Hannibal Lecter,0
 9740,1231,acteur,Clarice M. Starling,1
 9740,64,acteur,Mason Verger,2
+9740,578,réalisateur,,99
 9740,16786,roman,,99
 9740,947,musique,,99
-9740,578,réalisateur,,99
 9741,62,acteur,David Dunn,0
 9741,2231,acteur,Elijah Price,1
 9741,32,acteur,Audrey Dunn,2
@@ -4026,8 +4026,8 @@ film_id,personne_id,role,alias,ordre
 9754,6162,acteur,Bill Cox,1
 9754,418,acteur,Gary Mitchell,6
 9754,1903,acteur,Arlin Forester,8
-9754,58904,scénariste,,99
 9754,2949,musique,,99
+9754,58904,scénariste,,99
 9754,33315,réalisateur,,99
 9768,5293,acteur,Hateful Guard at Maryland Training School for Boys,0
 9768,85,acteur,Wade 'Cry-Baby' Walker,0
@@ -4078,24 +4078,24 @@ film_id,personne_id,role,alias,ordre
 9874,16566,réalisateur,,0
 9874,921,acteur,Ingrid,1
 9874,58120,musique,,99
-9876,16483,acteur,"Sgt. Joseph ""Joe"" Andrew Bomowski",0
 9876,10182,acteur,Mr. Stereo,0
+9876,16483,acteur,"Sgt. Joseph ""Joe"" Andrew Bomowski",0
 9876,10080,acteur,Lt. Gwen Harper,2
 9876,1724,réalisateur,,99
 9882,5292,acteur,Anthony 'Hub' Hubbard,0
 9882,516,acteur,Elise Kraft / Sharon Bridger,1
 9882,62,acteur,Major-General William Devereaux,2
 9882,4252,acteur,Agent Frank Haddad,3
-9882,9181,réalisateur,,99
 9882,5912,musique,,99
+9882,9181,réalisateur,,99
 9886,6384,acteur,Johnny Mnemonic,0
 9886,2133,acteur,Jane,1
 9886,3317,acteur,Takahashi,2
 9886,21411,acteur,J-Bone,3
 9886,16644,acteur,Street Preacher,4
+9886,2722,musique,,99
 9886,5359,musique,,99
 9886,59997,réalisateur,,99
-9886,2722,musique,,99
 9922,1269,acteur,The Postman,0
 9922,883,acteur,General Bethlehem,1
 9922,18291,acteur,Ford Lincoln Mercury,2
@@ -4159,8 +4159,8 @@ film_id,personne_id,role,alias,ordre
 10017,1811,acteur,Sheriff Loomis,3
 10017,545,acteur,Billy Hankins,4
 10019,13548,acteur,Mr. Richards,3
-10019,58120,musique,,99
 10019,62043,réalisateur,,99
+10019,58120,musique,,99
 10021,521,acteur,Brantley Foster aka Carlton Whitfield,0
 10021,18378,réalisateur,,99
 10021,37877,scénariste,,99
@@ -4168,33 +4168,33 @@ film_id,personne_id,role,alias,ordre
 10021,57911,musique,,99
 10023,707,acteur,Sgt. Joe Friday,0
 10023,31,acteur,Pep Streebeck,1
-10023,7190,réalisateur,,99
 10023,12939,musique,,99
+10023,7190,réalisateur,,99
 10057,2628,acteur,Athos,1
 10057,17485,acteur,Porthos,2
 10057,6952,acteur,Aramis,3
 10057,13472,acteur,Cardinal Richelieu,4
 10057,28412,acteur,Milady,5
+10057,24840,roman,,99
 10057,7714,musique,,99
 10057,18356,réalisateur,,99
-10057,24840,roman,,99
 10061,6856,acteur,Snake Plissken,0
 10061,825,acteur,Malloy,1
 10061,884,acteur,Eddie,2
 10061,2230,acteur,Hershe Las Palamas,5
 10061,8949,acteur,Pipeline,6
-10061,26981,musique,,99
-10061,11770,musique,,99
 10061,11770,réalisateur,,99
+10061,11770,musique,,99
+10061,26981,musique,,99
 10065,27755,acteur,Kathy Lutz,1
 10065,56734,acteur,Chelsea Lutz,4
 10065,62721,réalisateur,,99
-10065,62719,roman,,99
 10065,18264,musique,,99
+10065,62719,roman,,99
 10068,2295,acteur,John,0
 10068,8875,acteur,Harvey,3
-10068,1330038,roman,,99
 10068,7270,réalisateur,,99
+10068,1330038,roman,,99
 10072,5139,acteur,Freddy Krueger,3
 10072,2975,acteur,Max,9
 10072,5628,musique,,99
@@ -4211,33 +4211,33 @@ film_id,personne_id,role,alias,ordre
 10117,8977,acteur,Peter Dellaplane,1
 10117,4430,acteur,Patrice Dellaplane,3
 10117,1103,acteur,Capt. Earl Armbruster,6
+10117,63709,réalisateur,,99
 10117,7714,musique,,99
 10117,15193,musique,,99
-10117,63709,réalisateur,,99
 10122,5047,acteur,Helen Freeman,2
 10122,520,acteur,Carolyn McAdams,4
 10122,37,musique,,99
 10122,8876,réalisateur,,99
 10127,12852,acteur,Harv,2
-10127,57902,musique,,99
 10127,61824,réalisateur,,99
 10127,61824,scénariste,,99
 10127,28239,scénariste,,99
+10127,57902,musique,,99
 10130,10205,acteur,Dian Fossey,0
 10130,29092,acteur,Bob Campbell,1
 10130,10781,réalisateur,,99
 10130,2704,musique,,99
 10131,5139,acteur,Freddy Krueger,0
-10131,63923,musique,,99
 10131,16938,réalisateur,,99
+10131,63923,musique,,99
 10134,15111,acteur,Gibson Rickenbacker,0
 10134,62272,musique,,99
 10134,63937,réalisateur,,99
 10135,723,acteur,James Dalton,0
 10135,16431,acteur,Wade Garrett,2
 10135,65827,acteur,Ernie Bass,19
-10135,7714,musique,,99
 10135,63943,réalisateur,,99
+10135,7714,musique,,99
 10136,776,acteur,Chandler Jarrell,0
 10136,4391,acteur,Sardo Numspa,1
 10136,42558,acteur,Kee Nang,2
@@ -4273,10 +4273,10 @@ film_id,personne_id,role,alias,ordre
 10153,8246,réalisateur,,99
 10153,4782,roman,,99
 10157,13023,acteur,Kirkland,6
-10157,57328,scénariste,,99
 10157,41720,réalisateur,,99
 10157,43393,musique,,99
 10157,57327,scénariste,,99
+10157,57328,scénariste,,99
 10160,5139,acteur,Freddy Krueger,0
 10160,2042,réalisateur,,99
 10160,24954,musique,,99
@@ -4405,20 +4405,20 @@ film_id,personne_id,role,alias,ordre
 10395,1160,acteur,Laura Alden,1
 10395,13548,acteur,Stewart Swinton,2
 10395,28633,acteur,Detective Carl Bridger,4
-10395,1259,musique,,99
 10395,5342,réalisateur,,99
+10395,1259,musique,,99
 10396,2461,acteur,"Dale ""Mac"" McKussic",0
 10396,1160,acteur,Jo Ann Vallenari,1
 10396,6856,acteur,Lieutenant Nick Frescia,2
 10396,22131,acteur,DEA Agent Hal McGuire,4
-10396,11057,réalisateur,,99
 10396,10771,musique,,99
-10403,504,acteur,Griffin Mill,0
-10403,349,acteur,Scott Glenn,0
+10396,11057,réalisateur,,99
 10403,11150,acteur,Whitney Gersh,0
 10403,38225,acteur,Cher,0
 10403,55271,acteur,Steve James,0
 10403,1733,acteur,Nick Nolte,0
+10403,504,acteur,Griffin Mill,0
+10403,349,acteur,Scott Glenn,0
 10403,2395,acteur,Detective Avery,3
 10403,591,acteur,Joel Levison,5
 10403,7132,acteur,David Kahane,7
@@ -4466,20 +4466,20 @@ film_id,personne_id,role,alias,ordre
 10435,4786,réalisateur,,99
 10439,73931,acteur,Winifred Sanderson,0
 10439,520,acteur,Sarah,1
-10439,4500,musique,,99
 10439,65310,réalisateur,,99
+10439,4500,musique,,99
 10443,1229,acteur,Max Klein,0
 10443,3999,acteur,Brillstein,3
 10443,1241,acteur,Dr. Bill Perlman,4
+10443,2704,musique,,99
 10443,11453,roman,,99
 10443,2690,réalisateur,,99
-10443,2704,musique,,99
 10449,1271,acteur,Michael Green,0
 10449,5344,acteur,Alice Green,1
 10449,1233,acteur,Gary,3
 10449,9560,acteur,Emily,6
-10449,1135,musique,,99
 10449,46085,réalisateur,,99
+10449,1135,musique,,99
 10452,6553,acteur,Margot,0
 10452,6012,acteur,Henri de Navarre,1
 10452,53908,musique,,99
@@ -4508,10 +4508,10 @@ film_id,personne_id,role,alias,ordre
 10486,143491,scénariste,,99
 10488,17140,acteur,Nim Rusoe,0
 10488,1038,acteur,Alexandra Rover,1
-10488,1458871,roman,,99
 10488,66218,réalisateur,,99
 10488,9152,musique,,99
 10488,66219,réalisateur,,99
+10488,1458871,roman,,99
 10489,62001,acteur,Donna Trenton,0
 10489,21819,réalisateur,,99
 10489,13669,musique,,99
@@ -4519,15 +4519,15 @@ film_id,personne_id,role,alias,ordre
 10493,2227,acteur,Rae Ingram,0
 10493,4783,acteur,John Ingram,1
 10493,1954,acteur,Hughie Warriner,2
+10493,5912,musique,,99
 10493,65432,roman,,99
 10493,11452,scénariste,,99
 10493,13015,réalisateur,,99
-10493,5912,musique,,99
 10495,2877,acteur,Daniel LaRusso,0
 10495,23915,acteur,Mr. Miyagi,1
-10495,16513,réalisateur,,99
 10495,10494,musique,,99
 10495,61,scénariste,,99
+10495,16513,réalisateur,,99
 10514,65505,acteur,Dr. Jeremy Stone,0
 10514,4782,roman,,99
 10514,65513,musique,,99
@@ -4635,8 +4635,8 @@ film_id,personne_id,role,alias,ordre
 10640,10401,acteur,Tracy Ballard,1
 10640,65505,acteur,Dr. Duffy,2
 10640,14528,acteur,The Gunslinger,3
-10648,1101,acteur,Demonstrator,0
 10648,190,acteur,Harry Callahan,0
+10648,1101,acteur,Demonstrator,0
 10648,21561,acteur,Phil Sweet,4
 10648,18635,réalisateur,,99
 10648,9217,musique,,99
@@ -4729,14 +4729,14 @@ film_id,personne_id,role,alias,ordre
 10731,883,acteur,Sergeant Hardy,6
 10731,11085,acteur,Clint Von Hooser,7
 10731,22131,acteur,Jason McThune,8
-10731,117,musique,,99
 10731,11060,roman,,99
+10731,117,musique,,99
 10731,5572,réalisateur,,99
 10732,1957,acteur,Eloïse d'Artagnan,0
 10732,24366,acteur,D'Artagnan,1
 10732,38898,acteur,Athos,4
-10732,20075,musique,,99
 10732,20556,réalisateur,,99
+10732,20075,musique,,99
 10734,190,acteur,Frank Morris,0
 10734,2047,acteur,Inmate,0
 10734,14773,réalisateur,,99
@@ -4799,10 +4799,10 @@ film_id,personne_id,role,alias,ordre
 10798,5442,acteur,"Capitaine Antoine ""Walk'n"" Marchelli",0
 10798,24891,acteur,"Capitaine Sébastien ""Fahrenheit"" Vallois",1
 10798,38863,acteur,Capitaine Estelle 'Pitbull' Kass,3
-10798,62461,roman,,99
-10798,24531,roman,,99
-10798,66855,musique,,99
 10798,23945,réalisateur,,99
+10798,24531,roman,,99
+10798,62461,roman,,99
+10798,66855,musique,,99
 10802,11150,acteur,Cristal Connors,1
 10802,10491,réalisateur,,99
 10802,10492,scénariste,,99
@@ -4810,9 +4810,9 @@ film_id,personne_id,role,alias,ordre
 10803,14464,acteur,Jessica,2
 10803,28768,acteur,Holly,4
 10803,14501,acteur,Old Man,6
+10803,1885,roman,,99
 10803,66878,roman,,99
 10803,1760,musique,,99
-10803,1885,roman,,99
 10803,20412,réalisateur,,99
 10806,8945,acteur,Howard Brackett,0
 10806,15112,acteur,"Peter Malloy, le journalistet",2
@@ -4834,21 +4834,21 @@ film_id,personne_id,role,alias,ordre
 10849,20967,musique,,99
 10849,1243,réalisateur,,99
 10854,56734,acteur,Emma Tunny,2
-10854,52371,réalisateur,,99
 10854,52379,musique,,99
+10854,52371,réalisateur,,99
 10859,2880,acteur,Det. Bill Reimers,1
 10859,2178,acteur,Det. Jack Pismo,5
-10859,12845,musique,,99
 10859,12840,réalisateur,,99
+10859,12845,musique,,99
 10860,589,acteur,Annelle Dupuy,3
 10860,1204,acteur,Shelby Eatenton Latcherie,5
 10860,4139,acteur,Drum Eatenton,6
-10860,18378,réalisateur,,99
 10860,3535,musique,,99
+10860,18378,réalisateur,,99
 10868,11084,acteur,Kathryn Murphy,0
 10868,1038,acteur,Sarah Tobias,1
-10868,42171,réalisateur,,99
 10868,2722,musique,,99
+10868,42171,réalisateur,,99
 10890,1532,acteur,John Winger,0
 10890,6065,acteur,Extra at Graduation Ceremony,0
 10890,1524,acteur,Russell Ziskey,1
@@ -4863,14 +4863,14 @@ film_id,personne_id,role,alias,ordre
 10897,58448,réalisateur,,99
 10911,5401,acteur,Col. Andrea Stavros,2
 10911,194,acteur,Squadron Leader Howard Barnsby RAAF,9
-10911,4082,musique,,99
 10911,67450,roman,,99
 10911,18669,réalisateur,,99
+10911,4082,musique,,99
 10915,15140,acteur,Joe Thanks,0
 10915,4274,acteur,Lucy,1
 10915,67455,acteur,Steam Engine Bill,2
-10915,35256,réalisateur,,99
 10915,1259,musique,,99
+10915,35256,réalisateur,,99
 10925,62019,acteur,Burt,0
 10925,67491,musique,,99
 10925,5045,réalisateur,,99
@@ -4912,28 +4912,28 @@ film_id,personne_id,role,alias,ordre
 10998,515,acteur,"Alexandra ""Alex"" Forrest",1
 10998,7270,réalisateur,,99
 10998,2704,musique,,99
-10999,1100,acteur,John Matrix,0
 10999,2053,acteur,Intercept Officer,0
+10999,1100,acteur,John Matrix,0
 10999,1103,acteur,Cooke,7
-10999,67753,réalisateur,,99
 10999,1729,musique,,99
+10999,67753,réalisateur,,99
 11000,2157,acteur,Armand Goldman,0
 11000,78729,acteur,Albert,1
 11000,193,acteur,Senator Kevin Keeley,3
 11002,65,acteur,Capitaine Phillippe D'Arnot,1
 11002,38559,acteur,"John Clayton / Tarzan, Lord of the Apes",3
 11002,1533,acteur,Miss Jane Porter,4
-11002,67756,scénariste,,99
-11002,29056,musique,,99
 11002,15776,roman,,99
-11002,11057,scénariste,,99
+11002,67756,scénariste,,99
 11002,58220,réalisateur,,99
+11002,11057,scénariste,,99
+11002,29056,musique,,99
 11006,16475,acteur,Bo 'Bandit' Darville,0
 11006,67764,acteur,Cledus 'Snowman' Snow,2
 11006,35040,acteur,Little Enos,5
+11006,67764,musique,,99
 11006,67767,réalisateur,,99
 11006,67770,musique,,99
-11006,67764,musique,,99
 11008,22675,acteur,Maj. Benson Payne,0
 11008,11086,acteur,Lt. Col. Stone,3
 11008,14692,réalisateur,,99
@@ -4949,8 +4949,8 @@ film_id,personne_id,role,alias,ordre
 11011,18281,réalisateur,,99
 11018,2295,acteur,Capt. Stanley White,0
 11018,11395,acteur,Harry Yung,8
-11018,12114,réalisateur,,99
 11018,67816,roman,,99
+11018,12114,réalisateur,,99
 11018,7435,musique,,99
 11027,514,acteur,Frank Chambers,0
 11027,591,acteur,Crapshooter,24
@@ -4958,13 +4958,12 @@ film_id,personne_id,role,alias,ordre
 11027,19450,réalisateur,,99
 11027,14971,roman,,99
 11027,6357,musique,,99
-11031,7904,acteur,Morty the Mime,0
 11031,13524,acteur,Nigel Tufnel,0
+11031,7904,acteur,Morty the Mime,0
 11031,21731,acteur,David St. Hubbins,1
 11031,6008,acteur,Derek Smalls,2
 11031,3026,acteur,Marty DiBergi,3
 11031,9257,acteur,Tommy Pischedda,5
-11031,6008,musique,,99
 11031,21731,musique,,99
 11031,13524,scénariste,,99
 11031,3026,scénariste,,99
@@ -4973,6 +4972,7 @@ film_id,personne_id,role,alias,ordre
 11031,3026,réalisateur,,99
 11031,13524,musique,,99
 11031,21731,scénariste,,99
+11031,6008,musique,,99
 11033,3895,acteur,Doctor Robert Elliott,0
 11033,8875,acteur,Dr. Levy,5
 11033,1150,réalisateur,,99
@@ -5038,33 +5038,33 @@ film_id,personne_id,role,alias,ordre
 11082,3416,acteur,Abby Quinn,0
 11082,2712,acteur,Russell Quinn,1
 11082,920,acteur,David Bannon,2
-11082,7066,musique,,99
 11082,68085,réalisateur,,99
 11082,1812185,scénariste,,99
+11082,7066,musique,,99
 11087,18750,acteur,Claire Bartel,0
 11087,28412,acteur,Mrs. Mott / Peyton Flanders,1
 11087,8874,acteur,Solomon,3
 11087,1231,acteur,Marlene Craven,5
-11087,5912,musique,,99
 11087,323,réalisateur,,99
+11087,5912,musique,,99
 11092,3,acteur,Rusty Sabich,0
 11092,6197,acteur,Raymond Horgan,1
 11092,1818,acteur,Judge Larren Lyttle,4
-11092,491,musique,,99
 11092,239583,roman,,99
+11092,491,musique,,99
 11092,6349,réalisateur,,99
 11120,3,acteur,Allie Fox,0
 11120,15735,acteur,Mother Fox,1
 11120,741,acteur,Charlie Fox,2
 11120,109470,acteur,Reverend Spellgood,5
-11120,533190,roman,,99
 11120,2690,réalisateur,,99
+11120,533190,roman,,99
 11120,2704,musique,,99
 11133,8977,acteur,Steve Freeling,0
 11133,10080,acteur,Diane Freeling,1
 11133,10086,acteur,Carol Anne Freeling,2
-11133,1760,musique,,99
 11133,18069,réalisateur,,99
+11133,1760,musique,,99
 11134,18897,acteur,Insp. Chan Ka Kui / Lin Fu Sheng,0
 11134,1620,acteur,Captain Yang Chien-Hua,1
 11134,1338,acteur,May,2
@@ -5093,9 +5093,9 @@ film_id,personne_id,role,alias,ordre
 11177,55271,acteur,Hospital Intern,0
 11177,16431,acteur,Gar,1
 11177,7036,acteur,Rocky Dennis,2
+11177,68462,musique,,99
 11177,32795,scénariste,,99
 11177,39012,réalisateur,,99
-11177,68462,musique,,99
 11183,21177,acteur,"Robert Lespinasse, dit ""Popeye"", le cavaleur",0
 11183,37626,réalisateur,,0
 11183,82793,acteur,"Miguel Weissmuller, animateur du Club",0
@@ -5107,17 +5107,17 @@ film_id,personne_id,role,alias,ordre
 11183,82792,acteur,"Gilbert Selzmann, le représentant en valises",6
 11183,64913,acteur,Gigi,7
 11183,35919,acteur,"Georges Pelletier dit ""Bobo"", animateur du Club",9
-11183,21177,scénariste,,99
 11183,21175,scénariste,,99
 11183,21171,scénariste,,99
 11183,28781,scénariste,,99
 11183,82792,scénariste,,99
 11183,35137,scénariste,,99
-11183,34263,musique,,99
+11183,21177,scénariste,,99
 11183,37626,scénariste,,99
 11183,68485,musique,,99
 11183,1972,scénariste,,99
 11183,64913,scénariste,,99
+11183,34263,musique,,99
 11186,65683,acteur,Andy Barclay,0
 11186,14464,acteur,Joanne Simpson,3
 11186,65678,réalisateur,,99
@@ -5158,8 +5158,8 @@ film_id,personne_id,role,alias,ordre
 11249,14138,musique,,99
 11259,500,acteur,Joseph Donnelly,0
 11259,2227,acteur,Shannon Christie,1
-11259,491,musique,,99
 11259,6159,réalisateur,,99
+11259,491,musique,,99
 11281,8944,acteur,Laurie Strode,0
 11281,15445,musique,,99
 11281,33341,réalisateur,,99
@@ -5167,8 +5167,8 @@ film_id,personne_id,role,alias,ordre
 11284,5139,acteur,Freddy Krueger,0
 11284,85,acteur,Guy on TV,0
 11284,5050,acteur,Doc,4
-11284,56891,réalisateur,,99
 11284,58438,musique,,99
+11284,56891,réalisateur,,99
 11286,16475,acteur,J.J. McClure,0
 11286,10222,acteur,Seymour,1
 11286,28768,acteur,Pamela Glover,2
@@ -5176,15 +5176,15 @@ film_id,personne_id,role,alias,ordre
 11286,18897,acteur,Subaru Driver #1,9
 11286,67767,réalisateur,,99
 11286,1068923,musique,,99
-11287,11064,acteur,Ira Lowenstein,0
 11287,31,acteur,Jimmy Dugan,0
+11287,11064,acteur,Ira Lowenstein,0
 11287,16935,acteur,Dottie Hinson (C),1
 11287,3125,acteur,Mae Mordabito (CF),2
 11287,15309,acteur,Kit Keller (P),3
-11287,947,musique,,99
-11287,14911,réalisateur,,99
-11287,2687159,scénariste,,99
 11287,2687160,scénariste,,99
+11287,14911,réalisateur,,99
+11287,947,musique,,99
+11287,2687159,scénariste,,99
 11296,8654,acteur,Birdy,0
 11296,2963,acteur,Sergeant Al Columbato,1
 11296,9257,acteur,Renaldi,5
@@ -5204,8 +5204,8 @@ film_id,personne_id,role,alias,ordre
 11300,68929,musique,,99
 11300,7491,musique,,99
 11305,884,acteur,Charlie,8
-11305,6394,musique,,99
 11305,4429,réalisateur,,99
+11305,6394,musique,,99
 11308,1038,acteur,Franny,1
 11308,13922,acteur,Egg,6
 11308,12900,acteur,Freud,9
@@ -5224,14 +5224,14 @@ film_id,personne_id,role,alias,ordre
 11317,34611,réalisateur,,99
 11318,15735,acteur,Queen Charlotte,1
 11318,65,acteur,Willis,2
-11318,1528,musique,,99
 11318,55476,réalisateur,,99
+11318,1528,musique,,99
 11324,2282,acteur,Dr. Cawley,2
 11324,2201,acteur,Dr. Naehring,3
 11324,1276,acteur,Rachel 2,6
 11324,17183,acteur,George Noyce,7
-11324,1032,réalisateur,,99
 11324,4722,roman,,99
+11324,1032,réalisateur,,99
 11327,1811,acteur,Jimmy Booth,5
 11327,5049,acteur,Max,7
 11327,1154,musique,,99
@@ -5255,9 +5255,9 @@ film_id,personne_id,role,alias,ordre
 11338,4610,réalisateur,,99
 11338,12939,musique,,99
 11347,3291,acteur,Lord James D'Ampton,1
-11347,69101,musique,,99
-11347,1544,roman,,99
 11347,32327,réalisateur,,99
+11347,1544,roman,,99
+11347,69101,musique,,99
 11352,18686,acteur,Dorinda Durston,1
 11352,1230,acteur,Al Yackey,2
 11352,65827,acteur,Powerhouse,7
@@ -5270,9 +5270,9 @@ film_id,personne_id,role,alias,ordre
 11364,15344,scénariste,,99
 11368,3910,acteur,Abby,1
 11368,588,acteur,Loren Visser,4
+11368,1225,musique,,99
 11368,1224,scénariste,,99
 11368,1223,scénariste,,99
-11368,1225,musique,,99
 11368,1223,réalisateur,,99
 11368,1224,réalisateur,,99
 11372,3895,acteur,Col. Kurt Steiner,0
@@ -5293,26 +5293,26 @@ film_id,personne_id,role,alias,ordre
 11381,6197,acteur,Thomas 'Big Tom' Callahan,2
 11381,707,acteur,Ray Zalinsky,4
 11381,7471,acteur,Ted Reilly,7
-11381,13426,réalisateur,,99
 11381,56157,scénariste,,99
+11381,13426,réalisateur,,99
 11393,4135,acteur,Roy Hobbs,0
 11393,3087,acteur,Max Mercy,1
 11393,515,acteur,Iris Gaines,2
 11393,11065,acteur,Pop Fisher,4
 11393,147,acteur,Bump Bailey,10
-11393,69202,roman,,99
 11393,8246,réalisateur,,99
 11393,7885,musique,,99
+11393,69202,roman,,99
 11400,69225,acteur,Pocahontas,1
 11400,3894,acteur,John Rolfe,3
 11411,20011,acteur,Lois Lane,1
 11411,193,acteur,Lex Luthor,2
 11411,69718,acteur,Lenny,6
-11411,64508,réalisateur,,99
 11411,1761,musique,,99
+11411,64508,réalisateur,,99
 11415,45415,acteur,Roger Cobb,0
-11415,58712,réalisateur,,99
 11415,20953,musique,,99
+11415,58712,réalisateur,,99
 11416,380,acteur,Rodrigo Mendoza,0
 11416,3896,acteur,Father John Fielding,4
 11416,8965,réalisateur,,99
@@ -5361,23 +5361,23 @@ film_id,personne_id,role,alias,ordre
 11479,69545,musique,,99
 11479,69546,musique,,99
 11479,69544,musique,,99
-11482,21175,acteur,Scope's Neighbor,0
 11482,3556,acteur,Trelkovsky,0
+11482,21175,acteur,Scope's Neighbor,0
 11482,6553,acteur,Stella,1
 11482,24422,acteur,Scope,3
 11482,21171,acteur,Office Clerk,5
 11482,35137,acteur,Office Worker,6
-11482,3556,réalisateur,,99
 11482,20075,musique,,99
+11482,3556,réalisateur,,99
 11482,49505,roman,,99
 11484,3085,acteur,Jonathan E.,0
 11484,5805,musique,,99
 11484,13563,réalisateur,,99
 11495,69597,acteur,Charlene 'Charlie' McGee,0
 11495,18181,acteur,Andrew 'Andy' McGee,1
+11495,69600,musique,,99
 11495,47927,musique,,99
 11495,3027,roman,,99
-11495,69600,musique,,99
 11495,69601,musique,,99
 11495,67753,réalisateur,,99
 11498,11181,acteur,Roman Strauss / Mike Church,0
@@ -5403,8 +5403,8 @@ film_id,personne_id,role,alias,ordre
 11509,2165,acteur,Hannah,5
 11509,8930,acteur,Sheriff John T. Langston,6
 11509,4785,acteur,Slick,8
-11509,8844,réalisateur,,99
 11509,20897,musique,,99
+11509,8844,réalisateur,,99
 11510,7633,acteur,Father Jebedaiah Mayii,2
 11510,50239,musique,,99
 11510,69667,réalisateur,,99
@@ -5412,11 +5412,11 @@ film_id,personne_id,role,alias,ordre
 11519,113,acteur,Capt. Wolfgang von Kleinschmidt,5
 11519,21561,acteur,Capt. Loomis Birkhead,6
 11519,2295,acteur,Reese,67
-11519,488,réalisateur,,99
 11519,491,musique,,99
+11519,488,réalisateur,,99
 11521,1038,acteur,Dede Tate,0
-11521,4140,musique,,99
 11521,1038,réalisateur,,99
+11521,4140,musique,,99
 11522,21625,acteur,Andie Walsh,0
 11522,11150,acteur,"Trombley, Girl Friend/Gym Class",0
 11522,5048,acteur,Jack Walsh,1
@@ -5438,8 +5438,8 @@ film_id,personne_id,role,alias,ordre
 11527,7020,musique,,99
 11528,15152,acteur,Mr. Mertle,7
 11528,650,acteur,Mom,9
-11528,69741,scénariste,,99
 11528,69743,scénariste,,99
+11528,69741,scénariste,,99
 11528,69741,réalisateur,,99
 11530,11187,acteur,Guillaume Daubray-Lacaze,0
 11530,6014,acteur,Bernadette Daubray-Lacaze,1
@@ -5448,8 +5448,8 @@ film_id,personne_id,role,alias,ordre
 11530,28189,acteur,Le camionneur,7
 11530,11216,acteur,Dr. Landry,10
 11530,25958,acteur,Le concierge de l'hôtel,20
-11530,1965,musique,,99
 11530,11201,réalisateur,,99
+11530,1965,musique,,99
 11532,69751,acteur,Tomme,1
 11532,19665,réalisateur,,99
 11532,69756,musique,,99
@@ -5538,16 +5538,16 @@ film_id,personne_id,role,alias,ordre
 11591,58230,scénariste,,99
 11591,67773,scénariste,,99
 11592,3391,acteur,Beverly Sutphin,0
-11592,10367,réalisateur,,99
 11592,7728,musique,,99
 11592,10367,scénariste,,99
+11592,10367,réalisateur,,99
 11593,3636,acteur,Sully Sullivan,0
 11593,62,acteur,Carl Roebuck,1
 11593,29369,acteur,Toby Roebuck,2
 11593,69300,acteur,Wirf Wirfley,6
 11593,1233,acteur,Officer Raymer,8
-11593,6729,réalisateur,,99
 11593,117,musique,,99
+11593,6729,réalisateur,,99
 11593,56566,roman,,99
 11595,776,acteur,Reggie Hammond,0
 11595,1733,acteur,Jack Cates,1
@@ -5578,13 +5578,13 @@ film_id,personne_id,role,alias,ordre
 11626,70066,acteur,Pippi Långstrump,0
 11626,70067,acteur,Annika Settergren,1
 11626,70068,acteur,Tommy Settergren,2
+11626,55006,réalisateur,,99
 11626,70062,musique,,99
 11626,3850,roman,,99
-11626,55006,réalisateur,,99
 11630,15112,acteur,Peter Mitchell,0
 11630,21217,acteur,Vicar Hewitt,8
-11630,1213,musique,,99
 11630,716,réalisateur,,99
+11630,1213,musique,,99
 11634,70092,acteur,Elin,0
 11634,70094,acteur,Johan,3
 11634,11037,réalisateur,,99
@@ -5606,9 +5606,9 @@ film_id,personne_id,role,alias,ordre
 11654,66806,roman,,99
 11657,15135,acteur,Corey,0
 11657,2565,acteur,Jansen,3
-11657,3831,scénariste,,99
 11657,3831,réalisateur,,99
 11657,39338,musique,,99
+11657,3831,scénariste,,99
 11667,15111,acteur,Colonel William Guile,0
 11667,1726,réalisateur,,99
 11673,16927,acteur,Cyrano de Bergerac,0
@@ -5743,9 +5743,9 @@ film_id,personne_id,role,alias,ordre
 11861,10774,acteur,Glady Joe Cleary,1
 11861,9560,acteur,Hy Dodd,2
 11861,689,acteur,Sally,9
-11861,3047,réalisateur,,99
-11861,1788045,roman,,99
 11861,153,musique,,99
+11861,1788045,roman,,99
+11861,3047,réalisateur,,99
 11862,67773,acteur,George Banks,0
 11862,3092,acteur,Nina Banks,1
 11862,56106,réalisateur,,99
@@ -5775,12 +5775,12 @@ film_id,personne_id,role,alias,ordre
 11879,2714,acteur,Jesse Hooker,2
 11879,2053,acteur,Severen,3
 11879,3981,acteur,Diamondback,4
+11879,69600,musique,,99
 11879,14392,réalisateur,,99
 11879,47927,musique,,99
 11879,2214,musique,,99
-11879,69600,musique,,99
-11890,7676,acteur,Overton,0
 11890,16483,acteur,Angelo « Snapst » Provolone,0
+11890,7676,acteur,Overton,0
 11890,27163,acteur,Sofia Provolone,3
 11890,13472,acteur,Dr. Thornton Poole,4
 11890,6008,acteur,Guido Finucci,8
@@ -5792,19 +5792,19 @@ film_id,personne_id,role,alias,ordre
 11893,28412,acteur,Sara,2
 11893,7020,musique,,99
 11893,58728,réalisateur,,99
-11896,518,acteur,Owen,0
 11896,518,réalisateur,,0
+11896,518,acteur,Owen,0
 11896,7904,acteur,Larry Donner,1
 11896,49944,acteur,Momma,3
 11896,3026,acteur,Joel,6
-11899,55983,acteur,Kermit the Frog / Rowlf / Dr. Teeth / Waldorf / Swedish Chef / Ernie / Granny / Horse & Carriage Rider / Link Hogthrob / The Newsman (voice),0
 11899,15110,acteur,Customer in Pete's,0
+11899,55983,acteur,Kermit the Frog / Rowlf / Dr. Teeth / Waldorf / Swedish Chef / Ernie / Granny / Horse & Carriage Rider / Link Hogthrob / The Newsman (voice),0
 11899,7908,acteur,Miss Piggy / Fozzie / Animal / Bert / Cookie Monster / Ocean Breeze Soap Board Member / Sam the Eagle (voice),1
 11899,69343,musique,,99
 11899,7908,réalisateur,,99
 11904,31921,acteur,Elizabeth Hardy,2
-11904,20897,musique,,99
 11904,8246,réalisateur,,99
+11904,20897,musique,,99
 11913,11187,acteur,Maréchal des logis-chef Ludovic Cruchot,0
 11913,37457,acteur,Lucien Fougasse,1
 11913,39143,acteur,Gaston Tricard,2
@@ -5880,8 +5880,8 @@ film_id,personne_id,role,alias,ordre
 11967,2628,acteur,Doc Scurlock,1
 11967,38560,acteur,Chavez y Chavez,2
 11967,6952,acteur,Dick Brewer,3
-11967,56828,réalisateur,,99
 11967,20801,scénariste,,99
+11967,56828,réalisateur,,99
 11967,28155,musique,,99
 11967,53558,musique,,99
 11969,16566,réalisateur,,0
@@ -5900,8 +5900,8 @@ film_id,personne_id,role,alias,ordre
 11971,5292,acteur,Don Pedro of Aragon,4
 11971,6384,acteur,Don John,7
 11971,2232,acteur,Dogberry,8
-11971,11181,scénariste,,99
 11971,11181,réalisateur,,99
+11971,11181,scénariste,,99
 11972,69958,acteur,Don Camillo Tarocci,0
 11972,39058,réalisateur,,99
 11972,12331,musique,,99
@@ -5919,11 +5919,11 @@ film_id,personne_id,role,alias,ordre
 11976,1760,musique,,99
 11977,3198,acteur,Al Czervik,1
 11977,1532,acteur,Carl Spackler,3
+11977,1524,réalisateur,,99
 11977,55199,scénariste,,99
 11977,1535,scénariste,,99
 11977,9796,musique,,99
 11977,1524,scénariste,,99
-11977,1524,réalisateur,,99
 11979,21352,acteur,Akasha,1
 11979,9018,roman,,99
 11979,28741,réalisateur,,99
@@ -5936,10 +5936,10 @@ film_id,personne_id,role,alias,ordre
 11982,3092,acteur,Daphne (voice),2
 11982,518,acteur,Rocks (voice),3
 11982,18364,acteur,Albert,9
-11982,11708,scénariste,,99
-11982,19305,réalisateur,,99
-11982,11166,musique,,99
 11982,19305,scénariste,,99
+11982,19305,réalisateur,,99
+11982,11708,scénariste,,99
+11982,11166,musique,,99
 12088,38559,acteur,John Henry Brennick,0
 12088,27991,réalisateur,,99
 12089,24540,acteur,"Maurice Lefebvre, Perrin's best friend",0
@@ -6002,8 +6002,8 @@ film_id,personne_id,role,alias,ordre
 12139,1062,acteur,Switchblade Sam,3
 12139,1063,acteur,Alice Mitchell,4
 12139,1818,acteur,Chief of Police,8
-12139,1760,musique,,99
 12139,71428,roman,,99
+12139,1760,musique,,99
 12139,14692,réalisateur,,99
 12150,1158,acteur,Frank Keller,0
 12150,1230,acteur,Sherman,2
@@ -6063,11 +6063,11 @@ film_id,personne_id,role,alias,ordre
 12235,2714,acteur,Frank Martin,3
 12235,2289,musique,,99
 12235,19800,réalisateur,,99
-12236,33322,acteur,Lea,0
 12236,15110,acteur,Stewardess,0
+12236,33322,acteur,Lea,0
 12236,21561,acteur,Jack,5
-12236,65688,réalisateur,,99
 12236,72141,musique,,99
+12236,65688,réalisateur,,99
 12245,109,acteur,Martin,0
 12245,5049,acteur,Arthur Seldom,1
 12245,2413,acteur,Frank,7
@@ -6081,18 +6081,18 @@ film_id,personne_id,role,alias,ordre
 12262,73783,musique,,99
 12262,5140,réalisateur,,99
 12268,12446,acteur,Chief Inspector Clouseau,0
-12309,21259,acteur,Ryko,0
 12309,31,acteur,Rick Gassko,0
-12309,43393,musique,,99
+12309,21259,acteur,Ryko,0
 12309,57359,réalisateur,,99
+12309,43393,musique,,99
 12310,28906,acteur,Aramis,2
 12310,6450,acteur,Milady de Winter,4
 12310,113,acteur,Rochefort,5
 12310,21462,acteur,Constance de Bonancieux,6
 12310,400,acteur,Queen Anne of Austria,7
 12310,10017,acteur,Cardinal Richelieu,8
-12310,24840,roman,,99
 12310,10586,réalisateur,,99
+12310,24840,roman,,99
 12310,9217,musique,,99
 12395,5576,acteur,Ray Levoi,0
 12395,6804,acteur,Walter Crow Horse,2
@@ -6149,9 +6149,9 @@ film_id,personne_id,role,alias,ordre
 12503,1724,réalisateur,,99
 12506,8945,acteur,Donald Woods,0
 12506,5292,acteur,Steve Biko,1
+12506,72564,roman,,99
 12506,1528,musique,,99
 12506,4786,réalisateur,,99
-12506,72564,roman,,99
 12506,72565,musique,,99
 12537,5064,acteur,Sarah / Anna,0
 12537,72709,réalisateur,,99
@@ -6197,13 +6197,13 @@ film_id,personne_id,role,alias,ordre
 12663,16644,acteur,Lt. Nikolai Rachenko,0
 12663,588,acteur,Dewey Ferguson,1
 12663,591,acteur,Krasnov,6
-12663,73345,musique,,99
 12663,64195,réalisateur,,99
+12663,73345,musique,,99
 12665,2453,acteur,Jessie Caldwell,0
 12665,2714,acteur,Sheriff Doug Barnum,2
 12665,4785,acteur,Donald Ripley,3
-12665,1760,musique,,99
 12665,56349,réalisateur,,99
+12665,1760,musique,,99
 12704,6449,acteur,Lyle Rogers,0
 12704,4483,acteur,Chuck Clarke,1
 12704,6553,acteur,Shirra Assel,2
@@ -6303,14 +6303,14 @@ film_id,personne_id,role,alias,ordre
 13189,1020428,musique,,99
 13192,6574,acteur,Police Officer,0
 13192,4517,acteur,Mr. Big,1
-13192,13493,réalisateur,,99
 13192,20897,musique,,99
 13192,238647,réalisateur,,99
 13192,60220,réalisateur,,99
+13192,13493,réalisateur,,99
 13310,74382,acteur,Oskar,0
 13310,74383,acteur,Eli,1
-13310,74397,scénariste,,99
 13310,74397,roman,,99
+13310,74397,scénariste,,99
 13310,74396,réalisateur,,99
 13319,82324,acteur,Annika,0
 13319,82326,acteur,Saga,2
@@ -6339,8 +6339,8 @@ film_id,personne_id,role,alias,ordre
 13595,884,acteur,Rex,1
 13595,3266,acteur,Ian,3
 13595,21731,acteur,Milo Jackson,7
-13595,7145,réalisateur,,99
 13595,53345,scénariste,,99
+13595,7145,réalisateur,,99
 13597,11184,acteur,Goblin Corps,0
 13597,7487,acteur,Jareth,0
 13597,6161,acteur,Sarah,1
@@ -6356,37 +6356,37 @@ film_id,personne_id,role,alias,ordre
 13681,6949,acteur,Mr. Will,2
 13681,2047,acteur,Moze,3
 13681,228,acteur,Wayne Lomax,4
-13681,6729,réalisateur,,99
 13681,66780,musique,,99
+13681,6729,réalisateur,,99
 13681,6729,scénariste,,99
 13704,3034,acteur,Dean,1
 13704,10556,acteur,Mrs. Anderson,2
 13704,29706,acteur,The Professor,6
+13704,254757,scénariste,,99
 13704,17309,réalisateur,,99
 13704,24954,musique,,99
-13704,254757,scénariste,,99
 13727,24893,acteur,Didier Travolta,0
 13727,16927,acteur,Jean-François Jackson,2
 13727,49025,acteur,Walter,3
-13727,10934,musique,,99
 13727,74114,scénariste,,99
 13727,74113,scénariste,,99
-13727,74112,scénariste,,99
+13727,10934,musique,,99
 13727,24893,scénariste,,99
 13727,74112,réalisateur,,99
+13727,74112,scénariste,,99
 13766,689,acteur,Andie,0
 13766,1063,acteur,Kathryn,1
 13766,11164,acteur,Tish,2
 13766,73421,acteur,Max,4
 13766,4139,acteur,Zack,6
-13766,491,musique,,99
 13766,92554,réalisateur,,99
+13766,491,musique,,99
 13776,2295,acteur,Robert 'Boogie' Sheftell,2
 13776,4724,acteur,Timothy Fenwick Jr.,3
 13776,781,acteur,Modell,6
-13776,8246,réalisateur,,99
 13776,1419789,musique,,99
 13776,75227,musique,,99
+13776,8246,réalisateur,,99
 13783,29092,acteur,Lt. Peter Handcock,3
 13783,75459,musique,,99
 13783,5696,réalisateur,,99
@@ -6460,8 +6460,8 @@ film_id,personne_id,role,alias,ordre
 14373,197925,scénariste,,99
 14412,3391,acteur,Matty Walker,1
 14412,2295,acteur,Teddy Lewis,5
-14412,8844,réalisateur,,99
 14412,8844,scénariste,,99
+14412,8844,réalisateur,,99
 14425,60950,acteur,Rand McPherson,2
 14425,15277,acteur,Gutter,5
 14425,92704,musique,,99
@@ -6501,10 +6501,8 @@ film_id,personne_id,role,alias,ordre
 14645,82792,acteur,"Zadko Preskovitch dit « Presko », le voisin Yougoslave",6
 14645,82793,acteur,Monsieur Leblé,7
 14645,34584,acteur,Le pharmacien,8
-14645,21175,acteur,L'obsédé sexuel au téléphone (voix),9
 14645,21175,voix,L'obsédé sexuel au téléphone,9
-14645,64913,scénariste,,99
-14645,64909,scénariste,,99
+14645,21175,acteur,L'obsédé sexuel au téléphone (voix),9
 14645,35137,scénariste,,99
 14645,28781,scénariste,,99
 14645,21171,scénariste,,99
@@ -6512,23 +6510,25 @@ film_id,personne_id,role,alias,ordre
 14645,1965,musique,,99
 14645,21177,scénariste,,99
 14645,82792,scénariste,,99
+14645,64913,scénariste,,99
+14645,64909,scénariste,,99
 14728,13526,acteur,Flynn Carson,0
 14728,34408,acteur,Simone Renoir,1
 14728,174256,acteur,Sergei Kubichek,5
 14742,2232,acteur,Bill Blazejowski,1
 14742,1269,acteur,Frat Boy #1,29
-14742,27519,scénariste,,99
 14742,27518,scénariste,,99
+14742,27519,scénariste,,99
 14742,6159,réalisateur,,99
 14742,9580,musique,,99
 14746,2882,acteur,Ellen Aim,1
 14746,8872,acteur,Billy Fish,2
 14746,5293,acteur,Raven Shaddock,4
 14746,2053,acteur,Clyde the Bartender,5
-14746,1723,réalisateur,,99
-14746,6918,musique,,99
 14746,1725,scénariste,,99
 14746,1723,scénariste,,99
+14746,6918,musique,,99
+14746,1723,réalisateur,,99
 14807,15735,acteur,Victoria,1
 14807,517,acteur,1st Irishman,17
 14807,145046,scénariste,,99
@@ -6558,14 +6558,14 @@ film_id,personne_id,role,alias,ordre
 15120,33880,réalisateur,,99
 15120,1305806,musique,,99
 15138,11805,acteur,Boy,8
+15138,1680227,réalisateur,,99
 15138,1706,scénariste,,99
 15138,1705,scénariste,,99
-15138,1680227,réalisateur,,99
 15144,21625,acteur,Samantha Baker,0
 15144,1904,acteur,Geek (Ted),4
-15144,12939,musique,,99
 15144,11505,scénariste,,99
 15144,11505,réalisateur,,99
+15144,12939,musique,,99
 15152,56024,acteur,"Hubert Bonisseur de La Bath, alias OSS 117",0
 15152,19116,acteur,La princesse Al Tarouk,2
 15152,25083,acteur,Le ministre égyptien,5
@@ -6647,30 +6647,30 @@ film_id,personne_id,role,alias,ordre
 15983,51576,acteur,Matt Hunter,0
 15983,73345,musique,,99
 16082,15735,acteur,Galina Ivanova,3
-16082,18596,réalisateur,,99
 16082,35838,musique,,99
+16082,18596,réalisateur,,99
 16084,1038,acteur,Annabel Andrews,0
 16084,9796,musique,,99
 16084,47893,réalisateur,,99
-16113,55271,acteur,Bobby,0
 16113,33008,réalisateur,,0
+16113,55271,acteur,Bobby,0
 16113,51576,acteur,Scott,0
 16113,51576,acteur,Major Scott McCoy,0
 16113,37,musique,,99
 16121,2,acteur,Griff,1
 16121,35608,acteur,Broban,9
 16121,25181,acteur,Madame Marbaise,17
+16121,96286,musique,,99
 16121,26959,scénariste,,99
 16121,26959,réalisateur,,99
-16121,96286,musique,,99
 16153,9560,acteur,Alice Hyatt,0
 16153,1038,acteur,Audrey,7
 16153,1032,réalisateur,,99
 16153,19475,musique,,99
 16235,4521,acteur,Anthony Montelli,1
-16235,35256,réalisateur,,99
 16235,44957,scénariste,,99
 16235,9217,musique,,99
+16235,35256,réalisateur,,99
 16248,29508,acteur,Daryl,0
 16248,21731,acteur,Andy Richardson,2
 16248,13023,acteur,Elaine Fox,4
@@ -6694,12 +6694,12 @@ film_id,personne_id,role,alias,ordre
 16281,7633,acteur,"Richard Vickers (segment ""Something To Tide You Over"")",3
 16281,228,acteur,"Hank Blaine (segment ""Father's Day"")",7
 16281,3027,acteur,"Jordy Verrill (segment ""The Lonesome Death Of Jordy Verrill"")",9
-16281,13367,musique,,99
 16281,14999,réalisateur,,99
+16281,13367,musique,,99
 16288,3027,acteur,Truck Driver,8
 16288,7497,acteur,Sam Whitemoon,9
-16288,1144920,musique,,99
 16288,15056,réalisateur,,99
+16288,1144920,musique,,99
 16297,4517,acteur,Simon Wilder,0
 16297,18352,acteur,Everett Calloway,3
 16297,11626,acteur,Prof. Pitkannan,5
@@ -6714,8 +6714,8 @@ film_id,personne_id,role,alias,ordre
 16363,4967,réalisateur,,99
 16638,10017,acteur,El Cid,0
 16638,16757,acteur,Jimena,1
-16638,7647,musique,,99
 16638,40199,réalisateur,,99
+16638,7647,musique,,99
 16642,1205,acteur,Bill,0
 16642,1259,musique,,99
 16642,30715,scénariste,,99
@@ -6727,18 +6727,18 @@ film_id,personne_id,role,alias,ordre
 16780,9137,acteur,Jenny,0
 16780,10297,acteur,Vilmer,1
 16780,934061,acteur,Leatherface,2
+16780,75406,musique,,99
 16780,27797,scénariste,,99
 16780,27797,réalisateur,,99
 16780,934061,musique,,99
-16780,75406,musique,,99
 16814,56819,acteur,Emory Leeson,0
 16814,589,acteur,Kathy Burgess,1
 16814,781,acteur,Stephen Bachman,2
 16814,22131,acteur,Drucker,3
+16814,11956,scénariste,,99
 16814,2120,musique,,99
 16814,581169,réalisateur,,99
 16814,57138,réalisateur,,99
-16814,11956,scénariste,,99
 16820,29092,acteur,Roland 'Rollie' Tyler,0
 16820,6197,acteur,Leo McCarthy,1
 16820,29471,réalisateur,,99
@@ -6818,27 +6818,27 @@ film_id,personne_id,role,alias,ordre
 17529,4165,acteur,"Reuben J. ""Rooster"" Cogburn",1
 17529,3087,acteur,Ned Pepper,4
 17529,2778,acteur,"""Moon""",5
-17529,562919,roman,,99
 17529,37360,réalisateur,,99
+17529,562919,roman,,99
 17529,7182,musique,,99
 17538,4165,acteur,"Reuben J. ""Rooster"" Cogburn",0
 17538,6598,acteur,Eula,1
-17538,13779,réalisateur,,99
 17538,52025,musique,,99
 17538,16759,scénariste,,99
+17538,13779,réalisateur,,99
 17692,8558,réalisateur,,0
 17692,6065,acteur,Michael 'Mike' Brody,0
 17692,20959,acteur,Calvin Bouchard,3
 17692,1063,acteur,Kelly Ann Bukowski,5
 17692,8554,roman,,99
-17796,18355,acteur,Ricky Coogan,0
 17796,15110,acteur,Skye Daley,0
+17796,18355,acteur,Ricky Coogan,0
 17796,1811,acteur,Elijah C. Skuggs,1
 17796,6384,acteur,Ortiz the Dog Boy,4
 17796,16619,acteur,The Bearded Lady,5
+17796,568711,scénariste,,99
 17796,568711,réalisateur,,99
 17796,18355,scénariste,,99
-17796,568711,scénariste,,99
 17796,18355,réalisateur,,99
 17796,165655,scénariste,,99
 17796,51588,musique,,99
@@ -6885,9 +6885,9 @@ film_id,personne_id,role,alias,ordre
 18196,19244,scénariste,,99
 18197,741,acteur,Danny Pope,1
 18197,8875,acteur,Dr. Jonah Reiff,9
-18197,232340,musique,,99
 18197,39996,réalisateur,,99
 18197,100388,scénariste,,99
+18197,232340,musique,,99
 18209,56819,acteur,Stanley Moon,1
 18209,21462,acteur,Lilian Lust,3
 18209,56819,musique,,99
@@ -6947,23 +6947,23 @@ film_id,personne_id,role,alias,ordre
 18419,47337,acteur,Oscar Marbello,3
 18419,13689,acteur,Angelo,4
 18419,83156,acteur,Michael Sylvain,6
-18419,74113,scénariste,,99
-18419,74112,réalisateur,,99
 18419,83156,musique,,99
+18419,74112,réalisateur,,99
+18419,74113,scénariste,,99
 18457,70165,acteur,Gérard Moltès,1
 18457,24895,acteur,"Mustapha Amel, aka ""The Turk""",2
 18457,35899,acteur,Saddam,5
 18457,47337,acteur,Kowalski,7
 18457,83156,acteur,Malian guy,8
-18457,3057164,musique,,99
 18457,44554,réalisateur,,99
 18457,24886,réalisateur,,99
 18457,20674,scénariste,,99
 18457,62462,scénariste,,99
-18457,2322055,musique,,99
+18457,3057164,musique,,99
 18457,142989,scénariste,,99
 18457,3057138,scénariste,,99
 18457,62465,scénariste,,99
+18457,2322055,musique,,99
 18477,7073,acteur,Pluto,0
 18477,99062,acteur,Rachel / Ruby,3
 18477,1029004,acteur,Jane,5
@@ -7003,9 +7003,9 @@ film_id,personne_id,role,alias,ordre
 19114,15110,acteur,Jade,0
 19114,13548,acteur,Keith,6
 19114,500,acteur,Billy,17
+19114,60790,musique,,99
 19114,938124,roman,,99
 19114,24657,réalisateur,,99
-19114,60790,musique,,99
 19123,24501,acteur,François Perrin,0
 19123,16927,acteur,Campana,1
 19123,19647,acteur,Technician,9
@@ -7025,9 +7025,9 @@ film_id,personne_id,role,alias,ordre
 19286,84981,réalisateur,,99
 19286,86926,scénariste,,99
 19287,11184,acteur,Leprechaun,0
-19287,92275,musique,,99
 19287,84981,réalisateur,,99
 19287,86927,scénariste,,99
+19287,92275,musique,,99
 19288,11184,acteur,Leprechaun,0
 19288,84983,réalisateur,,99
 19288,563074,musique,,99
@@ -7069,14 +7069,14 @@ film_id,personne_id,role,alias,ordre
 19855,153,musique,,99
 19971,1038,acteur,Rynn Jacobs,0
 19971,125649,acteur,Officer Ron Miglioriti,3
-19971,30724,roman,,99
-19971,29494,réalisateur,,99
 19971,70813,musique,,99
+19971,29494,réalisateur,,99
+19971,30724,roman,,99
 20220,21171,acteur,Jimmy Genious,1
 20220,21177,acteur,The King,2
+20220,34613,scénariste,,99
 20220,37761,scénariste,,99
 20220,34613,réalisateur,,99
-20220,34613,scénariste,,99
 20220,5488,musique,,99
 20242,73931,acteur,Sandy Brozinsky,1
 20242,37,musique,,99
@@ -7086,27 +7086,27 @@ film_id,personne_id,role,alias,ordre
 20287,11086,acteur,Maj. Paul Hackett,2
 20287,2051,acteur,Sarita Cisneros,3
 20287,6574,acteur,MSgt. Larry McRose,5
-20287,1723,réalisateur,,99
 20287,1760,musique,,99
+20287,1723,réalisateur,,99
 20416,1733,acteur,David Sanders,2
 20416,20959,acteur,Henri Cloche,3
-20416,2289,musique,,99
-20416,8554,roman,,99
 20416,12804,réalisateur,,99
+20416,8554,roman,,99
+20416,2289,musique,,99
 20481,10210,acteur,Labowitz,0
 20481,224,acteur,Dr. Philip K. Decker,2
+20481,531,musique,,99
 20481,31211,roman,,99
 20481,31211,réalisateur,,99
-20481,531,musique,,99
 20681,4690,acteur,Jamie Shannon,0
 20681,13022,acteur,Drew,1
 20681,10080,acteur,Jessie,4
 20681,6304,acteur,Michel,7
-20681,111900,scénariste,,99
 20681,39948,roman,,99
-20681,10716,musique,,99
 20681,111901,scénariste,,99
 20681,17784,réalisateur,,99
+20681,10716,musique,,99
+20681,111900,scénariste,,99
 20701,2224,acteur,Andy (segment ‘Lot 249’),3
 20701,884,acteur,Bellingham (segment ‘Lot 249’),5
 20701,1231,acteur,Susan (segment ‘Lot 249’),8
@@ -7173,8 +7173,8 @@ film_id,personne_id,role,alias,ordre
 21629,18663,musique,,99
 21629,26511,scénariste,,99
 21629,16897,réalisateur,,99
-21666,1205,acteur,Matt Dyson,0
 21666,10208,acteur,Black GI at dance,0
+21666,1205,acteur,Matt Dyson,0
 21666,10724,musique,,99
 21666,19304,réalisateur,,99
 21733,18897,acteur,Jackie Lung,0
@@ -7210,8 +7210,8 @@ film_id,personne_id,role,alias,ordre
 22160,1229,acteur,Terry Brogan,0
 22160,4512,acteur,Jake Wise,2
 22160,8656,acteur,Tommy,6
-22160,10147,roman,,99
 22160,10147,scénariste,,99
+22160,10147,roman,,99
 22160,1294154,scénariste,,99
 22160,18596,réalisateur,,99
 22183,19270,acteur,Angélique de Plessis-Bellière,0
@@ -7219,11 +7219,11 @@ film_id,personne_id,role,alias,ordre
 22183,24421,acteur,François Desgrez / Narrator (voice),2
 22183,24629,acteur,Bontemps,13
 22183,37457,acteur,L'apothicaire,21
-22183,133271,réalisateur,,99
-22183,1076406,acteur,Le nain,99
 22183,19640,musique,,99
 22183,133266,roman,,99
 22183,1208192,roman,,99
+22183,133271,réalisateur,,99
+22183,1076406,acteur,Le nain,99
 22240,21177,acteur,François Lesbuche,0
 22240,24366,acteur,René Boirond,1
 22240,35202,acteur,Natacha,2
@@ -7272,11 +7272,11 @@ film_id,personne_id,role,alias,ordre
 23483,116881,acteur,Mrs. Zane,5
 23483,54691,acteur,Chris D'Amico / Red Mist,6
 23483,41556,acteur,Marcus,8
-23483,960,musique,,99
-23483,227440,musique,,99
-23483,957,réalisateur,,99
-23483,23451,musique,,99
 23483,1316159,musique,,99
+23483,960,musique,,99
+23483,23451,musique,,99
+23483,957,réalisateur,,99
+23483,227440,musique,,99
 23587,9811,acteur,Nick,1
 23587,55271,acteur,Ptl. Gibbons,13
 23587,44765,réalisateur,,99
@@ -7311,7 +7311,6 @@ film_id,personne_id,role,alias,ordre
 24229,14773,réalisateur,,99
 24229,491,musique,,99
 24248,5401,acteur,Barabbas,0
-24248,223210,scénariste,,99
 24248,1201828,scénariste,,99
 24248,25798,scénariste,,99
 24248,33216,musique,,99
@@ -7319,6 +7318,7 @@ film_id,personne_id,role,alias,ordre
 24248,2087,réalisateur,,99
 24248,137973,scénariste,,99
 24248,25796,scénariste,,99
+24248,223210,scénariste,,99
 24260,11214,acteur,Trainee inspector Michel Clément / Commissioner Jules Clément,0
 24260,16927,acteur,"Roger Morzini, public enemy number 1",1
 24260,1972,acteur,"Marie-Anne Prossant, journalist",2
@@ -7463,8 +7463,8 @@ film_id,personne_id,role,alias,ordre
 25678,21259,acteur,Joe,0
 25678,55271,acteur,Jackson,1
 25678,31261,acteur,Leo 'The Lion' Burke,6
-25678,190115,musique,,99
 25678,72543,réalisateur,,99
+25678,190115,musique,,99
 25678,9204,musique,,99
 25682,55271,acteur,Curtis Jackson,1
 25682,31261,scénariste,,99
@@ -7477,16 +7477,16 @@ film_id,personne_id,role,alias,ordre
 25684,216662,scénariste,,99
 25706,10742,acteur,Samantha Crain,1
 25706,591,acteur,Brown,4
-25706,63937,scénariste,,99
 25706,63937,réalisateur,,99
+25706,63937,scénariste,,99
 25748,102714,acteur,John Garrett,0
 25943,57147,acteur,Terry Dean,0
 25943,13550,acteur,Steve Garner,1
 25943,57166,acteur,Rose Garner,2
 25943,10017,acteur,God,6
+25943,2704,musique,,99
 25943,57147,scénariste,,99
 25943,57594,réalisateur,,99
-25943,2704,musique,,99
 26127,16644,acteur,Wellman Anthony Santee,0
 26127,18364,acteur,Lt. Franklin L. Severence,2
 26127,15358,réalisateur,,99
@@ -7497,10 +7497,10 @@ film_id,personne_id,role,alias,ordre
 26156,33611,scénariste,,99
 26156,851,musique,,99
 26178,94785,acteur,Sarah Cameron,1
-26178,65044,musique,,99
 26178,1242740,roman,,99
-26178,52968,réalisateur,,99
+26178,65044,musique,,99
 26178,76942,scénariste,,99
+26178,52968,réalisateur,,99
 26185,4165,acteur,McQ,0
 26185,62019,acteur,Toms,4
 26185,1232,acteur,Pinky,5
@@ -7510,35 +7510,35 @@ film_id,personne_id,role,alias,ordre
 26196,21923,acteur,Cleopatra Jones,0
 26263,4960,acteur,Paul Kersey,0
 26263,11160,acteur,Art Sanella,11
+26263,94975,scénariste,,99
 26263,18669,réalisateur,,99
 26263,1185099,musique,,99
-26263,94975,scénariste,,99
 26263,73345,musique,,99
 26263,1096248,musique,,99
 26263,1185098,musique,,99
 26271,65002,acteur,Jill,0
 26271,94996,réalisateur,,99
-26271,1181479,musique,,99
 26271,94996,scénariste,,99
+26271,1181479,musique,,99
 26325,194,acteur,James Porter,1
 26325,45039,acteur,Tarzan,3
-26325,39608,réalisateur,,99
 26325,125815,musique,,99
+26325,39608,réalisateur,,99
 26325,70737,scénariste,,99
 26337,228,acteur,Kyle Bodine,0
 26337,4391,acteur,Rupert Munro,2
 26337,1527,réalisateur,,99
 26337,95144,scénariste,,99
 26355,21625,acteur,Darcy Elliot Bobrucz,0
-26355,95216,scénariste,,99
 26355,95215,scénariste,,99
 26355,10494,musique,,99
 26355,16513,réalisateur,,99
+26355,95216,scénariste,,99
 26444,4960,acteur,Albert Johnson,0
 26444,1101,acteur,George Washington Lincoln 'Sundog' Brown,3
 26444,590,acteur,Ned Warren,8
-26444,230125,musique,,99
 26444,9868,réalisateur,,99
+26444,230125,musique,,99
 26515,2714,acteur,Ed Harley,0
 26515,60261,réalisateur,,99
 26515,1053716,musique,,99
@@ -7547,9 +7547,9 @@ film_id,personne_id,role,alias,ordre
 26522,13563,réalisateur,,99
 26626,10297,acteur,Rental Truck Guy,0
 26626,6807,acteur,Rob,1
-26626,53345,réalisateur,,99
 26626,53345,scénariste,,99
 26626,2676509,musique,,99
+26626,53345,réalisateur,,99
 26626,1544681,musique,,99
 26672,4756,acteur,Tack the Cobbler (voice),1
 26672,3130,acteur,Princess YumYum (voice),2
@@ -7564,8 +7564,8 @@ film_id,personne_id,role,alias,ordre
 26978,21625,acteur,Nikki,1
 26978,8874,acteur,Washington,2
 26978,11086,acteur,OverDog,4
-26978,1214133,réalisateur,,99
 26978,7182,musique,,99
+26978,1214133,réalisateur,,99
 26984,69597,acteur,Lisa Piper,0
 26984,6384,acteur,Jack Fenton / Jack-be-Nimble,3
 26984,23915,acteur,The Toymaster,4
@@ -7573,13 +7573,13 @@ film_id,personne_id,role,alias,ordre
 26984,1777331,roman,,99
 27085,50967,acteur,Bowen Tyler,0
 27085,55271,acteur,First Sto-Lu,16
-27085,95329,réalisateur,,99
 27085,15776,roman,,99
 27085,38646,musique,,99
+27085,95329,réalisateur,,99
 27214,12407,acteur,Melanie,3
 27214,5344,acteur,Lisa,8
-27214,2087,réalisateur,,99
 27214,36120,scénariste,,99
+27214,2087,réalisateur,,99
 27352,51576,acteur,Col. James Braddock,0
 27352,51576,acteur,Col. James Braddock,0
 27352,65827,acteur,Embassy Gate Captain,11
@@ -7631,10 +7631,10 @@ film_id,personne_id,role,alias,ordre
 27905,589847,acteur,Shakira,3
 27958,1158,acteur,Steve Burns,0
 27958,650,acteur,Nancy Gates,2
-27958,7066,musique,,99
 27958,15175,scénariste,,99
-27958,2117873,roman,,99
 27958,15175,réalisateur,,99
+27958,2117873,roman,,99
+27958,7066,musique,,99
 27983,21561,acteur,Mike Beardsley,8
 27983,16745,réalisateur,,99
 28043,2922,acteur,"Gorca (segment ""The Wurdalak"")",0
@@ -7652,15 +7652,15 @@ film_id,personne_id,role,alias,ordre
 28176,42462,musique,,99
 28190,69958,acteur,Le Moine,0
 28190,2565,acteur,Commentator,7
-28190,37770,réalisateur,,99
 28190,1071189,musique,,99
+28190,37770,réalisateur,,99
 28313,4587,acteur,Khaila Richards,1
 28313,11064,acteur,Charles Lewin,2
 28313,9777,acteur,Eddie Hughes,3
 28313,2231,acteur,Kadar Lewis,6
+28313,15912,réalisateur,,99
 28313,100398,roman,,99
 28313,4140,musique,,99
-28313,15912,réalisateur,,99
 28368,3085,acteur,Sgt. Clell Hazard,0
 28368,15152,acteur,Sgt. Maj.'Goody' Nelson,2
 28368,13550,acteur,Pete Deveber,9
@@ -7755,8 +7755,8 @@ film_id,personne_id,role,alias,ordre
 30421,238412,acteur,Boss at Tavern,9
 30566,16028,acteur,Blacula / Prince Mamuwalde,0
 30566,6780,acteur,Tina,1
-30890,12900,acteur,Masked Avenger,0
 30890,1004,acteur,Rocco,0
+30890,12900,acteur,Masked Avenger,0
 30890,8447,acteur,Biff Baxter,1
 30890,12021,acteur,Sally White,2
 30890,13922,acteur,Joe,3
@@ -7765,9 +7765,9 @@ film_id,personne_id,role,alias,ordre
 30890,1243,scénariste,,99
 30943,1160,acteur,Beth Cappadora,0
 30943,2395,acteur,Candy Bliss,5
-30943,140354,réalisateur,,99
 30943,7182,musique,,99
 30943,1395166,roman,,99
+30943,140354,réalisateur,,99
 31052,3391,acteur,Sarah Leary,1
 31052,16935,acteur,Muriel Pritchett,2
 31052,8984,acteur,Julian Hedge,6
@@ -7776,10 +7776,10 @@ film_id,personne_id,role,alias,ordre
 31052,491,musique,,99
 31121,6449,acteur,George Roundy,0
 31121,57138,acteur,Johnny Pope,5
+31121,6449,scénariste,,99
 31121,4964,réalisateur,,99
 31121,10557,musique,,99
 31121,11057,scénariste,,99
-31121,6449,scénariste,,99
 31264,45039,acteur,Ator,0
 31270,15397,acteur,Francis Lagneau,0
 31270,24379,acteur,Eusebio Cafarelli,2
@@ -7799,23 +7799,23 @@ film_id,personne_id,role,alias,ordre
 31417,24476,acteur,Doctor Génessier,0
 31417,37129,acteur,Paulette Mérodon,5
 31417,1958,acteur,Inspector,8
-31417,37302,réalisateur,,99
-31417,1019435,scénariste,,99
-31417,2704,musique,,99
 31417,128483,roman,,99
+31417,1019435,scénariste,,99
+31417,37302,réalisateur,,99
+31417,2704,musique,,99
 31503,10297,acteur,Guy #2,0
 31503,28657,acteur,Buck Van Patten,7
 31503,1233,acteur,Chuck Bronski,8
-31503,64746,scénariste,,99
 31503,12438,réalisateur,,99
-31578,2,acteur,Brent,0
+31503,64746,scénariste,,99
 31578,11770,acteur,Coroner,0
+31578,2,acteur,Brent,0
 31578,10051,acteur,Man #2,2
 31578,5140,acteur,Pasty Faced Man,7
 31578,7623,acteur,Bill - Dead Attendant,8
+31578,10051,réalisateur,,99
 31578,109984,scénariste,,99
 31578,109985,scénariste,,99
-31578,10051,réalisateur,,99
 31578,11770,réalisateur,,99
 31578,27582,musique,,99
 31578,11770,musique,,99
@@ -7825,8 +7825,8 @@ film_id,personne_id,role,alias,ordre
 31583,21053,réalisateur,,99
 31583,21053,scénariste,,99
 31583,1376864,scénariste,,99
-31586,11084,acteur,Amish Mom,0
 31586,109,acteur,North,0
+31586,11084,acteur,Amish Mom,0
 31586,1903,acteur,Judge Buckle,3
 31586,707,acteur,Pa Tex,4
 31586,6804,acteur,Alaskan Dad,8
@@ -7875,8 +7875,8 @@ film_id,personne_id,role,alias,ordre
 31789,35962,acteur,Marie Hagutte,3
 31789,77860,acteur,André Lemoine,4
 31789,24877,acteur,Docteur Séverine,5
-31789,41526,scénariste,,99
 31789,137388,scénariste,,99
+31789,41526,scénariste,,99
 31789,137388,réalisateur,,99
 31858,3129,acteur,Trevor,0
 31858,82714,réalisateur,,99
@@ -7886,14 +7886,14 @@ film_id,personne_id,role,alias,ordre
 31939,78523,réalisateur,,99
 31947,2713,acteur,Amy Franklin,0
 31947,1229,acteur,Jack Prescott (archive footage),0
-31947,29056,musique,,99
 31947,6778,réalisateur,,99
+31947,29056,musique,,99
 31962,10207,acteur,Kernohan,0
 31962,3392,acteur,Ed Leland,0
 31962,29369,acteur,Linda Voss,1
 31962,3896,acteur,Franze-Otto Dietrich,2
-31962,11834,réalisateur,,99
 31962,7714,musique,,99
+31962,11834,réalisateur,,99
 31962,1583772,roman,,99
 32037,16757,acteur,Jennifer Rispoli Chamberlain,0
 32037,194,acteur,Dr. Jonathan Chamberlain,1
@@ -7915,14 +7915,14 @@ film_id,personne_id,role,alias,ordre
 32261,5049,acteur,Stephen Ward,0
 32261,12656,acteur,Christine Keeler,1
 32261,1327,acteur,John Profumo,3
-32261,24717,musique,,99
 32261,30365,réalisateur,,99
 32261,7189,scénariste,,99
+32261,24717,musique,,99
 32489,5823,acteur,Millie Dillmount,0
 32489,23915,acteur,Oriental #2,6
+32489,43817,scénariste,,99
 32489,7182,musique,,99
 32489,9577,réalisateur,,99
-32489,43817,scénariste,,99
 32940,18364,acteur,Harry Benson,0
 32940,4782,roman,,99
 32940,17281,réalisateur,,99
@@ -7933,8 +7933,8 @@ film_id,personne_id,role,alias,ordre
 33258,6159,acteur,Steve Bolander,6
 33258,349,acteur,Newt,9
 33258,2165,acteur,Girl in Commune,29
-33258,58075,scénariste,,99
 33258,58075,réalisateur,,99
+33258,58075,scénariste,,99
 33278,49944,acteur,Elvira,4
 33278,13669,musique,,99
 33278,1365377,roman,,99
@@ -7976,14 +7976,14 @@ film_id,personne_id,role,alias,ordre
 33701,64913,acteur,Gigi,7
 33701,82792,acteur,"Gilbert, dit ""M.Météo""",8
 33701,35210,acteur,"M. Camus, le cocu",9
-33701,21171,scénariste,,99
-33701,64913,scénariste,,99
 33701,35137,scénariste,,99
 33701,82792,scénariste,,99
 33701,28781,scénariste,,99
-33701,21177,scénariste,,99
+33701,64913,scénariste,,99
 33701,21175,scénariste,,99
 33701,36947,musique,,99
+33701,21171,scénariste,,99
+33701,21177,scénariste,,99
 34059,3829,acteur,Rocco,0
 34059,15397,acteur,"Hervé Marec, aka 'Le plouc'",1
 34059,24379,acteur,Mitch-Mitch,2
@@ -8030,10 +8030,10 @@ film_id,personne_id,role,alias,ordre
 35119,1137484,roman,,99
 35119,64061,réalisateur,,99
 35371,16851,acteur,Corey Webster,0
-35371,29700,réalisateur,,99
-35371,114582,scénariste,,99
-35371,160124,scénariste,,99
 35371,69900,musique,,99
+35371,114582,scénariste,,99
+35371,29700,réalisateur,,99
+35371,160124,scénariste,,99
 35552,78216,acteur,Adèle Blanc-Sec,0
 35552,59,réalisateur,,99
 35588,193,acteur,Brig. Gen. George Crook,1
@@ -8059,17 +8059,17 @@ film_id,personne_id,role,alias,ordre
 35831,1957,acteur,Lisa / Belphegor,0
 35831,12270,acteur,Verlac,1
 35831,35527,acteur,Bertrand Faussier,4
-35831,224983,roman,,99
 35831,35073,musique,,99
+35831,224983,roman,,99
 35831,54222,réalisateur,,99
 36324,11187,acteur,Léonard Monestier,0
 36324,39646,acteur,Patricia Monestier,1
 36324,34616,acteur,Paul Monestier,2
 36324,39889,acteur,"Cynthia Monestier, la femme de Léonard",3
 36324,36316,acteur,Charles,5
-36324,39139,scénariste,,99
 36324,39138,réalisateur,,99
 36324,39138,scénariste,,99
+36324,39139,scénariste,,99
 36349,2713,acteur,Nina,1
 36349,590,acteur,Tyke Thayden,7
 36349,11151,acteur,Luis,9
@@ -8093,11 +8093,11 @@ film_id,personne_id,role,alias,ordre
 36576,10222,acteur,Chief Insp. Jacques Clouseau,9
 36593,7633,acteur,Lt. Frank Drebin,0
 36593,15152,acteur,James Earl Jones (uncredited),96
-36593,12991,scénariste,,99
-36593,13429,scénariste,,99
 36593,13426,réalisateur,,99
 36593,12939,musique,,99
 36593,12987,scénariste,,99
+36593,12991,scénariste,,99
+36593,13429,scénariste,,99
 36599,7633,acteur,Mr. Hammond,0
 36599,8944,acteur,Kimberly Hammond,1
 36599,12701,musique,,99
@@ -8105,9 +8105,9 @@ film_id,personne_id,role,alias,ordre
 36599,44130,réalisateur,,99
 36670,738,acteur,James Bond,0
 36670,2201,acteur,Ernst Stavro Blofeld,2
+36670,9856,roman,,99
 36670,10930,réalisateur,,99
 36670,10934,musique,,99
-36670,9856,roman,,99
 36685,13472,acteur,Dr. Frank-N-Furter,0
 36685,4038,acteur,Janet Weiss,1
 36685,39023,musique,,99
@@ -8115,9 +8115,9 @@ film_id,personne_id,role,alias,ordre
 36859,51576,acteur,Matthew,0
 36859,51576,acteur,Matthew,0
 36859,51586,acteur,Jux Jonas,1
-36859,1329731,réalisateur,,99
-36859,2087981,scénariste,,99
 36859,51586,scénariste,,99
+36859,2087981,scénariste,,99
+36859,1329731,réalisateur,,99
 36914,56819,acteur,Dr. Jack Hammond / Chris Hammond,0
 36914,1328,acteur,Clarence / Trigger,5
 36914,64877,réalisateur,,99
@@ -8137,11 +8137,11 @@ film_id,personne_id,role,alias,ordre
 37094,116778,scénariste,,99
 37094,5572,réalisateur,,99
 37136,7633,acteur,Lt. Frank Drebin,0
+37136,12987,scénariste,,99
 37136,12991,scénariste,,99
 37136,12987,réalisateur,,99
 37136,3415,scénariste,,99
 37136,12936,scénariste,,99
-37136,12987,scénariste,,99
 37136,12939,musique,,99
 37137,7633,acteur,Lt. Frank Drebin,0
 37137,12936,scénariste,,99
@@ -8163,8 +8163,8 @@ film_id,personne_id,role,alias,ordre
 37233,228,acteur,Wayne Tarrance,6
 37233,18686,acteur,Tammy Hemphill,7
 37233,11064,acteur,Ray McDeere,9
-37233,11060,roman,,99
 37233,2226,réalisateur,,99
+37233,11060,roman,,99
 37247,10774,acteur,Mrs. Robinson,0
 37247,4483,acteur,Ben Braddock,1
 37247,9594,acteur,Elaine Robinson,2
@@ -8199,9 +8199,9 @@ film_id,personne_id,role,alias,ordre
 37335,16862,réalisateur,,99
 37454,6014,acteur,Yvonne Maurin,1
 37454,15397,acteur,Inspecteur Torrence,7
+37454,70854,réalisateur,,99
 37454,18565,scénariste,,99
 37454,24534,roman,,99
-37454,70854,réalisateur,,99
 37652,4275,acteur,Didier,1
 37652,78475,acteur,Maria,2
 37652,35137,acteur,"Commentateur sportif, Jean-Philippe",6
@@ -8212,9 +8212,9 @@ film_id,personne_id,role,alias,ordre
 37653,41029,acteur,Bernard Latour,2
 37653,23984,acteur,"Steven, le patron de Pascal",8
 37653,47829,acteur,"Brice, le bras droit de Steven",9
+37653,41029,réalisateur,,99
 37653,59031,réalisateur,,99
 37653,1296174,scénariste,,99
-37653,41029,réalisateur,,99
 37653,41029,scénariste,,99
 37653,59031,scénariste,,99
 37749,3092,acteur,Theresa,0
@@ -8267,14 +8267,14 @@ film_id,personne_id,role,alias,ordre
 38558,99032,scénariste,,99
 38602,8399,acteur,Man Filling in Ditch,0
 38602,68690,roman,,99
-38602,70055,réalisateur,,99
 38602,166244,scénariste,,99
+38602,70055,réalisateur,,99
 38985,34584,acteur,Lefevre,0
 38985,6355,acteur,Jackie Scanlon / 'Juan Dominguez',0
 38985,32364,acteur,Victor Manzon / 'Serrano',1
+38985,15175,réalisateur,,99
 38985,47927,musique,,99
 38985,69600,musique,,99
-38985,15175,réalisateur,,99
 38985,2560,roman,,99
 39043,83739,acteur,Countess Elisabeth,0
 39043,29909,acteur,Captain Dobi,1
@@ -8314,9 +8314,9 @@ film_id,personne_id,role,alias,ordre
 39385,230073,acteur,Rafi,6
 39385,77734,acteur,Yvan,7
 39385,5079,acteur,Patrick Abitbol,8
-39385,113610,réalisateur,,99
 39385,146481,scénariste,,99
 39385,146484,scénariste,,99
+39385,113610,réalisateur,,99
 39415,17882,acteur,Nelly,0
 39415,16927,acteur,Loulou,1
 39415,38901,acteur,André,2
@@ -8404,8 +8404,8 @@ film_id,personne_id,role,alias,ordre
 40973,6593,acteur,Buck Loner,3
 40973,28768,acteur,Mary Ann Pringle,4
 40973,15112,acteur,Stud,19
-40973,11626,roman,,99
 40973,97958,réalisateur,,99
+40973,11626,roman,,99
 40983,123711,acteur,Lisa Clark,1
 40983,6840,acteur,Young Hobo,5
 40983,6840,réalisateur,,99
@@ -8422,13 +8422,13 @@ film_id,personne_id,role,alias,ordre
 41402,56734,acteur,Abby,1
 41402,28633,acteur,The Father,2
 41402,13550,acteur,The Policeman,3
+41402,15347,musique,,99
 41402,32278,réalisateur,,99
 41402,74397,roman,,99
-41402,15347,musique,,99
 41589,5606,acteur,Mommy / Mama / Mom / Natasha,0
 41589,34612,acteur,Elizabeth Martin,1
-41589,1380010,roman,,99
 41589,1065210,réalisateur,,99
+41589,1380010,roman,,99
 41857,21462,acteur,Maria Stoner,3
 41857,51875,réalisateur,,99
 41857,1760,musique,,99
@@ -8479,8 +8479,8 @@ film_id,personne_id,role,alias,ordre
 42466,16028,acteur,Blacula / Prince Mamuwalde,0
 42466,2230,acteur,Lisa Fortier,2
 42473,1038,acteur,Becky Thatcher,4
-42473,72225,roman,,99
 42473,491,musique,,99
+42473,72225,roman,,99
 42473,9108,réalisateur,,99
 42703,2090,acteur,Sen. William J. Tadlock,0
 42703,10158,acteur,Dick Summers,1
@@ -8575,21 +8575,21 @@ film_id,personne_id,role,alias,ordre
 44617,11201,réalisateur,,99
 44706,59031,acteur,Didier,0
 44706,41029,acteur,Bernard,1
+44706,59031,réalisateur,,99
 44706,41029,réalisateur,,99
 44706,41029,scénariste,,99
 44706,59031,scénariste,,99
-44706,59031,réalisateur,,99
 44772,69718,acteur,Charles Cummings,0
 44772,3416,acteur,Laura,1
 44772,504,acteur,Nelson,7
-44772,98199,réalisateur,,99
 44772,12068,musique,,99
+44772,98199,réalisateur,,99
 44826,77996,acteur,Hugo Cabret,0
 44826,2282,acteur,Georges Méliès,1
 44826,56734,acteur,Isabelle,2
 44826,113,acteur,Monsieur Labisse,6
-44826,938234,scénariste,,99
 44826,117,musique,,99
+44826,938234,scénariste,,99
 44826,1032,réalisateur,,99
 45134,21236,acteur,Aldo / Père Marco,0
 45134,126585,acteur,Prosper,1
@@ -8611,10 +8611,10 @@ film_id,personne_id,role,alias,ordre
 46655,142985,acteur,André Castagnier,4
 46655,54377,acteur,Charlotte Castagnier,5
 46655,46788,acteur,Le curé,7
+46655,142985,scénariste,,99
 46655,54377,scénariste,,99
 46655,142985,réalisateur,,99
 46655,1372720,scénariste,,99
-46655,142985,scénariste,,99
 46878,3895,acteur,Brad Crane,0
 46878,9594,acteur,Capt. Helena Anderson,1
 46878,28906,acteur,Dr. Hubbard,3
@@ -8624,11 +8624,11 @@ film_id,personne_id,role,alias,ordre
 46878,7506,réalisateur,,99
 46959,1204668,acteur,Thomas,3
 46959,1341494,musique,,99
-46959,24547,réalisateur,,99
 46959,24547,scénariste,,99
+46959,24547,réalisateur,,99
 47045,12900,acteur,Dr. Fishbinder,2
-47045,67411,réalisateur,,99
 47045,1547081,scénariste,,99
+47045,67411,réalisateur,,99
 47045,1280006,scénariste,,99
 47045,37,musique,,99
 47504,3129,acteur,Joshua Shapira,0
@@ -8664,17 +8664,17 @@ film_id,personne_id,role,alias,ordre
 48769,21175,acteur,Le père Leboeuf,9
 48769,11216,acteur,"Colonel Vincent, collaborateur de de Gaule",15
 48769,35966,acteur,Le réceptionniste de la Kommandantur,31
+48769,82793,scénariste,,99
 48769,28781,scénariste,,99
 48769,64909,réalisateur,,99
 48769,26019,musique,,99
-48769,82793,scénariste,,99
 48769,64909,scénariste,,99
 49051,7060,acteur,Bilbo Baggins,0
 49051,1327,acteur,Gandalf the Grey,1
 49051,109,acteur,Frodo Baggins,20
 49051,71580,acteur,Necromancer,33
-49051,117,musique,,99
 49051,129,roman,,99
+49051,117,musique,,99
 49051,108,réalisateur,,99
 49398,11214,acteur,Ben-Hur Marcel / Aminemephet,0
 49398,12270,acteur,Jules César,1
@@ -8735,8 +8735,8 @@ film_id,personne_id,role,alias,ordre
 50796,34613,réalisateur,,99
 51191,16927,acteur,Antoine Carco / His guardian angel,0
 51191,28781,acteur,Père Hervé Tarain / His guardian angel,1
-51191,28781,scénariste,,99
 51191,64909,réalisateur,,99
+51191,28781,scénariste,,99
 51191,64909,scénariste,,99
 51196,109516,acteur,Marie-Ange de la Baume,1
 51196,64913,acteur,Corine Bréha,2
@@ -8761,8 +8761,8 @@ film_id,personne_id,role,alias,ordre
 51763,5606,acteur,Miriam Thompson,0
 51763,2395,acteur,Odessa Cotter,1
 51763,10182,acteur,Herbert Cotter,3
-51763,73496,réalisateur,,99
 51763,563703,scénariste,,99
+51763,73496,réalisateur,,99
 51763,1528,musique,,99
 51857,400,acteur,María,3
 51857,96369,réalisateur,,99
@@ -8786,8 +8786,8 @@ film_id,personne_id,role,alias,ordre
 51980,24540,acteur,"Vincent Maheu, aka Bonnemort",2
 51980,16927,acteur,Toussaint Maheu,5
 51980,24422,acteur,Victor Deneulin,7
-51980,87667,roman,,99
 51980,20718,réalisateur,,99
+51980,87667,roman,,99
 51980,3139702,musique,,99
 51992,30672,acteur,Paul,2
 51992,24540,acteur,Renier,8
@@ -8879,9 +8879,9 @@ film_id,personne_id,role,alias,ordre
 57158,7060,acteur,Bilbo Baggins,0
 57158,1327,acteur,Gandalf the Grey,1
 57158,71580,acteur,Smaug / Necromancer,8
-57158,117,musique,,99
 57158,108,réalisateur,,99
 57158,129,roman,,99
+57158,117,musique,,99
 57308,73827,acteur,Frédéric,0
 57308,28255,acteur,Michel,1
 57308,53203,acteur,Gérard,2
@@ -8889,15 +8889,15 @@ film_id,personne_id,role,alias,ordre
 57308,1059107,acteur,Josyane,7
 57308,64534,acteur,Caroline,9
 57308,17901,acteur,"Flora, la prof sadique de physique-chimie",10
+57308,225892,scénariste,,99
 57308,240380,scénariste,,99
 57308,225892,réalisateur,,99
-57308,225892,scénariste,,99
 57944,73827,acteur,Julien Segal,0
 57944,24381,acteur,Plana,2
-57944,11201,réalisateur,,99
 57944,11201,scénariste,,99
-57944,22317,scénariste,,99
 57944,24796,scénariste,,99
+57944,22317,scénariste,,99
+57944,11201,réalisateur,,99
 58545,45982,acteur,Alfredo Rossi,0
 58545,55654,acteur,Simonetta,3
 58545,24476,acteur,La Brunetière,6
@@ -8919,9 +8919,9 @@ film_id,personne_id,role,alias,ordre
 58736,34580,scénariste,,99
 59059,15135,acteur,Jean Diaz,0
 59059,1204668,acteur,David Diaz,3
+59059,24547,scénariste,,99
 59059,24547,réalisateur,,99
 59059,15135,scénariste,,99
-59059,24547,scénariste,,99
 59161,59031,acteur,Marc Elbichon,0
 59161,41029,acteur,Ugo,1
 59161,41878,acteur,Blacky,2
@@ -8932,11 +8932,11 @@ film_id,personne_id,role,alias,ordre
 59161,24381,acteur,L'homme au téléphone,10
 59161,2413,acteur,Monsieur Pichon,11
 59161,1003,acteur,L'homme de confiance de Marraine,21
+59161,228932,scénariste,,99
 59161,59031,scénariste,,99
 59161,41878,scénariste,,99
 59161,228932,réalisateur,,99
 59161,41029,scénariste,,99
-59161,228932,scénariste,,99
 59161,5488,musique,,99
 59161,228929,scénariste,,99
 59237,11187,acteur,Jockey Jack,0
@@ -9061,13 +9061,13 @@ film_id,personne_id,role,alias,ordre
 62134,44554,scénariste,,99
 62134,1566195,musique,,99
 62204,2372,acteur,Amoukar,1
-62204,2356,scénariste,,99
 62204,2352,réalisateur,,99
+62204,2356,scénariste,,99
 62611,418,acteur,Jarvis Scott,0
 62611,10742,acteur,Dani Payson,1
-62611,101868,réalisateur,,99
 62611,235592,musique,,99
 62611,101868,scénariste,,99
+62611,101868,réalisateur,,99
 62822,59031,acteur,Zerph,0
 62822,41029,acteur,Yeb,1
 62822,59031,réalisateur,,99
@@ -9133,8 +9133,8 @@ film_id,personne_id,role,alias,ordre
 65449,37626,acteur,Self,9
 65449,39350,acteur,Self,16
 65449,35899,acteur,Self,22
-65449,41030,scénariste,,99
 65449,1176322,musique,,99
+65449,41030,scénariste,,99
 65449,543364,scénariste,,99
 65449,543364,réalisateur,,99
 65703,24478,acteur,"Bernard, l'instituteur",2
@@ -9156,9 +9156,9 @@ film_id,personne_id,role,alias,ordre
 66635,25083,acteur,Ali Radjani,4
 66635,25181,acteur,Blanche Atlan,6
 66635,1071332,scénariste,,99
+66635,64205,réalisateur,,99
 66635,25083,scénariste,,99
 66635,41969,scénariste,,99
-66635,64205,réalisateur,,99
 67221,42199,acteur,Paco Queruak,0
 67221,55654,acteur,Linda,1
 67221,99194,acteur,Peter Howell,2
@@ -9273,20 +9273,20 @@ film_id,personne_id,role,alias,ordre
 71373,17281,scénariste,,99
 71630,15397,acteur,Aldo,0
 71630,1973,acteur,Gérard,1
+71630,35585,scénariste,,99
 71630,1259,musique,,99
 71630,35585,réalisateur,,99
 71630,35585,roman,,99
-71630,35585,scénariste,,99
 72449,20904,acteur,David Tao,7
 72449,1927,réalisateur,,99
 72449,51883,musique,,99
 72449,4782,roman,,99
 72664,3829,acteur,Sgt. Pierre Augagneur,0
 72664,35323,acteur,Béral,2
-72664,18565,scénariste,,99
 72664,34580,scénariste,,99
 72664,1793044,scénariste,,99
 72664,34580,réalisateur,,99
+72664,18565,scénariste,,99
 72833,24501,acteur,Charles De Boylesve,0
 72833,228930,acteur,Rachid Merzahoui,1
 72833,53203,acteur,Le motard,15
@@ -9333,9 +9333,9 @@ film_id,personne_id,role,alias,ordre
 76128,39889,acteur,Mammy,3
 76128,28781,acteur,Edouard,6
 76128,24629,acteur,Jean-Etienne Nasal,7
+76128,194833,scénariste,,99
 76128,18563,scénariste,,99
 76128,24457,scénariste,,99
-76128,194833,scénariste,,99
 76128,18563,réalisateur,,99
 76163,16483,acteur,Barney Ross,0
 76163,1336,acteur,Yin Yang,2
@@ -9359,13 +9359,13 @@ film_id,personne_id,role,alias,ordre
 76203,1267329,acteur,Patsey,2
 76203,71580,acteur,William Ford,3
 76203,287,acteur,Samuel Bass,9
+76203,72757,réalisateur,,99
 76203,947,musique,,99
 76203,1286094,roman,,99
-76203,72757,réalisateur,,99
 76217,1973,acteur,"Daniel Chetman, dit 'Chet', un ancien chef de bande qui reprend du service",0
 76217,15111,acteur,Extra in Police Arrival Sequence (uncredited),5
-76217,25081,réalisateur,,99
 76217,19267,roman,,99
+76217,25081,réalisateur,,99
 76454,20795,acteur,Jean-Marie Tardel,0
 76454,24379,acteur,Emir Abdullah,1
 76454,110503,acteur,Liza Bérian,2
@@ -9374,13 +9374,13 @@ film_id,personne_id,role,alias,ordre
 76454,24391,réalisateur,,99
 76454,24391,scénariste,,99
 76597,73827,acteur,Sam Bellamy,0
+76597,64205,réalisateur,,99
 76597,20075,musique,,99
 76597,27438,scénariste,,99
 76597,64205,scénariste,,99
 76597,289472,scénariste,,99
 76597,1173107,roman,,99
 76597,2866500,scénariste,,99
-76597,64205,réalisateur,,99
 77673,11214,acteur,Loulou Dupin,0
 77673,35137,acteur,Jackie,1
 77673,24464,acteur,Ratoff,2
@@ -9389,8 +9389,8 @@ film_id,personne_id,role,alias,ordre
 77673,70427,acteur,Mustapha,6
 77673,19165,acteur,Valerie,8
 77673,109516,acteur,"",26
-77673,11195,réalisateur,,99
 77673,11195,scénariste,,99
+77673,11195,réalisateur,,99
 77673,1204937,musique,,99
 77673,1963,scénariste,,99
 77729,44556,acteur,Moïse Levy,0
@@ -9460,9 +9460,9 @@ film_id,personne_id,role,alias,ordre
 80274,19492,acteur,Major Gwen Anderson,3
 80274,2282,acteur,Mazer Rackham,4
 80274,17140,acteur,Valentine Wiggin,5
+80274,13079,réalisateur,,99
 80274,18264,musique,,99
 80274,107275,roman,,99
-80274,13079,réalisateur,,99
 80543,545679,acteur,l'inspecteur Jean Morel,0
 80543,19646,acteur,Virginie Dumayet,1
 80543,37129,acteur,Olga Babitcheff,2
@@ -9512,8 +9512,8 @@ film_id,personne_id,role,alias,ordre
 83105,29646,réalisateur,,99
 83105,217379,scénariste,,99
 83223,68330,acteur,Richard Raymond,0
-83223,45577,réalisateur,,99
 83223,45672,réalisateur,,99
+83223,45577,réalisateur,,99
 83223,519846,musique,,99
 83356,126354,acteur,Karen Steele,3
 83542,31,acteur,Dr. Henry Goose / Hotel Manager / Isaac Sachs / Dermot Hoggins / Cavendish Look-a-Like Actor / Zachry,0
@@ -9708,17 +9708,17 @@ film_id,personne_id,role,alias,ordre
 120910,35137,réalisateur,,99
 121208,39646,acteur,Galia,0
 122832,935391,acteur,US Soldier,0
-122832,53187,scénariste,,99
 122832,5561,réalisateur,,99
+122832,53187,scénariste,,99
 122832,92928,scénariste,,99
 122917,7060,acteur,Bilbo Baggins,0
 122917,1327,acteur,Gandalf the Grey,1
 122917,71580,acteur,Smaug / Sauron (voice),7
 122917,65,acteur,Old Bilbo Baggins,18
 122917,113,acteur,Saruman,19
+122917,108,réalisateur,,99
 122917,129,roman,,99
 122917,117,musique,,99
-122917,108,réalisateur,,99
 126889,17288,acteur,David / Walter,0
 126889,578,réalisateur,,99
 128145,16475,acteur,Scudder,0
@@ -9726,8 +9726,8 @@ film_id,personne_id,role,alias,ordre
 128145,19240,scénariste,,99
 128145,6413,réalisateur,,99
 128971,80253,acteur,Cathy,0
-128971,38756,réalisateur,,99
 128971,234726,musique,,99
+128971,38756,réalisateur,,99
 131631,72129,acteur,Katniss Everdeen,0
 131631,1231,acteur,President Alma Coin,5
 131631,1233,acteur,Plutarch Heavensbee,6
@@ -9739,8 +9739,8 @@ film_id,personne_id,role,alias,ordre
 131634,1231,acteur,President Alma Coin,5
 131634,1233,acteur,Plutarch Heavensbee,6
 131634,55636,acteur,President Snow,9
-131634,1213,musique,,99
 131634,10943,réalisateur,,99
+131634,1213,musique,,99
 131634,189111,roman,,99
 132169,62423,acteur,Master Lam,0
 132169,110025,acteur,Man Choi,1
@@ -9753,18 +9753,18 @@ film_id,personne_id,role,alias,ordre
 132363,9777,acteur,Carter Wilson,5
 132369,22048,acteur,Max Page,3
 132369,27991,acteur,Biker,8
-132369,52268,réalisateur,,99
 132369,1095406,scénariste,,99
+132369,52268,réalisateur,,99
 133805,56734,acteur,Carrie White,0
 133805,1231,acteur,Margaret White,1
-133805,2836,réalisateur,,99
-133805,3027,roman,,99
 133805,7229,musique,,99
+133805,3027,roman,,99
+133805,2836,réalisateur,,99
 134240,1958,acteur,Lartigue,0
 134240,1972,acteur,Pauline Fitzgerald,1
+134240,1188684,scénariste,,99
 134240,150015,scénariste,,99
 134240,1188682,scénariste,,99
-134240,1188684,scénariste,,99
 134240,150015,réalisateur,,99
 138103,16483,acteur,Barney Ross,0
 138103,3,acteur,Max Drummer,2
@@ -9880,8 +9880,8 @@ film_id,personne_id,role,alias,ordre
 173736,44955,réalisateur,,99
 173737,63895,acteur,Fantaghirò,0
 173737,921,acteur,Strega nera,1
-173737,44955,réalisateur,,99
 173737,87684,scénariste,,99
+173737,44955,réalisateur,,99
 178297,147043,acteur,Alex Berthier,0
 178297,34584,acteur,Mr. Crispin-Vautier,2
 178297,147043,réalisateur,,99
@@ -9890,8 +9890,8 @@ film_id,personne_id,role,alias,ordre
 179538,931404,musique,,99
 181886,131,acteur,Adam Bell / Anthony Claire,0
 181886,19119,acteur,Mary,2
-181886,984513,musique,,99
 181886,54566,roman,,99
+181886,984513,musique,,99
 181886,1208226,musique,,99
 181886,137427,réalisateur,,99
 181886,77125,scénariste,,99
@@ -9929,10 +9929,10 @@ film_id,personne_id,role,alias,ordre
 197537,136761,acteur,Marie Lacroix,1
 197537,59031,acteur,Michel Zyto,2
 197537,20718,acteur,Hugues,5
-197537,5005,réalisateur,,99
 197537,5005,scénariste,,99
 197537,25351,musique,,99
 197537,1363730,roman,,99
+197537,5005,réalisateur,,99
 200450,8447,acteur,Jonathan Garson,0
 200450,18324,acteur,Jeremy Tanner,4
 200450,1181242,scénariste,,99
@@ -9946,8 +9946,8 @@ film_id,personne_id,role,alias,ordre
 216791,33008,acteur,Fisherman,0
 216791,33008,réalisateur,,99
 219841,1204668,acteur,Wabi,1
-219841,24547,réalisateur,,99
 219841,24426,roman,,99
+219841,24547,réalisateur,,99
 222054,10210,acteur,Raoul Lufbery,5
 222054,158858,scénariste,,99
 222054,670,scénariste,,99
@@ -9962,8 +9962,8 @@ film_id,personne_id,role,alias,ordre
 227468,20236,réalisateur,,99
 227468,20236,scénariste,,99
 242248,21177,acteur,Philippe Darland,0
-242248,1277236,scénariste,,99
 242248,3531,scénariste,,99
+242248,1277236,scénariste,,99
 242248,1277237,musique,,99
 242248,1277235,réalisateur,,99
 243101,24500,acteur,Le chef de gare,3
@@ -10009,9 +10009,9 @@ film_id,personne_id,role,alias,ordre
 270447,35527,acteur,Jeff Garcia,6
 270447,70427,acteur,Keller,7
 270447,138814,acteur,Juliette,8
-270447,543753,scénariste,,99
 270447,543753,réalisateur,,99
 270447,99332,scénariste,,99
+270447,543753,scénariste,,99
 271559,20024,acteur,Goldman,6
 271559,33008,acteur,Nelo,7
 271559,20024,réalisateur,,99
@@ -10021,10 +10021,10 @@ film_id,personne_id,role,alias,ordre
 281338,18324,acteur,Bad Ape,4
 283366,77996,acteur,Jacob Portman,1
 283366,2231,acteur,Barron,2
-283366,969021,musique,,99
 283366,510,réalisateur,,99
 283366,1465319,roman,,99
 283366,9160,musique,,99
+283366,969021,musique,,99
 299054,16483,acteur,Barney Ross,1
 299054,16644,acteur,Gunner Jensen,4
 299054,1271,acteur,Marsh,7
@@ -10044,8 +10044,8 @@ film_id,personne_id,role,alias,ordre
 304322,138814,acteur,Mademoiselle,4
 304322,1972,acteur,Mireille,5
 304322,35919,acteur,L'avocat,6
-304322,1505152,réalisateur,,99
 304322,1505152,scénariste,,99
+304322,1505152,réalisateur,,99
 315837,1245,acteur,Major Motoko Kusanagi (Mira Killian),0
 315837,3317,acteur,Chief Daisuke Aramaki,1
 315837,228134,réalisateur,,99
@@ -10127,8 +10127,8 @@ film_id,personne_id,role,alias,ordre
 399579,1448516,acteur,Hugo,6
 399579,1452046,acteur,Koyomi,7
 399579,1563266,acteur,Tanji,8
-399579,56827,musique,,99
 399579,2294,réalisateur,,99
+399579,56827,musique,,99
 401306,37457,acteur,Pithivier,0
 401306,24387,acteur,Sergent-chef Chaudard,1
 401306,11192,acteur,Tassin,2

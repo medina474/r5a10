@@ -1,5 +1,7 @@
 \c ventdest
 
+create schema biblio;
+
 create table biblio.auteurs (
   auteur_id integer not null,
   nom text not null

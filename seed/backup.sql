@@ -4,7 +4,7 @@
 
 -- Cinema
 
-\copy (select film_id, personne_id, role, alias, ordre from cinema.equipes order by film_id, ordre) to '../data/cinema/equipes.csv' (format csv, header, encoding 'utf8');
+\copy (select film_id, personne_id, role, alias, ordre from cinema.equipes order by film_id, personne_id) to '../data/cinema/equipes.csv' (format csv, header, encoding 'utf8');
 
 \copy (select personne_id, nom, prenom, naissance, deces, nationalite, artiste, popularite from cinema.personnes order by personne_id) to '../data/cinema/personnes.csv' (format csv, header, encoding 'utf8');
 

@@ -24,7 +24,7 @@ alter default privileges in schema public grant select on tables to role_web;
 
 -- Schémas
 create schema ext;
-create schema biblio;
+
 create schema aviation;
 create schema fake;
 create schema musique;

@@ -1,5 +1,8 @@
 \c ventdest
 
+create index pays_nom
+  on pays using btree (pays asc nulls last);
+
 create index path_gist_idx
   on geo.regions using gist (hierarchie);
 

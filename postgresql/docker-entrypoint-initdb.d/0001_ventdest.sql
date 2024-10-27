@@ -1,3 +1,5 @@
+show server_version;
+
 create role ventdest with
   login
   nosuperuser
@@ -25,7 +27,6 @@ alter default privileges in schema public grant select on tables to role_web;
 -- Schémas
 create schema ext;
 
-create schema aviation;
 create schema fake;
 create schema musique;
 

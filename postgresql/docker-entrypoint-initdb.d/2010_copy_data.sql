@@ -37,7 +37,7 @@ update aeroports_tmp set Country = 'Congo' WHERE Country = 'Congo (Kinshasa)';
 update aeroports_tmp set Country = 'United Republic of Tanzania' WHERE Country = 'Tanzania';
 
 -- Supprimer les enregistrements sans code IATA
-update aeroports_tmp set IATA = null WHERE IATA = '\N';
+update aeroports_tmp set IATA = null where iata = '\N';
 -- \copy (select * from aeroports_tmp where IATA is null) to '/data/aviation/aeroports-iata-null.csv' (FORMAT CSV, header, delimiter ',', ENCODING 'UTF8');
 delete from aeroports_tmp where IATA is null;
 
@@ -90,7 +90,7 @@ create table vols_tmp (
   WEATHER_DELAY int         -- ,102
   );
 
-\copy vols_tmp from './0100-aviation/0102-flights.csv' (format csv, header, encoding 'utf8');
+\copy vols_tmp from '/docker-entrypoint-data.d/aviation/flights2.csv' (format csv, header, encoding 'utf8');
 
 ALTER TABLE vols_tmp 
   ADD COLUMN TS_SCHEDULED_DEPARTURE timestamp WITH TIME ZONE NULL,
@@ -102,12 +102,12 @@ ALTER TABLE vols_tmp
   ADD COLUMN TZ_ORIGIN text NULL,
   ADD COLUMN TZ_DESTINATION text NULL;
 
-- Recopier le fuseau horaire
+-- Recopier le fuseau horaire
 UPDATE vols_tmp SET 
-TZ_ORIGIN = a.TZ FROM aeroports a WHERE a.aeroport_code_iata = vols_tmp.origin_airport;
+TZ_ORIGIN = a.TZ FROM aviation.aeroports a WHERE a.aeroport_code_iata = vols_tmp.origin_airport;
 
 UPDATE vols_tmp SET
-TZ_DESTINATION = a.TZ FROM aeroports a WHERE a.aeroport_code_iata = vols_tmp.destination_airport;
+TZ_DESTINATION = a.TZ FROM aviation.aeroports a WHERE a.aeroport_code_iata = vols_tmp.destination_airport;
 
 UPDATE vols_tmp SET TS_SCHEDULED_DEPARTURE = TO_TIMESTAMP(
     LPAD(YEAR::text, 4, '0') || '-' || 
@@ -129,7 +129,7 @@ UPDATE vols_tmp
 UPDATE vols_tmp 
   SET TS_WHEELS_ON = ((TS_WHEELS_OFF at time zone TZ_ORIGIN + (AIR_TIME * interval '1 minute'))::timestamp at time zone TZ_ORIGIN) at time zone TZ_DESTINATION;
 
-insert into vols (jour, 
+insert into aviation.vols (jour, 
   operateur_code_iata, vol_numero, appareil_code,
   origine, destination, distance,
   fuseau_horaire_origine, fuseau_horaire_destination,
@@ -186,3 +186,7 @@ select
   LATE_AIRCRAFT_DELAY,
   WEATHER_DELAY
 from vols_tmp;
+
+\copy aviation.appareils from '/docker-entrypoint-data.d/aviation/appareils.csv' (format csv, header, encoding 'utf8');
+
+\copy aviation.operateurs from '/docker-entrypoint-data.d/aviation/operateurs.csv' (format csv, header, encoding 'utf8');

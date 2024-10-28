@@ -1,4 +1,7 @@
 \c ventdest
+update fake.personnes set
+  nom = null
+  from fake.noms n where n.nom = fake.personnes.nom;
 
 CREATE FUNCTION fake_nom(text) RETURNS text as $$
 WITH

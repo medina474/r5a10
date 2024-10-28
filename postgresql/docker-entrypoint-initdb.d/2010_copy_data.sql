@@ -189,4 +189,25 @@ from vols_tmp;
 
 \copy aviation.appareils from '/docker-entrypoint-data.d/aviation/appareils.csv' (format csv, header, encoding 'utf8');
 
-\copy aviation.operateurs from '/docker-entrypoint-data.d/aviation/operateurs.csv' (format csv, header, encoding 'utf8');
+
+create temporary table operateurs_tmp (
+  AirlineID int,
+  Name text,
+  Alias text,
+  IATA text,
+  ICAO text,
+  Callsign text,
+  Country text,
+  Active text
+);
+
+\copy operateurs_tmp from '/docker-entrypoint-data.d/aviation/operateurs.csv' (format csv, header, encoding 'utf8');
+
+insert into aviation.operateurs (
+  operateur_code_icao,
+  operateur_code_iata,
+  operateur,
+  callsign
+)
+select ICAO, IATA, Name, upper(Callsign) from operateurs_tmp
+  where Active = 'Y' and IATA <> '' and ICAO <> 'N/A' and ICAO <> '\N' and ICAO <> '';

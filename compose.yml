@@ -1,12 +1,16 @@
 configs:
 #  mariadb_initdb:
 #    file: ./mariadb/docker-entrypoint-initdb.d
-  pgadmin_config:
-    file: ./pgadmin-servers.json
   postgresql_initdb:
     file: ./postgresql/docker-entrypoint-initdb.d
-  grafana_provisioning:
-    file: ./grafana/provisioning
+  pgadmin_config:
+    file: ./pgadmin-servers.json
+  prometheus_config:
+    file: ./prometheus/prometheus.yml
+  otel_collector_config:
+    file: ./opentelemetry/otel-collector-config.yml
+  grafana_datasources:
+    file: ./grafana/provisioning/datasources
   grafana_dashboards:
     file: ./grafana/dashboards
 
@@ -24,6 +28,8 @@ volumes:
   pgadmin: {}
   postgresql: {}
 #  redis: {}
+  prometheus: {}
+  couchbase: {}
 
 services:
 
@@ -162,6 +168,8 @@ services:
       MB_EMAIL_SMTP_HOST: mailpit
       MB_EMAIL_SMTP_PORT: 1025
       MB_EMAIL_FROM_ADDRESS: metabase@univ-lorraine.fr
+    profiles:
+      - admin
 
 # N8N
 # Powerful Workflow Automation Software & Tools
@@ -273,6 +281,8 @@ services:
       PGRST_APP_SETTINGS_JWT_EXP: ${POSTGREST_APP_SETTINGS_JWT_EXP}
       PGRST_ADMIN_SERVER_PORT: 3055
       PGRST_SERVER_PORT: 3005
+    profiles:
+      - rest
 
 # redocly remplacer par scalar ?
 
@@ -285,6 +295,8 @@ services:
       - 3008:80
     environment:
       SPEC_URL: http://localhost:3005
+    profiles:
+      - rest
 
 # PostGraphile
 # Instant GraphQL API
@@ -317,6 +329,8 @@ services:
       - PGUSER=${POSTGRAPHILE_DB_USER:-postgraphile}
       - PGPASSWORD=${DB_PASSWORD}
       - PGDATABASE=${DB_NAME:-ventdest}
+    profiles:
+      - graph
 
 # Oriented Documents
 
@@ -338,17 +352,19 @@ services:
 
 # MongoDB
 
-  # mongodb:
-  #   container_name: r5a10-mongodb
-  #   image: mongo:${MONGODB_VERSION:-7.0.7-jammy}
-  #   volumes:
-  #     - mongodb_config:/data/configdb
-  #     - mongodb:/data/db
-  #   ports:
-  #     - ${MONGODB_PORT:-27017}:27017
-  #   environment:
-  #     MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME:-admin}
-  #     MONGO_INITDB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+  mongodb:
+    container_name: r5a10-mongodb
+    image: mongo:${MONGODB_VERSION:-7.0.7-jammy}
+    volumes:
+      - mongodb_config:/data/configdb
+      - mongodb:/data/db
+    ports:
+      - ${MONGODB_PORT:-27017}:27017
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME:-admin}
+      MONGO_INITDB_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+    profiles:
+      - document
 
 # Redis
 # In-memory key-value database
@@ -396,22 +412,25 @@ services:
       - 8080:80
     volumes:
       - ./data:/usr/share/caddy
+
 # Neo4J
 # Des graphes ultra-rapides, à l’échelle du pétaoctet
 # https://neo4j.com/fr/
 
-  # neo4j:
-  #   container_name: r5a10-neo4j
-  #   image: neo4j:${NEO4J_VERSION:-5.24.1-community}
-  #   ports:
-  #     - 7474:7474
-  #     - 7687:7687
-  #   volumes:
-  #     - neo4j:/data
-  #     - neo4j_logs:/logs
-  #     - ./data:/csv
-  #   environment:
-  #     NEO4J_AUTH: neo4j/${DB_ROOT_PASSWORD}
+  neo4j:
+    container_name: r5a10-neo4j
+    image: neo4j:${NEO4J_VERSION:-5.24.1-community}
+    ports:
+      - 7474:7474
+      - 7687:7687
+    volumes:
+      - neo4j:/data
+      - neo4j_logs:/logs
+      - ./data:/csv
+    environment:
+      NEO4J_AUTH: neo4j/${DB_ROOT_PASSWORD}
+    profiles:
+      - graph
 
 # FerretDB
 # A truly Open Source MongoDB alternative, built on Postgres

@@ -1,4 +1,6 @@
-FROM postgres:16.4
+ARG POSTGRES_VERSION
+
+FROM postgres:${POSTGRES_VERSION:-16.4}
 
 RUN set -eux; \
   apt-get update; \

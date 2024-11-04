@@ -1,0 +1,2801 @@
+id,id_jardin,nom,adresse,code postal,ville,depot
+1,2,Cyril Wagner,1bis Basse de Para,54540,Pierre-Percée,60
+2,2,Kévin Fievet,129a Rue du Général de Gaulle,67130,La Broque,62
+3,2,Coline Maury,1075 Route des Jumeaux,88470,La Bourgonce,11
+4,2,Valérie Guilbaud,64 Route De Himbeaumont,88470,La Voivre,13
+5,2,Christian Besnard,61 Chemin du Bois Basselin,88100,Saint-Dié-des-Vosges,34
+6,2,Théodore Cuvelier,3 Impasse du Kemberg,88100,Saint-Dié-des-Vosges,47
+7,2,Léandre Baudouin,1 Rue de Frémont,67420,Saales,19
+8,2,Patrick Frémont,36a Rue de la Bazaine,88000,Épinal,52
+9,2,Jonathan Chauveau,13 Rue d'Ormont,88100,Saint-Dié-des-Vosges,47
+10,2,Brigitte Maurin,16 Avenue 36e Division Us,88600,Bruyères,32
+11,2,Yoann Ragot,12 Rue de Deyfosse,88480,Étival-Clairefontaine,2
+12,2,Timeo Pouget,19bis Rue du Ménil,88480,Étival-Clairefontaine,3
+13,2,Valère Gérard,8 Rue des Feignes,67130,La Broque,62
+14,2,Denise Aubertin,3 Le Clos des Prairies,88120,Vagney,28
+15,2,Aurore Philippon,15 Rue Gambetta,88100,Saint-Dié-des-Vosges,23
+16,2,Patricia Papin,106 Rue de Claingoutte,88650,Saint-Léonard,45
+17,2,Laurent Pillet,12a Rue de la Clairie,88250,La Bresse,49
+18,2,Gaston Bérard,27 Grande Rue,88110,Luvigny,61
+19,2,Jade Aubin,28 Chemin des Hauts Meix,88100,Nayemont-les-Fosses,21
+20,2,Aurelia Dubourg,2 Rue René Vaucourt,88580,Saulcy-sur-Meurthe,46
+21,2,Amélie Lucas,5 Chemin du Paquis,88480,Étival-Clairefontaine,3
+22,2,Marcel Renaud,23 Rue Doyette,88200,Remiremont,29
+23,2,Juliette Cochet,16 Rue Paul Doumer,88640,Granges-Aumontzey,51
+24,2,Augustine Sevin,1844 Route St Blaise la Roche Poutay,67420,Plaine,17
+25,2,Antoinette Billy,1 Chemin sous le Chastelat,88250,La Bresse,49
+26,2,Maël Bouchet,1 Rue de la Mortagne,88600,Brouvelieures,33
+27,2,Tania Renou,19bis Rue du Coq de Bruyères,88600,Champ-le-Duc,32
+28,2,Daniel Prunier,12 Chemin du Baechlé,68140,Luttenbach-près-Munster,41
+29,2,Magali Auffret,8 Rue des Magnolias,88150,Thaon-les-Vosges,54
+30,2,Guilhem Cote,5 Rue des Violettes,88150,Thaon-les-Vosges,54
+31,2,Philippe Le Bihan,10 Le Giron,88520,Bertrimoutier,36
+32,2,Roméo Mousset,3 Rue des Violettes,88150,Thaon-les-Vosges,54
+33,2,Loris Lebreton,10 Rue du Maréchal de Lattre,88120,Vagney,28
+34,2,Lorrain Bocquet,401 Rue de Lorraine,88650,Saint-Léonard,45
+35,2,Malone Guiot,41 Rue Malfosse,88210,Senones,15
+36,2,Blanche Philibert,16 Chemin du Solamont,67420,Saales,19
+37,2,Kewan Meyer,4 Rue des Roches de Fontaine,88120,Vagney,28
+38,2,Lucienne Piat,3 Devant Saint Blaise,67420,Colroy-la-Roche,17
+39,2,Renée Mauduit,101 Rue de la Resistance,88290,Saulxures-sur-Moselotte,50
+40,2,Faustine Le Bars,15b Traverse de la Roche,88250,La Bresse,49
+41,2,Pascale Tisserand,2 Rue du Casino,88400,Gérardmer,26
+42,2,Josephine Lecocq,1 Impasse de l'Orme,88100,Saint-Dié-des-Vosges,23
+43,2,Maé Delhaye,Rue du Camp,88700,Roville-aux-Chênes,7
+44,2,Jeanne Ledoux,430 Route de Bertrimoutier,88100,Neuvillers-sur-Fave,35
+45,2,Yvan Gueguen,902 Route de Raves,88100,Neuvillers-sur-Fave,35
+46,2,Bertrand Deschamps,8 rue de l'Abbaye,88480,Étival-Clairefontaine,3
+47,2,Côme Delattre,40 Chemin de Fracotte,67420,Plaine,17
+48,2,Arthur Moulin,6 Le Haut Bout,88210,Hurbache,64
+49,2,Marthe Collot,14 Rue de la Fourer,88200,Saint-Étienne-lès-Remiremont,29
+50,2,Arlette Aubert,9 Route des Bouchaux,88250,La Bresse,49
+51,2,Clovis Tournier,15 Rue de Genazeville,88640,Granges-Aumontzey,51
+52,2,Liliane Godin,47 Rue du Gal de Lattre de Tassigny,68140,Munster,41
+53,2,Annick Delannoy,2bis Impasse Rougichamps,88230,Plainfaing,37
+54,2,Maude Jouve,3 Chemin de la Valence,54540,Badonviller,59
+55,2,Eliane de Montclos,27 Les Allagouttes,68370,Orbey,39
+56,2,Yannick Carriere,5 Route de Glonville,54122,Fontenoy-la-Joûte,6
+57,2,Meline Segard,8 Les Aboixons,88430,Gerbépal,48
+58,2,Zora André,154 Chemin de la Mairie,88100,Taintrux,24
+59,2,Pascal Monteil,4 Les Gouttelles,88640,Granges-Aumontzey,51
+60,2,Alfred Motte,532 La Montagne,68910,Labaroche,40
+61,2,Emmanuelle Mahe,6169 La Bergerie Du Tambour,88420,Moyenmoutier,14
+62,2,Chloé Naudin,1 Avenue de Lachapelle,54120,Baccarat,5
+63,2,Rudy Payen,Les Pres de la Meule,67420,Saint-Blaise-la-Roche,17
+64,2,Thierry Laine,20 Rue de la Corvee,88100,Saint-Dié-des-Vosges,23
+65,2,Sylvain Beaulieu,2 Rue des Allies,88100,Saint-Dié-des-Vosges,47
+66,2,Christelle Brisset,Aux Aulnes,88210,Senones,15
+67,2,Melvin Goupil,14 Allee des Gouttes,88210,Senones,15
+68,2,Sandro Varlet,5a Cite de l’Ile,68140,Munster,41
+69,2,Joan Bellot,Route de Rouverhaut,54540,Bionville,61
+70,2,Nathéo Raoul,36 Chemin du Paquis,88700,Jeanménil,9
+71,2,Yaël Lechat,1033 Route Departementale 73,88230,Ban-sur-Meurthe-Clefcy,44
+72,2,Boris Babin,12 Grande Rue,88210,Belval,16
+73,2,Valèry Racine,8 Rue de la Prairie,88460,Cheniménil,31
+74,2,Hervé Dubuc,38 Rue des Pêcheurs,88200,Saint-Étienne-lès-Remiremont,29
+75,2,Marguerite Ferrari,2 Rue de Rapré,88210,Senones,15
+76,2,Malo Vautrin,132 Rue de la Goutte,88100,Neuvillers-sur-Fave,35
+77,2,Maxence Riviere,98d Rue du Général Dufieux,68650,Lapoutroie,38
+78,2,Lena Roux,20 Rue Pierre Curie,88440,Nomexy,55
+79,2,Carlos Boutin,112 Chemin de la Quenevrelle,88470,Saint-Michel-sur-Meurthe,1
+80,2,Adrien Gosselin,1 Lotissement l’Oree du Bois,88490,Provenchères-et-Colroy,20
+81,2,Didier Tison,13bis Avenue de Bayon,54290,Virecourt,57
+82,2,Matt Puech,5 Allée Numero 2,88150,Thaon-les-Vosges,54
+83,2,Linda Huchet,30 Rue du 158e Rgt d’Infanterie,88230,Fraize,37
+84,2,Elouan Mazet,2 Grande Rue,88210,Belval,16
+85,2,Axel Lang,13 Rue des Gadines,54120,Baccarat,5
+86,2,Estéban Ouvrard,10 Lotissement du Clos des Chenes,88470,Saint-Michel-sur-Meurthe,2
+87,2,Charlotte Tardieu,24 Rue Claude Barrès,88130,Charmes,56
+88,2,Colette Grimaud,12 Rue de l’Eglise,68370,Orbey,39
+89,2,Virginie Raimbault,88 Chemin du Haut Bourbier,88650,Saint-Léonard,45
+90,2,Pierre Luciani,28 Ruelle des Capucins,88130,Charmes,56
+91,2,Lino Huguet,1 Ruelle Dugravot,88700,Rambervillers,8
+92,2,Samuel Rillart de Verneuil,3135 Route de Saint Dié,88470,Saint-Michel-sur-Meurthe,2
+93,2,Edwige Gosset,1 Route de Saâles,88490,Provenchères-et-Colroy,20
+94,2,Agathe Tran,29 Rue Charlet,88200,Saint-Étienne-lès-Remiremont,29
+95,2,Angeline Lesueur,2 Rue de Moulins,88700,Jeanménil,9
+96,2,Elias Hoffmann,21bis Rue du Marechal Foch,88640,Granges-Aumontzey,51
+97,2,Frédéric Menard,25 Rue de la Madeleine,88100,Saint-Dié-des-Vosges,1
+98,2,Emrys Terrien,1 Rue du Gouty,88640,Granges-Aumontzey,51
+99,2,Marin Grange,12 Rue de l'Avison,88600,Bruyères,32
+100,2,Caroline Carpentier,1 Petite Rue de Coinchimont,88520,Ban-de-Laveline,36
+101,2,Rose-Marie Louis,14 la Ville,54830,Gerbéviller,58
+102,2,Noham Blandin,4 Chemin du Poirier,88120,Vagney,28
+103,2,Josiane Piot,8 Impasse des Granitiers,88400,Gérardmer,26
+104,2,Victorine Rigaud,128 le Hambout,68370,Orbey,39
+105,2,Thomas Vigneron,148 Route du Tremplin,88400,Xonrupt-Longemer,42
+106,2,Henriette Le Roux,12 Route de la Beurée,88230,Fraize,37
+107,2,Laurie Caillaud,2 Rue du Pré Bailly,54290,Bayon,57
+108,2,Gilles Loyer,3 Rue du Tissage,88190,Golbey,53
+109,2,Tristan Michel,2 La Praye,88520,Ban-de-Laveline,36
+110,2,Achille Mora,15 rue de la Distillerie,88120,Le Syndicat,28
+111,2,Laurine Jan,11 Avenue de la Gare,88120,Vagney,28
+112,2,Albert Garrigues,427 route forestière de machinrupt,67420,Plaine,17
+113,2,Agnès Chaix,12 Place du 22 Octobre 1919,88400,Xonrupt-Longemer,42
+114,2,Mathis Le Coz,Route du Pré Bostel,88400,Xonrupt-Longemer,42
+115,2,Anne-Lise Portal,7 Allee 4,88150,Thaon-les-Vosges,54
+116,2,Georgette Miquel,1 Moulin de Lorey,54290,Lorey,57
+117,2,Marie-Claude Hoareau,33 Boulevard de la Jamagne,88400,Gérardmer,26
+118,2,Anthony Fontaine,31 Chemin du Rain des Bolés,88100,Nayemont-les-Fosses,21
+119,2,Delphine Pham,27 Route de Saint-dié,88470,La Salle,11
+120,2,Thaïs d'Harcourt,13 Rue du Docteur Lapierre,88250,La Bresse,49
+121,2,Ghislaine Cros,432 Route de la Combe,88100,Pair-et-Grandrupt,21
+122,2,Tessa Chollet,26 Route du Petit Paradis,88530,Le Tholy,27
+123,2,Timothée Auger,33 Rue des Epinettes,88000,Épinal,53
+124,2,Gustave Caillet,1 Impasse des Erables,88200,Saint-Nabord,30
+125,2,Frédérique Perrault,50 Rue de Stalingrad,88110,Raon-l'Étape,4
+126,2,Arwen Blaise,71 Rue Kléber,88150,Thaon-les-Vosges,54
+127,2,Pierrette Pouliquen,9a Rue Mougel Bey,88250,La Bresse,49
+128,2,Malcom Roca,24 Rue de l’Eglise,54830,Haudonville,58
+129,2,Nolan Allemand,56bis Rue du 1er Bataillon,88210,Senones,15
+130,2,Joachim Barbier,1 Chemin de la Brayotte,88250,La Bresse,49
+131,2,Olive Sorin,19 Rue de la Roche,67130,La Broque,62
+132,2,Sylvie Roger,13 Route de Moussey,88210,Le Saulcy,16
+133,2,Loïs Bailleul,17b Rue des Aulnes,88230,Fraize,37
+134,2,Jonas Guillemin,85 Rue de la Division Leclerc,54120,Baccarat,5
+135,2,Alexandra Guery,18 Chemin de la Louvière,88250,La Bresse,49
+136,2,Martin Laffont,472 Avenue du Général de Gaulle,88100,Sainte-Marguerite,22
+137,2,Yaëlle Mercier,3bis Rue de la Mairie,88460,Cheniménil,31
+138,2,Youna Franco,6 Allée de la Prairie,88460,Cheniménil,31
+139,2,Charline Daval,34 Rue de la Tournelle,88110,Celles-sur-Plaine,60
+140,2,Ludivine Jullien,19 Impasse De La Calle,88470,La Voivre,13
+141,2,Cécile Caro,Route Des Fermes Saint Benoit,88420,Moyenmoutier,14
+142,2,Pimprenelle Bonnel,20 Ruelle de sous Bayard,88700,Rambervillers,8
+143,2,Gwendoline Bataille,449 Rd42 Lamanvillers,88200,Saint-Étienne-lès-Remiremont,30
+144,2,Gabriel Samson,1 Rue Théophile Fenal,54540,Badonviller,59
+145,2,Annabelle Brunel,3489 Route Departementale,88200,Saint-Étienne-lès-Remiremont,30
+146,2,Dylan Douay,1350 Route de la Fave,88100,Nayemont-les-Fosses,21
+147,2,Mylan Vannier,78 Chemin du Trouchy,67130,Fouday,18
+148,2,Joëlle Leveque,398 Rue de Girompaire,88650,Saint-Léonard,45
+149,2,Diego Bayle,2 Chemin de Froidefontaine,88530,Le Tholy,27
+150,2,Ruben Combe,770 Le Pont de Pierre,88230,Ban-sur-Meurthe-Clefcy,43
+151,2,Marianne Monnier,45 Promenade de la Pierre d'Appel,88480,Étival-Clairefontaine,3
+152,2,Vincent Gaudemaris,1214 Rue Saint-Michel,88470,Saint-Michel-sur-Meurthe,1
+153,2,Fabrice Rambaud,14 Rue de l'Oiseau Bleu,88000,Épinal,52
+154,2,Lucas Lemoine,9 Rue du Breuil,54830,Gerbéviller,58
+155,2,Claude Loisel,3 Rue Saint Hydulphe,88420,Moyenmoutier,14
+156,2,Baptiste Moreira,2 Rue du Tremblot,54122,Fontenoy-la-Joûte,6
+157,2,Joanna Lafitte,4 Rue Amérigo Vespucci,88100,Saint-Dié-des-Vosges,34
+158,2,Augustin Masson,1 Chemin Derrière l'Eglise,88700,Roville-aux-Chênes,7
+159,2,Gaëlle Oudin,7 Haslach,68140,Munster,41
+160,2,Eloi Guyot,1bis Avenue des Terres Saint Jean,88000,Épinal,52
+161,2,Ernest Blanchard,4 Chemin du Caron,88640,Granges-Aumontzey,51
+162,2,René de Fontanges,2 Rue de la Tete des Broches,88200,Saint-Nabord,30
+163,2,Roseline Seguin,25 Rue Jules Ferry,88600,Bruyères,32
+164,2,Ophélie Barreau,475 Route de Grandrupt,88100,Pair-et-Grandrupt,21
+165,2,Roland Pinto,12 Rue Pierre de Blarru,88100,Saint-Dié-des-Vosges,12
+166,2,Dany Aubry,7 Rue de l'Hermitage,88100,Saint-Dié-des-Vosges,47
+167,2,Loïc Delage,69 Quai du Stade,88100,Saint-Dié-des-Vosges,34
+168,2,Yohann Rougier,29d Chemin du Bois la Sau,88290,Saulxures-sur-Moselotte,50
+169,2,Lola Favier,12a Rue de Verdun,54120,Baccarat,5
+170,2,Charles Lemonnier,6 Impasse Charlemagne,88200,Remiremont,29
+171,2,Sabrina Michon,18ter Route du Droit,88250,La Bresse,49
+172,2,Olympe Guilloux,8bis Grande Rue,88490,Provenchères-et-Colroy,20
+173,2,Aimé Drouet,Rue des 3 Freres Larbalatrier,88130,Charmes,56
+174,2,Raymond Gaillard,28 Route du Granit,67420,Plaine,18
+175,2,Titouan Jarry,25 Rue du Mal de Lattre de Tassigny,88580,Saulcy-sur-Meurthe,46
+176,2,Patrice Berton,367 Rue de la Resistance,88290,Saulxures-sur-Moselotte,50
+177,2,Béatrice Paris,3bis Rue de Verdun,88330,Châtel-sur-Moselle,55
+178,2,Pauline Kremer,45 Rue du 149e Ri,88000,Épinal,53
+179,2,Zita Favre,8 Chemin des Pinasses,88600,Vervezelle,32
+180,2,Simone Pinet,458 Le Chene,68910,Labaroche,40
+181,2,Christel Lemarchand,10 Rue des Forges,67130,Schirmeck,62
+182,2,Ilian Marty,10 Rue des Prés Claude,88580,Saulcy-sur-Meurthe,45
+183,2,Lorenzo Metayer,4 Allée des Frênes,88000,Épinal,52
+184,2,Anne-Claire Fouquet,114 Impasse de l’Exploitation,88430,Corcieux,25
+185,2,Marjorie Fonteneau,1 Route de Strasbourg,67420,Plaine,18
+186,2,Zéphir Boutet,17 Velupaire,88520,Ban-de-Laveline,36
+187,2,Jérôme Bonnin,9 Rue des Castors,88100,Saint-Dié-des-Vosges,34
+188,2,Carla Bouvier,123 Rue de Stalingrad,88110,Raon-l'Étape,4
+189,2,Alison Fillon,16 Route de Vervezelle,88600,Brouvelieures,33
+190,2,April Billon,1 Rue de l’Adj Sagginati,88130,Charmes,56
+191,2,Alain Prudhomme,6 Rue des Juifs,88700,Jeanménil,9
+192,2,Andrea Bauduin,1 Allee 7,88150,Thaon-les-Vosges,54
+193,2,Lionel Reynaud,24a Rue de Vipucelle,67130,La Broque,62
+194,2,Camille Faivre,36ter Rue de la Clairie,88250,La Bresse,49
+195,2,Lilian Moreno,90 Chargotelle,68650,Lapoutroie,38
+196,2,Alexis Jouan,505 Allée de la Mairie,88100,Nayemont-les-Fosses,21
+197,2,Simon Prat,14 Route de Metendal,88700,Rambervillers,8
+198,2,Ezio Vivier,11 Rue de la Fontaine Martin,88480,Étival-Clairefontaine,3
+199,2,Arsène Guedon,23 Allée des Bouleaux,88000,Épinal,52
+200,2,Edmond Borel,Rue de Petite Haumont,88580,Saulcy-sur-Meurthe,46
+201,2,Françoise Guegan,7 Chemin de la Prairie,88430,Gerbépal,48
+202,2,Hugo Bellec,453a Le Chene,68910,Labaroche,40
+203,2,Léon Massot,31 Rue Haute,88400,Gérardmer,26
+204,2,Valérian Garcia,42 Rue des Forges,88600,Brouvelieures,33
+205,2,Harold Vallee,3 Allee des Roches Vertes,88430,Corcieux,25
+206,2,Roger Bloch,95 Hambostures,68650,Lapoutroie,38
+207,2,Martine Debray,111 Franpre,88230,Ban-sur-Meurthe-Clefcy,44
+208,2,Emile Pierron,17 Ancienne Route de Moyen,54830,Gerbéviller,58
+209,2,Karen Munoz,16ter Grande Rue,88210,Belval,16
+210,2,Serge Chapuis,12 Rue Galliéni,54830,Gerbéviller,58
+211,2,Justin Gregoire,9 Route de Glonville,54122,Fontenoy-la-Joûte,6
+212,2,Albane Roussel,197 Route des Longenes,88290,Saulxures-sur-Moselotte,50
+213,2,Nadia Delpech,2 Parc d’Activites,88470,Saint-Michel-sur-Meurthe,2
+214,2,William Braud,40 Route du Cd 417,88530,La Forge,27
+215,2,Jean-Louis Costes,34 Rue du Stade,88520,Ban-de-Laveline,36
+216,2,Marie Herbin,25 Rue d’Armont,88200,Saint-Nabord,30
+217,2,Ylan Taillandier,17 Place de l'Europe Valéry Giscard d'Estaing,88100,Saint-Dié-des-Vosges,47
+218,2,Gilberte Ducrocq,13 Rue des F F I,88130,Charmes,56
+219,2,Estelle Guichard,21 Rue du Marechal Joffre,88000,Épinal,53
+220,2,Jean-Christophe Berry,8 Nouveau Saales,67420,Saales,19
+221,2,Kimi Garcin,63c Boulevard Kelsch,88400,Gérardmer,26
+222,2,Marc Riche,7 Avenue de la Princesse Charlotte,88210,Senones,15
+223,2,Lenny Bourgois,1 Le Rayau,88640,Granges-Aumontzey,51
+224,2,Nadine Le breton,1190 Route du Relais,88400,Xonrupt-Longemer,42
+225,2,Alice Fleury,98 Rue de la Bolle,88100,Saint-Dié-des-Vosges,23
+226,2,Marine Florent,35 Rue Charles et Joséphine Linck,88100,Saint-Dié-des-Vosges,23
+227,2,Evan Flores,84 Basse des Epinottes,88130,Charmes,56
+228,2,Henri Husson,841 Rue de Malchainoir,88290,Saulxures-sur-Moselotte,50
+229,2,Alban Dupond,51 Chemin du Purgatoire,88100,Saint-Dié-des-Vosges,34
+230,2,Alexine Baudet,13 Rue du Praillon,88200,Remiremont,29
+231,2,Christophe Haas,225 Rue de la Neuveville,88430,Corcieux,25
+232,2,Rayan Provost,1391 Chemin du Giron,88100,Nayemont-les-Fosses,21
+233,2,Victor Granger,6bis Rue du Docteur Larue,88210,Senones,15
+234,2,Laure Gervais,35 Devant Saint Blaise,67420,Colroy-la-Roche,17
+235,2,Eric de Bruyères-Chalabre,5 Rue du Camping,88100,Saint-Dié-des-Vosges,34
+236,2,Robin Fischer,1 Route de Saint-augustin,88530,La Forge,27
+237,2,Maeva Laroche,75 Le Hagimont,88230,Ban-sur-Meurthe-Clefcy,43
+238,2,Irene Durieux,7 Avenue Princesse Charlotte de Salm,88210,Senones,15
+239,2,Janine Chiron,24 Rue de Verdun,88110,Raon-l'Étape,4
+240,2,Lubin Dubois,1 Rue du Lait,68370,Orbey,39
+241,2,Lisa Leleu,13 Vieux Chemin d’Eschbach,68140,Munster,41
+242,2,Ethan Forestier,11 Route du Vagodel,88650,Saint-Léonard,45
+243,2,Gérald Rose,11bis Nayemont,88210,Ban-de-Sapt,63
+244,2,Soan Maisonneuve,1 Rue la Grande Voye,88520,Ban-de-Laveline,36
+245,2,Lorraine Voisin,400 Rue de Girompaire,88650,Saint-Léonard,45
+246,2,Jean-Michel Desprez,1 Rue des Jardins,68140,Munster,41
+247,2,Abel Restaurand,21 Rue des 3 Sapins,88200,Saint-Nabord,30
+248,2,Maryse Perret,1 Rue de l'Ancienne Ecole,88600,Brouvelieures,33
+249,2,Alexia Torres,22bis Nayemont,88210,Ban-de-Sapt,63
+250,2,Valériane Dumas,1 Rue du Kemberg,88580,Saulcy-sur-Meurthe,46
+251,2,Nino Rolland,2 Rue Sainte Madeleine,54120,Deneuvre,5
+252,2,Gauthier De oliveira,85 Tschepitre,68650,Lapoutroie,38
+253,2,Véronique Pelletier,28 Rue Général de Reffye,88000,Épinal,53
+254,2,Florent Pepin,Nayemont-les-Fosses,88100,Nayemont-les-Fosses,21
+255,2,Soren Trouve,4 Allée du Clos Phulpin,88460,Cheniménil,31
+256,2,Adam Weiss,7 Rue du Pré Bostel,88400,Xonrupt-Longemer,42
+257,2,Jolan Bruyere,11 Rue de l'Eglise,88110,Celles-sur-Plaine,60
+258,2,Thiméo Le Floch,6 Chemin Prive Coulombel,88580,Saulcy-sur-Meurthe,46
+259,2,Virgile Galembert,13 Impasse Chemin Rural,88150,Thaon-les-Vosges,54
+260,2,Vanessa Pinson,7bis Route de Noir Rupt,88530,Le Tholy,27
+261,2,Orianne Tardy,24 Avenue du Theatre Verdure,88100,Saint-Dié-des-Vosges,47
+262,2,Sylviane Girardin,225 Chemin de la Haute Fossé,88100,Taintrux,24
+263,2,Noël Lafond,101a Route de la Hollande,88210,Hurbache,64
+264,2,Damien Amar,637 Route des Voistines,88430,Corcieux,25
+265,2,Géraldine Rouyer,49 Avenue du 8 Mai 1945,88700,Rambervillers,8
+266,2,Sandra Janvier,104 Rue des 4 Freres Mougeotte,88100,Saint-Dié-des-Vosges,34
+267,2,Nina Santos,9 Voie Romaine,88470,Saint-Michel-sur-Meurthe,2
+268,2,Cédric Reboul,236 Route de la Bellegoutte,88650,Saint-Léonard,45
+269,2,Maxime Guiraud,2 Route des Bouchaux,88250,La Bresse,49
+270,2,Raphaël Bachelet,209 Impasse de la Goutte des Marres,88100,Taintrux,24
+271,2,Chantal Charton,21 Rue de la Petite Fosse,88640,Granges-Aumontzey,51
+272,2,Emilienne Couderc,2 Rue du Cpt de Lassus St,88100,Saint-Dié-des-Vosges,47
+273,2,Max Albertini,6 Chemin du Calvaire,88250,La Bresse,49
+274,2,Vianney Piquet,379 La Place,68910,Labaroche,40
+275,2,Tim de Bazelaire,3 Rue du Maroc,88000,Épinal,53
+276,2,Manuel Kieffer,401 Chemin du Bouxerand,88400,Xonrupt-Longemer,42
+277,2,Gérard Rousselle,25 Quai du Stade,88100,Saint-Dié-des-Vosges,34
+278,2,Salomé Huart,505 Route des Jumeaux,88470,Nompatelize,11
+279,2,Karine Remy,12 Chemin de Bellevue,88400,Gérardmer,26
+280,2,Kenzo Verrier,22bis Rue d’Armont,88200,Saint-Nabord,30
+281,2,Laurence Benoist,2 Route de Vervezelle,88600,Brouvelieures,33
+282,2,Jean-Baptiste Rossi,575 Chemin de la Cartonnerie,88100,Sainte-Marguerite,22
+283,2,Sonia Bastien,Saulcy-sur-Meurthe,88580,Saulcy-sur-Meurthe,46
+284,2,Jordan Robinet,305 Route de la Fave,88100,Nayemont-les-Fosses,21
+285,2,Mylène Angot,248 Impasse de la Prairie,88200,Saint-Étienne-lès-Remiremont,30
+286,2,François Andrieu,1 Rue des Jonquilles,88100,Saint-Dié-des-Vosges,34
+287,2,Thibaut Chatelain,23bis Rue de la Gare,88100,Saint-Dié-des-Vosges,23
+288,2,Madeleine Le Gal,2 Rue des Evelottes,54290,Bayon,57
+289,2,Samantha Bossard,29 Chemin de l'Enfer,88100,Saint-Dié-des-Vosges,34
+290,2,Théo Leduc,448 Rue de la Meurthe,88650,Saint-Léonard,45
+291,2,Naël Teissier,312 Les Pres,88230,Ban-sur-Meurthe-Clefcy,44
+292,2,Lou Foucault,29 Rue du Général de Gaulle,88120,Vagney,28
+293,2,Kelly Gerardin,15 Rue de la Petite Papeterie,88480,Étival-Clairefontaine,3
+294,2,Margot Rochette,16 Allée des Géraniums,54540,Badonviller,59
+295,2,Yann Romero,11 Rue du Général Patch,88460,Docelles,31
+296,2,Marie-Louise Imbert,1 Rue de l'Abbaye,88480,Étival-Clairefontaine,3
+297,2,Marie-Noëlle Verger,464 Les Chiais,68910,Labaroche,40
+298,2,Marie-Pierre Lavaud,188 Rue des Rappes,88700,Housseras,10
+299,2,Célestin Legros,12 Rue du Moulin,88120,Vagney,28
+300,2,Leonie Teyssier,629 Chemin de la Pellière,88230,Ban-sur-Meurthe-Clefcy,44
+301,2,Maria Bodin,31 Rue de Lattre de Tassigny,88640,Granges-Aumontzey,51
+302,2,Edith Rey,2 Rue du Senneçon,88210,Senones,15
+303,2,Cindy Michaud,18 Rue du Champ du Moine,67130,La Broque,62
+304,2,Gaspard Etienne,18 Impasse du Moulin,88650,Saint-Léonard,45
+305,2,Roman Cotte,10 Prés de l'Anneau,88110,Celles-sur-Plaine,60
+306,2,Jacques Serra,2 Chemin de la Petite Fin,88480,Étival-Clairefontaine,3
+307,2,Florence Herve,19 Rue Théophile Fenal,54540,Badonviller,59
+308,2,Charlène Beal,4 Le Haut des Baumes,88640,Granges-Aumontzey,51
+309,2,Danielle Bigot,69 Route de Charmes,88130,Essegney,56
+310,2,Olivia Hennequin,10 Chemin du Haut du Mont,88100,Saint-Dié-des-Vosges,12
+311,2,Micheline Dorion,393 Route Departementale 73,88230,Ban-sur-Meurthe-Clefcy,44
+312,2,Mathilde Marechal,2 Rue Jean Moulin,88120,Vagney,28
+313,2,Jean-Paul Philippot,1377 Rue des Mitreuches,88200,Dommartin-lès-Remiremont,29
+314,2,Catherine Zimmermann,43 Faubourg de Nancy,88000,Épinal,53
+315,2,Théophile Riou,200 Chemin des Goutys,88100,Pair-et-Grandrupt,21
+316,2,Matéo Vidal,39 Avenue Jean-baptiste Diedler,54540,Badonviller,59
+317,2,Harry Coste,5 Rue du Hameau Alsacien,88190,Golbey,53
+318,2,Bernard Luce,Impasse du Champ de Foire,88480,Étival-Clairefontaine,3
+319,2,Jean-Luc Lahaye,5 Place du Calvaire,88700,Roville-aux-Chênes,7
+320,2,Jacqueline Verdier,4 Route de Berlingoutte,88530,Le Tholy,27
+321,2,Céleste Lacoste,22 Boulevard de Saint-dié,88400,Gérardmer,26
+322,2,Ange Barrau,6 Rue Antoine de Saint Exupéry,88100,Saint-Dié-des-Vosges,1
+323,2,Nathan Le bras,1 Rue des Forges,67130,Schirmeck,62
+324,2,Yvette Ben,19 Rue de Saint-Del,88120,Vagney,28
+325,2,Milo Keller,145 Chemin Pourichamp,88470,Saint-Michel-sur-Meurthe,2
+326,2,Claire Munier,1 Place du Marechal Lyautey,88100,Sainte-Marguerite,22
+327,2,Victoria Clavier,82c la Gasse,68650,Lapoutroie,38
+328,2,Fernande Lacroix,7 Rue du 14 Novembre 1944,88530,Le Tholy,27
+329,2,Julien Louvet,390 Route de Remomont,68370,Orbey,39
+330,2,Jean-Philippe Chaput,31 Rue des Gravières,88580,Saulcy-sur-Meurthe,46
+331,2,Clément Mounier,Brouvelieures,88600,Brouvelieures,33
+332,2,Liam Peyre,58 Impasse De La Calle,88470,La Voivre,13
+333,2,Germaine Le Borgne,1 Maison Forestière de la Hazelle,88110,Luvigny,61
+334,2,Dorian Bonneau,161 Rue des Peupliers,88100,Sainte-Marguerite,22
+335,2,Clara Cuny,18 Route de Bruyeres (Granges-sur-Vologne),88640,Granges-Aumontzey,51
+336,2,Téo Marc,28 Rue Jacques Delille,88100,Saint-Dié-des-Vosges,12
+337,2,Josette Leprince,35 Route de Jeuxey,88000,Épinal,52
+338,2,Gilbert Rio,7 Rue des Raccrues,88100,Saint-Dié-des-Vosges,12
+339,2,Nicole Dion,1207 Route du Saut des Cuves,88400,Xonrupt-Longemer,42
+340,2,Felix Frey,9 Allee 21,88150,Thaon-les-Vosges,54
+341,2,Tabitha James,80 Impasse du Bouxerand,88400,Xonrupt-Longemer,42
+342,2,Ginette Lassalle,12 Le Rayau,88640,Granges-Aumontzey,51
+343,2,Nadege Grandjean,10 Rue de Florivoie,88640,Granges-Aumontzey,51
+344,2,Cloé Jaouen,10 Chemin de la Criquette,88110,Raon-l'Étape,4
+345,2,Bénédicte Fevre,9 Chemin des Gris Journeaux,88700,Jeanménil,9
+346,2,Elie Dutertre,5 Route de Bouvacote,88530,Le Tholy,27
+347,2,Richard Chene,268 Chemin des Goutys,88100,Pair-et-Grandrupt,21
+348,2,Jules Briere,40 Rue des Tanneries,88700,Rambervillers,8
+349,2,Urbain de Chansiergues,1 Avenue de l'Europe,88200,Saint-Étienne-lès-Remiremont,29
+350,2,Milan Pigeon,4 Rue Charles Maudru,88150,Igney,54
+351,2,Edouard Tissier,94 Route des Couteles,88100,Pair-et-Grandrupt,21
+352,2,Marius Le gall,19a Rue du Docteur Durand,88230,Fraize,37
+353,2,Basile Coulon,1 Rue du Champ du Moine,67130,La Broque,62
+354,2,Johanna Landry,7 Impasse du Donjon,54120,Deneuvre,5
+355,2,Hector Cornet,4 Rue de l'Ancien Séminaire,88580,Saulcy-sur-Meurthe,46
+356,2,Luc Dubus,31 Rue les Voyaux,88430,Corcieux,25
+357,2,Farah Pinot,1a Rue Baron Seilliere,88210,Senones,15
+358,2,Léa Boyer,30 Rue de l’Abattoir,88130,Charmes,56
+359,2,Robert Arnoux,39 Route De Bechamp,88470,La Voivre,13
+360,2,Ursula Diaz,8 Chemin sous le Chastelat,88250,La Bresse,49
+361,2,Corinne Becker,14 Route de Gérardmer,88430,Gerbépal,48
+362,2,Albin Mayer,2 La Petite Fourriere,88210,Belval,16
+363,2,Ryan Wolff,4 Chemin de la Creuse,88480,Étival-Clairefontaine,3
+364,2,Sandrine Gautier,10 Impasse Ohl des Marais,88100,Saint-Dié-des-Vosges,12
+365,2,Logan Bourgoin,26 Grande Rue,54120,Deneuvre,5
+366,2,Cerise Dupond,12 Rue du Maréchal Lyautey,88110,Raon-l'Étape,4
+367,2,David Dussart,481 Route des Annailles,88470,La Bourgonce,11
+368,2,Hubert Bazin,2 Grande Rue,54540,Fenneviller,59
+369,2,Maud Merle,10 Rue de l’Ecluse,88190,Golbey,53
+370,2,Bernadette Lerond,8 Chemin du Château,88460,Cheniménil,31
+371,2,Abigail Beck,8 Chemin du Bambois,88250,La Bresse,49
+372,2,Angèle Godard,10 Rue Eugène Sonrier,88190,Golbey,53
+373,2,Huguette Payet,558 Rue d'Alsace,88100,Sainte-Marguerite,22
+374,2,Noa Bel,175 Rue Du Faubourg,88470,La Voivre,13
+375,2,Fabien Guyard,656 Route De Bechamp,88470,La Voivre,13
+376,2,Alicia Poncet,3 Impasse de la Beurée,88230,Fraize,37
+377,2,Peggy Chretien,33 Rue Jacquard,88440,Nomexy,55
+378,2,Paolo Neveu,9 Aux Aulnes,88210,Senones,15
+379,2,Gisèle Schneider,2 Route de Bouvacote,88530,Le Tholy,27
+380,2,Fanny Doucet,273 Chemin du Fosse,68650,Lapoutroie,38
+381,2,Alix Ricci,3 Chemin du Froid,88200,Saint-Nabord,30
+382,2,Emeline Charlot,4 Le Behay,88110,Luvigny,61
+383,2,Inès Pons,7 Rue Jeanne d’Arc,88210,Senones,15
+384,2,Thibaud Gallo,3 Rue Antoine de Saint Exupéry,88100,Saint-Dié-des-Vosges,12
+385,2,Louise Lebas,6 Rue Marcelle Cuny - Cronne,54120,Baccarat,5
+386,2,Adeline Lavergne,86 Rue de l'Ancien Hôpital,67130,Schirmeck,62
+387,2,Urielle Duprat,16a Rue de l’Eglise,68370,Orbey,39
+388,2,Emilie Hue,11 Rue Du Coteau,88440,Nomexy,55
+389,2,Loan Ollier,7 Rue Marie Curie,88100,Saint-Dié-des-Vosges,34
+390,2,Julian Langlet,19 Quai du Marechal Leclerc,88100,Saint-Dié-des-Vosges,47
+391,2,Thibault Amiot,145 Route des Longenes,88290,Saulxures-sur-Moselotte,50
+392,2,Eloan Stephan,3 Route de Gunsbach,68140,Munster,41
+393,2,Eugene Castel,5 Rue du Gutty,88460,Cheniménil,31
+394,2,Zoé Lesage,Chemin des Rots,68650,Lapoutroie,38
+395,2,Bruno Murat,25 Route d’Eschbach,68140,Munster,41
+396,2,Antonin Leon,19 Ruelle des Sables,88100,Saint-Dié-des-Vosges,1
+397,2,Angélique Simonnet,128 Voie du bas Bousson,88470,Saint-Michel-sur-Meurthe,2
+398,2,Anatole Chateau,6 Place de la République,54540,Badonviller,59
+399,2,Valentine Duquesne,40 Route de Gérardmer,88430,Gerbépal,48
+400,2,Charlie Mallet,17 Rue de Verdun,88600,Bruyères,32
+401,2,Romane Dupouy,187 Rue du Closé,88470,Saint-Michel-sur-Meurthe,2
+402,2,Louison Le moal,1bis Ruelle Des Jardinets,88420,Moyenmoutier,14
+403,2,Isabelle Molinier,12 Allee 1,88150,Thaon-les-Vosges,54
+404,2,Anne-Laure Cordonnier,25 Rue du Maréchal de Lattre,88120,Vagney,28
+405,2,Joris Thiriet,24 Rue du Champ Renard,88200,Remiremont,29
+406,2,Solene Paquet,2 Rue de la Ratte,88460,Cheniménil,31
+407,2,Enola Berthelot,10 Chemin du Baechlé,68140,Luttenbach-près-Munster,41
+408,2,Anissa Jourdain,19 Rue René Fonck,88580,Saulcy-sur-Meurthe,47
+409,2,Stanislas Fraisse,7 Rue de la Côte Mauvraie,88000,Épinal,53
+410,2,Odette Bonnot,4 Rue Saint-pierre,54122,Fontenoy-la-Joûte,6
+411,2,Jacky Dupuy,20 Place Saint-martin,88100,Saint-Dié-des-Vosges,47
+412,2,Melanie Servant,5 Bourras,88210,Ban-de-Sapt,63
+413,2,Arnaud Brochet,8 Rue des Boutons d'Or,88000,Épinal,52
+414,2,Noelle Vallet,20 Rue des Grands Champs,88470,Saint-Michel-sur-Meurthe,2
+415,2,Aubin Prost,15a Le Trupt,54540,Bionville,61
+416,2,Ludwig Navarro,7bis Haut du Village,88210,Le Puid,16
+417,2,Natacha Chevrier,10 Rue du Sapin,68650,Lapoutroie,38
+418,2,Mickey Marion,503 Rue du Bousson,88470,Saint-Michel-sur-Meurthe,2
+419,2,Yvaine Gutierrez,17 Rue des Jardins,67420,Saint-Blaise-la-Roche,17
+420,2,Tatiana Gallais,40 Rue Louis Marin,88600,Bruyères,32
+421,2,Emine Joyeux,6 Rue du Pré Montant,54290,Bayon,57
+422,2,Matteo Remond,14 Che de la Côte Saint-martin,88100,Saint-Dié-des-Vosges,23
+423,2,Matthieu Nedelec,55 Rue des Ecoles,67130,Schirmeck,62
+424,2,Mathieu Even,64 Route du Pré Bostel,88400,Xonrupt-Longemer,42
+425,2,Guillaume Delalande,5 Route du Terrain de Manoeuvres,88580,Saulcy-sur-Meurthe,22
+426,2,Anne Caron,139 Rue des Charrieres,88290,Saulxures-sur-Moselotte,50
+427,2,Noan Favreau,10d Rue De Geroville,88420,Moyenmoutier,14
+428,2,Norbert Carre,172 Rue Raymond Poincare,88290,Saulxures-sur-Moselotte,50
+429,2,Marie Blondel,251 Route des Grimels,88230,Ban-sur-Meurthe-Clefcy,43
+430,2,Brice Lebel,6 Rue Jean Jaurès,88190,Golbey,53
+431,2,Viviane Corre,23 Rue du Mal de Lattre de Tassigny,88230,Fraize,37
+432,2,Cassandra Simonet,3 Rue du Brancerf,88150,Igney,54
+433,2,Perrine Chabot,3 Rue des Tisserands,88190,Golbey,53
+434,2,Orane Parisot,4a Rue du General Ingold,88230,Fraize,37
+435,2,Ronan Binet,140 la Grande Vallée,68370,Orbey,39
+436,2,Benjamin Maillard,Chemin de la Menelle,54540,Pierre-Percée,60
+437,2,Cyprien Baude,2 Avenue du Theatre Verdure,88100,Saint-Dié-des-Vosges,23
+438,2,Lydie Henry,24 Rue du 8 Mai 1945,88480,Étival-Clairefontaine,3
+439,2,Deborah Lamy,3 Impasse Du Calvaire,88420,Moyenmoutier,14
+440,2,Dimitri Demange,21 Les Ziauprés,88430,Gerbépal,48
+441,2,Bastien Cousin,445 Romaingoutte,68910,Labaroche,40
+442,2,Aude Feron,30bis Rue du 5 Septembre 1944,88600,Champ-le-Duc,32
+443,2,Sophie Charbonnier,2 Le Faing Die,88600,Brouvelieures,33
+444,2,Amandine Thiery,11 Rue Rene Ferry,88100,Saint-Dié-des-Vosges,1
+445,2,Romain Pelle,5 Rue de la Filature,68650,Lapoutroie,38
+446,2,Adrienne Marti,17 Lotissement de la Schirgoutte,67130,Fouday,18
+447,2,Laetitia Guibert,281 Rue Du Tir,88420,Moyenmoutier,14
+448,2,Jeanine Lallemand,6 Rue Notre-dame de Lorette,88110,Raon-l'Étape,4
+449,2,Tony Calvet,2 Ancienne Route de Quieux,88210,Le Saulcy,16
+450,2,Alexandre Cadet,122 Rue de l’Etang des Fees,88290,Saulxures-sur-Moselotte,50
+451,2,Annie Schaeffer,1 Mais Forestiere Blompierre,88110,Luvigny,61
+452,2,Alphonse Thiebaut,20bis Avenue Chanzy,88600,Bruyères,32
+453,2,Floriane Blanc,25 Rue Eugène Mathis,88230,Fraize,37
+454,2,Isaac Moreau,55 Chemin de la Ville du Pré,88100,Taintrux,24
+455,2,Nicolas Parent,490 Route des Feignes,88470,Nompatelize,11
+456,2,Maximilien Billard,15 Rue Yitzhak Rabin,88600,Bruyères,32
+457,2,Genevieve Pollet,10 Rue des Prayeux,88200,Saint-Nabord,30
+458,2,Zaccharie Constant,4 Rue de l'Ecole,88110,Luvigny,61
+459,2,Nathalie Leloup,38 Chemin du Spitzemberg,88100,Nayemont-les-Fosses,21
+460,2,Christine Valentin,8 Rue de Saint-Del,88120,Vagney,28
+461,2,Francine Brossard,37 Chemin de la Cartonnerie,88100,Sainte-Marguerite,22
+462,2,Carole Vignal,4 Les Grands Pres,88700,Jeanménil,9
+463,2,Gaël Poirot,2 Route des Fourneaux,88430,Gerbépal,48
+464,2,Anne-Marie Madec,4 Place du Marechal Foch,88700,Rambervillers,8
+465,2,Marceau Maillot,3 La Rochelure,88210,Senones,15
+466,2,Fernand Hubert,54 Route de Jeuxey,88000,Épinal,52
+467,2,Jeannine Denis,463 Rue de Brompont,88100,Sainte-Marguerite,22
+468,2,Yolande Gibert,4 Rue Jean Paul Sartre,54120,Baccarat,5
+469,2,Florian Leonard,4 Rue des Champs Simon,88460,Cheniménil,31
+470,2,Benoit Pujol,1 Chemin Aulnet,88460,Cheniménil,31
+471,2,Barbara Quentin,4 Rue de Benaville,67420,Saulxures,17
+472,2,Clementine Mendes,2 Chemin de la Valence,54540,Badonviller,59
+473,2,Paulette Pernot,3 Chemin du Unter Solberg,68140,Munster,41
+474,2,Rémi Simonin,531 Les Bolles,68910,Labaroche,40
+475,2,Luis Bouquet,2 Avenue de la Fontenelle,88100,Saint-Dié-des-Vosges,12
+476,2,Grégory Ramos,6 Rue du Haut la Scie,54120,Baccarat,5
+477,2,Sarah Bonin,1163a Rte l’Envers du Rupt de Bamont,88290,Saulxures-sur-Moselotte,50
+478,2,Christiane Beguin,Le Tholy,88530,Le Tholy,27
+479,2,Gaëtan Quere,17 Chemin de Dubach,68140,Munster,41
+480,2,Manon Besse,2 Impasse sur l’Eau,88210,Le Saulcy,16
+481,2,Daniele Labrousse,409 Chemin de la Rouge Cote,88470,Saint-Michel-sur-Meurthe,2
+482,2,Pablo Andres,3 Rue du 14 Novembre 1944,88530,Le Tholy,27
+483,2,Léo Baud,Parc Econom Grands Moulins,88200,Saint-Étienne-lès-Remiremont,29
+484,2,Tom Perez,74 Rue Jules Ferry,88110,Raon-l'Étape,4
+485,2,Rachel Demaret,19 Avenue Pierre Blanck,88000,Épinal,52
+486,2,Sélène Albert,4b Rue de la Clairie,88250,La Bresse,49
+487,2,Gabin Cornu,503 Rue Joseph Thiéry,88230,Ban-sur-Meurthe-Clefcy,44
+488,2,Marina Besnier,2 Rue Boileau,88190,Golbey,53
+489,2,Vadim Claudel,1 Chemin de Meix Grand Pere,54540,Fenneviller,59
+490,2,Andrée Esnault,6 Impasse de la Madeleine 1,88100,Saint-Dié-des-Vosges,23
+491,2,Raoul Brun,751 Route de Grandrupt,88100,Pair-et-Grandrupt,21
+492,2,Eliot Jaffre,68 Rue Saint-pierre,54830,Gerbéviller,58
+493,2,Marlene Janin,6 Impasse des Hautes Feignes,88400,Gérardmer,26
+494,2,Victoire Bonnaud,32 Rue du Nouvel Hopital,88100,Saint-Dié-des-Vosges,34
+495,2,Katia Chabert,5 Rue Marie Curie,88100,Saint-Dié-des-Vosges,34
+496,2,Séverine De sousa,107 Impasse des Voispres,88230,Ban-sur-Meurthe-Clefcy,44
+497,2,Marie-Thérèse Berger,1 Impasse de l'Etang Piller,88100,Saint-Dié-des-Vosges,1
+498,2,Jennifer Besson,3bis Rue de la Tâche,88120,Vagney,28
+499,2,Justine Grenier,5 Velupaire,88520,Ban-de-Laveline,36
+500,2,Anna Huet,9 La Menelle,54540,Pierre-Percée,60
+501,2,Néo Pruvot,7 Rue des Ecureuils,88200,Remiremont,29
+502,2,Joseph Sanchez,70 Quai de Dogneville,88000,Épinal,53
+503,2,Emmanuel Perron,126 La Rougeterre,68370,Orbey,39
+504,2,Dounia Soulier,16 Allée de la Roche Toussaint,88400,Xonrupt-Longemer,42
+505,2,Emma Guitton,27 Rue la Croix Jacob,54540,Badonviller,59
+506,2,Teddy Bouton,2 Rue de la Bolle,88100,Saint-Dié-des-Vosges,1
+507,2,Celia Ferrer,1 Rue du Parc,54120,Baccarat,5
+508,2,Thérèse Soares,135 Route de Saulcy,88650,Saint-Léonard,45
+509,2,Maelle Boulay,1061 Route de la Grande Basse,88470,La Bourgonce,11
+510,2,Gabrielle Thevenin,5 Rue des Grands Moulins,88100,Saint-Dié-des-Vosges,23
+511,2,Suzanne Gonzales,4 La Vanne Gon Etang,88130,Charmes,56
+512,2,Mickaël Jeannin,583 Route Departementale 73,88230,Ban-sur-Meurthe-Clefcy,44
+513,2,Jean-Claude Vignon,24 Lotissement de la Schirgoutte,67130,Fouday,18
+514,2,Jocelyne Bourdin,3a Cite Petite Vallee,68140,Munster,41
+515,2,Étienne Maurel,1 Rue du Four,54290,Bayon,57
+516,2,Berthe Courtin,4 Rue Eugène Gérard,88530,Le Tholy,27
+517,2,Armand Sicard,9b Rue des 3 Maisons,88400,Gérardmer,26
+518,2,Zabou Froger,3 Rue de la Gare,67420,Saales,19
+519,2,Michael Blondeau,85 Allée des Epinettes,88480,Étival-Clairefontaine,3
+520,2,Myriam Carton,10 Impasse du Feigne,88400,Gérardmer,26
+521,2,Anne-Sophize Fevrier,11 Chemin de Ribeaupierre,88230,Fraize,37
+522,2,Jérémie Vuillemin,18 Ruelle du Moulinot,88120,Vagney,28
+523,2,Eva Blot,29 Rue du Pont de Cheneau,88200,Saint-Étienne-lès-Remiremont,29
+524,2,Océane Guerin,240 Rue Racine,88650,Anould,45
+525,2,Kim Blanchet,150 Rue du Haut du Pin,88470,Saint-Michel-sur-Meurthe,2
+526,2,Jean Lebon,447 Chemin du Xainfaing,88100,Taintrux,24
+527,2,Dominique Gaston de Pollier,31 Avenue de la Gare,54290,Bayon,57
+528,2,Oscar Duez,1 Chemin la Belle au Bois Dormant,88000,Épinal,52
+529,2,Jérémy Mollet,1042 Route de Colmar,88230,Ban-sur-Meurthe-Clefcy,37
+530,2,Yanis Richet,54 Rue Jules Ferry,88110,Raon-l'Étape,4
+531,2,Melodie Pastor,1 Rue de l’Epine,88490,Provenchères-et-Colroy,20
+532,2,Martial Jimenez,60 Chemin de la Corvée,88100,Sainte-Marguerite,22
+533,2,Claudine Dupre,1257 Chemin des Suais,88290,Saulxures-sur-Moselotte,50
+534,2,Jean-Pierre Bouvard,8 Rue des 3 Sorrels,88460,Cheniménil,31
+535,2,Kilian Nogues,12 Passage du Centenaire,88120,Vagney,28
+536,2,Xavière Godet,1 Gerbainchamps,88110,Luvigny,61
+537,2,Félix Monfort,4 Rue Louis Pasteur,88100,Saint-Dié-des-Vosges,23
+538,2,Rose Auge,6ter Rue du Kemberg,88580,Saulcy-sur-Meurthe,46
+539,2,Kenna Charron,29 Rue Claude Barrès,88130,Charmes,56
+540,2,Joël Guillemot,21 Route de Saint-dié,88230,Fraize,44
+541,2,Elio Bourges,225 Rue de la Meurthe,88650,Saint-Léonard,45
+542,2,Paulin Weber,1 Hurlufaing,88640,Granges-Aumontzey,51
+543,2,Armelle Nguyen,1720 Chemin des Suais,88290,Saulxures-sur-Moselotte,50
+544,2,Rémy Demay,379i La Camme,68910,Labaroche,40
+545,2,Léonard Lemercier,10 Avenue de la Fontenelle,88100,Saint-Dié-des-Vosges,23
+546,2,Tyméo Duclos,9 Rue des Blanchisseurs,88400,Xonrupt-Longemer,42
+547,2,Monique Maire,910 Route des Jumeaux,88470,Nompatelize,11
+548,2,Lydia Pinon,12 Impasse de la Madeleine 3,88100,Saint-Dié-des-Vosges,1
+549,2,Margaux Andrieux,11 Le Trupt,54540,Bionville,61
+550,2,Aline Guy,93 Unter Solberg,68140,Eschbach-au-Val,41
+551,2,Paul Cremoux,473 Route de Vichibure,88430,Corcieux,25
+552,2,Melody Genet,1 Rue des Fautrés,88210,Le Saulcy,16
+553,2,Philippine Roques,12 Rue de l’Epine,88490,Provenchères-et-Colroy,20
+554,2,Corentin Bousquet,1 Rue des Vergers,54120,Deneuvre,5
+555,2,Lucien Schweitzer,4 Avenue de Lachapelle,54120,Baccarat,5
+556,2,Killian Bianchi,360 Rue de la Gare,88470,Saint-Michel-sur-Meurthe,2
+557,2,Francis Rousseau,248 Rue de Brompont,88100,Sainte-Marguerite,22
+558,2,Kélian Levasseur,1 Rue des Courtes Royes,88000,Épinal,52
+559,2,Amaury Mauger,76 Rue de la République,88210,Senones,15
+560,2,Jessy Dulac,38 Rue du Clair Matin,88000,Épinal,53
+561,2,Auguste Durand,17 Rue Joliot Curie,54120,Baccarat,5
+562,2,José Cellier,7 Rue du Vieux Chemin de Bru,88700,Rambervillers,8
+563,2,Tanguy Delmas,1 Rue du Moncel,88580,Saulcy-sur-Meurthe,46
+564,2,Mathias Leray,7 Chemin du Pré Georges,88250,La Bresse,49
+565,2,Murielle Leroux,41 Velupaire,88520,Ban-de-Laveline,36
+566,2,Marielle Bontemps,20 Allée des Rapailles,88000,Épinal,52
+567,2,Simonne Bordes,16 Rue du Tremblot,54122,Fontenoy-la-Joûte,6
+568,2,Morgan Froment,326 Chemin des Goutys,88100,Pair-et-Grandrupt,21
+569,2,Eugenie Bauer,2 La Menelle,54540,Pierre-Percée,60
+570,2,Octave Plessis,223 Rue des Epinettes,88100,Sainte-Marguerite,22
+571,2,Guy Leriche,10 Rue de la Croix de Mission,88100,Saint-Dié-des-Vosges,1
+572,2,Malika Fraysse,39 Rue du Petit Saint-dié,88100,Saint-Dié-des-Vosges,23
+573,2,Marcelle Lehmann,1 Chemin Hingray,88000,Épinal,53
+574,2,Odilon Levy,8 Rue d’Armont,88200,Saint-Nabord,30
+575,2,Julie Fosse,150 Route du Granit,67420,Plaine,18
+576,2,Elisabeth Gabriel,21 Rue Abel Ferry,88600,Bruyères,32
+577,2,Wendy Soulard,191 Impasse des 4 Feignes,88400,Xonrupt-Longemer,42
+578,2,Valentin Cormier,59 cour des cristalleries,54120,Baccarat,5
+579,2,Melissa Millet,4078 Route de Saint Dié,88470,Saint-Michel-sur-Meurthe,2
+580,2,Irwin Dumont,248 Cammes,68650,Lapoutroie,38
+581,2,César Jacquet,28 Rue du Mal de Lattre de Tassigny,88580,Saulcy-sur-Meurthe,46
+582,2,Lauriane Schmidt,Fort de la Grande Haye,88190,Golbey,53
+583,2,Elsa Bouvet,2 Chemin de la Prelle,88210,Ban-de-Sapt,63
+584,2,Prune Delorme,17 Lotissement Adrien Mathis,88490,Provenchères-et-Colroy,20
+585,2,Tilio Meunier,Celles-sur-Plaine,88110,Celles-sur-Plaine,60
+586,2,Rose-Lynne Guillard,12 Route de Gunsbach,68140,Munster,41
+587,2,Barnabé Bouchard,12 Rue de Verdun,88250,La Bresse,49
+588,2,Johann Faure,69 Grand Rue,67420,Saales,19
+589,2,Lenzo Begue,146 Route de Bertrimoutier,88100,Neuvillers-sur-Fave,35
+590,2,Clemence Barbe,254 Route du Gazon,88400,Xonrupt-Longemer,42
+591,2,Michelle Bru,281 la Brabante,68650,Lapoutroie,38
+592,2,Maryline Lescure,1 Chemin du Martinet,88600,Brouvelieures,33
+593,2,Jean-Yves Bastide,22 Rue de la Basse des Juifs,88100,Saint-Dié-des-Vosges,34
+594,2,Leslie Geslin,960 Route des Champs de Poutay,67420,Plaine,17
+595,2,Solange Boudet,12 Rue de Melesse,88150,Thaon-les-Vosges,54
+596,2,Léopold Durant,1 Les Frenots,88490,La Grande-Fosse,19
+597,2,Enzo Duret,287 Rue des Rochires,88470,Saint-Michel-sur-Meurthe,2
+598,2,Lucile Pages,1 Route du Gazon,88400,Xonrupt-Longemer,42
+599,2,Noemie Copin,31 Route des Couteles,88100,Pair-et-Grandrupt,21
+600,2,Sylvette Galland,1 Rue d'Amerique,88100,Saint-Dié-des-Vosges,1
+601,2,Louis Jegou,107 Rue de Lorraine,88650,Saint-Léonard,45
+602,2,Jean-Luc Jolivet,9 Rue Deodat,88100,Saint-Dié-des-Vosges,1
+603,2,Antoine Perin,3b Rue De L Hopital,88420,Moyenmoutier,14
+604,2,Blandine Truong,Chemin de la Meurthe,88580,Saulcy-sur-Meurthe,46
+605,2,Régis Leroy,12 Heurtebise,88200,Remiremont,29
+606,2,Lucette Chemin,2 Rue du Général Leclerc,88700,Rambervillers,8
+607,2,Zéno Frotier,217 Noirgoutte,68370,Orbey,39
+608,2,Anaïs Perrier,10a Rue de la 3e Dia et 2e Rsar,88400,Gérardmer,26
+609,2,Laura Mouton,18 Rue des Cités Nouvelles,88190,Golbey,53
+610,2,Denis Garin,11 Route de Coinches,88520,Raves,36
+611,2,Flora Marin,19 Rue de la Petite Fosse,88640,Granges-Aumontzey,51
+612,2,Nelly Goujon,175 Chemin du Genevre,88470,La Bourgonce,11
+613,2,Mauricette Fort,13 Impasse du Rein des Genièvres,88400,Gérardmer,26
+614,2,Muriel Duchesne,1 Place Jean-sonrel,88230,Fraize,37
+615,2,Noé Digaultray,2 Impasse de la Madeleine 1,88100,Saint-Dié-des-Vosges,1
+616,2,Tao Colson,2 Impasse Ohl des Marais,88100,Saint-Dié-des-Vosges,1
+617,2,Odile Teixeira,Chemin de Froidefontaine,88530,Le Tholy,27
+618,2,Stéphanie Costa,322 Impasse des Carrieres,88110,Raon-l'Étape,4
+619,2,Stan Duval,2 Chemin du Solberg,68140,Munster,41
+620,2,Carine Cheron,64 Chemin du Pré Navez,88100,Sainte-Marguerite,22
+621,2,Franck Dujardin,2 Rue de Courcy,88000,Épinal,53
+622,2,Duncan Pichon,1c Chemin de la Pepiniere,68650,Lapoutroie,38
+623,2,Elodie Lefeuvre,481 Route du Vagodel,88650,Saint-Léonard,45
+624,2,Fabienne Toutain,344 Impasse de la Goutte des Marres,88100,Taintrux,24
+625,2,Grégoire Savary,84 Chemin de Griville,88100,Taintrux,24
+626,2,Yvonne Derrien,21a Rue des Déportès,88580,Saulcy-sur-Meurthe,46
+627,2,André Chaillou,18 Allee des Roches Vertes,88430,Corcieux,25
+628,2,Hélène Lemaitre,18 Rue de l'Hermitage,88100,Saint-Dié-des-Vosges,47
+629,2,Mireille Vernet,7 Rue de la Brouhère,88120,Vagney,28
+630,2,Olivier Dubos,8 Chemin des Vignes,88130,Charmes,56
+631,2,Yvon Couvreur,5 Place du General de Gaulle,88130,Charmes,56
+632,2,Ingrid Girard,8bis Route du Col de Bonnefontaine,88530,Le Tholy,27
+633,2,Flavien Lopez,7 Le Fraiteux,88210,Ban-de-Sapt,63
+634,2,Céline Giroux,10 Chemin de la Creuse,88530,Le Tholy,27
+635,2,Aurélien Thirion,17 Rue de Lorraine,88700,Roville-aux-Chênes,7
+636,2,Ulysse Astier,75 Route des Grimels,88230,Ban-sur-Meurthe-Clefcy,43
+637,2,Jean-Jacques Page,636 Rue des Jardins,88650,Saint-Léonard,45
+638,2,Michel Pillot,20 Rue du Breuil,54830,Gerbéviller,58
+639,2,Dominique Felix,21 Rue des Ecureuils,88200,Remiremont,29
+640,2,Camille Henon,2 Place Charles Thumann,88210,Senones,15
+641,2,Willy Pichard,458a Chemin du Chene,68910,Labaroche,40
+642,2,Marie-Christine Lelievre,31 Avenue des Terres Saint Jean,88000,Épinal,52
+643,2,Romuald Moisan,34bis Rue du Général Leclerc,88700,Rambervillers,8
+644,2,Jean-Marc Salle,313 Chemin de l’Hermine,88400,Xonrupt-Longemer,42
+645,2,Yamen Valette,24 Chemin du Brûlé,88100,Saint-Dié-des-Vosges,34
+646,2,Jean-François Foret,12 Chemin du Solberg,68140,Munster,41
+647,2,Raymonde Crespin,4 Chemin des Roches Chevaliers,88530,Le Tholy,27
+648,2,Marie-France Salomon,75 Chemin du Stade,88100,Nayemont-les-Fosses,22
+649,2,Marion Humbert,134 Route D Hurbache,88470,La Voivre,13
+650,2,Nathaël Lecoq,401 Rue du Haut des Rangs,88200,Dommartin-lès-Remiremont,29
+651,2,Pierrick Lefevre,11 11 Chemin de la Creuse,88110,Luvigny,61
+652,2,Ugo Maes,15bis Rue Abel Ferry,88600,Bruyères,32
+653,2,Coralie Cordier,2bis Chemin du Baa,68650,Lapoutroie,38
+654,2,Joshua Marie,13 Rue Hector Berlioz,88100,Saint-Dié-des-Vosges,23
+655,2,Matisse Cano,270 Route Des Sagards,88420,Moyenmoutier,14
+656,2,Audrey Quintin,12 Rue du Docteur Heid,68140,Munster,41
+657,2,Evangeline Hamelin,325 Rue du Moulin,88470,Saint-Michel-sur-Meurthe,2
+658,2,Clarisse Gomez,6 Rue de l'Hôtel de Ville,88600,Brouvelieures,33
+659,2,Elisa Lecourt,6 Rue du Calvaire,88470,La Salle,11
+660,2,Aymeric Gil,217 Impasse du Xaty,88100,Taintrux,24
+661,2,Claude Thevenet,347c la Croix de Faite,68910,Labaroche,40
+662,2,Sébastien Metais,14 Grand Rue,67420,Saales,19
+663,2,Quentin Vigouroux,4 Impasse du Feigne,88400,Gérardmer,26
+664,2,Emilien Herault,2 Route de Sarupt,88650,Saint-Léonard,45
+665,2,Maurice Foulon,57 Les Mulles,68910,Labaroche,40
+666,2,Régine Baudoin,42 Rue des Forges,88700,Saint-Gorgon,9
+667,2,Sacha Bourbon,1 Impasse du Han,88210,Le Saulcy,16
+668,2,Elise Pichot,185 Lotissement les Bouleaux Sondreville,88230,Ban-sur-Meurthe-Clefcy,44
+669,2,Célian Pelissier,3 Quai du Marechal Leclerc,88100,Saint-Dié-des-Vosges,1
+670,2,Tiffany Beauvais,6 Rue du 12e Regiment d'Artillerie,88100,Saint-Dié-des-Vosges,34
+671,2,Magalie Abot de Bourgneuf,9 Rue du Stade,88460,Cheniménil,31
+672,2,Ludovic Lacour,39 Route de Grandrupt,88100,Pair-et-Grandrupt,21
+673,2,Xavier Capelle,4bis Impasse Marc François,88100,Saint-Dié-des-Vosges,23
+674,2,Jessica Grand,20 Rue du Four,54290,Bayon,57
+675,2,Morgane Cohen,2 Route de Contramoulin,88580,Saulcy-sur-Meurthe,46
+676,2,Stéphane Burel,1 Route de Pairis,68370,Orbey,39
+677,2,Jasper Fauvel,31 Rue de la Meurthe,88650,Saint-Léonard,45
+678,2,Vanina Gras,32 Rue du 62eme R à,88000,Épinal,53
+679,2,Georges Colle,2 Rue des 3 Sapins,88200,Saint-Nabord,30
+680,2,Yves Alves,24a Rue de la Bazaine,88000,Épinal,52
+681,2,Tara Delplanque,6 Place des Tilleuls,88100,Saint-Dié-des-Vosges,1
+682,2,Evelyne Bardin,66 Rue du Faude,68370,Orbey,39
+683,2,Nathanaël Lombard,31 Rue des Ailes,88490,Provenchères-et-Colroy,20
+684,2,Aurélie Lapeyre,31 Rue Pierre Evrat,88100,Saint-Dié-des-Vosges,1
+685,2,Edgar de Verjus,7 ZI les Moines,88200,Saint-Étienne-lès-Remiremont,29
+686,2,Lucie Bon,76 Chemin du Giron,88100,Nayemont-les-Fosses,21
+687,2,Erwan Dubreuil,Sentier Saint Roch,88100,Saint-Dié-des-Vosges,23
+688,2,Ian Le goff,1 les Gouttes,88530,Le Tholy,27
+689,2,Michele Pernet,18 Rue d'Ormont Prolongée,88100,Saint-Dié-des-Vosges,34
+690,2,Sabine Barthelemy,1 Chemin du Bretzel,68140,Munster,41
+691,2,Marilyne Genty,1 le Chêne,67420,Saales,19
+692,2,Rebecca Charlet,1 Le Haut le Fer,88700,Jeanménil,10
+693,2,Rodolphe Jacquemin,1 Rue Du Moulin,88440,Nomexy,55
+694,2,Cyril Hardouin,2 Rue de la Fontaine Salovin,54122,Fontenoy-la-Joûte,6
+695,2,Kévin Tellier,11 Rue du Repos,67130,La Broque,62
+696,2,Coline Viard,21 Route de Bruyeres (Granges-sur-Vologne),88640,Granges-Aumontzey,51
+697,2,Valérie Allain,27 Rue du Calvaire,67420,Saint-Blaise-la-Roche,17
+698,2,Christian Bouet,1 Rue d'Alsace,88110,Raon-l'Étape,4
+699,2,Théodore Saillard,96 Rouge Maling,68650,Lapoutroie,38
+700,2,Léandre Villard,77 Rue de Stalingrad,88110,Raon-l'Étape,4
+701,2,Patrick Jung,42 Chemin des Goutys,88100,Pair-et-Grandrupt,21
+702,2,Jonathan Rollet,175 Rue des Epinettes,88100,Sainte-Marguerite,22
+703,2,Brigitte Mery,319 Chemin du Corvelet,88650,Saint-Léonard,45
+704,2,Yoann Viguier,20 Chemin de la Louvière,88250,La Bresse,49
+705,2,Timeo Jacquin,6 Chemin de Benalbois,88520,Ban-de-Laveline,36
+706,2,Valère Cloarec,94 cour des cristalleries,54120,Baccarat,5
+707,2,Denise Brousse,1 Derriere le Duel,88110,Celles-sur-Plaine,60
+708,2,Aurore Lesieur,31b Rue Anciens Combattants D Afn,88440,Nomexy,55
+709,2,Patricia Lecoeur,10 Chemin d'Altenbach,68650,Lapoutroie,38
+710,2,Laurent Bour,27 Rue Marie Marvingt,88000,Épinal,53
+711,2,Gaston Tavernier,15 Chemin du Champ du Couloir,88470,Saint-Michel-sur-Meurthe,2
+712,2,Jade Le roy,32 Rue de la Liberation,68370,Orbey,39
+713,2,Aurelia Schwartz,1406 Route de Saint-dié,88100,Nayemont-les-Fosses,21
+714,2,Amélie Adam,7 Rue du Quatorze Novembre,88530,Le Tholy,27
+715,2,Marcel Lamour,1 Lotissement les Bruyeres,88530,Le Tholy,27
+716,2,Juliette Guillaume,1 Place Henri Thomas,88600,Bruyères,32
+717,2,Augustine Le bail,11 Rue du Chenat,88520,Ban-de-Laveline,36
+718,2,Antoinette Rouxel,220 Voie du haut Bousson,88470,Saint-Michel-sur-Meurthe,2
+719,2,Maël George,444b Derriere le Hagis,68910,Labaroche,40
+720,2,Tania Bellet,46 Voie du Moulin,88230,Ban-sur-Meurthe-Clefcy,44
+721,2,Daniel Grosjean,8 Allée Numero 2,88150,Thaon-les-Vosges,54
+722,2,Magali Magnier,4 Ruelle Des Fees,88420,Moyenmoutier,14
+723,2,Guilhem Gentil,1 Impasse de la Madeleine 3,88100,Saint-Dié-des-Vosges,23
+724,2,Philippe Henri,6 Chemin des Tilleuls,88120,Vagney,28
+725,2,Roméo Laville,5bis Rue d'Alsace,88150,Igney,54
+726,2,Loris Basset,1132 Rue de Lorraine,88650,Saint-Léonard,45
+727,2,Lorrain Correia,6 Chemin des Arrosants,54120,Baccarat,5
+728,2,Malone Pierson,2 Rue du Jard,88480,Étival-Clairefontaine,3
+729,2,Blanche Sellier,100 Chemin de la Roche des Fees,88700,Housseras,10
+730,2,Kewan Briand,639 Route des Annailles,88470,La Bourgonce,11
+731,2,Lucienne Rocher,9999 Rue Marcel Boussac,88440,Nomexy,55
+732,2,Renée Giraud,28 Rue des Feignolés,88430,Gerbépal,48
+733,2,Faustine Dubost,35 Rue des Hauts Champs,88470,Saint-Michel-sur-Meurthe,2
+734,2,Pascale Dupas,20 Traverse du Jardin,88250,La Bresse,49
+735,2,Josephine Clerc,590 Rue de la Gare,88520,Raves,35
+736,2,Maé Malherbe,9 Rue du Docteur Macker,68650,Lapoutroie,38
+737,2,Jeanne Lasserre,169 Chemin de la Tacotte,67420,Plaine,17
+738,2,Yvan Ruiz,17 Rue du Haut de la Côte,88460,Cheniménil,31
+739,2,Bertrand Geoffroy,269 Route de Malpre,88290,Saulxures-sur-Moselotte,50
+740,2,Côme Prevost,10 Route de Dommartin,88200,Remiremont,29
+741,2,Arthur Delarue,2 Chemin de Ribeaupierre,88230,Fraize,37
+742,2,Marthe Brochard,14 Allee du Peintre Monchablon,88130,Charmes,56
+743,2,Arlette Pruvost,22 Rue de la Deuil,54830,Gerbéviller,58
+744,2,Clovis Picard,302 Route de la Fave,88100,Pair-et-Grandrupt,21
+745,2,Liliane Baillet,106 Chemin des Etangs,88100,Nayemont-les-Fosses,21
+746,2,Annick Calvez,46 Route du Paire,88580,Saulcy-sur-Meurthe,22
+747,2,Maude Crouzet,2 Rue de l'Eglise,88580,Saulcy-sur-Meurthe,46
+748,2,Eliane Pottier,40 Impasse du Contramoulin,88650,Saint-Léonard,45
+749,2,Yannick Soulie,3 Allee 4,88150,Thaon-les-Vosges,54
+750,2,Meline Billet,150 Chemin du Blanc Ruxel au Page,88400,Xonrupt-Longemer,42
+751,2,Zora Magne,82a la Gasse,68650,Lapoutroie,38
+752,2,Pascal Doyen,46 Rue d'Hellieule,88100,Saint-Dié-des-Vosges,1
+753,2,Alfred Langlois,391 Lieu Dit la Bodure,68910,Labaroche,40
+754,2,Emmanuelle Renard,157 Route D Hurbache,88470,La Voivre,13
+755,2,Chloé Romain,1012 Route de Saulcy,88650,Saint-Léonard,46
+756,2,Rudy Busson,1 Rue des Champs Perdrix,88640,Granges-Aumontzey,51
+757,2,Thierry Claverie,550 Chemin de la Croisette,88100,Taintrux,24
+758,2,Sylvain Cardon,4 Rue René Jacquot,88100,Saint-Dié-des-Vosges,47
+759,2,Christelle Dore,270 Ribeaugoutte,68650,Lapoutroie,38
+760,2,Melvin Defrance,46 Route de Brouvelieures,88600,Vervezelle,33
+761,2,Sandro Walter,40ter Route du Paire,88580,Saulcy-sur-Meurthe,22
+762,2,Joan Lannoy,41 Rue de la Gare,88700,Jeanménil,9
+763,2,Nathéo Pellerin,4 Chemin du Breuil,88520,Ban-de-Laveline,36
+764,2,Yaël Bisson,16 Ruelle Maître Georges,54540,Badonviller,59
+765,2,Boris Metivier,7 Hlm Jean-sellet,88230,Fraize,37
+766,2,Valèry Loiseau,20 Lotissement Adrien Mathis,88490,Provenchères-et-Colroy,20
+767,2,Hervé Latour,22 Rue des Allies,88100,Saint-Dié-des-Vosges,1
+768,2,Marguerite Chabaud,723 Chemin du Xainfaing,88100,Taintrux,24
+769,2,Malo Bureau,22 Rue des Jardins,67420,Saint-Blaise-la-Roche,17
+770,2,Maxence Tissot,1914 Route de Rambervillers,88470,Nompatelize,11
+771,2,Lena Bergeron,21 Impasse de la Goutte des Marres,88100,Taintrux,24
+772,2,Carlos Couturier,2b Ruelle des Laveuses,88130,Charmes,56
+773,2,Adrien Dahan,11 Impasse du Reposoir,88120,Vagney,28
+774,2,Didier Millot,48 Rue du Moulin,88130,Charmes,56
+775,2,Matt Marques,24 Rue Rovel,88100,Saint-Dié-des-Vosges,47
+776,2,Linda Girod,2 Rue de Thiarmenil,88700,Jeanménil,9
+777,2,Elouan Letellier,384 Rue du Pré Chapy,88650,Saint-Léonard,45
+778,2,Axel Le meur,12 Route du Tholy,88640,Granges-Aumontzey,51
+779,2,Estéban Potier,147 Le Cras,68910,Labaroche,40
+780,2,Charlotte Loison,10 Rue de la Fénal,54290,Bayon,57
+781,2,Colette Boulard,71 A Chaumont,88100,Taintrux,24
+782,2,Virginie Godart,1 Rue Jules Ferry,88120,Vagney,28
+783,2,Pierre Guillon,2 Rue des Boudières,88250,La Bresse,49
+784,2,Lino Nowak,8 Chemin du Calvaire,88250,La Bresse,49
+785,2,Samuel Da costa,536 Rue Du Gravier Prolongee,88470,La Voivre,13
+786,2,Edwige Lagarde,1 rlle de la poste,88490,Provenchères-et-Colroy,20
+787,2,Agathe Thouvenin,3 la Bogière,88490,Provenchères-et-Colroy,20
+788,2,Angeline Hautmonté,145 Impasse de Claingoutte,88650,Saint-Léonard,46
+789,2,Elias Brault,29 Quai des Vosges,54830,Gerbéviller,58
+790,2,Frédéric Belin,23 Le Clos du Moulin,88120,Vagney,28
+791,2,Emrys Bob,20 Rue de Honolulu,88600,Bruyères,32
+792,2,Marin Abadie,Noir Rupt Sud,88530,Le Tholy,27
+793,2,Caroline Rouault,482 Chemin de la Chenaie,88100,Nayemont-les-Fosses,21
+794,2,Rose-Marie Charlier,7 Rue du Général de Gaulle,67130,La Broque,62
+795,2,Noham Gobert,7 Rue des Aulnes,68370,Orbey,39
+796,2,Josiane Villeneuve,46 Route de Gérardmer,88430,Gerbépal,48
+797,2,Victorine Devos,1 champ l'allemand,88600,Brouvelieures,33
+798,2,Thomas Poisson,33 Rue Charles de Gaulle,88400,Gérardmer,26
+799,2,Henriette Floch,88 Avenue du Général de Gaulle,88100,Sainte-Marguerite,22
+800,2,Laurie Barriere,6 Chemin de la Vigne et des Brules,88490,Provenchères-et-Colroy,20
+801,2,Gilles d'Estouteville,153 Vers Pairis,68370,Orbey,39
+802,2,Tristan Beaufils,27 Lotissement des Vrairoses,88600,Champ-le-Duc,32
+803,2,Achille Paoli,55 Rue des Envers Côtes,88470,Saint-Michel-sur-Meurthe,2
+804,2,Laurine Lefort,442d Le Chene,68910,Labaroche,40
+805,2,Albert Allaire,4 Rue du Docteur Malgaigne,88130,Charmes,56
+806,2,Agnès Gicquel,77 Route de Robache,88100,Saint-Dié-des-Vosges,12
+807,2,Mathis Boulet,227bis Route du Vagodel,88650,Saint-Léonard,45
+808,2,Anne-Lise Lhomme,714bis Route des Jumeaux,88470,La Bourgonce,11
+809,2,Georgette Renault,40 ZI le Velodrome,88200,Saint-Étienne-lès-Remiremont,29
+810,2,Marie-Claude Hardy,8 Rue Paul Mieg,88000,Épinal,52
+811,2,Anthony Richer,6 Impasse de Marimont,88520,Ban-de-Laveline,36
+812,2,Delphine Marot,60 Route de Gérardmer,88430,Gerbépal,48
+813,2,Thaïs Deshayes,4 Chemin Fontaines de la Louviere,88250,La Bresse,49
+814,2,Ghislaine Forest,33 Rue de la Gare,88600,Brouvelieures,33
+815,2,Tessa Martel,26c Route du Droit,88250,La Bresse,49
+816,2,Timothée Laborde,17 Rue de Cendrillon,88000,Épinal,52
+817,2,Gustave Leclerc,20bis Rue de Moulins sur Allier,88580,Saulcy-sur-Meurthe,46
+818,2,Frédérique Roy,2 Rue André Jacquemin,88000,Épinal,53
+819,2,Arwen Pere,1 Rue de la Glacière,88210,Senones,15
+820,2,Pierrette Mathis,15 Route de Strasbourg,67420,Plaine,18
+821,2,Malcom Joubert,551 Route de la Houssière,88430,Corcieux,25
+822,2,Nolan Larue,276 Impasse de la Rouheule,88290,Saulxures-sur-Moselotte,50
+823,2,Joachim Gaudin,12 Route de Vervezelle,88600,Brouvelieures,33
+824,2,Olive Boulanger,2 Chemin de la Creuse,88400,Gérardmer,26
+825,2,Sylvie Rodier,42a Rue Eugène Mathis,88230,Fraize,37
+826,2,Loïs Portier,1 Basse de Para,54540,Pierre-Percée,60
+827,2,Jonas Baron,256 Route de Colmar,88400,Xonrupt-Longemer,42
+828,2,Alexandra Billaud,7 Rue des Halles,88130,Charmes,56
+829,2,Martin Gillot,10 Rue de Richardville,88100,Saint-Dié-des-Vosges,23
+830,2,Yaëlle Hamon,1 Chemin de la Bodière,88700,Jeanménil,9
+831,2,Youna Alonso,10 Rue de l'Eglise,88580,Saulcy-sur-Meurthe,46
+832,2,Charline Leger,6 Rue Henri Nicolas,88190,Golbey,53
+833,2,Ludivine Laurent,6bis Rue du Battant,88460,Cheniménil,31
+834,2,Cécile Lamotte,5 Rue du Battant,88100,Saint-Dié-des-Vosges,1
+835,2,Pimprenelle Gandon,335 Rte l’Envers du Rupt de Bamont,88290,Saulxures-sur-Moselotte,50
+836,2,Gwendoline Bonhomme,266 Rue de Bréhimont,88470,Saint-Michel-sur-Meurthe,2
+837,2,Gabriel Ribot,1 Rue Etienne Simard,88130,Charmes,56
+838,2,Annabelle Coëtivi,1 Rue De L Hopital,88420,Moyenmoutier,14
+839,2,Dylan Perrin,261 Chemin du Grand Pre,88290,Saulxures-sur-Moselotte,50
+840,2,Mylan Coutant,2599 Route de Saint Dié,88470,Saint-Michel-sur-Meurthe,2
+841,2,Joelle Nicolle,7 Rue des Sorbiers,68650,Lapoutroie,38
+842,2,Diego Dauphin,13 Rue du Quetty,88200,Saint-Nabord,30
+843,2,Ruben Klein,59 Rue de la Tournelle,88110,Celles-sur-Plaine,60
+844,2,Marianne Dupont,43bis Rue Haute,88400,Gérardmer,26
+845,2,Vincent Marquis,2 Z a de la Gare,88600,Brouvelieures,33
+846,2,Fabrice Vasseur,83 Rue de la Mairie,88230,Ban-sur-Meurthe-Clefcy,44
+847,2,Lucas Leblanc,1 Chemin des Fauvettes,88400,Gérardmer,26
+848,2,Claude Diallo,12 Rue du Rain,67130,Barembach,62
+849,2,Baptiste Villette,31 Rue d’Armont,88200,Saint-Nabord,30
+850,2,Joanna Chopin,46 Rue du Moulin,88130,Charmes,56
+851,2,Augustin Dupont,211 Rue du Centre,88230,Ban-sur-Meurthe-Clefcy,44
+852,2,Gaëlle Ribeiro,15 Rue du Vélodrome,88200,Saint-Étienne-lès-Remiremont,29
+853,2,Eloi Bellanger,1 Chemin des Aulnes,88100,Sainte-Marguerite,22
+854,2,Ernest Lafon,390 Chemin de la Croisette,88100,Taintrux,24
+855,2,René Vacher,5 Raye Terre,54540,Badonviller,59
+856,2,Roseline Martinet,12 Rue de Verdun,88330,Châtel-sur-Moselle,55
+857,2,Ophélie de Beauffremont,14a Route du Giron,88230,Fraize,37
+858,2,Roland Hebert,36 Rue du 6 Juin 1944,88650,Saint-Léonard,45
+859,2,Dany Lenglet,1 Bourras,88210,Ban-de-Sapt,63
+860,2,Loïc Clement,18 Chemin du Leymel Haut,68140,Luttenbach-près-Munster,41
+861,2,Yohann Ferry,983 Le Souche,88230,Ban-sur-Meurthe-Clefcy,37
+862,2,Lola Brule,1 Le Faing Die,88600,Brouvelieures,33
+863,2,Charles Magnin,4 Rue du Pair,88580,Saulcy-sur-Meurthe,22
+864,2,Sabrina Royer,12 Rue des Grès Flammés,88700,Rambervillers,8
+865,2,Olympe Cariou,1 Rue Saint Hydulphe,88420,Moyenmoutier,14
+866,2,Aimé Lefranc,La Basse du Macon,67130,Natzwiller,62
+867,2,Raymond Bonnard,25 Rue de la Haie Griselle,88400,Gérardmer,26
+868,2,Titouan Mathe,6 Rue du Pont Maréchal,88700,Roville-aux-Chênes,7
+869,2,Patrice Gross,449 Route de la Houssière,88430,Corcieux,25
+870,2,Béatrice Merlin,11 Rue des Grands Prés,88120,Vagney,28
+871,2,Pauline Lambert,14 Chemin des Genièvres,88400,Gérardmer,26
+872,2,Zita Delahaye,2 Avenue Jean-baptiste Diedler,54540,Badonviller,59
+873,2,Simone Lefebvre,1 Rue de l'Eglise,88460,Cheniménil,31
+874,2,Christel Jolly,125 Avenue de la Gare,67130,Schirmeck,62
+875,2,Ilian Audibert,66 Layegoutte,88520,Bertrimoutier,36
+876,2,Lorenzo Mignot,3 Rue Emile Galle,54830,Gerbéviller,58
+877,2,Anne-Claire Forget,86 Rue de la Tournelle,88110,Celles-sur-Plaine,60
+878,2,Marjorie Segura,1 Route du Granit Devant Fouday,67130,Plaine,18
+879,2,Zéphir Adam de Bosc-Fontain,14 Rue 31e Btn de Chasseurs a Pieds,88100,Saint-Dié-des-Vosges,47
+880,2,Jérôme Coudert,17 Rue du Colonel Mueth,88700,Rambervillers,8
+881,2,Carla Bach,1 Chemin de la Vigne et des Brules,88490,Provenchères-et-Colroy,20
+882,2,Alison Agostini,1 Rue Saint - Hubert,54290,Bayon,57
+883,2,April Salmon,4 Les Ecluses,88230,Ban-sur-Meurthe-Clefcy,44
+884,2,Alain Salaun,91 Rue d'Alsace,88100,Saint-Dié-des-Vosges,1
+885,2,Andrea Labat,9 Rue des F F I,88130,Charmes,56
+886,2,Lionel Fritsch,26 Rue de l’Abbaye,68370,Orbey,39
+887,2,Camille Ledru,7 Rue du Parmoulin,88700,Rambervillers,8
+888,2,Lilian Lefrancois,8bis Route de Lusse,88490,Provenchères-et-Colroy,20
+889,2,Alexis Müller,43 Rue Cartier-bresson,88110,Celles-sur-Plaine,60
+890,2,Simon Veron,2 Rue de Vipucelle,67130,La Broque,62
+891,2,Ezio du Bessey,2 Place des Tilleuls,88100,Saint-Dié-des-Vosges,1
+892,2,Arsène Larcher,8 Le Faing Die,88600,Brouvelieures,33
+893,2,Edmond Vogel,13 Les Baumes,88640,Granges-Aumontzey,51
+894,2,Françoise Hemery,9 Chemin du Brûlé,88100,Saint-Dié-des-Vosges,34
+895,2,Hugo Thery,5bis Route de Bruyeres (Granges-sur-Vologne),88640,Granges-Aumontzey,51
+896,2,Léon Gonçalves,384 Chemin de la Roche,67420,Plaine,17
+897,2,Valérian Bailly,467 Route du Palmont,88650,Saint-Léonard,45
+898,2,Harold Texier,27 Rue du Mal de Lattre de Tassigny,88130,Charmes,56
+899,2,Roger Le Gac,80a Impasse du Grand Rain,88400,Xonrupt-Longemer,42
+900,2,Martine Martineau,Le Braconseil au Dessus du,88230,Ban-sur-Meurthe-Clefcy,43
+901,2,Emile Descamps,9 Chemin de la Bodière,88700,Jeanménil,9
+902,2,Karen Guignard,32 Rue Albert Camus,88000,Épinal,52
+903,2,Serge Ferrand,29 Rue d’Auxonne,88430,Corcieux,25
+904,2,Justin Buisson,28 Rue De La Division Leclerc,88440,Nomexy,55
+905,2,Albane Senechal,15 Rue de l'Ermitage,54120,Deneuvre,5
+906,2,Nadia Dejean,255 Chemin de la Haute Fossé,88100,Taintrux,24
+907,2,William Collin,3 Rue de la Roche du Loup,88200,Saint-Nabord,30
+908,2,Jean-Louis Pommier,7 Rue du Colonel Jacques Pierre,88100,Saint-Dié-des-Vosges,1
+909,2,Marie Martinez,30 Rue du 158 Eme Ri,88230,Fraize,37
+910,2,Ylan Barthe,39 Rue de Moulins,88700,Jeanménil,9
+911,2,Gilberte Roman,8bis Rue de la Souau,88460,Cheniménil,31
+912,2,Estelle Guillot,2 La Sente des Pierres,88130,Charmes,56
+913,2,Jean-Christophe Lepine,16 Route de Bruyeres (Granges-sur-Vologne),88640,Granges-Aumontzey,51
+914,2,Kimi Vieira,18 Rue de la Meurthe,88580,Saulcy-sur-Meurthe,46
+915,2,Marc Allard,14 Ruelle de l’Abbe Haustete,88190,Golbey,53
+916,2,Lenny Patin,42 Rue des Abbés Mathis et Marion,88700,Rambervillers,8
+917,2,Nadine Sauvage,30 Quai de Dogneville,88000,Épinal,53
+918,2,Alice Martin,3 Rue du 11 Novembre,54540,Badonviller,59
+919,2,Marine Porte,29 Promenade de la Pierre d'Appel,88480,Étival-Clairefontaine,3
+920,2,Evan Chartier,Impasse d'Héllieule,88100,Saint-Dié-des-Vosges,1
+921,2,Henri Chaumont,5 Lotissement Frederic Chopin,88130,Charmes,56
+922,2,Alban Turpin,6 Rue de Métendal,88700,Rambervillers,8
+923,2,Alexine Causse,Rue Jeanne d’Arc,88120,Vagney,28
+924,2,Christophe Haddad,21 Impasse de la Division Leclerc,54540,Badonviller,59
+925,2,Rayan Rousseaux,27 Route de Saâles,88100,Remomeix,22
+926,2,Victor Monnet,1 Rue Galliéni,54830,Gerbéviller,58
+927,2,Laure Duhamel,2 Chemin du Sauvieux,54290,Bayon,57
+928,2,Eric Laporte,39 Rue Jean Francois Pelet,88100,Saint-Dié-des-Vosges,23
+929,2,Robin Silvestre,17 Esplanade de la Filature,88200,Remiremont,29
+930,2,Maeva Bidault,310 Rue du Haut Meix,88100,Neuvillers-sur-Fave,35
+931,2,Irene Dufour,18 Rue des Bas Champs,88640,Granges-Aumontzey,51
+932,2,Janine Pain,Sur la Limite de Frapelle,88490,Le Beulay,20
+933,2,Lubin Grondin,14 Le Fraiteux,88210,Ban-de-Sapt,63
+934,2,Lisa Cartier,4 Quai Sadi Carnot,88100,Saint-Dié-des-Vosges,1
+935,2,Ethan Labbe,65bis Rue Aristide Briand,88110,Raon-l'Étape,4
+936,2,Gérald Genin,1bis Avenue de la Gare,88120,Vagney,28
+937,2,Soan Colas,1 Rue Principale,88210,Le Saulcy,16
+938,2,Lorraine Jacob,Chemin Prive Com de la Salle,88580,Saulcy-sur-Meurthe,46
+939,2,Jean-Michel Peron,4 Impasse de la Haie Griselle,88400,Gérardmer,26
+940,2,Abel Lebrun,426 Rue de la Gare,88470,Saint-Michel-sur-Meurthe,2
+941,2,Maryse de Farcy,182 Rue Jean Mermoz,88100,Sainte-Marguerite,22
+942,2,Alexia Nicol,23 Rue du Lait,68370,Orbey,39
+943,2,Valériane Gaillarbois,9ter Rue de la Tâche,88120,Vagney,28
+944,2,Nino Marcel,558 La Trinque,68910,Labaroche,40
+945,2,Gauthier Blin,1 Rue du Tambour Major,88000,Épinal,52
+946,2,Véronique Rollin,21 Boulevard de la Jamagne,88400,Gérardmer,26
+947,2,Florent Vaillant,2 Les Aboixons,88430,Gerbépal,48
+948,2,Soren Merlet,2 Impasse du Haut de la Fête,88100,Saint-Dié-des-Vosges,1
+949,2,Adam Alvarez,6 Voie de la Féotte,88470,Saint-Michel-sur-Meurthe,2
+950,2,Jolan Lamarque,176 Route de Colmar,88400,Xonrupt-Longemer,42
+951,2,Thiméo Tessier,2 Rue des Grandes Hières,88110,Raon-l'Étape,4
+952,2,Virgile Rodrigues,21bis Rue de l'Hermitage,88100,Saint-Dié-des-Vosges,23
+953,2,Vanessa Combes,Saint-Dié-des-Vosges,88100,Saint-Dié-des-Vosges,23
+954,2,Orianne Bruneau,2 Route de Nayemont les Fosses,88100,Saint-Dié-des-Vosges,34
+955,2,Sylviane Pasquet,2 Rue des Anciens d’Afn,88130,Charmes,56
+956,2,Noël Framond,12 Route de Moyenmoutier,88210,Hurbache,64
+957,2,Damien Lepretre,33b Rue d'Epinal,88190,Golbey,53
+958,2,Géraldine Fernandez,7 Route de Colroy la Roche,67420,Saint-Blaise-la-Roche,17
+959,2,Sandra Lavigne,22 Rue du Rechamp,67420,Colroy-la-Roche,17
+960,2,Nina Poulet,290 Le Centre,68910,Labaroche,40
+961,2,Cédric Varin,5 Route de Bruyeres (Granges-sur-Vologne),88640,Granges-Aumontzey,51
+962,2,Maxime Bertin,4 Chemin du Calvaire,88250,La Bresse,49
+963,2,Raphaël Lelong,50 Avenue du Général de Gaulle,88110,Raon-l'Étape,4
+964,2,Chantal Morice,1a Rue d’Altenbach,68650,Lapoutroie,38
+965,2,Emilienne Mace,1 Rue de l'Erimont,88230,Fraize,37
+966,2,Max Viaud,3 La Petite Fourriere,88210,Belval,16
+967,2,Vianney Gimenez,1000 Route de la Grande Basse,88470,La Bourgonce,11
+968,2,Tim Lenoir,10 Rue de la Souau,88460,Cheniménil,31
+969,2,Manuel Braun,631 Grand Rue,88470,La Voivre,13
+970,2,Gérard Conte,9 Rue du Mal de Lattre de Tassigny,88580,Saulcy-sur-Meurthe,46
+971,2,Salomé Girault,62 Rue de la Vologne,88400,Gérardmer,26
+972,2,Karine Maitre,20 Rue de la Gare,88650,Saint-Léonard,45
+973,2,Kenzo Jourdan,3 Grande Rue,88490,Provenchères-et-Colroy,20
+974,2,Laurence Viel,37b Rue Principale,67130,Fouday,18
+975,2,Jean-Baptiste Michelet,8 Route de Berlingoutte,88530,Le Tholy,27
+976,2,Sonia Roth,7 Rue Principale,67130,Blancherupt,18
+977,2,Jordan Gros,1 Route du Col de Bonnefontaine,88530,Le Tholy,27
+978,2,Mylène Lapierre,8 Rue du Maroc,88000,Épinal,53
+979,2,François Roland,19 Rue Georges Folmard,88700,Rambervillers,8
+980,2,Thibaut Bignon,20 Chemin du Bambois,88250,La Bresse,49
+981,2,Madeleine Manceau,23 Rue des 4 Fontaines,88200,Saint-Nabord,30
+982,2,Samantha Bonnefoy,16 Rue des Remparts,88700,Rambervillers,8
+983,2,Théo Raffin,26 Rue des Forges,88600,Brouvelieures,33
+984,2,Naël Fortin,22 Route des Secs Prés,88230,Fraize,37
+985,2,Lou Constantin,229 Route du Relais,88400,Xonrupt-Longemer,42
+986,2,Kelly Guyon,8 Rue du Calvaire,88470,La Salle,11
+987,2,Margot Berthier,24 Rue des Ecoles,54290,Bayon,57
+988,2,Yann Guilbert,269 Route du Relais,88400,Xonrupt-Longemer,42
+989,2,Marie-Louise Jamet,203 Les Ecluses,88230,Ban-sur-Meurthe-Clefcy,44
+990,2,Marie-Noëlle Leconte,14 Impasse de Révillon,88200,Saint-Étienne-lès-Remiremont,29
+991,2,Marie-Pierre Boivin,Impasse de la Goutte des Marres,88100,Taintrux,24
+992,2,Célestin Dubuisson,14d Route du Noir Sapin,88430,Gerbépal,48
+993,2,Leonie Bernier,5 Rue de Ribeaupierre,88650,Saint-Léonard,45
+994,2,Maria Charrier,4b Rue du 14 Novembre 1944,88530,Le Tholy,27
+995,2,Edith Chauvin,385 Chemin de la Belle Campagne,88100,Nayemont-les-Fosses,21
+996,2,Cindy Faye,3 Rue de la Goutte,88490,Provenchères-et-Colroy,20
+997,2,Gaspard Marais,37 Avenue de la Division Leclerc,54540,Badonviller,59
+998,2,Roman Delamare,84 Rue de l'Ancien Hôpital,67130,Schirmeck,62
+999,2,Jacques Chapon,2 Rue des Floralies,88190,Golbey,53
+1000,2,Florence Martins,7 Rue du Puits Houel,88700,Jeanménil,9
+1001,2,Charlène Salles,46t Rue Eugène Mathis,88230,Fraize,37
+1002,2,Danielle Launay,2 Rue du Vermois,54830,Gerbéviller,58
+1003,2,Olivia Barrier,14 Rue Carnot,88700,Rambervillers,8
+1004,2,Micheline Roche,72 Grande Rue,88110,Celles-sur-Plaine,60
+1005,2,Mathilde Beraud,15 Rue Du Pair,88420,Moyenmoutier,14
+1006,2,Jean-Paul Craon,1 Rue du Pré Fleuri,88100,Saint-Dié-des-Vosges,47
+1007,2,Catherine Paillard,216 Lotissement les Bouleaux Sondreville,88230,Ban-sur-Meurthe-Clefcy,44
+1008,2,Théophile Bourdon,10 Rue des Tilleuls,88600,Bruyères,32
+1009,2,Matéo Peter,18 Rue des 3 Fontaines,54120,Deneuvre,5
+1010,2,Harry Rondeau,172 Rue des Jardins,88130,Charmes,56
+1011,2,Bernard Carlier,98 Les Raides Champs,68910,Labaroche,40
+1012,2,Jean-Marie Garreau,9 Clos de l’Allieu,88120,Vagney,28
+1013,2,Jacqueline Delaunay,7 Rue Albert Ferry,88100,Saint-Dié-des-Vosges,34
+1014,2,Céleste Darodes,9999a Les Baraques,88420,Moyenmoutier,64
+1015,2,Ange Caille,34 Rue de Cendrillon,88000,Épinal,52
+1016,2,Nathan Honore,12 Place Louis Flayeux,88230,Fraize,37
+1017,2,Yvette Baudry,9 Rue Albert Camus,88000,Épinal,52
+1018,2,Milo Avril,Au Devant du Charton,88460,Cheniménil,31
+1019,2,Claire Grall,24 Rue du Vingtieme Bataillon,54120,Baccarat,5
+1020,2,Victoria Jacq,62 Rue André Quinet,88700,Rambervillers,8
+1021,2,Fernande Landais,10 Rue des Déportès,88580,Saulcy-sur-Meurthe,46
+1022,2,Julien Godefroy,17b Rue Pierre Percee,54540,Badonviller,59
+1023,2,Jean-Philippe Spoon,47 Route de la Rappe,88100,Pair-et-Grandrupt,21
+1024,2,Clément Lallement,29 Rue des Pousses,88230,Ban-sur-Meurthe-Clefcy,44
+1025,2,Liam Huber,516 Rue Hector Berlioz,88650,Anould,45
+1026,2,Germaine Chenu,750 Route de Strasbourg,67420,Plaine,18
+1027,2,Dorian de Cardevac d'Havrin,110 Impasse Elisabeth Adams,88430,Corcieux,25
+1028,2,Clara Bonnet,1110 Route du Saut des Cuves,88400,Xonrupt-Longemer,42
+1029,2,Téo Lecomte,525 Impasse sur la Faléière,88470,Saint-Michel-sur-Meurthe,2
+1030,2,Josette Brouard,13 Gemainfaing,88210,Ban-de-Sapt,63
+1031,2,Gilbert Vial,2bis Rue des Fontaines,88490,Le Beulay,20
+1032,2,Nicole Foucaud,28b Chemin de l'Eglise,68140,Eschbach-au-Val,41
+1033,2,Felix Robillard,257 La Rue,88100,Taintrux,24
+1034,2,Tabitha Monier,8c Rue de la Tournelle,88110,Celles-sur-Plaine,60
+1035,2,Ginette Berthet,3 Au Devant des Brayes,88460,Cheniménil,31
+1036,2,Nadege Lagrange,12 Ruelle Nohal,88700,Rambervillers,8
+1037,2,Cloé Dupin,1 Les Baumes,88640,Granges-Aumontzey,51
+1038,2,Bénédicte Esteve,13 Rue du Pré Dixi,88640,Granges-Aumontzey,51
+1039,2,Elie Jezequel,26 Rue Mougel Bey,88250,La Bresse,49
+1040,2,Richard Sarrazin,1 Les Croix Ferry,88700,Rambervillers,8
+1041,2,Jules Arnould,42 Rue Des Enclos,88420,Moyenmoutier,14
+1042,2,Urbain Rigal,7 Avenue des Terres Saint Jean,88000,Épinal,52
+1043,2,Milan Deville,114 Damont,88230,Ban-sur-Meurthe-Clefcy,44
+1044,2,Edouard Rault,255 Route D Hurbache,88470,La Voivre,13
+1045,2,Marius Saunier,5 Route de Denipaire,88210,Hurbache,64
+1046,2,Basile Serrano,538 Sur les Champs,68910,Labaroche,40
+1047,2,Johanna Gonnet,15 Rue de l’Adjudant Chef Leroy,88600,Brouvelieures,33
+1048,2,Hector Petit,12 Cités de la Cartonnerie,88100,Sainte-Marguerite,22
+1049,2,Luc Mas,1 Au Fouyot,88600,Brouvelieures,33
+1050,2,Farah Silva,26 Rue Lefebure,68370,Orbey,39
+1051,2,Léa Moret,4 Rue des Violettes,88150,Thaon-les-Vosges,54
+1052,2,Robert Vigier,611 Route Principale,88470,La Voivre,13
+1053,2,Ursula Fuchs,11 Rue des Béchamps,88520,Ban-de-Laveline,36
+1054,2,Corinne Molina,125 Impasse du Bouxerand,88400,Xonrupt-Longemer,42
+1055,2,Albin Moine,130 Allée des Trèfles,88400,Xonrupt-Longemer,42
+1056,2,Ryan Renaudin,348 Chemin de la Vigne,88100,Nayemont-les-Fosses,21
+1057,2,Sandrine Tixier,491 Rue de la Meurthe,88650,Saint-Léonard,45
+1058,2,Logan Gasnier,28 Rue de sous Froid,88200,Saint-Nabord,30
+1059,2,Cerise Camus,244 Route de Ruxurieux,88430,Corcieux,25
+1060,2,David Berthe,11 Rue De La Gasse,88470,La Voivre,13
+1061,2,Hubert Baudin,4 Rue Gambetta,88100,Saint-Dié-des-Vosges,47
+1062,2,Maud Duchemin,218 Route de Bertrimoutier,88100,Neuvillers-sur-Fave,35
+1063,2,Bernadette Bourgeois,5 Quai Jeanne d'Arc,88100,Saint-Dié-des-Vosges,23
+1064,2,Abigail Vautier,12 Cammes,68650,Lapoutroie,38
+1065,2,Angèle Sergent,10 Les Eties,88640,Granges-Aumontzey,51
+1066,2,Huguette Emery,30 Route de Saulcy,88650,Entre-deux-Eaux,46
+1067,2,Noa Thebault,53 Avenue de la Gare,54290,Bayon,57
+1068,2,Fabien Fourcade,865 Rte l’Envers du Rupt de Bamont,88290,Saulxures-sur-Moselotte,50
+1069,2,Alicia Chardon,7 Rue du Jardin,88430,Gerbépal,48
+1070,2,Peggy Colin,10 Rue Alice Munier,88210,Senones,15
+1071,2,Paolo Jacquot,866 Rue Jacquard,88290,Saulxures-sur-Moselotte,50
+1072,2,Gisèle Chapelle,44 Rue du Moulin,88130,Charmes,56
+1073,2,Fanny Dumoulin,55b Rue du Général de Gaulle,67130,La Broque,62
+1074,2,Alix Gillet,14 Impasse de la Madeleine 3,88100,Saint-Dié-des-Vosges,1
+1075,2,Emeline Barbot,11 Rue de la Lizerne,88600,Bruyères,32
+1076,2,Inès Raynaud,11 Les Ziauprés,88430,Gerbépal,48
+1077,2,Thibaud Germain,246 Chemin de l'Epine,88100,Taintrux,24
+1078,2,Louise Beaumont,29 Avenue des Provinces,88000,Épinal,52
+1079,2,Adeline Crepin,84 Rue des Lilas,88100,Sainte-Marguerite,22
+1080,2,Urielle Gourdon,25 Rue des Forges,88600,Brouvelieures,33
+1081,2,Emilie Evrard,44 Grande Rue,54290,Bayon,57
+1082,2,Loan Auvray,5 Rue du Centre,67420,Saales,19
+1083,2,Julian Barret,6 Chemin du Marché,54830,Gerbéviller,58
+1084,2,Thibault Cabrol,2 Rue du Château d'Eau,54540,Badonviller,59
+1085,2,Eloan Sans,303 Impasse du Teleski,88400,Xonrupt-Longemer,42
+1086,2,Eugene Chambon,2 Rue de Menil,54120,Baccarat,5
+1087,2,Zoé Bert,39 Grand-Rue,68140,Munster,41
+1088,2,Bruno Lemaire,6 Rue Théophile Fenal,54540,Badonviller,59
+1089,2,Antonin Girardot,3 Rue du Stade,88460,Cheniménil,31
+1090,2,Angélique Picot,4 Rue du Colonel Jacques Pierre,88100,Saint-Dié-des-Vosges,23
+1091,2,Anatole Chauvel,1 Les Chapes,88640,Granges-Aumontzey,51
+1092,2,Valentine Vernier,29 Rue du Saut-le-cerf,88000,Jeuxey,52
+1093,2,Charlie Morel,248 Sur le Rain,68650,Lapoutroie,38
+1094,2,Romane Bouchez,3 Rue des Cités,88580,Saulcy-sur-Meurthe,46
+1095,2,Louison Ferre,33 Lotissement Adrien Mathis,88490,Provenchères-et-Colroy,20
+1096,2,Isabelle Regnier,27 Route des Basses Huttes,68370,Orbey,39
+1097,2,Anne-Laure Buffet,162 Chemin De Chenecieux,88470,La Voivre,13
+1098,2,Joris Maze,20 Rue de Dijon,88100,Saint-Dié-des-Vosges,34
+1099,2,Solene Delacroix,17 Chemin du Walsbach,68140,Hohrod,41
+1100,2,Enola Corbin,1015 Rue De La Meurthe,88470,La Voivre,13
+1101,2,Anissa Dias,18 Route de Colroy,67420,Saint-Blaise-la-Roche,17
+1102,2,Stanislas Clouet,859 Route de la Grande Basse,88470,La Bourgonce,11
+1103,2,Odette Chevallier,11 Rue des Ansonges,88640,Granges-Aumontzey,51
+1104,2,Jacky Revel,552 Devant le Chateau,68910,Labaroche,40
+1105,2,Melanie Bardet,1 la Louvière,88250,La Bresse,49
+1106,2,Arnaud Duc,18 Chemin du Solamont,67420,Saales,19
+1107,2,Noelle Gougeon,3 Rue des Allies,88100,Saint-Dié-des-Vosges,12
+1108,2,Aubin Parmentier,60 Impasse des Sources,88400,Xonrupt-Longemer,42
+1109,2,Ludwig Monin,Les Frenots,88490,La Grande-Fosse,19
+1110,2,Natacha Lenormand,98 Rue Germaine Marchal,88100,Saint-Dié-des-Vosges,1
+1111,2,Mickey Pinault,8c Grande Rue,88110,Luvigny,61
+1112,2,Yvaine Josse,9 Avenue de la Gare,88120,Vagney,28
+1113,2,Tatiana Poulain,37bis Rue Adolphe Muller,88110,Raon-l'Étape,4
+1114,2,Emine Vergne,39 Rue du Tir,88110,Celles-sur-Plaine,60
+1115,2,Matteo Laval,63 Rue de la Gare,67130,Fouday,18
+1116,2,Matthieu Bouillon,1 Rue Charles Velin,88700,Rambervillers,8
+1117,2,Mathieu Dumortier,1 Rue de la Combelle,88200,Saint-Nabord,30
+1118,2,Guillaume Le guen,10 Rue des Hauts Champs,88110,Luvigny,61
+1119,2,Anne Rivet,Vagney,88120,Vagney,28
+1120,2,Noan Delcroix,23 Chemin de Malplantouse,88700,Rambervillers,9
+1121,2,Norbert Mattei,59 Impasse du Xaty,88100,Taintrux,24
+1122,2,Marie Boisson,3415 Rd42 Lamanvillers,88200,Saint-Étienne-lès-Remiremont,30
+1123,2,Brice Boisseau,507 Rue Joseph Thiéry,88230,Ban-sur-Meurthe-Clefcy,44
+1124,2,Viviane Gauthier,,,,2
+1125,2,Cassandra Desbois,221 Chemin de la Pellière,88230,Ban-sur-Meurthe-Clefcy,44
+1126,2,Perrine Thuillier,82 Barischire,68650,Lapoutroie,38
+1127,2,Orane Fournier,282 la Forêt,68650,Lapoutroie,38
+1128,2,Ronan Duriez,42 Rue d'Alsace,88100,Saint-Dié-des-Vosges,47
+1129,2,Benjamin Smith,10 Montee de Bettrempot,88490,Provenchères-et-Colroy,20
+1130,2,Cyprien Sabatier,521 La Fosse Sud,88230,Ban-sur-Meurthe-Clefcy,44
+1131,2,Lydie Gouin,8 Rue de Nauraumont,88150,Thaon-les-Vosges,54
+1132,2,Deborah Carvalho,61c Rue Principale,67130,Fouday,18
+1133,2,Dimitri Duchene,21 Rue des Combattants d'a F N,88520,Ban-de-Laveline,36
+1134,2,Bastien Marco,6 Rue des Cailles,88120,Vagney,28
+1135,2,Aude Barre,54 Rue Saint-pierre,54122,Fontenoy-la-Joûte,6
+1136,2,Sophie Chevalier,290 Allée des Déportés,88100,Nayemont-les-Fosses,21
+1137,2,Amandine de Blanquefort,1 La Basse,88520,Bertrimoutier,36
+1138,2,Romain Raynal,11 Chemin du Feseneck,68140,Munster,41
+1139,2,Adrienne Bresson,14 Rue de la Gare,88100,Saint-Dié-des-Vosges,47
+1140,2,Laetitia Legendre,18 Rue de la Vielle Grange,88600,Bruyères,32
+1141,2,Jeanine Bret,2 Nayemont,88210,Ban-de-Sapt,63
+1142,2,Tony Marchand,123b Impasse du Gazon,88400,Xonrupt-Longemer,42
+1143,2,Alexandre Poirier,6 Lotissement Devant le Chateau,88480,Étival-Clairefontaine,3
+1144,2,Annie Flament,6 Rue de la Cote Cabiche,88000,Épinal,53
+1145,2,Alphonse Mangin,87 Allée des Pins,88100,Nayemont-les-Fosses,22
+1146,2,Floriane Houdet,310 Chemin de Griville,88100,Taintrux,24
+1147,2,Isaac Proust,271 le Fossé,68650,Lapoutroie,38
+1148,2,Nicolas Morand,1bis Rue du 14 Novembre 1944,88640,Granges-Aumontzey,51
+1149,2,Maximilien Gaubert,59 Chemin des Sorbiers,88400,Gérardmer,26
+1150,2,Genevieve Gaultier,8 Avenue de Virecourt,54290,Bayon,57
+1151,2,Zaccharie Rendiger,14 Rue de Saint-linguy,88700,Jeanménil,9
+1152,2,Nathalie Masset,457 le Bâa,68910,Labaroche,40
+1153,2,Christine Breton,1104 Route du Saut des Cuves,88400,Xonrupt-Longemer,42
+1154,2,Francine Langlais,1 Route du Chaud Costet,88530,Le Tholy,27
+1155,2,Carole Lair,39 Rue des Pêcheurs,88200,Saint-Étienne-lès-Remiremont,29
+1156,2,Gaël Charpentier,28f Rue de la Ménantille,88100,Saint-Dié-des-Vosges,47
+1157,2,Anne-Marie Collignon,105 Route des Couteles,88100,Pair-et-Grandrupt,21
+1158,2,Marceau Negre,34 Lotissement Adrien Mathis,88490,Provenchères-et-Colroy,20
+1159,2,Fernand Huynh,1 Rue du Chanoine Mathieu,88130,Charmes,56
+1160,2,Jeannine Saulnier,5 Route de Nayemont les Fosses,88100,Saint-Dié-des-Vosges,34
+1161,2,Yolande Delaporte,1 La Basse des Fourmis,88210,Senones,15
+1162,2,Florian Lalanne,2 Lotissement Devant le Chateau,88480,Étival-Clairefontaine,3
+1163,2,Benoit Hoarau,16 Ruelle Saint-blaise,88110,Raon-l'Étape,4
+1164,2,Barbara Crespin du Bec,9 Route de Bellevue,88230,Fraize,37
+1165,2,Clementine d'Abancourt,7 Route de Glonville,54122,Fontenoy-la-Joûte,6
+1166,2,Paulette Tanguy,748 Rue des Chênes,88470,Saint-Michel-sur-Meurthe,2
+1167,2,Rémi Le Du,10 Rue des Combattants d'a F N,88520,Ban-de-Laveline,36
+1168,2,Luis Noel,La Crévotte,88210,Le Saulcy,16
+1169,2,Grégory Mathon,62 Rue du Centre,88200,Saint-Nabord,30
+1170,2,Sarah Martini,13 Rue du Général Patch,88460,Docelles,31
+1171,2,Christiane Gallet,177 Rue de l'Ormeau,88430,Corcieux,25
+1172,2,Gaëtan Legras,2bis Allee de Saint Louis,88130,Charmes,56
+1173,2,Manon Bouyer,8 La Menelle,54540,Pierre-Percée,60
+1174,2,Daniele Lepage,4 Rue d'Alsace,88580,Saulcy-sur-Meurthe,46
+1175,2,Pablo Courtois,8 Quai de la Résistance,88100,Saint-Dié-des-Vosges,34
+1176,2,Léo Gallois,2 Chemin de la Goutte,88490,Provenchères-et-Colroy,20
+1177,2,Tom Marchal,21 Rue du Feigneux,88600,Brouvelieures,33
+1178,2,Rachel Faucher,107 Rue d'Alsace,88100,Saint-Dié-des-Vosges,47
+1179,2,Sélène Champion,210 Route du Tremplin,88400,Xonrupt-Longemer,42
+1180,2,Gabin Chauvet,435 Chemin de Malençon,88470,Nompatelize,11
+1181,2,Marina Toussaint,17b Rue de Saint Christophe,54120,Baccarat,5
+1182,2,Vadim Carrier,2 Chemin du Paradis,88250,La Bresse,49
+1183,2,Andrée Soler,Chemin de la Roche,88230,Fraize,37
+1184,2,Raoul Lejeune,752 Chemin de la Ferme de l'Oiseau,88200,Remiremont,29
+1185,2,Eliot Rousset,28 Route du Droit,88250,La Bresse,49
+1186,2,Marlene Alexandre,1 Rue du Faude,68370,Orbey,39
+1187,2,Victoire Ferrier,3 Rue de la Drague,54120,Baccarat,5
+1188,2,Katia Cadiou,221d La Chapelle,68910,Labaroche,40
+1189,2,Séverine Normand,28 Chemin de Sapois,88400,Gérardmer,26
+1190,2,Marie-Thérèse Comte,268 Chemin des Diligences,88650,Saint-Léonard,45
+1191,2,Jennifer Le corre,8 Rue de Longuet,88200,Saint-Nabord,30
+1192,2,Justine Guillet,1 Le Rouaux,88210,Ban-de-Sapt,63
+1193,2,Anna Boucher,27 Rue Emile Marande,88110,Raon-l'Étape,4
+1194,2,Néo Petitjean,53 Rue de la Croix Egline,88430,Corcieux,25
+1195,2,Joseph Marteau,73 Rue Des Hyeres,88470,La Voivre,13
+1196,2,Emmanuel Ballet,292 Rue du Haut Bourg,88100,Neuvillers-sur-Fave,35
+1197,2,Dounia Fournet,4 Rue de Vieux Moulin,88210,La Petite-Raon,15
+1198,2,Emma Le Berre,14 Chemin des Journaux,88110,Raon-l'Étape,4
+1199,2,Teddy Prigent,23 Avenue des Terres Saint Jean,88000,Épinal,52
+1200,2,Celia Lafont,1a Rue de l'Ancien Sanatorium,67130,Schirmeck,62
+1201,2,Thérèse Rossignol,1 Bademont,88490,La Grande-Fosse,19
+1202,2,Maelle Serres,7 Lotissement les Mirabelliers,88520,Ban-de-Laveline,36
+1203,2,Gabrielle Rouanet,781 Le Vic,88230,Ban-sur-Meurthe-Clefcy,43
+1204,2,Suzanne Pereira,17 Rue Martin Waldseemuller,88100,Saint-Dié-des-Vosges,23
+1205,2,Mickaël Barral,59 Rue des Cristalleries,54120,Baccarat,5
+1206,2,Jean-Claude Ortega,14 Rue Eugène Lutherer,88190,Golbey,53
+1207,2,Jocelyne Le bris,4 Chemin du Haut Pre,88480,Étival-Clairefontaine,3
+1208,2,Étienne Lebeau,1 chemin de la gravière,88210,Hurbache,64
+1209,2,Berthe Lacombe,422 Rd42 Lamanvillers,88200,Saint-Étienne-lès-Remiremont,30
+1210,2,Armand Oger,2 le Fossé,68650,Lapoutroie,38
+1211,2,Zabou Canu,6 Basse de Para,54540,Pierre-Percée,60
+1212,2,Michael d'Everlange,5bis Avenue de la Gare,54290,Bayon,57
+1213,2,Myriam Da silva,50 Chemin de la Cartonnerie,88100,Sainte-Marguerite,22
+1214,2,Anne-Sophize Pires,4bis Chemin de la Poterie,88700,Jeanménil,9
+1215,2,Jérémie Terrier,41 Chemin Nohal,88700,Rambervillers,8
+1216,2,Eva Guillou,8 Les Baumes,88640,Granges-Aumontzey,51
+1217,2,Océane Brunet,18 Gemainfaing,88210,Ban-de-Sapt,63
+1218,2,Kim Montagne,1 Le Paquis,88490,Provenchères-et-Colroy,20
+1219,2,Jean Mary,10 Rue des Anémones,88150,Thaon-les-Vosges,54
+1220,2,Dominique Bois,46 Rue du 8 Mai 1945,88480,Étival-Clairefontaine,3
+1221,2,Oscar Choquet,9999 Les Baraques,88420,Moyenmoutier,64
+1222,2,Jérémy Dos santos,43bis Rue d'Ortimont,88100,Saint-Dié-des-Vosges,1
+1223,2,Yanis Delcourt,6 Rue Jean Paul Sartre,54120,Baccarat,5
+1224,2,Melodie Foucher,2bis Route de Vomécourt,88700,Rambervillers,8
+1225,2,Martial Lienard,201 Chemin du Village,88230,Ban-sur-Meurthe-Clefcy,44
+1226,2,Claudine de Champignac,1bis Route de Baccarat,54290,Bayon,57
+1227,2,Jean-Pierre Bourguignon,7 Route du Chaud Costet,88530,Le Tholy,27
+1228,2,Kilian Galateau,1 Route de Vieux Moulin,88210,Senones,15
+1229,2,Xavière Mougel,4 Rue du Docteur Macker,68650,Lapoutroie,38
+1230,2,Félix Devaux,13a Route des Bouchaux,88250,La Bresse,49
+1231,2,Rose Perrot,15 Rue Emile Marande,88110,Raon-l'Étape,4
+1232,2,Kenna Olive,43 Rue du Centre,88200,Saint-Nabord,30
+1233,2,Joël Redon,20 La Fontenelle,88210,Ban-de-Sapt,63
+1234,2,Elio Mahieu,1ter Rue de la Maladrie,88210,Hurbache,64
+1235,2,Paulin Pasquier,Roville-aux-Chênes,88700,Roville-aux-Chênes,7
+1236,2,Armelle Collet,18 Laitre,88210,Ban-de-Sapt,63
+1237,2,Rémy Huard,2 Route du Haut du Tôt,88530,Le Tholy,27
+1238,2,Léonard Lecuyer,10 Ruelle des Capucins,88130,Charmes,56
+1239,2,Tyméo Boucard,18 Rue des Chaufours,88130,Essegney,56
+1240,2,Monique Darras,189 Route De Himbeaumont,88470,La Voivre,13
+1241,2,Lydia Hamel,26 Route du Droit,88250,La Bresse,49
+1242,2,Margaux Boileau,5 Rue des Castors,88100,Saint-Dié-des-Vosges,34
+1243,2,Aline Legrand,101 Chemin de Nolle Pré,88100,Taintrux,24
+1244,2,Paul Jardin,30 Faubourg Saint-Sébastien,67130,Schirmeck,62
+1245,2,Melody Granier,15 Rue de Lorraine,54540,Badonviller,59
+1246,2,Philippine Fayolle,26 Rue du 43e Rit,88100,Saint-Dié-des-Vosges,12
+1247,2,Corentin Bizet,1bis Rue Zone Activite Florivoie,88640,Granges-Aumontzey,51
+1248,2,Lucien Cosson,12 Rue des Champs Perdrix,88640,Granges-Aumontzey,51
+1249,2,Killian Marquet,1 Rue des Gadines,54120,Baccarat,5
+1250,2,Francis Cottin,26 Route de Moyenmoutier,88210,Hurbache,64
+1251,2,Kélian Bouche,10bis Rue de l'Avison,88600,Bruyères,32
+1252,2,Amaury Barraud,67e Rue Camille Duceux,88100,Saint-Dié-des-Vosges,12
+1253,2,Jessy Morvan,4 Chemin des Sapins,88120,Vagney,28
+1254,2,Auguste Drouin,9 Rue des Capucins,88700,Rambervillers,8
+1255,2,José Ferreira,5 Rampe des Carriers,88250,La Bresse,49
+1256,2,Tanguy Bourdier,3 Chemin de la Cote Calot,88100,Saint-Dié-des-Vosges,12
+1257,2,Mathias Casanova,11 Place des Fusillés,88430,Corcieux,25
+1258,2,Murielle Prieur,6 Rue des Perce Neige,88200,Saint-Nabord,30
+1259,2,Marielle Fabre,4 Zone Artisanale,88600,Champ-le-Duc,32
+1260,2,Simonne Robin,20 Rue des 3 Maisons,88400,Xonrupt-Longemer,42
+1261,2,Morgan Geffroy,7 Rue de l’Adjudant Sagginatti,88130,Charmes,56
+1262,2,Eugenie Besancon,646 Route des Jumeaux,88470,Nompatelize,11
+1263,2,Octave Lacaze,26 Chemin des Roches Chevaliers,88530,La Forge,27
+1264,2,Guy Morin,23 Impasse du Costet,88430,Corcieux,25
+1265,2,Malika Carrere,11 Rue D Aubiey,88440,Nomexy,55
+1266,2,Marcelle Garnier,3 Rue de la Pouxe,88490,Provenchères-et-Colroy,20
+1267,2,Odilon Maillet,77 Impasse de la Gare,88100,Sainte-Marguerite,22
+1268,2,Julie Clavel,18 Rue Principale,67420,Saint-Blaise-la-Roche,17
+1269,2,Elisabeth Diot,12 Rue de la Gare,67130,La Broque,62
+1270,2,Wendy Hernandez,1 Route de Bestru,88490,Provenchères-et-Colroy,20
+1271,2,Valentin Masse,7 Chemin de la Butte,88200,Remiremont,29
+1272,2,Melissa Wagner,4 Place de la Gare,88210,La Petite-Raon,15
+1273,2,Irwin Fievet,15 Avenue de la Fontenelle,88100,Saint-Dié-des-Vosges,1
+1274,2,César Maury,5 Chemin du Sauvieux,54290,Bayon,57
+1275,2,Lauriane Guilbaud,9ter Rue du Coignot,88460,Cheniménil,31
+1276,2,Cyril Besnard,17 Rue du Docteur Larue,88210,Senones,15
+1277,2,Kévin Cuvelier,570 Rue Saint-Michel,88470,Saint-Michel-sur-Meurthe,2
+1278,2,Coline Baudouin,10 Chemin Près de Hon,54120,Baccarat,5
+1279,2,Valérie Fremont,8 Rue de l'Hermitage,88100,Saint-Dié-des-Vosges,47
+1280,2,Christian Chauveau,10 Rue du Pont de Saint-Jean,88210,Le Saulcy,16
+1281,2,Théodore Maurin,91 Chemin du Seilsbach,68140,Eschbach-au-Val,41
+1282,2,Léandre Ragot,38 Chemin Communal No 2,54122,Fontenoy-la-Joûte,6
+1283,2,Patrick Pouget,10 Rue du Rechamp,67420,Colroy-la-Roche,17
+1284,2,Jonathan Gérard,20 Rue de la Fontaine Martin,88480,Étival-Clairefontaine,3
+1285,2,Brigitte Aubertin,81 Rue de Stalingrad,88110,Raon-l'Étape,4
+1286,2,Yoann Philippon,1 Allée des Rapailles,88000,Épinal,52
+1287,2,Timeo Papin,7bis Route de Vervezelle,88600,Brouvelieures,33
+1288,2,Valère Pillet,5 Rue 75 79e Divisions Americaines,88130,Charmes,56
+1289,2,Denise Berard,16 Les Chapes,88640,Granges-Aumontzey,51
+1290,2,Aurore Aubin,18 Rue du Chevreuil Blanc,88250,La Bresse,49
+1291,2,Patricia Dubourg,10 Route de Denipaire,88210,Hurbache,64
+1292,2,Laurent Lucas,4bis Allee 3,88150,Thaon-les-Vosges,54
+1293,2,Gaston Renaud,4 Rue des Fontaines,88490,Le Beulay,20
+1294,2,Jade Cochet,18 A Honville,88520,Ban-de-Laveline,36
+1295,2,Aurelia Sevin,20 Rue des Evelottes,54290,Bayon,57
+1296,2,Amélie Billy,7 Rue Maurice Jeandon,88100,Saint-Dié-des-Vosges,47
+1297,2,Marcel Bouchet,11 Chemin de la Rouge Cote,88470,Saint-Michel-sur-Meurthe,2
+1298,2,Juliette Renou,Deneuvre,54120,Deneuvre,5
+1299,2,Augustine Prunier,49 Avenue du Huit Mai,88700,Rambervillers,8
+1300,2,Antoinette Auffret,17 Rue de l'Hôpital,88600,Bruyères,32
+1301,2,Maël Cote,19 Chemin Nohal,88700,Rambervillers,8
+1302,2,Tania Le bihan,124 Rue de la Gare,88100,Sainte-Marguerite,22
+1303,2,Daniel Mousset,14 Rue des 3 Sorrels,88460,Cheniménil,31
+1304,2,Magali Lebreton,1 Chemin de Merviller,54120,Baccarat,5
+1305,2,Guilhem Bocquet,8 Rue de la Basse des Rupts,88400,Gérardmer,26
+1306,2,Philippe Guiot,748 Route de Saint-dié,88100,Pair-et-Grandrupt,21
+1307,2,Roméo Philibert,8 Rue Stanislas,88100,Saint-Dié-des-Vosges,1
+1308,2,Loris Meyer,22 Rue de la Coopérative,67570,La Broque,62
+1309,2,Lorrain Piat,9 Rue des Pommiers,67130,La Broque,62
+1310,2,Malone Mauduit,2 Rue Aime Benoit Seilliere,67130,La Broque,62
+1311,2,Blanche Le bars,8 Rue de Saint Christophe,54120,Baccarat,5
+1312,2,Kewan Tisserand,685 Route de Vichibure,88430,Corcieux,25
+1313,2,Lucienne Lecocq,12 Rue André Lamey,68140,Munster,41
+1314,2,Renée Delhaye,32 Chemin la Belle au Bois Dormant,88000,Épinal,52
+1315,2,Faustine Ledoux,48 Rue Charles Claudel,88210,Senones,15
+1316,2,Pascale Gueguen,562 Chemin du Rain des Bolés,88100,Nayemont-les-Fosses,21
+1317,2,Josephine Deschamps,185 Rue d'Alsace,88290,Saulxures-sur-Moselotte,50
+1318,2,Maé Delattre,15 Route de Menil,88210,Senones,15
+1319,2,Jeanne Moulin,44 Rue des Grands Pres,88100,Sainte-Marguerite,22
+1320,2,Yvan Collot,27 Rue des Béchamps,88520,Ban-de-Laveline,36
+1321,2,Bertrand Aubert,20 Chemin de Housseramont,88530,Le Tholy,27
+1322,2,Côme Tournier,20 Rue de la Maladrie,88210,Hurbache,64
+1323,2,Arthur Godin,3 Rue André Malraux,54120,Baccarat,5
+1324,2,Marthe Delannoy,23 Route de Bussang,88200,Saint-Étienne-lès-Remiremont,29
+1325,2,Arlette Jouve,21 Rue de la Maladrie,88210,Hurbache,64
+1326,2,Clovis de Montclos,2 Impasse des Messagers,88200,Saint-Étienne-lès-Remiremont,29
+1327,2,Liliane Carriere,89 Rouge Grange,68910,Labaroche,40
+1328,2,Annick Segard,34 Rue du Nouvel Hopital,88100,Saint-Dié-des-Vosges,34
+1329,2,Maude Andre,875 Route des Champs de Poutay,67420,Plaine,17
+1330,2,Eliane Monteil,22 Rue de Bellevue,88200,Saint-Nabord,30
+1331,2,Yannick Motte,19 Rue du Maréchal Foch,54830,Gerbéviller,58
+1332,2,Meline Mahe,17 Rue Jean Jaurès,88580,Saulcy-sur-Meurthe,46
+1333,2,Zora Naudin,2 Rue de l'Hermitage,88100,Saint-Dié-des-Vosges,47
+1334,2,Pascal Payen,14 Route de Moyenmoutier,88210,Hurbache,64
+1335,2,Alfred Laine,600 Route de Raves,88100,Neuvillers-sur-Fave,35
+1336,2,Emmanuelle Beaulieu,58 Route de Charmes,88130,Essegney,56
+1337,2,Chloé Brisset,2 Le Nouveau Saales,88490,Provenchères-et-Colroy,19
+1338,2,Rudy Goupil,1 Impasse des Grives,88400,Gérardmer,26
+1339,2,Thierry Varlet,47 Promenade de la Pierre d'Appel,88480,Étival-Clairefontaine,3
+1340,2,Sylvain Bellot,3 Avenue 36e Division Us,88600,Bruyères,32
+1341,2,Christelle Raoul,9 Rue de la Ratte,88460,Cheniménil,31
+1342,2,Melvin Lechat,825 Route des Jumeaux,88470,La Bourgonce,11
+1343,2,Sandro Babin,4 La Closerie du Bourg,54290,Bayon,57
+1344,2,Joan Racine,251 Impasse de la Goutte des Marres,88100,Taintrux,24
+1345,2,Nathéo Dubuc,125a Rue de l'Eau Morte,68370,Orbey,39
+1346,2,Yaël Ferrari,25 Impasse des Maisons Neuves,88400,Gérardmer,26
+1347,2,Boris Vautrin,483 Route du Blanc Ruxel,88400,Xonrupt-Longemer,42
+1348,2,Valèry Riviere,11b Rue Jeanne D Arc,88440,Nomexy,55
+1349,2,Hervé Roux,1 Rue du Censal,54830,Gerbéviller,58
+1350,2,Marguerite Boutin,4 Rue Principale,67130,Solbach,18
+1351,2,Malo Gosselin,8 Rue Pasteur,54120,Baccarat,5
+1352,2,Maxence Tison,23 Rue Charles de Gaulle,68370,Orbey,39
+1353,2,Lena Puech,458 Les Cottis,68910,Labaroche,40
+1354,2,Carlos Huchet,403 Chemin du Rain des Bolés,88100,Nayemont-les-Fosses,21
+1355,2,Adrien Mazet,2 Chemin Prive Com de la Salle,88580,Saulcy-sur-Meurthe,46
+1356,2,Didier Lang,10 Ruelle Démennemey,88230,Fraize,37
+1357,2,Matt Ouvrard,15 Rue de Florivoie,88640,Granges-Aumontzey,51
+1358,2,Linda Tardieu,17 Allées du Plateau Saint-maurice,88210,Senones,15
+1359,2,Elouan Grimaud,43 Route de Nayemont les Fosses,88100,Saint-Dié-des-Vosges,34
+1360,2,Axel Raimbault,5 Rue du Bout du Pont,88460,Cheniménil,31
+1361,2,Estéban Luciani,21 Rue de Verdun,88330,Châtel-sur-Moselle,55
+1362,2,Charlotte Huguet,9 Rue de la Tuilerie,88100,Saint-Dié-des-Vosges,1
+1363,2,Colette Rillart de Verneuil,16 Route Vieille Route d’Autrey,88700,Rambervillers,8
+1364,2,Virginie Gosset,527 rue de sainte-claire,88490,Frapelle,35
+1365,2,Pierre Tran,458 Chemin du Chene,68910,Labaroche,40
+1366,2,Lino Lesueur,3 La Vigne,88210,Hurbache,64
+1367,2,Samuel Hoffmann,103 Rue de Stalingrad,88110,Raon-l'Étape,4
+1368,2,Edwige Menard,596 Route du Relais,88400,Xonrupt-Longemer,42
+1369,2,Agathe Terrien,12bis Rue de la Goutte de Laine,88120,Vagney,28
+1370,2,Angeline Grange,7 Rue de l'Avenir,88210,Senones,15
+1371,2,Elias Carpentier,3 Rue de la Prairie,88700,Rambervillers,8
+1372,2,Frédéric Louis,379 Route de Saint-dié,88100,Neuvillers-sur-Fave,35
+1373,2,Emrys Blandin,5 Route de Bru,88700,Jeanménil,9
+1374,2,Marin Piot,2 Route du Noir Sapin,88430,Gerbépal,48
+1375,2,Caroline Rigaud,21 Avenue de Robache,88100,Saint-Dié-des-Vosges,1
+1376,2,Rose-Marie Vigneron,508 La Rochette,68910,Labaroche,40
+1377,2,Noham Le roux,2 Rue d'Ertingen,88640,Granges-Aumontzey,51
+1378,2,Josiane Caillaud,9 Rue de la Renaissance,54540,Badonviller,59
+1379,2,Victorine Loyer,34 Rue des 3 Sapins,88200,Saint-Nabord,30
+1380,2,Thomas Michel,27 Rue de Verdun,88330,Châtel-sur-Moselle,55
+1381,2,Henriette Mora,12 Rue de la Place,68370,Orbey,39
+1382,2,Laurie Jan,10 Rue de la Chapelle,88700,Rambervillers,8
+1383,2,Gilles Garrigues,72 Rue du 43e Rit,88100,Saint-Dié-des-Vosges,12
+1384,2,Tristan Chaix,28 Rue des Rochires,88470,Saint-Michel-sur-Meurthe,2
+1385,2,Achille Le Coz,56 Ruelle de la Fraize,88100,Neuvillers-sur-Fave,35
+1386,2,Laurine Portal,111 Rue du Colonel Mueth,88700,Rambervillers,8
+1387,2,Albert Miquel,2 Rue Fortier,88110,Celles-sur-Plaine,60
+1388,2,Agnès Hoareau,285 Rue de la Gare,88650,Saint-Léonard,45
+1389,2,Mathis Fontaine,1 Pres du Rupt,88210,Belval,16
+1390,2,Anne-Lise Pham,213 allée Bas du Mont,88130,Charmes,56
+1391,2,Georgette d'Harcourt,13 Rue P Ancel Seitz,88640,Granges-Aumontzey,51
+1392,2,Marie-Claude Cros,896 Chemin du Rain des Bolés,88100,Nayemont-les-Fosses,21
+1393,2,Anthony Chollet,4 Rue des Grands Pres,88700,Jeanménil,9
+1394,2,Delphine Auger,Chemin du Grand Pré,88200,Saint-Étienne-lès-Remiremont,30
+1395,2,Thaïs Caillet,13 Rue des Jardins,67420,Saint-Blaise-la-Roche,17
+1396,2,Ghislaine Perrault,2 Impasse André Lévy,88400,Gérardmer,26
+1397,2,Tessa Blaise,3 Impasse de la Barriere,54120,Baccarat,5
+1398,2,Timothée Pouliquen,9 La Moline,88430,Gerbépal,48
+1399,2,Gustave Roca,2 Nouveau Saales,67420,Saales,19
+1400,2,Frédérique Allemand,54 Promenade de la Pierre d'Appel,88480,Étival-Clairefontaine,3
+1401,2,Arwen Barbier,Noir Pré,88530,Le Tholy,27
+1402,2,Pierrette Sorin,21 Rue de l'Orient,88100,Saint-Dié-des-Vosges,1
+1403,2,Malcom Roger,25 Rue du Poutreau,88640,Granges-Aumontzey,51
+1404,2,Nolan Bailleul,4 Chemin de la Roche,88230,Fraize,44
+1405,2,Joachim Guillemin,401 Route des Jumeaux,88470,La Bourgonce,11
+1406,2,Olive Guery,7 Rue du Gerva,88230,Fraize,37
+1407,2,Sylvie Laffont,67 Chemin du Cimetière,88100,Sainte-Marguerite,22
+1408,2,Loïs Mercier,24 Rue Emile Durkheim,88100,Saint-Dié-des-Vosges,1
+1409,2,Jonas Franco,4 Le Clos des Prairies,88120,Vagney,28
+1410,2,Alexandra Daval,12 Rue de Belle Vue,88110,Raon-l'Étape,4
+1411,2,Martin Jullien,20a Route des Séches Tournées,88230,Fraize,37
+1412,2,Yaëlle Caro,10 Nouveau Saales,67420,Saales,19
+1413,2,Youna Bonnel,8 Route de Clairegoutte,88230,Fraize,37
+1414,2,Charline Bataille,Rue du Haut de l’Horloge,54830,Gerbéviller,58
+1415,2,Ludivine Samson,89 Rue du Général Dufieux,68650,Lapoutroie,38
+1416,2,Cécile Brunel,1280 Route de Biarville,88470,Nompatelize,11
+1417,2,Pimprenelle Douay,24 Promenade de la Pierre d'Appel,88480,Étival-Clairefontaine,3
+1418,2,Gwendoline Vannier,65 Route du Palmont,88650,Saint-Léonard,45
+1419,2,Gabriel Leveque,8 Chemin de la Hulotte,88400,Gérardmer,42
+1420,2,Annabelle Bayle,21 Impasse des Fontaines,88200,Dommartin-lès-Remiremont,29
+1421,2,Dylan Combe,66 Rue De La Boutte,88470,La Voivre,13
+1422,2,Mylan Monnier,9 Allee Raymond Aron,88100,Saint-Dié-des-Vosges,1
+1423,2,Joelle Gaudemaris,89 Hambostures,68650,Lapoutroie,38
+1424,2,Diego Rambaud,893 Route des Jumeaux,88470,La Bourgonce,11
+1425,2,Ruben Lemoine,7 Rue de Moulins sur Allier,88580,Saulcy-sur-Meurthe,46
+1426,2,Marianne Loisel,58 Chemin des Vieilles Fouies,88400,Xonrupt-Longemer,42
+1427,2,Vincent Moreira,3 Rue de l’Ecluse,88130,Charmes,56
+1428,2,Fabrice Lafitte,3 Avenue de la Fontenelle,88100,Saint-Dié-des-Vosges,1
+1429,2,Lucas Masson,49 Rue Wessval,88110,Raon-l'Étape,4
+1430,2,Claude Oudin,16 Rue de Saint-maurice,88210,Vieux-Moulin,15
+1431,2,Baptiste Guyot,20 Rue de la Fosse,88480,Étival-Clairefontaine,3
+1432,2,Joanna Blanchard,4 Chemin de la Prelle,88210,Ban-de-Sapt,63
+1433,2,Augustin de Fontanges,34 Chemin du Heidenbach,68140,Munster,41
+1434,2,Gaëlle Seguin,14 Rue des Fontaines,88490,Le Beulay,20
+1435,2,Eloi Barreau,346 Cheminement de Niargoutte Diespach,67420,Plaine,17
+1436,2,Ernest Pinto,159 Rue du Gotty,88470,La Bourgonce,11
+1437,2,René Aubry,472 Rue des Fourneaux,88470,Saint-Michel-sur-Meurthe,2
+1438,2,Roseline Delage,246 Rue du Pré Chapy,88650,Saint-Léonard,45
+1439,2,Ophélie Rougier,2 Rue Emile Durkheim,88100,Saint-Dié-des-Vosges,1
+1440,2,Roland Favier,40 Rue Ohl des Marais,88100,Saint-Dié-des-Vosges,12
+1441,2,Dany Lemonnier,4ter Chemin de la Creuse,88530,Le Tholy,27
+1442,2,Loïc Michon,150 Place de la République,67130,Schirmeck,62
+1443,2,Yohann Guilloux,1 Rue Paul Langevin,88110,Raon-l'Étape,4
+1444,2,Lola Drouet,29 Rue des Grands Prés,88120,Vagney,28
+1445,2,Charles Gaillard,3 Route de Barembach,67130,Schirmeck,62
+1446,2,Sabrina Jarry,28 Route de la Charbonniere,67420,Plaine,18
+1447,2,Olympe Berton,62 Route de la Broche du Pont,88400,Xonrupt-Longemer,42
+1448,2,Aimé Paris,30 Rue Etienne Simard,88130,Charmes,56
+1449,2,Raymond Kremer,11 Route de Saint-jean-d'Ormont,88210,Ban-de-Sapt,63
+1450,2,Titouan Favre,47 Rue de Schirmeck,67570,Rothau,62
+1451,2,Patrice Pinet,6 Allée des Beaux Jardins,88470,Saint-Michel-sur-Meurthe,2
+1452,2,Béatrice Lemarchand,10 Rue des Jonquilles,88100,Saint-Dié-des-Vosges,34
+1453,2,Pauline Marty,23 Impasse du Temple,88110,Raon-l'Étape,4
+1454,2,Zita Metayer,49 Boulevard d'Alsace,88400,Gérardmer,26
+1455,2,Simone Fouquet,23 Rue du Docteur Lapierre,88250,La Bresse,49
+1456,2,Christel Fonteneau,24 Rue Du Pair,88420,Moyenmoutier,14
+1457,2,Ilian Boutet,2 Rue des Thuyas,88190,Golbey,53
+1458,2,Lorenzo Bonnin,12bis Rue de Longuet,88200,Saint-Nabord,30
+1459,2,Anne-Claire Bouvier,12 Route du Brabant,88250,La Bresse,49
+1460,2,Marjorie Fillon,53 Le Centre,88490,Lusse,20
+1461,2,Zéphir Billon,448 Route de la Houssière,88430,Corcieux,25
+1462,2,Jérôme Prudhomme,10 Rue de l'Hermitage,88100,Saint-Dié-des-Vosges,1
+1463,2,Carla Bauduin,14 Rue des Béchamps,88520,Ban-de-Laveline,36
+1464,2,Alison Reynaud,23 Route de Nayemont,88100,Saint-Dié-des-Vosges,21
+1465,2,April Faivre,28 Rue Eugène Mathis,88230,Fraize,37
+1466,2,Alain Moreno,93 Impasse de l’Aumonerie,88430,Corcieux,25
+1467,2,Andrea Jouan,3 Chemin des Chenaux,67420,Colroy-la-Roche,17
+1468,2,Lionel Prat,47 Chemin de la Croisette,88100,Taintrux,24
+1469,2,Camille Vivier,28a Allee des Gouttes,88210,Senones,15
+1470,2,Lilian Guedon,45 Boulevard Kelsch,88400,Gérardmer,26
+1471,2,Alexis Borel,Saulcy Devant Thiaville,54120,Bertrichamps,4
+1472,2,Simon Guegan,15 Rue Emile Haxo,88110,Raon-l'Étape,4
+1473,2,Ezio Bellec,45 Chemin de Miselle,88400,Gérardmer,26
+1474,2,Arsène Massot,45 Avenue du Colonel de la Horie,54540,Badonviller,59
+1475,2,Edmond Garcia,14 Chemin de la Roche,88230,Fraize,37
+1476,2,Françoise Vallee,1 Rue des Vosges,67420,Saales,19
+1477,2,Hugo Bloch,5 Rue de la Broche du Val,88460,Cheniménil,31
+1478,2,Léon Debray,30 Route des Tixes,88430,Corcieux,25
+1479,2,Valérian Pierron,1 La Hayotte,88650,Entre-deux-Eaux,22
+1480,2,Harold Munoz,94 Rue de la Bolle,88100,Saint-Dié-des-Vosges,23
+1481,2,Roger Chapuis,8 Rue Charles Gratia,88700,Rambervillers,8
+1482,2,Martine Gregoire,34 Avenue Ernest Colin,88100,Saint-Dié-des-Vosges,47
+1483,2,Emile Roussel,3 Chemin de la Belle Orge,88110,Raon-l'Étape,4
+1484,2,Karen Delpech,500 La Rochette,68910,Labaroche,40
+1485,2,Serge Braud,10 Rue Du Haut De Saint Prayel,88420,Moyenmoutier,14
+1486,2,Justin Costes,3 Ancienne Route de Quieux,88210,Le Saulcy,16
+1487,2,Albane Herbin,40 Chemin de Nolle Pré,88100,Taintrux,24
+1488,2,Nadia Taillandier,3 La Menelle,54540,Pierre-Percée,60
+1489,2,William Ducrocq,24 Route de Moyenmoutier,88210,Hurbache,64
+1490,2,Jean-Louis Guichard,116 Obersolberg,68140,Eschbach-au-Val,41
+1491,2,Marie Berry,7 Rue De L Hopital,88420,Moyenmoutier,14
+1492,2,Ylan Garcin,1 Le Pré Georges,88250,La Bresse,49
+1493,2,Gilberte Riche,21bis Rue de la Ménantille,88100,Saint-Dié-des-Vosges,47
+1494,2,Estelle Bourgois,1 allée Emile Gerlach,88110,Raon-l'Étape,4
+1495,2,Jean-Christophe Le breton,11 Route des Séches Tournées,88230,Fraize,37
+1496,2,Kimi Fleury,1bis Rue de l'Universite,88100,Saint-Dié-des-Vosges,47
+1497,2,Marc Florent,18 Rue de Bréhimont,88470,Saint-Michel-sur-Meurthe,2
+1498,2,Lenny Flores,2 Rue Du Pair,88420,Moyenmoutier,14
+1499,2,Nadine Husson,548 Route Des Vieux Champs,88470,La Voivre,64
+1500,2,Alice Dupond,37 Rue du Centre,88200,Saint-Nabord,30
+1501,2,Marine Baudet,8 Rue de Verdun,88250,La Bresse,49
+1502,2,Evan Haas,1 Rue de l'Eau Morte,68370,Orbey,39
+1503,2,Henri Provost,35 Rue de Genazeville,88640,Granges-Aumontzey,51
+1504,2,Alban Granger,5 Allee 7,88150,Thaon-les-Vosges,54
+1505,2,Alexine Gervais,43 Rue Carnot,88700,Rambervillers,8
+1506,2,Christophe de Bruyères-Chalabre,9999 Rue De La Haute Pierre,88420,Moyenmoutier,14
+1507,2,Rayan Fischer,8 Chemin de la Lombarde,88530,Le Tholy,27
+1508,2,Victor Laroche,10 Rue Parmentier,88000,Épinal,53
+1509,2,Laure Durieux,7a Rue des Limousins,88700,Jeanménil,9
+1510,2,Eric Chiron,2 Rue de la Libération,88600,Brouvelieures,33
+1511,2,Robin Dubois,122 Chemin de Miselle,88400,Gérardmer,26
+1512,2,Maeva Leleu,52 Les Fontenelles,68370,Orbey,39
+1513,2,Irene Forestier,4 Les Chapes,88640,Granges-Aumontzey,51
+1514,2,Janine Rose,22 Route de Donmeix,88640,Champdray,51
+1515,2,Lubin Maisonneuve,15 Place de l'Eglise,54290,Virecourt,57
+1516,2,Lisa Voisin,20 Le Fraiteux,88210,Ban-de-Sapt,63
+1517,2,Ethan Desprez,1163 Rte l’Envers du Rupt de Bamont,88290,Saulxures-sur-Moselotte,50
+1518,2,Gérald Restaurand,2 Rue de Buemont,88600,Bruyères,32
+1519,2,Soan Perret,459a Les Chiais,68910,Labaroche,40
+1520,2,Lorraine Torres,18bis Rue de la Gare,88460,Cheniménil,31
+1521,2,Jean-Michel Dumas,Rue de la Meurthe,88580,Saulcy-sur-Meurthe,46
+1522,2,Abel Rolland,5 Route de Belmont,88600,Vervezelle,33
+1523,2,Maryse De oliveira,901 Route de l’Aviation,88000,Dogneville,53
+1524,2,Alexia Pelletier,1 Rue de la Graine Champ,68370,Orbey,39
+1525,2,Valériane Pepin,1 Chemin des Chenes,88100,Saint-Dié-des-Vosges,12
+1526,2,Nino Trouve,12 Rue de la Valdange,88480,Étival-Clairefontaine,3
+1527,2,Gauthier Weiss,1 Rue Claude Bassot,88100,Saint-Dié-des-Vosges,12
+1528,2,Véronique Bruyere,14 Rue de la Croisette,88490,Provenchères-et-Colroy,20
+1529,2,Florent Le Floch,5 Route de l’Ancienne Usine,88600,Fiménil,32
+1530,2,Soren Galembert,2bis Grande Rue,88700,Saint-Benoît-la-Chipotte,10
+1531,2,Adam Pinson,1bis Route de Remiremont,88120,Vagney,28
+1532,2,Jolan Tardy,1 Rue des Hauts Fossés,54290,Bayon,57
+1533,2,Thiméo Wagner,la Bohle,68650,Lapoutroie,38
+1534,2,Virgile Fievet,610 Du Faubourg,88700,Housseras,9
+1535,2,Vanessa Maury,16 Route des Séches Tournées,88230,Fraize,37
+1536,2,Orianne Guilbaud,39 Chemin du Langaeckerle,68140,Hohrod,41
+1537,2,Sylviane Besnard,31 Rue des Acacias,88190,Golbey,53
+1538,2,Noël Cuvelier,63 Rue Principale,67130,Fouday,18
+1539,2,Damien Baudouin,5 Rue du Ménil,88480,Étival-Clairefontaine,3
+1540,2,Géraldine Fremont,10f Rue de l’Adjudant Sagginatti,88130,Charmes,56
+1541,2,Sandra Chauveau,30 Rue Des Aiguisettes,88420,Moyenmoutier,14
+1542,2,Nina Maurin,20 Route de Bussang,88200,Remiremont,29
+1543,2,Cédric Ragot,920 Rue Pierre et Germaine Crevisier,88650,Anould,45
+1544,2,Maxime Pouget,10 Chemin du Taintroue,88100,Saint-Dié-des-Vosges,23
+1545,2,Raphaël Gérard,5 Rue des Sources,54120,Deneuvre,5
+1546,2,Chantal Aubertin,10 Rue de la Maladrie,88210,Hurbache,64
+1547,2,Emilienne Philippon,23 Rue du Général de Gaulle,88200,Saint-Nabord,30
+1548,2,Max Papin,724 Le Chene,88230,Ban-sur-Meurthe-Clefcy,44
+1549,2,Vianney Pillet,3 Voie du Moulin,88230,Ban-sur-Meurthe-Clefcy,44
+1550,2,Tim Berard,8e Rue Haute,88490,Provenchères-et-Colroy,20
+1551,2,Manuel Aubin,126 Route d'Herbaville,88100,Saint-Dié-des-Vosges,2
+1552,2,Gérard Dubourg,28 Chemin de la Grande Feigne,88400,Gérardmer,42
+1553,2,Salomé Lucas,7 Rue Abbe Gustave Morel,88520,Ban-de-Laveline,36
+1554,2,Karine Renaud,4 Les Baumes,88640,Granges-Aumontzey,51
+1555,2,Kenzo Cochet,28 Rue du Stade,88520,Ban-de-Laveline,36
+1556,2,Laurence Sevin,12 Quai des Vosges,54830,Gerbéviller,58
+1557,2,Jean-Baptiste Billy,19 Rue 10ème Bataillon de Chasseurs a Pieds,88100,Saint-Dié-des-Vosges,47
+1558,2,Sonia Bouchet,6b Rue du Gué,54120,Baccarat,5
+1559,2,Jordan Renou,5 Rue du Colonel Andlauer,88100,Saint-Dié-des-Vosges,21
+1560,2,Mylène Prunier,61 Rue Saint-pierre,54830,Gerbéviller,58
+1561,2,François Auffret,6 Chemin de la Meurthe,88580,Saulcy-sur-Meurthe,46
+1562,2,Thibaut Cote,27 Chemin du Walsbach,68140,Hohrod,41
+1563,2,Madeleine Le bihan,1 Chemin du Dessus de l'Orme,88100,Saint-Dié-des-Vosges,34
+1564,2,Samantha Mousset,1bis Rue du Ménil,88480,Étival-Clairefontaine,3
+1565,2,Théo Lebreton,61 Rue Aristide Briand,88110,Raon-l'Étape,4
+1566,2,Naël Bocquet,54 Devant les Evaux,88100,Neuvillers-sur-Fave,35
+1567,2,Lou Guiot,4 Chemin du Purgatoire,88100,Saint-Dié-des-Vosges,12
+1568,2,Kelly Philibert,24 Rue des Fusillés,88460,Cheniménil,31
+1569,2,Margot Meyer,1 Impasse Chardanne,88190,Golbey,53
+1570,2,Yann Piat,40 Rue de la Colline des Eaux,88700,Jeanménil,10
+1571,2,Marie-Louise Mauduit,4c Chemin de la Chapelle,88210,Vieux-Moulin,15
+1572,2,Marie-Noëlle Le bars,4 Avenue du Peintre Monchablon,88130,Charmes,56
+1573,2,Marie-Pierre Tisserand,1 Ruelle de la Paroisse,54120,Deneuvre,5
+1574,2,Célestin Lecocq,360 Chemin du Blanc Ruxel au Page,88400,Xonrupt-Longemer,42
+1575,2,Leonie Delhaye,30 Chemin de la Tacotte,67420,Plaine,17
+1576,2,Maria Ledoux,5 Le Faing Die,88600,Brouvelieures,33
+1577,2,Edith Gueguen,10 Le Fraiteux,88210,Ban-de-Sapt,63
+1578,2,Cindy Deschamps,42 Allée Pierre,88430,Corcieux,25
+1579,2,Gaspard Delattre,1 Rue de la Prairie,88230,Fraize,37
+1580,2,Roman Moulin,2 Rue du Gouty,88580,Saulcy-sur-Meurthe,46
+1581,2,Jacques Collot,2 Rue des Acacias,88100,Saint-Dié-des-Vosges,1
+1582,2,Florence Aubert,10 Route de Regimont,88580,Saulcy-sur-Meurthe,46
+1583,2,Charlène Tournier,5 Chemin de la Goulle,88100,Saint-Dié-des-Vosges,12
+1584,2,Danielle Godin,102 Le Trouchy,67130,Fouday,18
+1585,2,Olivia Delannoy,13 Route de la Bure,88100,Saint-Dié-des-Vosges,47
+1586,2,Micheline Jouve,746 Route de Grandrupt,88100,Pair-et-Grandrupt,21
+1587,2,Mathilde de Montclos,16 Rue du Docteur Heid,68140,Munster,41
+1588,2,Jean-Paul Carriere,8 Avenue du 8 Mai,54540,Badonviller,59
+1589,2,Catherine Segard,5 Rue Edmond Haouy,88100,Saint-Dié-des-Vosges,34
+1590,2,Théophile André,2 Rue Du General Leclerc,88420,Moyenmoutier,14
+1591,2,Matéo Monteil,113 Route du Béaba,88400,Xonrupt-Longemer,42
+1592,2,Harry Motte,32 Rue Maurice Barrès,88130,Charmes,56
+1593,2,Bernard Mahe,2 Rue des Myosotis,88100,Saint-Dié-des-Vosges,34
+1594,2,Jean-Marie Naudin,170 Rue Pierre Nicole,88430,Corcieux,25
+1595,2,Jacqueline Payen,804 Rue Jacquard,88290,Saulxures-sur-Moselotte,50
+1596,2,Céleste Laine,7 Route du Brabant,88250,La Bresse,49
+1597,2,Ange Beaulieu,66 la Rancenure,68370,Orbey,40
+1598,2,Nathan Brisset,2 Rue de la Gaiete,54540,Badonviller,59
+1599,2,Yvette Goupil,4bis Les Baumes,88640,Granges-Aumontzey,51
+1600,2,Milo Varlet,6 Rue de la Chaumelle,88490,Le Beulay,20
+1601,2,Claire Bellot,2 Rue du Docteur Schweitzer,88110,Raon-l'Étape,4
+1602,2,Victoria Raoul,531 Rue de l'Eglise,88650,Saint-Léonard,45
+1603,2,Fernande Lechat,4 La Moline,88430,Gerbépal,48
+1604,2,Julien Babin,17 Rue du Mal de Lattre de Tassigny,88580,Saulcy-sur-Meurthe,46
+1605,2,Jean-Philippe Racine,1 Route du Chenel,88430,Corcieux,25
+1606,2,Clément Dubuc,4bis Chemin du Baa,68650,Lapoutroie,38
+1607,2,Liam Ferrari,20 Chemin de Ribeaupierre,88230,Fraize,37
+1608,2,Germaine Vautrin,271 Ribeaugoutte,68650,Lapoutroie,38
+1609,2,Dorian Riviere,4 Rue le Tremolot,88210,Belval,16
+1610,2,Clara Roux,7 Rue Nicolas Guye,88100,Saint-Dié-des-Vosges,22
+1611,2,Téo Boutin,74 Voie du Bas du Village,88230,Ban-sur-Meurthe-Clefcy,44
+1612,2,Josette Gosselin,870 Route de Grandrupt,88100,Pair-et-Grandrupt,21
+1613,2,Gilbert Tison,2 Chemin Hingray,88000,Épinal,53
+1614,2,Nicole Puech,13 Rue du Cheny,88400,Gérardmer,26
+1615,2,Felix Huchet,20 Chemin des Charmilles,88100,Saint-Dié-des-Vosges,23
+1616,2,Tabitha Mazet,104 Rue de la Bolle,88100,Saint-Dié-des-Vosges,23
+1617,2,Ginette Lang,18 Place de l'Eglise,88600,Champ-le-Duc,32
+1618,2,Nadege Ouvrard,314a Le Pont de Pierre,88230,Ban-sur-Meurthe-Clefcy,37
+1619,2,Cloé Tardieu,29 Chemin d’Accras,54290,Bayon,57
+1620,2,Bénédicte Grimaud,159 Le Moulin,88420,Moyenmoutier,14
+1621,2,Elie Raimbault,27 Route de Robache,88100,Saint-Dié-des-Vosges,12
+1622,2,Richard Luciani,501 Route de la Froide Fontaine,88470,La Bourgonce,11
+1623,2,Jules Huguet,232 Rue des 3 Maisons,88400,Xonrupt-Longemer,42
+1624,2,Urbain Rillart de Verneuil,35a Rue Jean Aurange,88210,Senones,15
+1625,2,Milan Gosset,1 Place de la Tuilerie,68140,Munster,41
+1626,2,Edouard Tran,1 Rue 75 79e Divisions Americaines,88130,Charmes,56
+1627,2,Marius Lesueur,3 Rue du Maréchal Foch,88130,Charmes,56
+1628,2,Basile Hoffmann,13 Chemin des Capucins,88200,Remiremont,29
+1629,2,Johanna Menard,3 Ruelle Des Fees,88420,Moyenmoutier,14
+1630,2,Hector Terrien,151 Route de Sarupt,88650,Saint-Léonard,45
+1631,2,Luc Grange,144 Route du Relais,88400,Xonrupt-Longemer,42
+1632,2,Farah Carpentier,498 Rue de Ribeaupierre,88650,Saint-Léonard,45
+1633,2,Léa Louis,Le Harcholet,88210,Le Saulcy,16
+1634,2,Robert Blandin,1 Chemin de la Charbonnière,88210,Moussey,16
+1635,2,Ursula Piot,85 Rue de la Gaisse,88100,Neuvillers-sur-Fave,35
+1636,2,Corinne Rigaud,456 le Faugrede,68910,Labaroche,40
+1637,2,Albin Vigneron,7 Rue du Chant de la Terre,88000,Chantraine,53
+1638,2,Ryan Le roux,1 Chemin de la Moncelle,54120,Deneuvre,5
+1639,2,Sandrine Caillaud,74 Montée du Pré des Clefs,88400,Gérardmer,26
+1640,2,Logan Loyer,24 Chemin de la Belle Campagne,88100,Nayemont-les-Fosses,21
+1641,2,Cerise Michel,6a Chemin des Epinettes,88400,Gérardmer,26
+1642,2,David Mora,16 Rue du Bousson,88470,Saint-Michel-sur-Meurthe,2
+1643,2,Hubert Jan,2 Rue de l'Europe,68650,Lapoutroie,38
+1644,2,Maud Garrigues,7bis Chemin du Froid,88200,Saint-Nabord,30
+1645,2,Bernadette Chaix,20 Rue du Rond Bois,88390,Uxegney,53
+1646,2,Abigaëlle Le Coz,60 La Petite Fin,54830,Haudonville,58
+1647,2,Angèle Portal,41 Quai du Stade,88100,Saint-Dié-des-Vosges,34
+1648,2,Huguette Miquel,74 Rue de la Croix Bertrand,88700,Rambervillers,8
+1649,2,Noa Hoareau,5 Rue du Feigneux,88600,Brouvelieures,33
+1650,2,Fabien Fontaine,1 la Graine,88230,Ban-sur-Meurthe-Clefcy,44
+1651,2,Alicia Pham,19 Route de Bruyeres (Granges-sur-Vologne),88640,Granges-Aumontzey,51
+1652,2,Peggy d'Harcourt,8 Avenue Ma.l de Lattre,88400,Gérardmer,26
+1653,2,Paolo Cros,1 Allée des Aulnes,88000,Épinal,52
+1654,2,Gisèle Chollet,18 Chemin de Padaine,88700,Rambervillers,8
+1655,2,Fanny Auger,7 Route de la Courbe,88250,La Bresse,49
+1656,2,Alix Caillet,1315 Route de Coinches,88520,Raves,35
+1657,2,Emeline Perrault,14 Rue du 31ème Bataillon de Chasseurs à Pied,88100,Saint-Dié-des-Vosges,34
+1658,2,Inès Blaise,62 Bois le Sire,68370,Orbey,40
+1659,2,Thibaud Pouliquen,87 Rue des Jardins,88130,Charmes,56
+1660,2,Louise Roca,21 Rue Louis Marin,88600,Bruyères,32
+1661,2,Adeline Allemand,3 Chemin du Brûlé,88100,Saint-Dié-des-Vosges,34
+1662,2,Urielle Barbier,1 Rue de la Croix,67420,Saales,19
+1663,2,Emilie Sorin,11 Route de la Hollande,88210,Hurbache,64
+1664,2,Loan Roger,229 Rue De La Gasse,88470,La Voivre,13
+1665,2,Julian Bailleul,27 Rue du 8 Mai,88520,Ban-de-Laveline,36
+1666,2,Thibault Guillemin,10 Rue de l'Eglise,88650,Saint-Léonard,45
+1667,2,Eloan Guery,88 Kermodé,68650,Lapoutroie,38
+1668,2,Eugene Laffont,30 Rue de Métendal,88700,Rambervillers,8
+1669,2,Zoé Mercier,24 Route du Donon,67130,La Broque,62
+1670,2,Bruno Franco,12 Impasse du Jardin des Arbres,88120,Vagney,28
+1671,2,Antonin Daval,3 Impasse des Cristalleries,88700,Rambervillers,8
+1672,2,Angélique Jullien,533 Chemin de la Croix Saint-georges,88100,Taintrux,24
+1673,2,Anatole Caro,213 Rue Joseph Thiéry,88230,Ban-sur-Meurthe-Clefcy,44
+1674,2,Valentine Bonnel,326 Chemin du Haut de la Côte,88230,Ban-sur-Meurthe-Clefcy,44
+1675,2,Charlie Bataille,2bis Rue de l'Oiseau Bleu,88000,Épinal,52
+1676,2,Romane Samson,14 Route de Vervezelle,88600,Brouvelieures,32
+1677,2,Louison Brunel,1 Ruelle du Jard,54830,Gerbéviller,58
+1678,2,Isabelle Douay,413 Chemin de la Haute Fossé,88100,Taintrux,24
+1679,2,Anne-Laure Vannier,1bis Rue des Dahlias,88100,Saint-Dié-des-Vosges,34
+1680,2,Joris Leveque,8 Les Gouttelles,88640,Granges-Aumontzey,51
+1681,2,Solene Bayle,24 Rue du Moulin,88130,Charmes,56
+1682,2,Enola Combe,38 Chemin des Chenes,88100,Saint-Dié-des-Vosges,1
+1683,2,Anissa Monnier,6bis Avenue 36e Division Us,88600,Bruyères,32
+1684,2,Stanislas Gaudemaris,Route Rd 42 la Suche,88200,Saint-Étienne-lès-Remiremont,30
+1685,2,Odette Rambaud,5 Chemin de Blanchifontaine,88700,Rambervillers,8
+1686,2,Jacky Lemoine,Allee 5,88150,Thaon-les-Vosges,54
+1687,2,Melanie Loisel,986 Rue des Mitreuches,88200,Dommartin-lès-Remiremont,29
+1688,2,Arnaud Moreira,87 Kermodé,68650,Lapoutroie,38
+1689,2,Noelle Lafitte,695 Chemin de l'Epine,88100,Taintrux,24
+1690,2,Aubin Masson,718 Route des Relles Gouttes,88400,Xonrupt-Longemer,42
+1691,2,Ludwig Oudin,397 Rue 31e Btn de Chasseurs a Pied,88430,Corcieux,25
+1692,2,Natacha Guyot,407bis Route des Longenes,88290,Saulxures-sur-Moselotte,50
+1693,2,Mickey Blanchard,1 Route de Remenoville,54830,Gerbéviller,58
+1694,2,Yvaine de Fontanges,7 Route de Chatas,88210,Ban-de-Sapt,63
+1695,2,Tatiana Seguin,21 Chemin des Roches Chevaliers,88530,La Forge,27
+1696,2,Emine Barreau,2 Rue de Nauraumont,88150,Thaon-les-Vosges,54
+1697,2,Matteo Pinto,399 Rue du Closé,88470,Saint-Michel-sur-Meurthe,2
+1698,2,Matthieu Aubry,1 Ferme Noël,88210,Saint-Stail,19
+1699,2,Mathieu Delage,226 Sentier des Feignes,88470,Nompatelize,11
+1700,2,Guillaume Rougier,3 Voitimont,88460,Docelles,31
+1701,2,Anne Favier,353 Rue de l'Ormeau,88430,Corcieux,25
+1702,2,Noan Lemonnier,17 Rue de la Prairie,88100,Saint-Dié-des-Vosges,47
+1703,2,Norbert Michon,12 Rue de la Croix Egline,88430,Corcieux,25
+1704,2,Marie Guilloux,6 Rue du Pont de Saint-Jean,88210,Le Saulcy,16
+1705,2,Brice Drouet,346 Niargoutte,67420,Plaine,17
+1706,2,Viviane Gaillard,253 Rue de la Gare,88100,Sainte-Marguerite,22
+1707,2,Cassandra Jarry,83 Chemin du Trouchy,67130,Fouday,17
+1708,2,Perrine Berton,Hambostures,68650,Lapoutroie,38
+1709,2,Orane Paris,226 Route de Biarville,88470,Nompatelize,11
+1710,2,Ronan Kremer,3 Rue de la Fontaine Salovin,54122,Fontenoy-la-Joûte,6
+1711,2,Benjamin Favre,194 Allée des Corvees,88430,Corcieux,25
+1712,2,Cyprien Pinet,15 Velupaire,88520,Ban-de-Laveline,36
+1713,2,Lydie Lemarchand,5 Ruelle des Sables,88100,Saint-Dié-des-Vosges,12
+1714,2,Deborah Marty,Route Des Vieux Champs,88470,La Voivre,13
+1715,2,Dimitri Metayer,2 Le Palais,88210,Saint-Stail,19
+1716,2,Bastien Fouquet,37 Chemin des Aulnes,88100,Sainte-Marguerite,22
+1717,2,Aude Fonteneau,243 Banbois,68650,Lapoutroie,38
+1718,2,Sophie Boutet,411 Route du Blanc Ruxel,88400,Xonrupt-Longemer,42
+1719,2,Amandine Bonnin,25 Avenue Léon Blum,88000,Épinal,53
+1720,2,Romain Bouvier,16 le Beheue,88600,Bruyères,32
+1721,2,Adrienne Fillon,28 Rue de la République,68140,Munster,41
+1722,2,Laetitia Billon,629 Route Départementale,88230,Ban-sur-Meurthe-Clefcy,44
+1723,2,Jeanine Prudhomme,1 Rue des Jonquilles,88150,Thaon-les-Vosges,54
+1724,2,Tony Bauduin,398 Chemin de la Chanelle,88100,Nayemont-les-Fosses,22
+1725,2,Alexandre Reynaud,Bois des Cinq Communes,54540,Fenneviller,59
+1726,2,Annie Faivre,565 Grand Rue,88470,La Voivre,13
+1727,2,Alphonse Moreno,2022 Route du Droit du Rupt de Bamont,88290,Saulxures-sur-Moselotte,50
+1728,2,Floriane Jouan,86 Rue des Myrtilles,88430,Corcieux,25
+1729,2,Isaac Prat,3 Chemin des Grandes Fées,88600,Bruyères,32
+1730,2,Nicolas Vivier,23 Bas de Raumont,88520,Ban-de-Laveline,36
+1731,2,Maximilien Guedon,1 Rue Voltaire,88110,Raon-l'Étape,4
+1732,2,Genevieve Borel,37 Rue de la Filature,88460,Cheniménil,31
+1733,2,Zaccharie Guegan,2 Rue du Haut du Chainé,88600,Brouvelieures,33
+1734,2,Nathalie Bellec,332 Rue du Moulin,88650,Saint-Léonard,45
+1735,2,Christine Massot,14bis Rue David,88640,Granges-Aumontzey,51
+1736,2,Francine Garcia,Le Pre Hesse,88530,Le Tholy,27
+1737,2,Carole Vallee,79 Bermont,68650,Lapoutroie,38
+1738,2,Gaël Bloch,37 Velupaire,88520,Ban-de-Laveline,36
+1739,2,Anne-Marie Debray,45 Voie Communale 115 de Bazien,88700,Xaffévillers,7
+1740,2,Marceau Pierron,15 Rue Philippe Seguin,88000,Épinal,52
+1741,2,Fernand Munoz,41 Place de la Mairie,68140,Eschbach-au-Val,41
+1742,2,Jeannine Chapuis,68 Avenue du Huit Mai,88700,Rambervillers,8
+1743,2,Yolande Gregoire,3 Rue de la Gare,88460,Cheniménil,31
+1744,2,Florian Roussel,24d Faubourg d'Alsace,88200,Remiremont,29
+1745,2,Benoit Delpech,10 Route des Fourneaux,88430,Gerbépal,48
+1746,2,Barbara Braud,112y Bousillon,88700,Rambervillers,8
+1747,2,Clementine Wagner,16bis Avenue de Virecourt,54290,Bayon,57
+1748,2,Paulette Fievet,5 Chemin de Raye Terre,54540,Badonviller,59
+1749,2,Rémi Maury,31 Rue du Couchant,88000,Épinal,53
+1750,2,Luis Guilbaud,330a Avenue du Général de Gaulle,88100,Sainte-Marguerite,22
+1751,2,Grégory Besnard,505 Rue Joseph Thiéry,88230,Ban-sur-Meurthe-Clefcy,44
+1752,2,Sarah Cuvelier,2 Rue des Breux,88120,Vagney,28
+1753,2,Christiane Baudouin,32 Avenue de la Division Leclerc,54540,Badonviller,59
+1754,2,Gaëtan Fremont,3 Allee 7,88150,Thaon-les-Vosges,54
+1755,2,Manon Chauveau,702 Chemin du Rain des Bolés,88100,Nayemont-les-Fosses,21
+1756,2,Daniele Maurin,21 Rue de l'Eglise,88200,Saint-Étienne-lès-Remiremont,29
+1757,2,Pablo Ragot,3 Rue P Ancel Seitz,88640,Granges-Aumontzey,51
+1758,2,Léo Pouget,1 Place de la Mairie,88210,Le Saulcy,16
+1759,2,Tom Gérard,243 Bambois,68650,Lapoutroie,38
+1760,2,Rachel Aubertin,22 Rue de la Basse des Loges,88110,Luvigny,61
+1761,2,Sélène Philippon,Chargotelle,68650,Lapoutroie,38
+1762,2,Gabin Papin,10 Impasse de la Madeleine 1,88100,Saint-Dié-des-Vosges,23
+1763,2,Cyril Pillet,27 Rue du Grand Roué,67420,Saulxures,17
+1764,2,Kévin Berard,1 Rue Emile Zola,88190,Golbey,53
+1765,2,Coline Aubin,10bis Rue de la Promenade,88210,La Petite-Raon,15
+1766,2,Valérie Dubourg,157 Allee du 14 Juin,88430,Corcieux,25
+1767,2,Christian Lucas,9bis Chemin du Prêtre,88600,Brouvelieures,33
+1768,2,Théodore Renaud,326 Bâche le Loup,68650,Lapoutroie,38
+1769,2,Léandre Cochet,28 Martimpré,88430,Gerbépal,42
+1770,2,Patrick Sevin,3 Rue Alphonse de Lamartine,88000,Épinal,52
+1771,2,Jonathan Billy,1930 Route de Saint-dié,88100,Nayemont-les-Fosses,21
+1772,2,Brigitte Bouchet,132 Rue de Ribeaupierre,88650,Saint-Léonard,45
+1773,2,Yoann Renou,9 Rue du Général Haxo Prolongée,88000,Épinal,53
+1774,2,Timeo Prunier,3a Route de Saâles,88490,Provenchères-et-Colroy,20
+1775,2,Valère Auffret,98 Rue de la Tournelle,88110,Celles-sur-Plaine,60
+1776,2,Denise Cote,30 Rue du Lavoir,88600,Bruyères,32
+1777,2,Aurore Le bihan,9 Rue de la Combelle,88200,Saint-Nabord,30
+1778,2,Patricia Mousset,18 Rue Alban Fournier,88470,La Salle,11
+1779,2,Laurent Lebreton,26 Rue Du Pair,88420,Moyenmoutier,64
+1780,2,Gaston Bocquet,2 Chemin des Tannes,88250,La Bresse,49
+1781,2,Jade Guiot,11 Rue Louis Marin,88600,Bruyères,32
+1782,2,Aurelia Philibert,2 Chemin des Lièvres,88400,Gérardmer,26
+1783,2,Amélie Meyer,12 Les Chapes,88640,Granges-Aumontzey,51
+1784,2,Marcel Piat,44bis Rue de la Libération,88210,La Petite-Raon,15
+1785,2,Juliette Mauduit,68 Grande Rue,88490,Provenchères-et-Colroy,20
+1786,2,Augustine Le bars,14 Quartier Cuny Molard,54290,Roville-devant-Bayon,57
+1787,2,Antoinette Tisserand,2 Le Pre des Graines,54540,Bionville,61
+1788,2,Maël Lecocq,221 La Chapelle,68910,Labaroche,40
+1789,2,Tania Delhaye,107 Geissbach,68140,Eschbach-au-Val,41
+1790,2,Daniel Ledoux,8 Rue des Pres Pecate,88580,Saulcy-sur-Meurthe,22
+1791,2,Magali Gueguen,121 Chemin de la Chapelle,88230,Ban-sur-Meurthe-Clefcy,44
+1792,2,Guilhem Deschamps,1 Falurgoutte,88640,Granges-Aumontzey,51
+1793,2,Philippe Delattre,23 Chemin du Haut du Moncey,88100,Saint-Dié-des-Vosges,23
+1794,2,Roméo Moulin,9 Ruelle des Hauts Fossés,54290,Bayon,57
+1795,2,Loris Collot,25 Rue du Vélodrome,88200,Saint-Étienne-lès-Remiremont,29
+1796,2,Lorrain Aubert,78 Rue Louis Frommer,88100,Sainte-Marguerite,22
+1797,2,Malone Tournier,2 Impasse Rovel,88100,Saint-Dié-des-Vosges,12
+1798,2,Blanche Godin,Corcieux,88430,Corcieux,25
+1799,2,Kewan Delannoy,3bis Rue du Daval,88250,La Bresse,49
+1800,2,Lucienne Jouve,4 Route de Virecourt,54290,Villacourt,57
+1801,2,Renée de Montclos,175 Chemin de la Clanche,88100,Taintrux,24
+1802,2,Faustine Carriere,1068 Route de Saulcy,88650,Saint-Léonard,46
+1803,2,Pascale Segard,1 Rue de Saint-linguy,88700,Jeanménil,9
+1804,2,Josephine Andrez,2 Rue du Paquis,88490,Provenchères-et-Colroy,20
+1805,2,Maé Monteil,40 les Grands Champs,68910,Labaroche,40
+1806,2,Jeanne Motte,739 Route Departementale 73,88230,Ban-sur-Meurthe-Clefcy,44
+1807,2,Yvan Mahe,161 Le Hagimont,88230,Ban-sur-Meurthe-Clefcy,43
+1808,2,Bertrand Naudin,331 Chemin de la Haute Fossé,88100,Taintrux,24
+1809,2,Côme Payen,4 Place des Vosges,88700,Rambervillers,8
+1810,2,Arthur Laine,505 Chemin De Chenecieux,88470,La Voivre,13
+1811,2,Marthe Beaulieu,374 Rue de l'Etang,88100,Sainte-Marguerite,34
+1812,2,Arlette Brisset,34 Chemin de la Goutte,68650,Lapoutroie,39
+1813,2,Clovis Goupil,13 Impasse Saint Maurice,88000,Épinal,52
+1814,2,Liliane Varlet,1758 Route de Saint Dié,88470,Saint-Michel-sur-Meurthe,13
+1815,2,Annick Bellot,748 Chemin des Goutys,88100,Nayemont-les-Fosses,21
+1816,2,Maude Raoul,13 Rue des 4 Fontaines,88200,Saint-Nabord,30
+1817,2,Eliane Lechat,11 Rue du Docteur Pierre Grosjean,88120,Vagney,28
+1818,2,Yannick Babin,5bis Chemin du Prêtre,88600,Brouvelieures,33
+1819,2,Meline Racine,1 Rue Eugène Gérard,88530,Le Tholy,27
+1820,2,Zora Dubuc,Badonviller,54540,Badonviller,59
+1821,2,Laurence Ferrari,46 Rue des Tanneries,88700,Rambervillers,8
+1822,2,Alfred Vautrin,36 Quai de Dogneville,88000,Épinal,53
+1823,2,Emmanuelle Riviere,5 Rue du Vivier,88480,Étival-Clairefontaine,3
+1824,2,Chloé Roux,745 Route de la Combe,88100,Pair-et-Grandrupt,21
+1825,2,Rudy Boutin,40a Rue du Saut-le-cerf,88000,Jeuxey,52
+1826,2,Thierry Gosselin,89 Allee du Tissage,88430,Corcieux,25
+1827,2,Sylvain Tison,220 Rue de Lorraine (Thaon-les-Vosges),88150,Thaon-les-Vosges,54
+1828,2,Christelle Puech,1 Rue de Turenne,88200,Saint-Nabord,30
+1829,2,Melvin Huchet,1 Rue de Métendal,88700,Rambervillers,8
+1830,2,Sandro Mazet,6 Chemin de la Baraque,88700,Jeanménil,9
+1831,2,Joan Lang,2 11 Chemin de la Creuse,88110,Luvigny,61
+1832,2,Nathéo Ouvrard,11 Route de Moussey,88210,Le Saulcy,16
+1833,2,Yaël Tardieu,2 Chemin de la Basse des Buissons,68650,Lapoutroie,38
+1834,2,Boris Grimaud,36 Rue de l'Ancien Sanatorium,67130,Schirmeck,62
+1835,2,Valèry Raimbault,20 Rue Général de Reffye,88000,Épinal,53
+1836,2,Hervé Luciani,713 Rue Paul Elbel,88420,Moyenmoutier,14
+1837,2,Marguerite Huguet,1663 Route du Valtin,88400,Xonrupt-Longemer,42
+1838,2,Malo Rillart de Verneuil,34 Impasse du Moulin,88430,Corcieux,48
+1839,2,Maxence Gosset,90 Route Principale,88470,La Voivre,13
+1840,2,Lena Tran,3 Route de Doncières,88700,Rambervillers,8
+1841,2,Carlos Lesueur,Rue Eugène Sonrier,88190,Golbey,53
+1842,2,Adrien Hoffmann,26 Lotissement Adrien Mathis,88490,Provenchères-et-Colroy,20
+1843,2,Didier Menard,6 Rue des Myosotis,88100,Saint-Dié-des-Vosges,34
+1844,2,Matt Terrien,11 Rue de l'Etang,88700,Romont,7
+1845,2,Linda Grange,35 Rue des Ecoles,88580,Saulcy-sur-Meurthe,45
+1846,2,Elouan Carpentier,226 Route de la Sappe,88650,Anould,44
+1847,2,Axel Louis,22 Rue du Chevreuil Blanc,88250,La Bresse,49
+1848,2,Estéban Blandin,4 Rue Honoré de Balzac,88000,Épinal,52
+1849,2,Charlotte Piot,3 Le Haut du Roc,88120,Basse-sur-le-Rupt,50
+1850,2,Colette Rigaud,8 Rue de la Cote du Chateau,67130,Barembach,62
+1851,2,Virginie Vigneron,9 Route de la Rochiere,88230,Fraize,37
+1852,2,Pierre Le roux,190 Route des Tixes,88430,Corcieux,25
+1853,2,Lino Caillaud,1 la Frase,88700,Jeanménil,10
+1854,2,Samuel Loyer,5a Rue Paul Claudel,88250,La Bresse,49
+1855,2,Edwige Michel,9999 Rue De La Meurthe,88470,La Voivre,13
+1856,2,Agathe Mora,1 Allee de Saint Louis,88130,Charmes,56
+1857,2,Angeline Jan,155 Chemin De La Roche,88470,La Voivre,13
+1858,2,Elias Garrigues,4 Les Tournures,88430,Gerbépal,48
+1859,2,Frédéric Chaix,1 Vachimont,88210,Vieux-Moulin,15
+1860,2,Emrys Le Coz,16 Lotissement les Prés de l'Anneau,88110,Celles-sur-Plaine,60
+1861,2,Marin Portal,710 Route Des Sagards,88420,Moyenmoutier,14
+1862,2,Caroline Miquel,6 Chemin de la Poterie,88700,Jeanménil,9
+1863,2,Rose-Marie Hoareau,54 Quai Sadi Carnot,88100,Saint-Dié-des-Vosges,47
+1864,2,Noham Fontaine,39 Rue des Ecoles,67130,Schirmeck,62
+1865,2,Josiane Pham,2 Residence Mariabel,88120,Vagney,28
+1866,2,Victorine d'Harcourt,2 Rue des F F I,88130,Charmes,56
+1867,2,Thomas Cros,26 Route de Notre Dame de la Paix,88310,Cornimont,49
+1868,2,Henriette Chollet,10 Route de la Petite Fosse,88490,Provenchères-et-Colroy,20
+1869,2,Laurie Auger,22 Chemin de la Basse des Rupts,88400,Gérardmer,26
+1870,2,Gilles Caillet,5 Rue des Lisieres du Kemberg,88100,Saint-Dié-des-Vosges,47
+1871,2,Tristan Perrault,700 Rue de Lorraine,88150,Igney,55
+1872,2,Achille Blaise,7 Chemin du Tilleul,88210,Ban-de-Sapt,63
+1873,2,Laurine Pouliquen,1 Le Haut Bout,88210,Hurbache,64
+1874,2,Albert Roca,1 Avenue des Terres Saint Jean,88000,Épinal,52
+1875,2,Agnès Allemand,25 Les Ziauprés,88430,Gerbépal,48
+1876,2,Mathis Barbier,1 Rue de la Fontaine Salovin,54122,Fontenoy-la-Joûte,6
+1877,2,Anne-Lise Sorin,91 Impasse du Champ Balland,88430,Corcieux,25
+1878,2,Georgette Roger,2 Avenue Du General De Gaulle,88420,Moyenmoutier,14
+1879,2,Marie-Claude Bailleul,13 Rue Notre-dame,54540,Badonviller,59
+1880,2,Anthony Guillemin,21 Avenue Clémenceau,54540,Badonviller,59
+1881,2,Delphine Guery,716 Rue Saint-Michel,88470,Saint-Michel-sur-Meurthe,2
+1882,2,Thaïs Laffont,720 Chemin de la Cartonnerie,88100,Sainte-Marguerite,22
+1883,2,Ghislaine Mercier,230 A Chaumont,88100,Taintrux,24
+1884,2,Tessa Franco,7g Rue du 2e Tabors Marocains,68650,Lapoutroie,38
+1885,2,Timothée Daval,10bis Rue des Ecoliers,88580,Saulcy-sur-Meurthe,46
+1886,2,Gustave Jullien,87a Kermodé,68650,Lapoutroie,38
+1887,2,Frédérique Caro,2 Rue de la Meulnotte,88460,Cheniménil,31
+1888,2,Arwen Bonnel,1 Rue De L Est,88440,Nomexy,55
+1889,2,Pierrette Bataille,225 Rue de l'Ormeau,88430,Corcieux,25
+1890,2,Malcom Samson,2 Impasse du Clos des Peupliers,88100,Saint-Dié-des-Vosges,47
+1891,2,Nolan Brunel,Le Haut des Côtes,54290,Virecourt,57
+1892,2,Joachim Douay,21 Avenue Eugenie Jules Ferry,88100,Saint-Dié-des-Vosges,47
+1893,2,Olive Vannier,1 Rue des Cerisiers,68650,Lapoutroie,38
+1894,2,Sylvie Leveque,74 Avenue de Verdun,88100,Saint-Dié-des-Vosges,1
+1895,2,Loïs Bayle,Chemin de la Charbonnière,88210,Moussey,16
+1896,2,Jonas Combe,16e Faubourg d'Epinal,88200,Remiremont,29
+1897,2,Alexandra Monnier,422 Le Vic,88230,Ban-sur-Meurthe-Clefcy,43
+1898,2,Martin Gaudemaris,75 Bas Lachamp,67130,Bellefosse,18
+1899,2,Yaëlle Rambaud,1 Impasse des Maisons Neuves,88400,Gérardmer,26
+1900,2,Youna Lemoine,3 Route d'Allarmont,88110,Celles-sur-Plaine,60
+1901,2,Charline Loisel,1 Le Breuil,88640,Champdray,51
+1902,2,Ludivine Moreira,47 Rue Saint-pierre,54830,Gerbéviller,58
+1903,2,Cécile Lafitte,35 Rue Jacques Delille,88100,Saint-Dié-des-Vosges,1
+1904,2,Pimprenelle Masson,64 Boulevard de la Jamagne,88400,Gérardmer,26
+1905,2,Gwendoline Oudin,9 Avenue du Rose Poirier,88000,Épinal,52
+1906,2,Gabriel Guyot,56a Bois le Sire,68370,Orbey,39
+1907,2,Annabelle Blanchard,49 Les Christes,68910,Labaroche,40
+1908,2,Dylan de Fontanges,185 Impasse du Béaba,88400,Xonrupt-Longemer,42
+1909,2,Mylan Seguin,11 Chemin des Gadines,54120,Baccarat,5
+1910,2,Joelle Barreau,11 Rue de la Tournelle,88110,Celles-sur-Plaine,60
+1911,2,Diego Pinto,34 Rue du Faude,68370,Orbey,39
+1912,2,Ruben Aubry,5 Chemin du Champ de la Place,88200,Saint-Étienne-lès-Remiremont,29
+1913,2,Marianne Delage,11 Lotissement les Sausses Vaney,88150,Thaon-les-Vosges,54
+1914,2,Vincent Rougier,11 Rue du Centre,88700,Saint-Gorgon,9
+1915,2,Fabrice Favier,1 Rue des Forges,88600,Brouvelieures,33
+1916,2,Lucas Lemonnier,19 Route d'Autrey,88700,Jeanménil,9
+1917,2,Claude Michon,60 Route de Robache,88100,Saint-Dié-des-Vosges,12
+1918,2,Baptiste Guilloux,25 Rue de la Résistance,88250,La Bresse,49
+1919,2,Joanna Drouet,105 Route des Molieres,88100,Saint-Dié-des-Vosges,34
+1920,2,Augustin Gaillard,48 Avenue de Robache,88100,Saint-Dié-des-Vosges,1
+1921,2,Gaëlle Jarry,3 Rue de l’Ecluse,88190,Golbey,53
+1922,2,Eloi Berton,2 lotissement la Faléière,88470,Saint-Michel-sur-Meurthe,2
+1923,2,Ernest Paris,6 Rue du Château,88700,Romont,7
+1924,2,René Kremer,1 Rue du Moulin,88700,Roville-aux-Chênes,7
+1925,2,Roseline Favre,764 Chemin de l'Epine,88100,Taintrux,24
+1926,2,Ophélie Pinet,2 Chemin de la Fave,88100,Saint-Dié-des-Vosges,47
+1927,2,Roland Lemarchand,27 Avenue de Bellefontaine,88480,Étival-Clairefontaine,3
+1928,2,Dany Marty,3 Nayemont,88210,Ban-de-Sapt,63
+1929,2,Loïc Metayer,8 Rue de l'Avison,88600,Bruyères,32
+1930,2,Yohann Fouquet,11 Route de Bruyeres (Granges-sur-Vologne),88640,Granges-Aumontzey,51
+1931,2,Lola Fonteneau,3 Route de Bouvacote,88530,Le Tholy,27
+1932,2,Charles Boutet,15 Rue Marie Curie,88100,Saint-Dié-des-Vosges,34
+1933,2,Sabrina Bonnin,93 Faubourg de Poissompré,88000,Épinal,52
+1934,2,Olympe Bouvier,1 Rue des 4 Vents,88200,Saint-Nabord,30
+1935,2,Aimé Fillon,12 Impasse le Clos le Prêtre,88190,Golbey,53
+1936,2,Raymond Billon,Route Nationale 57 Metz Besancon,88200,Saint-Étienne-lès-Remiremont,30
+1937,2,Titouan Prudhomme,720 Rue de Bréhimont,88470,Saint-Michel-sur-Meurthe,2
+1938,2,Patrice Bauduin,621 Chemin du Mauvais Champ,88100,Taintrux,45
+1939,2,Béatrice Reynaud,2 Rue de l'Hellichamp,54830,Gerbéviller,58
+1940,2,Pauline Faivre,704 Rue Du Ban De Sapt,88420,Moyenmoutier,64
+1941,2,Zita Moreno,29a Le Village,88210,Hurbache,64
+1942,2,Simone Jouan,17 Rue de Borémont,88600,Champ-le-Duc,32
+1943,2,Christel Prat,3 Au Moulin,67420,Bourg-Bruche,19
+1944,2,Ilian Vivier,5 Rue de sous Froid,88200,Saint-Nabord,30
+1945,2,Lorenzo Guedon,351 Rue du Moitrier,88470,Saint-Michel-sur-Meurthe,2
+1946,2,Anne-Claire Borel,6 La Truche,88520,Ban-de-Laveline,36
+1947,2,Marjorie Guegan,4 Rue de la Petite Papeterie,88480,Étival-Clairefontaine,3
+1948,2,Zéphir Bellec,13 Chemin de la Soye,88110,Celles-sur-Plaine,60
+1949,2,Jérôme Massot,2 chemin de l'écluse numéro 21,88150,Thaon-les-Vosges,54
+1950,2,Carla Garcia,5 Rue Madame Aimee,68140,Munster,41
+1951,2,Alison Vallee,16 Rue De La Prairie,88420,Moyenmoutier,14
+1952,2,April Bloch,751 Chemin du Petit Paris,88100,Taintrux,24
+1953,2,Alain Debray,Chemin des Fetes,88100,Saint-Dié-des-Vosges,2
+1954,2,Andrea Pierron,377 Grenelle,68370,Orbey,39
+1955,2,Lionel Munoz,1 Le Beau,88530,Le Tholy,27
+1956,2,Camille Chapuis,1 Route de Moyenmoutier,88210,Hurbache,64
+1957,2,Lilian Gregoire,646 Rue de Bréhimont,88470,Saint-Michel-sur-Meurthe,2
+1958,2,Alexis Roussel,122 Rue Jean Baptiste Mathieu,88420,Moyenmoutier,14
+1959,2,Simon Delpech,36 Avenue Ernest Colin,88100,Saint-Dié-des-Vosges,34
+1960,2,Ezio Braud,2 Chemin du Robin,88110,Raon-l'Étape,4
+1961,2,Arsène Lemarchand,9999c Rue Marcel Boussac,88440,Nomexy,55
+1962,2,Edmond Marty,28 Route de Bussang,88200,Remiremont,29
+1963,2,Françoise Metayer,217 Rue de la Gare,88470,Saint-Michel-sur-Meurthe,2
+1964,2,Hugo Fouquet,280b le Fossé,68650,Lapoutroie,38
+1965,2,Léon Fonteneau,4 Rue de Belle Vue,88110,Raon-l'Étape,4
+1966,2,Valérian Boutet,14 Rue des Evelottes,54290,Bayon,57
+1967,2,Harold Bonnin,2 Route de la Gare,88600,Domfaing,33
+1968,2,Roger Bouvier,75 Rue de la Bolle,88100,Saint-Dié-des-Vosges,47
+1969,2,Martine Fillon,3 Chemin de la Rochelure,88210,Senones,15
+1970,2,Emile Billon,1 Rue des 4 Fontaines,88200,Saint-Nabord,30
+1971,2,Karen Prud'homme,48 Rue des Forges,88600,Brouvelieures,33
+1972,2,Serge Bauduin,2 Rue des Merisiers,67130,La Broque,62
+1973,2,Justin Reynaud,4 Rue de la Moselle,54290,Bayon,57
+1974,2,Albane Faivre,12bis Rue de la Mairie,88600,Vervezelle,33
+1975,2,Nadia Moreno,770 Route de Ginfosse,88520,Raves,36
+1976,2,William Jouan,450 Rue du Haut Meix,88100,Neuvillers-sur-Fave,35
+1977,2,Jean-Louis Prat,2 Route de la Blanche Pierre,88120,Vagney,28
+1978,2,Marie Vivier,3 Rue du Guidon,88700,Jeanménil,9
+1979,2,Ylan Guedon,1 A la Brayatte,88120,Rochesson,49
+1980,2,Gilberte Borel,319 Route de la Broche du Pont,88400,Xonrupt-Longemer,42
+1981,2,Estelle Guegan,238 Route de l'Ormont,88100,Nayemont-les-Fosses,22
+1982,2,Jean-Christophe Bellec,218 le Noirmont,68370,Orbey,39
+1983,2,Kimi Massot,24 Rue du Chêne l'Epine,88480,Étival-Clairefontaine,3
+1984,2,Marc Garcia,325 Route D Hurbache,88470,La Voivre,13
+1985,2,Lenny Vallee,16a Rue du Repos,67130,La Broque,62
+1986,2,Nadine Bloch,12 Rue du Pont de Saint-Jean,88210,Le Saulcy,16
+1987,2,Alice Debray,39 Avenue de Lachapelle,54120,Baccarat,5
+1988,2,Marine Pierron,24c Rue de la Bazaine,88000,Épinal,52
+1989,2,Evan Munoz,2 Rue de Lorraine,88700,Roville-aux-Chênes,7
+1990,2,Henri Chapuis,3 La Crosse,88430,Gerbépal,48
+1991,2,Alban Gregoire,222 Chemin des Goutys,88100,Pair-et-Grandrupt,21
+1992,2,Alexine Roussel,29 Rue du Chene,88700,Roville-aux-Chênes,8
+1993,2,Christophe Delpech,349 Rue Paul Verlaine,88650,Anould,44
+1994,2,Rayan Braud,18 Avenue de Robache,88100,Saint-Dié-des-Vosges,12
+1995,2,Victor Wagner,6 Rue de la Behouille,88100,Saint-Dié-des-Vosges,47
+1996,2,Laure Fievet,11 Rue du Chaudfour,54120,Baccarat,5
+1997,2,Eric Maury,26 Rue Thiers,88100,Saint-Dié-des-Vosges,23
+1998,2,Robin Guilbaud,Bourse Noire,68240,Fréland,38
+1999,2,Maeva Besnard,18 Le Greniot,88430,Gerbépal,48
+2000,2,Irene Cuvelier,79 Le Pre Saint Georges,88100,Taintrux,24
+2001,2,Janine Baudouin,2 Rue Saint-Léger,68140,Munster,41
+2002,2,Lubin Fremont,24 Rue de la Barriere,54120,Baccarat,5
+2003,2,Lisa Chauveau,36 Chemin de Dubach,68140,Munster,41
+2004,2,Ethan Maurin,35 Rue du Haut Buisson,54120,Baccarat,5
+2005,2,Gérald Ragot,25 Route de Bruyeres (Granges-sur-Vologne),88640,Granges-Aumontzey,51
+2006,2,Soan Pouget,96 Grand'Rue,67130,Schirmeck,62
+2007,2,Lorraine Gérard,15 Rue du Duc Ferry Trois,88110,Raon-l'Étape,4
+2008,2,Jean-Michel Aubertin,22 Rue Principale,88210,Le Saulcy,16
+2009,2,Abel Philippon,1 Rue du Petit Foucharupt,88100,Saint-Dié-des-Vosges,47
+2010,2,Maryse Papin,1 Route de Séranville,54830,Gerbéviller,58
+2011,2,Alexia Pillet,75 Rue Jean Jaurés,88000,Épinal,53
+2012,2,Valériane Berard,3 Route de Berlingoutte,88530,Le Tholy,27
+2013,2,Nino Aubin,11 Rue de l'Universite,88100,Saint-Dié-des-Vosges,47
+2014,2,Gauthier Dubourg,4 Le Pre Magrot,88200,Saint-Nabord,30
+2015,2,Véronique Lucas,2277 Route des Collieures,88430,Corcieux,48
+2016,2,Florent Renaud,29 Rue de Luttenbach,68140,Munster,41
+2017,2,Soren Cochet,17bis Cite Fontenay,88150,Igney,54
+2018,2,Adam Sevin,2 Grande Rue,88490,Provenchères-et-Colroy,20
+2019,2,Jolan Billy,21 Rue du Maréchal Foch,88100,Saint-Dié-des-Vosges,12
+2020,2,Thiméo Bouchet,2 La Briboudiere,88490,Provenchères-et-Colroy,20
+2021,2,Virgile Renou,49 Rue des 5e et 15e Bcp,88200,Saint-Étienne-lès-Remiremont,29
+2022,2,Vanessa Prunier,10 Hlm de la Gare,88460,Docelles,31
+2023,2,Orianne Auffret,27 Rue Du Tambour,88420,Moyenmoutier,14
+2024,2,Sylviane Cote,509 Chemin des Vieilles Fouies,88400,Xonrupt-Longemer,42
+2025,2,Noël Le Bihan,26bis Rue du Moulin,88120,Vagney,28
+2026,2,Damien Mousset,3 Le Nouveau Saales,88490,Provenchères-et-Colroy,19
+2027,2,Géraldine Lebreton,1 La Naurcha,88210,Le Puid,16
+2028,2,Sandra Bocquet,275 Chemin des Grandes Hyères,88100,Sainte-Marguerite,22
+2029,2,Nina Guiot,8 Route de Senones,88210,Ban-de-Sapt,63
+2030,2,Cédric Philibert,85 Chemin de la Tramoulée,88470,Saint-Michel-sur-Meurthe,2
+2031,2,Maxime Rousselle,2 Chemin de la Retelere,88250,La Bresse,49
+2032,2,Raphaël Huart,6 Chemin du Saucy,88100,Saint-Dié-des-Vosges,1
+2033,2,Chantal Remy,3 Rue Pierre Bérégovoy,88100,Saint-Dié-des-Vosges,47
+2034,2,Emilienne Verrier,2 Chemin des Privileges,88400,Gérardmer,26
+2035,2,Max Benoist,70 Chemin de la Belle Campagne,88100,Nayemont-les-Fosses,21
+2036,2,Vianney Rossi,12 Lot Du Champ De La Bateuze,88420,Moyenmoutier,3
+2037,2,Tim Bastien,10 Allee des Jonquilles,88430,Corcieux,25
+2038,2,Manuel Robinet,446 Rue James Wiese,88430,Corcieux,25
+2039,2,Gérard Angot,6 Rue des Thieuls,88210,Senones,15
+2040,2,Salomé Andrieu,80 Le Coty,88230,Ban-sur-Meurthe-Clefcy,43
+2041,2,Karine Chatelain,2 Chemin des Bolottes,88600,Champ-le-Duc,32
+2042,2,Kenzo Le Gal,9 Rue Yvan Sibille,88000,Épinal,52
+2043,2,Laurence Bossard,30 Route de Grandvillers,88600,Bruyères,33
+2044,2,Jean-Baptiste Leduc,3 Route de Blongoutte,88530,La Forge,27
+2045,2,Sonia Teissier,14 Rue du Général Leclerc,88190,Golbey,53
+2046,2,Jordan Foucault,15 Rue 31e Btn de Chasseurs a Pieds,88100,Saint-Dié-des-Vosges,47
+2047,2,Mylène Gerardin,652 Rue d'Alsace,88100,Sainte-Marguerite,22
+2048,2,François Rochette,1 Rue Devant les Evaux,88100,Neuvillers-sur-Fave,35
+2049,2,Thibaut Romero,Les Prés de Lorey,54290,Neuviller-sur-Moselle,57
+2050,2,Madeleine Imbert,47 Montée du Pré des Clefs,88400,Gérardmer,26
+2051,2,Samantha Verger,33bis Rue de la Colline des Eaux,88700,Jeanménil,10
+2052,2,Théo Lavaud,Le Roulier,88460,Le Roulier,31
+2053,2,Naël Legros,5 Chemin Hingray,88000,Épinal,53
+2054,2,Lou Teyssier,403 Route des Jumeaux,88470,La Bourgonce,11
+2055,2,Kelly Bodin,33 Route de Jeuxey,88000,Épinal,52
+2056,2,Margot Rey,14 Rue de la Corvée,88490,Provenchères-et-Colroy,20
+2057,2,Yann Michaud,52 Layegoutte,88520,Bertrimoutier,36
+2058,2,Marie-Louise Etienne,545 Chemin du Moulin,88100,Taintrux,24
+2059,2,Marie-Noëlle Cotte,1 Rue de la Clairie,67420,Saales,19
+2060,2,Marie-Pierre Serra,1165a Route des Relles Gouttes,88400,Xonrupt-Longemer,42
+2061,2,Célestin Herve,2 Allee 4,88150,Thaon-les-Vosges,54
+2062,2,Leonie Beal,320 Rue du Pré Chapy,88650,Saint-Léonard,45
+2063,2,Maria Bigot,500 Chemin des Cultures,88650,Anould,44
+2064,2,Edith Hennequin,2 Rue de l'Église,88210,Le Saulcy,16
+2065,2,Cindy Dorion,3 Chemin du Pre des Gouttes,88200,Saint-Nabord,30
+2066,2,Gaspard Marechal,32 Layegoutte,88520,Bertrimoutier,36
+2067,2,Roman Philippot,280 Chemin du Xainfaing,88100,Taintrux,24
+2068,2,Jacques Zimmermann,9 Rue de l’Ecluse,88130,Charmes,56
+2069,2,Florence Riou,2 Rue des Ffi,88130,Charmes,56
+2070,2,Charlène Vidal,Noir Mont,88530,Le Tholy,27
+2071,2,Danielle Coste,48b Rue Leo Valentin,88000,Épinal,52
+2072,2,Olivia Luce,Chemin du Bras Conseil,88230,Ban-sur-Meurthe-Clefcy,43
+2073,2,Micheline Lahaye,473 Rue de l'Eglise,88470,Saint-Michel-sur-Meurthe,2
+2074,2,Mathilde Verdier,427 Route de Diespach,67420,Plaine,17
+2075,2,Jean-Paul Lacoste,2e Rue de Glonville,54120,Baccarat,5
+2076,2,Catherine Barrau,6 Rue des Champs,67130,Fouday,18
+2077,2,Théophile Le bras,77 Rue du Général Dufieux,68650,Lapoutroie,38
+2078,2,Matéo Ben,1 La Tampointe,88210,Hurbache,64
+2079,2,Harry Keller,78 Le Gazon,68910,Labaroche,40
+2080,2,Bernard Munier,13 Avenue de la Gare,88120,Vagney,28
+2081,2,Jean-Marie Clavier,92 Chemin du Trouchy,67130,Fouday,18
+2082,2,Jacqueline Lacroix,8bis Rue Yvan Sibille,88000,Épinal,52
+2083,2,Céleste Louvet,565 Route de la Beugrée,88100,Pair-et-Grandrupt,35
+2084,2,Ange Chaput,95a Hambosture,68650,Lapoutroie,38
+2085,2,Nathan Mounier,2 Rue de la Pouxe,88490,Provenchères-et-Colroy,20
+2086,2,Yvette Peyre,1253 Rue de la Côte Saint Martin,88100,Saint-Dié-des-Vosges,23
+2087,2,Milo Le borgne,Chat Noir,68370,Orbey,38
+2088,2,Claire Bonneau,537 Route de la Medelle,88290,Saulxures-sur-Moselotte,50
+2089,2,Victoria Cuny,62 Chemin du Giron,88100,Nayemont-les-Fosses,21
+2090,2,Fernande Marc,10 Chemin du Ridot,88120,Vagney,28
+2091,2,Julien Leprince,6 Grande Rue,88460,Cheniménil,31
+2092,2,Jean-Philippe Rio,444e Derriere le Hagis,68910,Labaroche,40
+2093,2,Clément Dion,2 Impasse de l'Etang Piller,88100,Saint-Dié-des-Vosges,1
+2094,2,Liam Frey,35 Rue d’Armont,88200,Saint-Nabord,30
+2095,2,Germaine James,15 Allées du Plateau Saint-maurice,88210,Senones,15
+2096,2,Dorian Lassalle,42 Grande Rue,54290,Bayon,57
+2097,2,Clara Grandjean,52b Rue Roger Salengro,88640,Granges-Aumontzey,51
+2098,2,Téo Jaouen,1 Chaugoutte,88460,Cheniménil,31
+2099,2,Josette Fevre,2 Rue du Leymel,68140,Munster,41
+2100,2,Gilbert Dutertre,Targoutte,68650,Lapoutroie,38
+2101,2,Nicole Chene,2 Rue de la Meurthe,54120,Deneuvre,5
+2102,2,Felix Briere,2 Allée Numero 2,88150,Thaon-les-Vosges,54
+2103,2,Tabitha de Chansiergues,48 Rue Raymond Panin,88580,Saulcy-sur-Meurthe,46
+2104,2,Ginette Pigeon,540 Chemin du Grand Pre,88290,Saulxures-sur-Moselotte,50
+2105,2,Nadege Tissier,9 Rue du Haut de la Ville,88600,Bruyères,32
+2106,2,Cloé Le gall,4 Impasse de Révillon,88200,Saint-Étienne-lès-Remiremont,29
+2107,2,Bénédicte Coulon,123 Chemin de la Traverse,67420,Plaine,18
+2108,2,Elie Landry,36 Avenue des Terres Saint Jean,88000,Épinal,52
+2109,2,Richard Cornet,258 Rue des Peupliers,88100,Sainte-Marguerite,22
+2110,2,Jules Dubus,1 Chemin des Tilleuls,88120,Vagney,28
+2111,2,Urbain Pinot,6bis Rue de Gérardmer,88600,Bruyères,32
+2112,2,Milan Boyer,935 Rue des Chênes,88470,Saint-Michel-sur-Meurthe,13
+2113,2,Edouard Arnoux,46 Rue de la Vologne,88400,Gérardmer,26
+2114,2,Marius Diaz,2 Ruelle du Haut Jardinet,54540,Badonviller,59
+2115,2,Basile Becker,1 Rue Jules Ferry,88200,Remiremont,29
+2116,2,Johanna Mayer,1 Rue de Herbaud,88580,Saulcy-sur-Meurthe,46
+2117,2,Hector Wolff,15 Ruelle Des Jardinets,88420,Moyenmoutier,14
+2118,2,Luc Gautier,4 Haut de Raumont,88520,Ban-de-Laveline,36
+2119,2,Farah Bourgoin,5 Rue du 31ème Bataillon de Chasseurs à Pied,88100,Saint-Dié-des-Vosges,47
+2120,2,Léa Dupond,3 Rue Charles Renel,88000,Épinal,53
+2121,2,Robert Dussart,7 Chemin du Coucheux,88100,Saint-Dié-des-Vosges,34
+2122,2,Ursula Bazin,32 le Busset,68370,Orbey,39
+2123,2,Corinne Merle,7 Route de la Croix aux Mines,88230,Fraize,37
+2124,2,Albin Lerond,16 Route de Regimont,88580,Saulcy-sur-Meurthe,46
+2125,2,Ryan Beck,4 Chemin des Carrieres,88120,Basse-sur-le-Rupt,28
+2126,2,Sandrine Godard,2 Gerbainchamps,88110,Luvigny,61
+2127,2,Logan Payet,39 Rue de Lorraine,88150,Igney,54
+2128,2,Cerise Bel,14 Route de Gérardmer,88230,Ban-sur-Meurthe-Clefcy,44
+2129,2,David Guyard,108 Rue du Closé,88470,Saint-Michel-sur-Meurthe,2
+2130,2,Hubert Poncet,9 Rue des Evelottes,54290,Bayon,57
+2131,2,Maud Chretien,10 À la Croix de Mission,54540,Badonviller,59
+2132,2,Bernadette Neveu,249 le Fossé,68650,Lapoutroie,38
+2133,2,Abigaëlle Schneider,7 Rue des Avoinies,88120,Vagney,28
+2134,2,Angèle Doucet,25 Rue du Chenat,88520,Ban-de-Laveline,36
+2135,2,Huguette Ricci,3 Quai du Canal,88120,Vagney,28
+2136,2,Noa Charlot,1 Rue des Castors,88100,Saint-Dié-des-Vosges,34
+2137,2,Fabien Pons,9 Rue de la Chaumelle,88490,Le Beulay,35
+2138,2,Alicia Gallo,295 Lotissement les Tessins,88000,Dogneville,53
+2139,2,Peggy Lebas,67 Grand Rue,67420,Saales,19
+2140,2,Paolo Lavergne,6 Rue Saint-Michel,88470,Saint-Michel-sur-Meurthe,2
+2141,2,Gisèle Duprat,12 Rue Erckmann Chatrian,88100,Saint-Dié-des-Vosges,1
+2142,2,Fanny Hue,8 Quebrux,88520,Ban-de-Laveline,36
+2143,2,Alix Ollier,4187 Route Departementale 42,88200,Saint-Étienne-lès-Remiremont,30
+2144,2,Cyril Langlet,15 Chemin de Dubach,68140,Munster,41
+2145,2,Kévin Amiot,32 Traverse du Daval,88250,La Bresse,49
+2146,2,Coline Stephan,69 Route de Baccarat,88700,Rambervillers,8
+2147,2,Valérie Castel,140 Rue De La Halle,88470,La Voivre,2
+2148,2,Christian Lesage,37 Chemin du Château,88460,Cheniménil,31
+2149,2,Théodore Murat,2 Allee du Petit Bois,88130,Charmes,56
+2150,2,Léandre Leon,5 Rue André Jacquemin,88000,Épinal,53
+2151,2,Patrick Simonnet,19 Rue Maurice Lemaire,88100,Saint-Dié-des-Vosges,1
+2152,2,Jonathan Chateau,24 Rue de la Rochotte,88400,Gérardmer,26
+2153,2,Brigitte Duquesne,26 Route de Vomécourt,88700,Rambervillers,8
+2154,2,Yoann Mallet,2 Rue Pierre de Blarru,88100,Saint-Dié-des-Vosges,12
+2155,2,Timeo Dupouy,1 Chemin du Coucheux,88100,Saint-Dié-des-Vosges,34
+2156,2,Valère Le moal,20 Rue du Docteur Durand,88230,Fraize,37
+2157,2,Denise Molinier,82 Rue d'Alsace,88100,Saint-Dié-des-Vosges,47
+2158,2,Aurore Cordonnier,4bis Route du Paire,88580,Saulcy-sur-Meurthe,22
+2159,2,Patricia Thiriet,3 Che de la Côte Saint-martin,88100,Saint-Dié-des-Vosges,23
+2160,2,Laurent Paquet,22 Rue de la Meurthe,88580,Saulcy-sur-Meurthe,46
+2161,2,Gaston Berthelot,545 Route de Saint-Dié,88230,Plainfaing,37
+2162,2,Jade Jourdain,29 Route du Droit,88250,La Bresse,49
+2163,2,Aurelia Fraisse,4 Rue Sebastien Lehr,88100,Saint-Dié-des-Vosges,23
+2164,2,Amélie Bonnot,31bis Rue Pasteur,88130,Charmes,56
+2165,2,Marcel Dupuy,50 Rue Georges Bizet,88650,Anould,45
+2166,2,Juliette Servant,3 Les Brules,88490,La Petite-Fosse,20
+2167,2,Augustine Brochet,240 Rue Saint-antoine,88650,Anould,45
+2168,2,Antoinette Vallet,681 Le Vic,88230,Ban-sur-Meurthe-Clefcy,43
+2169,2,Maël Prost,12 Chemin de la Roche,88230,Fraize,37
+2170,2,Tania Navarro,4 Chemin des 4 Baraques,88490,Provenchères-et-Colroy,20
+2171,2,Daniel Chevrier,3 Impasse les Champs Rebeaux,88490,Provenchères-et-Colroy,20
+2172,2,Magali Marion,1 Lotissement les Bouleaux Sondreville,88230,Ban-sur-Meurthe-Clefcy,44
+2173,2,Guilhem Gutierrez,4 Rue du Vallon,88190,Golbey,53
+2174,2,Philippe Gallais,19 Rue du Petit Saint-dié,88100,Saint-Dié-des-Vosges,23
+2175,2,Roméo Joyeux,52 Rue de l'Ecole,67130,Fouday,18
+2176,2,Loris Remond,12a Chemin du Steinkreuz,68140,Munster,41
+2177,2,Lorrain Nedelec,1 Les Grandes Carrieres,88700,Rambervillers,7
+2178,2,Malone Even,3 Rue des Tilleuls,88210,Le Saulcy,16
+2179,2,Blanche Delalande,11 Rue du Breuil,88210,Senones,15
+2180,2,Kewan Caron,9 Rue Saint-eloi,88100,Saint-Dié-des-Vosges,1
+2181,2,Lucienne Favreau,48a Rue Leo Valentin,88000,Épinal,52
+2182,2,Renée Carre,5 Rue Mozart,88100,Saint-Dié-des-Vosges,47
+2183,2,Faustine Blondel,3bis Route de Chatas,88210,Ban-de-Sapt,63
+2184,2,Pascale Lebel,6 Rue de Stalingrad,88110,Raon-l'Étape,4
+2185,2,Josephine Corre,41 Champs Simon,68370,Orbey,40
+2186,2,Maé Simonet,141 la Grande Vallée,68370,Orbey,39
+2187,2,Jeanne Chabot,3 Chemin des Beaux Faites,88100,Saint-Dié-des-Vosges,34
+2188,2,Yvan Parisot,805 Chemin de la Ville du Pré,88100,Taintrux,24
+2189,2,Bertrand Binet,10 Chemin de la Fave,88100,Saint-Dié-des-Vosges,34
+2190,2,Côme Maillard,2 Le Haut Bout,88210,Hurbache,64
+2191,2,Arthur Baude,2 Route du Chaud Costet,88530,Le Tholy,27
+2192,2,Marthe Henry,380 Route D Hurbache,88470,La Voivre,13
+2193,2,Arlette Lamy,27 la Conatte,68370,Orbey,39
+2194,2,Clovis Demange,5000 Rue des Grès Flammés,88700,Rambervillers,8
+2195,2,Liliane Cousin,6 Chemin Nohal,88700,Rambervillers,8
+2196,2,Annick Feron,2 Rue des Ormes,88150,Thaon-les-Vosges,54
+2197,2,Maude Charbonnier,46bis Rue Saint-michel,88000,Épinal,53
+2198,2,Eliane Thiery,5 Rue de l'Abbaye,88480,Étival-Clairefontaine,3
+2199,2,Yannick Pelle,1 Rue de la Grevelle,88210,Moussey,16
+2200,2,Meline Marti,17 Rue des Forges,88600,Brouvelieures,33
+2201,2,Zora Guibert,10 Chemin du Calvaire,88250,La Bresse,49
+2202,2,Pascal Lallemand,6 Rue de Vipucelle,67130,La Broque,62
+2203,2,Alfred Chapuis,1229 Route de Saint-dié,88100,Nayemont-les-Fosses,21
+2204,2,Emmanuelle Gregoire,16 Chemin de la Promenade,88210,Senones,15
+2205,2,Chloé Roussel,109 Chemin des Vieilles Fouies,88400,Xonrupt-Longemer,42
+2206,2,Rudy Delpech,31 Rue des Aulnes,88520,Ban-de-Laveline,36
+2207,2,Thierry Braud,11b Rue du Général de Gaulle,88120,Vagney,28
+2208,2,Sylvain Lemarchand,14 Rue de la Cathédrale,88100,Saint-Dié-des-Vosges,23
+2209,2,Christelle Marty,445e Derriere le Hagis,68910,Labaroche,40
+2210,2,Melvin Metayer,3 Avenue du Rose Poirier,88000,Épinal,52
+2211,2,Sandro Fouquet,35bis Rue de Moulins sur Allier,88580,Saulcy-sur-Meurthe,46
+2212,2,Joan Fonteneau,2 Route de Notre Dame de la Paix,88310,Cornimont,49
+2213,2,Nathéo Boutet,29 Rue d’Armont,88200,Saint-Nabord,30
+2214,2,Yaël Bonnin,31 Rue du Presbytère,67130,Barembach,62
+2215,2,Boris Bouvier,30 Rue du Saulcy,88330,Châtel-sur-Moselle,55
+2216,2,Valèry Fillon,11 Route des Fourneaux,88430,Gerbépal,48
+2217,2,Hervé Billon,5 Brafosse,88490,Provenchères-et-Colroy,19
+2218,2,Marguerite Prudhomme,12 Rue Jean-jaurès,88150,Igney,54
+2219,2,Malo Bauduin,8 Rue de la Mairie,88600,Vervezelle,33
+2220,2,Maxence Reynaud,15 Route Pierre Fourier,88530,Le Tholy,27
+2221,2,Lena Faivre,58 Herbeaupaire,88490,Lusse,20
+2222,2,Carlos Moreno,19bis Rue de Grand Rupt,54830,Gerbéviller,58
+2223,2,Adrien Jouan,2 Rue Claude Bassot,88100,Saint-Dié-des-Vosges,1
+2224,2,Didier Prat,84 Avenue Salvador Allende,88000,Épinal,52
+2225,2,Matt Vivier,1 Rue des Residences du Parc,88700,Rambervillers,8
+2226,2,Linda Guedon,31 Rue François Claudel,88250,La Bresse,49
+2227,2,Elouan Borel,499 Rue de Durand Pré,88470,Saint-Michel-sur-Meurthe,11
+2228,2,Axel Guegan,9 Rue des Jardins,67420,Saint-Blaise-la-Roche,17
+2229,2,Estéban Bellec,332 Rue Du Gravier,88470,La Voivre,2
+2230,2,Charlotte Massot,8 Ruelle du Cimetiere,88110,Raon-l'Étape,4
+2231,2,Colette Garcia,30bis Route de Bruyeres (Granges-sur-Vologne),88640,Granges-Aumontzey,51
+2232,2,Virginie Vallee,17 Rue du Colonel Jacques Pierre,88100,Saint-Dié-des-Vosges,1
+2233,2,Pierre Bloch,7 Rue D Aubiey,88440,Nomexy,55
+2234,2,Lino Debray,20 Rue Dom Pothier,88000,Épinal,53
+2235,2,Samuel Pierron,5000 La Fontenotte,88700,Rambervillers,9
+2236,2,Edwige Munoz,45 Rue des Pâtis,88100,Sainte-Marguerite,22
+2237,2,Agathe Chapuis,168 Rue des Hirondelles,88650,Anould,44
+2238,2,Angeline Gregoire,466 Les Cottis,68910,Labaroche,40
+2239,2,Elias Roussel,8 Le Pré Matré,88210,Le Saulcy,16
+2240,2,Frédéric Delpech,5a Chemin de la Croisette,67130,Solbach,18
+2241,2,Emrys Braud,50 Rue du Faude,68370,Orbey,38
+2242,2,Marin Wagner,1320 Rue de Mulhouse,88200,Dommartin-lès-Remiremont,29
+2243,2,Caroline Fievet,27 Rue du Docteur Durand,88230,Fraize,37
+2244,2,Rose-Marie Maury,39 Chemin des Oubliés,88400,Gérardmer,26
+2245,2,Noham Guilbaud,4 Route de Contramoulin,88580,Saulcy-sur-Meurthe,46
+2246,2,Josiane Besnard,10 Rue du General Leclerc,88130,Charmes,56
+2247,2,Victorine Cuvelier,285 Rue du Haut de Chaumont,88100,Sainte-Marguerite,22
+2248,2,Thomas Baudouin,3 Rue de la Cour,54120,Baccarat,5
+2249,2,Henriette Fremont,6 Rue du Vermois,54830,Gerbéviller,58
+2250,2,Laurie Chauveau,12 Lotissement aux Pres l’Epine,88460,Cheniménil,31
+2251,2,Gilles Maurin,1bis Le Bas du Village,88210,Le Puid,16
+2252,2,Tristan Ragot,16 Che de la Côte Saint-martin,88100,Saint-Dié-des-Vosges,23
+2253,2,Achille Pouget,41 Rue du Voue à Poutay,67420,Plaine,17
+2254,2,Laurine Gérard,479 Voie Romaine,88470,Saint-Michel-sur-Meurthe,13
+2255,2,Albert Aubertin,1 Chemin des Etangs de Monplaisir,88600,Bruyères,32
+2256,2,Agnès Philippon,311 la Gayire,68650,Lapoutroie,38
+2257,2,Mathis Papin,2 Rue des Tisserands,88190,Golbey,53
+2258,2,Anne-Lise Pillet,53 Rue de l'Elle,88510,Éloyes,30
+2259,2,Georgette Berard,1 Route de Chatas,88210,Ban-de-Sapt,63
+2260,2,Marie-Claude Aubin,22bis Rue de l'Etang Piller,88100,Saint-Dié-des-Vosges,12
+2261,2,Anthony Dubourg,6 Rue de la Chipotte,88130,Charmes,56
+2262,2,Delphine Lucas,23bis Route des Séches Tournées,88230,Fraize,37
+2263,2,Thaïs Renaud,205 Chemin du Rom Pre,88290,Saulxures-sur-Moselotte,50
+2264,2,Ghislaine Cochet,5 Chemin du Garde,88580,Saulcy-sur-Meurthe,46
+2265,2,Tessa Sevin,498 Route du Béaba,88400,Xonrupt-Longemer,42
+2266,2,Timothée Billy,193 Rue des 3 Maisons,88400,Xonrupt-Longemer,42
+2267,2,Gustave Bouchet,18 Rue Leo Valentin,88000,Épinal,52
+2268,2,Frédérique Renou,486 Grand Rue,88470,La Voivre,13
+2269,2,Arwen Prunier,755 Rue d’Herbaville,88470,Saint-Michel-sur-Meurthe,2
+2270,2,Pierrette Auffret,1 Saint Belle Fin,88600,La Chapelle-devant-Bruyères,51
+2271,2,Malcom Cote,22 Chemin de Bourgogne,88490,Provenchères-et-Colroy,20
+2272,2,Nolan Le bihan,313 Le Centre,68910,Labaroche,40
+2273,2,Joachim Mousset,38 Rue du Chene,88700,Roville-aux-Chênes,7
+2274,2,Olive Lebreton,220 Le Village,88470,La Bourgonce,11
+2275,2,Sylvie Bocquet,307 Rue du Haut Bourg,88100,Neuvillers-sur-Fave,35
+2276,2,Loïs Guiot,39 Rue Solange Vigneron,88210,Senones,15
+2277,2,Jonas Philibert,9 Voie de la Féotte,88470,Saint-Michel-sur-Meurthe,2
+2278,2,Alexandra Rousselle,3 Impasse des Champs Pierrots,88120,Vagney,28
+2279,2,Martin Huart,30 Chemin de Benalbois,88520,Ban-de-Laveline,36
+2280,2,Yaëlle Remy,753 Rue du Château d'Eau,88520,Raves,36
+2281,2,Youna Verrier,16 Rue de la Plage,88400,Gérardmer,26
+2282,2,Charline Benoist,284 Chemin des Goutys,88100,Nayemont-les-Fosses,21
+2283,2,Ludivine Rossi,16 Rue de l'Abbaye,67130,La Broque,62
+2284,2,Cécile Bastien,2 Rue du Général Leclerc,67570,La Broque,62
+2285,2,Pimprenelle Robinet,1 Rue du Sergent Stokelein,88100,Saint-Dié-des-Vosges,23
+2286,2,Gwendoline Angot,221 Rue de Heriefaing,88290,Saulxures-sur-Moselotte,50
+2287,2,Gabriel Andrieu,37ter Rue Emile Zola,88000,Épinal,52
+2288,2,Annabelle Chatelain,13 Allée des Frênes,88000,Épinal,52
+2289,2,Dylan Le Gal,20 Rue de Thurin,88100,Saint-Dié-des-Vosges,23
+2290,2,Mylan Bossard,2 Rue du Chemin d’Argent,88130,Charmes,56
+2291,2,Joelle Leduc,95 Place du 17 Novembre,67130,Schirmeck,62
+2292,2,Diego Teissier,421 Chemin du Bozé,88100,Sainte-Marguerite,34
+2293,2,Ruben Foucault,15 Esplanade de la Filature,88200,Remiremont,29
+2294,2,Marianne Gerardin,212 Rue du Bois Brule,88290,Saulxures-sur-Moselotte,50
+2295,2,Vincent Rochette,93 Route Ober Solberg,68140,Eschbach-au-Val,41
+2296,2,Fabrice Romero,97c Chemin des Epinettes,88400,Gérardmer,26
+2297,2,Lucas Imbert,437 Chemin de la Pépinière,88400,Gérardmer,26
+2298,2,Claude Verger,47 Route de la Petite Avison,88600,Vervezelle,33
+2299,2,Baptiste Lavaud,1660 Rue de la Mairie,88520,Raves,35
+2300,2,Joanna Aubin,2 Allee de Harainpre,88130,Charmes,56
+2301,2,Augustin Dubourg,207 Rue des Pousses,88230,Ban-sur-Meurthe-Clefcy,44
+2302,2,Gaëlle Lucas,102 Chemin des Genièvres,88400,Gérardmer,26
+2303,2,Eloi Renaud,14 Rue du Parc,88100,Saint-Dié-des-Vosges,34
+2304,2,Ernest Cochet,44 Rue du 8 Mai,88520,Ban-de-Laveline,36
+2305,2,René Sevin,309 Impasse de la Prairie,88200,Saint-Étienne-lès-Remiremont,30
+2306,2,Roseline Billy,44 Rue de l'Orme,88100,Saint-Dié-des-Vosges,12
+2307,2,Ophélie Bouchet,3 Chemin du Champ Counault,88100,Saint-Dié-des-Vosges,34
+2308,2,Roland Renou,12 Rue de Saint-linguy,88700,Jeanménil,9
+2309,2,Dany Prunier,39 Route de Gérardmer,88430,Gerbépal,48
+2310,2,Loïc Auffret,290 Rue de la Liberté,88490,Lesseux,20
+2311,2,Yohann Cote,26 Rue du Docteur Pierre Mathieu,88700,Rambervillers,8
+2312,2,Lola Le bihan,3 Chemin du Petit Pré,88470,La Salle,11
+2313,2,Cyril Mousset,7c Nayemont,88210,Ban-de-Sapt,63
+2314,2,Kévin Lebreton,480 Le Grand Himbaumont,88420,Moyenmoutier,14
+2315,2,Coline Bocquet,290 Rue du Closé,88470,Saint-Michel-sur-Meurthe,2
+2316,2,Valérie Guiot,151 Chemin de la Tournerie,88290,Saulxures-sur-Moselotte,50
+2317,2,Christian Philibert,16bis Le Fraiteux,88210,Ban-de-Sapt,63
+2318,2,Théodore Meyer,1 Chemin d’Oelberg,68140,Munster,41
+2319,2,Léandre Piat,1240 Rue de Lorraine,88650,Saint-Léonard,45
+2320,2,Patrick Mauduit,32 Rue de l'Orme,88100,Saint-Dié-des-Vosges,12
+2321,2,Jonathan Le bars,4a Rue de la Clairie,88250,La Bresse,49
+2322,2,Brigitte Tisserand,65 Impasse Copernic,88100,Sainte-Marguerite,34
+2323,2,Yoann Lecocq,20 Laitre,88210,Ban-de-Sapt,63
+2324,2,Timeo Delhaye,Grenelle,68370,Orbey,38
+2325,2,Valère Ledoux,18 Rue de l'Ancien Séminaire,88580,Saulcy-sur-Meurthe,46
+2326,2,Denise Gueguen,2 Rue de l’Aile,88210,Belval,16
+2327,2,Aurore Deschamps,9 Rue Charlet,88200,Saint-Étienne-lès-Remiremont,29
+2328,2,Patricia Delattre,221 Rue de Bréhimont,88470,Saint-Michel-sur-Meurthe,2
+2329,2,Laurent Moulin,182 Chemin de la Chanelle,88100,Nayemont-les-Fosses,21
+2330,2,Gaston Collot,14bis Rue du Poutreau,88640,Granges-Aumontzey,51
+2331,2,Jade Aubert,17bis Rue de la Filature,88460,Cheniménil,31
+2332,2,Aurelia Tournier,6 Rue des Remparts,88130,Charmes,56
+2333,2,Amélie Godin,17 Rue Stanislas,88100,Saint-Dié-des-Vosges,47
+2334,2,Marcel Delannoy,11a Rue Eugène Mathis,88230,Fraize,37
+2335,2,Juliette Jouve,8 Le Pont de Salm,88210,Le Saulcy,16
+2336,2,Augustine de Montclos,70 Rue du 9e Zouaves,68140,Munster,41
+2337,2,Antoinette Carriere,41 Vieille Route d’Autrey,88700,Rambervillers,8
+2338,2,Maël Segard,17 Rue de la Côte Mauvraie,88000,Épinal,53
+2339,2,Tania Andre,620 Route de Colmar,88400,Xonrupt-Longemer,42
+2340,2,Daniel Monteil,Le Nouveau Saales,88490,Provenchères-et-Colroy,19
+2341,2,Magali Motte,1 Route de la Gare,88600,Domfaing,33
+2342,2,Guilhem Mahe,971 Route des Tayeux,88290,Saulxures-sur-Moselotte,50
+2343,2,Philippe Naudin,451 Chemin de la Ville du Pré,88100,Taintrux,24
+2344,2,Roméo Payen,1 le Mur des Granges,88310,Cornimont,49
+2345,2,Loris Laine,588 Grand Rue,88470,La Voivre,13
+2346,2,Lorrain Beaulieu,1 Chemin de Montegoutte,88230,Fraize,37
+2347,2,Malone Brisset,1 Rue Madame Aimee,68140,Munster,41
+2348,2,Blanche Goupil,9bis Rue des Déportés,88480,Étival-Clairefontaine,3
+2349,2,Kewan Varlet,64 Chemin de la Tête du Costet,88400,Gérardmer,26
+2350,2,Lucienne Bellot,1 Rue du Coq de Bruyères,88600,Champ-le-Duc,32
+2351,2,Renée Raoul,24 Rue René Fonck,88100,Saint-Dié-des-Vosges,1
+2352,2,Faustine Lechat,1 Route de Baccarat,54290,Bayon,57
+2353,2,Pascale Babin,Rue de la Bogiere,88490,Provenchères-et-Colroy,20
+2354,2,Josephine Racine,1 Rue du Calvaire,88700,Rambervillers,8
+2355,2,Maé Dubuc,80 Rue du Moulin,88290,Saulxures-sur-Moselotte,50
+2356,2,Jeanne Ferrari,3 Chemin de la Promenade,88210,Senones,15
+2357,2,Yvan Vautrin,Fouday,67130,Fouday,18
+2358,2,Bertrand Riviere,33 Chemin de la Creuse Saint Martin,88100,Saint-Dié-des-Vosges,1
+2359,2,Côme Roux,16 Route de Bellevue,88230,Fraize,44
+2360,2,Arthur Boutin,75 Rue du Général de Gaulle,67130,La Broque,62
+2361,2,Marthe Gosselin,24 Rue du Champ Renard,88200,Saint-Étienne-lès-Remiremont,29
+2362,2,Arlette Tison,22 Chemin du Bois Basselin,88100,Saint-Dié-des-Vosges,1
+2363,2,Cyril Puech,6t Route de Senones,88210,Ban-de-Sapt,63
+2364,2,Kévin Huchet,1bis Rue du Haut Chemin,54830,Haudonville,58
+2365,2,Coline Mazet,10 Gemainfaing,88210,Ban-de-Sapt,63
+2366,2,Valérie Lang,17 Rue du Couchant,88000,Épinal,53
+2367,2,Christian Ouvrard,4 Rue du Leymel,68140,Munster,41
+2368,2,Théodore Tardieu,1 Ruelle Saint-blaise,88110,Raon-l'Étape,4
+2369,2,Léandre Grimaud,12 Rue du Docteur Schweitzer,88110,Raon-l'Étape,4
+2370,2,Patrick Raimbault,12 Rue de l’Adj Sagginati,88130,Charmes,56
+2371,2,Jonathan Luciani,12 Rue de l'Ancienne Ecole,88600,Brouvelieures,33
+2372,2,Brigitte Huguet,Rue Du Gravier Prolongee,88470,La Voivre,13
+2373,2,Yoann Rillart de Verneuil,24 Rue de la Behouille,88100,Saint-Dié-des-Vosges,34
+2374,2,Timeo Gosset,5 Rue Pierre Curie,88190,Golbey,53
+2375,2,Valère Tran,132 Chemin de Lanot,88470,Saint-Michel-sur-Meurthe,2
+2376,2,Denise Lesueur,9 Le Village,88210,Hurbache,64
+2377,2,Aurore Hoffmann,5 Rue des Raccrues,88100,Saint-Dié-des-Vosges,12
+2378,2,Patricia Menard,109 Impasse des Abbesses,88000,Dogneville,52
+2379,2,Laurent Terrien,101 Les Raides Champs,68910,Labaroche,40
+2380,2,Gaston Grange,2 Faubourg d'Alsace,88200,Remiremont,29
+2381,2,Jade Carpentier,280 Le Village,88470,La Bourgonce,11
+2382,2,Aurelia Louis,11 Rue du Clos des Jardins,88150,Chavelot,54
+2383,2,Amélie Blandin,829 Grand Rue,88470,La Voivre,13
+2384,2,Marcel Piot,2 Rue du Prieuré,54830,Gerbéviller,58
+2385,2,Juliette Rigaud,1 La Forain,88210,Senones,15
+2386,2,Augustine Vigneron,1 Rue Pierre Percee,54540,Badonviller,59
+2387,2,Antoinette Le roux,904 Rue d'Alsace,88100,Sainte-Marguerite,22
+2388,2,Maël Caillaud,7 Impasse Marguelène,88700,Jeanménil,9
+2389,2,Tania Loyer,7 Les Ziauprés,88430,Gerbépal,48
+2390,2,Cyril Michel,18 Rue de Foucharupt,88100,Saint-Dié-des-Vosges,23
+2391,2,Kévin Mora,5 Impasse de la Forge,88600,Champ-le-Duc,32
+2392,2,Coline Jan,270 Rue des Ecayots,88650,Saint-Léonard,45
+2393,2,Valérie Garrigues,15 Devant Saint Blaise,67420,Colroy-la-Roche,17
+2394,2,Christian Chaix,97a Rue Charles de Gaulle,68370,Orbey,39
+2395,2,Cyril Le Coz,4a Rue du Donon,67130,La Broque,62
+2396,2,Kévin Portal,58 Rue de Saint Die,88100,Remomeix,22
+2397,2,Coline Miquel,19 Avenue du Général de Gaulle,88110,Raon-l'Étape,4
+2398,2,Valérie Hoareau,35 Rue de Fosses la Ville,68370,Orbey,39
+2399,2,Christian Fontaine,82 Avenue de Bellefontaine,88480,Étival-Clairefontaine,14
+2400,2,Cyril Pham,430 Grand Rue,88470,La Voivre,13
+2401,2,Alfred d'Harcourt,6 Route de Lusse,88490,Provenchères-et-Colroy,20
+2402,2,Emmanuelle Cros,2 Chemin de la Grande Margotte,88100,Saint-Dié-des-Vosges,23
+2403,2,Chloé Chollet,20 Rue des Reins,88430,Gerbépal,48
+2404,2,Rudy Auger,Chemin du Xa,88000,Dogneville,52
+2405,2,Thierry Caillet,339b Les Plains Champs,68910,Labaroche,40
+2406,2,Sylvain Perrault,12 Allée des Géraniums,54540,Badonviller,59
+2407,2,Christelle Blaise,52 Route du Vagodel,88650,Saint-Léonard,45
+2408,2,Melvin Pouliquen,308 Route des Aselys,88100,Pair-et-Grandrupt,22
+2409,2,Sandro Roca,16b Rue du Général Dufieux,68650,Lapoutroie,38
+2410,2,Joan Allemand,9 Avenue Jean Prouvé,88100,Saint-Dié-des-Vosges,47
+2411,2,Nathéo Barbier,5 Chemin des Petites Fees,88600,Bruyères,32
+2412,2,Yaël Sorin,1095 Le Souche,88230,Ban-sur-Meurthe-Clefcy,43
+2413,2,Boris Roger,28 Chemin de l’Auviot,88210,Senones,15
+2414,2,Valèry Bailleul,1a Rue de Capelot,54120,Baccarat,5
+2415,2,Hervé Guillemin,4 Impasse des Castors,88210,Senones,15
+2416,2,Marguerite Guery,1627 Grand Rue,88470,La Voivre,13
+2417,2,Malo Laffont,1 Beauchimont,88490,Lusse,20
+2418,2,Maxence Mercier,19b Rue De La Bruyere,88420,Moyenmoutier,14
+2419,2,Lena Franco,4 Route Louis Godot,88530,Le Tholy,27
+2420,2,Carlos Daval,46 Rue de la Fontaine,54830,Haudonville,58
+2421,2,Adrien Jullien,2 Champ de Foire,88480,Étival-Clairefontaine,3
+2422,2,Didier Caro,107 Rue de la Fave,88100,Sainte-Marguerite,22
+2423,2,Matt Bonnel,1 Allée des Tilleuls,88000,Épinal,52
+2424,2,Linda Bataille,77 Rue René Laederich,88210,Moussey,16
+2425,2,Elouan Samson,86 Route du Béaba,88400,Xonrupt-Longemer,42
+2426,2,Axel Brunel,148 Vers Pairis,68370,Orbey,39
+2427,2,Estéban Douay,23 Rue de la Lizerne,88600,Champ-le-Duc,32
+2428,2,Charlotte Vannier,525 Chemin des Grandes Hyères,88100,Sainte-Marguerite,22
+2429,2,Colette Leveque,21 Impasse du Haut de la Fête,88100,Saint-Dié-des-Vosges,12
+2430,2,Virginie Bayle,16 Rue Antoine de Saint Exupéry,88100,Saint-Dié-des-Vosges,1
+2431,2,Pierre Combe,9 Rue des Aulnes,88520,Ban-de-Laveline,36
+2432,2,Lino Monnier,17 Route de Bussang,88200,Saint-Étienne-lès-Remiremont,29
+2433,2,Samuel Gaudemaris,76 Grand Rue,67420,Saales,19
+2434,2,Edwige Rambaud,14 Rue des Grands Pres,88700,Jeanménil,9
+2435,2,Agathe Lemoine,12 Rue d’Accras,54290,Bayon,57
+2436,2,Angeline Loisel,1 Rue des Creussenieuls,88600,Mortagne,33
+2437,2,Elias Moreira,1d Rue des Vignes,88700,Romont,7
+2438,2,Frédéric Lafitte,31 Les Adelins,88230,Fraize,37
+2439,2,Emrys Masson,8 Rue de la Fénure,88600,Champ-le-Duc,32
+2440,2,Marin Oudin,17 Le Rouaux,88210,Ban-de-Sapt,63
+2441,2,Caroline Guyot,190d L’Enclos,68910,Labaroche,40
+2442,2,Rose-Marie Blanchard,11 Allée des Pins,88100,Nayemont-les-Fosses,22
+2443,2,Noham de Fontanges,17 Rue du Marechal Lyautey,88000,Épinal,53
+2444,2,Josiane Seguin,7 Route de Séranville,54830,Gerbéviller,58
+2445,2,Victorine Barreau,3 Route du Noirpre,88530,Le Tholy,27
+2446,2,Thomas Pinto,16 Rue des Allies,88100,Saint-Dié-des-Vosges,1
+2447,2,Henriette Aubry,55 Rue de la Fave,88100,Sainte-Marguerite,22
+2448,2,Laurie Delage,8 Petite Rue de Coinchimont,88520,Ban-de-Laveline,36
+2449,2,Gilles Rougier,2 Rue des Peupliers,88100,Saint-Dié-des-Vosges,12
+2450,2,Tristan Favier,14bis Rue Marie Curie,88100,Saint-Dié-des-Vosges,34
+2451,2,Achille Lemonnier,7bis Route d'Oncourt,88150,Thaon-les-Vosges,54
+2452,2,Laurine Michon,8 Rue du Moulin,88460,Cheniménil,31
+2453,2,Albert Guilloux,21 Rue Pierre de Blarru,88100,Saint-Dié-des-Vosges,12
+2454,2,Agnès Drouet,605 Chemin des Goutys,88100,Nayemont-les-Fosses,35
+2455,2,Mathis Gaillard,44 Rue Pierre Evrat,88100,Saint-Dié-des-Vosges,1
+2456,2,Anne-Lise Jarry,78 Impasse de la Medelle,88290,Saulxures-sur-Moselotte,50
+2457,2,Georgette Berton,7 Bourras,88210,Ban-de-Sapt,63
+2458,2,Marie-Claude Paris,Romaingoutte,68910,Labaroche,40
+2459,2,Anthony Kremer,88 Chemin du Chateau des Marais,88650,Anould,45
+2460,2,Delphine Favre,9999 Rue De Fontenelle,88420,Moyenmoutier,64
+2461,2,Thaïs Pinet,21 Rue des Naufaings,88120,Vagney,28
+2462,2,Ghislaine Lemarchand,45 Rue Pasteur,54540,Badonviller,59
+2463,2,Tessa Marty,160 Rue des Rochires,88470,Saint-Michel-sur-Meurthe,2
+2464,2,Timothée Metayer,34 Rue du Mal de Lattre de Tassigny,88580,Saulcy-sur-Meurthe,46
+2465,2,Gustave Fouquet,1696 Route de Saint-dié,88100,Nayemont-les-Fosses,21
+2466,2,Frédérique Fonteneau,1 Quai Marechal de Lattre de Tassigny,88100,Saint-Dié-des-Vosges,47
+2467,2,Arwen Boutet,380 Route de Raves,88100,Neuvillers-sur-Fave,35
+2468,2,Pierrette Bonnin,11 Rue du Ponant,88000,Épinal,53
+2469,2,Malcom Bouvier,42 Rue de la Libération,88210,La Petite-Raon,15
+2470,2,Nolan Fillon,238bis Le Faite,68910,Labaroche,40
+2471,2,Joachim Billon,675 Rue de Brompont,88100,Sainte-Marguerite,22
+2472,2,Olive Prudhomme,Orbey,68370,Orbey,39
+2473,2,Sylvie Bauduin,4 Rue Henry Hartmann,68140,Munster,41
+2474,2,Loïs Reynaud,16 Impasse de la Gare,88100,Sainte-Marguerite,21
+2475,2,Jonas Faivre,42a Route de Lispach,88250,La Bresse,42
+2476,2,Alexandra Moreno,95 Rue de la Gare,88470,Saint-Michel-sur-Meurthe,2
+2477,2,Martin Jouan,1 Rue des Evelottes,54290,Bayon,57
+2478,2,Yaëlle Prat,286 Route de la Genitraie,88290,Saulxures-sur-Moselotte,50
+2479,2,Youna Vivier,444 Rue du Dessus de Foucharupt,88100,Saint-Dié-des-Vosges,47
+2480,2,Charline Guedon,21 Rue Raymond Panin,88580,Saulcy-sur-Meurthe,46
+2481,2,Ludivine Borel,4 Rue du Stade,88580,Saulcy-sur-Meurthe,46
+2482,2,Cécile Guegan,A la Brayatte,88120,Rochesson,49
+2483,2,Pimprenelle Bellec,517 Route de Saulcy,88650,Saint-Léonard,46
+2484,2,Gwendoline Massot,2a Rue Jean Macé,88400,Gérardmer,26
+2485,2,Gabriel Garcia,71 les Mérelles,68650,Lapoutroie,38
+2486,2,Annabelle Vallee,8 Rue Rovel,88100,Saint-Dié-des-Vosges,1
+2487,2,Dylan Bloch,15 Chemin des Chinois,54290,Virecourt,57
+2488,2,Mylan Debray,625 Route de Raves,88100,Neuvillers-sur-Fave,35
+2489,2,Joelle Pierron,34 Chemin de la Rigue,88250,La Bresse,49
+2490,2,Diego Munoz,152 Route du Saut des Cuves,88400,Xonrupt-Longemer,42
+2491,2,Ruben Chapuis,62 Impasse des Acacias,88100,Sainte-Marguerite,47
+2492,2,Marianne Gregoire,30 Rue du Général Leclerc,88700,Rambervillers,8
+2493,2,Vincent Roussel,3 Route du Plateau,88640,Champdray,51
+2494,2,Fabrice Delpech,11 Les Quelles,67130,La Broque,18
+2495,2,Lucas Braud,4 Promenade de la Pierre d'Appel,88480,Étival-Clairefontaine,4
+2496,2,Claude Lemarchand,9999 Allee Du Commandant Gravier,88440,Nomexy,55
+2497,2,Baptiste Marty,49 Rue de Lorraine,88150,Igney,54
+2498,2,Joanna Metayer,10 La Moline,88430,Gerbépal,48
+2499,2,Augustin Fouquet,40a Rue Ernest Charlier,88100,Sainte-Marguerite,34
+2500,2,Gaëlle Fonteneau,3 Allées du Plateau Saint-maurice,88210,Senones,15
+2501,2,Eloi Boutet,425 la Camme,68370,Orbey,39
+2502,2,Ernest Bonnin,4 Rue des Aulnes,88230,Fraize,37
+2503,2,René Bouvier,6 Rue des Primevères,88000,Épinal,52
+2504,2,Roseline Fillon,6 Rue du Battant,88100,Saint-Dié-des-Vosges,47
+2505,2,Ophélie Billon,60 Rue des Déportès,88580,Saulcy-sur-Meurthe,46
+2506,2,Roland Prudhomme,424 Rue de Malchainoir,88290,Saulxures-sur-Moselotte,50
+2507,2,Dany Bauduin,778 Chemin de Richardville,88100,Taintrux,24
+2508,2,Loïc Reynaud,33 Bermont,68650,Lapoutroie,39
+2509,2,Yohann Faivre,7 Rue du Village,88580,Saulcy-sur-Meurthe,46
+2510,2,Lola Moreno,7 Chemin de Falanzé,54830,Gerbéviller,58
+2511,2,Charles Jouan,310 Chemin du Cimetière,88100,Sainte-Marguerite,22
+2512,2,Sabrina Prat,1150 Route de Saint-dié,88100,Nayemont-les-Fosses,21
+2513,2,Olympe Vivier,7 Impasse sur l’Eau,88210,Le Saulcy,16
+2514,2,Aimé Guedon,206 Route de Sarupt,88650,Saint-Léonard,46
+2515,2,Raymond Borel,107b Rue Charles de Gaulle,68370,Orbey,39
+2516,2,Titouan Guegan,1 Chemin de la Goutte,88490,Provenchères-et-Colroy,20
+2517,2,Patrice Bellec,4bis Voie des Dames,88230,Fraize,37
+2518,2,Béatrice Massot,36 Rue Du General Leclerc,88420,Moyenmoutier,64
+2519,2,Pauline Garcia,317 Rue de Bréhimont,88470,Saint-Michel-sur-Meurthe,2
+2520,2,Zita Vallee,71 Chemin des Genièvres,88400,Gérardmer,26
+2521,2,Simone Bloch,50 Rue du Ménil,88580,Saulcy-sur-Meurthe,23
+2522,2,Christel Debray,9 Route de Contramoulin,88580,Saulcy-sur-Meurthe,46
+2523,2,Ilian Pierron,524 Chemin des Grandes Hyères,88100,Sainte-Marguerite,22
+2524,2,Lorenzo Munoz,247 Rue de la Plane,88650,Anould,45
+2525,2,Anne-Claire Chapuis,4 Rue du Vingtieme Bataillon,54120,Baccarat,5
+2526,2,Marjorie Gregoire,4 Rue du Hameau de Razimont,88000,Épinal,52
+2527,2,Zéphir Roussel,56 Chemin de la Croisette,88100,Taintrux,24
+2528,2,Jérôme Delpech,21 Rue de la Bazaine,88000,Épinal,52
+2529,2,Carla Braud,145 Les Evaux,88230,Ban-sur-Meurthe-Clefcy,43
+2530,2,Alison Wagner,3 Rue du General Gerome,54540,Badonviller,59
+2531,2,April Fievet,9bis Rue de Turenne,88200,Saint-Nabord,30
+2532,2,Alain Maury,15 Rue du Haut Meix,88100,Neuvillers-sur-Fave,35
+2533,2,Andrea Guilbaud,200bis les Corres,88200,Saint-Étienne-lès-Remiremont,30
+2534,2,Lionel Besnard,2 Les Chapes,88640,Granges-Aumontzey,51
+2535,2,Camille Cuvelier,61 Chemin du Pre Dute,88230,Ban-sur-Meurthe-Clefcy,44
+2536,2,Lilian Baudouin,204 Chemin du Spitzemberg,88100,Nayemont-les-Fosses,22
+2537,2,Alexis Fremont,508 Rue Voltaire,88650,Anould,45
+2538,2,Simon Chauveau,2 Impasse des Cyprès,88100,Saint-Dié-des-Vosges,1
+2539,2,Ezio Maurin,1bis Rue de la Fave,88490,Combrimont,20
+2540,2,Arsène Ragot,29 Rue Principale,88210,Le Mont,16
+2541,2,Edmond Pouget,14ter Rue de la Moselle,54290,Bayon,57
+2542,2,Françoise Gérard,3 Pres du Rupt,88210,Belval,16
+2543,2,Hugo Aubertin,120 Route de Neuvillers,88520,Raves,35
+2544,2,Léon Philippon,415 Impasse des Fontaines,88200,Dommartin-lès-Remiremont,29
+2545,2,Valérian Papin,32 Rue de la Petite Cote,88520,Ban-de-Laveline,36
+2546,2,Harold Pillet,4 Route de Noir Rupt,88530,Le Tholy,27
+2547,2,Roger Berard,350 Route Des Sagards,88420,Moyenmoutier,14
+2548,2,Martine Aubin,1 Rue Roger Salengro,88640,Granges-Aumontzey,51
+2549,2,Emile Dubourg,23 Rue Charles et Joséphine Linck,88100,Saint-Dié-des-Vosges,23
+2550,2,Karen Lucas,5 Rue de la Petite Papeterie,88480,Étival-Clairefontaine,3
+2551,2,Serge Renaud,8 Rue du Pré Dixi,88640,Granges-Aumontzey,51
+2552,2,Justin Cochet,4 Quartier de la Magdeleine,88000,Épinal,53
+2553,2,Albane Sevin,3 Chemin de la Foret,68650,Lapoutroie,38
+2554,2,Nadia Billy,540 Rte l’Envers du Rupt de Bamont,88290,Saulxures-sur-Moselotte,50
+2555,2,William Bouchet,301 Route du Vagodel,88650,Saint-Léonard,45
+2556,2,Jean-Louis Renou,1 ZI les Gros Prés,88490,Provenchères-et-Colroy,20
+2557,2,Marie Prunier,545 Chemin des Aulnes,88100,Sainte-Marguerite,47
+2558,2,Ylan Auffret,313 Chemin du Bois la Sau,88290,Saulxures-sur-Moselotte,50
+2559,2,Gilberte Cote,1 La Racine,88640,Rehaupal,27
+2560,2,Estelle Le bihan,1 Chemin le Potat,88490,Lusse,20
+2561,2,Jean-Christophe Mousset,2 Les Hautes Prayes,88490,Provenchères-et-Colroy,19
+2562,2,Kimi Lebreton,9 Rue de la Sabliere,88200,Saint-Étienne-lès-Remiremont,29
+2563,2,Marc Bocquet,3bis Impasse de la Clairière,88120,Vagney,28
+2564,2,Lenny Guiot,31 Rue du Pont de Cheneau,88200,Saint-Étienne-lès-Remiremont,29
+2565,2,Nadine Philibert,102 Rue Kleber Prolongee,88150,Thaon-les-Vosges,54
+2566,2,Alice Rousselle,31 Rue du Haut des Fêtes,88100,Neuvillers-sur-Fave,35
+2567,2,Marine Huart,32 Chemin des Pins,67420,Plaine,17
+2568,2,Evan Remy,15a Allee 4,88150,Thaon-les-Vosges,54
+2569,2,Henri Verrier,15 Avenue de Robache,88100,Saint-Dié-des-Vosges,23
+2570,2,Alban Benoist,1 Malplantouze,88700,Brû,8
+2571,2,Alexine Rossi,305 Rue des Côteaux de la Rouhelle,88290,Saulxures-sur-Moselotte,50
+2572,2,Christophe Bastien,1a Grand Rue,67420,Saales,19
+2573,2,Rayan Robinet,76 Avenue du 8 Mai 1945,88700,Rambervillers,8
+2574,2,Victor Angot,9bis Impasse des Fontenottes,88110,Raon-l'Étape,4
+2575,2,Laure Andrieu,9 Impasse du Teleski,88400,Xonrupt-Longemer,42
+2576,2,Eric Chatelain,61 Route de Gérardmer,88430,Gerbépal,48
+2577,2,Robin Le Gal,6 Rue des Feignes,68370,Orbey,39
+2578,2,Maeva Bossard,3 Jonfaing,88640,Champdray,51
+2579,2,Irene Leduc,20 Rue des Grands Gouteaux,88650,Entre-deux-Eaux,22
+2580,2,Janine Teissier,3 Rue Jean Matter,68140,Munster,41
+2581,2,Lubin Foucault,7 Quai de la Résistance,88100,Saint-Dié-des-Vosges,34
+2582,2,Lisa Gerardin,38 Rue Dauphine,88100,Saint-Dié-des-Vosges,47
+2583,2,Ethan Rochette,44 Rue de Vielsalm,88600,Bruyères,32
+2584,2,Gérald Romero,12 Rue François de Neufchâteau,88330,Châtel-sur-Moselle,55
+2585,2,Soan Imbert,63 Rue Louis Joseph Blanc,68140,Munster,41
+2586,2,Lorraine Verger,31 Rue du Bailly,88110,Raon-l'Étape,4
+2587,2,Jean-Michel Lavaud,38 Rue de l'Envers de Bamont,88290,Saulxures-sur-Moselotte,50
+2588,2,Abel Legros,12bis Rue des 3 Cites,88210,Senones,15
+2589,2,Maryse Teyssier,2 Impasse de la Tuilerie,88100,Saint-Dié-des-Vosges,12
+2590,2,Alexia Bodin,725 la Bassette,68910,Labaroche,40
+2591,2,Valériane Rey,435 Route de Malpre,88290,Saulxures-sur-Moselotte,50
+2592,2,Nino Michaud,16 Les Quelles,67130,La Broque,18
+2593,2,Gauthier Etienne,1 La Praye,88520,Ban-de-Laveline,36
+2594,2,Véronique Cotte,9bis Lotissement le Rouaux Bas,88130,Charmes,56
+2595,2,Florent Serra,4 Rue Paul Jarrett,54540,Neuviller-lès-Badonviller,59
+2596,2,Soren Herve,12 Cour des Moines,88480,Étival-Clairefontaine,3
+2597,2,Adam Beal,Rue de Capelot,54120,Baccarat,5
+2598,2,Jolan Bigot,6 Rue des Bouleaux,88490,Le Beulay,20
+2599,2,Thiméo Hennequin,16 Avenue de Lattre de Tassigny,88600,Bruyères,32
+2600,2,Virgile Dorion,4 Route du Plateau,88640,Champdray,51
+2601,2,Vanessa Marechal,833 Route de Rambaville,88430,Corcieux,48
+2602,2,Orianne Philippot,9bis Rue de la Corvée,88490,Provenchères-et-Colroy,20
+2603,2,Sylviane Zimmermann,8 Rue Erckmann Chatrian,88100,Saint-Dié-des-Vosges,1
+2604,2,Noël Riou,94 Rue Pierre Evrat,88100,Saint-Dié-des-Vosges,1
+2605,2,Damien Vidal,7 Rue du Bambois,88430,Gerbépal,48
+2606,2,Géraldine Coste,2bis Nayemont,88210,Ban-de-Sapt,63
+2607,2,Sandra Luce,2 Rue Madame Blanche,68140,Munster,41
+2608,2,Nina Lahaye,221 Chemin des Champs Bernard,88400,Xonrupt-Longemer,42
+2609,2,Cédric Verdier,24 Route des Bouchaux,88250,La Bresse,49
+2610,2,Maxime Lacoste,12 Rue du Colonel Jacques Pierre,88100,Saint-Dié-des-Vosges,34
+2611,2,Raphaël Barrau,1d Impasse André Lévy,88400,Gérardmer,26
+2612,2,Chantal Le bras,14 Rue Jean-maurice André,88100,Saint-Dié-des-Vosges,1
+2613,2,Emilienne Ben,191bis Rue de Lorraine,88650,Saint-Léonard,45
+2614,2,Max Keller,33 Rue de Genazeville,88640,Granges-Aumontzey,51
+2615,2,Vianney Munier,496 Chemin de Trianon,88200,Saint-Étienne-lès-Remiremont,29
+2616,2,Tim Clavier,1 la Gare (Provenchères-sur-Fave),88490,Provenchères-et-Colroy,20
+2617,2,Manuel Lacroix,15 Avenue Gambetta,88600,Bruyères,32
+2618,2,Gérard Louvet,83 Rue du Haut Bourg,88100,Neuvillers-sur-Fave,35
+2619,2,Salomé Chaput,27 Rue de la Fosse,88480,Étival-Clairefontaine,3
+2620,2,Karine Mounier,64 Rue de Lorraine,88190,Golbey,52
+2621,2,Kenzo Peyre,442j Chemin du Chene,68910,Labaroche,40
+2622,2,Laurence Le borgne,Rue du Ménil,88580,Saulcy-sur-Meurthe,46
+2623,2,Jean-Baptiste Bonneau,9 Rue de la Petite Papeterie,88480,Étival-Clairefontaine,3
+2624,2,Sonia Cuny,2 Route de Saint-Gorgon,88700,Rambervillers,8
+2625,2,Jordan Marc,25 Rue de la Basse des Loges,88110,Luvigny,61
+2626,2,Mylène Leprince,5 Chemin de la Prelle,88210,Ban-de-Sapt,63
+2627,2,François Rio,48 Promenade de la Pierre d'Appel,88480,Étival-Clairefontaine,3
+2628,2,Thibaut Dion,428 le Faudé,68370,Orbey,39
+2629,2,Madeleine Frey,Saint-Jean du Mont,88210,Le Saulcy,16
+2630,2,Samantha James,15 Avenue du General de Gaulle,88130,Charmes,56
+2631,2,Théo Lassalle,13 Rue des Ejols,88120,Vagney,28
+2632,2,Naël Grandjean,3 Rue Henri Thomas,88100,Saint-Dié-des-Vosges,12
+2633,2,Lou Jaouen,37 Rue du Couchant,88000,Épinal,53
+2634,2,Kelly Fevre,27 Allée des Chênes,88000,Épinal,52
+2635,2,Margot Dutertre,6 Z a de la Gare,88600,Brouvelieures,33
+2636,2,Yann Chene,15 Allée du Chamois,54540,Badonviller,59
+2637,2,Marie-Louise Briere,222 Chemin De La Roche,88470,La Voivre,13
+2638,2,Marie-Noëlle de Chansiergues,21 Rue de Thiarmenil,88700,Jeanménil,9
+2639,2,Marie-Pierre Pigeon,34bis Promenade de la Pierre d'Appel,88480,Étival-Clairefontaine,3
+2640,2,Célestin Tissier,1 Zone Industrielle de Florivoie,88640,Granges-Aumontzey,51
+2641,2,Leonie Le gall,21 Rue Théophile Fenal,54540,Badonviller,59
+2642,2,Maria Coulon,2 Rue de la Fosse,88480,Étival-Clairefontaine,3
+2643,2,Edith Landry,44 Rue de la Libération,88210,La Petite-Raon,15
+2644,2,Cindy Cornet,4 Le Pont de Bierupt,88210,Belval,16
+2645,2,Gaspard Dubus,31 le Busset,68370,Orbey,39
+2646,2,Roman Pinot,35 Rue d’Accras,54290,Bayon,57
+2647,2,Jacques Boyer,1 Rue du Haut Doue,88210,Vieux-Moulin,15
+2648,2,Florence Arnoux,9999 Ferme D Aubiey,88440,Nomexy,55
+2649,2,Charlène Diaz,391 La Place,68910,Labaroche,40
+2650,2,Danielle Becker,26 Route du Souche,88230,Ban-sur-Meurthe-Clefcy,44
+2651,2,Olivia Mayer,2 Chemin du Unter Solberg,68140,Munster,41
+2652,2,Micheline Wolff,90b Rue Charles de Gaulle,68370,Orbey,39
+2653,2,Mathilde Gautier,18 Rue du Stade,88600,Brouvelieures,33
+2654,2,Jean-Paul Bourgoin,16 Rue du Bambois,88110,Raon-l'Étape,4
+2655,2,Catherine Dupond,14 Rue de la Liberation,68370,Orbey,39
+2656,2,Théophile Dussart,1 Rue Charles Pensée,88000,Épinal,53
+2657,2,Matéo Bazin,904 Route de la Combe,88100,Pair-et-Grandrupt,21
+2658,2,Harry Merle,42 Le Petit Chemin,67130,Fouday,18
+2659,2,Bernard Lerond,36 Lotissement Claude Gellee,88130,Charmes,56
+2660,2,Jean-Marie Beck,5 Chemin de la Prairie,88430,Gerbépal,48
+2661,2,Jacqueline Godard,268 Rue De La Gasse,88470,La Voivre,2
+2662,2,Céleste Payet,22 Route de la Fetelle,88430,Gerbépal,48
+2663,2,Ange Bel,18 Rue Monseigneur Blanchet,88100,Saint-Dié-des-Vosges,12
+2664,2,Nathan Guyard,211 Rue des Sources,88470,Saint-Michel-sur-Meurthe,2
+2665,2,Yvette Poncet,229 impasse de la grande portion,88490,Frapelle,20
+2666,2,Milo Chretien,1 Rue des Loisirs,67420,Saint-Blaise-la-Roche,17
+2667,2,Claire Neveu,22 Promenade de la Pierre d'Appel,88480,Étival-Clairefontaine,3
+2668,2,Victoria Schneider,2f Rue de l’Adjudant Jacquot,88150,Igney,54
+2669,2,Fernande Doucet,26 Rue De L Eglise,88440,Nomexy,55
+2670,2,Julien Ricci,340 Rue de Hamoir sur Ourthe,88290,Saulxures-sur-Moselotte,50
+2671,2,Jean-Philippe Charlot,39 Rue d’Armont,88200,Saint-Nabord,30
+2672,2,Clément Pons,14 Avenue du Rose Poirier,88000,Épinal,52
+2673,2,Liam Gallo,222bis La Chapelle,68910,Labaroche,40
+2674,2,Germaine Lebas,28 Rue du Moulin,88120,Vagney,28
+2675,2,Dorian Lavergne,1 La Basse du Macon,67130,Natzwiller,62
+2676,2,Clara Duprat,1bis Aux Baraques,88210,Saint-Jean-d'Ormont,63
+2677,2,Téo Hue,455 le Faugrede,68910,Labaroche,40
+2678,2,Josette Ollier,135 Rue du Champ la l'Eau,88700,Housseras,10
+2679,2,Gilbert Langlet,14 Rue Jussieu,88100,Saint-Dié-des-Vosges,12
+2680,2,Nicole Amiot,625 Le Chene,88230,Ban-sur-Meurthe-Clefcy,43
+2681,2,Felix Stephan,3 Route de Contramoulin,88580,Saulcy-sur-Meurthe,46
+2682,2,Tabitha Castel,5 Rue du Breuil,88210,Senones,15
+2683,2,Ginette Lesage,19 Route des Molieres,88100,Saint-Dié-des-Vosges,23
+2684,2,Didier Murat,,,,1
+2685,2,Matt Leon,15 Chemin de Nachamps,88100,Saint-Dié-des-Vosges,1
+2686,2,Linda Simonnet,1 Chaudronpre,67570,Rothau,62
+2687,2,Elouan Chateau,50 Rue des Forges,88600,Brouvelieures,33
+2688,2,Axel Duquesne,10 Rue des Loisirs,88700,Rambervillers,8
+2689,2,Estéban Mallet,1 Lot des Grands Champs Gerard,88250,La Bresse,49
+2690,2,Charlotte Dupouy,97b Froide Fontaine,68650,Lapoutroie,38
+2691,2,Colette Le Moal,18 Rue Marius l’Huillier,88700,Rambervillers,8
+2692,2,Virginie Molinier,2 Rue de la Grenelle,68370,Orbey,39
+2693,2,Pierre Cordonnier,2b Rue Saint Epvre,88420,Moyenmoutier,14
+2694,2,Lino Thiriet,106 Chemin des Cheneaux,88210,Denipaire,64
+2695,2,Samuel Paquet,2 Rue du Calvaire,88470,La Salle,11
+2696,2,Edwige Berthelot,19 Rue de Longuet,88200,Saint-Nabord,30
+2697,2,Agathe Jourdain,2 Avenue du Peintre Monchablon,88130,Charmes,56
+2698,2,Angeline Fraisse,3 Rue du Donon,67130,La Broque,62
+2699,2,Elias Bonnot,811 Rue de la Poirie,88200,Dommartin-lès-Remiremont,29
+2700,2,Frédéric Dupuy,26 Rue de Foucharupt,88100,Saint-Dié-des-Vosges,23
+2701,2,Emrys Servant,1 Place Saint-martin,88100,Saint-Dié-des-Vosges,1
+2702,2,Marin Brochet,4 Rue Deodat,88100,Saint-Dié-des-Vosges,1
+2703,2,Caroline Vallet,9999g Rue Du General De Gaulle,88440,Nomexy,55
+2704,2,Rose-Marie Prost,8 Rue des Breux,88120,Vagney,28
+2705,2,Noham Navarro,7 Rue des Primevères,88000,Épinal,52
+2706,2,Josiane Chevrier,4 Rue Théophile Fenal,54540,Badonviller,59
+2707,2,Victorine Marion,12 Rue du Quatorze Novembre,88530,Le Tholy,27
+2708,2,Thomas Gutierrez,8 Route de Bestru,88490,Provenchères-et-Colroy,20
+2709,2,Henriette Gallais,205 Rue des Epinettes,88100,Sainte-Marguerite,22
+2710,2,Laurie Joyeux,25 Route des Fourneaux,88430,Gerbépal,44
+2711,2,Gilles Remond,62 Route Des Fermes Saint Benoit,88420,Moyenmoutier,14
+2712,2,Tristan Nedelec,3 Rue des Capucins,88130,Charmes,56
+2713,2,Achille Even,12 Chemin de Bademont,67420,Saales,19
+2714,2,Laurine Delalande,Bois de la Chambre,88700,Saint-Gorgon,9
+2715,2,Albert Caron,13 Impasse des Paveurs,88400,Gérardmer,26
+2716,2,Agnès Favreau,2 Rue du Canal,54830,Gerbéviller,58
+2717,2,Mathis Carre,15 Avenue des Terres Saint Jean,88000,Épinal,52
+2718,2,Anne-Lise Blondel,90 Route du Palmont,88650,Saint-Léonard,45
+2719,2,Georgette Lebel,9 Rue de l'Eglise,88650,Saint-Léonard,45
+2720,2,Marie-Claude Corre,24 Rue de l'Orme,88100,Saint-Dié-des-Vosges,1
+2721,2,Anthony Simonet,38 Rue du Paquis,54122,Fontenoy-la-Joûte,6
+2722,2,Delphine Chabot,125 Place Georges Phélipeaux,88470,Saint-Michel-sur-Meurthe,2
+2723,2,Thaïs Parisot,1bis Rue des Baudoines,88430,Gerbépal,48
+2724,2,Didier Binet,10 Rue Paul Mieg,88000,Épinal,52
+2725,2,Matt Maillard,101 Route de Strasbourg,67420,Plaine,18
+2726,2,Linda Baude,19bis Rue Notre-dame de Lorette,88110,Raon-l'Étape,4
+2727,2,Elouan Henry,450 Chemin du Chene,68910,Labaroche,40
+2728,2,Axel Lamy,2 Impasse des Goutteaux,88100,Saint-Dié-des-Vosges,34
+2729,2,Estéban Demange,454c Chemin du Chene,68910,Labaroche,40
+2730,2,Charlotte Cousin,8 Rue Jean Monnet,54120,Baccarat,5
+2731,2,Colette Feron,1 le Moncel,88100,Neuvillers-sur-Fave,21
+2732,2,Virginie Charbonnier,289 Rue Principale,88600,Beauménil,32
+2733,2,Pierre Thiery,289b Le Centre,68910,Labaroche,40
+2734,2,Lino Pelle,6 Lotissement les Mirabelliers,88520,Ban-de-Laveline,36
+2735,2,Samuel Marti,221 impasse de la creuse,88490,Frapelle,20
+2736,2,Edwige Guibert,60 Rue de la Colline des Eaux,88700,Jeanménil,10
+2737,2,Agathe Lallemand,36 Route du Giron,88230,Fraize,37
+2738,2,Angeline Chapuis,30 Lotissement Claude Gellee,88130,Charmes,56
+2739,2,Elias Gregoire,9bis Place Abbatiale,88480,Étival-Clairefontaine,3
+2740,2,Frédéric Roussel,9 Allee 8,88150,Thaon-les-Vosges,54
+2741,2,Emrys Delpech,19bis Rue du Vieux Poncé,88460,Cheniménil,31
+2742,2,Marin Braud,Chemin de l'Ecureuil,88100,Taintrux,24
+2743,2,Caroline Lemarchand,189 La Rue,88100,Taintrux,24
+2744,2,Rose-Marie Marty,5 Voie des Près la Féotte,88470,Saint-Michel-sur-Meurthe,2
+2745,2,Noham Metayer,12 Rue du Gouty,88580,Saulcy-sur-Meurthe,46
+2746,2,Josiane Fouquet,14 Rue des Grands Jardins,88100,Saint-Dié-des-Vosges,23
+2747,2,Victorine Fonteneau,21 Rue du Lavoir,88600,Bruyères,32
+2748,2,Thomas Boutet,10 Rue de la Chanonyère,88400,Gérardmer,26
+2749,2,Henriette Bonnin,14 Rue du Soucheté,88580,Saulcy-sur-Meurthe,46
+2750,2,Laurie Bouvier,2724 Rue de la Mairie,88520,Raves,36
+2751,2,Gilles Fillon,9 Impasse de la Croix de Mission,88100,Saint-Dié-des-Vosges,12
+2752,2,Tristan Billon,27 Route du Grand Clos,88310,Cornimont,49
+2753,2,Achille Prudhomme,67 Impasse De La Cure,88470,La Voivre,13
+2754,2,Laurine Bauduin,51 ZI le Velodrome,88200,Saint-Étienne-lès-Remiremont,29
+2755,2,Albert Reynaud,,,,17
+2756,2,Agnès Faivre,23bis Rue de la Gare,88700,Jeanménil,9
+2757,2,Mathis Moreno,30 Impasse Ohl des Marais,88100,Saint-Dié-des-Vosges,12
+2758,2,Anne-Lise Jouan,16 Cite Cuny,88150,Thaon-les-Vosges,54
+2759,2,Georgette Prat,124 Chemin des Epinettes,88400,Gérardmer,26
+2760,2,Marie-Claude Vivier,237 les Fontenelles,68910,Labaroche,40
+2761,2,Anthony Guedon,2 Quai Marechal de Lattre de Tassigny,88100,Saint-Dié-des-Vosges,47
+2762,2,Delphine Borel,53bis Rue Division Leclerc,54122,Fontenoy-la-Joûte,6
+2763,2,Thaïs Guegan,44 Rue de la Madeleine,88100,Saint-Dié-des-Vosges,23
+2764,2,Felix Bellec,31 Rue du Mettey,88120,Vagney,28
+2765,2,Tabitha Massot,847 Chemin des Goutys,88100,Nayemont-les-Fosses,21
+2766,2,Ginette Garcia,36 Chemin des Chenes,88100,Saint-Dié-des-Vosges,12
+2767,2,Nadege Vallee,2 Route de Nayemont,88100,Saint-Dié-des-Vosges,34
+2768,2,Cloé Bloch,2 Rue Raymond Panin,88580,Saulcy-sur-Meurthe,46
+2769,2,Bénédicte Debray,3 Rue de la Maize,88580,Saulcy-sur-Meurthe,46
+2770,2,Elie Pierron,1 Rue Alban Fournier,88700,Rambervillers,7
+2771,2,Richard Munoz,22a Route des Bouchaux,88250,La Bresse,49
+2772,2,Jules Chapuis,13 la Graine Champs,68370,Orbey,39
+2773,2,Urbain Gregoire,8 Rue de la Croix Bertrand,88700,Rambervillers,8
+2774,2,Milan Roussel,17 Rue des Reins,88430,Gerbépal,48
+2775,2,Edouard Delpech,920 Route de la Haute Mandray,88650,Mandray,37
+2776,2,Marius Braud,182 Chemin du Cheneau,88230,Fraize,44
+2777,2,Basile Wagner,465 Rue De La Saline,88420,Moyenmoutier,3
+2778,2,Johanna Fievet,17 Rue du Breuil,54830,Gerbéviller,58
+2779,2,Hector Maury,1 Avenue André Colin,88100,Saint-Dié-des-Vosges,1
+2780,2,Luc Guilbaud,48 Rue de la Goutte,88100,Neuvillers-sur-Fave,35
+2781,2,Farah Besnard,6 Route d’Haigneville,54290,Bayon,57
+2782,2,Léa Cuvelier,20 Rue Neuve du Calvaire,88700,Rambervillers,8
+2783,2,Robert Baudouin,4bis Rue des Ecoliers,88580,Saulcy-sur-Meurthe,46
+2784,2,Ursula Fremont,29 Rue de l'Eglise,88470,Saint-Michel-sur-Meurthe,2
+2785,2,Corinne Chauveau,13 Rue de la Ratte,88460,Cheniménil,31
+2786,2,Albin Maurin,5 Rue de la Roche,88400,Gérardmer,26
+2787,2,Ryan Ragot,8 Impasse Rougichamps,88230,Plainfaing,37
+2788,2,Sandrine Pouget,2 Les Frenots,88490,La Grande-Fosse,19
+2789,2,Logan Gérard,66 Rue des Déportès,88580,Saulcy-sur-Meurthe,22
+2790,2,Cerise Aubertin,367 Chemin du Kemberg,88100,Taintrux,24
+2791,2,David Philippon,4 Rue Marie Marvingt,88100,Saint-Dié-des-Vosges,23
+2792,2,Hubert Papin,8 Chemin du Faing Cresson,88530,Le Tholy,27
+2793,2,Maud Pillet,1 Rue Abbé Charles Mathieu,88210,Le Saulcy,16
+2794,2,Bernadette Berard,10 Rue des Anemones,88100,Saint-Dié-des-Vosges,34
+2795,2,Abigail Aubin,1 Chemin du Camp,88700,Roville-aux-Chênes,7
+2796,2,Angèle Dubourg,1 Chemin des Cerisiers,88100,Saint-Dié-des-Vosges,12
+2797,2,Huguette Lucas,14 Rue de la Chipotte,88110,Raon-l'Étape,4
+2798,2,Noa Renaud,24 Impasse de la Belle Campagne,88100,Nayemont-les-Fosses,21
+2799,2,Fabien Cochet,24 Rue du Repos,67130,La Broque,62
+2800,2,Alicia Sevin,14 Impasse du Haut de la Fête,88100,Saint-Dié-des-Vosges,12

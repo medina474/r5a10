@@ -1,0 +1,12 @@
+id,libelle,mois
+1,Chèque mensuel,1
+3,Chèque semestriel,6
+4,Chèque annuel,12
+2,Chèque trimestriel,3
+5,Prélèvement mensuel,1
+6,Prélèvement trimestriel,3
+7,Prélèvement semestriel,6
+8,Prélèvement annuel,12
+9,Espèces comptant,12
+10,Ticket restaurant,12
+11,SEL Cocagne,12

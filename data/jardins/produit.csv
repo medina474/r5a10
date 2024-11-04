@@ -1,0 +1,28 @@
+id,ean13,libelle,poids,prix
+1,3264950130331,Miel fleurs sauvages,250,4.90,Abbaye de Sept-Fons
+2,3264950130065,Miel fleurs sauvages,500,9.50,Abbaye de Sept-Fons
+3,3264950130164,Miel & 4% geleée royale,250,7.10,Abbaye de Sept-Fons
+4,3264950130188,Miel & 10% geleée royale,250,12.40,Abbaye de Sept-Fons
+
+7,3760115090729,Miel de lavande du Luberon,230,11.50,Famille Mary
+8,3760115091177,Miel de sapin du Jura,230,10.50,Famille Mary
+9,3760115091184,Miel de luzerne des Ardennes,230,7.90,Famille Mary
+10,3760115091054,Miel d'acacia de Bourgogne,230,9.95,Famille Mary
+11,3760115091313,Miel de fleurs d'Anjou,230,6.95,Famille Mary
+12,3760115093897,Miel de fleurs de Bretagne,230,7.95,Famille Mary
+13,3760115092709,Miel & fleur de sel de Guérande,230,7.95,Famille Mary
+15,3760343100306,Miel de sarrasin du Berry,230,9.95,Famille Mary
+16,3760188541098,Miel de mûrier sauvage des landes Girondines,230,8.95,Famille Mary
+
+17,3301511004073,Miel de bruyère blanche du massif des Maures,230,9.90,La miellerie Rayon d'or
+25,,Miel de fenouil catalan,350,6.00,La miellerie Rayon d'or
+
+18,3770008136021,Miel de Vendée,230,7.95,
+19,3760055160018,Miel de montagne des Pyrénées,230,7.95,Pascal Verrière
+20,3413410010007,Miel de Tilleul de Champagne-Ardenne,230,8.50,
+21,3110770443017,Miel de montagne de Haute Savoie,230,10.50,Miel Besacier
+22,8437007560787,Miel d'Eucalyptus des forêts d'Andalousie,230,9.90,Oroney
+23,3700942500312,Miel de Citronnier des vergers de Valence,230,8.95,Abbaye de Sept-Fons
+24,3263852004092,Miel d'Oranger des vergers de Valence,230,8.95,Famille Mary
+6,3662168010641,Miel de chataignier de Dordogne,360,11.50,Famille Mary
+5,3760115090583,Miel de thym des garrigues d'Aragon,360,10.95,Famille Mary

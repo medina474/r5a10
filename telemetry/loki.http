@@ -1,28 +1,79 @@
+@baseUrl = http://localhost:3100
+
+### Status endpoints
+
 ### Est ce que Loki est prêt ?
-GET http://localhost:3100/ready
+GET {{baseUrl}}/ready
 
 ### Log Level ?
-GET http://localhost:3100/log_level
+GET {{baseUrl}}/log_level
 
 ### Metrics
-GET http://localhost:3100/metrics
+GET {{baseUrl}}/metrics
 
-### Patterns
-GET http://localhost:3100/loki/api/v1/patterns
+### Config
+GET {{baseUrl}}/config
+
+### Services
+GET {{baseUrl}}/services
+
+###
+GET {{baseUrl}}/loki/api/v1/query?query={level="INFO"}
+
+###
+GET {{baseUrl}}/loki/api/v1/query_range
+
+###
+GET {{baseUrl}}/loki/api/v1/labels
+
+###
+GET {{baseUrl}}/loki/api/v1/label/<name>/values
+
+###
+GET {{baseUrl}}/loki/api/v1/series
+
+###
+GET {{baseUrl}}/loki/api/v1/index/stats
+
+###
+GET {{baseUrl}}/loki/api/v1/index/volume
+
+###
+GET {{baseUrl}}/loki/api/v1/index/volume_range
+
+###
+GET {{baseUrl}}/loki/api/v1/patterns
+
+###
+GET {{baseUrl}}/loki/api/v1/tail
+
 
 ###
 ### https://grafana.com/docs/loki/latest/reference/loki-http-api/#ingest-logs
-POST http://localhost:3100/loki/api/v1/push
+POST {{baseUrl}}/loki/api/v1/push
 Content-Type: application/json
 
 {
   "streams": [
     {
-      "stream": { "label": "value" },
+      "stream": { "service_name": "test", "level": "INFO" },
       "values": [
-          [ "1730727694000000000", "<log line>" ],
-          [ "1730727700000000000", "Demo message" ]
+          [ "1730745435000000000", "Démarrage pompe 1" ],
+          [ "1730745500000000000", "Arrêt pompe 1" ]
+      ]
+    },
+     {
+      "stream": { "service_name": "test", "level": "WARN" },
+      "values": [
+          [ "1730745600000000000", "Démarrage pompe 1" ],
+          [ "1730745700000000000", "Arrêt pompe 1" ]
       ]
     }
   ]
 }
+
+### https://grafana.com/docs/loki/latest/reference/loki-http-api/#ingest-logs
+POST {{baseUrl}}/loki/api/v1/push
+Content-Type: application/json
+
+{ "service_name":"test", "level": "info", "message": "Utilisateur connecté", "user_id": 123, "timestamp": "2024-11-04T22:40:30Z"}

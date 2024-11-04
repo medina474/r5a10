@@ -50,7 +50,7 @@ services:
       context: ./mariadb
     healthcheck:
       test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
-      interval: 30s
+      interval: 60s
       timeout: 5s
       retries: 3
       start_period: 20s
@@ -78,9 +78,9 @@ services:
       context: ./postgresql
     healthcheck:
       test: ["CMD-SHELL", "sh -c 'pg_isready -U postgres -d ${DB_NAME}'"]
-      interval: 15s
+      interval: 60s
       timeout: 5s
-      retries: 5
+      retries: 3
       start_period: 45s
     restart: no
     configs:
@@ -339,6 +339,26 @@ services:
     profiles:
       - admin
 
+# Minio
+# Amazon S3 compatible object store. It is built for large scale AI/ML, data lake and database workloads. 
+# It is software-defined and runs on any cloud or on-premises infrastructure.
+  minio:
+    container_name: minio
+    image: minio/minio
+    command: server --console-address ":9001" /data
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER:-root}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:-example}
+      MINIO_DEFAULT_BUCKETS: loki
+      MINIO_BROWSER_LOGIN_ANIMATION: off
+      MINIO_PROMETHEUS_AUTH_TYPE: public
+      MINIO_PROMETHEUS_URL: http://prometheus:9090
+      MINIO_PROMETHEUS_JOB_ID: minio
+    volumes:
+      - ./data:/data
+    ports:
+      - 9000:9000
+      - 9001:9001
 
 # ######################################################################
 # Oriented Documents Databases
@@ -377,7 +397,7 @@ services:
     volumes:
       - couchdb:/opt/couchdb/data
     ports:
-      - 3007:5984
+      - 5984:5984
     profiles:
       - document
 

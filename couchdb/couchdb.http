@@ -1,5 +1,5 @@
 @p={{$dotenv DB_ROOT_PASSWORD}}
-@baseUrl = http://admin:{{p}}@localhost:3007
+@baseUrl = http://admin:{{p}}@localhost:5984
 
 
 ### Welcome

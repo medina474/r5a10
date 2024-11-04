@@ -13,6 +13,8 @@ configs:
     file: ./grafana/provisioning/datasources
   grafana_dashboards:
     file: ./grafana/dashboards
+  loki_config:
+    file: ./telemetry/local-config.yaml
   alloy_config:
     file: ./alloy/config.alloy
 
@@ -32,6 +34,7 @@ volumes:
   redis: {}
   prometheus: {}
   couchbase: {}
+  loki: {}
 
 services:
 
@@ -545,6 +548,9 @@ services:
     image: grafana/loki:${LOKI_VERSION:-2.9.2}
     ports:
       - 3100:3100
+    configs:
+      - source: loki_config
+        target: /etc/loki/local-config.yaml
     profiles:
       - telemetry
 

@@ -1,0 +1,4 @@
+POST http://127.0.0.1:8086/write?orgID=1&db=GEII
+Authorization: Token 6z9WSEAO6iRJavs7CIklSYWeJ70EZN0K
+
+syslog,appname=myapp,facility=console,host=myhost,hostname=myhost,severity=warning facility_code=14i,message="warning message here",severity_code=4i,procid="12345",timestamp=1534418426076077000i,version=1i

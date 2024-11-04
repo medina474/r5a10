@@ -4,15 +4,16 @@ datasources:
   - name: VentdEst
     type: postgres
     url: postgresql:5432
-    user: postgres
+    user: ventdest
+    editable: true
     secureJsonData:
-      password: ${DB_ROOT_PASSWORD}
+      password: motdepasse
     jsonData:
       database: ventdest
-      sslmode: 'disable' # disable/require/verify-ca/verify-full
-      maxOpenConns: 100 # Grafana v5.4+
-      maxIdleConns: 100 # Grafana v5.4+
+      sslmode: disable # disable/require/verify-ca/verify-full
+      maxOpenConns: 50 # Grafana v5.4+
+      maxIdleConns: 50 # Grafana v5.4+
       maxIdleConnsAuto: true # Grafana v9.5.1+
-      connMaxLifetime: 14400 # Grafana v5.4+
-      postgresVersion: 10 # 903=9.3, 904=9.4, 905=9.5, 906=9.6, 1000=10
+      connMaxLifetime: 3600 # Grafana v5.4+
+      postgresVersion: 1500 # 903=9.3, 904=9.4, 905=9.5, 906=9.6, 1000=10
       timescaledb: false

@@ -7,6 +7,9 @@ GET http://localhost:3100/log_level
 ### Metrics
 GET http://localhost:3100/metrics
 
+### Patterns
+GET http://localhost:3100/loki/api/v1/patterns
+
 ###
 ### https://grafana.com/docs/loki/latest/reference/loki-http-api/#ingest-logs
 POST http://localhost:3100/loki/api/v1/push
@@ -17,8 +20,8 @@ Content-Type: application/json
     {
       "stream": { "label": "value" },
       "values": [
-          [ "1730707872000000000", "<log line>" ],
-          [ "1730707880000000000", "Demo message" ]
+          [ "1730727694000000000", "<log line>" ],
+          [ "1730727700000000000", "Demo message" ]
       ]
     }
   ]

@@ -5,4 +5,7 @@
 https://echo.free.beeceptor.com
 Content-Type: application/json
 
-{ "baseUrl": "{{baseUrl}}" }
+{
+  "baseUrl": "{{baseUrl}}",
+  "time": "{{$datetime rfc1123}}"
+}

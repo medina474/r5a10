@@ -497,7 +497,7 @@ services:
       GF_USERS_DEFAULT_THEME: light
       GF_USERS_ALLOW_SIGN_UP: false
       GF_FEATURE_TOGGLES_ENABLE: traceQLStreaming metricsSummary lokiFormatQuery alertmanagerRemoteOnly
-      GF_INSTALL_PLUGINS: yesoreyeram-infinity-datasource
+      GF_INSTALL_PLUGINS: grafana-lokiexplore-app,yesoreyeram-infinity-datasource
     profiles:
       - telemetry
 

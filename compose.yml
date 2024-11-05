@@ -10,7 +10,7 @@ configs:
   prometheus_config:
     file: ./prometheus/prometheus.yml
   otel_collector_config:
-    file: ./opentelemetry/otel-collector-config.yml
+    file: ./telemetry/opentelemetry/otel-collector-config.yml
   grafana_datasources:
     file: ./grafana/provisioning/datasources
   grafana_dashboards:
@@ -18,9 +18,9 @@ configs:
   loki_config:
     file: ./telemetry/local-config.yaml
   alloy_config:
-    file: ./alloy/config.alloy
+    file: ./telemetry/alloy/config.alloy
   rabbit_enabled_plugins:
-    file: ./rabbit_enabled_plugins
+    file: ./telemetry/rabbit_enabled_plugins
 
 volumes:
   couchdb: {}
@@ -287,6 +287,9 @@ services:
     profiles:
       - rest
 
+# RabbitMQ
+# Reliable and mature messaging and streaming broker, which is easy to deploy on cloud environments, on-premises, and on your local machine
+# https://www.rabbitmq.com/
   rabbitmq:
     container_name: r5a10-rabbitmq
     image: rabbitmq:3-alpine
@@ -304,6 +307,9 @@ services:
       RABBITMQ_DEFAULT_USER: admin
       RABBITMQ_DEFAULT_PASS: supermotdepasse
 
+# Memcached
+# Free & open source, high-performance, distributed memory object caching system
+# https://memcached.org/
 
   memcached:
     container_name: r5a10-memcached
@@ -367,7 +373,7 @@ services:
       - admin
 
 # Minio
-# Amazon S3 compatible object store. It is built for large scale AI/ML, data lake and database workloads. 
+# Amazon S3 compatible object store. It is built for large scale AI/ML, data lake and database workloads.
 # It is software-defined and runs on any cloud or on-premises infrastructure.
   minio:
     container_name: minio
@@ -375,7 +381,7 @@ services:
     command: server --console-address ":9001" /data
     environment:
       MINIO_ROOT_USER: ${MINIO_ROOT_USER:-root}
-      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:-example}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:-supermotdepasse}
       MINIO_DEFAULT_BUCKETS: loki
       MINIO_BROWSER_LOGIN_ANIMATION: off
       MINIO_PROMETHEUS_AUTH_TYPE: public
@@ -588,7 +594,7 @@ services:
       - telemetry
 
 # Prometheus
-# Prometheus is an open-source systems monitoring and alerting toolkit 
+# Prometheus is an open-source systems monitoring and alerting toolkit
 # https://prometheus.io/
 
   prometheus:

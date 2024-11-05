@@ -1,3 +1,5 @@
+name: r5a10
+
 configs:
   mariadb_initdb:
     file: ./mariadb/docker-entrypoint-initdb.d
@@ -17,6 +19,8 @@ configs:
     file: ./telemetry/local-config.yaml
   alloy_config:
     file: ./alloy/config.alloy
+  rabbit_enabled_plugins:
+    file: ./rabbit_enabled_plugins
 
 volumes:
   couchdb: {}
@@ -35,6 +39,8 @@ volumes:
   prometheus: {}
   couchbase: {}
   loki: {}
+  rabbitmq: {}
+  rabbitmq_log: {}
 
 services:
 
@@ -281,7 +287,28 @@ services:
     profiles:
       - rest
 
-      
+  rabbitmq:
+    container_name: r5a10-rabbitmq
+    image: rabbitmq:3-alpine
+    ports:
+      - 1883:1883
+      - 15672:15672
+      - 61613:61613
+    volumes:
+      - rabbitmq:/var/lib/rabbitmq
+      - rabbitmq_log:/var/log/rabbitmq
+    configs:
+      - source: rabbit_enabled_plugins
+        target: /etc/rabbitmq/enabled_plugins
+    environment:
+      RABBITMQ_DEFAULT_USER: admin
+      RABBITMQ_DEFAULT_PASS: supermotdepasse
+
+
+  memcached:
+    container_name: r5a10-memcached
+    image: memcached:1.6
+
 # Redis
 # In-memory key-value database
 # https://redis.io/fr/

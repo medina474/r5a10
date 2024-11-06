@@ -28,6 +28,7 @@ volumes:
   grafana: {}
   mailpit: {}
   mariadb: {}
+  minio: {}
   mongodb: {}
   mongodb_config: {}
   n8n: {}
@@ -294,9 +295,10 @@ services:
     container_name: r5a10-rabbitmq
     image: rabbitmq:3-alpine
     ports:
-      - 1883:1883
-      - 15672:15672
-      - 61613:61613
+      - 1883:1883   # MQTT
+      - 5672:5672   # AMQP
+      - 15672:15672 # Management Console
+      - 61613:61613 # STOMP
     volumes:
       - rabbitmq:/var/lib/rabbitmq
       - rabbitmq_log:/var/log/rabbitmq
@@ -388,7 +390,7 @@ services:
       MINIO_PROMETHEUS_URL: http://prometheus:9090
       MINIO_PROMETHEUS_JOB_ID: minio
     volumes:
-      - ./data:/data
+      - minio:/data
     ports:
       - 9000:9000
       - 9001:9001

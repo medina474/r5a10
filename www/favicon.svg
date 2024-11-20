@@ -1,31 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 256">
-<rect width="16" height="16" fill="#661166"/>
-<text text-anchor="middle" x="8" y="11.4" fill="#fff" font-size="11" font-family="Consolas">16</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 100">
 
-<rect y="16" width="24" height="24" fill="#ffbe0b"/>
-<text text-anchor="middle" x="12" y="33" fill="#000" font-size="18" font-family="Consolas">24</text>
+<rect y="0" width="16" height="16" fill="#661166"/>
+<rect y="16" width="24" height="24" fill="#661166"/>
+<rect y="40" width="32" height="32" fill="#661166"/>
+<rect y="72" width="48" height="48" fill="#661166"/>
+<rect y="120" width="64" height="64" fill="#661166"/>
+<rect y="184" width="72" height="72" fill="#661166"/>
+<rect y="256" width="80" height="80" fill="#661166"/>
+<rect y="336" width="96" height="96" fill="#661166"/>
+<rect y="432" width="128" height="128" fill="#661166"/>
+<rect y="560" width="256" height="256" fill="#661166"/>
+<rect y="816" width="512" height="512" fill="#661166"/>
 
-<rect y="40" width="32" height="32" fill="#fb5607"/>
-<text text-anchor="middle" x="16" y="65" fill="#000" font-size="18" font-family="Consolas">32</text>
+<line x1="0" x2="1024" y1="8" y2="8" stroke-width="1" stroke="red"/>
+<line x1="0" x2="1024" y1="28" y2="28" stroke-width="1" stroke="red"/>
+<line x1="0" x2="1024" y1="44" y2="44" stroke-width="1" stroke="red"/>
+<line x1="0" x2="1024" y1="76" y2="76" stroke-width="1" stroke="red"/>
+<line x1="0" x2="1024" y1="112" y2="112" stroke-width="1" stroke="red"/>
+<line x1="0" x2="1024" y1="60" y2="60" stroke-width="1" stroke="red"/>
+<line x1="0" x2="1024" y1="60" y2="60" stroke-width="1" stroke="red"/>
+<line x1="0" x2="1024" y1="60" y2="60" stroke-width="1" stroke="red"/>
 
-<rect y="72" width="48" height="48" fill="#ff006e"/>
-<text text-anchor="middle" x="24" y="104" fill="#fff" font-size="30" font-family="Consolas">48</text>
-
-<rect y="120" width="64" height="64" fill="#8338ec"/>
-<text text-anchor="middle" x="32" y="165" fill="#fff" font-size="40" font-family="Consolas">64</text>
-
-<rect y="184" width="72" height="72" fill="#3a86ff"/>
-<text text-anchor="middle" x="36" y="230" fill="#fff" font-size="40" font-family="Consolas">72</text>
-
-<rect y="256" width="80" height="80" fill="#3a86ff"/>
-<text text-anchor="middle" x="36" y="230" fill="#fff" font-size="40" font-family="Consolas">80</text>
-
-<rect y="336" width="96" height="96" fill="#3a86ff"/>
-<text text-anchor="middle" x="36" y="230" fill="#fff" font-size="40" font-family="Consolas">96</text>
-
-<rect y="432" width="128" height="128" fill="#3a86ff"/>
-<text text-anchor="middle" x="36" y="230" fill="#fff" font-size="40" font-family="Consolas">128</text>
-
-<rect y="560" width="256" height="256" fill="#3a86ff"/>
-<text text-anchor="middle" x="36" y="230" fill="#fff" font-size="40" font-family="Consolas">256</text>
+<g fill="#fff" font-family="Consolas">
+  <text text-anchor="middle" x="8" y="11.4" font-size="11">16</text>
+  <text text-anchor="middle" x="12" y="33" font-size="16">24</text>
+  <text text-anchor="middle" x="16" y="65" font-size="18">32</text>
+  <text text-anchor="middle" x="24" y="104" font-size="30">48</text>
+  <text text-anchor="middle" x="32" y="165" font-size="40">64</text>
+  <text text-anchor="middle" x="36" y="230" font-size="40">72</text>
+  <text text-anchor="middle" x="40" y="302" font-size="40">80</text>
+  <text text-anchor="middle" x="48" y="382" font-size="40">96</text>
+  <text text-anchor="middle" x="64" y="500" font-size="40">128</text>
+  <text text-anchor="middle" x="128" y="720" font-size="90">256</text>
+  <text text-anchor="middle" x="256" y="1100" font-size="160">512</text>
+</g>
 </svg>

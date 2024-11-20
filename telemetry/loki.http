@@ -1,4 +1,4 @@
-@baseUrl = http://localhost:3100
+@baseUrl = http://100.64.98.36:3100
 
 ### Status endpoints
 
@@ -58,8 +58,8 @@ Content-Type: application/json
     {
       "stream": { "service_name": "test", "level": "INFO" },
       "values": [
-          [ "1730745435000000000", "Démarrage pompe 1" ],
-          [ "1730745500000000000", "Arrêt pompe 1" ]
+          [ "1731140583000000000", "Démarrage pompe 1" ],
+          [ "1731140600000000000", "Arrêt pompe 1" ]
       ]
     },
      {

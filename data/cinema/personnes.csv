@@ -181,7 +181,7 @@ personne_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 1331,Weaving,Hugo,1960-04-04,,,,23.662
 1333,Serkis,Andy,1964-04-20,,,,31.356
 1336,Li,Jet,1963-04-26,,,,48.442
-1337,"",梁朝偉,1962-06-27,,,,37.594
+1337,Leung Chiu-wai,Tony,1962-06-27,,,"梁朝偉",37.594
 1338,Cheung,Maggie,1964-09-20,,,,14.661
 1339,Ziyi,Zhang,1979-02-09,,,,25.563
 1341,Yen,Donnie,1963-07-27,,,,37.398
@@ -208,7 +208,7 @@ personne_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 1723,Hill,Walter,1942-01-10,,,,0
 1724,Spottiswoode,Roger,1945-01-05,,,,0
 1725,Gross,Larry,1953-01-01,,,,0
-1726,E.,Steven,1947-11-17,,,,0
+1726,de Souza,Steven E.,1947-11-17,,,,0
 1729,Horner,James,1953-08-14,2015-06-22,,,0
 1733,Nolte,Nick,1941-02-08,,,,32.265
 1734,O'Toole,Annette,1952-04-01,,,,44.147
@@ -289,7 +289,7 @@ personne_id,nom,prenom,naissance,deces,nationalite,artiste,popularite
 2369,Lonsdale,Michael,1931-05-24,2020-09-21,,,9.939
 2372,Perlman,Ron,1950-04-13,,,,55.517
 2380,Carson,David,,,,,0
-2385,D.,Ronald,1964-07-05,,,,0
+2385,Moore,Ronald D.,1964-07-05,,,,0
 2386,Braga,Brannon,1965-08-14,,,,0
 2395,Johnson,Caryn Elaine,1955-11-13,,us,Whoopi Goldberg,42.361
 2398,McCarthy,Dennis,,,,,0

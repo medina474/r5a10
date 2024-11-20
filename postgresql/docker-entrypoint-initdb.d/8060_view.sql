@@ -64,3 +64,14 @@ create or replace view view_personnes_tmdb as  select p.nom,
      left join cinema.links l on ((p.personne_id = l.id) and (l.site_id = 1)))
   where (l.id is null);
   
+create or replace view view_simili
+SELECT fk1.film_id AS film1,
+       fk2.film_id AS film2,
+       COUNT(*) AS common_keywords
+FROM film_keywords fk1
+JOIN film_keywords fk2
+  ON fk1.keyword_id = fk2.keyword_id
+ AND fk1.film_id < fk2.film_id  -- Assure de ne pas compter les mêmes paires deux fois
+GROUP BY fk1.film_id, fk2.film_id
+HAVING COUNT(*) > 0
+ORDER BY common_keywords DESC;

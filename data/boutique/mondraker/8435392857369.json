@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2467506",
+  "tailles": [
+    "S / 160-170 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-200 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Mondraker Chrono DC Sram SX Eagle 12V 29'' Gris / Orange 2023",
+  "marque": "Mondraker",
+  "description": "Le Chrono DC est idéal pour ceux qui recherchent un vélo hardtail pour le fun, et pour ceux qui ont en vue les descentes les plus sauvages avec sauts, dévers, etc. Ou pour ceux qui veulent un vélo robuste pour se sentir en sécurité.\r\nDeux profils très différents pour lesquels nous avons conçu ce nouveau modèle de notre catalogue.\r\nLe Chrono DC est équipé d'une fourche de 120 mm de débattement avant, de pneus de 2,40\" d'épaisseur et d’une tige de selle télescopique. Avec ces caractéristiques, nous pouvons vous assurer que si vous aimez prendre des risques ou si vous préférez la sécurité, vous serez plus que satisfait.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/506/467506/2467506/4741674",
+  "mpn": "010.23019",
+  "gtin13": "8435392857369",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 160-170 cm",
+      "stock": 1,
+      "prix": 1099,
+      "mpn": "010.23017",
+      "sku": "2398142",
+      "gtin13": "8435392857345",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2512441-vtt_semi_rigide_mondraker_chrono_dc_sram_sx_eagle_12v_29___gris___orange_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 10,
+      "prix": 1199.99,
+      "mpn": "010.23018",
+      "sku": "2186015",
+      "gtin13": "8435392857352",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2512441-vtt_semi_rigide_mondraker_chrono_dc_sram_sx_eagle_12v_29___gris___orange_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 1099.99,
+      "mpn": "010.23019",
+      "sku": "2186049",
+      "gtin13": "8435392857369",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2512441-vtt_semi_rigide_mondraker_chrono_dc_sram_sx_eagle_12v_29___gris___orange_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 1,
+      "prix": 1099.99,
+      "mpn": "010.23020",
+      "sku": "2186131",
+      "gtin13": "8435392857376",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2512441-vtt_semi_rigide_mondraker_chrono_dc_sram_sx_eagle_12v_29___gris___orange_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 13.8,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Chrono 29 Stealth Alloy, Forward Geometry XC, boîtier de pédalier BSA 73 mm, douille de direction conique, acheminement interne des câbles HHG, axe arrière Boost 12 x 148 mm",
+      "fourche": "RockShox Judy Silver TK 29, 120 mm, TurnKey, Solo Air, pivot conique, axe 9 x 100 mm, plongeurs en acier 30 mm, déport de 46 mm. Réglages : Compression Poplock 2 positions (ouvert/bloqué), rebond, précontrainte pneumatique"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger SX Eagle, 12 vitesses, X-Actuation 1:1",
+      "dérailleur arrière": "Sram SX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, chape longue, 1 x 12 vitesses, X-actuation 1:1",
+      "cassette": "Sram PG-1210, 11-50 dents, 12 vitesses",
+      "chaîne": "Sram SX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "Sram SX Eagle, Boost, axe DUB, plateau Direct Mount, taille S : 170 mm, taille M/L/XL : 175 mm, plateau Sram 34 dents, acier, X-Sync 2",
+      "boîtier de pédalier": "Sram DUB BSA, roulements étanches, 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram Level, étrier 2 pièces, disque monopièce Centerline 180/160 mm IS 6 trous, plaquettes organiques sur acier",
+      "selle": "Mondraker XC Series, rail en acier",
+      "tige de selle": "Tige de selle télescopique interne ONOFF Pija, diamètre 31,6 mm, taille S/M : 405 x 95-125 mm, taille L/XL 458x 120-150 mm"
+    },
+    "roues": {
+      "jantes": "MDK-XP1 29 TLR, largeur intérieure 25 mm, Tubeless Ready, 32 rayons",
+      "moyeu avant": "Formula DC711, 15 x 110 mm, roulements étanches, IS 6 trous ",
+      "moyeu arrière": "Formula MST148S-4SB, 12 x 148 mm, roulements étanches, IS 6 trous",
+      "pneus": "Maxxis Ardent 29 x 2,40, 60TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 0.2, aluminium 6061 double renfort, galbe : 4,8 mm, largeur : 740 mm, cintrage 9°, réhausse 0°, alésage 31,8 mm",
+      "poignées": "Onoff Twin, verrouillage simple, 135 mm",
+      "potence": "Onoff Sulfur, aluminium 6061 T6, alésage 31,8 mm, galbe : +/-7°, longueur : tailles S / M : 50 mm, tailles L : 60 mm, tailles XL : 70 mm",
+      "jeu de direction": "Onoff Saturn conique pour tube de direction de 1-1/8” à 1-1/2”, roulements étanches ACB, haut 41x30,2x7x45ºx45º, bas 51,9x40x8x45ºx45º"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1118,
+      "stack (mm)": 624,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1133,
+      "stack (mm)": 624,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1160,
+      "stack (mm)": 642,
+      "reach (mm)": 460
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1175,
+      "stack (mm)": 642,
+      "reach (mm)": 475
+    }
+  ]
+}

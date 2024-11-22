@@ -1,0 +1,114 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2280148",
+  "tailles": [
+    "M / 168-180 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cinelli King Zydeco Sram Rival 1x 11V 700 mm Bleu",
+  "marque": "Cinelli",
+  "description": "Le cadre du Cinelli King Zydeco vous permet de rouler vite sur différentes surfaces : asphalte, sentiers et terrains accidentés grâce à la possibilité d'assembler des roues 700c et 650b avec des pneus jusqu'à 2,1\". La construction monocoque en carbone et sa géométrie racing rendent ce cadre léger et extrêmement rapide. Parfaitement adapté aux courses de gravier longue distance et également prêt pour les explorations à vélo.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/148/280148/2280148/4740703",
+  "mpn": "042KDWR1550",
+  "gtin13": "8057714322401",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 2299.99,
+      "mpn": "042KDWR1550",
+      "sku": "2095430",
+      "gtin13": "8057714322401",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2266011-gravel_bike_cinelli_king_zydeco_sram_rival_1x_11v_700_mm_bleu"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Rival 1X"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : COLUMBUS Carbon Monocoque",
+      "fourche": "Carbone : COLUMBUS Futura CROSS 1-1/8” - 1-1/2”"
+    },
+    "direction": {
+      "jeu de direction": "Integrated COLUMBUS Compass 1-1/8\" 1-1/2\"",
+      "potence": "Cinelli Vai Size 90 (S) 100 (M) 110 (L/XL)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Rival 1x HRD, 1x11 vitesses",
+      "dérailleur arrière": "Sram Rival / 11 Speed / Long cage",
+      "cassette": "Sram Rival / 11-42 Dents",
+      "chaîne": "Sram Rival",
+      "pédalier": "Sram Rival / 42 Dents. Size 172.5 (S/M/L) 175 (XL)",
+      "boîtier de pédalier": "FSA BB386EVO"
+    },
+    "équipements": {
+      "freins": "Sram Rival Hydro disc / Sram Centerline 160/160 mm",
+      "selle": "SSM Shortfit",
+      "tige de selle": "Cinelli Vai / Ø27,2 / L350"
+    },
+    "roues": {
+      "jantes": "Fulcrum Rapid Red 500 DB / Centerlock / 700c",
+      "pneus": "WTB Riddler / 700x37c / tan sidewall"
+    },
+    "cintre": "Cinelli Cork",
+    "ruban de cintre": "CINELLI VAI / Ø 31,8 / Drop 122,5mm Reach 74,5mm Size 40 (S) 42 (M/L/XL)",
+    "coloris ": "Bleu"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 513,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1010,
+      "stack (mm)": 519,
+      "reach (mm)": 371
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 530,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1018,
+      "stack (mm)": 550,
+      "reach (mm)": 380
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 550,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1024,
+      "stack (mm)": 576,
+      "reach (mm)": 389
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 568,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 175,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1044,
+      "stack (mm)": 599,
+      "reach (mm)": 400
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2508405",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Habit HT 2 MicroShift Advent X Pro 10V 29'' Rouge Foncé",
+  "marque": "Cannondale",
+  "description": "La capacité de rouler à fond sur les sentiers rencontre la pureté et la simplicité d'un hardtail. C'est la beauté de l'Habit HT 2.\r\nUn minimum d'agitation. Un maximum de plaisir.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/405/508405/2508405/4927996",
+  "mpn": "C26202U20SM",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 154-165 cm",
+      "stock": 1,
+      "prix": 899.99,
+      "mpn": "C26202U20SM",
+      "sku": "2151804",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2574649-vtt_semi_rigide_cannondale_habit_ht_2_microshift_advent_x_pro_10v_29___rouge_fonce"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "microSHIFT Advent X 10V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1177,
+      "stack (mm)": 634,
+      "reach (mm)": 415
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1206,
+      "stack (mm)": 643,
+      "reach (mm)": 440
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 628,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1235,
+      "stack (mm)": 653,
+      "reach (mm)": 465
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 665,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1275,
+      "stack (mm)": 662,
+      "reach (mm)": 500
+    }
+  ]
+}

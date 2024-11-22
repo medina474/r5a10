@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2652971",
+  "tailles": [
+    "S / 156-170 cm",
+    "M / 168-180 cm",
+    "L / 178-190 cm",
+    "XL / 188-200 cm"
+  ],
+  "catégories": ["Gravel"],
+  "name": "Riverside GCR Sram Force etap AXS 12V Reynolds ATR 700mm Beige 2023",
+  "marque": "Riverside",
+  "description": "Ce vélo gravel en carbone est un véritable phénomène à l'ADN sportif. Avec lui, élargissez votre terrain de jeu !\r\nDecathlon a imaginé ce vélo de gravel pour les cyclistes cherchant une version sportive de la discipline. Explorez les environs , découvrez de nouvelles traces avec un équipement haut de gamme !\r\n\r\nSensations garanties grâce au cadre carbone de ce vélo gravel : rapide, précis, il vous assure un pilotage confortable et vous permet d'améliorer votre vitesse de pointe. Conçu pour des groupes électriques, seules les gaines de freins passent à l'intérieur de ce cadre homologué UCI. Ses sections de tube ont été optimisées pour une meilleure rigidité latérale… mais pas au détriment de la souplesse, nécessaire pour absorber le terrain !\r\n\r\nCe vélo gravel est équipé du nouveau groupe SRAM FORCE XPLR AXS 12 vitesses: : sa connectivité 100% sans fil est une révolution dans le cyclisme. Grâce à cette transmission complète dont chaque module peut être changé indépendamment, découvrez tout le plaisir d'un changement de vitesse simple, rapide, et précis. Enfin, personnalisez et analysez les données de votre vélo grâce à l'application intuitive de SRAM.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/971/652971/2652971/5335553",
+  "mpn": "4330585",
+  "gtin13": "3583787542699",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-200 cm",
+      "stock": 1,
+      "prix": 3400,
+      "mpn": "4330585",
+      "sku": "2628875",
+      "gtin13": "3583787542699",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2771506-gravel_bike_riverside_gcr_sram_force_etap_axs_12v_reynolds_atr_700mm_beige_2023"
+    }
+  ],
+  "informations": {
+    "poids": "8.25 kg (M)",
+    "poids constructeur (en g)": 8250,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Force eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Cadre 100% carbone, poids 1058g taille M, taille pneu max 42 mm, axe 12 x 142 mm",
+      "fourche": "Fourche en carbone, 442g, axe 12 x 100 mm"
+    },
+    "manettes de dérailleur": "SRAM FORCE AXS",
+    "transmission": {
+      "dérailleur arrière": "SRAM FORCE XPLR AXS 12V",
+      "cassette": "SRAM FORCE 10-44 12 vitesses",
+      "chaîne": "FORCE 12 V",
+      "pédalier": "SRAM FORCE AXS 40 dents"
+    },
+    "équipements": {
+      "freins": "Hydrauliques SRAM Force 160/160 mm",
+      "selle": "Fizik Argo Terra X5",
+      "tige de selle": "aluminium en 27,2 mm de diamètre"
+    },
+    "roues": {
+      "jantes": "Carbone REYNOLDS ATR 700 profil haut (40 mm) 24 rayons, 1685g, livré tubeless sans préventif",
+      "pneus": "Hutchinson Touareg 700 x 40 mm Carcasse 127 TPI"
+    },
+    "direction": {
+      "cintre": "aluminium oversize ERGO, flare 16°",
+      "potence": "aluminium oversize ERGO"
+    },
+    "référence": "4330583 (M)"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 473,
+      "tube supérieur (mm)": 529,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 119,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 994.2,
+      "stack (mm)": 531,
+      "reach (mm)": 361.5,
+      "largeur cintre (mm)": 400,
+      "longueur potence (mm)": 80,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 350
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 550,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 139,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1011.1,
+      "stack (mm)": 552,
+      "reach (mm)": 376,
+      "largeur cintre (mm)": 420,
+      "longueur potence (mm)": 90,
+      "longueur manivelles (mm)": 172.5,
+      "longueur tige de selle (mm)": 350
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 528,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 169,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1027.4,
+      "stack (mm)": 582.5,
+      "reach (mm)": 387.5,
+      "largeur cintre (mm)": 420,
+      "longueur potence (mm)": 100,
+      "longueur manivelles (mm)": 175,
+      "longueur tige de selle (mm)": 400
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 555,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 199,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1048.7,
+      "stack (mm)": 611,
+      "reach (mm)": 399,
+      "largeur cintre (mm)": 440,
+      "longueur potence (mm)": 110,
+      "longueur manivelles (mm)": 175,
+      "longueur tige de selle (mm)": 400
+    }
+  ]
+}

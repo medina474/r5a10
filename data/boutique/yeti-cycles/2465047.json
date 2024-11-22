@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2465047",
+  "tailles": [
+    "M / 165-180 cm",
+    "L / 178-191 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Yeti SB120 C2 Sram GX Eagle 12V 29'' Gris 2023",
+  "marque": "Yeti-cycles",
+  "description": "Sa portée agile s'élance à travers les singletracks. L'angle prononcé de son tube de selle facilite les montées. Son angle de direction et le débattement vertical équilibré de sa suspension donnent la priorité au plaisir de la descente, ce qui en fait un incroyable fouet de course de type Trans-Cascadia. Le fait est que la géométrie du SB120 est tellement équilibrée et agile qu'il est tout à fait possible d'oublier le débattement en montée et en descente.\r\n\r\nUne position plus neutre permet aux pilotes de peser sur les deux roues de manière plus équilibrée, avec une portée moderne pour l'agilité, ce qui permet de garder une certaine vivacité.  \r\nLes angles de direction modernes sont faibles, c'est pourquoi nous utilisons plus de débattement à l'avant qu'à l'arrière pour équilibrer le vélo. Cela permet d'obtenir une conduite brillamment équilibrée.\r\nLa longueur des haubans augmente avec la taille du cadre, ce qui garantit que le centre arrière du vélo est proportionnellement adapté aux cyclistes de toutes tailles (XS-XXL).\r\nLes cyclistes de toutes tailles restent dans une position de pédalage puissante grâce aux angles du tube de selle qui augmentent avec la taille du cadre. Cela facilite le passage de la position assise à la position debout, en particulier pour les cyclistes de grande taille.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/47/465047/2465047/4738815",
+  "mpn": "0605832565231",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-191 cm",
+      "stock": 1,
+      "prix": 4999.99,
+      "mpn": "0605832565231",
+      "sku": "2413671",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2511331-vtt_tout_suspendu_yeti_sb120_c2_sram_gx_eagle_12v_29___gris_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Loch"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 13.8,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C/Series carbon fiber frame, Switch Infinity suspension technology, Threaded BB, internally tunneled cable routing, 148mm x 12mm Boost dropouts, sealed enduro max pivot bearings, Universal derailleur hanger (UDH), and axle.",
+      "fourche": "Fox Performance 34, 130 mm",
+      "amortisseur": "Fox Performance Float DPS"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 1x12 vitesses",
+      "cassette": "Sram GX Eagle 1275, 10-52 Dents",
+      "chaîne": "Sram GX Eagle",
+      "pédalier": "Sram GX Eagle, 30 Dents, 170 mm"
+    },
+    "équipements": {
+      "freins": "Sram G2 R, 4 pistons, 180/180 mm",
+      "selle": "WTB Silverado Custom",
+      "tige de selle": "OneUp Dropper post 31.6mm / XS-SM: 150mm, MD: 180mm, LG-XXL: 210mm"
+    },
+    "roues": {
+      "jantes": "Crank Brothers Systhesis Enduro 30 mm",
+      "pneu avant": "xis Minion DHF 2.5 EXO ",
+      "pneu arrière": "s Aggressor 2.3 EXO"
+    },
+    "direction": {
+      "cintre": "Burgtec Ride Wide  Alloy Enduro 35x780 mm",
+      "potence": "Burgtec Enduro MK3 35X50 mm"
+    },
+    "grips": "Odi Elite Pro"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 365,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 98,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1157,
+      "stack (mm)": 610,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 603,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 104,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1191,
+      "stack (mm)": 615,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1217,
+      "stack (mm)": 625,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 652,
+      "longueur base (mm)": 441,
+      "douille de direction (mm)": 126,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1249,
+      "stack (mm)": 635,
+      "reach (mm)": 500
+    }
+  ]
+}

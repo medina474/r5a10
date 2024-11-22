@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "1842395",
+  "tailles": [
+    "M / 162-172 cm",
+    "L / 170-182 cm",
+    "XL / 182-190 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Trail 8 29 MicroSHIFT Mezzo 8V 29'' Gris Noir",
+  "marque": "Cannondale",
+  "description": "Passez au niveau supérieur ! Le Cannondale Trail est un VTT semi-rigide conçu pour élever votre jeu et enflammer une passion pour le trail. Il est conçu pour la montagne et prêt à tout. La construction aluminium SmartForm C3, à la fois simple et sophistiquée, se traduit par un cadre léger et réactif qui surpasse tout ce qui se fait dans cette catégorie. Le système de micro-suspension \"SAVE\" assure plus de confort et un meilleur contrôle grâce à des zones de flexion créées dans des endroits stratégiques du triangle arrière.\r\n\r\nLe Trail est équipé de roues 27.5\" pour les plus petites tailles, et de roues 29\" pour les autres tailles, afin de garantir le meilleur mélange d’ajustement, de rapidité et de plaisir au cycliste.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/395/842395/1842395/4884338",
+  "mpn": "C26851M10MD",
+  "gtin13": "884603841372",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-172 cm",
+      "stock": 4,
+      "prix": 499.99,
+      "mpn": "C26851M10MD",
+      "sku": "1606917",
+      "gtin13": "884603841372",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1655956-vtt_semi_rigide_cannondale_trail_8_29_microshift_mezzo_8v_29___gris_noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 182-190 cm",
+      "stock": 1,
+      "prix": 499.99,
+      "mpn": "C26851M10XL",
+      "sku": "1607323",
+      "gtin13": "884603841396",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1655956-vtt_semi_rigide_cannondale_trail_8_29_microshift_mezzo_8v_29___gris_noir"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Grey"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "microSHIFT Mezzo 8V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : SmartForm C3 Alloy, SAVE, 1-1/8\" headtube, post mount disc, StraightShot internal cable routing, dropper post compatible, BSA-73",
+      "fourche": "SR Suntour XCE28, 100 mm, coil, 46 mm offset (29\")"
+    },
+    "direction": {
+      "jeu de direction": "Semi Integrated, 1-1/8\"",
+      "potence": "6061 Alloy, 31.8 mm, 8°",
+      "cintre": "6061 Alloy Riser, 31.8 mm, 25 mm rise, 700 mm",
+      "poignées": "Cannondale Dual-Density"
+    },
+    "transmission": {
+      "manette de dérailleur": "microSHIFT, 2x8 vitesses",
+      "dérailleur arrière": "microSHIFT Mezzo RD-M36L, 8 vitesses",
+      "pédalier": "Prowheel, 36/22 Dents",
+      "boîtier de pédalier": "Sealed bearing cartridge, square taper",
+      "chaîne": "KMC X8, 8 vitesses",
+      "cassette": "Sunrace, 12-32 Dents"
+    },
+    "dérailleur avant": "microSHIFT Dual Pull Compact, Steel Cage, Steel Band Clamp",
+    "leviers de frein": "Tektro",
+    "équipements": {
+      "freins": "Tektro M275 hydraulic disc, 160/160 mm rotors",
+      "selle": "Cannondale Stage 3",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 31.6 x 350/400 mm"
+    },
+    "roues": {
+      "jantes": "WTB SX19, 32h",
+      "pneus": "Schwalbe Rocket Rick, K-Guard, 29 x 2.25\""
+    },
+    "moyeu avant": "Shimano HBTX 505",
+    "moyeu arrière": "Shimano FHTX505"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille de roues": "27.5\"",
+      "tube de selle (mm)": 345,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 440,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1067,
+      "stack (mm)": 607,
+      "reach (mm)": 365
+    },
+    {
+      "taille cadre": "S",
+      "taille de roues": "27.5\"",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 585,
+      "longueur base (mm)": 440,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1108,
+      "stack (mm)": 616,
+      "reach (mm)": 402
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1140,
+      "stack (mm)": 624,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1166,
+      "stack (mm)": 633,
+      "reach (mm)": 447
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1192,
+      "stack (mm)": 643,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre": "XXL",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 685,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1218,
+      "stack (mm)": 652,
+      "reach (mm)": 492
+    }
+  ]
+}

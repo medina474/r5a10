@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2586089",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cannondale Habit LT 2 Shimano SLX/XT 12V 29'' Noir",
+  "marque": "Cannondale",
+  "description": "Le Habit LT 2 est un vélo de trail progressif qui adore autant les montées que les descentes. Il est spécialement conçu pour dompter le chaos.\r\n\r\nL'Habit LT est conçu pour le côté le plus sauvage des sentiers. Avec un débattement de 140 mm à l'arrière et de 150 mm à l'avant, une géométrie légèrement plus souple que celle de l'Habit, des pneus et des composants prêts à l'emploi, il est toujours prêt à descendre.\r\n\r\nLa géométrie du Habit est spécialement adaptée à la taille. Grâce à notre conception Proportional Response, tout - depuis la configuration de la suspension jusqu’à la géométrie, sans oublier la longueur des bases arrière, est entièrement adapté selon la taille, pour vous permettre d’exprimer votre performance au maximum. Une conception axée sur la performance, à votre taille.\r\n\r\nAvec un tube de direction incliné à 64.7° et un tube de selle à angle plus abrupt à 77°, le Habit LT vous permet d’adopter une position optimale pour dévaler les descentes tout en contrôlant votre vélo en toute confiance.\r\n\r\nPriorité à la simplicité et à la commodité pour le rider, avec un boîtier de pédalier fileté, un support de dérailleur universel, une fixation d’amortisseur standard, le passage interne des câbles, et une ligne de chaîne au standard de 55 mm pour un dégagement de pneu supérieur. Tout est conçu pour rendre le vélo plus facile à vivre et à aimer.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/89/586089/2586089/5224720",
+  "mpn": "C23252U20LG",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 154-165 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "C23252U20SM",
+      "sku": "2436496",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2710962-vtt_tout_suspendu_cannondale_habit_lt_2_shimano_slx_xt_12v_29___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-175 cm",
+      "stock": 2,
+      "prix": 2799.99,
+      "mpn": "C23252U20MD",
+      "sku": "2436572",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2710962-vtt_tout_suspendu_cannondale_habit_lt_2_shimano_slx_xt_12v_29___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 2,
+      "prix": 2799.99,
+      "mpn": "C23252U20LG",
+      "sku": "2436527",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2710962-vtt_tout_suspendu_cannondale_habit_lt_2_shimano_slx_xt_12v_29___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-195 cm",
+      "stock": 3,
+      "prix": 2799.99,
+      "mpn": "C23252U20XL",
+      "sku": "2436519",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2710962-vtt_tout_suspendu_cannondale_habit_lt_2_shimano_slx_xt_12v_29___noir"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 563,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64.7,
+      "angle tube de selle (°)": 77.1,
+      "empattement (mm)": 1175,
+      "stack (mm)": 626,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.7,
+      "angle tube de selle (°)": 77.1,
+      "empattement (mm)": 1203,
+      "stack (mm)": 635,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.7,
+      "angle tube de selle (°)": 77.1,
+      "empattement (mm)": 1240,
+      "stack (mm)": 6443,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 654,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.7,
+      "angle tube de selle (°)": 77.1,
+      "empattement (mm)": 1280,
+      "stack (mm)": 653,
+      "reach (mm)": 510
+    }
+  ]
+}

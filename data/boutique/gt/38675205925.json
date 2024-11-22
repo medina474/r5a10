@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "1842186",
+  "tailles": [
+    "XS / 152-160 cm",
+    "S / 160-170 cm",
+    "M / 170-178 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "GT Aggressor Sport Shimano Tourney 7V 27.5'' Bleu Team",
+  "marque": "GT",
+  "description": "Convivial et léger, le VTT semi-rigide GT Aggressor Sport est parfait pour un usage récréatif quotidien. Sa transmission Shimano Tourney 3x7 vitesses vous permet de trouver le braquet adapté à n’importe quel type de terrain, tandis que sa fourche suspendue SR Suntour M3030, de 75 mm de débattement, offre une conduite confortable.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/186/842186/1842186/3069591",
+  "mpn": "G28301M20M7",
+  "gtin13": "38675205925",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-178 cm",
+      "stock": 4,
+      "prix": 359.99,
+      "mpn": "G28301M20M7",
+      "sku": "1617482",
+      "gtin13": "38675205925",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1655028-vtt_semi_rigide_gt_aggressor_sport_shimano_tourney_7v_27_5___bleu_team"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Team Blue"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 75,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Tourney 7V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : GT 6061 T6 Aluminum Frame, Triple Triangle w/ Floating Seat Stays, Forged Drop-outs w/ Disc Brake Mounts, Zero Stack 1 1/8\" Head Tube",
+      "fourche": "SR Suntour M3030, 75 mm travel, Coil"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Tourney, 3x7-vitesses",
+      "dérailleur arrière": "Shimano Tourney, 7-vitesses",
+      "cassette": "Sunrace, 14-34 Dents",
+      "chaîne": "KMC Z7",
+      "pédalier": "Prowheel Alloy, 42/34/24 Dents",
+      "boîtier de pédalier": "Cartridge, Square Taper"
+    },
+    "dérailleur avant": "Shimano Tourney, 31.8 Clamp",
+    "équipements": {
+      "freins": "Mech. Disc Brake, (160/160)",
+      "selle": "GT MTB",
+      "tige de selle": "GT All Terra Two Bolt Alloy"
+    },
+    "roues": {
+      "jantes": "WTB SX19, 32h",
+      "moyeu avant": "Alloy Disc, QR ",
+      "moyeu arrière": "Sealed Alloy Disc, QR",
+      "pneus": "WTB Ranger Comp, DNA Compound, 27.5 x 2.25\""
+    },
+    "direction": {
+      "cintre": "GT All Terra Alloy Riser, 25 mm Rise, 8° Sweep, 6° Rise, 720 mm Width",
+      "poignées": "GT Statement",
+      "potence": "GT All Terra, 6061 Alloy, 31.8 mm, 8°",
+      "jeu de direction": "Semi-integrated, Sealed Cartridge"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 532,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1075,
+      "stack (mm)": 566,
+      "reach (mm)": 379
+    },
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 549,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1099,
+      "stack (mm)": 575,
+      "reach (mm)": 400
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 569,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1123,
+      "stack (mm)": 584,
+      "reach (mm)": 420
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1146,
+      "stack (mm)": 594,
+      "reach (mm)": 439
+    }
+  ]
+}

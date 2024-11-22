@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2449778",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-180 cm",
+    "L / 175-190 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Orbea Onna 50 Shimano Tourney/Altus 8V 29'' Bleu Violet 2023",
+  "marque": "Orbea",
+  "description": "Le VTT semi-rigide Orbea Onna est conçu pour les cyclistes qui veulent se lancer à l'assaut des trails. Sa géométrie, qui met l'accent sur l'efficacité et la maîtrise, est parfaite pour tout cycliste qui découvre le VTT.\r\n\r\nL'Onna 50 offre une géométrie équilibrée et un comportement fluide sur les sentiers afin de que tous les cyclistes puissent y trouver leur bonheur. Ajoutez-y des tailles de roues adaptées aux tailles de cadre pour un ajustement parfait, et voilà l'Onna prêt à dompter les sentiers. Avec une douille de direction conique permettant un large choix de fourches suspendues de 100 mm et des freins à disque hydrauliques sur l'ensemble de la gamme, l'Onna a tout ce qu'il faut pour maîtriser le terrain. Et avec un large dégagement permettant de monter des pneus VTT larges, ce véo vous garantit confort et traction pour toutes vos aventures. Le cadre en aluminium haute performance et les tubes profilés de l'Onna nous permettent de maîtriser parfaitement son comportement. Assez rigide pour être rapide et réactif, assez souple pour rester confortable et maniable.\r\n\r\nL'Onna est disponible en quatre tailles associées à deux tailles de roues.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/778/449778/2449778/4744543",
+  "mpn": "N20721NB",
+  "gtin13": "8434446180590",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 2,
+      "prix": 599,
+      "mpn": "N20721NB",
+      "sku": "2398875",
+      "gtin13": "8434446180590",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2495211-vtt_semi_rigide_orbea_onna_50_shimano_tourney_altus_8v_29___bleu_violet_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "NB - Violet Blue - White (Gloss)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Tourney/Altus 8V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Onna Alloy, Dropout 9x135 mm, BSA BB, Internal cable routing",
+      "fourche": "SR Suntour XCE 28 Coil, QR, 100 mm travel"
+    },
+    "manettes de dérailleur": "Microshift TS38, 2x8-vitesses",
+    "dérailleur avant": "Shimano M315, 31.8 mm",
+    "transmission": {
+      "dérailleur arrière": "Shimano Tourney TX RD-TX800, 8-vitesses",
+      "cassette": "SunRace CSM66, 11-34 Dents",
+      "chaîne": "KMC X8",
+      "pédalier": "Forged alloy, 36/22 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano MT200, Hydr. Disc Brake",
+      "selle": "Essax Adv soft135mm for Orbea",
+      "tige de selle": "Alloy, 27.2 mm, Setback 0 mm",
+      "pédales": "VP-537 Black"
+    },
+    "roues": {
+      "jantes": "Mach1 ER20 19c, 29\"",
+      "pneus": "Kenda K1153, 22 TPI, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "Alloy, 31.8 mm, Flat, Width 720 mm",
+      "potence": "Alloy, 7º",
+      "jeu de direction": "1\"-1/8 Semi-Integrated"
+    },
+    "référence": "N207"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 388,
+      "tube supérieur (mm)": 561,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1093,
+      "stack (mm)": 617,
+      "reach (mm)": 390,
+      "longueur potence (mm)": 70
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 589,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1121,
+      "stack (mm)": 617,
+      "reach (mm)": 418,
+      "longueur potence (mm)": 70
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1146,
+      "stack (mm)": 627,
+      "reach (mm)": 440,
+      "longueur potence (mm)": 70
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 646,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1180,
+      "stack (mm)": 641,
+      "reach (mm)": 468,
+      "longueur potence (mm)": 90
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "1574292",
+  "tailles": [
+    "S / 160-175 cm",
+    "M / 170-185 cm",
+    "L / 180-195 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "GT Zaskar LT AL Expert 29'' Sram NX Eagle 12v Vert Olive",
+  "marque": "GT",
+  "description": "Le VTT GT Zaskar LT AL Expert conviendra aux pratiquants Trail et All Mountain. Le roi des semi-rigides cross country est prêt pour conquérir d'autres univers, grâce à sa géométrie plus agréssive et à sa fourche RockShox de 130mm. GT nous présente un nouveau cadre et un nouveau look pour 2021. Le nouveau GT Zaskar LT est idéal pour ceux qui aiment la simplicité et le plaisir des longs rides.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/292/574292/1574292/2943011",
+  "mpn": "G26151M10MD",
+  "gtin13": "38675191426",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-185 cm",
+      "stock": 1,
+      "prix": 1299.99,
+      "mpn": "G26151M10MD",
+      "sku": "1527172",
+      "gtin13": "38675191426",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1456401-vtt_semi_rigide_gt_zaskar_lt_al_expert_29___sram_nx_eagle_12v_vert_olive"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Cadre en alliage Zaskar LT, construction de cadre Triple Triangle ™ feat. Assises flottantes, BSA 73 mm, Boost 12x148 axe traversant, tube de direction conique",
+      "fourche": "RockShox 35 Gold RL, 130 mm, 15 x 110 mm, pivot conique, déport de 51 mm"
+    },
+    "roues": {
+      "rayons": "acier inoxydable, 14 g",
+      "jantes": "WTB ST i30 TCS 2.0, 32h, Tubeless Ready",
+      "moyeu avant": "Formula DC-511, 15x100",
+      "moyeu arrière": "Formula DC-1248, 12x148",
+      "pneu avant": "Maxxis Minion DHF 29 x 2,5 \"WT, double composé, boîtier EXO, prêt pour le tubeless",
+      "pneu arrière": "Maxxis Minion DHR II WT, 29 x 2,4 \"WT, double composé, boîtier EXO, prêt pour le tubeless"
+    },
+    "équipements": {
+      "pédales": "non incluses",
+      "freins": "Shimano MT400 Hydro Disc, 180 / 180mm RT56 Rotors",
+      "selle": "Pelle en tissu peu profonde / sport, rails en acier",
+      "tige de selle": "TranzX Dropper, acheminement interne, 31,6"
+    },
+    "manivelle": "SRAM NX Eagle, 175 mm, 32 dents",
+    "transmission": {
+      "boîtier de pédalier": "Truvativ Power Spline",
+      "chaîne": "SRAM SX Eagle, 12 vitesses",
+      "cassette": "SRAM SX Eagle, 11-50, 12 vitesses",
+      "dérailleur arrière": "SRAM NX Eagle"
+    },
+    "manettes": "SRAM NX Eagle, 12 vitesses",
+    "direction": {
+      "cintre": "alliage GT, 31,8 mm, élévation 15 mm, balayage 5 ° vers le haut, balayage arrière 9 °",
+      "poignées": "GT Ergo Performance, Lock-On",
+      "potence": "tige en alliage GT, collier de 31,8 mm, longueur de 45 mm"
+    },
+    "headset": "FSA No.42E, intégré",
+    "matériel": "aluminium"
+  }
+}

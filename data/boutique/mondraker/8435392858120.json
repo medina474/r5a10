@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2677526",
+  "tailles": [
+    "M / 168-180 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Mondraker Raze Carbon RR SL Sram XX1 Eagle AXS 12V 29'' Argent Vert 2024",
+  "marque": "Mondraker",
+  "description": "Le Mondraker Raze Carbon RR SL est le vélo idéal si vous recherchez un vélo de trail agressif, qui vous permet de pédaler confortablement. Avec ses grandes qualités d’escalade, vous pourrez monter aussi haut que vos jambes le permettent. Son efficacité ne fait aucun doute. Mais le mieux, c'est qu'au moment d'affronter une descente, sa réponse est excellente. Son absorption, sa légèreté et sa rigidité en font le meilleur vélo tout usage. Les technologies de Mondraker Stealth Air Full Carbon, Zero Suspension System, Forward Geometry et Mind sont bien sûr également présentes sur le Raze Carbon RR SL. Avec 150 mm de débattement avant et 130 mm à l'arrière, vous serez surpris par sa polyvalence et le fun qu’il permet.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/526/677526/2677526/5399471",
+  "mpn": "010.23095",
+  "gtin13": "8435392858120",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 10,
+      "prix": 7499.99,
+      "mpn": "010.23094",
+      "sku": "2398104",
+      "gtin13": "8435392858113",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2801170-vtt_tout_suspendu_mondraker_raze_carbon_rr_sl_sram_xx1_eagle_axs_12v_29___argent_vert_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 7499.99,
+      "mpn": "010.23095",
+      "sku": "2398062",
+      "gtin13": "8435392858120",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2801170-vtt_tout_suspendu_mondraker_raze_carbon_rr_sl_sram_xx1_eagle_axs_12v_29___argent_vert_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Racing Silver"
+    }
+  ],
+  "informations": {
+    "poids": "13,0 kg",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram XX1 Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Raze 29 Stealth Air full Carbon, Zero Suspension System, 130 mm travel, Forward Geometry, Carbon Monoblock upper link, Boost 12x148 mm rear axle, tapered head tube, 73 mm BSA bottom bracket, dedicated 1x drivetrain design, HHG internal cable routing, Enduro MAX sealed bearings, shock mudguard, ISCG 05, custom frame protectors, Sram UDH Derailleur hanger",
+      "fourche": "Fox 36 29 Float GRIP2 Factory Kashima, 150 mm, pivot de fourche conique, essieu Boost 15x110 m Kabolt, déport 44 mm. Réglages : compression haute et basse vitesse, rebond haute et basse vitesse, précontrainte pneumatique",
+      "amortisseur": "Fox Float DPS Factory Kashima EVOL, 205x57,5 mm. Réglages : Compression 2 positions (ouvert/ferme), rebond, précontrainte pneumatique. Trunnion montage haut, bagues inférieures 30x8 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Eagle AXS, palette rocker, 1x12-vitesses",
+      "dérailleur arrière": "Sram XX1 Eagle AXS, Roller bearing clutch, blocage de cage, cage carbone longue,, 12-vitesses",
+      "cassette": "Sram XG-1295, 10-52 dts",
+      "chaîne": "Sram GX Eagle, Powerlock",
+      "pédalier": "SRAM XX1 Eagle, Boost, essieu DUB, couronne de chaîne à montage direct, 32 dts, alliage usiné CNC",
+      "boîtier de pédalier": "Sram DUB BSA, sealed bearings, 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram G2 RSC, Hydr. Disc Brake, 4-piston caliper, Centerline 180/180 mm IS 6 bolts one-piece rotors",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "Fox Transfer Factory Kashima interne, diamètre 31,6 mm"
+    },
+    "roues": {
+      "jantes": "Mavic Crossmax Carbon XL R, 29 Boost 30 mm internal width, hookless, tubeless ready, 24 straight-pull double butted spokes",
+      "moyeu avant": "Infinity hub, Boost 15x110 mm, IS 6 trous ",
+      "moyeu arrière": "Infinity hub, ID360 freewheel technology, Boost 12x148 mm, IS 6 trous, roue libre XD",
+      "pneu avant": " Maxxis Dissector, tubeless ready, 3C MAXX TERRA compound, EXO+ protection, 120TPI, folding bead, 29x2.4\" WT ",
+      "pneu arrière": " Maxxis Aggressor, tubeless ready, dual compound, Exo protection, 60TPI, folding bead, 29x2.3\""
+    },
+    "direction": {
+      "cintre": "OnOff Krypton Carbon 1.0, galbe : 25 mm, largeur : 800 mm, cintrage 9º, rehausse 5º, alésage 31,8 mm",
+      "poignées": "OnOff Desert, 1lock-on, 135 mm",
+      "potence": "OnOff Krypton FG 30 mm, CNC, alésage 31,8 mm",
+      "jeu de direction": "Acros custom for 1-1/2\" head tube, angular contact bearings 40x52x7, Internal cable routing"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 375,
+      "tube supérieur (mm)": 595,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1193,
+      "stack (mm)": 608,
+      "reach (mm)": 455,
+      "manivelles (mm)": 170,
+      "débatement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1217,
+      "stack (mm)": 617,
+      "reach (mm)": 475,
+      "manivelles (mm)": 170,
+      "débatement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 645,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1243,
+      "stack (mm)": 631,
+      "reach (mm)": 495,
+      "manivelles (mm)": 175,
+      "débatement tige de selle (mm)": 175
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1269,
+      "stack (mm)": 645,
+      "reach (mm)": 515,
+      "manivelles (mm)": 175,
+      "débatement tige de selle (mm)": 175
+    }
+  ]
+}

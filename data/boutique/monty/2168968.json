@@ -1,0 +1,107 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2168968",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Monty KZ8 Shimano Altus 9V 29'' Rouge / Argent",
+  "marque": "Monty",
+  "description": "Le VTT Monty KZ8 est votre compagnon idéal pour les randonnées du week-end ou les trajets quotidiens.\r\nMontagnes, sentiers ou même sections urbaines, il est résistant et agile. \r\n\r\nCâblage interne et composants adaptés à vos besoins. Nous vous rendons la tâche facile, plus amusante sur n'importe quel terrain, kilomètre après kilomètre.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/968/168968/2168968/4001343",
+  "mpn": "RNSLALA",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 399.99,
+      "mpn": "RNSLALA",
+      "sku": "2168809",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2021700-vtt_semi_rigide_monty_kz8_shimano_altus_9v_29___rouge___argent"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Rouge/Argent"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Altus 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alloy 6061-T6",
+      "fourche": "SR Suntour XCM-RL, 100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Altus M2010, 2 x 9 vitesses",
+      "dérailleur arrière": "Shimano Altus M2000, 9 vitesses",
+      "cassette": "Shimano Altus, 11-36 Dents",
+      "chaîne": "KMC X9",
+      "pédalier": "Prowheel, manivelles 170 mm (Taille : S), manivelles 175 mm (Taille : M, L), plateaux : 36-22T"
+    },
+    "dérailleur avant": "Shimano Altus M2020, 2 vitesses",
+    "équipements": {
+      "freins": "Tektro HD-M275, hydr. Disc 180/160 mm",
+      "pédales": "Plastic",
+      "selle": "Monty MTB",
+      "tige de selle": "Aluminium 31.6 x 350 mm"
+    },
+    "roues": {
+      "jantes": "Aluminium double paroi, 29\"",
+      "pneus": "29x2.25\", ETRTO 57-622"
+    },
+    "direction": {
+      "cintre": "Aluminium, diamètre 31.8 mm, longueur 720 mm, Sweep: 6°",
+      "poignées": "Caoutchouc",
+      "potence": "Aluminium Longueur 75 mm x 6º (Taille : S - M), Longueur 90 mm x 6º (Taille : L)"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 394,
+      "tube supérieur (mm)": 564,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1073,
+      "stack (mm)": 614.5,
+      "reach (mm)": 382
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 432,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1095,
+      "stack (mm)": 614.5,
+      "reach (mm)": 404
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 483,
+      "tube supérieur (mm)": 624,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1133,
+      "stack (mm)": 614.5,
+      "reach (mm)": 444
+    }
+  ]
+}

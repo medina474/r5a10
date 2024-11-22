@@ -1,0 +1,96 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2658316",
+  "tailles": [
+    "XS / 145-155 cm",
+    "S / 155-165 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Marlin 7 Sram SX 12V 27.5'' Blanc Cristal Gén 3",
+  "marque": "Trek",
+  "description": "Le Trek Marlin 7 est votre meilleur ami sur le trail et lors de vos trajets quotidiens grâce à sa géométrie qui saura doper votre niveau de confiance. Il trouve l’équilibre parfait entre le prix et la performance avec une fourche télescopique RockShox améliorée qui amortit le contact des cailloux et des bosses sur le trajet, et la large plage de rapports de la transmission 12 vitesses SX Eagle de SRAM.\r\n\r\nVous cherchez un vélo de trail conçu pour offrir plus de confiance sur les sentiers et de polyvalence lors de vos trajets quotidiens.\r\nLe Marlin 7 est le vélo de trail par excellence pour ceux souhaitent s’améliorer en singletrack, avec un bon rapport qualité/prix, ainsi qu’une suspension et une géométrie améliorées pour plus de confiance.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/316/658316/2658316/5342893",
+  "mpn": "5295480",
+  "gtin13": "601479192762",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 19,
+      "prix": 1179,
+      "mpn": "5295480",
+      "sku": "2651097",
+      "gtin13": "601479192762",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776670-vtt_semi_rigide_trek_marlin_7_sram_sx_12v_27_5___blanc_cristal_gen_3"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Crystal White"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.85,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Silver, acheminement interne des câbles du dérailleur arrière et de la tige de selle télescopique, fixations de porte-bagages et béquille, ThruSkew 135x5 mm",
+      "fourche": "RockShox Judy Silver, ressort Solo Air, réglage du rebond, blocage hydraulique TurnKey, déport de 42 mm, QR 100 mm, débattement de 100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "SRAM SX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "SRAM SX Eagle, 12-vitesses",
+      "cassette": "SRAM PG-1210 Eagle, 11-50, 12-vitesses",
+      "chaîne": "SRAM SX Eagle",
+      "pédalier": "SRAM SX Eagle, plateau en acier 30 dents, ligne de chaîne de 49 mm, longueur de 170 mm",
+      "boîtier de pédalier": "Truvativ Powerspline, 73 mm, cartouche filetée, axe 118 mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT200 2-pistons, RT26 6 trous (180/180 mm)",
+      "selle": "Bontrager Verse Short, rails en acier inoxydable",
+      "tige de selle": "TranzX JD-YSP18, débattement de 100 mm, acheminement interne, 31,6 mm, longueur de 361 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Kovee, double paroi, Tubeless Ready, 28 trous, largeur de 23 mm, valve Presta",
+      "moyeux": "Avant : Formula DC-20 LW, alliage, 6 trous, QR 5x100 mm / Arrière : Formula DC-22 LW, alliage, 6 trous, corps Shimano 8/9/10, QR 135x5 mm",
+      "pneus": "Maxxis Ardent, Tubeless Ready, EXO, tringle souple, 60 tpi, 27,5x2.40''"
+    },
+    "direction": {
+      "cintre": "Alliage Bontrager, 31,8 mm, Rise 15 mm, largeur de 750 mm",
+      "potence": "Bontrager Comp, 31,8 mm, compatible Blendr, 7°",
+      "jeu de direction": "Semi-intégré, 1''1/8"
+    },
+    "grips": "Bontrager XR Trail Comp, nylon lock-on"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "tube de selle (mm)": 340,
+      "tube supérieur (mm)": 551,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1092,
+      "stack (mm)": 563,
+      "reach (mm)": 390
+    },
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1121,
+      "stack (mm)": 572,
+      "reach (mm)": 415
+    }
+  ]
+}

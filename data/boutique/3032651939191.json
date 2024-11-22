@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2632849",
+  "tailles": [
+    "S / 158-168 cm",
+    "M / 168-178 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Sunn Flash S2 Tektro M350 9V 29'' 500 Wh Cuivre",
+  "marque": "Sunn",
+  "description": "Flash est le VTT électrique semi-rigide pour tous, pour plus de plaisir, avec son moteur Shimano léger et performant. Avec sa batterie intégrée, le design du Flash affirme le style Sunn. Performante, la gamme Flash est la solution adaptée à vos longues sorties aussi bien sur les sentiers qu’en pleine montagne !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/849/632849/2632849/5311316",
+  "mpn": "YESUW54001",
+  "gtin13": "3032651939191",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-168 cm",
+      "stock": 1,
+      "prix": 2199.99,
+      "mpn": "YESUW54001",
+      "sku": "2581516",
+      "gtin13": "3032651939191",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755874-vtt_electrique_semi_rigide_sunn_flash_s2_tektro_m350_9v_29___500_wh_cuivre"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 2199.99,
+      "mpn": "YESUW54501",
+      "sku": "2581554",
+      "gtin13": "3032651939207",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755874-vtt_electrique_semi_rigide_sunn_flash_s2_tektro_m350_9v_29___500_wh_cuivre"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 22.7,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Tektro M350 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Integrated 531Wh, Alloy 6061db, Edge Tubing Boost",
+      "fourche": "SR Suntour XCM34 130 mm Boost"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano EP6, 250 W, 85 Nm, 25 km/h",
+      "batterie": "Shimano EN500, 500 Wh"
+    },
+    "transmission": {
+      "manette de dérailleur": "Tektro M350",
+      "dérailleur arrière": "Tektro M350, 9-vitesses",
+      "cassette": "Tektro, 11-46 Dents",
+      "pédalier": "Shimano M600, 34 Dents, 170 mm"
+    },
+    "équipements": {
+      "freins": "Tektro, 2 pistons, 180/180mm",
+      "selle": "Sunn by DDK",
+      "tige de selle": "Aluminium 31.6 x 350 mm"
+    },
+    "roues": {
+      "jantes": "Mach1 Trucky 30 30mm 32t",
+      "pneus": "Vee Tier Snap Trail, 29x2,35\""
+    },
+    "direction": {
+      "cintre": "Aluminium, 760 mm x 31.8 mm, Rise 15",
+      "potence": "Aluminium, 31.8 - 45 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1120,
+      "stack (mm)": 635,
+      "reach (mm)": 390
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1150,
+      "stack (mm)": 645,
+      "reach (mm)": 415
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1183,
+      "stack (mm)": 660,
+      "reach (mm)": 440
+    }
+  ]
+}

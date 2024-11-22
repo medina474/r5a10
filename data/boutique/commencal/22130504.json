@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2260330",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-180 cm",
+    "L / 178-190 cm",
+    "XL / 188-210 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Commencal Meta SX Sram SX Eagle 12V 29/27.5'' Gris Dirt",
+  "marque": "Commencal",
+  "description": "Équiper ce Meta SX de roues différenciées 29/27 n'est pas le fruit d'une tendance que nous suivons. De cette manière, le vélo possède un grip bien plus équilibré entre l'avant et l'arrière : la grande roue de 29 pouces à l'avant permet davantage de confiance et de capacités de franchissement tandis que la roue arrière en 27,5 pouces offre plus de maniabilité et de nervosité. Il en résulte un vélo plus agile et facile dans la pente, plus efficace au freinage et plus dynamique à la poussée.\r\n\r\nAu niveau de la géométrie, un reach plus court de 10mm, un angle de direction redressé et des bases allongées de 10mm permettent de repositionner le pilote au centre du vélo, apportant plus de tolérance et de précision dans les passages techniques.\r\n\r\nDe plus, le Meta SX est équipé d'un Flip Chip sur la rallonge de l'amortisseur afin d'ajuster au mieux la géométrie, et ainsi s'adapter à votre style. Ce système permet en quelques secondes d'influencer la hauteur du boîtier de pédalier ainsi que les angles de direction et de selle. Selon vos préférences, vous avez le choix entre un vélo dynamique, parfait pour les grosses sorties de pédalage, ou plus progressif, idéal pour des journées en Bike Park ou sur des lignes plus engagées.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/330/260330/2260330/4199891",
+  "mpn": "22METAAMRIXL",
+  "gtin13": "22130504",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-210 cm",
+      "stock": 3,
+      "prix": 2199.99,
+      "mpn": "22METAAMRIXL",
+      "sku": "2185008",
+      "gtin13": "22130504",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2209459-vtt_tout_suspendu_commencal_meta_sx_sram_sx_eagle_12v_29_27_5___gris_dirt"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Dirt"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 15.1,
+    "genre": "Homme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alloy 6066, triple butted tubes, T4, T6. Enduro bearings, 160 mm travel ",
+      "fourche": "Rockshox Zeb, 170 mm travel, 29\", Charger damper, Debonair, rebound, Boost (15 x 110 mm), 44 mm offset, 1 Token",
+      "amortisseur": "Rockshox Deluxe Select +, 230 x 62.5 mm, rebound, threshold adjustment, 2 tokens"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle 1x12 vitesses",
+      "dérailleur arrière": "Sram SX Eagle 12 vitesses",
+      "cassette": "Sram PG-1210 11-50 Dents",
+      "pédalier": "Sram X1 1000 Eagle, 170 mm, Dub, Boost",
+      "boîtier de pédalier": "Sram DUB"
+    },
+    "équipements": {
+      "freins": "Sram Guide T, 4 pistons, Matchmaker compatible / Rotors: SRAM G2 CleanSweep 200 mm, 6-bolt",
+      "selle": "SDG Bel Air V3 Steel Rails",
+      "tige de selle": "KS Rage-I 34.9 mm, travel: 125 mm on S, 150 mm on M, 170 mm on L, 190 mm on XL, SouthPaw alloy remote"
+    },
+    "roues": {
+      "jantes": "F : E13 LG1 DH Base 29'', 32h, 30 mm inner width / R : E13 LG1 Dh Base 27.5'', 32h, 30 mm inner width.",
+      "moyeu avant": "ula DC-711 29'', 32h, 30 mm inner width ",
+      "moyeu arrière": "a DCL-348A 27.5'', 32h, 30 mm inner width ",
+      "pneu avant": "xis Assegai 29\" x 2.5\", WT, 3C MaxxTerra, EXO, Tubeless Ready ",
+      "pneu arrière": "s DHR II 27.5\" x 2.4\", WT, 3C MaxxTerra, EXO+, Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Ride alpha R20 31.8 mm, 760 mm width, 20 mm rise, Alloy 6061 on S - 31.8 mm, 780 mm width, 27 mm rise, Alloy 6061 on M / L - 31.8 mm, 800 mm width, 27 mm rise, Alloy 6061 on XL",
+      "potence": "Ride Alpha Freeride 40mm extension, 31,8 mm",
+      "jeu de direction": "Acros ZS44/ZS56"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 569,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 78.5,
+      "empattement (mm)": 1231,
+      "stack (mm)": 630,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 78.5,
+      "empattement (mm)": 1253,
+      "stack (mm)": 634,
+      "reach (mm)": 460
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 616,
+      "longueur base (mm)": 447,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 78.5,
+      "empattement (mm)": 1285,
+      "stack (mm)": 639,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 643,
+      "longueur base (mm)": 447,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 78.5,
+      "empattement (mm)": 1312,
+      "stack (mm)": 643,
+      "reach (mm)": 510
+    }
+  ]
+}

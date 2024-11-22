@@ -1,0 +1,127 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2508413",
+  "tailles": [
+    "S / 154-162 cm",
+    "M / 162-172 cm",
+    "L / 170-182 cm",
+    "XL / 182-190 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Trail SL 1 Shimano Deore 12V 29'' Gris / Orange",
+  "marque": "Cannondale",
+  "description": "Passez au niveau supérieur ! Le Cannondale Trail SL 1 est un VTT semi-rigide conçu pour élever votre jeu et enflammer une passion pour le trail. Il est conçu pour la montagne et prêt à tout. Son cadre en aluminium SmartForm C2 offre un niveau supérieur en termes de construction aluminium. Il dispose de formes de tubes haute-performance, d'une construction allégée et renforcée, et de soudures lisses en deux passes, rendant ce vélo inégalé dans sa catégorie. Le système de micro-suspension \"SAVE\" assure plus de confort et un meilleur contrôle grâce à des zones de flexion créées dans des endroits stratégiques du triangle arrière.\r\n\r\nLe capteur de roue intégré fournit de nombreuses informations très précises sur la vitesse, l’itinéraire et la distance. Il vous permet aussi d’enregistrer votre vélo et vous rappelle, entre autres, les opérations d’entretien nécessaires, tout cela via l’appli Cannondale.\r\n\r\nComparé au Trail SE, le Cannondale Trail SL est plus léger, plus racé et construit pour la rapidité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/413/508413/2508413/4928059",
+  "mpn": "C26152M10MD",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-172 cm",
+      "stock": 2,
+      "prix": 1149.99,
+      "mpn": "C26152M10MD",
+      "sku": "2151558",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2574651-vtt_semi_rigide_cannondale_trail_sl_1_shimano_deore_12v_29___gris___orange"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Stealth Gray"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Trail SL, Smartform C2 Alloy, SAVE dropped seatstays, tapered headtube, post mount disc, StraightShot internal cable routing, dropper post compatible BSA 73, 12mm thru axle, Boost 148",
+      "fourche": "RockShox, SID SL, 100mm, Remote Lockout"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT, 12-vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents, 12-vitesses",
+      "chaîne": "Shimano Deore 6100, 12-vitesses",
+      "pédalier": "Shimano, FC-5111, 30T, 52mm chainline",
+      "boîtier de pédalier": "Shimano BSA 73"
+    },
+    "équipements": {
+      "freins": "Shimano Deore 6100 hydraulic disc, 160/160mm RT54 rotors",
+      "selle": "Cannondale Ergo XC",
+      "tige de selle": "TranzX dropper, internal routing, 31.6, 100mm (S), 120mm (M), 130mm (L-XL)"
+    },
+    "roues": {
+      "jantes": "WTB STX i25 TCS, 32h, tubeless ready",
+      "moyeu avant": "Shimano MT400, 15x110mm thru-axle ",
+      "moyeu arrière": "Shimano MT410, 12x148mm thru-axle",
+      "pneu avant": "  Schwalbe Racing Ray Performance, 29 x 2.25\", Addix Compound, tubeless ready ",
+      "pneu arrière": " Schwalbe Racing Ralph Performance, 29 x 2.25\", Addix Compound, tubeless ready"
+    },
+    "direction": {
+      "jeu de direction": "Integrated Sealed Bearing, Tapered",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 0°",
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 15mm rise, 8° sweep, 4° rise, 780mm",
+      "poignées": "Cannondale TrailShroom"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 561,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1090,
+      "stack (mm)": 598,
+      "reach (mm)": 389
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 593,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1123,
+      "stack (mm)": 608,
+      "reach (mm)": 419
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1152,
+      "stack (mm)": 617,
+      "reach (mm)": 444
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1180,
+      "stack (mm)": 626,
+      "reach (mm)": 469
+    }
+  ]
+}

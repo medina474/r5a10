@@ -1,0 +1,127 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2724502",
+  "tailles": [
+    "M / 170-182 cm",
+    "L / 182-190 cm",
+    "XL / 193-203 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Cannondale Trail Neo 1 Shimano Deore 12V 29'' Kaki",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Trail Neo 1 est un VTT à assistance électrique qui fera évoluer votre champ d’action et déclenchera en vous une nouvelle passion pour le trail. Léger, rigide et vif, des singletracks sérieux aux rues de la ville, le cadre progressif du Trail et l'unité d'entraînement Bosch, parfaitement intégrée, mettent en valeur l'expertise inégalée de Cannondale dans la confection de cadres en aluminium.\r\n\r\nLe Trail Neo est conçu avec des bases courtes pour l'agilité et la traction, un angle de direction détendu pour une stabilité solide, et un ensemble batterie/unité d'entraînement positionné aussi bas et au centre que possible, créant ainsi une sensation étonnamment agile et stable. Les spécifications techniques du Trail Neo font de lui un véritable VTTAE : des freins à disque hydrauliques puissants et un guidon large associé à une potence courte. Mais il est également polyvalent, avec son cadre pré-câblé, permettant l'installation d'une seconde batterie, et ses supports intelligents pour fixer des porte-bagages et des garde-boues.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/502/724502/2724502/5487364",
+  "mpn": "C61171M10LG",
+  "gtin13": "884603921128",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-182 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "C61171M10MD",
+      "sku": "2490748",
+      "gtin13": "884603921111",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2849038-vtt_electrique_semi_rigide_cannondale_trail_neo_1_shimano_deore_12v_29___kaki"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 182-190 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "C61171M10LG",
+      "sku": "2490720",
+      "gtin13": "884603921128",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2849038-vtt_electrique_semi_rigide_cannondale_trail_neo_1_shimano_deore_12v_29___kaki"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 193-203 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "C61171M10XL",
+      "sku": "2490742",
+      "gtin13": "884603921135",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2849038-vtt_electrique_semi_rigide_cannondale_trail_neo_1_shimano_deore_12v_29___kaki"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Mantis"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : SmartForm C1 Alloy, Dual Battery ready, removable downtube battery, SAVE, tapered headtube, internal cable routing, Ai offset drivetrain, 148x12mm thru-axle, post mount disc, KickFlip hidden kickstand mount, skid plate, rack/fender mounts ",
+      "fourche": "RockShox 35 Silver, 100mm, Coil, 15x110mm thru-axle, tapered steerer, 44mm offset"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, 85 Nm",
+      "batterie": "Bosch PowerTube 750Wh",
+      "écran": "Bosch Kiox 300 w/ Led Remote"
+    },
+    "direction": {
+      "jeu de direction": "Integrated Sealed Bearing, Tapered",
+      "potence": "Cannondale 2, 6061 Alloy, 35mm, 0°",
+      "cintre": "Cannondale 2 Riser, 35mm, 6061 Alloy, 15mm rise, 8° sweep, 4° rise, 780mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100 1x12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100",
+      "pédalier": "FSA Bosch G4",
+      "chaîne": "Shimano Deore M6100",
+      "cassette": "Shimano Deore M6100, 10-51 dts"
+    },
+    "équipements": {
+      "freins": "Tektro M807 4-piston hydraulic disc, 203/203mm",
+      "selle": "Fizik Freeway Fit",
+      "tige de selle": "Cannondale 4, 6061 Alloy, 31.6 x 350mm"
+    },
+    "roues": {
+      "jantes": "WTB STX i30, 32h tubeless ready, moyeux Shimano MT400/MT510, 15x110/12x148mm",
+      "pneus": "Maxxis Rekon, 29x2.6\", EXO Protection, tubeless ready"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 480,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1178,
+      "stack (mm)": 635,
+      "reach (mm)": 417
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 480,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1198,
+      "stack (mm)": 644,
+      "reach (mm)": 433
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 639,
+      "longueur base (mm)": 480,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1220,
+      "stack (mm)": 658,
+      "reach (mm)": 450
+    }
+  ]
+}

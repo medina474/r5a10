@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2260380",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-180 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Commencal Meta HT AM Ride Sram SX Eagle 12V 29/27.5'' Beige Marron Dirt",
+  "marque": "Commencal",
+  "description": "Avec le VTT semi-rigide Commencal Meta HT AM Ride, vous possédez tout ce dont vous avez besoin pour évoluer en forêt comme en ville. Sa fourche RockShox 35 Gold RL dispose de plusieurs avantages. Grâce à ses plongeurs en aluminium de 35 mm, elle se veut légère et dynamique. Ses nombreuses possibilités de réglages et son ressort pneumatique Debonair permettent d'adapter facilement et rapidement le comportement du vélo à votre morphologie, votre niveau et au profil de la sortie du jour.\r\n\r\nLes autres composants sont minutieusement sélectionnés pour correspondre à ce vélo. La transmission Sram SX Eagle 12 vitesses, vous aide à franchir les obstacles les plus difficiles en milieu urbain comme sur les trails. En descente, la fiabilité des freins Sram Level et leurs disques en 200 et 180 mm sont gages d'assurance. Les pneus Maxxis Dissector, en 2.6\" de section, assurent confort et adhérence. Leur taille leur permet également de rouler à basse pression. Rien n'est laissé au hasard, vous avez là tout ce dont vous avez besoin pour profiter du Meta HT AM de Commencal.\r\n\r\nRemarque : Le modèle Commencal Meta HT AM Ride est désormais monté d'origine avec des roues différenciées 29/27.5\" en tailles S et M, et avec des roues 29\" en tailles L et XL.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/380/260380/2260380/4342508",
+  "mpn": "22METAHTAMRIM",
+  "gtin13": "22130102",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-170 cm",
+      "stock": 1,
+      "prix": 1199.99,
+      "mpn": "22METAHTAMRIS",
+      "sku": "2185011",
+      "gtin13": "22130101",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2209462-vtt_semi_rigide_commencal_meta_ht_am_ride_sram_sx_eagle_12v_29_27_5___beige_marron_dirt"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 3,
+      "prix": 1199.99,
+      "mpn": "22METAHTAMRIM",
+      "sku": "2185006",
+      "gtin13": "22130102",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2209462-vtt_semi_rigide_commencal_meta_ht_am_ride_sram_sx_eagle_12v_29_27_5___beige_marron_dirt"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Dirt - Matte Finish"
+    }
+  ],
+  "informations": {
+    "poids": "14.2 kg (Average weight for S size, without pedals)",
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Meta HT AM 2022, Alloy 6061, triple butted (T4, T6), 148x12 mm Standard Maxle, Tire clearance: ETRTO 71-584 / 71 mm (Measured Width)",
+      "fourche": "RockShox 35 Gold RL, 150 mm travel, 29\", DebonAir, rebound, Boost (15x110 mm), 44 mm offset, 0 Token"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram SX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210, 11-50 Dents",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Sram X1 1000 Eagle, 170 mm crank arms, DUB, Boost, Sram X1 1000 Eagle, Narrow-Wide Chainring, 32 Dents",
+      "boîtier de pédalier": "Sram BSA, Threaded, 68 mm"
+    },
+    "équipements": {
+      "freins": "Sram Level, Hydr. Disc Brake, 2-pistons, Sram G2 CleanSweep 200/180 mm, 6-bolt Rotors",
+      "selle": "SDG Bel Air V3, Steel rails",
+      "tige de selle": "Ride Alpha, 31.6 mm, 400 mm (S, M), 450 mm (L, XL) length"
+    },
+    "roues": {
+      "jantes": "Jantes : E13 LG1 EN Base, 29/29\" (29/27.5\" tailles S et M), 32h, 30 mm inner width / Rayons : Sapim Leader, J-Bend 2.0 mm, stainless, with Nylok, black",
+      "moyeu avant": "Formula DC-711, 32h, sealed bearings ",
+      "moyeu arrière": "Formula DC-348A, 32h, sealed bearings",
+      "pneu avant": "Dissector, EXO, Tubeless Ready, 29x2.6\" (29",
+      "pneu arrière": "tailles S et M)"
+    },
+    "direction": {
+      "cintre": "Ride Alpha R27, 31.8 mm, 27 mm rise, Alloy 6061, 780 mm (M, L), 800 mm (XL) width / Ride Alpha R20, 31.8 mm, 20 mm rise, Alloy 6061, 760 mm width (S)",
+      "potence": "Ride Alpha Freeride, 31.8 mm, 40 mm extension",
+      "jeu de direction": "Acros ZS44/ZS56, Alloy cups, sealed bearings, Tapered 1-1/8\" / 1-1/2\"",
+      "poignées": "ODI Elite Motion, Soft pro compound, single clamp, black"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": "29 / 27.5",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 582,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1180,
+      "stack (mm)": 638,
+      "reach (mm)": 405
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": "29 / 27.5",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 604,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1202,
+      "stack (mm)": 643,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 465,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1229,
+      "stack (mm)": 647,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 655,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1232,
+      "stack (mm)": 643,
+      "reach (mm)": 475
+    }
+  ]
+}

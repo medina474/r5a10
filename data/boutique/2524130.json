@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2524130",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "name": "VTT Tout Suspendu Cannondale Habit Carbon LT 1 Sram GX Eagle 12V 29'' Blanc",
+  "marque": "Cannondale",
+  "description": "L'Habit LT est un vélo de trail progressif qui aime autant les montées que les descentes. Il est spécialement conçu pour apprivoiser le chaos. L'Habit LT est conçu pour le côté le plus sauvage des sentiers. Avec 140 mm de débattement à l'arrière et 150 mm à l'avant, une géométrie légèrement plus souple que celle de l'Habit et des pneus et composants prêts à l'emploi, il est toujours prêt à descendre. La géométrie de l'Habit est spécialement adaptée à votre taille. Grâce à notre conception Proportional Response, tout - de la configuration de la suspension à la géométrie, en passant par la longueur des bases arrière - est entièrement adapté à votre taille, afin que vous puissiez exprimer pleinement vos performances. Un design orienté vers la performance à votre taille. Avec un tube de direction incliné à 64,7° et un angle de selle plus prononcé de 77°, l'Habit LT vous permet d'adopter la position optimale pour dévaler les pentes tout en contrôlant votre vélo en toute confiance. L'accent est mis sur la simplicité et la commodité pour le cycliste, avec un boîtier de pédalier fileté, une fixation de dérailleur universelle, une fixation d'amortisseur standard, un routage interne des câbles et une ligne de chaîne standard de 55 mm pour un meilleur dégagement des pneus. Tout est conçu pour rendre le vélo plus facile à vivre et plus facile à aimer.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/130/524130/2524130/5095858",
+  "mpn": "C23152U10MD",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-175 cm",
+      "stock": 2,
+      "prix": 4599.99,
+      "mpn": "C23152U10MD",
+      "sku": "2151381",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2604793-vtt_tout_suspendu_cannondale_habit_carbon_lt_1_sram_gx_eagle_12v_29___blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 1,
+      "prix": 4599.99,
+      "mpn": "C23152U10LG",
+      "sku": "2151433",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2604793-vtt_tout_suspendu_cannondale_habit_carbon_lt_1_sram_gx_eagle_12v_29___blanc"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Habit Full Carbon, 140mm de débattement, Proportional Response Suspension and Geo, 55mm chainline, ISCG05, BSA threaded BB, post mount brake, tapered headtube, DirectLine internal cable routing, UDH hanger",
+      "fourche": "RockShox Pike Select+, 140mm, DebonAir, axe traversant 15x110mm, direction conique, déport 42mm",
+      "amortisseur": "RockShox Deluxe Select+, DebonAir, 2-Pos mode adjust, rebond réglable"
+    },
+    "levier de dérailleur": "Sram GX Eagle, 12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Sram GX Eagle Lunar, 12 vitesses",
+      "cassette": "Sram Eagle XG-1275, 10-52 dents, 12 vitesses",
+      "chaîne": "SRAM GX Eagle, 12 vitesses",
+      "pédalier": "Sram GX Eagle, DUB, 55mm CL, 30T",
+      "boîtier de pédalier": "Sram DUB BSA MTB73 Wide"
+    },
+    "équipements": {
+      "freins": "SRAM Code R disque hydraulique, 4 pistons, rotors HS2, 200/200mm",
+      "selle": "Cannondale Scoop Shallow Elite, rails cro-mo",
+      "tige de selle": "Cannondale DownLow Dropper, routage interne, 31.6, 125mm (XS-S), 150mm (M), 170mm (L-XL)"
+    },
+    "roues": {
+      "jantes": "WTB KOM Trail i30 TCS, 32h, prête pour le tubeless",
+      "moyeu avant": "ula 15x110mm axe traversant ",
+      "moyeu arrière": "ss, Star Ratchet, 12x148mm axe traversant",
+      "pneus": "(F) Maxxis Minion DHF, 29x2.5\" (27.5x2.5\" - XS), 3C, EXO+, prêt pour le tubeless, (R) Maxxis Dissector, 29x2.5\" (27.5x2.5\" - XS), 3C, EXO+, prêt pour le tubeless"
+    },
+    "direction": {
+      "cintre": "HollowGram SAVE riser bar, carbone, serrage 35mm, élévation 30mm, inclinaison 8°, élévation 5°, 780mm",
+      "poignées": "Cannondale TrailShroom"
+    },
+    "tige": "Cannondale 1, alliage 7075, 1/8\", 35mm, 0°",
+    "couleur": "Craie blanche"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 563,
+      "longueur de la base (mm)": 435,
+      "angle de braquage (°)": 64.7,
+      "angle du tube de selle (°)": 77.1,
+      "empattement (mm)": 1174,
+      "stack (mm)": 626,
+      "reach (mm)": 425
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 590,
+      "longueur de la base (mm)": 435,
+      "angle de braquage (°)": 64.7,
+      "angle du tube de selle (°)": 77.1,
+      "empattement (mm)": 1203,
+      "stack (mm)": 635,
+      "reach (mm)": 450
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 617,
+      "longueur de la base (mm)": 440,
+      "angle de braquage (°)": 64.7,
+      "angle du tube de selle (°)": 77.1,
+      "empattement (mm)": 1237,
+      "stack (mm)": 644,
+      "reach (mm)": 475
+    },
+    {
+      "taille du cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 654,
+      "longueur de la base (mm)": 445,
+      "angle de braquage (°)": 64.7,
+      "angle du tube de selle (°)": 77.1,
+      "empattement (mm)": 1281,
+      "stack (mm)": 653,
+      "reach (mm)": 510
+    }
+  ]
+}

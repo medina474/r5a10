@@ -1,0 +1,100 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2509331",
+  "tailles": [
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "name": "VTT Tout Suspendu Cannondale Jekyll 2 Shimano Deore 12V 29'' Gris / Bleu",
+  "marque": "Cannondale",
+  "description": "Même si le Jekyll peut se vanter de bénéficier d’un concentré de technologies jamais vues auparavant, ce n’est pas un frimeur. C’est un fonceur.\r\n\r\nC’est un grimpeur chevronné... mais voyons... Le Jekyll est conçu pour les descentes. Chaque élément a été conçu et fabriqué avec la vitesse comme objectif, pour vous aider à extraire le maximum de ces pistes raides, caillouteuses et enragées que vous adorez.\r\n\r\n4 barres de liaison, pivot et galet de renvoi en position haute, cinématique spécifique à chaque la taille. Pour de vrai. Si ce jargon vous laisse indifférent(e), sachez simplement que cette suspension s’accroche, flotte et permet de pédaler comme aucune autre. Le Jekyll est toujours partant pour les descentes.\r\n\r\nL’amortisseur s’intègre élégamment dans le tube diagonal à deux longerons, tout en maintenant le centre de gravité du vélo le plus bas possible. Une stabilité incroyable, des changements de direction instantanés, et un look affirmé qui fait tourner les têtes.\r\n\r\nEnfin, pas vous personnellement. Mais quelqu’un qui vous ressemble beaucoup. Grâce à notre conception Proportional Response, tout - depuis la disposition de la suspension jusqu’à la géométrie, sans oublier la longueur des bases arrière - est entièrement personnalisé par taille, pour vous permettre d’exprimer votre performance au maximum.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/331/509331/2509331/4929244",
+  "mpn": "C21202U40MD",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-175 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "C21202U40MD",
+      "sku": "2644969",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2575609-vtt_tout_suspendu_cannondale_jekyll_2_shimano_deore_12v_29___gris___bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "C21202U40LG",
+      "sku": "2644994",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2575609-vtt_tout_suspendu_cannondale_jekyll_2_shimano_deore_12v_29___gris___bleu"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 165,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 569,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1193,
+      "stack (mm)": 625,
+      "reach (mm)": 425,
+      "débattement tige de selle(mm)": 130
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1227,
+      "stack (mm)": 634,
+      "reach (mm)": 450,
+      "débattement tige de selle(mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 623,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1264,
+      "stack (mm)": 643,
+      "reach (mm)": 475,
+      "débattement tige de selle(mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1311,
+      "stack (mm)": 652,
+      "reach (mm)": 510,
+      "débattement tige de selle(mm)": 150
+    }
+  ]
+}

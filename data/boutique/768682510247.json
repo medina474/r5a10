@@ -1,0 +1,174 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2562296",
+  "tailles": [
+    "52 cm / 163-168 cm",
+    "54 cm / 168-174 cm",
+    "56 cm / 174-180 cm",
+    "58 cm / 180-185 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Trek Checkpoint ALR 5 Sram Apex eTap AXS 12V 700 mm Blanc",
+  "marque": "Trek",
+  "description": "Le Checkpoint ALR 5 AXS est un vélo de gravel en alliage d’aluminium d’un excellent rapport qualité/prix. Il est doté d’une transmission électronique et de composants de qualité pour vous permettre de franchir de longues distances sur les surfaces les plus diverses, depuis du gros gravier jusqu’à l’asphalte lisse. Une multitude de caractéristiques comme la géométrie progressive, mais stable, la quantité de fixation pour des aventures de bikepacking épiques, sans oublier une transmission Sram Apex AXS 1x12 vitesses, vous permet facilement de personnaliser ce vélo pour n’importe quelle aventure.\r\n\r\nVous adorez les sorties de gravel épiques qui se terminent avec un grand verre et un burrito. Cela ne veut toutefois pas dire que vous êtes prêt à compromettre les performances. Vous voulez investir les euros gagnés à la sueur de votre front dans un vélo de qualité, polyvalent, durable avec lequel vous pourrez prendre un maximum de plaisir.\r\n\r\nUn cadre aluminium Alpha Série 300 costaud avec une géométrie progressive qui offre stabilité quand vous roulez vite et efficacité quand vous progressez dans une côte, des câbles masqués qui ne gêneront pas les sacoches, des fixations de porte-bagages et de garde-boue et des fixations intégrées pour sacoche de cadre, une transmission électronique Sram Apex AXS 1x12 pour dompter les côtes ou les surfaces difficiles, des freins à disque hydrauliques pour une puissance de freinage garantie par tous les temps, des jantes tubeless ready et des pneus gravel larges 700x40C pour un supplément de stabilité et d’accroche.\r\n\r\nLe Checkpoint ALR 5 AXS est le vélo qu’il vous faut si vous souhaitez profiter d’une transmission électronique avec des composants de qualité, d’un cadre en alliage d’aluminium solide et d’une multitude de caractéristiques comme le dégagement de pneus supérieur et des options de personnalisation qui vous permettront de vous lancer dans des aventures plus ambitieuses et plus passionnantes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/296/562296/2562296/5168353",
+  "mpn": "5307807",
+  "gtin13": "768682510247",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "52 cm / 163-168 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "5307804",
+      "sku": "2558939",
+      "gtin13": "768682510162",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2678057-gravel_bike_trek_checkpoint_alr_5_sram_apex_etap_axs_12v_700_mm_blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 168-174 cm",
+      "stock": 51,
+      "prix": 3199,
+      "mpn": "5307805",
+      "sku": "2558903",
+      "gtin13": "768682510308",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2678057-gravel_bike_trek_checkpoint_alr_5_sram_apex_etap_axs_12v_700_mm_blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 174-180 cm",
+      "stock": 51,
+      "prix": 3199,
+      "mpn": "5307806",
+      "sku": "2558942",
+      "gtin13": "768682510063",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2678057-gravel_bike_trek_checkpoint_alr_5_sram_apex_etap_axs_12v_700_mm_blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "58 cm / 180-185 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "5307807",
+      "sku": "2558835",
+      "gtin13": "768682510247",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2678057-gravel_bike_trek_checkpoint_alr_5_sram_apex_etap_axs_12v_700_mm_blanc"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Crystal White"
+    }
+  ],
+  "informations": {
+    "poids": "56 - 9,75 kg / 21,5 lbs (avec produit d’étanchéité TLR, sans chambres à air)",
+    "poids constructeur (en g)": 9750,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 300 Series Alpha Aluminum, tapered head tube, Internal cable routing, 3S chain keeper, T47 BB, rack and fender mounts, integrated frame bag mounts, flat mount disc, 142x12mm thru axle",
+      "fourche": "Carbone : Checkpoint, full carbon, tapered carbon steerer, rack mounts, fender mounts, flat mount disc, 12x100mm thru axle"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex AXS, 12 vitesses",
+      "dérailleur arrière": "Sram Apex XPLR eTap AXS, pignon de 44 dents max",
+      "cassette": "Sram PG-1230, 11-44 dents, 12 vitesses",
+      "chaîne": "Sram Apex, 12 vitesses",
+      "pédalier": "Taille 49 : Sram Apex 1, 40 dents, axe DUB Wide, longueur de 165 mm Taille 52 : Sram Apex 1, 40 dents, axe DUB Wide, longueur de 170 mm Taille 54, 56 : Sram Apex 1, 40 dents, axe DUB Wide, longueur de 172,5 mm Taille 58, 61 : Sram Apex 1, 40 dents, axe DUB Wide, longueur de 175 mm",
+      "boîtier de pédalier": "Sram DUB, T47 fileté, roulement interne"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Sram Apex, fixation Flat-Mount, disques Sram Paceline, arrondi, centerlock, 160/160 mm",
+      "selle": "Taille 49, 52 : Bontrager Verse Comp, rails en acier, largeur de 155 mm Taille 54, 56, 58, 61 : Bontrager Verse Comp, rails en acier, largeur de 145 mm",
+      "tige de selle": "Easton EA70 AX, 27,2 mm, déport 0 mm, débattement 50 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Paradigm, Tubeless Ready, 24 trous, largeur de 21 mm, valve Presta",
+      "pneus": "Bontrager GR1 Team Issue, Tubeless Ready, Inner Strength Casing, tringle en aramide, 120 tpi, 700x40C"
+    },
+    "direction": {
+      "cintre": "Taille 49 : Bontrager Elite Gravel, largeur de 38 cm Taille 52 : Bontrager Elite Gravel, largeur de 40 cm Taille 54, 56 : Bontrager Elite Gravel, largeur de 42 cm Taille 58, 61 : Bontrager Elite Gravel, largeur de 44 cm",
+      "potence": "Taille 49 : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 70 mm Taille 52, 54 : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 80 mm Taille 56, 58 : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 90 mm Taille 61 : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 100 mm"
+    },
+    "ruban de cintre": "Bontrager Supertack Perf"
+  },
+  "geometries": [
+    {
+      "taille cadre": 49,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 541,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 74.1,
+      "empattement (mm)": 1025,
+      "stack (mm)": 538,
+      "reach (mm)": 393
+    },
+    {
+      "taille cadre": 52,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 71.6,
+      "angle tube de selle (°)": 73.7,
+      "empattement (mm)": 1033,
+      "stack (mm)": 553,
+      "reach (mm)": 399
+    },
+    {
+      "taille cadre": 54,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71.8,
+      "angle tube de selle (°)": 73.2,
+      "empattement (mm)": 1041,
+      "stack (mm)": 571,
+      "reach (mm)": 403
+    },
+    {
+      "taille cadre": 56,
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 72.2,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1048,
+      "stack (mm)": 592,
+      "reach (mm)": 407
+    },
+    {
+      "taille cadre": 58,
+      "tube de selle (mm)": 580,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 165,
+      "angle de direction (°)": 72.3,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1058,
+      "stack (mm)": 609,
+      "reach (mm)": 411
+    },
+    {
+      "taille cadre": 61,
+      "tube de selle (mm)": 610,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 195,
+      "angle de direction (°)": 72.6,
+      "angle tube de selle (°)": 72.1,
+      "empattement (mm)": 1070,
+      "stack (mm)": 639,
+      "reach (mm)": 417
+    }
+  ]
+}

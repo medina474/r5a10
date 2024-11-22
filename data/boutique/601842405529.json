@@ -1,0 +1,111 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "1641679",
+  "tailles": [
+    "XS / 137-155 cm",
+    "S / 153-166.5 cm",
+    "M / 161-172 cm",
+    "M-L / 165-179 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm",
+    "XXL / 195-203 cm"
+  ],
+  "name": "VTT Semi Rigide Trek Roscoe 6 27.5+ Shimano Deore 10V Lithium Grey/Cobra Blood 2023",
+  "marque": "Trek",
+  "description": "Le Roscoe 6 est le vélo idéal pour les cyclistes qui découvrent la pratique du VTT et qui veulent s’amuser sur le trail. Il est doté de pneus au format « + » qui inspirent confiance grâce à la stabilité accrue, d’une fourche télescopique qui absorbe les grosses bosses et les racines, d’une transmission monoplateau simple à utiliser et d’une géométrie de cadre ludique qui simplifie la maîtrise du vélo sur les trails techniques et les singletracks sinueux.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/679/641679/1641679/2994781",
+  "mpn": "1047572",
+  "gtin13": "601842405529",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XXL / 195-203 cm",
+      "stock": 51,
+      "prix": 999,
+      "mpn": "1047572",
+      "sku": "1684269",
+      "gtin13": "601842405529",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1528583-vtt_semi_rigide_trek_roscoe_6_27_5__shimano_deore_10v_lithium_grey_cobra_blood_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M5120 10/11V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle": 343,
+      "tube supérieur": 558,
+      "longueur base": 438,
+      "douille de direction": 90,
+      "angle de direction": "67.1°",
+      "angle tube de selle": "73.0°",
+      "empattement": 1059
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle": 368,
+      "tube supérieur": 574,
+      "longueur base": 438,
+      "douille de direction": 90,
+      "angle de direction": "67.2°",
+      "angle tube de selle": "71.0°",
+      "empattement": 1081
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle": 419,
+      "tube supérieur": 609,
+      "longueur base": 438,
+      "douille de direction": 90,
+      "angle de direction": "67.2°",
+      "angle tube de selle": "71.0°",
+      "empattement": 1110
+    },
+    {
+      "taille cadre": "M/L",
+      "tube de selle": 444,
+      "tube supérieur": 609,
+      "longueur base": 438,
+      "douille de direction": 90,
+      "angle de direction": "67.3°",
+      "angle tube de selle": "71.0°",
+      "empattement": 1126
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle": 470,
+      "tube supérieur": 645,
+      "longueur base": 573,
+      "douille de direction": 120,
+      "angle de direction": "67.3°",
+      "angle tube de selle": "68.3°",
+      "empattement": 1146
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle": 521,
+      "tube supérieur": 666,
+      "longueur base": 602,
+      "douille de direction": 120,
+      "angle de direction": "67.4°",
+      "angle tube de selle": "68.3°",
+      "empattement": 1168
+    },
+    {
+      "taille cadre": "XXL",
+      "tube de selle": 559,
+      "tube supérieur": 680,
+      "longueur base": 618,
+      "douille de direction": 120,
+      "angle de direction": "67.4°",
+      "angle tube de selle": "68.3°",
+      "empattement": 1182
+    }
+  ]
+}

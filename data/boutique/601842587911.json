@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2273700",
+  "tailles": [
+    "S / 153-166.5 cm",
+    "M / 161-172 cm",
+    "M-L / 165.5-179 cm",
+    "L / 177-188 cm",
+    "XL / 186-196 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Roscoe 7 Shimano Deore 12V 29'' Vert Miami / Noir 2023",
+  "marque": "Trek",
+  "description": "Le Roscoe 7 est le semi-rigide des cyclistes qui veulent se démarquer et s’éclater sur les trails. La fourche télescopique moelleuse de 140 mm, les roues de 29 pouces et la transmission à large plage de rapports en font un excellent vélo pour les débutants, mais sa nature ludique donnera aussi le sourire aux cyclistes plus expérimentés.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/700/273700/2273700/4255907",
+  "mpn": "5260366",
+  "gtin13": "601842587911",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 153-166.5 cm",
+      "stock": 51,
+      "prix": 1299,
+      "mpn": "5260364",
+      "sku": "2110565",
+      "gtin13": "601842587935",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2254596-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_29___vert_miami___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-172 cm",
+      "stock": 51,
+      "prix": 1299,
+      "mpn": "5260365",
+      "sku": "2110508",
+      "gtin13": "601842587928",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2254596-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_29___vert_miami___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 165.5-179 cm",
+      "stock": 51,
+      "prix": 1299,
+      "mpn": "5260366",
+      "sku": "2110535",
+      "gtin13": "601842587911",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2254596-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_29___vert_miami___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 51,
+      "prix": 1299,
+      "mpn": "5260367",
+      "sku": "2110602",
+      "gtin13": "601842587904",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2254596-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_29___vert_miami___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 186-196 cm",
+      "stock": 51,
+      "prix": 1299,
+      "mpn": "5260368",
+      "sku": "2110543",
+      "gtin13": "601842587898",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2254596-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_29___vert_miami___noir_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {}
+}

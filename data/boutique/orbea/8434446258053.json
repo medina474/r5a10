@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2499914",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": "Orbea Keram 10 Shimano Deore 10V 500 Wh 29'' Vert Metallic Dark 2023",
+  "marque": "Orbea",
+  "description": "Parmi les caractéristiques de l'Orbea Keram, on trouve une géométrie conçue pour davantage de confort que les vélos de style sportif. La position plus relevée favorise la visibilité et offre un meilleur contrôle, contribuant à une sensation de sécurité sur le vélo. Les cyclistes de tout âge ou de tout niveau d'expérience découvriront rapidement que le Keram est un vélo amusant et facile à piloter. L'intégration avancée du moteur et de l'électronique du vélo apporte plus de liberté et d'autonomie pour le pilote.\r\n\r\nIndépendamment de sa taille, le Keram est un vélo fiable et facile à manier grâce au sloping marqué de son tube horizontal, et ce, sans compromettre son rendement. L’éventail d’utilisateurs du Keram étant très vaste, le concept d’adaptation du cadre solutionne ce problème courant. Il offre une apparence élégante et un système électrique bien protégé. De la batterie intégrée dans le cadre jusqu’au guidage des câbles dans la base, le Keram offre une intégration unique du moteur et de tous les composants périphériques, grâce au design spécifique des caches du nouveau cadre.\r\n\r\nLa batterie intégrée se loge parfaitement dans les formes du cadre pour une protection optimale et un aspect élégant. Il est doté d'un accès sans outils à la batterie et son port de charge ainsi qu'une fermeture Abus Plus protégée et scellée. Non seulement le Keram doublera vos performances lors de vos sorties grâce à son système de batterie dual (vendu séparément), mais il permet d’installer en plus un porte-bidon ou un support pour antivol en un instant, grâce à la solution « double duty » d'Orbea.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/914/499914/2499914/4902577",
+  "mpn": "N33716XJ",
+  "gtin13": "8434446258053",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 2299.99,
+      "mpn": "N33716XJ",
+      "sku": "2398765",
+      "gtin13": "8434446258053",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2566264-vtt_electrique_semi_rigide_orbea_keram_10_shimano_deore_10v_500_wh_29___vert_metallic_dark_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "XJ - Metallic Dark Green (Gloss) - Lichen Green (Matte)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Keram 2019, Hydroformed Alloy 6061, Hide out battery technology, bottle cage and dual battery compatible and hidden kickstand compatible",
+      "fourche": "SR Suntour X1 Coil LO QR, 100 mm travel"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance CX Cruise BDU450CX",
+      "batterie": "Bosch Performance 500 Wh",
+      "écran": "Bosch Performance Purion"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M4100, 1x10-vitesses",
+      "dérailleur arrière": "Shimano Deore M5120, SGS, ShadowPlus, 10-vitesses",
+      "cassette": "Shimano Deore CS-M4100, 11-46 Dents",
+      "chaîne": "KMC e10 Turbo",
+      "pédalier": "PW EB04-NW32 G4"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT200, Hydr. Disc Brake",
+      "selle": "Selle Royal 2077 DRN",
+      "tige de selle": "Alloy, 31.6mm, Setback 0 mm"
+    },
+    "roues": {
+      "jantes": "Alloy, Tubeless, 29c, 32H, 29\"",
+      "pneus": "Kenda K1153, 30 TPI, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "Alloy, 31.8 mm, Flat, 740 mm, Sweep 9°",
+      "potence": "Alloy, 7º"
+    },
+    "référence": "N337"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 538,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1112,
+      "stack (mm)": 600,
+      "reach (mm)": 355
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 569,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 114,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1149,
+      "stack (mm)": 636,
+      "reach (mm)": 375
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 457,
+      "tube supérieur (mm)": 603,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 133,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1173,
+      "stack (mm)": 659,
+      "reach (mm)": 402
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 515,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 158,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1210,
+      "stack (mm)": 752,
+      "reach (mm)": 430
+    }
+  ]
+}

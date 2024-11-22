@@ -1,0 +1,104 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2504852",
+  "tailles": [
+    "44 cm / 157-173 cm"
+  ],
+  "name": "VTT Corratec X Vert 29 Pro Team Shimano Deore XT/SLX 12V Noir I Cuivre 2022",
+  "marque": "Corratec",
+  "description": "Le vélo Corratec X Vert 29 Pro Team. Le cadre, anneau en aluminium triple épaisseur, est léger et très résistant à la déformation. L'optique attrayante confère à la lampe un caractère exceptionnel. Notre point fort parmi les modèles hardtail corratec d'entrée de gamme. Le cadre, en aluminium de haute qualité avec des triples arrêts, impressionne par sa légèreté et ses valeurs de rigidité élevées. L'aspect attrayant confère au vélo un caractère exclusif.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/852/504852/2504852/4925021",
+  "mpn": "BK28020-44COLO1",
+  "gtin13": "4043184540012",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "44 cm / 157-173 cm",
+      "stock": 1,
+      "prix": 799.99,
+      "mpn": "BK28020-44COLO1",
+      "sku": "2504655",
+      "gtin13": "4043184540012",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2573296-vtt_corratec_x_vert_29_pro_team_shimano_deore_xt_slx_12v_noir_i_cuivre_2022"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Acier",
+    "groupe": "Shimano Deore SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Alliage : Corratec X Vert Pro Team Alloy",
+      "fourche": "Rockshox Recon Silver MXL Stealth Boost, débattement : 100 mm, matériau : Alliage"
+    },
+    "levier de dérailleur": "Shimano Deore SLX, 12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Shimano Deore XT 12S",
+      "cassette": "SRAM CS PG1230 11-50T",
+      "pédalier": "Shimano Deore SLX, 32T"
+    },
+    "équipements": {
+      "freins": "SRAM Level T, 180 mm avant / 160 mm arrière",
+      "selle": "Selle Italia X-Base",
+      "tige de selle": "Tige de selle en alliage ZZYZX SL, 27.2 mm"
+    },
+    "roues": {
+      "jantes": "ZZYZX Cross Attack 29''",
+      "pneus": "Michelin Force 29"
+    },
+    "direction": {
+      "cintre": "ZZYZX SL Alloy Handlebar 760mm",
+      "jeu de direction": "FSA Integrated Sealed Cartridge Bearing 1.125 '' Top, 1.5 '' Bottom"
+    },
+    "tige": "ZZYZX SL Alloy Stem Alloy"
+  },
+  "geometries": [
+    {
+      "taille du cadre": 39,
+      "tube de selle": 393,
+      "longueur de la base": 432,
+      "tube de tête": 91,
+      "angle de direction": "67°",
+      "angle du tube de selle": "74°",
+      "empattement": 1119,
+      "stack": 611,
+      "reach": 405
+    },
+    {
+      "taille du cadre": 44,
+      "tube de selle": 419,
+      "longueur de la base": 432,
+      "tube de tête": 99,
+      "angle de direction": "67°",
+      "angle du tube de selle": "74°",
+      "empattement": 1142,
+      "stack": 619,
+      "reach": 425
+    },
+    {
+      "taille du cadre": 49,
+      "tube de selle": 444,
+      "longueur de la base": 432,
+      "tube de tête": 110,
+      "angle de direction": "67°",
+      "angle du tube de selle": "74°",
+      "empattement": 1171,
+      "stack": 629,
+      "reach": 450
+    },
+    {
+      "taille du cadre": 54,
+      "tube de selle": 470,
+      "longueur de la base": 432,
+      "tube de tête": 121,
+      "angle de direction": "67°",
+      "angle du tube de selle": "74°",
+      "empattement": 1197,
+      "stack": 639,
+      "reach": 472
+    }
+  ]
+}

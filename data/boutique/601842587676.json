@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2287511",
+  "tailles": [
+    "XS / 145-155 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Roscoe 9 Shimano SLX XT 12V 27.5'' Rouge 2023",
+  "marque": "Trek",
+  "description": "Le Roscoe 9 est un VTT en alliage semi-rigide performant, conçu pour enchaîner les tours et s’amuser à fond. Une fourche FOX Rhythm 36 de 140 mm de débattement, de puissants freins à 4 pistons et une combinaison de roues et de pneus rapides et mordants vous donnent des capacités incroyables, que vous enchaîniez les sauts ou négociez la traversée d’un rock garden.\r\nLe ressort pneumatique de la fourche de FOX se règle facilement en fonction du poids du pilote. Et elle est plus légère qu’une suspension à ressort hélicoïdal.\r\nGrâce à la tige de selle télescopique, vous pouvez abaisser la selle en cours de route afin de pouvoir adopter sans problème votre position d’attaque dans les descentes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/511/287511/2287511/4280728",
+  "mpn": "5260387",
+  "gtin13": "601842587676",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XS / 145-155 cm",
+      "stock": 51,
+      "prix": 1999,
+      "mpn": "5260387",
+      "sku": "2110498",
+      "gtin13": "601842587676",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2291189-vtt_semi_rigide_trek_roscoe_9_shimano_slx_xt_12v_27_5___rouge_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {}
+}

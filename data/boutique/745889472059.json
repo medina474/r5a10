@@ -1,0 +1,164 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2585147",
+  "tailles": [
+    "M / 165-175 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Marlin 6 Shimano Cues 10V 29'' Rouge Lave Gén 3",
+  "marque": "Trek",
+  "description": "Le Marlin 6 est idéal pour améliorer vos performances sur le trail. Son cadre plus ouvert permet un meilleur contrôle dans les descentes, et la fourche télescopique améliorée amortit les bosses sur les sentiers. Des fixations intégrées pour porte-bagages arrière et béquille permettent d'installer facilement des accessoires sur ce vélo polyvalent.\r\n\r\nVous cherchez un vélo de trail conçu pour offrir plus de confiance sur les sentiers et de polyvalence lors de vos trajets quotidiens.\r\n\r\nUn cadre léger en aluminium doté d'une géométrie moderne adaptée au trail et d’un acheminement interne des câbles afin de les protéger et de conserver l’élégance du vélo. Une fourche télescopique avant RockShox Judy de 100 mm qui amortit l’impact contre les pierres, les racines et les bosses sur les sentiers, une transmission fluide à 10 vitesses Shimano CUES et la puissante force de freinage de freins à disque hydrauliques.\r\n\r\nLe Marlin 6 est un vélo de trail idéal pour ceux qui veulent progresser sur la terre, avec un vélo qui pourra aussi les accompagner ailleurs.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/147/585147/2585147/5221654",
+  "mpn": "5294000",
+  "gtin13": "745889472059",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 50,
+      "prix": 899,
+      "mpn": "5294000",
+      "sku": "2558811",
+      "gtin13": "745889472059",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2709599-vtt_semi_rigide_trek_marlin_6_shimano_cues_10v_29___rouge_lave_gen_3"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Lava"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.50,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Cues 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Silver, acheminement interne des câbles du dérailleur arrière et de la tige de selle télescopique, fixations de porte-bagages et béquille, ThruSkew 135x5 mm",
+      "fourche": "RockShox Judy, ressort hélicoïdal, précontrainte, blocage TurnKey, déport de 46 mm sur roue de 29 pouces, QR 100 mm, débattement de 100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano U6000, 10 vitesses",
+      "dérailleur arrière": "Shimano CUES U6000 GS, 10 vitesses",
+      "cassette": "Shimano CUES LG300, LINKGLIDE, 11-48 dents, 10 vitesses",
+      "chaîne": "Shimano LG500, 10 vitesses",
+      "pédalier": "Taille XXS, XS : FSA Alpha Drive, 30 dts, longueur de 160 mm Taille S, M, ML : FSA Alpha Drive, 30 dts, longueur de 170 mm Taille L, XL, XXL : FSA Alpha Drive, 30 dts, longueur de 175 mm",
+      "boîtier de pédalier": "FSA, 73 mm, cartouche filetée, axe 122,5 mm"
+    },
+    "équipements": {
+      "freins": "Tektro HD-M275 hydrauliques, disque 6 trous de 160/160 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille XS, S, M : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 330 mm Taille ML, L, XL, XXL : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 400 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Kovee, double paroi, Tubeless Ready, 28 trous, largeur de 23 mm, valve Presta",
+      "moyeux": "Avant : Formula DC-20, alliage, 6 trous, ThruSkew 100 mm / Arrière : Formula DC-22, alliage, 6 trous, corps de roue libre Shimano 8/9/10, QR 135x5 mm",
+      "pneus": "Maxxis Ardent Race, tubeless, carcasse EXO, tringle souple, 60 tpi, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "Taille XXS, XS : Alliage Bontrager, 31,8 mm, élévation 5 mm, largeur de 690 mm Taille S : Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 720 mm Taille M, ML, L, XL, XXL : Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 750 mm",
+      "potence": "Taille XXS, XS, S : Bontrager alliage, 31,8 mm, compatible Blendr, 7 degrés, longueur de 35mm Taille M, ML, L : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 50 mm Taille XL : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 60 mm Taille XXL : Bontrager Comp, 31,8 mm, compatible Blendr, 7 degrés, longueur 70 mm",
+      "jeu de direction": "Semi-intégré, 1,125 pouce"
+    },
+    "grips": "Bontrager XR Trail Comp, nylon lock-on"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 340,
+      "tube supérieur (mm)": 551,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1092,
+      "stack (mm)": 563,
+      "reach (mm)": 390
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1121,
+      "stack (mm)": 572,
+      "reach (mm)": 415
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 615,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1163,
+      "stack (mm)": 609,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "M/L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 631,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1180,
+      "stack (mm)": 614,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1197,
+      "stack (mm)": 618,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 678,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1230,
+      "stack (mm)": 637,
+      "reach (mm)": 495
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 707,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1261,
+      "stack (mm)": 651,
+      "reach (mm)": 520
+    }
+  ]
+}

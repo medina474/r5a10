@@ -1,0 +1,103 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2584740",
+  "tailles": [
+    "S / 158-168 cm",
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Sunn Prim S1 Shimano Deore/SLX 12V 29'' Rouge",
+  "marque": "Sunn",
+  "description": "Le Prim est notre VTT semi-rigide carbone éprouvé en compétition XCO. Il est à la fois rigide, explosif, efficient.\r\nLes singletracks et les circuits modernes de cross-country sont ses terrains de jeu préférés.\r\nAvec sa transmission monoplateau 12 vitesses, les enchainements, montées raides et descentes techniques seront un jeu d’enfant.À vous de jouer !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/740/584740/2584740/5221033",
+  "mpn": "YCSUMA4001",
+  "gtin13": "3032651892687",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-168 cm",
+      "stock": 1,
+      "prix": 1590,
+      "mpn": "YCSUMA4001",
+      "sku": "2175602",
+      "gtin13": "3032651892687",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2708699-vtt_semi_rigide_sunn_prim_s1_shimano_deore_slx_12v_29___rouge"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 11.17,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Prim 29 Carbon T800 Hm, Tapered Boost, Pf92, Thru Axle",
+      "fourche": "Rockshox Reba RL, Solo Air, Remote Ta, Boost 100mm"
+    },
+    "manettes de dérailleur ": "Shimano Deore M6100, 1x12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Shimano SLX M7100, 12 vitesses",
+      "cassette": "Shimano M600, 10-51 Dents",
+      "pédalier": "Shimano MT511-1, 32 Dents, Boost"
+    },
+    "équipements": {
+      "freins": "Shimano MT410, Hydr. Disc Brakes 180/160 mm",
+      "selle": "Sunn by DDK",
+      "tige de selle": "VR 27.2x400 mm"
+    },
+    "roues": {
+      "jantes": "Mach1 Cross R23 Disc 21C 32T, Boost, 6T",
+      "pneu avant": "Rekon Race 29x2,25\" ",
+      "pneu arrière": "on 29x2,2\" "
+    },
+    "cintre": "VR 6061 740 mm",
+    "direction": {
+      "potence": "45mm, 0°, 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1094,
+      "stack (mm)": 612,
+      "reach (mm)": 417
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1125,
+      "stack (mm)": 622,
+      "reach (mm)": 445
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1157,
+      "stack (mm)": 632,
+      "reach (mm)": 472
+    }
+  ]
+}

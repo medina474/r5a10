@@ -1,0 +1,145 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2398969",
+  "tailles": [
+    "46 cm / 152-162 cm",
+    "51 cm / 165-175 cm",
+    "54 cm / 170-180 cm",
+    "56 cm / 177-185 cm",
+    "58 cm / 182-193 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cannondale SuperSix Evo SE 2 Shimano GRX 810/600 11V 700 mm Vert Olive",
+  "marque": "Cannondale",
+  "description": "Un vélo de compétition évolué, prêt à affronter les terrains herbeux, les ornières, la boue et les sentiers.\r\n\r\nLes profils de tubes aérodynamiques sont synonymes de plus de vitesse pour moins d’efforts, et de minutes gagnées sur les longs parcours. Allez plus vite, plus loin - De Flint Hills aux parcours Vermont Classe IV.\r\n\r\nLes bases arrière courtes apportent plus d’adhérence et plus d’accélération dans les montées sur terrain instable. La géométrie de direction OutFront vous permet de garder le contrôle même dans les descentes les plus vicieuses.\r\n\r\nL’énorme dégagement vous permet de monter des pneus jusqu’à 45 mm de large, pour bénéficier d’une meilleure traction, d’un supplément de confort et d’une résistance accrue aux crevaisons.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/969/398969/2398969/4584699",
+  "mpn": "C17272U1056",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 170-180 cm",
+      "stock": 1,
+      "prix": 2199.99,
+      "mpn": "C17272U1054",
+      "sku": "2151415",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2446400-gravel_bike_cannondale_supersix_evo_se_2_shimano_grx_810_600_11v_700_mm_vert_olive"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 177-185 cm",
+      "stock": 9,
+      "prix": 2199.99,
+      "mpn": "C17272U1056",
+      "sku": "2151514",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2446400-gravel_bike_cannondale_supersix_evo_se_2_shimano_grx_810_600_11v_700_mm_vert_olive"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Olive Green"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Force 1 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SuperSix EVO CX Carbon, internal cable routing w/ Switchplate, 12x142mm Speed Release thru-axle, PF30-83 Ai, flat mount disc, integrated seatpost binder",
+      "fourche": "Carbone : SuperSix EVO CX Carbon, integrated crown race, 12x100mm Speed Release thru-axle, flat mount disc, internal routing, 1-1/8\" to 1-1/2\", 55mm offset"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX 600, 2x11-vitesses",
+      "dérailleur arrière": "Shimano GRX 810, Shadow RD+, 11-vitesses",
+      "cassette": "Shimano 105, 11-34 Dents",
+      "chaîne": "Shimano HG601",
+      "pédalier": "Cannondale 1, PF83a w/ SpideRing, 46/30 Dents",
+      "boîtier de pédalier": "Cannondale Alloy PressFit30"
+    },
+    "dérailleur avant": "Shimano GRX 810, braze-on",
+    "équipements": {
+      "freins": "Shimano GRX 600 hydraulic disc, 160/160mm RT70 rotors",
+      "selle": "Prologo Dimension AGX, STN",
+      "tige de selle": "HollowGram 27 SL KNØT, Carbon, 2 bolt clamp, 330mm, 0mm offset (46cm), 15mm offset (51-58cm)"
+    },
+    "roues": {
+      "jantes": "DT Swiss G540 db, 28h, tubeless ready",
+      "moyeu avant": "Formula CL-712, 12x100mm centerlock ",
+      "moyeu arrière": "Formula RXC-400, 12x142mm centerlock",
+      "pneus": "Vittoria Terreno Dry TNT, 700 x 40c, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Cannondale 2, 6061 Alloy, Compact",
+      "jeu de direction": "Integrated, 1-1/8\" - 1-1/2\"",
+      "potence": "Cannondale 2, 6061 Alloy, 31.8, 7°"
+    },
+    "ruban de cintre": "Cannondale Bar Tape, 3.5mm"
+  },
+  "geometries": [
+    {
+      "taille de cadre (cm)": 46,
+      "tube de selle (mm)": 449,
+      "tube supérieur (mm)": 507,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 93,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 73.9,
+      "empattement (mm)": 1002,
+      "stack (mm)": 515,
+      "reach (mm)": 365
+    },
+    {
+      "taille de cadre (cm)": 51,
+      "tube de selle (mm)": 488,
+      "tube supérieur (mm)": 524,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1005,
+      "stack (mm)": 535,
+      "reach (mm)": 371
+    },
+    {
+      "taille de cadre (cm)": 54,
+      "tube de selle (mm)": 524,
+      "tube supérieur (mm)": 537,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 132,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1020,
+      "stack (mm)": 555,
+      "reach (mm)": 378
+    },
+    {
+      "taille de cadre (cm)": 56,
+      "tube de selle (mm)": 546,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 153,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 72.7,
+      "empattement (mm)": 1034,
+      "stack (mm)": 575,
+      "reach (mm)": 385
+    },
+    {
+      "taille de cadre (cm)": 58,
+      "tube de selle (mm)": 566,
+      "tube supérieur (mm)": 568,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 175,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 72.7,
+      "empattement (mm)": 1048,
+      "stack (mm)": 595,
+      "reach (mm)": 392
+    }
+  ]
+}

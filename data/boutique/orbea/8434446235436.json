@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2504693",
+  "tailles": [
+    "M / 165-180 cm",
+    "L / 175-190 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": "Orbea Urrun 30 Shimano Deore 10V 540 Wh 29'' Gris Anthracite / Noir 2023",
+  "marque": "Orbea",
+  "description": "« Urrun » signifie « loin » en basque. L’Urrun est sans aucun doute un vélo électrique destiné à vous emmener loin et explorer de nouveaux horizons, mais son nom a une signification toute particulière pour nous. « Urrun » évoque le long voyage que nous avons entrepris avec ce vélo et tout le chemin que nous avons parcouru. Avec ses nouvelles technologies et ses intégrations innovantes, nous sommes fiers de compter l’Urrun dans la famille. Évadez-vous, lancez-vous dans de plus grandes aventures, visez plus loin et explorez plus : il n'y a plus d'excuses.\r\n\r\nL'Urrun est prêt pour la vie, la famille et l'aventure. Notre concept RS, développé en premier lieu pour le Rise, sublime votre expérience du vélo grâce à une assistance discrète qui semble aussi naturelle et vivante que votre propre corps. Avec son moteur EP8 RS léger, une fourche de 120 mm et des composants VTT dédiés, l'Urrun est prêt à explorer les lointains horizons.\r\n\r\nL'aluminium nouvelle génération se traduit par des cadres hydroformés, des tubes aboutés et des soudures polies. Si l’esthétique de l'aluminium est très beau et s’apparente à celle d’un cadre en carbone, les avantages en termes de performance et de résistance à la fatigue sont encore plus importants. Nous avons tellement confiance en nos cadres que tous sont garantis à vie.\r\n\r\nL’Urrun intègre de nombreuses technologies de pointe qui visent à simplifier le design et supprimer tout poids superflu. Aussi agréable à regarder qu'à piloter, l'Urrun ressemble à peine à un vélo électrique.\r\n\r\nL’Urrun est pensé pour les longues sorties et les grandes aventures. Sa batterie hautement optimisée offre une densité d'énergie de pointe, permettant de condenser plus d’autonomie dans moins d’espace tout en soignant l'esthétique et en réduisant le poids. L’Urrun offre suffisamment d'assistance pour environ 3500 m de dénivelé ou jusqu'à 8 heures de pédalage.\r\n\r\nL’Urrun intègre le même moteur EP8 RS que le Rise, développé en partenariat avec Shimano pour d’offrir une expérience du vélo la plus naturelle possible. Léger, silencieux, réactif et avant tout efficace, l’Urrun vous paraîtra aussi naturel et vivant que les mouvements de votre propre corps.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/693/504693/2504693/4923492",
+  "mpn": "N34018VJ",
+  "gtin13": "8434446235436",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-180 cm",
+      "stock": 1,
+      "prix": 2760.99,
+      "mpn": "N34018VJ",
+      "sku": "2398791",
+      "gtin13": "8434446235436",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2572499-vtt_electrique_semi_rigide_orbea_urrun_30_shimano_deore_10v_540_wh_29___gris_anthracite___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-190 cm",
+      "stock": 10,
+      "prix": 3369.07,
+      "mpn": "N34019VJ",
+      "sku": "2398683",
+      "gtin13": "8434446235467",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2572499-vtt_electrique_semi_rigide_orbea_urrun_30_shimano_deore_10v_540_wh_29___gris_anthracite___noir_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "VJ - Glitter Anthracite (Gloss) - Black (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Urrun, Shimano Steps, Integrated battery, Hydroformed Alloy 6061 series Internal Cable Routing, Boost 148x12, carrier and kickstand compatible",
+      "fourche": "Marzocchi Bomber Z2 120 QR15x110 E-Bike Optimized"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano EP801-RS",
+      "batterie": "Orbea Internal 540Wh",
+      "écran": "EN600-L"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M4100, 1x10-vitesses",
+      "dérailleur arrière": "Shimano Deore M5120, SGS, ShadowPlus, 10-vitesses",
+      "cassette": "Shimano Deore CS-M4100, 11-46 Dents",
+      "chaîne": "KMC e10 Turbo",
+      "pédalier": "Shimano Steps EM600, plateau Alloy EP8 32 dents"
+    },
+    "équipements": {
+      "freins": "Magura MT30 Hydraulic Disc Easy Route Connection",
+      "selle": "Selle Royal Vivo 145x269mm",
+      "tige de selle": "Alloy, 31.6mm, Setback 0"
+    },
+    "roues": {
+      "jantes": "Alloy, Tubeless, 29\", 29c, 32H",
+      "pneus": "Maxxis Rekon 2.40\" 120 TPI 3CMaxxTerra Exo+ TLR"
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC31, Rise20, Width 800",
+      "potence": "Alloy forged, 35mm interface, -6º, ICR"
+    },
+    "référence": "N340"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 565,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 74.8,
+      "empattement (mm)": 1143,
+      "stack (mm)": 631,
+      "reach (mm)": 395
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 453,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74.6,
+      "empattement (mm)": 1150,
+      "stack (mm)": 628,
+      "reach (mm)": 405
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 483,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 132,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74.6,
+      "empattement (mm)": 1173,
+      "stack (mm)": 647,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 533,
+      "tube supérieur (mm)": 645,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 153,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1220,
+      "stack (mm)": 666,
+      "reach (mm)": 460
+    }
+  ]
+}

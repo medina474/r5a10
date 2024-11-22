@@ -1,0 +1,187 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2400682",
+  "tailles": [
+    "18 Pouces / 169-178 cm",
+    "20 Pouces / 177-186 cm",
+    "22 Pouces / 185-197 cm",
+    "24 Pouces / 196-205 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cube Attention Shimano Deore/SLX 11V 29'' Orange Fire 2023",
+  "marque": "Cube",
+  "description": "L’élégance du Cube Attention repose essentiellement sur des soudures incroyablement lisses au niveau des jonctions du tube de direction et du tube de selle. Il dispose d’un boîtier de pédalier fileté et d’un passage interne de câbles pour des contraintes d’entretien réduites et simplifiées. Il est même équipé d’un support de fixation pour disque Flat Mount qui s’intègre parfaitement avec le support de fixation pour béquille, et les points de fixation intégrés de vos garde-boues et porte-bagages Acid. Sa nouvelle géométrie comprend un tube supérieur plus bas, un tube de direction conique pour une plus grande réactivité et un passage interne de câbles pour des contraintes d’entretien réduites. Il dispose également d'un dégagement suffisamment pour l’équiper de pneus de 2,25 pouces de large, adhérents et confortables. Le système SizeSplit de Cube a permis d’étendre également la gamme, ainsi, quelle que soit votre taille, vous trouverez forcément un Attention qui vous convient parfaitement. Enfin, afin que votre monture puisse évoluer avec vous, il est possible de l’équiper d’une tige de selle télescopique.\r\n\r\nQuel degré de performance est-on en droit d’attendre d’un VTT hardtail ? L’attention aux détails dont le Cube Attention a fait l’objet est évidente : le cadre peut être équipé d’une tige de selle télescopique, par exemple, et le dégagement permet d’utiliser des pneus larges. Il est équipé d’une fourche suspendue RockShox Judy Silver avec débattement de 100 mm facilement ajustable. D’une transmission Shimano Deore / SLX 2x11 vitesses facile à utiliser, fiable et d’une profondeur exceptionnelle. De puissants freins à disque pour un freinage de meilleure qualité. Et enfin, d’un système de blocage au guidon afin que vous gardiez toujours le contrôle de votre vélo. Voilà pour les atouts.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/682/400682/2400682/4588513",
+  "mpn": "60311022",
+  "gtin13": "4054571386366",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "22 Pouces / 185-197 cm",
+      "stock": 1,
+      "prix": 929.99,
+      "mpn": "60311022",
+      "sku": "2395007",
+      "gtin13": "4054571386366",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2448075-vtt_semi_rigide_cube_attention_shimano_deore_slx_11v_29___orange_fire_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "20 Pouces / 177-186 cm",
+      "stock": 1,
+      "prix": 929.99,
+      "mpn": "60311020",
+      "sku": "2394675",
+      "gtin13": "4054571386359",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2448075-vtt_semi_rigide_cube_attention_shimano_deore_slx_11v_29___orange_fire_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "18 Pouces / 169-178 cm",
+      "stock": 5,
+      "prix": 999.99,
+      "mpn": "60311018",
+      "sku": "2393990",
+      "gtin13": "4054571386342",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2448075-vtt_semi_rigide_cube_attention_shimano_deore_slx_11v_29___orange_fire_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "fireorange´n´black"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 13.8,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore SLX 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Lite, AMF, Double Butted, Internal Cable Routing, Tapered Head Tube, Flat Mount Brake, SIC Mount, FM Kickstand Mount",
+      "fourche": "RockShox Judy Silver TK AIR, PopLoc, 100 mm travel"
+    },
+    "manettes de dérailleur": "Shimano Deore SL-M5100, Rapidfire-Plus, 2x11-vitesses",
+    "dérailleur avant": "Shimano SLX FD-M7025-L, Topswing, 31.8 mm Clamp",
+    "transmission": {
+      "dérailleur arrière": "Shimano Deore RD-M4120-SGS, 11-vitesses",
+      "cassette": "Shimano CS-M5100, 11-42 Dents",
+      "chaîne": "KMC X11",
+      "pédalier": "Shimano Deore FC-M5100, 175 mm, 36/26 Dents",
+      "boîtier de pédalier": "Shimano SM-BB52, 73 mm BSA"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT200/UR300, Hydr. Disc Brake, PM/FM (180/160)",
+      "selle": "Natural Fit Venec Lite",
+      "tige de selle": "Cube Performance Post, 27.2 mm",
+      "pédales": "Acid PP MTB"
+    },
+    "roues": {
+      "jantes": "Jantes : Cube ZX20, 32H, Disc / Moyeux : Shimano M4050, QR, Centerlock",
+      "pneus": "Schwalbe Smart Sam, Active, 29 x 2.25\""
+    },
+    "direction": {
+      "cintre": "Cube Rise Trail Bar, 680 mm",
+      "poignées": "Acid React",
+      "potence": "Cube Performance Stem SLX, 31.8 mm, 6°",
+      "jeu de direction": "Cube FPH868, Semi-Integrated"
+    },
+    "référence": 603110
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de cadre (pouces)": 14,
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 340,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 108,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1068,
+      "stack (mm)": 595,
+      "reach (mm)": 384,
+      "longueur de la potence (mm)": 50
+    },
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 16,
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 111,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1082,
+      "stack (mm)": 598,
+      "reach (mm)": 398,
+      "longueur de la potence (mm)": 50
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 18,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 595,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 111,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1125,
+      "stack (mm)": 627,
+      "reach (mm)": 409,
+      "longueur de la potence (mm)": 60
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 20,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 615,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 122,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1146,
+      "stack (mm)": 637,
+      "reach (mm)": 426,
+      "longueur de la potence (mm)": 60
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (pouces)": 22,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 515,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 142,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1168,
+      "stack (mm)": 656,
+      "reach (mm)": 441,
+      "longueur de la potence (mm)": 70
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de cadre (pouces)": 24,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 655,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 157,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1190,
+      "stack (mm)": 670,
+      "reach (mm)": 457,
+      "longueur de la potence (mm)": 70
+    }
+  ]
+}

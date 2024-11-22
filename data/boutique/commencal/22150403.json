@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2260382",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-180 cm",
+    "L / 178-190 cm",
+    "XL / 188-210 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Commencal FRS Ride Sram GX DH 7V 27.5'' Vert Heritage",
+  "marque": "Commencal",
+  "description": "Le Commencal FRS est un vélo épuré, à la ligne intemporelle. Il est capable d'affoler les chronos grâce à son dynamisme. Et de donner le sourire aux riders qui sont plus attirés par une pratique Freeride et engagée.\r\n\r\nAu chapitre cinématique, on retient deux positions d'ancrage distinctes pour le basculeur et facilement modifiables pour : Pouvoir utiliser indépendamment des amortisseurs à ressort ou à air sans avoir à faire de compromis. Pouvoir choisir entre un fonctionnement porté sur le grip (sensitive) ou sur le dynamisme (responsive). Les 2 courbes de la cinématique sont linéaires, pour un meilleur touché de terrain (le contact pneu / sol est plus franc) et plus de confort dans le débattement. Il est donc dorénavant possible de rouler avec un SAG plus faible, sans que cela soit inconfortable.\r\n\r\nConcernant les finitions : Les passages de gaines se font au plus près du point de pivot principal pour diminuer leurs déplacements et l'usure. De nouveaux inserts à la douille de direction permettent une tenue parfaite des joints. Le protège-base injectée en double densité est complètement revu. Le châssis est en polypropylène pour un excellent maintien sur la base. Le FRS se dote d'une protection du tube diagonal. Plus d'inquiétude avec les jets de pierre ou lors du chargement à l'arrière d'un pick up.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/382/260382/2260382/4200652",
+  "mpn": "22FURRIL",
+  "gtin13": "22150403",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-190 cm",
+      "stock": 1,
+      "prix": 2999.99,
+      "mpn": "22FURRIL",
+      "sku": "2184950",
+      "gtin13": "22150403",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2209464-vtt_tout_suspendu_commencal_frs_ride_sram_gx_dh_7v_27_5___vert_heritage"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Heritage Green"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 16.5,
+    "genre": "Homme",
+    "débattement fourche (mm)": 200,
+    "débattement cadre (mm)": 200,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX DH 7V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 2022 Furious, 200 mm travel, 27.5'', Alloy 6069, triple butted tubes, T4, T6. Enduro bearings",
+      "fourche": "Rockshox Boxxer Select, 200 mm travel,27.5\", Charger RC damper, Debonair, rebound, Boost (20 x 110 mm), 46 mm offset, 0 Token",
+      "amortisseur": "Rockshox Super Deluxe Select Coil 250 x 75 mm, LSC, rebound. Spring rates: 300lbs on S, 350lbs on M, 400lbs on L, 450lbs on XL"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX DH 1x7 vitesses",
+      "dérailleur arrière": "Sram GX DH 7 vitesses",
+      "cassette": "Sram GX DH 11-25 Dents",
+      "pédalier": "Truvativ Descendant DH, 165 mm, DUB",
+      "boîtier de pédalier": "Sram DUB"
+    },
+    "équipements": {
+      "freins": "Sram Guide RE, 4 pistons, Matchmaker compatible / Rotor: SRAM HS2 220/200 mm, 6-bolt",
+      "selle": "SDG Patriot I-Beam Kevlar reinforced",
+      "tige de selle": "SDG Micro I-Beam 31.6 mm, 250 mm length"
+    },
+    "roues": {
+      "jantes": "Alexrims FR37 27.5'', 32h, 30 mm inner width",
+      "moyeu avant": "ule DHL-93 32h, sealed bearings ",
+      "moyeu arrière": "a DHG-150 32h, sealed bearings",
+      "pneus": "Maxxis DHR II 27.5\" x 2.4\", DH casing, ST"
+    },
+    "direction": {
+      "cintre": "Ride Alpha R27 31.8 mm, 780 mm width, 27 mm rise, Alloy 6061 on S / M / L - 31.8 mm, 800 mm width, 27 mm rise, Alloy 6061 on XL",
+      "potence": "Ride Alpha DH 40 mm extension, direct mount, 31.8 mm",
+      "jeu de direction": "Acros ZS44/ZS56"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 589,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 63,
+      "empattement (mm)": 1223,
+      "stack (mm)": 613,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 63,
+      "empattement (mm)": 1248,
+      "stack (mm)": 613,
+      "reach (mm)": 465
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 63,
+      "empattement (mm)": 1273,
+      "stack (mm)": 613,
+      "reach (mm)": 490
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 63,
+      "empattement (mm)": 1293,
+      "stack (mm)": 613,
+      "reach (mm)": 510
+    }
+  ]
+}

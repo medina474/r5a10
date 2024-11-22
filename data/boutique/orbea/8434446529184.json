@@ -1,0 +1,183 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2636293",
+  "tailles": [
+    "XS / 155-166 cm",
+    "S / 167-172 cm",
+    "M / 173-179 cm",
+    "L / 180-185 cm",
+    "XL / 186-191 cm",
+    "XXL / 192-207 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Orbea Terra H41 1X Sram Apex XPLR 12V 700 mm Vert Artichoke Violet Lilac 2024",
+  "marque": "Orbea",
+  "description": "Des explorations infinies, des escapades prolongées, des chemins de campagne et des pistes forestières, chacun a sa définition particulière de ce qu'est le gravel. Mais, ce qui ne fait aucun doute, c’est qu’un vélo de gravel doit aborder tout cela avec maîtrise, vitesse et confort... et surtout, avec un maximum de plaisir. Pensé de A à Z pour le gravel, l'Orbea Terra n'est pas un vélo de route adapté ou un VTT réduit. Le Terra EST le gravel. Ajoutez du confort à vos sorties sur route, découvrez enfin où mène cette piste forestière ou laissez vos aventures se prolonger jusqu'au lendemain. Le monde est vaste et le Terra est prêt à le découvrir à vos côtés.\r\n\r\nOffrant la plus grande polyvalence de toute la gamme Terra de chez Orbea, la version en aluminium est votre partenaire idéal pour les explorations sans limites et les escapades prolongées. Des tubes en aluminium hydroformé aux dimensions soigneusement optimisées garantissent un confort ultime lors de longues sorties, alors que des points de fixations intégrés vous permettent d’installer un porte-bagages et des sacoches à l’arrière. Si vous ressentez le besoin de vous évader, le Terra H est prêt à vous accompagner.\r\n\r\nLes ingénieurs de chez Orbea manipulent les formes et l'épaisseur des parois des tubes d'aluminium de leurs cadres afin d'accroître leur robustesse et leur résistance aux flexions indésirables. De nombreux tubes sont aboutés, ce qui permet de gagner du poids dans les zones éloignées des contraintes des joints et des zones de soudure. L'utilisation de technologies d'aluminium aussi avancées que leurs techniques employées avec le carbone garantit que les vélos Orbea en aluminium ne sont jamais de seconde qualité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/293/636293/2636293/5313914",
+  "mpn": "R14205DF",
+  "gtin13": "8434446529184",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 173-179 cm",
+      "stock": 10,
+      "prix": 2499,
+      "mpn": "R14205DF",
+      "sku": "2624912",
+      "gtin13": "8434446529184",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2757692-gravel_bike_orbea_terra_h41_1x_sram_apex_xplr_12v_700_mm_vert_artichoke_violet_lilac_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-185 cm",
+      "stock": 10,
+      "prix": 2499,
+      "mpn": "R14207DF",
+      "sku": "2624875",
+      "gtin13": "8434446529214",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2757692-gravel_bike_orbea_terra_h41_1x_sram_apex_xplr_12v_700_mm_vert_artichoke_violet_lilac_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 186-191 cm",
+      "stock": 1,
+      "prix": 2499,
+      "mpn": "R14209DF",
+      "sku": "2624786",
+      "gtin13": "8434446529245",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2757692-gravel_bike_orbea_terra_h41_1x_sram_apex_xplr_12v_700_mm_vert_artichoke_violet_lilac_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "DF - Artichoke (Matt) - Lilac (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Terra Hydro disc, hydroformed triple butted aluminium, HS 1.5\", PF, Thru Axle 12x142 mm rear, thread M12x2 P1, DT internal cable routing, 27.2 mm seat tube, MMS system, Tire Clearance: 45C (or 650Bx50 mm)",
+      "fourche": "Carbone : Orbea Terra ICR, full carbon, 1-1/8\" - 1.5\" tappered head tube compatible, Thru Axle 12x100 mm, thread M12x2 P1"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex, 1x12-vitesses",
+      "dérailleur arrière": "Sram Apex XPLR, 12-vitesses",
+      "cassette": "Sram XPLR PG-1231, 11-44 Dents",
+      "chaîne": "Sram Apex",
+      "pédalier": "Sram Apex 1 Wide, DM, DUB, 40 Dents"
+    },
+    "équipements": {
+      "freins": "Sram Apex, Hydr. Disc Brake",
+      "selle": "Prologo Akero AGX, STN, Size 155 mm",
+      "tige de selle": "SP 0.2 Carbon, 27.2 mm, Setback 20 mm"
+    },
+    "roues": {
+      "jantes": "Alloy, Tubeless, 12x100/12x142 mm, 700c, 21c, 28H",
+      "pneus": "Vittoria Terreno Dry, 700x38c"
+    },
+    "direction": {
+      "cintre": "OC Gravel GR31-R, Rise 15 mm, Reach 70 mm, Drop 110 mm",
+      "potence": "OC Road Performance RP21, -6º",
+      "jeu de direction": "FSA 1-1/2\" Integrated Aluminium Cup"
+    },
+    "ruban de cintre": "Orbea Eva",
+    "référence": "R142"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "tube de selle (mm)": 425,
+      "tube supérieur (mm)": 526,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1020,
+      "stack (mm)": 526,
+      "reach (mm)": 375,
+      "largeur cintre (mm)": 380,
+      "longueur potence (mm)": 70,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 458,
+      "tube supérieur (mm)": 539,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 131,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1030,
+      "stack (mm)": 548,
+      "reach (mm)": 382,
+      "largeur cintre (mm)": 400,
+      "longueur potence (mm)": 80,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 491,
+      "tube supérieur (mm)": 558,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 152,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1039,
+      "stack (mm)": 570,
+      "reach (mm)": 389,
+      "largeur cintre (mm)": 400,
+      "longueur potence (mm)": 90,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 524,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 178,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1054,
+      "stack (mm)": 592,
+      "reach (mm)": 395,
+      "largeur cintre (mm)": 420,
+      "longueur potence (mm)": 90,
+      "longueur manivelles (mm)": 172.5
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 557,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 199,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1063,
+      "stack (mm)": 614,
+      "reach (mm)": 402,
+      "largeur cintre (mm)": 420,
+      "longueur potence (mm)": 100,
+      "longueur manivelles (mm)": 172.5
+    },
+    {
+      "taille de cadre": "XXL",
+      "tube de selle (mm)": 590,
+      "tube supérieur (mm)": 603,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 220,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1072,
+      "stack (mm)": 636,
+      "reach (mm)": 409,
+      "largeur cintre (mm)": 440,
+      "longueur potence (mm)": 110,
+      "longueur manivelles (mm)": 175
+    }
+  ]
+}

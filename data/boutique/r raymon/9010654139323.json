@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2566006",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "R Raymon GravelRay 5.0 Shimano GRX 11V 700mm Noir/Vert",
+  "marque": "R Raymon",
+  "description": "Que faisions-nous avant l’apparition des vélos Gravel ? Cette catégorie plutôt récente jouit d’une popularité croissante. Et ce, à juste titre.\r\nUn vélo Gravel allie l’agilité, le côté sportif et les performances longue distance d’un vélo de course à certains avantages d’un VTT : polyvalence, énorme flexibilité dans le choix des parcours et plus d’adhérence sur les sols instables.\r\nLes vélos Gravel montrent leurs points forts précisément là où les vélos de course classiques présentent des difficultés. Qu’il s’agisse de graviers, de pavés ou de chemins dans les champs, les forêts et les prés : là où l’asphalte s’arrête, l’aventure tout-terrain commence avec votre GravelRay. \r\n\r\nLa géométrie du cadre de nos GravelRays est conçue de manière à vous assurer le confort nécessaire, même sur de longues distances. Contrairement au guidon de vélo de course classique, le guidon Gravel évasé permet différentes positions, offre une prise en main beaucoup plus agréable et vous donne plus de contrôle sur les pistes sinueuses. \r\nEn bref : les vélos Gravel sont des partenaires d’entraînement et de randonnée confortables et polyvalents, pour se sentir à l’aise dans pratiquement tous les environnements. Roulez où vous voulez avec votre nouveau GravelRay.  ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/6/566006/2566006/5182169",
+  "mpn": "3510000952",
+  "gtin13": "9010654139323",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 1,
+      "prix": 1299.99,
+      "mpn": "3510000952",
+      "sku": "2436578",
+      "gtin13": "9010654139323",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2681963-gravel_bike_r_raymon_gravelray_5_0_shimano_grx_11v_700mm_noir_vert"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 28\", alliage 6061",
+      "fourche": "Aluminium : Alloy Gravel Disc"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX, ST-RX600, 1x11 vitesses",
+      "dérailleur arrière": "Shimano GRX, RD-RX812, Shadow Plus, 11 vitesses",
+      "cassette": "Shimano CS-M5100, 11-42 dents",
+      "chaîne": "KMC X11",
+      "pédalier": "Shimano GRX, FC-RX600"
+    },
+    "équipements": {
+      "freins": "Shimano BR-RX400, 2 pistons, disques Shimano SM-RT64, 160/160 mm, 6 trous",
+      "selle": "R Raymon Ergo",
+      "tige de selle": "R Raymon, 27.2 mm, Brevet"
+    },
+    "roues": {
+      "jantes": "Mach 1 630E, oeilletée",
+      "pneus": "Continental Terra Trail, 40-622, 28x1.5\""
+    },
+    "direction": {
+      "cintre": "R Raymon Drop 31.8 mm, 440 mm, Drop: 116 mm",
+      "potence": "R Raymon 31.8, 6 °",
+      "jeu de direction": "FSA Orbit IS42/52"
+    },
+    "ruban de cintre": "R Raymon Tape",
+    "couleur": "Noir/Vert"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "XS",
+      "tube supérieur (mm)": 520,
+      "longueur de la base (mm)": 422,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 70,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1010,
+      "satck (mm)": 546,
+      "reach (mm)": 375
+    },
+    {
+      "taille du cadre": "S",
+      "tube supérieur (mm)": 540,
+      "longueur de la base (mm)": 422,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71,
+      "angle du tube de selle (°)": 73.5,
+      "empattement (mm)": 1012,
+      "satck (mm)": 561,
+      "reach (mm)": 378
+    },
+    {
+      "taille du cadre": "M",
+      "tube supérieur (mm)": 560,
+      "longueur de la base (mm)": 422,
+      "douille de direction (mm)": 155,
+      "angle de direction (°)": 71,
+      "angle du tube de selle (°)": 73.5,
+      "empattement (mm)": 1028,
+      "satck (mm)": 575,
+      "reach (mm)": 389
+    },
+    {
+      "taille du cadre": "L",
+      "tube supérieur (mm)": 580,
+      "longueur de la base (mm)": 422,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 71,
+      "angle du tube de selle (°)": 73.5,
+      "empattement (mm)": 1038,
+      "satck (mm)": 595,
+      "reach (mm)": 397
+    },
+    {
+      "taille du cadre": "XL",
+      "tube supérieur (mm)": 600,
+      "longueur de la base (mm)": 422,
+      "douille de direction (mm)": 195,
+      "angle de direction (°)": 72,
+      "angle du tube de selle (°)": 72.5,
+      "empattement (mm)": 1048,
+      "satck (mm)": 615,
+      "reach (mm)": 406
+    }
+  ]
+}

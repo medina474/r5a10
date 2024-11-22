@@ -1,0 +1,132 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2658990",
+  "tailles": [
+    "S / 150-170 cm",
+    "M / 170-182 cm",
+    "L / 182-193 cm",
+    "XL / 192-205 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "BH Lynx Race LT 7.5 Shimano XT 12V 29'' Argent 2024",
+  "marque": "BH",
+  "description": "Toujours rapide. Sur de courtes distances. Sur de longues distances. Sur les sentiers. Sur les routes de trial. Escalade. Descente. C'est ce que vous recherchez dans un double XC et vélo-marathon. Le cadre Nº1 pour la Coupe du Monde avec David Valero et l'équipe BH Coloma.\r\n\r\nDes fibres de carbone haut modules ont été utilisées pour minimiser le poids du cadre et du bras oscillant. Il en résulte un VTT XC ayant une rigidité et une légèreté exceptionnelles, prêt pour que vous puissiez battre vos records.\r\n\r\nLa rigidité de la jonction entre le triangle arrière et le bras oscillant a été améliorée de 35% sur le nouveau Lynx Race, grâce au nouvel axe de la biellette et à l'axe principal surdimensionné du pivot.\r\n\r\nPour le meilleur équilibre entre agressivité et stabilité. Une portée plus longue, un angle de direction de 68º/67º et des bases courtes de 430 mm préservent l'agilité en montée et en descente.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/990/658990/2658990/5345026",
+  "mpn": "DX754SRSMD",
+  "gtin13": "8413616978243",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-182 cm",
+      "stock": 1,
+      "prix": 4999.99,
+      "mpn": "DX754SRSMD",
+      "sku": "2579631",
+      "gtin13": "8413616978243",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2777107-vtt_tout_suspendu_bh_lynx_race_lt_7_5_shimano_xt_12v_29___argent_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 182-193 cm",
+      "stock": 1,
+      "prix": 4999.99,
+      "mpn": "DX754SRSLA",
+      "sku": "2579648",
+      "gtin13": "8413616978236",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2777107-vtt_tout_suspendu_bh_lynx_race_lt_7_5_shimano_xt_12v_29___argent_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "SRS (Silver grey)"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Lynx Race Carbon, PC Layup, Acros ICR, PressFit92, Boost148x12, patte de dérailleur universelle (UDH)",
+      "fourche": "Fox 34SC Performance Push to Lock kabolt 120 mm",
+      "amortisseur": "Fox DPS Evol Performance, 190x45 mm, DCL, DRM, CMF"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT M8100 12-vitesses",
+      "dérailleur arrière": "Shimano XT M8100 12-vitesses",
+      "cassette": "Shimano XT M8100, 10-51",
+      "chaîne": "Shimano XT",
+      "pédalier": "Shimano XT M8100, 34 dents, 175 mm"
+    },
+    "équipements": {
+      "freins": "Shimano XT M8100 180/160 mm",
+      "selle": "Prologo Scratch M5",
+      "tige de selle": "Bike Yoke Divine SL 31,6 mm, 400 mm, débattement 80 mm (collier BH EVO 34,9 mm)"
+    },
+    "roues": {
+      "jantes": "BH Evo Alloy, Tubeless Ready, 28 mm, 28 trous",
+      "pneus": "Maxxis Ardent EXO 29x2.25''"
+    },
+    "direction": {
+      "cintre": "BH SL Top Flat 780 mm, Rise 10 mm",
+      "potence": "BH FIT 60mm, 31,8mm, -6º",
+      "jeu de direction": "Acros ICR FIT 36/45°, Block Lock 160º"
+    },
+    "grips": "BH SL Lock On",
+    "référence ": "DX754"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1133,
+      "stack (mm)": 589,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1159,
+      "stack (mm)": 589,
+      "reach (mm)": 445
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 598,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1170,
+      "stack (mm)": 620,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 643,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1212,
+      "stack (mm)": 644,
+      "reach (mm)": 490
+    }
+  ]
+}

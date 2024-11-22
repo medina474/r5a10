@@ -1,0 +1,179 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2285000",
+  "tailles": [
+    "S / 153-166.5 cm",
+    "M / 161-172 cm",
+    "M-L / 165.5-179 cm",
+    "L / 177-188 cm",
+    "XL / 186-196 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Roscoe 7 Shimano Deore 12V 29'' Noir 2023",
+  "marque": "Trek",
+  "description": "Le Roscoe 7 est le semi-rigide des cyclistes qui veulent se démarquer et s’éclater sur les trails. La fourche télescopique moelleuse de 140 mm, les roues de 29 pouces et la transmission à large plage de rapports en font un excellent vélo pour les débutants, mais sa nature ludique donnera aussi le sourire aux cyclistes plus expérimentés.\r\n\r\nGrâce à la tige de selle télescopique, vous pouvez abaisser la selle en cours de route afin de pouvoir adopter sans problème votre position d’attaque dans les descentes. La fourche RockShox Solo Air se caractérise par une capacité de réglage aisée en fonction du poids du pilote. Et elle est plus légère qu’une suspension à ressort hélicoïdal.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/0/285000/2285000/4277403",
+  "mpn": "5260353",
+  "gtin13": "601842588048",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 153-166.5 cm",
+      "stock": 50,
+      "prix": 1299,
+      "mpn": "5260352",
+      "sku": "2110544",
+      "gtin13": "601842588055",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2284164-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-172 cm",
+      "stock": 51,
+      "prix": 1299,
+      "mpn": "5260353",
+      "sku": "2110599",
+      "gtin13": "601842588048",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2284164-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 165.5-179 cm",
+      "stock": 51,
+      "prix": 1299,
+      "mpn": "5260354",
+      "sku": "2110571",
+      "gtin13": "601842588031",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2284164-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 186-196 cm",
+      "stock": 51,
+      "prix": 1299,
+      "mpn": "5260356",
+      "sku": "2110516",
+      "gtin13": "601842588017",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2284164-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_29___noir_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 13.99,
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alpha Gold en aluminium, douille de direction conique, acheminement interne des câbles du dérailleur et de la tige de selle télescopique, ISCG 05, boîtier de pédalier fileté, Boost148, axe traversant 12 mm",
+      "fourche": "Taille: XS RockShox Recon Silver RL, ressort Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 37 mm, Boost110, Maxle Stealth, débattement de 140 mm Taille: S, M, M/L, L, XL RockShox Recon Silver RL, ressort Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 42 mm, Boost110, Maxle Stealth, débattement de 140 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, chape longue, 12 vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore M6100",
+      "pédalier": "Taille: XS, S, M, M/L, L Shimano MT511, plateau acier 30 dts, ligne de chaine de 52 mm, longueur de 170 mm Taille: XL Shimano MT511, plateau acier 30 dts, ligne de chaine de 52 mm, longueur de 175 mm"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Shimano MT200, 180/180 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille: XS, S TranzX JD-YSP18, débattement de 100 mm, acheminement interne, 31,6 mm, longueur de 361 mm Taille: M TranzX JD-YSP18, débattement de 130 mm, acheminement interne, 31,6 mm, longueur de 425 mm Taille: M/L, L, XL TranzX JD-YSP18, débattement de 150 mm, acheminement interne, 31,6 mm, longueur de 470 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve presta",
+      "moyeu avant": "ano MT400, centerlock, Boost110, axe traversant 15 mm ",
+      "moyeu arrière": "o MT510, centerlock, Boost148, axe traversant 12 mm",
+      "pneu avant": " XS Bontrager XR4 Team Issue, Tubeless Ready, flancs Inner Strength, tringle en aramide, 120 tpi, 27,5x2,60 pouces Taille: S, M, M",
+      "pneu arrière": "ontrager XR4 Team Issue, Tubeless Ready, flancs Inner Strength, tringle en aramide, 120 tpi, 29x2,60 pouces"
+    },
+    "direction": {
+      "cintre": "Taille: XS, S Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 750 mm Taille: M, M/L, L, XL Bontrager Rhythm Comp, alliage, 31,8 mm, élévation de 15 mm, largeur de 780 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Taille: XS, S Bontrager Comp, 31,8 mm, compatible Blendr, 7 degrés, longueur 35 mm Taille: M, M/L, L, XL Bontrager Comp, 31,8 mm, compatible Blendr, 7 degrés, longueur 50 mm",
+      "jeu de direction": "FSA IS-2 , 1,125 pouces sur le haut, 1,5 pouce sur le bas"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 340,
+      "tube supérieur (mm)": 552,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1120,
+      "stack (mm)": 591,
+      "reach (mm)": 390
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 386,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1151,
+      "stack (mm)": 626,
+      "reach (mm)": 415
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 43,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1181,
+      "stack (mm)": 635,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "M/L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1198,
+      "stack (mm)": 639,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 646,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1215,
+      "stack (mm)": 644,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 677,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1250,
+      "stack (mm)": 666,
+      "reach (mm)": 495
+    }
+  ]
+}

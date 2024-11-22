@@ -1,0 +1,110 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2678859",
+  "tailles": [
+    "56 cm / 176-186 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "3T RaceMax Italia Sram Rival eTap AXS 12V 700 mm Blanc",
+  "marque": "3T",
+  "description": "Le cadre Racemax Italia est né d'une idée audacieuse de ramener la production en Italie. Aujourd'hui, dans l'usine 3T de Presezzo, ils prennent vie grâce au dévouement de personnes qui en font une réalité. Parmi eux, de nombreux cyclistes passionnés.\r\n\r\nLe gravel 3T RaceMax Italia est conçu pour les cyclistes et les coureurs les plus exigeants afin d'être le plus rapide sur toutes les surfaces, qu'il s'agisse d'asphalte, de graviers ou de terre. Il est encore plus rapide grâce au passage en interne des câbles et à la potence aérodynamique MORE en carbone. Le RaceMax Italia est développé et fabriqué dans l'usine italienne de 3T, en utilisant la technologie propriétaire Filament Winding + RTM pour obtenir une plateforme super réactive et confortable avec une sensation et un look uniques.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/859/678859/2678859/5403153",
+  "mpn": "9362AGDL16L",
+  "gtin13": "4895211848765",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 176-186 cm",
+      "stock": 1,
+      "prix": 5999.99,
+      "mpn": "9362AGDL16L",
+      "sku": "2650403",
+      "gtin13": "4895211848765",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2803262-gravel_bike_3t_racemax_italia_sram_rival_etap_axs_12v_700_mm_blanc"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Bianco"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Rival eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : 3T RaceMax Italia Integrale 418 (2x with removable FD hanger), 3T’s in-house filament-winding using a combination of high-strength/high-stiffness fibers, combined with RTM resin injection, Made in Italy, 12x142 mm, Width tire maximum: 54 mm",
+      "fourche": "Carbone : 3T Fango RaceMax Integrale w/ compact crown, 12x100 mm"
+    },
+    "manettes de dérailleur": "Sram Rival eTap AXS HRD, 2x12-Vitesses",
+    "dérailleur avant": "Sram Rival eTap AXS",
+    "transmission": {
+      "dérailleur arrière": "Sram Rival eTap AXS, Max. 36 Dents, 12-Vitesses",
+      "cassette": "Sram Rival, 10-36 Dents",
+      "pédalier": "Sram Rival, 46/33 Dents"
+    },
+    "équipements": {
+      "freins": "Sram Rival eTap AXS HRD, Hydr. Disc Brake, Sram Rotors (160/160)",
+      "selle": "San Marco Shortfit",
+      "tige de selle": "3T RaceMax Italia Integrale carbon seatpost for Ritchey clamp"
+    },
+    "roues": {
+      "jantes": "Zipp 303S, carbon, 700c, tubeless ready, Rim internal width: 23 mm, Rim height: 45 mm",
+      "pneus": "Pirelli Cinturato Gravel M, 700x40C"
+    },
+    "direction": {
+      "cintre": "3T Aeroghiaia LTD",
+      "potence": "MORE Integrale",
+      "jeu de direction": "3T MinMax Integrale IS42/34 | IS47/38 (36deg)"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre (cm)": 51,
+      "tube de selle (mm)": 463,
+      "tube supérieur (mm)": 518,
+      "longueur base (mm)": 418,
+      "douille de direction* (mm)": 147,
+      "angle de direction (°)": 69.2,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 544,
+      "reach (mm)": 364
+    },
+    {
+      "taille cadre (cm)": 54,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 536,
+      "longueur base (mm)": 418,
+      "douille de direction* (mm)": 161,
+      "angle de direction (°)": 70.7,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 566,
+      "reach (mm)": 374
+    },
+    {
+      "taille cadre (cm)": 56,
+      "tube de selle (mm)": 518,
+      "tube supérieur (mm)": 549,
+      "longueur base (mm)": 418,
+      "douille de direction* (mm)": 180,
+      "angle de direction (°)": 71.7,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 586,
+      "reach (mm)": 382
+    },
+    {
+      "taille cadre (cm)": 58,
+      "tube de selle (mm)": 545,
+      "tube supérieur (mm)": 563,
+      "longueur base (mm)": 418,
+      "douille de direction* (mm)": 201,
+      "angle de direction (°)": 72.2,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 606,
+      "reach (mm)": 390
+    }
+  ]
+}

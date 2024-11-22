@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2565061",
+  "tailles": [
+    "L / 177-186 cm",
+    "XL / 185-197 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cube Stereo One44 C:62 Race Shimano XT 12V 29'' Gris Vert Swamp 2023",
+  "marque": "Cube",
+  "description": "Il ne faut pas juger un vélo à son apparence, c’est ce qu’on dit... Mais l’élégance du Cube Stereo One44 C:62 n’est pas qu’en surface. À ce sujet, la construction de la technologie de construction Cube C:62® Adavnced Twin Mold est un bon exemple. Avec son accent mis sur la commodité ultime et la performance sur les chemins, ses petits détails, tels que son boîtier de pédalier fileté et son jeu de direction réglable, permettent de faire la différence. Le tube inférieur dispose d’un compartiment de rangement et d'un sac spécialement conçu pour transporter tout ce dont vous avez besoin. Enfin, son support pour amortisseur Trunnion et son collier de selle semi-intégré font figure de touches finales sur cette machine dévoreuse de chemins ultra-précise.\r\n\r\nOn n’atteint pas les sommets en copiant tout le monde, c’est pour cette raison que le Cube Stereo One44 C:62 Race se fraie son propre chemin. Grâce à sa construction en carbone C:62®, celui-ci est incroyablement svelte, tandis que sa fourche Fox 34 Factory et son amortisseur Float DPS Factory vous permettent de dompter même les chemins les plus accidentés. Sa paire de roues Newmen Evolution SL A.30, très roulantes et résistantes, est chaussée de pneus Maxxis offrant une superbe adhérence et un incroyable contrôle. Enfin, ajoutez à cela une tige de selle télescopique, un pédalier en carbone Praxis Girder, une transmission Shimano XT 1x12 vitesses ultra-fiable et de puissants freins à disque hydrauliques Shimano XT. Le Stereo One44 C:62 Race est pratiquement inarrêtable.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/61/565061/2565061/5178555",
+  "mpn": "654300XL",
+  "gtin13": "4054571406187",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-197 cm",
+      "stock": 5,
+      "prix": 3999.99,
+      "mpn": "654300XL",
+      "sku": "2504578",
+      "gtin13": "4054571406187",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2681024-vtt_tout_suspendu_cube_stereo_one44_c_62_race_shimano_xt_12v_29___gris_vert_swamp_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "swampgrey´n´black"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 12.6,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:62 Monocoque Advanced Twin Mold Technology, ISCG05, Boost 148, UDH™, 140 mm travel, Width tire maximum: 64 mm",
+      "fourche": "Fox 34 Float Factory FIT4, Open(Adjustable)/Medium/Firm Mode, Tapered, Boost 15x110 mm, Kashima Coated, 140 mm travel",
+      "amortisseur": "Fox Float DPS Factory, 185x52.5 mm, Open(Adjustable)/Medium/Firm Mode, Kashima Coated / Entretoises d'amortisseur : 54 mm Trunnion Mount (Haut), 22x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT SL-M8100-IR, Direct Attach, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano XT CS-M8100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Praxis Girder Carbon, Boost, 30 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano XT BR-M8120/BR-M8100, Hydr. Disc Brake, (203/180)",
+      "selle": "Natural Fit Nuance SLT Carbon",
+      "tige de selle": "Cube Dropper Post, Handlebar Lever, Internal Cable Routing, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Evolution SL A.30, 28/28 Spokes, Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneus": "Maxxis Forekaster, EXO, Tubeless Ready, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "Newmen Evolution SL 318.25, 760 mm",
+      "poignées": "Acid Disrupt, Soft Compound",
+      "potence": "Newmen Evolution SL 318.4, 31.8 mm",
+      "jeu de direction": "Acros AZF-675, ICR (Integrated Cable Routing), Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm), Fiber Inserts for Angle Adjustment"
+    },
+    "accessoires": "Acid Downtube Storage Bag",
+    "référence": 654300
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 320,
+      "tube supérieur* (mm)": "553 / 552",
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 126,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1145 / 1137",
+      "stack* (mm)": "598 / 599",
+      "reach* (mm)": "409 / 408",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 370,
+      "débattement tige de selle (mm)": 100
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur* (mm)": "575 / 577",
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 103,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1177 / 1169",
+      "stack* (mm)": "615 / 617",
+      "reach* (mm)": "429 / 428",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 420,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 405,
+      "tube supérieur* (mm)": "599 / 600",
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 113,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1201 / 1193",
+      "stack* (mm)": "624 / 626",
+      "reach* (mm)": "449 / 448",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "627 / 628",
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 123,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1230 / 1222",
+      "stack* (mm)": "633 / 635",
+      "reach* (mm)": "474 / 473",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "660 / 662",
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 143,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1266 / 1258",
+      "stack* (mm)": "651 / 653",
+      "reach* (mm)": "502 / 500",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

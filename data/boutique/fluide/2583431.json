@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2583431",
+  "tailles": [
+    "44 cm / 152-162 cm",
+    "47 cm / 160-170 cm",
+    "50 cm / 170-185 cm",
+    "53 cm / 183-193 cm"
+  ],
+  "catégories": ["Gravel"],
+  "name": "Fluide Race Sram Apex 11V 700 mm Gris Violet 2023",
+  "marque": "Fluide",
+  "description": "Avec un cadre en aluminium 6061, une géométrie agressive et une transmission Sram Apex 1x11 vitesses, le Fluide Race offre tout ce dont vous avez besoin pour une conduite rapide et confortable, et évite le superflu. C'est le compagnon idéal pour ceux qui souhaitent un vélo polyvalent capable de supporter de nombreuses aventures : les trajets quotidiens, les randonnées du week-end ou les aventures plus longues. À l'aise dans tous les environnements (des routes goudronnées aux chemins de gravier), le Fluide Race offre un mélange passionnant pour tous les cyclistes, quel que soit le niveau.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/431/583431/2583431/5218903",
+  "mpn": "AL.CG2801.3153",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "44 cm / 152-162 cm",
+      "stock": 9,
+      "prix": 1299.99,
+      "mpn": "AL.CG2801.3144",
+      "sku": "2565676",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2696364-gravel_bike_fluide_race_sram_apex_11v_700_mm_gris_violet_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "47 cm / 160-170 cm",
+      "stock": 16,
+      "prix": 1299.99,
+      "mpn": "AL.CG2801.3147",
+      "sku": "2565442",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2696364-gravel_bike_fluide_race_sram_apex_11v_700_mm_gris_violet_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "50 cm / 170-185 cm",
+      "stock": 4,
+      "prix": 1299.99,
+      "mpn": "AL.CG2801.3150",
+      "sku": "2565610",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2696364-gravel_bike_fluide_race_sram_apex_11v_700_mm_gris_violet_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "53 cm / 183-193 cm",
+      "stock": 9,
+      "prix": 1299.99,
+      "mpn": "AL.CG2801.3153",
+      "sku": "2565769",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2696364-gravel_bike_fluide_race_sram_apex_11v_700_mm_gris_violet_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 10.5,
+    "poids constructeur (en g)": 10500,
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alloy 6061, Gravel 28\", 12x142 mm",
+      "fourche": "Aluminium : Rigid fork"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex, 1x11-vitesses",
+      "dérailleur arrière": "Sram Apex, 11-vitesses",
+      "cassette": "Sram PG-1130, 11-42 Dents",
+      "chaîne": "Sram",
+      "pédalier": "Sram Apex 1, 170 mm, 42 Dents"
+    },
+    "équipements": {
+      "freins": "Sram Apex, Hydr. Disc Brake, (160/160)",
+      "selle": "Selle Italia Model Y",
+      "tige de selle": "Signum Alloy, Black, 31.8 x 350 mm"
+    },
+    "roues": {
+      "jantes": "Signum XRK540, Alloy, 32h, 28\", Alloy hubs",
+      "pneus": "Schwalbe G-One Allround, 40-622, 700x38C"
+    },
+    "direction": {
+      "cintre": "Ritchey VentureMax, 420 mm",
+      "potence": "Ritchey 4-Axis, 31.8 mm, 6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre (cm)": 42,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 509,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 997
+    },
+    {
+      "taille de cadre (cm)": 44,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 513,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 998
+    },
+    {
+      "taille de cadre (cm)": 47,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 520,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1001
+    },
+    {
+      "taille de cadre (cm)": 50,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 538,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1009
+    },
+    {
+      "taille de cadre (cm)": 53,
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 562,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1018
+    }
+  ]
+}

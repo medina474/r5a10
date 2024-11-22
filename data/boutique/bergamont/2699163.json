@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2699163",
+  "tailles": [
+    "XS",
+    "S / 163-173 cm",
+    "M / 173-183 cm",
+    "L / 182-190 cm",
+    "XL / 188-200 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Bergamont Grandurance 6 FMN Shimano GRX 10V 700mm Bleu",
+  "marque": "Bergamont",
+  "description": "Le Bergamont Grandurance 6 offre un équilibre entre sportivité et aptitude au tourisme grâce à sa géométrie bien pensée.\r\n\r\nLe tout-terrain dans toute sa splendeur : une plateforme de cadre en aluminium multifonctionnelle et parfaitement pensée, avec une géométrie tout-terrain équilibrée, un dégagement maximal des pneus, d'innombrables points de fixation pour les accessoires et un design novateur. Un vélo polyvalent attrayant équipé de composants sophistiqués Shimano 2x10 pour le gravel.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/163/699163/2699163/5439993",
+  "mpn": "291090--58",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-173 cm",
+      "stock": 0,
+      "prix": 1799,
+      "mpn": "291090--52",
+      "sku": "2570174",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2817867-gravel_bike_bergamont_grandurance_6_fmn_shimano_grx_10v_700mm_bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 182-190 cm",
+      "stock": 1,
+      "prix": 1799,
+      "mpn": "291090--58",
+      "sku": "2652180",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2817867-gravel_bike_bergamont_grandurance_6_fmn_shimano_grx_10v_700mm_bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-200 cm",
+      "stock": 0,
+      "prix": 1799,
+      "mpn": "291090--61",
+      "sku": "2580120",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2817867-gravel_bike_bergamont_grandurance_6_fmn_shimano_grx_10v_700mm_bleu"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Shiny ice blue"
+    }
+  ],
+  "informations": {
+    "poids": "10,8 kg (environ)",
+    "poids maximum": "Ce vélo affiche une limite de poids total maximum (comprenant le poids du vélo, du cycliste et des bagages) de 120 kg.",
+    "poids constructeur (en g)": 10800,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 28\", ultra lite AL-6061 tubing, patte derrailleur BGM-H042A",
+      "fourche": "Aluminium : Grandurance alu, 12x100 mm axe, montage à plat, trois points de montage"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX, ST-RX400, road STI-shifter, 2x10 vitesses",
+      "dérailleur arrière": "Shimano GRX, RD-RX400, Shadow Plus",
+      "cassette": "Shimano CS-HG50, 11-36 dts",
+      "chaîne": "KMC X10",
+      "pédalier": "Shimano GRX, FC-RX600, 46-30 dts",
+      "boîtier de pédalier": "Shimano Hollowtech II, BSA (BSA68)"
+    },
+    "dérailleur avant": "Shimano GRX, RD-RX400",
+    "équipements": {
+      "freins": "Shimano GRX, BR-RX400, freins à disques hydrauliques, disques Shimano RT64, centerlock, 160/160 mm",
+      "selle": "Syncros Tofino 2.5",
+      "tige de selle": "Syncros, 31,6 mm"
+    },
+    "roues": {
+      "jantes": "Shining DB-T260, disques, moyeux BGM allroad centerlock 12x100, 12x142 mm",
+      "pneus": "Schwalbe G-One Bite, pliable, Tubeless-Easy, Raceguard, 45-622"
+    },
+    "direction": {
+      "cintre": "Satori X-Race, flare: 16°",
+      "potence": "Syncros 3.0, +/-10°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": 49,
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 515,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1041,
+      "stack (mm)": 560,
+      "reach (mm)": 380
+    },
+    {
+      "taille cadre": 52,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 530,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1058,
+      "stack (mm)": 579,
+      "reach (mm)": 390
+    },
+    {
+      "taille cadre": 55,
+      "tube de selle (mm)": 535,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1075,
+      "stack (mm)": 598,
+      "reach (mm)": 400
+    },
+    {
+      "taille cadre": 58,
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 560,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 180,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1091,
+      "stack (mm)": 617,
+      "reach (mm)": 410
+    },
+    {
+      "taille cadre": 61,
+      "tube de selle (mm)": 585,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 200,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1108,
+      "stack (mm)": 636,
+      "reach (mm)": 420
+    }
+  ]
+}

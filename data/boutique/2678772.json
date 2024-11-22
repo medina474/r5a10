@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2678772",
+  "tailles": [
+    "51 cm / 166-174 cm",
+    "54 cm / 172-180 cm",
+    "56 cm / 178-186 cm",
+    "58 cm / 184-192 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "BMC Kaius 01 Two Sram Force eTap AXS 12V 700 mm Noir Carbon 2024",
+  "marque": "BMC",
+  "description": "Le BMC Kaius est un vélo de gravel en carbone haut de gamme destiné à être votre compagnon de course d’élite pour tous les terrains. Grâce à son tissage carbone innovant et à sa géométrie spécifique au gravel, il incarne l’équilibre idéal entre rigidité, légèreté et souplesse pour une adhérence optimale sur les sols meubles, une partie avant stable et de véritables aptitudes à grimper. Exploitant la précision et les performances des technologies de pointe BMC renommées sur route, Kaius est taillé pour le gravel, avec sa fourche Kaius, son cintre conventionnel et une potence ICS2, le système TCC Race Compliance, sa compatibilité avec les transmissions 1x et 2x, et son dégagement de pneu de 44 mm.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/772/678772/2678772/5402442",
+  "mpn": "30005310",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 172-180 cm",
+      "stock": 1,
+      "prix": 7199.99,
+      "mpn": "30005310",
+      "sku": "2478144",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2803261-gravel_bike_bmc_kaius_01_two_sram_force_etap_axs_12v_700_mm_noir_carbon_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Carbon Black / Brushed Blue"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Force eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Kaius 01 Premium Carbon with Aerocore Design, ICS Technology, Stealth Cable Routing, Integrated Aerocore Bottle Cages, Stealth Dropout Design, TCC Race Compliance Level, PF86 Bottom Bracket, Flat Mount Disc, 12x142 mm Thru-Axle, Tire clearance: 44 mm (Measured Width)",
+      "fourche": "Carbone : Kaius 01 Premium Carbon, ICS Technology, Stealth Cable Routing, TCC Race Compliance Level, Stealth Dropout Design, Flat Mount Disc, 12x100 mm Thru-Axle, 50 mm offset (Size 47-51), 45 mm offset (Size 54-61)"
+    },
+    "manettes de dérailleur": "Sram Force eTap AXS HRD, 2x12-vitesses",
+    "dérailleur avant": "Sram Force eTap AXS Wide",
+    "transmission": {
+      "dérailleur arrière": "Sram Force eTap AXS, 12-vitesses",
+      "cassette": "Sram Force XG-1270, 10-36 Dents",
+      "chaîne": "Sram Force",
+      "pédalier": "Sram Force AXS Wide, Power Meter Crankset, DUB, 43/30 Dents",
+      "boîtier de pédalier": "PF86"
+    },
+    "équipements": {
+      "freins": "Sram Force eTap AXS HRD, Hydr. Disc Brake, Sram Paceline Rotors Center Lock (160/160)",
+      "selle": "Fizik Vento Argo R3, 140 mm",
+      "tige de selle": "Kaius 01 Premium Carbon D-Shaped Seatpost, 15 mm Offset, D-Fender Compatible"
+    },
+    "roues": {
+      "jantes": "CG 39 (Carbon Gravel 39), Tubeless Ready, ETRTO: 25-622, Rim internal width: 25 mm, Rim height: 39 mm, Spoke count: 24/24",
+      "pneus": "Pirelli Cinturato Gravel H, 700x40 mm"
+    },
+    "direction": {
+      "cintre": "Easton EC70 AX, Carbon, 80 mm reach, 120 mm drop, 16° flare",
+      "potence": "BMC ICS2 - Integrated Cockpit Design, -12.5°"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre (cm)": 47,
+      "tube de selle (mm)": 428,
+      "tube supérieur (mm)": 546,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 85,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1003,
+      "stack (mm)": 510,
+      "reach (mm)": 390,
+      "déport fourche (mm)": 50
+    },
+    {
+      "taille de cadre (cm)": 51,
+      "tube de selle (mm)": 452,
+      "tube supérieur (mm)": 559,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 106,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1017,
+      "stack (mm)": 530,
+      "reach (mm)": 397,
+      "déport fourche (mm)": 50
+    },
+    {
+      "taille de cadre (cm)": 54,
+      "tube de selle (mm)": 468,
+      "tube supérieur (mm)": 569,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 123,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1015,
+      "stack (mm)": 550,
+      "reach (mm)": 401,
+      "déport fourche (mm)": 45
+    },
+    {
+      "taille de cadre (cm)": 56,
+      "tube de selle (mm)": 493,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 144,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1026,
+      "stack (mm)": 570,
+      "reach (mm)": 405,
+      "déport fourche (mm)": 45
+    },
+    {
+      "taille de cadre (cm)": 58,
+      "tube de selle (mm)": 513,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1039,
+      "stack (mm)": 595,
+      "reach (mm)": 410,
+      "déport fourche (mm)": 45
+    },
+    {
+      "taille de cadre (cm)": 61,
+      "tube de selle (mm)": 533,
+      "tube supérieur (mm)": 604,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 196,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1051,
+      "stack (mm)": 620,
+      "reach (mm)": 414,
+      "déport fourche (mm)": 45
+    }
+  ]
+}

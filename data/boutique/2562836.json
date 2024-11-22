@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2562836",
+  "tailles": [
+    "S / 160-175 cm",
+    "M / 170-185 cm",
+    "L / 177-193 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cannondale Topstone Carbon Sram Apex XPLR 12V 700 mm Noir Carbone",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Topstone Carbon est un vélo de gravel doué et polyvalent. Sa conception \"Proportional Response\", spécifique à la taille, permet d'obtenir un cadre à la fois rigide et confortable quelle que soit la taille. Chaque rider peut alors bénéficer du confort et de la sensation de conduite apportés par la suspension Kingpin.\r\n\r\nUn vélo confortable sans le surpoids et la complexité d’un amortisseur et des biellettes, la suspension Kingpin est la réponse aux riders « gravel » les plus exigeants. Que vous ayez besoin de plus de confort pour rouler plus loin, de plus de traction pour vous donner à fond ou de plus de flexibilité pour tirer parti de la technologie, - la suspension Kingpin est la réponse légère et sans entretien à tous vos rêves.\r\n\r\nLa technologie SmartSense (optionnelle) vous épaule lors de chaque sortie. Le système d’éclairage intelligent et de radar arrière (en option) améliore votre visibilité et votre vigilance sur la route, pour vous faciliter la vie.\r\n\r\nAvec ses nombreux points de fixation pour bagages et bidons sur le cadre et la fourche, le Topstone est prêt à être chargé pour les longues aventures.\r\n\r\nFoncez sans hésiter et gardez le sourire ! Axé autour de notre géométrie de direction OutFront, le Topstone Carbon offre un pilotage stable dans les terrains accidentés et une grande agilité partout ailleurs.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/836/562836/2562836/5171555",
+  "mpn": "C15322U10LG",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-193 cm",
+      "stock": 2,
+      "prix": 2199.99,
+      "mpn": "C15322U10LG",
+      "sku": "2470567",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2679543-gravel_bike_cannondale_topstone_carbon_sram_apex_xplr_12v_700_mm_noir_carbone"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Carbon"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Topstone Carbon, Kingpin suspension system, SmartSense compatible, Proportional Response construction, 12x142mm thru-axle, 27.2 dropper post ready, BSA 68mm threaded BB, DirectLine internal cable routing, removable fender bridge, multiple gear/bottle mounts",
+      "fourche": "Carbone : Topstone Carbon, 1-1/8\" to 1.5\" steerer, 55mm OutFront offset, flat mount disc, internal routing, 12x100 thru-axle, triple bottle/gear mounts, fender mounts"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex, hydraulic disc, 2x12 vitesses",
+      "dérailleur arrière": "Sram Apex XPLR",
+      "cassette": "Sram PG-1231 XPLR, 11-44 Dents",
+      "chaîne": "Sram Apex, 12 vitesses",
+      "pédalier": "Sram Apex 1 Wide Direct Mount, 40 Dents",
+      "boîtier de pédalier": "Sram DUB BSA Road 68 Wide"
+    },
+    "équipements": {
+      "freins": "Sram Apex Hydraulic Disc, 160/160mm Centerline Rotors",
+      "selle": "Fizik Aliante Delta, S-alloy rails",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 27.2x350mm"
+    },
+    "roues": {
+      "jantes": "DT Swiss G540, 28h, 24mm inner width",
+      "moyeu avant": "Formula cartridge bearing, 12x100mm centerlock ",
+      "moyeu arrière": "Formula cartridge bearing, 12x142mm centerlock",
+      "pneus": "Vittoria Terreno Dry, 700x38c, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Cannondale 3, butted 6061 Alloy, 16 deg flare drop",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 7°",
+      "jeu de direction": "Integrated, 1-1/8\" - 1.5\""
+    },
+    "ruban de cintre": "Fizik Solocush Soft, 3mm",
+    "accessoire": "Cannondale Wheel Sensor"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 533,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 71.4,
+      "empattement (mm)": 1010,
+      "stack (mm)": 534,
+      "reach (mm)": 371
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 458,
+      "tube supérieur (mm)": 544,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 123,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 71.6,
+      "empattement (mm)": 1013,
+      "stack (mm)": 551,
+      "reach (mm)": 377
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 505,
+      "tube supérieur (mm)": 557,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 71.8,
+      "empattement (mm)": 1029,
+      "stack (mm)": 574,
+      "reach (mm)": 383
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 553,
+      "tube supérieur (mm)": 572,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 177,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 71.9,
+      "empattement (mm)": 1044,
+      "stack (mm)": 600,
+      "reach (mm)": 390
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 590,
+      "tube supérieur (mm)": 587,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 205,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 72.1,
+      "empattement (mm)": 1061,
+      "stack (mm)": 624,
+      "reach (mm)": 397
+    }
+  ]
+}

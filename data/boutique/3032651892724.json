@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2451452",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 170-180 cm",
+    "L / 180-190 cm",
+    "XL / 190-200 cm"
+  ],
+  "name": " Gravel Bike Sunn Venture Finest Shimano GRX 11V 700 mm Noir 2023",
+  "marque": "Sunn",
+  "description": "Le gravel bike Sunn Finest est un modèle haut de gamme conçu pour les cyclistes exigeants. Avec un cadre en aluminium léger et durable, ce vélo offre une maniabilité optimale sur les routes de gravier. La fourche en carbone assure une excellente absorption des chocs pour un confort de conduite supérieur, tandis que les pneus 700x40 offrent une adhérence maximale sur toutes les surfaces. En tant que marque française, Sunn se distingue par son expertise et son engagement envers la qualité. Le Sunn Finest gravel bike est un choix idéal pour les cyclistes à la recherche d'une expérience de conduite confortable et performante sur les routes de campagne.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/452/451452/2451452/4696208",
+  "mpn": "YCSUI24501",
+  "gtin13": "3032651892724",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-180 cm",
+      "stock": 1,
+      "prix": 1990.99,
+      "mpn": "YCSUI24501",
+      "sku": "2175548",
+      "gtin13": "3032651892724",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2497794-_gravel_bike_sunn_venture_finest_shimano_grx_11v_700_mm_noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-190 cm",
+      "stock": 1,
+      "prix": 1990.99,
+      "mpn": "YCSUI25001",
+      "sku": "2175524",
+      "gtin13": "3032651892731",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2497794-_gravel_bike_sunn_venture_finest_shimano_grx_11v_700_mm_noir_2023"
+    }
+  ],
+  "informations": {
+    "poids": 9.93,
+    "poids constructeur (en g)": 9930,
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alliage 6061, Tubes de bord",
+      "fourche": "Carbone : Entièrement en carbone HM, axe traversant de 12 mm"
+    },
+    "transmission": {
+      "dérailleur arrière": "Shimano GRX RX812, 11 vitesses",
+      "cassette": "Shimano M5100 11v 11-42",
+      "pédalier": "Shimano GRX RX810 42T"
+    },
+    "équipements": {
+      "freins": "Shimano GRX Hydr. Disc Brake, (160/140)",
+      "selle": "Fizik Argo Vento R5",
+      "tige de selle": "VR Alu 27.2x350MM"
+    },
+    "roues": {
+      "jantes": "Jantes : Dt swiss GR531 DISC 700x24c 28T",
+      "pneus": "Continental 700x40C Terra Trail"
+    },
+    "direction": {
+      "cintre": "VR Alu Gravel, Flare 16°, 420 mm (S/M), 440 mm (L/XL)",
+      "potence": "Potence VR en alliage, 70 mm (S/M), 90 mm (L/XL)"
+    }
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 530,
+      "bases de chaîne (mm)": 425,
+      "longueur du tube de direction (mm)": 120,
+      "angle du tube de direction (°)": 70,
+      "angle du tube de selle (°)": 73.5,
+      "empattement (mm)": 1014,
+      "empilement (mm)": 549,
+      "portée (mm)": 367
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 550,
+      "bases de chaîne (mm)": 425,
+      "longueur du tube de direction (mm)": 140,
+      "angle du tube de direction (°)": 70.5,
+      "angle du tube de selle (°)": 73.5,
+      "empattement (mm)": 1030,
+      "empilement (mm)": 570,
+      "portée (mm)": 381
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 570,
+      "bases de chaîne (mm)": 425,
+      "longueur du tube de direction (mm)": 160,
+      "angle du tube de direction (°)": 71,
+      "angle du tube de selle (°)": 73.5,
+      "empattement (mm)": 1046,
+      "empilement (mm)": 591,
+      "portée (mm)": 395
+    },
+    {
+      "taille du cadre": "XL",
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 590,
+      "bases de chaîne (mm)": 425,
+      "longueur du tube de direction (mm)": 180,
+      "angle du tube de direction (°)": 71.5,
+      "angle du tube de selle (°)": 73.5,
+      "empattement (mm)": 1062,
+      "empilement (mm)": 612,
+      "portée (mm)": 409
+    }
+  ]
+}

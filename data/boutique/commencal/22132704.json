@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2170607",
+  "tailles": [
+    "S / 158-171 cm",
+    "M / 168-180 cm",
+    "L / 178-190 cm",
+    "XL / 188-200 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Commencal Clash Origin Shimano Deore 10V 27.5'' Noir",
+  "marque": "Commencal",
+  "description": "Roues de 27,5 pouces, gros débattement, géométrie et cinématique agressives... Le Clash Origin est le Bike à tout faire : Bike Park, Enduro, grosses lignes de jumps ou sorties à la pédale... il est excessivement polyvalent ! \r\n\r\nComme pour l'ensemble de la gamme, la géométrie fait l'objet de la plus grande attention : La position en montée est optimale grâce à un top tube allongé et un angle de selle plus droit. En descente, son avant long apporte stabilité quand tout s'accélère, alors que la potence courte permet de conserver un vélo maniable et joueur dans les portions plus lentes. Du XS (roues différenciées 27,5/26) aux modèles adultes (S, M, L, XL) en roues de 27,5 pouces, le CLASH est une option très sérieuse pour les petits et moyens gabarits.\r\n\r\nUn élément essentiel de ce millésime, le cadre est doté d'un réglage de la cinématique, comme sur le FRS. Ce réglage permet de privilégier soit la sensibilité (Sensitive), soit le dynamisme (Dynamic) : Le mode Sensitive pour une utilisation DH / Freeride, lorsque vous avez besoin de confort et de grip. Le mode Dynamic est lui idéal pour les pistes plus lisses, les sessions jump avec les copains, lorsque vous chercherez plutôt de la nervosité et du dynamisme.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/607/170607/2170607/4002560",
+  "mpn": "22CLASHOGRXL",
+  "gtin13": "22132704",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-200 cm",
+      "stock": 1,
+      "prix": 1999.99,
+      "mpn": "22CLASHOGRXL",
+      "sku": "2090972",
+      "gtin13": "22132704",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2023032-vtt_tout_suspendu_commencal_clash_origin_shimano_deore_10v_27_5___noir"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Dark Slate"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 15.5,
+    "genre": "Homme",
+    "débattement fourche (mm)": 180,
+    "débattement cadre (mm)": 170,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 27.5'', Alloy 6069, triple butted tubes, T4, T6. Enduro bearings",
+      "fourche": "Rockshox Yari RC, 180 mm travel Motion Control damper, Debonair, rebound, Boost (15 x 110mm), 37 mm offset",
+      "amortisseur": "Rockshox Deluxe Select+, 230 x 65 mm, rebound, threshold adjustment, 3 tokens"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 1x10 vitesses",
+      "dérailleur arrière": "Shimano Deore 10 vitesses",
+      "cassette": "Shimano Deore 11-46 Dents",
+      "pédalier": "Shimano Deore, 170 mm, boost, 34 Dents",
+      "boîtier de pédalier": "Shimano MT500 Pressfit"
+    },
+    "équipements": {
+      "freins": "Sram Guide T 4 pistons, 200/200 mm",
+      "selle": "Fabric Scoop Flat Sport",
+      "tige de selle": "Ride Alpha 34.9 mm, 400 mm on S/M, 450 mm on L/X"
+    },
+    "roues": {
+      "jantes": "E13 LG1 DH base 27.5'', 32h, 30 mm inner width",
+      "pneu avant": "xis Assegai 27.5\" x 2.5\" WT, 3C, EXO, Tubeless Ready ",
+      "pneu arrière": "s Dissector 27.5\" x 2.4\" WT, 3C, EXO+, Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Ride Alpha R27 31.8 mm, 780 mm width, 27 mm rise, Alloy 6061",
+      "potence": "Ride Alpha Freeride 40 - 40 mm extension, 31.8 mm",
+      "jeu de direction": "Acros ZS44/ZS56"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.2,
+      "empattement (mm)": 1216,
+      "stack (mm)": 619,
+      "reach (mm)": 445
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 418,
+      "tube supérieur (mm)": 607,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.2,
+      "empattement (mm)": 1238,
+      "stack (mm)": 624,
+      "reach (mm)": 465
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 633,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.2,
+      "empattement (mm)": 1265,
+      "stack (mm)": 628,
+      "reach (mm)": 490
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 465,
+      "tube supérieur (mm)": 666,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77.2,
+      "empattement (mm)": 1292,
+      "stack (mm)": 635,
+      "reach (mm)": 520
+    }
+  ]
+}

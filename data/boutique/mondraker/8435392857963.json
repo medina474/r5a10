@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2490077",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 168-180 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Mondraker Raze Sram SX Eagle 12V 29'' Noir Blanc",
+  "marque": "Mondraker",
+  "description": "Idéal pour les cyclistes qui veulent un vélo qui offre tout ce qu'il faut à un prix raisonnable, le Mondraker Raze est un vélo de trail avec lequel vous pourrez profiter du meilleur fonctionnement avec les meilleures technologies exclusives de Mondraker : Alloy Stealth Evo, Forward Geometry et Zero Suspension System. Le Raze partage avec les autres modèles de la gamme, qu'ils soient en carbone ou en aluminium, la même philosophie de savoir profiter à la fois de la montée et de la descente grâce à ses grandes capacités dans les deux situations. Avec 150 mm de débattement avant et 130 mm à l'arrière, vous serez surpris par sa polyvalence et le fun qu’il permet. C'est un vélo tout-suspendu, pour tout. Le vélo total.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/77/490077/2490077/4866402",
+  "mpn": "010.23079",
+  "gtin13": "8435392857963",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-170 cm",
+      "stock": 2,
+      "prix": 2399.99,
+      "mpn": "010.23077",
+      "sku": "2186061",
+      "gtin13": "8435392857949",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2555632-vtt_tout_suspendu_mondraker_raze_sram_sx_eagle_12v_29___noir_blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 10,
+      "prix": 2399.99,
+      "mpn": "010.23078",
+      "sku": "2186028",
+      "gtin13": "8435392857956",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2555632-vtt_tout_suspendu_mondraker_raze_sram_sx_eagle_12v_29___noir_blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 10,
+      "prix": 2399.99,
+      "mpn": "010.23079",
+      "sku": "2186033",
+      "gtin13": "8435392857963",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2555632-vtt_tout_suspendu_mondraker_raze_sram_sx_eagle_12v_29___noir_blanc"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 10,
+      "prix": 2399.99,
+      "mpn": "010.23080",
+      "sku": "2186142",
+      "gtin13": "8435392857970",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2555632-vtt_tout_suspendu_mondraker_raze_sram_sx_eagle_12v_29___noir_blanc"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 15.9,
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Raze 29 6061 Alloy Stealth Evo, hydroformed tubing, Zero Suspension System, 130 mm travel, Forward Geometry, one piece Monoblock upper link, Boost 12x148 mm rear axle, tapered head tube, 73 mm BSA bottom bracket, dedicated 1x drivetrain design, telescopic seatpost internal routing, MAX capacity sealed bearings, ISCG 05, Sram UDH Derailleur hanger",
+      "fourche": "RockShox 35 Gold 29 RL, 150 mm travel, Solo Air, tapered steerer tube, Boost 15x110 mm axle, 35 mm steel stanchions, 44 mm offset. Réglages : compression adjustment at low-speed to lock, rebound, air preload",
+      "amortisseur": "Fox Float DPS LV EVOL Performance, 205x57.5 mm, Trunnion top mount, 25x8 mm bottom bushings. Réglages : rebound, 3-position compression adjustment (Open/Mid/Lock), air preload"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger SX Eagle, X-Actuation 1:1, 1x12-vitesses",
+      "dérailleur arrière": "Sram SX Eagle, Type 3 roller bearing clutch, cage lock, long cage, X-actuation 1:1, 12-vitesses",
+      "cassette": "Sram PG-1210, 11-50 Dents",
+      "chaîne": "Sram SX Eagle, Powerlock",
+      "pédalier": "Sram SX Eagle, Boost, DUB axle, Direct Mount chain ring, 32 Dents, steel, X-Sync 2, 170 mm (S/M), 175 mm (L/XL)",
+      "boîtier de pédalier": "Sram DUB BSA, sealed bearings, 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram Level T, Hydr. Disc Brake, 2 piece caliper, Centerline 180/180 mm IS 6 bolts one-piece rotors",
+      "selle": "MDK series PU 2023",
+      "tige de selle": "OnOff Pija dropper internal, diameter 31.6 mm, 405x95-125 mm (S), 458x120-150 mm (M), 498x140-170 mm (L), 498x140-170 mm (XL)"
+    },
+    "roues": {
+      "jantes": "MDK-EP1 29, 30 mm internal width, tubeless ready, 32 spokes, CN round stainless steel spokes",
+      "moyeu avant": "Formula DC711, Boost 15x110 mm, sealed bearings, IS 6 bolts ",
+      "moyeu arrière": "Formula DHT148 Boost 12x148 mm, sealed bearings, IS 6 bolts",
+      "pneu avant": " Maxxis Dissector, tubeless ready, 3C MAXX TERRA compound, EXO+ protection, 120TPI, folding bead, 29x2.4\" WT ",
+      "pneu arrière": " Maxxis Aggressor, tubeless ready, dual compound, Exo protection, 60TPI, folding bead, 29x2.3\""
+    },
+    "direction": {
+      "cintre": "OnOff Sulfur 1.0 double butted 6061 alloy, rise: 20 mm, width: 800 mm, 9° backsweep, 5° upsweep, 31.8 mm barbore",
+      "poignées": "Onoff Twin, 1lock-on, 135 mm",
+      "potence": "Onoff Sulfur FG 30 mm, 0º, 6061 forged alloy, 31.8 mm barbore",
+      "jeu de direction": "Onoff Saturn tapered for 1-1/8” to 1-1/2” head tube, ACB sealed bearings, top 41x30.2x7x45ºx45º, bottom 51.9x40x8x45ºx45º"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 375,
+      "tube supérieur (mm)": 594,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 72,
+      "empattement (mm)": 1197,
+      "stack (mm)": 623,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 72,
+      "empattement (mm)": 1216,
+      "stack (mm)": 623,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 72,
+      "empattement (mm)": 1246,
+      "stack (mm)": 641,
+      "reach (mm)": 490
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 658,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 72,
+      "empattement (mm)": 1266,
+      "stack (mm)": 641,
+      "reach (mm)": 510
+    }
+  ]
+}

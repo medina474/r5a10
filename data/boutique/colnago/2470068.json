@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2470068",
+  "tailles": [
+    "55 cm / 180-185 cm"
+  ],
+  "catégories": ["Gravel"],
+  "name": "Colnago G3-X Shimano GRX 11V 700 mm Or 2022",
+  "marque": "Colnago",
+  "description": "Que vous souhaitiez profiter des paysages naturels ou foncer à toute allure sur un chemin de terre, le vélo de gravel Colnago G3-X a été conçu pour être votre partenaire le plus fidèle dans vos aventures. Approuvé par Nathan Haas.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/68/470068/2470068/4753319",
+  "mpn": "C22-G3X55SBGRX",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "55 cm / 180-185 cm",
+      "stock": 1,
+      "prix": 2999,
+      "mpn": "C22-G3X55SBGRX",
+      "sku": "2420241",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2534500-gravel_bike_colnago_g3_x_shimano_grx_11v_700_mm_or_2022"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 9.11,
+    "poids constructeur (en g)": 9110,
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Colnago G3-X, 12x142 mm",
+      "fourche": "Carbone : Colnago G3-X, 12x100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX, 1x11-vitesses",
+      "dérailleur arrière": "Shimano GRX, 11-vitesses",
+      "cassette": "Shimano Deore XT CS-M8000, 11-40 Dents",
+      "chaîne": "Shimano CN-HG701-11",
+      "pédalier": "Shimano GRX, 40 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano GRX, Hydr. Disc Brake, (160/160)",
+      "selle": "Prologo Kappa RS",
+      "tige de selle": "Colnago, Carbon, Semi Truncated Drop Shape"
+    },
+    "roues": {
+      "jantes": "Shimano RS370, 622x19C, 12x100/12x142 mm",
+      "pneus": "Pirelli Cinturato Gravel H, 700x40 mm"
+    },
+    "direction": {
+      "cintre": "Deda Gravel 100, 75 mm Reach, 130 mm Drop, 12° Flare",
+      "potence": "Deda Zero"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre (cm)": 46,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 513,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 102,
+      "angle de direction (°)": 70.8,
+      "angle tube de selle (°)": 75,
+      "stack (mm)": 535,
+      "reach (mm)": 371
+    },
+    {
+      "taille de cadre (cm)": 49,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 539,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 122,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 74,
+      "stack (mm)": 554,
+      "reach (mm)": 380
+    },
+    {
+      "taille de cadre (cm)": 52,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 560,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73.5,
+      "stack (mm)": 573,
+      "reach (mm)": 390
+    },
+    {
+      "taille de cadre (cm)": 55,
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 578,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 159,
+      "angle de direction (°)": 71.6,
+      "angle tube de selle (°)": 73.2,
+      "stack (mm)": 591,
+      "reach (mm)": 400
+    },
+    {
+      "taille de cadre (cm)": 58,
+      "tube de selle (mm)": 580,
+      "tube supérieur (mm)": 593,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 167,
+      "angle de direction (°)": 71.9,
+      "angle tube de selle (°)": 73,
+      "stack (mm)": 600,
+      "reach (mm)": 410
+    }
+  ]
+}

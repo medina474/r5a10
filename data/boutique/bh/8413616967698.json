@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2583523",
+  "tailles": [
+    "XS / 145-164 cm",
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BH Expert 5.0 Shimano Deore XT 12V 29'' Noir",
+  "marque": "BH",
+  "description": "Le nouvel Expert partage sa conception et ses lignes avec les modèles Ultimate et Ultimate RC. Angle de direction lancé, bases courtes et tube supérieur plus long. Idéal pour un XC technique dans les descentes, rapide et efficace au pédalage.\r\n\r\nLes bases arrière ont été spécifiquement conçues pour abriter le système EVO Brake Mount. L’angle d’inclinaison optimal réduit les vibrations et augmente la puissance de freinage.\r\n\r\nLa technologie hydroforming permet de concevoir des cadres attractifs avec de hauts coefficients de légèreté et de résistance en alu 6061. Les cadres Expert combinent une rigidité supplémentaire dans la zone inférieure et un haut niveau de confort et de flexibilité dans les tubes supérieurs.\r\n\r\nTube de direction construit de la même manière que le boîtier de pédalier et les pattes de cadre arrières.\r\n ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/523/583523/2583523/5218381",
+  "mpn": "A5093NCCXL",
+  "gtin13": "8413616967698",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 5,
+      "prix": 1259.99,
+      "mpn": "A5093NCCMD",
+      "sku": "2560257",
+      "gtin13": "8413616967674",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2696786-vtt_semi_rigide_bh_expert_5_0_shimano_deore_xt_12v_29___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 17,
+      "prix": 1259.99,
+      "mpn": "A5093NCCLA",
+      "sku": "2560485",
+      "gtin13": "8413616967667",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2696786-vtt_semi_rigide_bh_expert_5_0_shimano_deore_xt_12v_29___noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-202 cm",
+      "stock": 20,
+      "prix": 1259.99,
+      "mpn": "A5093NCCXL",
+      "sku": "2559997",
+      "gtin13": "8413616967698",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2696786-vtt_semi_rigide_bh_expert_5_0_shimano_deore_xt_12v_29___noir"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Expert Alu 29\", 148x12, Integrated Headset 42ACB",
+      "fourche": "RockShox Recon RL100mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT 8100, 12-vitesses",
+      "cassette": "Shimano Deore 6100, 10-51 Dents",
+      "chaîne": "Shimano Deore",
+      "pédalier": "Shimano MT510, 175 mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT201, Hydr. Disc Brake, (180/160)",
+      "selle": "Prologo Nago RS",
+      "tige de selle": "BH Lite 31.6 mm, 420 mm"
+    },
+    "roues": {
+      "jantes": "BH Lite",
+      "pneu avant": "ntal Race King 2.20",
+      "pneu arrière": "on 2.20"
+    },
+    "direction": {
+      "cintre": "BH Lite flat, 780mm",
+      "poignées": "BH Lock On",
+      "potence": "BH SL 80 mm, 31.8 mm, +/-6º",
+      "jeu de direction": "BH SL Integrated Sealed Bearing"
+    },
+    "collier de selle": "Expert, 34.9 mm",
+    "référence": "A5093"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 580,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1091,
+      "stack (mm)": 619,
+      "reach (mm)": 397
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 607,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1121,
+      "stack (mm)": 619,
+      "reach (mm)": 423
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1136,
+      "stack (mm)": 628,
+      "reach (mm)": 435
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1164,
+      "stack (mm)": 647,
+      "reach (mm)": 456
+    }
+  ]
+}

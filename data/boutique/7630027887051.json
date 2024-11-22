@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2640817",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 172-182 cm",
+    "L / 180-188 cm",
+    "XL / 188-198 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "BMC Fourstroke Two Shimano Deore XT 12V 29'' Gris Carbon Rouge 2023",
+  "marque": "BMC",
+  "description": "Le BMC Fourstroke est la pierre angulaire du vélo cross-country, conçu pour exceller à tous les niveaux. Offrant une polyvalence au-delà des tracés de courses, cette machine XC établit un nouveau standard avec 100 mm de débattement sans égal, fournis par la suspension APS dual-link. Boosté par la géométrie redéfinie Big Wheel Concept, le cadre léger tout en carbone est doté d’éléments de protection intégrés et est optimisé pour monter deux porte-bidons, idéal pour les longues sorties.\r\n\r\nPrenez une longueur d’avance avec le BMC Fourstroke Two, équipé d’une transmission Shimano Deore XT 1x12 vitesses, d’une fourche Fox Float 32 SC Performance ainsi que d’un amortisseur Fox Float DPS Performance, d’une paire de roues DT Swiss XR 1700 d’une largeur intérieure de 25 mm et d’une tige de selle télescopique Bikeyoke Divine.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/817/640817/2640817/5320420",
+  "mpn": "30002661",
+  "gtin13": "7630027887051",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 172-182 cm",
+      "stock": 3,
+      "prix": 4099.99,
+      "mpn": "30002661",
+      "sku": "2190992",
+      "gtin13": "7630027887051",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2763003-vtt_tout_suspendu_bmc_fourstroke_two_shimano_deore_xt_12v_29___gris_carbon_rouge_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-188 cm",
+      "stock": 3,
+      "prix": 4099.99,
+      "mpn": "30002662",
+      "sku": "2191074",
+      "gtin13": "7630027887044",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2763003-vtt_tout_suspendu_bmc_fourstroke_two_shimano_deore_xt_12v_29___gris_carbon_rouge_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Carbon / Red"
+    }
+  ],
+  "informations": {
+    "poids maximum": "110 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Fourstroke Carbon, APS Suspension System 100 mm travel, Fully Guided Internal Cable Routing, PF92 Bottom Bracket, Post Mount Disc, 12x148 mm Boost Thru-Axle, Tire clearance: 62 mm (Measured Width)",
+      "fourche": "Fox Float 32 Step Cast Performance, 100 mm travel",
+      "amortisseur": "Fox Float DPS Performance / DT Swiss Remote Lockout"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore XT SL-M8100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore XT RD-M8100, 12-vitesses",
+      "cassette": "Shimano Deore XT CS-M8100, 10-51 Dents",
+      "chaîne": "Shimano Deore XT CN-M8100",
+      "pédalier": "Shimano Deore XT FC-M8100, 34 Dents",
+      "boîtier de pédalier": "PF92"
+    },
+    "équipements": {
+      "freins": "Shimano Deore XT BR-M8100, Hydr. Disc Brake, Shimano SM-RT86 Rotors (160/160 S-M; 180/160 L-XL)",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "Bikeyoke Divine"
+    },
+    "roues": {
+      "jantes": "Jantes : DT Swiss XR 1700 Wheelset, 25 mm Inner Width / Moyeux : DT Swiss 350 Straightpull, Ratchet 36 SL",
+      "pneus": "Vittoria Mezcal, 57-622, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "BMC MFB02 Alloy, 750 mm width, 4 mm rise, 8° backsweep",
+      "potence": "BMC MSM01, -5°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 574,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 84,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1139,
+      "stack (mm)": 584,
+      "reach (mm)": 437,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 165
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 94,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1171,
+      "stack (mm)": 592,
+      "reach (mm)": 457,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 101,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1188,
+      "stack (mm)": 600,
+      "reach (mm)": 477,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1218,
+      "stack (mm)": 615,
+      "reach (mm)": 500,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

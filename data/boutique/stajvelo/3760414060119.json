@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2720315",
+  "tailles": [
+    "S / 157-167 cm",
+    "M / 166-177 cm",
+    "L / 176-186 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Stajvélo Roca Sram Rival AXS 12V 700 mm Beige 2024",
+  "marque": "Stajvelo",
+  "description": "Entre vitesse et stabilité, le Roca s’installe comme le vélo le plus polyvalent de la gamme Stajvélo, à la fois performant et confortable. L’esprit Roca relève non seulement du partage, mais aussi de la liberté en explorant différents terrains. Repousser vos limites n’a jamais été aussi simple. Ce vélo vous offre de multiples perspectives pour aller toujours plus vite, toujours plus loin.\r\n\r\nSa géométrie, grâce à un reach plus long, lui garantit davantage de stabilité pour venir à bout des chemins les plus dégradés. Ses haubans ainsi que sa fourche libèrent de nombreuses opportunités de montage. Il peut ainsi accueillir des sections de pneus allant jusqu’à 47 mm ainsi que du 650B en 2 pouces. Ici, plus aucune appréhension, seulement du plaisir. Il dispose aussi de bases courtes de 435 mm lui permettant de se montrer réactif sur des terrains propices aux relances.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/315/720315/2720315/5485605",
+  "mpn": "STAJ_0001000018",
+  "gtin13": "3760414060119",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 157-167 cm",
+      "stock": 1,
+      "prix": 4799,
+      "mpn": "STAJ_0001000016",
+      "sku": "2708697",
+      "gtin13": "0376414060096",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2844800-gravel_bike_stajvelo_roca_sram_rival_axs_12v_700_mm_beige_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 166-177 cm",
+      "stock": 2,
+      "prix": 4799,
+      "mpn": "STAJ_0001000017",
+      "sku": "2708703",
+      "gtin13": "3760414060102",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2844800-gravel_bike_stajvelo_roca_sram_rival_axs_12v_700_mm_beige_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 176-186 cm",
+      "stock": 1,
+      "prix": 4799,
+      "mpn": "STAJ_0001000018",
+      "sku": "2708686",
+      "gtin13": "3760414060119",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2844800-gravel_bike_stajvelo_roca_sram_rival_axs_12v_700_mm_beige_2024"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Rival XPLR eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Mono UD 800/1100 Carbone Toray Monocoque ",
+      "fourche": "Carbone : Mono UD 800/1100 Carbone, Flat Mount"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Rival AXS 1x12 vitesses",
+      "dérailleur arrière": "Sram Rival AXS 12 vitesses",
+      "cassette": "Sram Rival 10-44 dts",
+      "pédalier": "Sram Rival 40 dts"
+    },
+    "freins ": "Sram Rival",
+    "roues": {
+      "jantes": "Ursus Miura Carbon 37/47mm",
+      "pneus": "Hutchinson Touareg 45mm"
+    },
+    "direction": {
+      "cintre": "FSA Adventure AGX Alloy",
+      "potence": "FSA SMR intégré"
+    },
+    "équipements": {
+      "selle": "Fizik Vento Black",
+      "tige de selle": "Mono UD 800 Carbone"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS ",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 525,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1018,
+      "stack (mm)": 538,
+      "reach (mm)": 369
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 535,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1020,
+      "stack (mm)": 556,
+      "reach (mm)": 370
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1021.7,
+      "stack (mm)": 568,
+      "reach (mm)": 371.4
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 560,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1026,
+      "stack (mm)": 589,
+      "reach (mm)": 374
+    }
+  ]
+}

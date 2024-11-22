@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2108342",
+  "tailles": [
+    "48 cm / 155-165 cm",
+    "51 cm / 165-175 cm",
+    "54 cm / 170-180 cm",
+    "56 cm / 175-185 cm",
+    "58 cm / 180-190 cm",
+    "61 cm / 185-195 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cervélo Aspero Sram Apex 11V 700 mm Noir Satin",
+  "marque": "Cervelo",
+  "description": "Une nouvelle race d'athlètes est en train d'émerger, une personne qui aime la liberté et l'exploration sur lesquelles la culture du Gravel a été fondée, mais qui a soif de rouler dans la nature, d'aller à fond et d'explorer non seulement la géographie mais aussi ses limites personnelles. Cette frontière nécessite un nouveau type de machine, conçue pour ne pas parcourir les sentiers, mais pour les tuer.\r\n\r\nPour ces athlètes, nous avons créé une machine Aspéro conçue pour une vitesse pure et sans complaisance, prête à abattre les lignes d'arrivée, les classements KOM, les relations publiques et les FKT. Un seul vélo qui génère d’abord la vitesse maximale puis, en second lieu, contrôle cette vitesse dans les conditions variables que doivent maîtriser les athlètes. Une machine construite sans limites, pour les coureurs disposés à les tester\r\n.\r\nLa rigidité de votre vélo a un impact important sur votre expérience de conduite. La connexion instantanée que vous ressentez lorsque vous faites du vélo avec un transfert de puissance efficace et une prise en main réactive résulte de la rigidité de la zone du pédalier, de la fourche et du tube de direction. Cervélo a passé des années à rechercher et à tester ces différents types de rigidité afin de vous offrir la meilleure expérience de conduite possible.\r\n\r\nLa qualité de pilotage de Cervélo repose sur l'expérience du cycliste. Nous définissons la qualité de roulement comme la sensation que le vélo procure à l'usage auquel il est destiné. Pour chacun de nos vélos, nos ingénieurs appliquent des technologies et des éléments de conception qui fonctionnent ensemble pour créer l'expérience de conduite souhaitée.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/342/108342/2108342/3955945",
+  "mpn": "0H0ASAA12A56",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "51 cm / 165-175 cm",
+      "stock": 3,
+      "prix": 2299.99,
+      "mpn": "0H0ASAA12A51",
+      "sku": "2107051",
+      "gtin13": "4250773366872",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-1958544-gravel_bike_cervelo_aspero_sram_apex_11v_700_mm_noir_satin"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 175-185 cm",
+      "stock": 7,
+      "prix": 2299.99,
+      "mpn": "0H0ASAA12A56",
+      "sku": "2107203",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-1958544-gravel_bike_cervelo_aspero_sram_apex_11v_700_mm_noir_satin"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "58 cm / 180-190 cm",
+      "stock": 3,
+      "prix": 2499.99,
+      "mpn": "0H0ASAA12A58",
+      "sku": "2106741",
+      "gtin13": "4250773366902",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-1958544-gravel_bike_cervelo_aspero_sram_apex_11v_700_mm_noir_satin"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Satin Black"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Cervelo All-Carbon, Aspéro",
+      "fourche": "Carbone : Cervelo All-Carbon, Tapered Aspero Fork"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex 1 HRD, 2 x 11 vitesses",
+      "dérailleur arrière": "Sram Apex, 11 vitesses",
+      "cassette": "Sram PG-1130, 11-42 Dents",
+      "chaîne": "Sram PC-1110",
+      "pédalier": "Sram Apex 1 40 Dents",
+      "boîtier de pédalier": "JY-BB 22/24"
+    },
+    "équipements": {
+      "freins": "Sram Apex HRD / Sram Centerline, 160mm",
+      "selle": "Cervelo Road Saddle",
+      "tige de selle": "Easton EA50 Alloy"
+    },
+    "roues": {
+      "jantes": "Alexrims Boondocks-7D, 28h (F), 28h (R), 24mm IW, 6-bolt, Tubeless Ready",
+      "pneu avant": "er Gravel King SK Sport 700 x 38 60tpi ",
+      "pneu arrière": " Gravel KIng SK Folding 700x38"
+    },
+    "direction": {
+      "cintre": "Easton EA50 Alloy / Postmoderne SMICA stems",
+      "potence": "Postmoderne SMICA stems",
+      "jeu de direction": "FSA IS2 1-1/8 x 1-1/2"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "48 cm",
+      "tube supérieur (mm)": 512,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 83,
+      "angle de direction": "71°",
+      "angle tube de selle": "74.5°",
+      "empattement (mm)": 990,
+      "stack (mm)": 505,
+      "reach (mm)": 370
+    },
+    {
+      "taille cadre": "51 cm",
+      "tube supérieur (mm)": 532,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 107,
+      "angle de direction": "71.5°",
+      "angle tube de selle": "74°",
+      "empattement (mm)": 1000,
+      "stack (mm)": 530,
+      "reach (mm)": 379
+    },
+    {
+      "taille cadre": "54 cm",
+      "tube supérieur (mm)": 553,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 133,
+      "angle de direction": "72°",
+      "angle tube de selle": "73.5°",
+      "empattement (mm)": 1010,
+      "stack (mm)": 555,
+      "reach (mm)": 388
+    },
+    {
+      "taille cadre": "56 cm",
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 159,
+      "angle de direction": "72°",
+      "angle tube de selle": "73°",
+      "empattement (mm)": 1027,
+      "stack (mm)": 580,
+      "reach (mm)": 397
+    },
+    {
+      "taille cadre": "58 cm",
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 188,
+      "angle de direction": "72°",
+      "angle tube de selle": "73°",
+      "empattement (mm)": 1046,
+      "stack (mm)": 605,
+      "reach (mm)": 406
+    },
+    {
+      "taille cadre": "61 cm",
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 214,
+      "angle de direction": "72°",
+      "angle tube de selle": "73°",
+      "empattement (mm)": 1063,
+      "stack (mm)": 630,
+      "reach (mm)": 415
+    }
+  ]
+}

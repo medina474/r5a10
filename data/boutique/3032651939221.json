@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2584738",
+  "tailles": [
+    "S / 158-168 cm",
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": "Sunn Flash S1 Shimano Deore 11V 29'' 500 Wh Bleu",
+  "marque": "Sunn",
+  "description": "Flash est le VTT électrique semi-rigide pour tous, pour plus de plaisir, avec son moteur Shimano léger et performant. Avec sa batterie intégrée, le design du Flash affirme le style Sunn. Performante, la gamme Flash est la solution adaptée à vos longues sorties aussi bien sur les sentiers qu’en pleine montagne !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/738/584738/2584738/5221016",
+  "mpn": "YESUW64001",
+  "gtin13": "3032651939221",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-168 cm",
+      "stock": 2,
+      "prix": 2699.99,
+      "mpn": "YESUW64001",
+      "sku": "2581509",
+      "gtin13": "3032651939221",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2708698-vtt_electrique_semi_rigide_sunn_flash_s1_shimano_deore_11v_29___500_wh_bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 2699.99,
+      "mpn": "YESUW64501",
+      "sku": "2581559",
+      "gtin13": "3032651939238",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2708698-vtt_electrique_semi_rigide_sunn_flash_s1_shimano_deore_11v_29___500_wh_bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 2999,
+      "mpn": "YESUW65001",
+      "sku": "2581555",
+      "gtin13": "3032651939245",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2708698-vtt_electrique_semi_rigide_sunn_flash_s1_shimano_deore_11v_29___500_wh_bleu"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 23.2,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Integrated 531Wh, Alloy 6061db, Edge Tubing Boost",
+      "fourche": "SR Suntour XCM34 130 mm Boost"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano EP6, 250 W, 85 Nm, 25 km/h",
+      "batterie": "Shimano EN500, 500 Wh"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100",
+      "dérailleur arrière": "Shimano Deore M6100, 12-vitesses",
+      "cassette": "Shimano Deore, 10-51 Dents",
+      "pédalier": "Shimano M600, 34 Dents, 170 mm"
+    },
+    "équipements": {
+      "freins": "Formula Cura, 2 pistons, 180/180mm",
+      "selle": "Sunn by DDK",
+      "tige de selle": "Brute Dropper 130mm (S) / 150mm (M) / 170mm (L/XL)"
+    },
+    "roues": {
+      "jantes": "Mach1 Trucky 30 30mm 32t",
+      "pneus": "Chaoyang Persuader Tr 29x2,4\""
+    },
+    "direction": {
+      "cintre": "Aluminium, 760 mm x 31.8 mm, Rise 15",
+      "potence": "Aluminium, 31.8 - 45 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1120,
+      "stack (mm)": 635,
+      "reach (mm)": 390
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1150,
+      "stack (mm)": 645,
+      "reach (mm)": 415
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1183,
+      "stack (mm)": 660,
+      "reach (mm)": 440
+    }
+  ]
+}

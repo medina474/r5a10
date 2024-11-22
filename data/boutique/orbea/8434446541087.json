@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2580111",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-180 cm",
+    "L / 178-190 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Orbea Oiz M30 Shimano Deore/SLX 12V 29'' Vert Chameleon Goblin 2024",
+  "marque": "Orbea",
+  "description": "Prenez le contrôle. Sans compromis. L'Orbea Oiz n’est pas un vélo de down-country ou de trail : c’est une bête de course XC avec un débattement de 120 mm, à la fois superbe et efficace. Une géométrie moderne et une suspension ingénieuse, conçue avec un débattement de 120 mm, assurent des sorties encore plus plaisantes, sans compromettre le poids et l’efficacité. En peu de mots, l’Oiz est le vélo XC le plus rapide sorti de l'usine Orbea en 180 ans.\r\n\r\nPour s’adapter aux exigences croissantes des courses modernes, les vélos de XC évoluent vers plus de contrôle (et de plaisir) en descente. La géométrie sans compromis d'Orbea est le fruit des retours d’expérience de leurs athlètes, riders et testeurs, et fait du nouvel Oiz le vélo de XC Orbea le plus plaisant à piloter à ce jour.\r\n\r\nL’assise créée par un angle de selle accentué et le stack plus bas offrent une position de contrôle inégalée. Le reach plus long, conçu avec une potence de 60-90 mm, optimise la stabilité en descente tout en chargeant la roue avant pour pouvoir attaquer les montées et les courbes à pleine puissance.\r\n\r\nDans cette version, le cadre en carbone OMR apporte à l’Oiz la même rigidité et la même solidité que la version avec cadre en carbone OMX à ceux qui n’ont pas forcément besoin de sa légèreté sans pareil.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/111/580111/2580111/5211509",
+  "mpn": "R23503N1",
+  "gtin13": "8434446541087",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 1,
+      "prix": 3399.99,
+      "mpn": "R23503N1",
+      "sku": "2576805",
+      "gtin13": "8434446541087",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2692525-vtt_tout_suspendu_orbea_oiz_m30_shimano_deore_slx_12v_29___vert_chameleon_goblin_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-180 cm",
+      "stock": 10,
+      "prix": 3999,
+      "mpn": "R23505N1",
+      "sku": "2576793",
+      "gtin13": "8434446541612",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2692525-vtt_tout_suspendu_orbea_oiz_m30_shimano_deore_slx_12v_29___vert_chameleon_goblin_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-190 cm",
+      "stock": 1,
+      "prix": 3599.99,
+      "mpn": "R23507N1",
+      "sku": "2576802",
+      "gtin13": "8434446541841",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2692525-vtt_tout_suspendu_orbea_oiz_m30_shimano_deore_slx_12v_29___vert_chameleon_goblin_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 10,
+      "prix": 3999,
+      "mpn": "R23509N1",
+      "sku": "2624544",
+      "gtin13": "8434446542060",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2692525-vtt_tout_suspendu_orbea_oiz_m30_shimano_deore_slx_12v_29___vert_chameleon_goblin_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "N1 - Chameleon Goblin Green (Gloss) - Black (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Orbea Oiz Carbon OMR, Fiberlink, Boost, BSA, SIC, UFO, I-line shock",
+      "fourche": "Fox 34 Float SC Performance Grip Remote Push to Lock, QR15x110 mm, 120 mm travel",
+      "amortisseur": "Fox Float SL Performance 120 mm Remote Push-lock Evol custom tune, 190 x 45 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX M7100, SGS, Shadow Plus, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano M6100",
+      "pédalier": "Shimano MT511, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6100, Hydr. Disc Brake",
+      "selle": "Selle Italia Model X, FecAlloy Rail, 145x248 mm",
+      "tige de selle": "OC Mountain Control MC21, 31.6 mm, Dropper"
+    },
+    "roues": {
+      "jantes": "Alloy, Tubeless, 25c, 32H, 29\"",
+      "pneus": "Maxxis Rekon Race, 120 TPI, Exo, TLR, 29x2.40\" WT"
+    },
+    "direction": {
+      "cintre": "OC Mountain Performance MP30, Width 760 mm",
+      "potence": "OC Mountain Performance MP21, -6º",
+      "jeu de direction": "Alloy 1-1/2\", Black Oxidated Bearing"
+    },
+    "référence": "R235"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1138,
+      "stack (mm)": 596,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 432,
+      "tube supérieur (mm)": 598,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1163,
+      "stack (mm)": 596,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 623,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1189,
+      "stack (mm)": 606,
+      "reach (mm)": 472
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1219,
+      "stack (mm)": 619,
+      "reach (mm)": 496
+    }
+  ]
+}

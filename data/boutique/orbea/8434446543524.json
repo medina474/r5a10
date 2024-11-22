@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2636330",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-180 cm",
+    "L / 178-190 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Orbea Oiz M-PRO Shimano XT 12V 29'' Bleu Tanzanite Carbon View 2024",
+  "marque": "Orbea",
+  "description": "Prenez le contrôle. Sans compromis. L'Orbea Oiz n’est pas un vélo de down-country ou de trail : c’est une bête de course XC avec un débattement de 120 mm, à la fois superbe et efficace. Une géométrie moderne et une suspension ingénieuse, conçue avec un débattement de 120 mm, assurent des sorties encore plus plaisantes, sans compromettre le poids et l’efficacité. En peu de mots, l’Oiz est le vélo XC le plus rapide sorti de l'usine Orbea en 180 ans.\r\n\r\nPour s’adapter aux exigences croissantes des courses modernes, les vélos de XC évoluent vers plus de contrôle (et de plaisir) en descente. La géométrie sans compromis d'Orbea est le fruit des retours d’expérience de leurs athlètes, riders et testeurs, et fait du nouvel Oiz le vélo de XC Orbea le plus plaisant à piloter à ce jour.\r\n\r\nL’assise créée par un angle de selle accentué et le stack plus bas offrent une position de contrôle inégalée. Le reach plus long, conçu avec une potence de 60-90 mm, optimise la stabilité en descente tout en chargeant la roue avant pour pouvoir attaquer les montées et les courbes à pleine puissance.\r\n\r\nLe cadre en carbone OMX offre à l’Oiz une légèreté optimale pour la performance. Les ingénieurs de chez Orbea utilisent une construction en carbone à la pointe de la technologie pour fabriquer le cadre le plus sophistiqué possible. Un processus complexe et laborieux dont vous apprécierez les résultats une fois en selle. Les cadres OMX (Orbea Monocoque X) associent exclusivement des fibres hauts modules et hautes résistances. Les feuilles de carbone sont découpées au laser pour réduire l’excès de matériau et les chevauchements, puis des heures de prémoulage assurent un compactage optimal avec une quantité de carbone minimale. Un moule complet en EPS (polystyrène expansé) et des inserts en latex sont utilisés pour éliminer plis et imperfections.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/330/636330/2636330/5314320",
+  "mpn": "R24105MP",
+  "gtin13": "8434446543524",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 2,
+      "prix": 6299,
+      "mpn": "R24103MP",
+      "sku": "2624589",
+      "gtin13": "8434446543494",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2757656-vtt_tout_suspendu_orbea_oiz_m_pro_shimano_xt_12v_29___bleu_tanzanite_carbon_view_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-180 cm",
+      "stock": 1,
+      "prix": 5349.99,
+      "mpn": "R24105MP",
+      "sku": "2626403",
+      "gtin13": "8434446543524",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2757656-vtt_tout_suspendu_orbea_oiz_m_pro_shimano_xt_12v_29___bleu_tanzanite_carbon_view_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-190 cm",
+      "stock": 2,
+      "prix": 5349.99,
+      "mpn": "R24107MP",
+      "sku": "2626291",
+      "gtin13": "8434446543555",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2757656-vtt_tout_suspendu_orbea_oiz_m_pro_shimano_xt_12v_29___bleu_tanzanite_carbon_view_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 10,
+      "prix": 6299,
+      "mpn": "R24109MP",
+      "sku": "2626149",
+      "gtin13": "8434446543586",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2757656-vtt_tout_suspendu_orbea_oiz_m_pro_shimano_xt_12v_29___bleu_tanzanite_carbon_view_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "MP - Tanzanite Carbon View - Carbon Raw (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Orbea Oiz Carbon OMX, Fiberlink, Boost, BSA, SIC, UFO, I-line shock",
+      "fourche": "Fox 34 Float SC Factory, FIT4, Remote-Adj, Push-lock, Kashima, QR15x110 mm, 120 mm travel",
+      "amortisseur": "Fox Float SL Factory 120 mm Remote Push-lock Evol Kashima custom tune 190 x 45 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT M8100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT M8100, SGS, Shadow Plus, 12-vitesses",
+      "cassette": "Shimano Deore XT CS-M8100, 10-51 Dents",
+      "chaîne": "Shimano M8100",
+      "pédalier": "Shimano XT M8120, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano XT M8100, Hydr. Disc Brake",
+      "selle": "Selle Italia SLR Boost Fill Titanium Rail 316 Ø7 mm",
+      "tige de selle": "Fox Transfer SL Performance Dropper, 31.6 mm / OC Squidlock MP20 Remote, Dropper, Suspension 3 Pos"
+    },
+    "roues": {
+      "jantes": "OQUO Mountain Performance MP30TEAM Carbon, 29\"",
+      "pneus": "Maxxis Rekon Race, 120 TPI, EXO, TLR, 29x2.40\" WT"
+    },
+    "direction": {
+      "cintre": "OC Mountain Performance MP10 Carbon, Width 760 mm, Sweep 9°",
+      "potence": "OC Mountain Performance MP10 Alu SL, -10º",
+      "jeu de direction": "Alloy 1-1/2\", Black Oxidated Bearing"
+    },
+    "référence": "R241"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1138,
+      "stack (mm)": 596,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 432,
+      "tube supérieur (mm)": 598,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1163,
+      "stack (mm)": 596,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 623,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1189,
+      "stack (mm)": 606,
+      "reach (mm)": 472
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1219,
+      "stack (mm)": 619,
+      "reach (mm)": 496
+    }
+  ]
+}

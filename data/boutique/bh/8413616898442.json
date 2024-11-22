@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2260814",
+  "tailles": [
+    "XS / 145-164 cm",
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BH Expert 4.5 Shimano Deore XT 12V 29'' Gris/Noir 2022",
+  "marque": "BH",
+  "description": "Avec un angle de chasse élancé, des haubans arrière courts et un tube supérieur plus long, le VTT semi-rigide BH Expert 4.5 est un parfait vélo de XC ; technique dans les descentes et rapide et efficace au niveau du pédalier. Le nouvel Expert partage sa conception et ses lignes avec les modèles Ultimate et Ultimate RC de la marque. Il est fabriqué en aluminium 6061 afin de garantir une rigidité optimale et un poids de cadre de 1 600 grammes seulement.\r\n\r\nLa technologie hydroforming permet de concevoir des cadres en aluminium attractifs, avec de hauts coefficients de légèreté et de résistance. Les cadres BH Expert combinent une rigidité supplémentaire dans la zone inférieure et un haut niveau de confort et de flexibilité dans les tubes supérieurs.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/814/260814/2260814/4217168",
+  "mpn": "A4592SNYSM",
+  "gtin13": "8413616898442",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 2,
+      "prix": 999.99,
+      "mpn": "A4592SNYSM",
+      "sku": "2188129",
+      "gtin13": "8413616898442",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2212596-vtt_semi_rigide_bh_expert_4_5_shimano_deore_xt_12v_29___gris_noir_2022"
+    }
+  ],
+  "informations": {
+    "poids": "12,9 Kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Expert Alu 29\", 148x12, Integrated Headset 42ACB",
+      "fourche": "Rockshox Judy RL, Remote Lock, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT 8100, 12-vitesses",
+      "cassette": "Shimano Deore 6100, 10-51 Dents",
+      "chaîne": "Shimano Deore",
+      "pédalier": "Shimano MT510, 175 mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT201, Hydr. Disc Brake, (180/160)",
+      "selle": "Prologo Nago RS",
+      "tige de selle": "BH Lite 31.6 mm, 420 mm"
+    },
+    "roues": {
+      "jantes": "BH Lite",
+      "pneus": "Continental CrossKing, 29x2.20\""
+    },
+    "direction": {
+      "cintre": "BH Lite Flat, 780 mm",
+      "poignées": "BH Lock On",
+      "potence": "BH SL 80 mm, 31.8 mm, +/-6º",
+      "jeu de direction": "BH SL Integrated Sealed Bearing"
+    },
+    "collier de selle": "Expert, 34.9mm"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 580,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1091,
+      "stack (mm)": 619,
+      "reach (mm)": 397
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 607,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1121,
+      "stack (mm)": 619,
+      "reach (mm)": 423
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1136,
+      "stack (mm)": 628,
+      "reach (mm)": 435
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1164,
+      "stack (mm)": 647,
+      "reach (mm)": 456
+    }
+  ]
+}

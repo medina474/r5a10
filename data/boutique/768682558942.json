@@ -1,0 +1,179 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2657947",
+  "tailles": [
+    "M / 165-176 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Top Fuel 5 Shimano Deore 12V 29'' Gris Nois Mat 2024",
+  "marque": "Trek",
+  "description": "Le Trek Top Fuel 5 est un VTT tout-suspendu aussi efficace que capable. Il gère les descentes cahoteuses et montre son côté rapide dans les côtes et les tronçons plats. Le cadre en alliage d’aluminium léger et costaud est équipé de composants sélectionnés pour les performances et la valeur. Ce vélo est un choix parfait comme premier vélo de trail tout-suspendu.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/947/657947/2657947/5342642",
+  "mpn": "5297871",
+  "gtin13": "768682558942",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-176 cm",
+      "stock": 1,
+      "prix": 1799.99,
+      "mpn": "5297871",
+      "sku": "2651048",
+      "gtin13": "768682558942",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776049-vtt_tout_suspendu_trek_top_fuel_5_shimano_deore_12v_29___gris_nois_mat_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 43,
+      "prix": 2559,
+      "mpn": "5297872",
+      "sku": "2651171",
+      "gtin13": "768682559260",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776049-vtt_tout_suspendu_trek_top_fuel_5_shimano_deore_12v_29___gris_nois_mat_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 36,
+      "prix": 2559,
+      "mpn": "5297873",
+      "sku": "2651069",
+      "gtin13": "768682559000",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776049-vtt_tout_suspendu_trek_top_fuel_5_shimano_deore_12v_29___gris_nois_mat_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Matte Dnister Black"
+    }
+  ],
+  "informations": {
+    "poids": "15.60 kg (taille M)",
+    "poids maximum": "136 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium :Aluminium Alpha Platinum, espace de rangement interne, douille de direction conique, Knock Block 2.0, acheminement interne guidé, protection du tube diagonal, pivot de suspension en magnésium, Mino Link, ABP, Boost148, débattement de 120 mm",
+      "fourche": "RockShox Recon Silver RL, Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 42mm, Boost110, Maxle Stealth, débattement de 130 mm",
+      "amortisseur": "X-Fusion Pro 2, amortisseur à 2 positions, 185x50 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, chape longue, 12-vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents, 12-vitesses",
+      "chaîne": "Shimano Deore M6100",
+      "pédalier": "Shimano MT512, plateau 30 dents (max. 36 dents rond ou 34 dents ovale, min. 28 dents), ligne de chaîne de 55 mm, longueur de 170 mm"
+    },
+    "boitier de pédalier": "Shimano SM-BB52, 73 mm, roulement externe fileté",
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Shimano MT200, disques RT26 6 trous (180/160 mm)",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "TranzX JD-YSI-22PLQ, acheminement interne, 34,9 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Kovee, double paroi, Tubeless Ready, 32 trous, largeur de 23 mm, valve Presta",
+      "pneus": "Bontrager XR4 Team Issue, Tubeless Ready, flancs Inner Strength, tringle en aramide, 120 tpi, 29x2,40''"
+    },
+    "moyeux ": "Avant : Bontrager, alliage, 6 trous, Boost110, axe traversant 15 mm / Arrière : Axe traversant Bontrager Switch, levier amovible",
+    "direction": {
+      "cintre": "Bontrager Rhythm Comp, Alu, 31,8 mm, Rise 15 mm, largeur de 750 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Bontrager Rhythm Comp, 31,8 mm, Knock Block, 0°, longueur de 50 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1150,
+      "stack (mm)": 592,
+      "reach (mm)": 424,
+      "longueur tige de selle (mm)": 346,
+      "débattement tige de selle (mm)": 100
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1180,
+      "stack (mm)": 592,
+      "reach (mm)": 454,
+      "longueur tige de selle (mm)": 454,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "M/L",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1197,
+      "stack (mm)": 469,
+      "reach (mm)": 469,
+      "longueur tige de selle (mm)": 454,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1214,
+      "stack (mm)": 601,
+      "reach (mm)": 484,
+      "longueur tige de selle (mm)": 497,
+      "débattement tige de selle (mm)": 170
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 653,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1240,
+      "stack (mm)": 615,
+      "reach (mm)": 504,
+      "longueur tige de selle (mm)": 497,
+      "débattement tige de selle (mm)": 170
+    },
+    {
+      "taille de cadre": "XXL",
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 675,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1265,
+      "stack (mm)": 624,
+      "reach (mm)": 524,
+      "longueur tige de selle (mm)": 497,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

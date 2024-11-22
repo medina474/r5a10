@@ -1,0 +1,139 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2583278",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-180 cm",
+    "L / 178-190 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Orbea Alma M51 Sram NX Eagle 12V 29'' Argent Halo Gris Shark 2023",
+  "marque": "Orbea",
+  "description": "La géométrie World Cup de l'Orbea Alma est l'aboutissement d'années de travail à dessiner des vélos XC de classe mondiale. La position est agressive, confortable et rapide. Contrairement à la géométrie trail qui sacrifie quelque peu la précision à l'endurance, la géométrie XC est précise et intuitive pour un transfert de puissance maximum. Les angles et les dimensions sont minutieusement calculés pour toute une gamme de tailles, afin d'optimiser la puissance avec une efficacité accrue. L'Alma est léger, rapide, et son rendement est encore meilleur. Peu de vélos de XC rigides d'aujourd'hui sont aussi ludiques et performants en montée.\r\n\r\nLes ingénieurs de chez Orbea utilisent une construction en carbone à la pointe de la technologie pour fabriquer le cadre le plus sophistiqué possible. Un processus complexe et laborieux dont vous apprécierez les résultats une fois en selle. Les cadres OMR (Orbea Monocoque Race) ajoutent des fibres à haut module et à haute résistance aux configurations standard pour optimiser les rapports rigidité/poids. Le moulage des composants avec des mousses EPS et des inserts en PU pour le tube de direction et le boitier de pédalier élimine les plis et les arêtes dans des zones critiques, ce qui permet d’utiliser moins de carbone sans aucun compromis en termes de durabilité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/278/583278/2583278/5217231",
+  "mpn": "N22019MD",
+  "gtin13": "8434446245558",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-180 cm",
+      "stock": 10,
+      "prix": 1999.99,
+      "mpn": "N22018MD",
+      "sku": "2398926",
+      "gtin13": "8434446245527",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2696302-vtt_semi_rigide_orbea_alma_m51_sram_nx_eagle_12v_29___argent_halo_gris_shark_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-190 cm",
+      "stock": 10,
+      "prix": 1999.99,
+      "mpn": "N22019MD",
+      "sku": "2398907",
+      "gtin13": "8434446245558",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2696302-vtt_semi_rigide_orbea_alma_m51_sram_nx_eagle_12v_29___argent_halo_gris_shark_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 2,
+      "prix": 1999.99,
+      "mpn": "N22021MD",
+      "sku": "2398849",
+      "gtin13": "8434446245589",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2696302-vtt_semi_rigide_orbea_alma_m51_sram_nx_eagle_12v_29___argent_halo_gris_shark_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "MD - Halo Silver (Gloss) - Shark Grey (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Alma Carbon OMR, Boost 12x148 mm, PF BB, Internal cable routing",
+      "fourche": "RockShox Judy Silver TK, Remote, Solo Air, Boost 15x110 mm, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram NX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1230 Eagle, 11-50 Dents",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Sram Stylo 6K Dub, Boost, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano MT200, Hydr. Disc Brake",
+      "selle": "Selle Italia Model X, Fec, Alloy Rail, 145x248 mm",
+      "tige de selle": "OC Mountain Control MC20, 27.2 mm, Dropper, Travel 80 mm / OC Horizontal Dropper Remote"
+    },
+    "roues": {
+      "jantes": "Alloy, Tubeless, 25c, 32H, 29\"",
+      "pneus": "Maxxis Ikon, FB, 60 TPI, Dual, 29x2.20\""
+    },
+    "direction": {
+      "cintre": "Alloy, 31.8 mm, Flat, 740 mm, Sweep 9°",
+      "potence": "Alloy forged, -7º",
+      "jeu de direction": "FSA 1-1/8 - 1-1/2\" Integrated"
+    },
+    "référence": "N220"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 559,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1083,
+      "stack (mm)": 593,
+      "reach (mm)": 395
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 593,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1118,
+      "stack (mm)": 602,
+      "reach (mm)": 426
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 483,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1144,
+      "stack (mm)": 612,
+      "reach (mm)": 448
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 533,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1175,
+      "stack (mm)": 625,
+      "reach (mm)": 474
+    }
+  ]
+}

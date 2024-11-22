@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2657177",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cannondale Habit 4 Shimano Deore 12V 29'' Rouge Candy",
+  "marque": "Cannondale",
+  "description": "Un VTT de trail fait pour grimper, foncer sur terrain plat et dévaler les descentes. Un vélo pour toutes les situations et tout pour le plaisir !\r\n\r\nLa géométrie du Cannondale Habit 4 est spécialement adaptée à la taille. Grâce à la conception Proportional Response, tout, depuis la configuration de la suspension jusqu’à la géométrie, sans oublier la longueur des bases arrière, est entièrement adapté selon la taille, pour vous permettre d’exprimer votre performance au maximum. Une conception axée sur la performance, à votre taille.\r\n\r\nAvec un angle du tube de direction de 65,5° et un angle du tube de selle de 77,5°, vous êtes installé(e) dans la position optimale pour accélérer dans les montées, foncer dans les descentes et vous arrêter quand vous voulez.\r\n\r\nPriorité à la simplicité et à la commodité pour le rider, avec un boîtier de pédalier fileté, une patte de dérailleur universelle (UDH), une fixation d’amortisseur standard, le passage interne des câbles et, une ligne de chaîne au standard de 55 mm pour un dégagement de pneu supérieur. Tout est conçu pour rendre le vélo plus facile à vivre et à aimer.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/177/657177/2657177/5340630",
+  "mpn": "C23401U10XL",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-175 cm",
+      "stock": 2,
+      "prix": 1999.99,
+      "mpn": "C23401U10MD",
+      "sku": "2438909",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772909-vtt_tout_suspendu_cannondale_habit_4_shimano_deore_12v_29___rouge_candy"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 1,
+      "prix": 1999.99,
+      "mpn": "C23401U10LG",
+      "sku": "2438891",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772909-vtt_tout_suspendu_cannondale_habit_4_shimano_deore_12v_29___rouge_candy"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-195 cm",
+      "stock": 1,
+      "prix": 1999.99,
+      "mpn": "C23401U10XL",
+      "sku": "2438947",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2772909-vtt_tout_suspendu_cannondale_habit_4_shimano_deore_12v_29___rouge_candy"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Candy Red"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Habit SmartForm C1 Alloy, 130 mm travel, Proportional Response Suspension and Geo, 55 mm chainline, ISCG05, BSA threaded BB, post mount brake, tapered headtube, DirectLine internal cable routing, UDH hanger",
+      "fourche": "RockShox Recon RL, 140 mm, Solo Air, 15x110 mm thru-axle, tapered steerer, 42 mm offset",
+      "amortisseur": "RockShox Deluxe Select, DebonAir, adjustable rebound"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 12-vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, 12-vitesses",
+      "cassette": "Shimano Deore M6100, 10-51, 12 vitesses",
+      "chaîne": "KMC X12, 12-vitesses",
+      "pédalier": "Shimano, FC-5121, 30 dents, 55 mm chainline",
+      "boîtier de pédalier": "Shimano BSA 73"
+    },
+    "équipements": {
+      "freins": "Shimano MT200 hydraulic disc, 180/180 mm RT30 centerlock rotors",
+      "selle": "Cannondale Ergo XC",
+      "tige de selle": "TranzX dropper, internal routing, 31.6, 130 mm (S), 150 mm (M, L, XL)"
+    },
+    "roues": {
+      "jantes": "WTB STX i25 TCS, 32 Spokes Stainless Steel, tubeless ready",
+      "moyeu avant": "Shimano MT400, 15x110 mm thru-axle ",
+      "moyeu arrière": "Shimano MT410, 12x148mm thru-axle, MS freehub",
+      "pneus": "Maxxis Rekon, 29x2.4'', EXO, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 15 mm rise, 8° sweep, 4° rise, 780 mm",
+      "poignées": "Cannondale Locking Grips",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 0°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 563,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1170,
+      "stack (mm)": 623,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1200,
+      "stack (mm)": 632,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1236,
+      "stack (mm)": 641,
+      "reach (mm)": 480
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 654,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1275,
+      "stack (mm)": 650,
+      "reach (mm)": 515
+    }
+  ]
+}

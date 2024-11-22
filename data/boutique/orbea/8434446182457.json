@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2644117",
+  "tailles": [
+    "S / 150-165 cm",
+    "M / 160-175 cm",
+    "L / 170-185 cm",
+    "XL / 180-198 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Orbea Occam H20 LT Shimano SLX 12V 29'' Gris Anthracite Rouge Metallic 2023",
+  "marque": "Orbea",
+  "description": "Les meilleurs vélos de trail modernes sont utilisés sur une variété impressionnante de terrains et doivent donc pouvoir s'y adapter. Avec sa géométrie plus agressive, une fourche Fox 36 et un débattement de 150 mm, l'Orbea Occam LT, le cousin sauvage de l'Occam, offre des performances optimales. La robuste fourche Fox 36 réduit l'angle de direction de l'Occam LT de 0,5º, pour une position encore plus stable.\r\n\r\nAu lieu d'utiliser un \"tunnel de choc\" moins efficace, l'Occam décale l'amortisseur vers le côté gauche du cadre, ce qui permet au support droit d'être plus central et de gérer plus efficacement les forces de suspension agissant sur le triangle avant. Cette solution permet de régler la rigidité de cette zone très sollicitée sans ajouter de poids inutile.\r\n\r\nOrbea utilise des technologies de fabrication et des matériaux en aluminium qui sont tout aussi avancées que leurs procédés de travail du carbone. Les tubes en aluminium de haute qualité sont soumis à des processus visant à aligner la structure du grain avant de subir un processus d'hydroformage avancé permettant un contrôle précis de la forme et de l'épaisseur des parois. Ces procédés augmentent la résistance et permettent d'affiner la rigidité tout en optimisant le poids des cadres. De nombreux tubes sont à double ou triple épaisseur, ce qui permet de gagner du poids dans les zones éloignées des contraintes des joints et des zones de soudure. L'utilisation de technologies d'aluminium aussi avancées que les techniques employées par Orbea avec le carbone garantit que leurs vélos en aluminium ne sont jamais de seconde qualité.\r\n\r\nLa plus grande nouveauté pour l'alliage est l'ajout des nouvelles soudures à finition polie sur les cadres hydroformés. Chaque soudure du cadre principal est polie et lissée. Si le résultat final s’apparente à l'esthétique d'un cadre monocoque, le polissage permet avant tout d’augmenter la résistance à la fatigue dans ces zones à contrainte élevée. Le polissage exige des heures de travail à la main et de microbillage. Seuls les cadres Orbea les plus exclusifs sont fabriqués de cette manière.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/117/644117/2644117/5325674",
+  "mpn": "N25615LM",
+  "gtin13": "8434446182457",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-165 cm",
+      "stock": 1,
+      "prix": 2199.99,
+      "mpn": "N25615LM",
+      "sku": "2677976",
+      "gtin13": "8434446182457",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2765169-vtt_tout_suspendu_orbea_occam_h20_lt_shimano_slx_12v_29___gris_anthracite_rouge_metallic_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "LM - Glitter Anthracite - Metallic Red (Gloss)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Occam Hydro High Polished Triple Butted, Concentric Boost 12x148 mm rear axle, Pure Trail geometry, Internal cable routing, Asymmetric design, 29\" wheels, Linkage compatible with OC multitool",
+      "fourche": "Fox 36 Float Performance, Grip 3-Position, QR15x110 mm, 150 mm travel",
+      "amortisseur": "Fox Float X Performance, 2-Position, Evol LV, custom tune, 210x55 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX SL-M7100-I, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX RD-M7100-SGS, Shadow RD+, 12-vitesses",
+      "cassette": "Shimano SLX CS-M7100-12, 10-51 Dents",
+      "chaîne": "Shimano Deore CN-M6100",
+      "pédalier": "Race Face Aeffect, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6100, Hydr. Disc Brake",
+      "selle": "Fizik Taiga, S-alloy rail",
+      "tige de selle": "OC Mountain Control MC20, 31.6 mm, Dropper / Shimano SL-MT500-IL I-Spec EV Remote"
+    },
+    "roues": {
+      "jantes": "Race Face AR 30c, Tubeless Ready, 29\"",
+      "pneus": "Maxxis Dissector, 60 TPI, 3C MaxxTerra, Exo, TLR, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC30, Rise 20 mm, Width 800 mm",
+      "potence": "Alloy 3D forged, 35 mm interface, -7º",
+      "jeu de direction": "Acros Alloy 1-1/8 - 1-1/2\" Integrated"
+    },
+    "référence": "N256"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 381,
+      "tube supérieur (mm)": 565,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1165,
+      "stack (mm)": 604,
+      "reach (mm)": 425,
+      "longueur potence (mm)": 45,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 390,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1194,
+      "stack (mm)": 613,
+      "reach (mm)": 450,
+      "longueur potence (mm)": 45,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 457,
+      "tube supérieur (mm)": 619,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1224,
+      "stack (mm)": 627,
+      "reach (mm)": 474,
+      "longueur potence (mm)": 55,
+      "longueur manivelles (mm)": 175,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 508,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1259,
+      "stack (mm)": 646,
+      "reach (mm)": 500,
+      "longueur potence (mm)": 55,
+      "longueur manivelles (mm)": 175,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2569781",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BH Ultimate 6.5 Shimano Deore/XT 12V 29'' Noir/Gris",
+  "marque": "BH",
+  "description": "Libérez la rapidité qui sommeille en vous. Votre combativité, lorsqu’il s’agit d’appuyer sur les pédales. Votre côté le plus explosif. Chaque coup de pédale se transforme en vitesse pure. Aucun obstacle entre votre puissance et le terrain. À la sortie de chaque virage, le vélo vous invite à vous redresser sur les pédales et à tout donner dans chaque compétition.\r\n\r\nL’Ultimate est un vélo champion du monde.\r\nChaque évolution poursuit un unique objectif : la compétition dans les épreuves de Coupe du monde.\r\nVisez les niveaux les plus élevés, la meilleure version de vous-même.\r\n\r\nLe cadre de l’Ultimate est composé de fibres haut module Toray T1100 qui en allègent le poids pour afficher au final 820 grammes de pure puissance sur la balance.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/781/569781/2569781/5183928",
+  "mpn": "A6593NSSLA",
+  "gtin13": "8413616962129",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 2,
+      "prix": 1699.99,
+      "mpn": "A6593NSSMD",
+      "sku": "2560113",
+      "gtin13": "8413616953097",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2682317-vtt_semi_rigide_bh_ultimate_6_5_shimano_deore_xt_12v_29___noir_gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 5,
+      "prix": 1699.99,
+      "mpn": "A6593NSSLA",
+      "sku": "2560204",
+      "gtin13": "8413616962129",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2682317-vtt_semi_rigide_bh_ultimate_6_5_shimano_deore_xt_12v_29___noir_gris"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Ultimate carbon, pc layup, acros icr, pf92bb, 148x12,udh",
+      "fourche": "RockShox Judy RL Remote Lock 100mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 6100 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT 8100 12 vitesses",
+      "cassette": "Shimano Deore 6100, 10/51 Dents",
+      "chaîne": "Shimano Deore",
+      "pédalier": "Shimano MT510, 175 mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT201, 180/160 mm",
+      "selle": "Prologo Nago RS",
+      "tige de selle": "BH Lite 27,2mm, 420mm"
+    },
+    "roues": {
+      "jantes": "BH Lite",
+      "pneu avant": "Ikon 2.20",
+      "pneu arrière": "al Race King 2.21"
+    },
+    "direction": {
+      "cintre": "BH Lite Flat 780 mm",
+      "poignées": "BH Lock On",
+      "potence": "BH SL 80mm, 31,8mm, +/-6º",
+      "jeu de direction": "BH Evo By Accros BlockLock Integrated Sealed Bearing"
+    },
+    "collier de selle": "Ultimate 31,8mm",
+    "référence": "A6593"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 583,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1093,
+      "stack (mm)": 605,
+      "reach (mm)": 410
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1119,
+      "stack (mm)": 610,
+      "reach (mm)": 435
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 631,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1145,
+      "stack (mm)": 624,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1165,
+      "stack (mm)": 638,
+      "reach (mm)": 470
+    }
+  ]
+}

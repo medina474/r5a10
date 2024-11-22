@@ -1,0 +1,162 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2700772",
+  "tailles": [
+    "53 cm / 170-175 cm",
+    "56 cm / 176-182 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cube Nuroad C:62 SLT Sram XX1 Eagle AXS/Force eTap AXS 12V 700 mm Rouge Liquid",
+  "marque": "Cube",
+  "description": "Un fantastique cadre taillé pour le gravel combinant le pilotage dynamique d’un vélo de course, la robustesse d’une machine de cyclo-cross et le confort d’un vélo de randonnée. L’équilibre n’est pas facile à trouver, mais les ingénieurs de chez Cube y sont pourtant parvenus avec le Nuroad C:62. La construction carbone légère et l’attention au détail dont il a fait preuve sont la garantie de sa robustesse, son confort et sa polyvalence. Sa fourche entièrement en carbone présente des supports de fixation pour porte-bagages de type low-rider, tandis que les supports intégrés de porte-bagages et de garde-boue permettent d'accessoiriser facilement le vélo. Il est également pratique ; ses incroyables dégagements vous permettent de l’équiper de pneus de 45 mm sans garde-boue, ou 40 mm avec garde-boue.\r\n\r\nL’étiquette SLT n’est attribuée qu’à quelques-uns des meilleurs vélos Cube. Dans le cas du Nuroad C:62 SLT, cela signifie que vous avez affaire à une machine exceptionnellement légère et polyvalente combinant cadre et fourche tout en carbone et technologies ultimes en matière de composants. Sa transmission Sram XX1 Eagle AXS/Force eTap AXS 12 vitesses offre des changements de vitesse fluides et une belle profondeur de braquets. Ses roues en carbone Newmen Advanced spécial gravel sont chaussées de pneus Schwalbe G-One R conçus pour la compétition. Enfin, ses freins à disque hydrauliques correspondants ont la puissance nécessaire pour vous permettre de garder le contrôle, quelle que soit la situation. Richement équipé pour les randonnées ou dans son plus simple appareil pour les explorations, c’est à vous de choisir.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/772/700772/2700772/5442347",
+  "mpn": "68033056",
+  "gtin13": "4054571409102",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "53 cm / 170-175 cm",
+      "stock": 1,
+      "prix": 4499.99,
+      "mpn": "68033053",
+      "sku": "2397510",
+      "gtin13": "4054571409096",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2818740-gravel_bike_cube_nuroad_c_62_slt_sram_xx1_eagle_axs_force_etap_axs_12v_700_mm_rouge_liquid"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 176-182 cm",
+      "stock": 1,
+      "prix": 4499.99,
+      "mpn": "68033056",
+      "sku": "2397496",
+      "gtin13": "4054571409102",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2818740-gravel_bike_cube_nuroad_c_62_slt_sram_xx1_eagle_axs_force_etap_axs_12v_700_mm_rouge_liquid"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "liquidred´n´red"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 7.8,
+    "poids maximum": "115 kg : le poids maximum correspond au poids combiné maximal du cycliste et du vélo",
+    "poids constructeur (en g)": 7800,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram XX1 Eagle AXS 12VSram Force eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:62 Advanced Twin Mold, Internal Cable Routing, Flat Mount Disc, Fender/Rack & Kickstand Option, 12x142 mm, AXH, Width tire maximum: 45 mm",
+      "fourche": "Carbone : Cube C:62 Technology, 1 1/8\" - 1 1/4\" Tapered, Flat Mount Disc, Fender & Lowrider Mounts, Internal Light Cable Option, 12x100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Force eTap AXS, 1x12-vitesses",
+      "dérailleur arrière": "Sram XX1 Eagle AXS, 12-vitesses",
+      "cassette": "Sram XG-1299 Eagle Rainbow, 10-50 Dents",
+      "chaîne": "Sram PC-XX1 Eagle Rainbow",
+      "pédalier": "Sram Force D1 DUB, Carbon, 40 Dents"
+    },
+    "équipements": {
+      "freins": "Sram Force eTap AXS, Hydr. Disc Brake, (160/160)",
+      "selle": "Natural Fit Nuance SLT Road Carbon",
+      "tige de selle": "Newmen Advanced, Carbon, 27.2 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Advanced SL X.R.25, Carbon, 12x100/12x142 mm",
+      "pneus": "Schwalbe G-One-R, Kevlar, 40-622, 700 x 40 mm"
+    },
+    "direction": {
+      "cintre": "Easton EC70 AX Gravel, Carbon",
+      "potence": "Cube Performance Stem SLX, 31.8 mm, -6°",
+      "jeu de direction": "VP, Top Integrated 1 1/8\", Bottom Integrated 1 1/4\""
+    },
+    "ruban de cintre": "Acid Bartape CX",
+    "référence": 680330
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de cadre (cm)": 50,
+      "tube de selle (mm)": 434,
+      "tube supérieur (mm)": 522,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 102,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 75.3,
+      "empattement (mm)": 1041,
+      "stack (mm)": 519,
+      "reach (mm)": 386,
+      "longueur potence (mm)": 80,
+      "largeur cintre (mm)": 420,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "S",
+      "taille de cadre (cm)": 53,
+      "tube de selle (mm)": 464,
+      "tube supérieur (mm)": 537,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 124,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1042,
+      "stack (mm)": 544,
+      "reach (mm)": 386,
+      "longueur potence (mm)": 80,
+      "largeur cintre (mm)": 440,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (cm)": 56,
+      "tube de selle (mm)": 494,
+      "tube supérieur (mm)": 560,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 154,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1041,
+      "stack (mm)": 578,
+      "reach (mm)": 389,
+      "longueur potence (mm)": 90,
+      "largeur cintre (mm)": 440,
+      "longueur manivelles (mm)": 172.5
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (cm)": 58,
+      "tube de selle (mm)": 514,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 174,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1046,
+      "stack (mm)": 599,
+      "reach (mm)": 392,
+      "longueur potence (mm)": 100,
+      "largeur cintre (mm)": 460,
+      "longueur manivelles (mm)": 172.5
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (cm)": 61,
+      "tube de selle (mm)": 544,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 197,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1058,
+      "stack (mm)": 623,
+      "reach (mm)": 402,
+      "longueur potence (mm)": 100,
+      "largeur cintre (mm)": 460,
+      "longueur manivelles (mm)": 175
+    }
+  ]
+}

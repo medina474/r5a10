@@ -1,0 +1,107 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2517302",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Electrique Semi-Rigide Haibike Alltrack 6 Shimano Deore 11V 720 Wh 29'' Orange Papaye 2023",
+  "marque": "Haibike",
+  "description": "À la recherche d'un VTT électrique semi-rigide fiable pour un usage sportif ? Alors notre Alltrack 6 est le vélo électrique idéal pour vos aventures !\r\n\r\nLe tout nouveau moteur Yamaha PW-S2, puissant, et sa batterie intégrée de 720 Wh vous assurent de ne pas tomber en panne sur la route.\r\nLa robustesse de pièces, les puissants freins à disque et la fourche à suspension au débattement de 120 mm SR Suntour sont un gage de sécurité et de plaisir de rouler.\r\n\r\nL'Alltrack 6 est disponible avec des cadres de petite taille, S et M, et des roues de 27,5'', ainsi qu'avec des cadres de tailles M à XL et des roues de 29''.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/302/517302/2517302/4954215",
+  "mpn": "45208340",
+  "gtin13": "4054624143526",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 12,
+      "prix": 2299.99,
+      "mpn": "45208340",
+      "sku": "2420883",
+      "gtin13": "4054624143526",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2589252-vtt_electrique_semi_rigide_haibike_alltrack_6_shimano_deore_11v_720_wh_29___orange_papaye_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Haibike, Alltrack Aluminium 6061",
+      "fourche": "SR Suntour, XCM34 NLO DS, Steel spring/oil, 120 mm, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110mm thru-axle Boost"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha, PW-S2, 250W, 75 Nm",
+      "écran": "Yamaha, Side Switch, 1.7\" LCD, 7 functions",
+      "batterie": "InTube, 720 Wh"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M5100, Trigger switch, 1x11 vitesses",
+      "dérailleur arrière": "Shimano Deore M5100",
+      "cassette": "Shimano M5100, 11 - 51 dents",
+      "chaîne": "Shimano HG601",
+      "pédalier": "Miranda, Kies, Steel, 38 dents",
+      "boîtier de pédalier": "Integrated in the motor"
+    },
+    "équipements": {
+      "freins": "Shimano, MT410, Hydraulic disc brakes, disc Shimano, RT30-M 180/180 mm",
+      "selle": "Selle Royal, Vivo Unitech",
+      "tige de selle": "Aluminium, Patent, 34.9 mm",
+      "pédales": "Freeridepedal, Aluminium, with Reflector"
+    },
+    "roues": {
+      "jantes": "Rodi, Tryp 30, with eyelets, hollow rim, Aluminium",
+      "pneus": "Schwalbe, Nobby Nic Performance, 65-622, 29\" x 2.6\""
+    },
+    "direction": {
+      "cintre": "XLC, 720 mm",
+      "potence": "XLC, A-Head, A-head, 31.8 mm",
+      "jeu de direction": "Feimin, A-Head Tapered, Aluminium, Cartridge"
+    },
+    "poids max": "120 kg"
+  },
+  "geometries": [
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1216,
+      "stack (mm)": 674,
+      "reach (mm)": 432
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 155,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1240,
+      "stack (mm)": 683,
+      "reach (mm)": 452
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1264,
+      "stack (mm)": 692,
+      "reach (mm)": 472
+    }
+  ]
+}

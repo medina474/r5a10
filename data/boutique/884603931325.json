@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2494070",
+  "tailles": [
+    "XS / 147-165 cm",
+    "S / 160-175 cm",
+    "M / 170-185 cm",
+    "L / 177-193 cm",
+    "XL / 182-203 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cannondale Topstone Carbon 4 Shimano GRX 10V 700 mm Vert Olive",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Topstone Carbon 4 est le meilleur vélo gravel, des routes de campagne aux singletracks. Avec l’adhérence et le confort fournis par la suspension Kingpin, rien n’est hors de portée.\r\n\r\nUn vélo confortable sans le surpoids et la complexité d’un amortisseur et des biellettes, la suspension Kingpin est la réponse aux riders « gravel » les plus exigeants. Que vous ayez besoin de plus de confort pour rouler plus loin, de plus de traction pour vous donner à fond ou de plus de flexibilité pour tirer parti de la technologie, - la suspension Kingpin est la réponse légère et sans entretien à tous vos rêves.\r\n\r\nAvec ses nombreux points de fixation pour bagages et bidons sur le cadre et la fourche, le Topstone est prêt à être chargé pour les longues aventures.\r\nFoncez sans hésiter et gardez le sourire ! Axé autour de notre géométrie de direction OutFront, le Topstone Carbon offre un pilotage stable dans les terrains accidentés et une grande agilité partout ailleurs.\r\n\r\nLe capteur de roue intégré fournit des informations ultra précises sur la vitesse, l’itinéraire et la distance. Il vous permet aussi d’enregistrer votre vélo et vous rappelle, entre autres, les opérations d’entretien nécessaires, tout cela via l’appli gratuite Cannondale.\r\n\r\nRendez chaque sortie plus agréable, grâce une visibilité renforcée et en étant averti des dangers. Le cadre est prêt pour SmartSense, ce qui signifie qu’il est très facile d’y installer notre système d’éclairage et de radar arrière intelligent.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/70/494070/2494070/4884266",
+  "mpn": "C15402U20SM",
+  "gtin13": "884603931325",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 160-175 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "C15402U20SM",
+      "sku": "2151419",
+      "gtin13": "884603931325",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2559988-gravel_bike_cannondale_topstone_carbon_4_shimano_grx_10v_700_mm_vert_olive"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Olive Green"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Topstone Carbon, Kingpin suspension system, SmartSense compatible, Proportional Response construction, 12x142mm thru-axle, 27.2 dropper post ready, BSA 68mm threaded BB, DirectLine internal cable routing, removable fender bridge, multiple gear/bottle mounts",
+      "fourche": "Carbone : Topstone Carbon, 1-1/8\" to 1.5\" steerer, 55mm OutFront offset, flat mount disc, internal routing, 12x100 thru-axle, triple bottle/gear mounts, fender mounts"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX 400 2x10 vitesses",
+      "dérailleur arrière": "Shimano GRX 400, Shadow RD+, 10 vitesses",
+      "cassette": "SunRace, 11-36 dents, 10 vitesses",
+      "chaîne": "KMC X10, 10 vitesses",
+      "pédalier": "FSA Gossamer Pro Modular AGX+, 46/30 Dents",
+      "boîtier de pédalier": "FSA Mega EXO"
+    },
+    "dérailleur avant": "Shimano GRX 400, braze-on",
+    "équipements": {
+      "freins": "Shimano GRX 400 hydraulic disc, 160/160mm RT54 rotors",
+      "selle": "Fizik Aliante Delta, S-alloy rails",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 27.2 x 350mm"
+    },
+    "roues": {
+      "jantes": "WTB ST i23 TCS, 700c, 28h, tubeless ready",
+      "moyeu avant": "Formula cartridge bearing, 12x100mm centerlock ",
+      "moyeu arrière": "Formula cartridge bearing, 12x142mm centerlock",
+      "pneus": "Vittoria Terreno Dry 700x40c"
+    },
+    "direction": {
+      "cintre": "Cannondale 3, butted 6061 Alloy, 16 deg flare drop",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 7°",
+      "jeu de direction": "Integrated, Carbon, 1-1/8\" - 1-1/2"
+    },
+    "ruban de cintre": "Fizik Solocush Soft, 3 mm",
+    "accessoires": "Cannondale Wheel Sensor"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 533,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 71.4,
+      "empattement (mm)": 1010,
+      "stack (mm)": 534,
+      "reach (mm)": 371
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 458,
+      "tube supérieur (mm)": 544,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 123,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 71.6,
+      "empattement (mm)": 1013,
+      "stack (mm)": 551,
+      "reach (mm)": 377
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 505,
+      "tube supérieur (mm)": 557,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 71.8,
+      "empattement (mm)": 1029,
+      "stack (mm)": 574,
+      "reach (mm)": 383
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 553,
+      "tube supérieur (mm)": 572,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 177,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 71.9,
+      "empattement (mm)": 1044,
+      "stack (mm)": 600,
+      "reach (mm)": 390
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 590,
+      "tube supérieur (mm)": 587,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 205,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 72.1,
+      "empattement (mm)": 1061,
+      "stack (mm)": 624,
+      "reach (mm)": 397
+    }
+  ]
+}

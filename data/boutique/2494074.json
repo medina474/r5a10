@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2494074",
+  "tailles": [
+    "XS / 137-157 cm",
+    "S / 154-162 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Trail Women's 5 Shimano Deore 10V 27.5'' Gris Lavande",
+  "marque": "Cannondale",
+  "description": "Le VTT Cannondale Trail Women's 5 possède un cadre en aluminium à la fois simple et sophistiquée, ce qui le rend léger et réactif. De plus, les micro-suspension SAVE apportent plus de confort et un meilleur contrôle grâce à des zones de flexion créent dans des endroits stratégiques du triangle arrière.\r\n\r\nLe Trail est équipé de roues de 27.5'' pour les plus petites tailles et des roues de 29'' pour les autres tailles, afin de garantir le meilleur mélange d'ajustement, de rapidité et de plaisir.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/74/494074/2494074/5222320",
+  "mpn": "C26351F20SM",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 154-162 cm",
+      "stock": 1,
+      "prix": 799.99,
+      "mpn": "C26351F20SM",
+      "sku": "2438911",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2559884-vtt_semi_rigide_cannondale_trail_women_s_5_shimano_deore_10v_27_5___gris_lavande"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Lavender"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M4100 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : SmartForm C3 Alloy, SAVE, 1-1/8\" headtube, post mount disc, StraightShot internal cable routing, dropper post compatible, BSA-73",
+      "fourche": "SR Suntour XCR32 RL, 100mm, remote lockout, coil, 42mm offset (27.5\"), 46mm offset (29\")"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M4100, 2x10-vitesses",
+      "dérailleur arrière": "Shimano Deore M4100, 10 vitesses",
+      "cassette": "Sunrace, 11-42 Dents",
+      "chaîne": "KMC X10",
+      "pédalier": "Shimano M4100, 36/26 Dents",
+      "boîtier de pédalier": "Sealed cartridge bearing, square taper"
+    },
+    "dérailleur avant": "Shimano Deore M4100, 34.9mm clamp",
+    "équipements": {
+      "freins": "Tektro M275 hydraulic disc, 160/160mm rotors",
+      "selle": "Cannondale Stage 2 Women's",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 31.6 x 350mm (XS - SM), 400mm (MD-XL)"
+    },
+    "roues": {
+      "jantes": "WTB SX19, 32h",
+      "pneus": "Schwalbe Rocket Rick, 29x2.25\" (27.5x2.25\" - XS, SM), K-Guard"
+    },
+    "direction": {
+      "cintre": "Cannondale Riser, 6061 Alloy, 25mm rise, 8° sweep, 6° rise, 720mm",
+      "poignées": "Cannondale Dual-Density",
+      "potence": "6061 Alloy, 31.8, 7°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 330,
+      "tube supérieur (mm)": 535,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1054,
+      "stack (mm)": 573,
+      "reach (mm)": 365
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 381,
+      "tube supérieur (mm)": 577,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1098,
+      "stack (mm)": 591,
+      "reach (mm)": 402
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 432,
+      "tube supérieur (mm)": 609,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1140,
+      "stack (mm)": 623,
+      "reach (mm)": 4025
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 634,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1166,
+      "stack (mm)": 632,
+      "reach (mm)": 447
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 533,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1192,
+      "stack (mm)": 641,
+      "reach (mm)": 469
+    }
+  ]
+}

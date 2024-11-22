@@ -1,0 +1,159 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2632842",
+  "tailles": [
+    "18 Pouces / 169-178 cm",
+    "20 Pouces / 177-186 cm",
+    "22 Pouces / 185-197 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cube Elite C:68X SLX Shimano XTR 12V 29'' Gris Bleu Teamline 2023",
+  "marque": "Cube",
+  "description": "Puissance. Vitesse. Contrôle. Pour un cadre de course haute performance comme celui du Cube Elite C:68X, tout est dans les détails. Le carbone de haute qualité C:68X de chez Cube et leur technologie de fabrication monocoque Advanced Twin Mold leur ont permis de développer l'un des hardtails de cross-country les plus légers du marché. Sa couche de carbone optimisée, son tube de direction conique et son axe arrière Boost se traduisent par une capacité d’accélération exceptionnelle. Ses haubans plus étroits permettent d’absorber les vibrations et vous permettent de prolonger vos sorties. Enfin, grâce à l’Agile Ride Geometry, vous bénéficiez de tout le contrôle nécessaire pour vous transcender en compétition.\r\n\r\nLe Cube Elite C:68X SLX est un vélo qui affiche vos prétentions. Aucun système de composants n’est comparable au système Shimano XTR en matière de fonction, de fiabilité et de durabilité. Les ingénieurs de chez Cube ont donc opté pour celui-ci. De sa transmission 1x12 vitesses incroyablement profonde à ses freins à disque hydrauliques fiables et puissants, il représente en tous points la perfection. Il est équipé de roues tubeless-ready en carbone Newmen Advanced à la fois légères, robustes et rigides, associées à des pneus Schwalbe Racing Ray et Racing Ralph. Enfin, sa fourche Fox 32 Step-cast Factory, souple et précise, vous fraie un chemin tout en douceur vers le podium. L'Elite C:68X SLX est prêt. Est-ce votre cas ?",
+  "image": "https://product-cdn-frz.alltricks.com/medium/842/632842/2632842/5311186",
+  "mpn": "61720018",
+  "gtin13": "4054571387196",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "18 Pouces / 169-178 cm",
+      "stock": 1,
+      "prix": 4299.99,
+      "mpn": "61720018",
+      "sku": "2394836",
+      "gtin13": "4054571387196",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755872-vtt_semi_rigide_cube_elite_c_68x_slx_shimano_xtr_12v_29___gris_bleu_teamline_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "20 Pouces / 177-186 cm",
+      "stock": 1,
+      "prix": 4299.99,
+      "mpn": "61720020",
+      "sku": "2395102",
+      "gtin13": "4054571387202",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755872-vtt_semi_rigide_cube_elite_c_68x_slx_shimano_xtr_12v_29___gris_bleu_teamline_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "22 Pouces / 185-197 cm",
+      "stock": 5,
+      "prix": 4799.99,
+      "mpn": "61720022",
+      "sku": "2395103",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755872-vtt_semi_rigide_cube_elite_c_68x_slx_shimano_xtr_12v_29___gris_bleu_teamline_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "teamline"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 8.7,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XTR 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:68X Monocoque Advanced Twin Mold Technology, ARG2, Tapered Headtube, PressFit BB, Boost 12x148 mm, Internal Cable Routing, Dropper Post ready, Width tires maximum: 57 mm",
+      "fourche": "Fox 32 SC Float Factory FIT4, 2-Position Remote, Tapered, Boost 15x110 mm, Kashima Coated, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XTR SL-M9100-I, Direct Attach, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XTR RD-M9100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano XTR CS-M9101-12, 10-51 Dents",
+      "chaîne": "Shimano CN-M9100",
+      "pédalier": "e*thirteen XCX Race Carbon, Boost, 34 Dents",
+      "boîtier de pédalier": "e*thirteen BB20, 92 mm Pressfit"
+    },
+    "équipements": {
+      "freins": "Shimano XTR BR-M9100, Hydr. Disc Brake, (180/160)",
+      "selle": "Natural Fit Nuance SLT Carbon",
+      "tige de selle": "Newmen Advanced Custom, Carbon, 400x27.2 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Advanced SL X.A.30 Carbon, 28/28 Spokes, Tubeless Ready, Boost 15x110/12x148 mm",
+      "pneu avant": " Schwalbe Racing Ray, Super Race, Addix Speed, Kevlar, 29x2.25\" ",
+      "pneu arrière": " Schwalbe Racing Ralph, Super Race, Addix Speed, Kevlar, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "Newmen Advanced SL 318.0, Carbon, 740 mm",
+      "poignées": "Acid React Pro",
+      "potence": "Newmen Evolution SL 318.2, 31.8 mm, -6°",
+      "jeu de direction": "Acros AzX/AiX, block lock, Top: semi 1 1/8\", Bottom: 1 1/2\""
+    },
+    "référence": 617200
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 16,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 424,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1077,
+      "stack (mm)": 602,
+      "reach (mm)": 402,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 18,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 424,
+      "douille de direction (mm)": 98,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1103,
+      "stack (mm)": 610,
+      "reach (mm)": 424,
+      "longueur de la potence (mm)": 80,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 20,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 424,
+      "douille de direction (mm)": 111,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1128,
+      "stack (mm)": 622,
+      "reach (mm)": 446,
+      "longueur de la potence (mm)": 80,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (pouces)": 22,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 515,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 424,
+      "douille de direction (mm)": 129,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1155,
+      "stack (mm)": 639,
+      "reach (mm)": 466,
+      "longueur de la potence (mm)": 90,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

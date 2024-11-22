@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2681654",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Santa Cruz Tallboy 5 S Carbone C Sram GX Eagle 12V 29'' Jaune 2024",
+  "marque": "Santa Cruz",
+  "description": "Le Tallboy a séduit de nombreux pilotes ces dernières années, ceux qui cherchent un vélo pour aller rouler en mode \"race\" ou ceux qui souhaitent passer la journée sur la selle à écumer les plus beaux sentiers lors de longues sorties.\r\nS'il devait exister un vélo de XC pour les descendeurs, ce serait le Tallboy.\r\n\r\nLa même qualité de pilotage quelle que soit la taille : géométrie proportionnelle et rigidité adaptée à la taille du cadre\r\nLa longueur des bases et l'angle du tube de selle sont proportionnels à la taille du cadre (autrement dit, la première augmente et le second s'ouvre avec la taille) pour que chaque pilote, quelle que soit sa taille, bénéficie de la même géométrie équilibrée et de la même maniabilité.\r\n\r\nNous modifions la rigidité en fonction de la taille du cadre pour offrir la même qualité de pilotage à tous les utilisateurs. Les pilotes de grande taille sollicitent davantage des cadres forcément plus grands (l'inverse est vrai aussi), mais nous y remédions en définissant une rigidité du cadre spécifique à la taille.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/654/681654/2681654/5410790",
+  "mpn": "0042677645627",
+  "gtin13": "0042677645627",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 4799.99,
+      "mpn": "0042677645627",
+      "sku": "2676082",
+      "gtin13": "0042677645627",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2806763-vtt_tout_suspendu_santa_cruz_tallboy_5_s_carbone_c_sram_gx_eagle_12v_29___jaune_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gloss Melon"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 13.56,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Santa Cruz Tallboy 29'' Kit S, 120 mm travel",
+      "fourche": "Fox 34 Float Performance, 130 mm",
+      "amortisseur": "Fox Float Performance DPS 190x45"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle 12 vitesses",
+      "cassette": "Sram XG1275, 10-50 dts",
+      "chaîne": "Sram GX Eagle",
+      "pédalier": "Sram GX Eagle, 148 DUB, 32 dts",
+      "boîtier de pédalier": "Sram DUB 68/73mm Threaded BB"
+    },
+    "équipements": {
+      "freins": "Sram G2 R, disques Avid Centerline 180/180 mm",
+      "selle": "WTB Silverado Medium CroMo",
+      "tige de selle": "OneUp V2 Dropper Post, 31.6 OR RockShox Reverb, 31.6"
+    },
+    "roues": {
+      "jantes": "RaceFace AR Offset 30 29\"",
+      "moyeu avant": "DT Swiss 370, 15x110, 28h ",
+      "moyeu arrière": "DT Swiss 370, 12x148, 36t, 28h, roue libre XD",
+      "pneu avant": " Maxxis Dissector 29x2.4\"WT, 3C MaxxTerra, EXO, TR ",
+      "pneu arrière": " Maxxis Rekon 29x2.4\"WT, 3C MaxxTerra, EXO, TR"
+    },
+    "direction": {
+      "cintre": "Burgtec RideWide Alloy Bar, 800mm",
+      "poignées": "Santa Cruz Bicycles House Grips",
+      "potence": "Burgtec Enduro MK3, 42mm",
+      "jeu de direction": "Cane Creek 40 IS Integrated Headset"
+    }
+  },
+  "geometries": [
+    {
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1138,
+      "stack (mm)": 601,
+      "reach (mm)": 405
+    },
+    {
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.3,
+      "empattement (mm)": 1167,
+      "stack (mm)": 610,
+      "reach (mm)": 430
+    },
+    {
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 602,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1199,
+      "stack (mm)": 619,
+      "reach (mm)": 455
+    },
+    {
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.8,
+      "empattement (mm)": 1227,
+      "stack (mm)": 628,
+      "reach (mm)": 475
+    },
+    {
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 644,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1257,
+      "stack (mm)": 646,
+      "reach (mm)": 495
+    },
+    {
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 671,
+      "longueur base (mm)": 443,
+      "douille de direction (mm)": 155,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 77.1,
+      "empattement (mm)": 1290,
+      "stack (mm)": 656,
+      "reach (mm)": 520
+    }
+  ]
+}

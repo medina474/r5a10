@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2414349",
+  "tailles": [
+    "S / 152-163 cm",
+    "M / 160-175 cm",
+    "L / 172-185 cm",
+    "XL / 182-195 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "NS Bikes Rag+ 3 Sram Apex 11V 700 mm Blanc 2022",
+  "marque": "NS Bikes",
+  "description": "Le vélo à gravel a explosé récemment et ce n'est pas étonnant. Ces vélos sont de véritables machines à tout faire, tant pour les débutants que pour les cyclistes expérimentés.\r\nNous étions dans le coup dès le début avec un vélo de gravel dont l'héritage de la terre est inscrit dans son ADN.\r\n\r\nLe Rag+ est devenu le favori de nos employés et de nos amis, même de ceux qui n'auraient jamais envisagé un vélo à guidon bas. La gamme d'applications est infinie - des trajets domicile-travail aux courses de cyclisme amateur, ou simplement comme vélo de fitness.\r\nLes multiples points de fixation vous permettent d'emporter tout ce dont vous avez besoin avec vous, de sorte que le Rag+ est également prêt pour votre prochaine grande aventure.\r\n\r\nRag est l'abréviation de road & gravel et le \"plus\" est là parce que vous pouvez l'utiliser avec des pneus route standard 700c, des pneus gravel 700c (jusqu'à 45c) ou même des roues 27,5\" avec des pneus de 2,2\" !\r\n\r\nLe Rag+ 3 est un nouvel ajout à la gamme et est proposé à un prix raisonnable, tout en offrant les dernières technologies, notamment une transmission 1x avec une cassette large, des freins à disque et des axes traversants.\r\nLe cadre du Rag 2022 a subi des révisions géométriques qui rendent ce vélo plus stable et plus confortable : les tubes de tête sont plus hauts, plaçant le cycliste dans une position plus confortable (même si nous ne sommes pas allés trop loin - nous voulons toujours conserver le caractère sportif du vélo), la portée est plus longue et l'angle de tête est plus faible.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/349/414349/2414349/4640867",
+  "mpn": "NSB-00314",
+  "gtin13": "2019090010392",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 152-163 cm",
+      "stock": 1,
+      "prix": 1270.99,
+      "mpn": "NSB-00314",
+      "sku": "1927820",
+      "gtin13": "2019090010392",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2460444-gravel_bike_ns_bikes_rag__3_sram_apex_11v_700_mm_blanc_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-175 cm",
+      "stock": 3,
+      "prix": 1270.99,
+      "mpn": "NSB-00315",
+      "sku": "1927191",
+      "gtin13": "2019090010408",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2460444-gravel_bike_ns_bikes_rag__3_sram_apex_11v_700_mm_blanc_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-185 cm",
+      "stock": 8,
+      "prix": 1270.99,
+      "mpn": "NSB-00316",
+      "sku": "1927572",
+      "gtin13": "2019090010415",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2460444-gravel_bike_ns_bikes_rag__3_sram_apex_11v_700_mm_blanc_2022"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "White"
+    }
+  ],
+  "informations": {
+    "poids constructeur (en g)": 11900,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : NS AL6061-T6 tubes formés et aboutés sur mesure, tube de direction intégré conique, pattes 142x12mm",
+      "fourche": "Aluminium : NS Bikes Gravel+ Alloy fork, 15mm dropouts, 1.5T, NS thru axle"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex 1, 1x11 vitesses",
+      "dérailleur arrière": "Sram Apex type 2.1, chape longue, 11 vitesses",
+      "cassette": "Microshift CS-H113 11-42 Dents",
+      "chaîne": "Sram 11 vitesses",
+      "pédalier": "FSA Omega S:170mm, M:172.5mm, L:175mm 42t",
+      "boîtier de pédalier": "FSA PF 86.5"
+    },
+    "équipements": {
+      "freins": "Tektro MD-C510 mechanical disc brake 160/160 mm",
+      "selle": "Selle Italia X3",
+      "tige de selle": "Kalloy 27.2"
+    },
+    "roues": {
+      "jantes": "NS Bikes Gravel+, 29” 32h, tubeless ready",
+      "moyeu avant": "ikes 100x15mm (loose ball) ",
+      "moyeu arrière": "es 142x12mm (loose ball)",
+      "pneus": "WTB Riddler 700x45C"
+    },
+    "direction": {
+      "cintre": "NS Flare 31.8  420, 440, 460mm",
+      "potence": "NS Bikes Rag+ Stem 31.8 S:70mm, M:80mm, L:90mm, XL:100mm, angle, - 7°/+ 7° (flip flop)",
+      "jeu de direction": "GW integrated tapered IS42/IS52, sealed bearings"
+    },
+    "ruban de cintre": "Selle Italia Smootape Gran Fondo",
+    "poids ": "11.9 kg"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille des roues (mm)": 700,
+      "tube de selle (mm)": 475,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 428,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1026,
+      "stack (mm)": 526,
+      "reach (mm)": 379
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (mm)": 700,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 560,
+      "longueur base (mm)": 428,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1033,
+      "stack (mm)": 569,
+      "reach (mm)": 387
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (mm)": 700,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 581,
+      "longueur base (mm)": 428,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1055,
+      "stack (mm)": 592,
+      "reach (mm)": 400
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (mm)": 700,
+      "tube de selle (mm)": 570,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 428,
+      "douille de direction (mm)": 200,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1075,
+      "stack (mm)": 620,
+      "reach (mm)": 410
+    }
+  ]
+}

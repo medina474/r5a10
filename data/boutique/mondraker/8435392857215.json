@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2438312",
+  "tailles": [
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-200 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Mondraker Chrono Sram SX Eagle 12V 29'' Noir / Orange",
+  "marque": "Mondraker",
+  "description": "Le Chrono est avant tout un vélo dynamique.\r\nSon cadre aluminium 6061 Xtralite conifié bénéficie de notre XC Forward Geometry qui vous apportera une position optimale pour profiter de toute la force appliquée aux pédales et d’une sécurité en toute confiance pour affronter les descentes.\r\nC'est le premier vélo en prix qui vous permettra de profiter de toutes nos connaissances acquises au fil de plus de 20 ans de fabrication de vélos de premier ordre, pour que vous ressentiez notre ADN Racing le plus pur.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/312/438312/2438312/4667373",
+  "mpn": "010.23004",
+  "gtin13": "8435392857215",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 10,
+      "prix": 1099.99,
+      "mpn": "010.23002",
+      "sku": "2186097",
+      "gtin13": "8435392857192",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2480207-vtt_semi_rigide_mondraker_chrono_sram_sx_eagle_12v_29___noir___orange"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 10,
+      "prix": 1099.99,
+      "mpn": "010.23003",
+      "sku": "2186105",
+      "gtin13": "8435392857208",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2480207-vtt_semi_rigide_mondraker_chrono_sram_sx_eagle_12v_29___noir___orange"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 10,
+      "prix": 1099.99,
+      "mpn": "010.23004",
+      "sku": "2185992",
+      "gtin13": "8435392857215",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2480207-vtt_semi_rigide_mondraker_chrono_sram_sx_eagle_12v_29___noir___orange"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 12.9,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Chrono 29 Stealth Alloy, Forward Geometry XC, boîtier de pédalier BSA 73 mm, douille de direction conique, acheminement interne des câbles HHG, axe arrière Boost 12 x 148 mm",
+      "fourche": "RockShox Judy Silver TK 29, 100 mm, TurnKey, Solo Air, pivot conique, axe 9 x 100 mm, plongeurs en acier 30 mm, déport de 46 mm. Réglages : Compression Poplock 2 positions (ouvert/bloqué), rebond, précontrainte pneumatique"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger SX Eagle, 12 vitesses, X-Actuation 1:1",
+      "dérailleur arrière": "Sram SX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, chape longue, 1 x 12 vitesses, X-actuation 1:1",
+      "cassette": "Sram PG-1210, 11-50 dents, 12 vitesses",
+      "chaîne": "Sram SX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "Sram SX Eagle, Boost, axe DUB, plateau Direct Mount, taille S : 170 mm, taille M/L/XL : 175 mm, plateau 34 dents, acier, X-Sync 2",
+      "boîtier de pédalier": "Sram DUB BSA, roulements étanches, 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram Level, étrier 2 pièces, disque monopièce Centerline 160/160 mm IS 6 trous, plaquettes organiques sur acier",
+      "selle": "Mondraker XC Series, rail en acier",
+      "tige de selle": "Onoff Sulfur 0-R, aluminium 6061 T6, forgé 3D, diamètre 27,2 mm, longueur 400 mm"
+    },
+    "roues": {
+      "jantes": "MDK-XP1 29 TLR, largeur intérieure 25 mm, Tubeless Ready, 32 rayons",
+      "moyeu avant": "Formula DC20LW 9 x 100 mm, roulements à billes avec cuvette et cône, IS 6 trous ",
+      "moyeu arrière": "Formula MST148S-4SB, Boost 12 x 148 mm, roulements étanches, IS 6 trous, roue libre MS",
+      "pneus": "Maxxis Ikon 29 x 2,20, 60TPI, tringle rigide"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 0.2, aluminium 6061 double renfort, galbe : 4,8 mm, largeur : 740 mm, cintrage 9°, réhausse 0°, alésage 31,8 mm",
+      "poignées": "Onoff Twin, verrouillage simple, 135 mm",
+      "potence": "Onoff Sulfur, aluminium 6061 T6, alésage 31,8 mm, galbe : +/-7°, longueur : tailles S / M : 60 mm, tailles L : 80 mm, tailles XL : 90 mm",
+      "jeu de direction": "Onoff Saturn conique pour tube de direction de 1-1/8” à 1-1/2”, roulements étanches ACB, haut 41x30,2x7x45ºx45º, bas 51,9x40x8x45ºx45º"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1087,
+      "stack (mm)": 618,
+      "reach (mm)": 406
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1107,
+      "stack (mm)": 618,
+      "reach (mm)": 426
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1127,
+      "stack (mm)": 628,
+      "reach (mm)": 444
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1148,
+      "stack (mm)": 642,
+      "reach (mm)": 460
+    }
+  ]
+}

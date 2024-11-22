@@ -1,0 +1,150 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2652584",
+  "tailles": [
+    "15 Pouces / 155-166 cm",
+    "19 Pouces / 173-182 cm",
+    "23 Pouces / 189-200 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cube Reaction C:62 Pro Shimano Deore/XT 12V 29'' Gris Metal 2023",
+  "marque": "Cube",
+  "description": "Développé à partir du carbone C:62 et à l’aide du procédé de fabrication Advanced Twin Mold de Cube, le Reaction C:62 ne laisse rien au hasard dans sa quête de légèreté, de vitesse exceptionnelle et de réactivité. Il présente une base arrière plus courte avec axe traversant Boost, tube de direction conique et bénéficie de la technologie Agile Ride Geometry. Additionnez tout cela et vous obtenez la garantie d’un pilotage réactif et dynamique. Ses haubans plus étroits et sa tige de selle de 27,2 mm vous permettent d'en apprécier le confort plus longtemps, et ce, même lorsque vous êtes à fond. Le passage de câbles interne réduit les contraintes d’entretien et vous permet de consacrer votre temps à rouler plutôt qu'à régler vos vitesses.\r\n\r\nLe faible poids du Cube Reaction C:62 Pro, son pilotage ultra-précis et son incroyable confort vous donnent l’envie d’aller plus loin. La souplesse et la facilité de réglage de sa fourche suspendue RockShox Judy Gold vous permettent de garder votre roue avant bien ancrée au sol. Ses roues Answer Attack sont aussi légères que robustes et sont chaussées de pneus Schwalbe ultra-adhérents vous permettant de rester en contact permanent avec le sol. La fluidité et la fiabilité de ses composants de transmission Shimano Deore/XT 12 vitesses mettent à portée de doigts le braquet le plus adapté. Enfin, ses freins à disque hydrauliques Shimano XT progressifs et puissants vous permettent de garder votre vitesse sous contrôle. Parce que, comme tous les grands cyclistes le savent, la puissance n’est rien sans contrôle.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/584/652584/2652584/5334494",
+  "mpn": "61610019",
+  "gtin13": "4054571386885",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "19 Pouces / 173-182 cm",
+      "stock": 1,
+      "prix": 1799.99,
+      "mpn": "61610019",
+      "sku": "2398230",
+      "gtin13": "4054571386885",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2770780-vtt_semi_rigide_cube_reaction_c_62_pro_shimano_deore_xt_12v_29___gris_metal_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "grey´n´metal"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 11.5,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:62 Monocoque Advanced Twin Mold Technology, ARG2, Tapered Headtube, PressFit BB, Boost 12x148 mm, Internal Cable Routing, Dropper Post Ready, Width tire maximum: 57 mm",
+      "fourche": "RockShox Judy Gold RL Air, OneLoc, Boost 15x110 mm, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore SL-M6100-IR, Direct Attach, Rapidfire-Plus, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Shimano FC-MT611, Boost, 32 Dents",
+      "boîtier de pédalier": "Shimano BB-MT500PA, 92 mm Pressfit"
+    },
+    "équipements": {
+      "freins": "Shimano XT BR-M8100, Hydr. Disc Brake, (180/160)",
+      "selle": "Natural Fit Venec",
+      "tige de selle": "Cube Performance Post, 400x27.2 mm"
+    },
+    "roues": {
+      "jantes": "Answer Atac AM, Tubeless Ready, Boost 15x110 mm / 12x148 mm",
+      "pneu avant": " Schwalbe Racing Ray, Addix Performance, Kevlar, 29x2.25\" ",
+      "pneu arrière": " Schwalbe Racing Ralph, Addix Performance, Kevlar, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "Cube Flat Race Bar, 720 mm",
+      "poignées": "Acid React Pro",
+      "potence": "Cube Performance Stem SLX, 31.8 mm, -6°",
+      "jeu de direction": "VP Integrated, Top 1 1/8\", Bottom 1 1/2\""
+    },
+    "référence": 616100
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 15,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1070,
+      "stack (mm)": 609,
+      "reach (mm)": 389,
+      "longueur de la potence (mm)": 70
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 17,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 588,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1091,
+      "stack (mm)": 618,
+      "reach (mm)": 406,
+      "longueur de la potence (mm)": 80
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 19,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 609,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1113,
+      "stack (mm)": 627,
+      "reach (mm)": 425,
+      "longueur de la potence (mm)": 90
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (pouces)": 21,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 515,
+      "tube supérieur (mm)": 628,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1138,
+      "stack (mm)": 637,
+      "reach (mm)": 441,
+      "longueur de la potence (mm)": 100
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de cadre (pouces)": 23,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 565,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1154,
+      "stack (mm)": 651,
+      "reach (mm)": 456,
+      "longueur de la potence (mm)": 100
+    }
+  ]
+}

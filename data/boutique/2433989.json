@@ -1,0 +1,175 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2433989",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Top Fuel 9.7 Shimano SLX / XT 12V 29'' Bleu / Gris 2023",
+  "marque": "Trek",
+  "description": "Le Top Fuel 9.7 est un VTT tout suspendu en carbone rapide et agile, qui réunit la vitesse à l’état pur d’un vélo cross-country et les capacités techniques d’un vélo de trail. Il vous permet de grimper à toute allure, de foncer sur le plat et de descendre à fond dans les descentes difficiles.\r\n\r\nVous êtes à la recherche d’un VTT tout suspendu polyvalent, à la fois rapide et capable de gérer des trails plus exigeants. Vous recherchez ce supplément de performance garanti par un cadre en carbone et vous avez l’intention de confronter ce vélo à tous les styles de trail, des plus rapides aux plus sinueux.\r\n\r\nUn cadre complet en carbone léger et rigide, une fourche télescopique Fox Rhythm de 120 mm de débattement, 120 mm de débattement à l’arrière avec un amortisseur Fox Performance Float et une transmission monoplateau Shimano SLX/XT à 12 vitesses. Avec en plus des freins à 4 pistons pour des descentes maîtrisées, une tige de selle télescopique Bontrager Line Dropper et des roues Bontrager Line Comp 30 complètement Tubeless Ready (produit d’étanchéité inclus).\r\n\r\nLe Top Fuel 9.7 est un vélo down-country capable et efficace à l’aise sur les trails techniques et roulants. Ce modèle se distingue par le cadre léger en carbone et les solides composants qui vous permettent de profiter d’excellentes performances à un excellent prix.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/989/433989/2433989/4660309",
+  "mpn": "5261044",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "5261044",
+      "sku": "2168083",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471557-vtt_tout_suspendu_trek_top_fuel_9_7_shimano_slx___xt_12v_29___bleu___gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 2,
+      "prix": 3199.99,
+      "mpn": "5261045",
+      "sku": "2168026",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471557-vtt_tout_suspendu_trek_top_fuel_9_7_shimano_slx___xt_12v_29___bleu___gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 4,
+      "prix": 3199.99,
+      "mpn": "5261047",
+      "sku": "2168018",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471557-vtt_tout_suspendu_trek_top_fuel_9_7_shimano_slx___xt_12v_29___bleu___gris_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Blue Smoke/Alpine/Quicksilver Fade"
+    }
+  ],
+  "informations": {
+    "poids": "13.38 kg (en taille M, avec produit d’étanchéité TLR, sans chambres à air)",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : OCLV Mountain Carbon, espace de rangement interne, douille de direction conique, Knock Block 2.0, acheminement interne guidé, protection du tube diagonal, basculeur en magnésium, Mino Link, ABP, Boost148, débattement de 120 mm",
+      "fourche": "Fox Rhythm 34, ressort pneumatique Float EVOL, amortisseur GRIP, pivot conique, déport de 44 mm, Boost110, axe Kabolt 15 mm, débattement de 120 mm",
+      "amortisseur": "Fox Performance Float DPS, amortisseur à 3 positions, 185x50 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT M8100, 12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, galets longs, 12 vitesses",
+      "cassette": "Shimano SLX M7100, 10-51 dents, 12 vitesses",
+      "chaîne": "Shimano SLX M7100, 12 vitesses",
+      "pédalier": "Taille XS, S, M, M/L, L : Shimano Deore M6120, plateau 30 dts, ligne de chaine de 55 mm, longueur de 170 mm Taille XL : Shimano Deore M6120, plateau 30 dts, ligne de chaine de 55 mm, longueur de 175 mm",
+      "boîtier de pédalier": "Shimano BB-MT501 BSA"
+    },
+    "équipements": {
+      "freins": "Shimano, 4 pistons, disque hydrauliques, levier M6100, étrier M6120, disque 180/160 mm.",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille XS, S : TranzX JD-YSP39, débattement de 100 mm, acheminement interne, 34,9 mm Taille M, M/L : TranzX JD-YSP39, débattement de 150 mm, acheminement interne, 34,9 mm Taille L, XL : TranzX JD-YSP39, débattement de 170 mm, acheminement interne, 34,9 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve presta",
+      "moyeu avant": "Alliage Bontrager, roulement étanche, axe alliage, 6 trous, Boost110, axe traversant 15 mm ",
+      "moyeu arrière": "Alu Bontrager, roulement étanche, 6 trous, Rapid Drive 108, corps de roue libre Shimano MicroSpline, Boost148, axe traversant 12 mm",
+      "pneus": "Bontrager XR4 Team Issue, Tubeless Ready, flancs Inner Strength, tringle en aramide, 120 tpi, 29x2,40 pouces"
+    },
+    "direction": {
+      "cintre": "Taille XS, S : Bontrager Line, alliage, 35 mm, élévation 27,5 mm, largeur de 750 mm Taille M, M/L, L, XL : Bontrager Line, alliage, 35 mm, élévation 27,5 mm, largeur de 780 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Bontrager Elite, 35 mm, 0 degré, 45 mm de long"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille roues (pouces)": 27.5,
+      "tube de selle (mm)": 356,
+      "tube supérieur (mm)": 538,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.9,
+      "empattement (mm)": 1121,
+      "stack (mm)": 555,
+      "reach (mm)": 404
+    },
+    {
+      "taille cadre": "S",
+      "taille roues (pouces)": 29,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1150,
+      "stack (mm)": 592,
+      "reach (mm)": 424
+    },
+    {
+      "taille cadre": "M",
+      "taille roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1180,
+      "stack (mm)": 592,
+      "reach (mm)": 454
+    },
+    {
+      "taille cadre": "M/L",
+      "taille roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1197,
+      "stack (mm)": 597,
+      "reach (mm)": 469
+    },
+    {
+      "taille cadre": "L",
+      "taille roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 631,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1214,
+      "stack (mm)": 601,
+      "reach (mm)": 484
+    },
+    {
+      "taille cadre": "XL",
+      "taille roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 653,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 66.4,
+      "angle tube de selle (°)": 70.4,
+      "empattement (mm)": 1240,
+      "stack (mm)": 615,
+      "reach (mm)": 504
+    }
+  ]
+}

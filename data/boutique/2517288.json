@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2517288",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 170-182 cm",
+    "L / 182-190 cm",
+    "XL / 193-203 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Cannondale Trail Neo 4 Shimano Alivio 9V 500 Wh 29'' Beige",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Trail Neo 4 est un VTT à assistance électrique qui fera évoluer votre champ d’action et déclenchera en vous une nouvelle passion pour le trail. Léger, rigide et vif, des singletracks sérieux aux rues de la ville, le cadre progressif du Trail et l'unité d'entraînement Bosch, parfaitement intégrée, mettent en valeur l'expertise inégalée de Cannondale dans la confection de cadres en aluminium.\r\n\r\nLe Trail Neo est conçu avec des bases courtes pour l'agilité et la traction, un angle de direction détendu pour une stabilité solide, et un ensemble batterie/unité d'entraînement positionné aussi bas et au centre que possible créant ainsi une sensation étonnamment agile et stable. Les spécifications techniques du Trail Neo font de lui un véritable VTTAE : des freins à disque hydrauliques puissants et un guidon large associé à une potence courte. Mais il est également polyvalent, avec son cadre pré-câblé, permettant l'installation d'une seconde batterie, et ses supports intelligents pour fixer des porte-bagages et des garde-boues.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/288/517288/2517288/4954001",
+  "mpn": "C61403U10XL",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 182-190 cm",
+      "stock": 3,
+      "prix": 1999.99,
+      "mpn": "C61403U10LG",
+      "sku": "2439800",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2589245-vtt_electrique_semi_rigide_cannondale_trail_neo_4_shimano_alivio_9v_500_wh_29___beige"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 193-203 cm",
+      "stock": 5,
+      "prix": 1999.99,
+      "mpn": "C61403U10XL",
+      "sku": "2439744",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2589245-vtt_electrique_semi_rigide_cannondale_trail_neo_4_shimano_alivio_9v_500_wh_29___beige"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Quicksand"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Alivio 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : SmartForm C2 Alloy, removable 625Wh downtube battery, integrated front running light, tapered headtube, internal cable routing, 135mm QR hub spacing, IS disc mount, motor protection",
+      "fourche": "SR Suntour XCM 32, 100mm, Coil, 46mm offset"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line drive unit, 65 Nm, 25 km/h, Smart System",
+      "batterie": "Bosch PowerTube 500 Wh",
+      "écran": "Bosch Purion, Smart System"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Alivio, 1x9 vitesses",
+      "dérailleur arrière": "Shimano Alivio, 9 vitesses",
+      "cassette": "Shimano HG200, 11-36 Dents, 9 vitesses",
+      "chaîne": "Shimano HG93A, 9 vitesses",
+      "pédalier": "Bosch Gen3, 170mm, 34 dents"
+    },
+    "équipements": {
+      "freins": "Shimano MT200 hydraulic disc, 180/180mm RT10 rotors",
+      "selle": "Cannondale Ergo XC",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 31.6 x 350mm"
+    },
+    "roues": {
+      "jantes": "WTB STX i25 TCS, 32h, tubeless ready",
+      "moyeu avant": "Shimano HB M4050 ",
+      "moyeu arrière": "Shimano TX5058, 12x148mm thru-axle",
+      "pneus": "Maxxis Ardent, 29x2.4\" (M, L, XL) 27.5x2.4\" (S), EXO Protection"
+    },
+    "direction": {
+      "jeu de direction": "Integrated, 1-1/8 to 1.5\", sealed bearings",
+      "potence": "Cannondale 3, 3D Forged 6061 Alloy, 1-1/8\", 31.8, 0°",
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 15mm rise, 8° sweep, 4° rise, 780mm, 31.8mm",
+      "poignées": "Fabric Funguy"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1163,
+      "stack (mm)": 625,
+      "reach (mm)": 405
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1178,
+      "stack (mm)": 625,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 632,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1213,
+      "stack (mm)": 634,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 665,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1246,
+      "stack (mm)": 643,
+      "reach (mm)": 480
+    }
+  ]
+}

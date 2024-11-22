@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2490321",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 172-182 cm",
+    "L / 180-188 cm",
+    "XL / 188-198 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "BMC Fourstroke LT One Shimano SLX 12V 29'' Beige Sand Blanc 2023",
+  "marque": "BMC",
+  "description": "Le BMC Fourstroke LT est un vélo XC dédié aux cyclistes voulant encore plus de performance. Roulez sur vos trails à grande vitesse grâce aux 120 mm de débattement progressif fournis par la suspension dual-link APS améliorée. Il n’y a simplement pas de limite à ce que vous et le Fourstroke LT pouvez réaliser. Le cadre entièrement en carbone est construit selon la géométrie BWC la plus progressive. Il peut désormais accueillir deux porte-bidons et est doté d’une butée de fourche intégrée ainsi que de différents éléments de protection du cadre.\r\n\r\nMaitrisez les trails avec aisance à bord du BMC Fourstroke LT One, doté d’une transmission Shimano SLX 1x12, d’une fourche suspendue RockShox SID Select+ couplée à un amortisseur RockShox SIDLuxe Select+, de roues DT Swiss M 1900 et d’une tige de selle télescopique BikeYoke Divine.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/321/490321/2490321/4867237",
+  "mpn": "30002677",
+  "gtin13": "7630027887297",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 172-182 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "30002677",
+      "sku": "2191297",
+      "gtin13": "7630027887297",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2556008-vtt_tout_suspendu_bmc_fourstroke_lt_one_shimano_slx_12v_29___beige_sand_blanc_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Sand / White"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Fourstroke LT Carbon, APS Suspension System, 120 mm Travel, Fully Guided Internal Cable Routing, PF92 Bottom Bracket, Post Mount Disc, 12x148 mm Boost Thru-Axle, Tire clearance: 62 mm (Measured Width)",
+      "fourche": "RockShox SID Select+",
+      "amortisseur": "RockShox SIDLuxe Select+"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX, 12-vitesses",
+      "cassette": "Shimano SLX, 10-51 Dents",
+      "chaîne": "Shimano Deore",
+      "pédalier": "Shimano SLX, 34 Dents",
+      "boîtier de pédalier": "PF92"
+    },
+    "équipements": {
+      "freins": "Shimano SLX, Hydr. Disc Brake, Shimano SM-RT66 Rotors (180/180)",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "BikeYoke Divine, Dropper post"
+    },
+    "roues": {
+      "jantes": "Jantes : DT Swiss M 1900 Wheelset, 30 mm Inner Width / Moyeux : DT Swiss 370, Ratchet LN18",
+      "pneus": "Maxxis Rekon, TR, EXO, 61-622, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "BMC MRB03, 760 mm width, 15 mm rise, 9° backsweep",
+      "potence": "Truvativ Atmos 7K, 6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 84,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1140,
+      "stack (mm)": 584,
+      "reach (mm)": 437,
+      "longueur de la potence (mm)": 40,
+      "longueur des manivelles (mm)": 165
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 93.5,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1172,
+      "stack (mm)": 592,
+      "reach (mm)": 457,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 623,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 101,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1189,
+      "stack (mm)": 600,
+      "reach (mm)": 477,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 651,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1219,
+      "stack (mm)": 615,
+      "reach (mm)": 500,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

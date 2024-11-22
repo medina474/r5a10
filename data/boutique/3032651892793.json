@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2660277",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 166-177 cm",
+    "L / 175-186 cm",
+    "XL / 184-196 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Sunn Venture S2 Shimano Sora 9V 700 mm Gris Vert",
+  "marque": "Sunn",
+  "description": "Sortir des sentiers, réinventer les chemins, avec la famille Gravel VENTURE, tout est possible. Que vous soyez aguerri ou néophyte à la discipline Gravel, faites le plein de sensations et de liberté. Partez à la découverte de la nature et réalisez enfin vos «longs trips» !\r\n\r\nLe design des vélos gravel Venture conserve une compatibilité des pneus jusqu’à 700×42. Avec sa fourche carbone et son axe traversant de 12mm, le vélo assure une bonne rigidité. Les Venture sont compatibles bike packing pour découvrir de nouvelles aventures.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/277/660277/2660277/5348755",
+  "mpn": "YCSUI04001",
+  "gtin13": "3032651892793",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 1,
+      "prix": 1099,
+      "mpn": "YCSUI04001",
+      "sku": "2175515",
+      "gtin13": "3032651892793",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2777764-gravel_bike_sunn_venture_s2_shimano_sora_9v_700_mm_gris_vert"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-186 cm",
+      "stock": 2,
+      "prix": 1099,
+      "mpn": "YCSUI05001",
+      "sku": "2175538",
+      "gtin13": "3032651892816",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2777764-gravel_bike_sunn_venture_s2_shimano_sora_9v_700_mm_gris_vert"
+    }
+  ],
+  "informations": {
+    "poids total": "--",
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano Sora 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Venture Alloy 6069 edge tubing",
+      "fourche": "Sunn Full carbon HM"
+    },
+    "transmission": {
+      "manette de dérailleur": "ShimanoSORA ST-R3000 2x9v",
+      "dérailleur arrière": "ShimanoSORA R3000 2x9v",
+      "cassette": "Shimano HG400 11-34t",
+      "chaîne": "Shimano 9v",
+      "pédalier": "FSA MEGAEXO 46/30",
+      "boîtier de pédalier": "--"
+    },
+    "dérailleur avant": "Shimano Sora",
+    "équipements": {
+      "freins": "Shimano à disques mécaniques RS305 160/140 mm",
+      "selle": "SUNN DDK SPORT",
+      "tige de selle": "KALLOY AL6061 27.2x350MM"
+    },
+    "roues": {
+      "jantes": "MACH1 ER20 DISC 700x19c 32T, 700x37",
+      "moyeux": "SHIMANO RS470 CL",
+      "pneus": "GRAVEL 700x40"
+    },
+    "direction": {
+      "cintre": "VR AL GRAVEL 16° 400MM (S/M), 420MM (L/XL)",
+      "potence": "STEM 75MM (S/M), 90MM (L/XL"
+    },
+    "référence": "YCSUI04501"
+  },
+  "geometries": [
+    {
+      " ": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 530,
+      "longueur de la base (mm)": 425,
+      "tube de direction (mm)": 120,
+      "angle du tube de selle (°)": 73.5,
+      "angle de braquage (°)": 70,
+      "empattement (mm)": 1014,
+      "stack (mm)": 549,
+      "reach (mm)": 367
+    },
+    {
+      " ": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 550,
+      "longueur de la base (mm)": 425,
+      "tube de direction (mm)": 140,
+      "angle du tube de selle (°)": 73.5,
+      "angle de braquage (°)": 70.5,
+      "empattement (mm)": 1030,
+      "stack (mm)": 570,
+      "reach (mm)": 381
+    },
+    {
+      " ": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 570,
+      "longueur de la base (mm)": 425,
+      "tube de direction (mm)": 160,
+      "angle du tube de selle (°)": 73.5,
+      "angle de braquage (°)": 71,
+      "empattement (mm)": 1046,
+      "stack (mm)": 591,
+      "reach (mm)": 395
+    },
+    {
+      " ": "XL",
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 590,
+      "longueur de la base (mm)": 425,
+      "tube de direction (mm)": 180,
+      "angle du tube de selle (°)": 73.5,
+      "angle de braquage (°)": 71.5,
+      "empattement (mm)": 1062,
+      "stack (mm)": 612,
+      "reach (mm)": 409
+    }
+  ]
+}

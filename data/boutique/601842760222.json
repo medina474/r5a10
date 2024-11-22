@@ -1,0 +1,115 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2432797",
+  "tailles": [
+    "S / 155-165 cm",
+    "M-L / 173-180 cm",
+    "M / 165-175 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "name": "VTT Tout Suspendu Trek Slash 8 Sram GX Eagle 12V 29'' Bleu Mat 2023",
+  "marque": "Trek",
+  "description": "Le Slash 8 est un VTT enduro doté de roues de 29 pouces rapides et d’une suspension moelleuse RockShox. Au niveau de la transmission, on retrouve le modèle GX Eagle à 12 vitesses de Sram. Un cadre en aluminium intégrant de nouvelles technologies et de solides roues en aluminium font de ce vélo une excellente option pour les pilotes polyvalents.\r\n\r\nVous voulez un grand vélo avec de grosses roues pour franchir de gros obstacles et gérer de grosses bosses. Vous n’excluez pas une éventuelle participation à des courses d’enduro, mais ce qui vous branche surtout, c’est descendre plus vite que vos compagnons dans les descentes délicates.\r\n\r\nUn cadre aluminium conçu pour la conduite dure avec un boîtier de pédalier fileté, une double protection au niveau du tube diagonal, Knock Block 2.0 et un débattement de 160 mm avec un amortisseur RockShox Super Deluxe Select+ pour les longues descentes et une fourche RockShox ZEB Select+ de 170 mm. Ajoutez à cela, une transmission Sram GX Eagle avec un grand pignon de 52 dents, des freins à 4 pistons Code R et des roues Line Comp 30 tubeless.\r\n\r\nLe Slash 8 met les performances enduro à votre portée grâce à des choix intelligents en matière de composants qui ne videront pas votre compte en banque. Le cadre en aluminium, la suspension costaude et la transmission monoplateau Eagle 12 vitesses donnent un vélo qui se sent aussi à l’aise dans une compétition que dans une sortie intense dans les bois.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/797/432797/2432797/4658358",
+  "mpn": "5274505",
+  "gtin13": "601842760222",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "5274505",
+      "sku": "2357955",
+      "gtin13": "601842760222",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2470835-vtt_tout_suspendu_trek_slash_8_sram_gx_eagle_12v_29___bleu_mat_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 10,
+      "prix": 3280.8,
+      "mpn": "5274506",
+      "sku": "2368320",
+      "gtin13": "601842760215",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2470835-vtt_tout_suspendu_trek_slash_8_sram_gx_eagle_12v_29___bleu_mat_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre ": "S",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 585,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.1,
+      "angle tube de selle (°)": 66.6,
+      "empattement (mm)": 1197,
+      "stack (mm)": 621,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre ": "M",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.1,
+      "angle tube de selle (°)": 66.6,
+      "empattement (mm)": 1222,
+      "stack (mm)": 622,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre ": "M/L",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 629,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64.1,
+      "angle tube de selle (°)": 66.6,
+      "empattement (mm)": 1243,
+      "stack (mm)": 626,
+      "reach (mm)": 469
+    },
+    {
+      "taille cadre ": "L",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64.1,
+      "angle tube de selle (°)": 66.6,
+      "empattement (mm)": 1264,
+      "stack (mm)": 635,
+      "reach (mm)": 486
+    },
+    {
+      "taille cadre ": "XL",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 684,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64.1,
+      "angle tube de selle (°)": 66.6,
+      "empattement (mm)": 1305,
+      "stack (mm)": 658,
+      "reach (mm)": 516
+    }
+  ]
+}

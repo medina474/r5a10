@@ -1,0 +1,148 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2651931",
+  "tailles": [
+    "18 Pouces / 169-178 cm",
+    "20 Pouces / 177-186 cm",
+    "22 Pouces / 185-197 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cube Reaction Pro Shimano Deore/XT 12V 29'' Bleu Violet Switch 2023",
+  "marque": "Cube",
+  "description": "Le Cube Reaction doit son élégance à la technique Smooth Welding au niveau des jonctions du tube de direction et du tube de selle. Il dispose d’un boîtier de pédalier fileté et d’un passage interne de câbles pour des contraintes d’entretien réduites et simplifiées. Il est même équipé d’un support de fixation pour disque Flat Mount qui s’intègre parfaitement avec le support de fixation pour béquille, et les points de fixation intégrés de vos garde-boues et porte-bagages Acid. Sa nouvelle géométrie comprend un tube supérieur plus bas, un tube de direction conique pour une plus grande réactivité et un passage interne de câbles pour des contraintes d’entretien réduites. Il dispose également de suffisamment de dégagement pour l’équiper de pneus de 2.25\" de large, adhérents et confortables. Enfin, afin qu’il puisse évoluer avec vous, il est possible de l’équiper d’une tige de selle télescopique.\r\n\r\nLorsque les ingénieurs de chez Cube se sont penchés sur le design du Reaction Pro, ils voulaient un mélange parfait de fonction, de fiabilité et de performance. Ils sont donc partis de la précision de la transmission Shimano Deore/XT 1x12 vitesses, car elle offre une profondeur incroyable et une précision sans égal. Ils l'ont ensuite équipé de freins à disque hydrauliques Shimano XT pour des performances de freinage exceptionnelles et une sécurité garantie, quelles que soient les conditions météorologiques, à la montagne comme à la ville. Enfin, ils ont opté pour une fourche suspendue RockShox Judy Silver combinant facilité de réglage, système de blocage au guidon et aptitude à l’absorption des irrégularités de la surface. Cet ensemble ne connait aucune limite.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/931/651931/2651931/5333440",
+  "mpn": "61211022",
+  "gtin13": "4054571386700",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "22 Pouces / 185-197 cm",
+      "stock": 1,
+      "prix": 1349.99,
+      "mpn": "61211022",
+      "sku": "2394509",
+      "gtin13": "4054571386700",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2769715-vtt_semi_rigide_cube_reaction_pro_shimano_deore_xt_12v_29___bleu_violet_switch_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "switchblue´n´black"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 13.1,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Lite, AMF, Double Butted, Internal Cable Routing, Tapered Head Tube, Flat Mount Brake, SIC Mount, FM Kickstand Mount, Width tires maximum: 58 mm",
+      "fourche": "RockShox Judy Silver TK Air, PopLoc, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore SL-M6100-IR, Direct Attach, Rapidfire-Plus, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Shimano FC-MT611, 32 Dents",
+      "boîtier de pédalier": "Shimano SM-BB52, 73 mm BSA"
+    },
+    "équipements": {
+      "freins": "Shimano XT BR-M8100, Hydr. Disc Brake, PM/FM (180/160)",
+      "pédales": "Acid PP MTB",
+      "selle": "Natural Fit Venec",
+      "tige de selle": "Cube Performance Post, 27.2 mm"
+    },
+    "roues": {
+      "jantes": "Cube ZX20, 32H, Disc",
+      "moyeu avant": "Shimano HB-M4050, QR, Centerlock ",
+      "moyeu arrière": "Shimano FH-MT401, QR, Centerlock",
+      "pneu avant": " Schwalbe Racing Ray, Addix Performance, Kevlar, 29x2.25\" ",
+      "pneu arrière": " Schwalbe Racing Ralph, Addix Performance, Kevlar, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "Cube Flat Race Bar, 720 mm",
+      "poignées": "Acid React Pro",
+      "potence": "Cube Performance Stem SLX, 31.8 mm",
+      "jeu de direction": "Cube FPH868, Semi-Integrated"
+    },
+    "référence": 612110
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 16,
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 111,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1082,
+      "stack (mm)": 598,
+      "reach (mm)": 398
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 18,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 595,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 111,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1125,
+      "stack (mm)": 627,
+      "reach (mm)": 409
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 20,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 615,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 122,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1146,
+      "stack (mm)": 637,
+      "reach (mm)": 426
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (pouces)": 22,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 515,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 142,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1168,
+      "stack (mm)": 656,
+      "reach (mm)": 441
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de cadre (pouces)": 24,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 655,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 157,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1190,
+      "stack (mm)": 670,
+      "reach (mm)": 457
+    }
+  ]
+}

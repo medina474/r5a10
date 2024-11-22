@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2295424",
+  "tailles": [
+    "XS / 152-165 cm",
+    "S / 162-175 cm",
+    "M / 170-185 cm",
+    "L / 180-193 cm",
+    "XL / 190-203 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cannondale Topstone 4 MicroSHIFT Advent X 10V 700 mm Noir 2023",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Topstone 4 ou Topstone Alloy 4 est un vélo de gravel doué et polyvalent. Il est conçu pour aller loin, explorer les routes les moins fréquentées ou accélérer vos trajets quotidiens. La construction en aluminium SmartForm C2 du cadre du Topstone est le résultat de plusieurs décennies d’expérience de Cannondale dans le travail de l’aluminium. Il procure une position de conduite équilibrée : suffisamment relevée pour le confort longue distance et le contrôle sur terrains difficiles, et assez inclinée vers l’avant pour la vitesse.\r\n\r\nAvec des fixations pour trois bidons et pour un rangement sur le tube supérieur, le Topstone est prêt pour les longues aventures. Les multiples positions de porte-bidon sur le tube diagonal vous permettent d’organiser l’installation de grosses sacoches de cadre. Son cadre est doté d’un dégagement suffisant pour des gros pneus de 42 mm de large, pour le confort, l’adhérence et l’aventure. Sa fourche, intégralement en carbone, dispose d'un pivot de direction conique et d'axes traversants de 12 mm, pour un triangle avant léger, confortable et une précision de pilotage redoutable.\r\n\r\nLa technologie OutFront assure une direction à la fois légère et maniable, avec un positionnement de la roue plus en avant pour améliorer la stabilité et le contrôle sur les terrains accidentés. Avec en plus, une diminution du risque de chevauchement entre le bout du pied et la roue avant sur les plus petites tailles de cadre. Le cadre du Topstone est conçu pour permettre l'installation d’une tige de selle télescopique de 27.2 mm avec passage de câble interne, ce qui ne devrait pas être une grosse surprise pour un vélo avec de telles capacités hors-route. Enfin, un arceau de garde-boue amovible se visse lorsque vous avez besoin de garde-boue, et s’enlève lorsque vous n’en n’avez plus besoin.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/424/295424/2295424/4660263",
+  "mpn": "C15902U10MD",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-185 cm",
+      "stock": 7,
+      "prix": 1099.99,
+      "mpn": "C15902U10MD",
+      "sku": "2151787",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2304384-gravel_bike_cannondale_topstone_4_microshift_advent_x_10v_700_mm_noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-193 cm",
+      "stock": 15,
+      "prix": 1129.99,
+      "mpn": "C15902U10LG",
+      "sku": "2151508",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2304384-gravel_bike_cannondale_topstone_4_microshift_advent_x_10v_700_mm_noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 190-203 cm",
+      "stock": 1,
+      "prix": 1129.99,
+      "mpn": "C15902U10XL",
+      "sku": "2151501",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2304384-gravel_bike_cannondale_topstone_4_microshift_advent_x_10v_700_mm_noir_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Black"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "microSHIFT Advent X 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Lightweight SmartForm C2 Alloy, 12x142 thru-axle, tapered headtube, BSA threaded BBm flat mount disc, StraightShot internal cable routing, multiple gear/bottle mounts",
+      "fourche": "Carbone : Topstone Carbon, 1-1/8\" to 1.5\" steerer, 55mm OutFront offset, flat mount disc, internal routing, 12x100 thru-axle, fender/gear mounts"
+    },
+    "transmission": {
+      "manette de dérailleur": "microSHIFT Advent X, 1x10-vitesses",
+      "dérailleur arrière": "microSHIFT Advent X, 10 vitesses",
+      "cassette": "microSHIFT, 11-48 Dents",
+      "chaîne": "KMC X10",
+      "pédalier": "Prowheel, Charm 40 Dents",
+      "boîtier de pédalier": "Cartridge, square taper"
+    },
+    "équipements": {
+      "freins": "Promax Render R mechanical disc, 160/160mm rotors",
+      "selle": "Cannondale Stage CX",
+      "tige de selle": "Cannondale 4, 6061 Alloy, 27.2 x 350mm"
+    },
+    "roues": {
+      "jantes": "GXD 1.0, 28h",
+      "moyeu avant": "ula alloy, 12x100mm ",
+      "moyeu arrière": "a alloy, 12x142mm",
+      "pneus": "Vittoria Terreno Dry, 700 x 35c"
+    },
+    "direction": {
+      "cintre": "Cannondale 3, butted 6061 Alloy, 16 deg flare drop",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 7°",
+      "jeu de direction": "Integrated, 1-1/8\" - 1-1/2\""
+    },
+    "ruban de cintre": "Cannondale Bar Tape, 3.5mm"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 533,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 89,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1016,
+      "stack (mm)": 518,
+      "reach (mm)": 368
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 458,
+      "tube supérieur (mm)": 544,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1027,
+      "stack (mm)": 549,
+      "reach (mm)": 377
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 505,
+      "tube supérieur (mm)": 557,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 149,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1045,
+      "stack (mm)": 579,
+      "reach (mm)": 385
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 553,
+      "tube supérieur (mm)": 572,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 182,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1065,
+      "stack (mm)": 610,
+      "reach (mm)": 394
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 600,
+      "tube supérieur (mm)": 587,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 214,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1083,
+      "stack (mm)": 640,
+      "reach (mm)": 402
+    }
+  ]
+}

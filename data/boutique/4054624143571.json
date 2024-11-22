@@ -1,0 +1,108 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2463226",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Electrique Semi-Rigide Haibike Alltrack 7 Shimano Deore 12V 720 Wh 29'' Gris 2023",
+  "marque": "Haibike",
+  "description": "Vous recherchez un VTT électrique de randonnée un peu sportif avec suffisamment de réserve pour le tout-terrain ?\r\nAvec Alltrack 7, vous disposez d'un vélo électrique semi-rigide à l'équipement bien équilibré qui ne vous laissera pas tomber, même sur les parcours en terrain facile.\r\nLe dérailleur arrière 12 vitesses fiables Shimano Deore, les puissants freins à disque à 4 pistons et la fourche à suspension sensible RockShox, au débattement de 130 mm, vous assurent de rester concentré sur la piste.\r\nQuant au puissant moteur Yamaha PW-X3 et à sa batterie de 720 Wh, ils offrent toute la réserve de puissance requise pour partir en terrain inconnu.\r\nL'Alltrack 7 est disponible avec des cadres de tailles S et M, et des roues de 27,5''.\r\nLes modèles M à XL sont équipés de roues de 29''.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/226/463226/2463226/4716060",
+  "mpn": "45212350",
+  "gtin13": "4054624143571",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "45212350",
+      "sku": "2420825",
+      "gtin13": "4054624143571",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2506916-vtt_electrique_semi_rigide_haibike_alltrack_7_shimano_deore_12v_720_wh_29___gris_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Haibike, Alltrack Bosch i500, Aluminium 6061",
+      "fourche": "RockShox, 35 Silver TK, Air, travel= 130 mm, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110mm thru-axle Boost"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha, PW-X3, 250W, 85 Nm, 25 km/h",
+      "écran": "Yamaha, Side Switch, 1.7\" LCD, 7 functions",
+      "batterie": "Yamaha InTube, 720 Wh"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100",
+      "cassette": "Shimano CS-M6100, 10 - 51 dents",
+      "chaîne": "Shimano 12 vitesses",
+      "pédalier": "Miranda, Kies, Steel, 38 dents",
+      "boîtier de pédalier": "Integrated in the motor"
+    },
+    "équipements": {
+      "freins": "Shimano, MT420, 4-piston disc brake, 203/180 mm",
+      "selle": "Selle Royal, Vivo Unitech",
+      "tige de selle": "Aluminium, Patent, 34.9 mm",
+      "pédales": "Freeridepedal, Aluminium, with Reflector"
+    },
+    "roues": {
+      "jantes": "WTB, ST i30 TCS, Double Wall",
+      "pneus": "Schwalbe, Nobby Nic Performance, 65-622, 29\" x 2.6\""
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar ++, 780 mm",
+      "potence": "Alu, A-head",
+      "jeu de direction": "Feimin, A-Head Tapered, Aluminium, Cartridge"
+    },
+    "collier de selle": "Internal hexagon, 38 mm",
+    "poids max": "150 kg"
+  },
+  "geometries": [
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1216,
+      "stack (mm)": 674,
+      "reach (mm)": 432
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 155,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1240,
+      "stack (mm)": 683,
+      "reach (mm)": 452
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1264,
+      "stack (mm)": 692,
+      "reach (mm)": 472
+    }
+  ]
+}

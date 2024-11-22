@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2724607",
+  "tailles": [
+    "S / 154-165 cm",
+    "L / 172-182 cm"
+  ],
+  "name": "VTT Tout Suspendu Cannondale Scalpel 4 Carbone 29'' Shimano Deore 12V Noir",
+  "marque": "Cannondale",
+  "description": "Le vélo de cross-country ultime. Suspension révolutionnaire, géométrie agressive et poids plume sont les éléments qui le caractérisent le Scalpel. Il accroche là où les autres glissent. Attaquez là où les autres ne peuvent pas. Dominez là où les autres hésitent. Bienvenue dans le futur.\r\n\r\nUne suspension qui rime avec vitesse. La suspension la plus avancée jamais réalisée pour le XC. Alors que d’autres fabricants sacrifie la performance pour réduire le poids, notre suspension brevetée FlexPivot offre les deux avantages.  D’une légèreté incroyable, elle offre un surcroît décisif d’adhérence, d’accélération et de contrôle, qui vous permettent de rouler pratiquement partout. Plus rapide. Plus de plaisir.\r\n\r\nDes degrés qui font la différence La géométrie progressive du Scalpel a encore évolué : angle de tube de direction plus ouvert de 1,5°, angle du tube de selle redressé de 1°. Le résultat est un cadre XC plus agressif, plus rapide, plus excitant et plus stable en toute situation, de la Coupe du monde à votre circuit local.\r\n\r\nRigide. Léger. Rapide. Pesant à peine plus de 1 900 grammes, complet avec amortisseur, le cadre du Scalpel est l’un des cadres VTT tout-suspendus les plus légers jamais fabriqués.  Suspension incroyable, maniabilité irréprochable, et poids plume : c’est la recette de la victoire.  ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/607/724607/2724607/5488057",
+  "mpn": "C24504U10LG",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 154-165 cm",
+      "stock": 1,
+      "prix": 4299,
+      "mpn": "C24504U10SM",
+      "sku": "2645033",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2849042-vtt_tout_suspendu_cannondale_scalpel_4_carbone_29___shimano_deore_12v_noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 1,
+      "prix": 4299,
+      "mpn": "C24504U10LG",
+      "sku": "2644998",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2849042-vtt_tout_suspendu_cannondale_scalpel_4_carbone_29___shimano_deore_12v_noir"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 280,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1114,
+      "reach (mm)": 425,
+      "stack (mm)": 597,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1169,
+      "reach (mm)": 450,
+      "stack (mm)": 597,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1202,
+      "reach (mm)": 475,
+      "stack (mm)": 607,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 669,
+      "longueur base (mm)": 446,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1245,
+      "reach (mm)": 510,
+      "stack (mm)": 616,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2720300",
+  "tailles": [
+    "M / 165-175 cm"
+  ],
+  "name": "VTT Electrique Semi-Rigide Haibike Alltrack 8.5 Sram SX 12V 750Wh 29'' Bronze 2024",
+  "marque": "Haibike",
+  "description": "Partez à l'assaut des sommets et oubliez le train-train quotidien. Le Alltrack 8.5 29 est idéal pour l'évasion. Outre son design simple et stylé, ce VTT électrique semi-rigide offre aussi une assistance sérieuse. Le puissant moteur Bosch Performance CX Smart System vous propulse sur les pentes les plus rudes, tandis que la batterie de 750 Wh vous assure de bénéficier d'une assistance infaillible même dans les ascensions les plus longues. Le dérailleur Sram SX Eagle, quant à lui, est réputé pour ses performances. En outre, les freins à disque réactifs de chez Shimano sont un gage de sécurité maximum en descente. Pratique, le système de rail modulaire vous permet de fixer facilement des accessoires tels qu'un porte-bidon ou des sacoches pour oublier le train-train quotidien et partir en randonnée encore plus vite.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/300/720300/2720300/5480850",
+  "mpn": "45116450",
+  "gtin13": "4054624152726",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 4299,
+      "mpn": "45116450",
+      "sku": "2676403",
+      "gtin13": "4054624152726",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2844788-vtt_electrique_semi_rigide_haibike_alltrack_8_5_sram_sx_12v_750wh_29___bronze_2024"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg (vélo + pilote + équipements)",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Haibike, Alltrack Bosch, Aluminium 6061",
+      "fourche": "RockShox, 35 Silver, 120 mm, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110mm thru-axle Boost"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance CX Smart System, 85Nm",
+      "écran": "Bosch Intuvia",
+      "batterie": "Bosch Powertube, 750 Wh (amovible)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle, 1x12 vitesses",
+      "dérailleur arrière": "Sram SX Eagle, 12 vitesses",
+      "cassette": "Sram PG1210 11-50 dts",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Miranda, Kies, Steel, 36 dts"
+    },
+    "équipements": {
+      "freins": "Shimano, MT420, 4-piston disc brake, 203/180 mm",
+      "selle": "Selle Royal, Vivo Unitech",
+      "tige de selle": "Aluminium, Patent, 34.9 mm",
+      "pédales": "Freeridepedal, Aluminium, with Reflector"
+    },
+    "roues": {
+      "jantes": "WTB, ST i30 TCS, Double Wall",
+      "pneus": "Schwalbe, Nobby Nic Performance, 65-622, 29x2.6\""
+    },
+    "direction": {
+      "cintre": "Haibike Components, TheBar ++, 780 mm",
+      "potence": "Alu, A-head",
+      "jeu de direction": "Feimin, A-Head Tapered, Aluminium, Cartridge"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1216,
+      "stack (mm)": 674,
+      "reach (mm)": 432
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 155,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1240,
+      "stack (mm)": 683,
+      "reach (mm)": 452
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1264,
+      "stack (mm)": 692,
+      "reach (mm)": 472
+    }
+  ]
+}

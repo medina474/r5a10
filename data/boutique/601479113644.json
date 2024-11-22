@@ -1,0 +1,97 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2511481",
+  "tailles": [
+    "M / 161-175 cm",
+    "L / 174-188 cm",
+    "XL / 186-196 cm"
+  ],
+  "name": "VTT DH Tout-Suspendu Trek Session 8 Sram GX DH 7V 29'' Noir 2023",
+  "marque": "Trek",
+  "description": "Le Session 8 est un VTT de descente avec un cadre en alliage d’aluminium robuste et une suspension à pivot élevé pour préserver votre agilité, votre équilibre et votre vitesse sur les segments les plus difficiles.\r\n\r\nLe parc de descente est pratiquement votre deuxième résidence. Vous êtes à la recherche d’un vélo de descente rapide, avec une excellente accroche, qui sera à la hauteur de vos sessions les plus extrêmes grâce à un nouveau design de la suspension qui vous permet de maîtriser le vélo tout au long de la descente.\r\n\r\nUn cadre robuste en alliage d’aluminium, un débattement de 200 mm à l’arrière avec un amortisseur Marzocchi Bomber, une fourche RockShox Boxxer Select à 200 mm de débattement avec un amortisseur Charger RC rembourré, de puissants freins à quatre pistons Code R 4 et une transmission Sram GX 7 vitesses.\r\n\r\nLe Session a toujours été le vélo de descente par excellence. Avec le nouveau design de suspension qui offre plus d’accroche et de vitesse en éliminant pratiquement la rétroaction des pédales.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/481/511481/2511481/4936845",
+  "mpn": "5279084",
+  "gtin13": "601479113644",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-175 cm",
+      "stock": 24,
+      "prix": 5999,
+      "mpn": "5279084",
+      "sku": "2366156",
+      "gtin13": "601479113644",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2579694-vtt_dh_tout_suspendu_trek_session_8_sram_gx_dh_7v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 174-188 cm",
+      "stock": 8,
+      "prix": 5999,
+      "mpn": "5279085",
+      "sku": "2365132",
+      "gtin13": "601479113606",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2579694-vtt_dh_tout_suspendu_trek_session_8_sram_gx_dh_7v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 186-196 cm",
+      "stock": 2,
+      "prix": 5999,
+      "mpn": "5279086",
+      "sku": "2357630",
+      "gtin13": "601479113521",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2579694-vtt_dh_tout_suspendu_trek_session_8_sram_gx_dh_7v_29___noir_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 200,
+    "débattement cadre (mm)": 200,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX DH 7V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre ": "M / R1",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 425,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 117,
+      "angle de direction (°)": 63.6,
+      "angle tube de selle (°)": 61.6,
+      "empattement (mm)": 1243,
+      "stack (mm)": 634,
+      "reach (mm)": 447
+    },
+    {
+      "taille cadre ": "L / R2",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 425,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 441,
+      "douille de direction (mm)": 117,
+      "angle de direction (°)": 63.6,
+      "angle tube de selle (°)": 61.6,
+      "empattement (mm)": 1274,
+      "stack (mm)": 634,
+      "reach (mm)": 472
+    },
+    {
+      "taille cadre ": "XL / R3",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 425,
+      "tube supérieur (mm)": 652,
+      "longueur base (mm)": 448,
+      "douille de direction (mm)": 117,
+      "angle de direction (°)": 63.6,
+      "angle tube de selle (°)": 61.6,
+      "empattement (mm)": 1309,
+      "stack (mm)": 634,
+      "reach (mm)": 499
+    }
+  ]
+}

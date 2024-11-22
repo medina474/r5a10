@@ -1,0 +1,176 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2504821",
+  "tailles": [
+    "XXS / 145-160 cm",
+    "51 cm / 157-171cm",
+    "54 cm / 168-180 cm",
+    "56 cm / 176-186 cm",
+    "58 cm / 183-195 cm",
+    "61 cm / 192-220 cm"
+  ],
+  "name": "Gravel 3T Exploro Ultra Rival 1x11V 700mm Bleu Clair 2024",
+  "marque": "3T",
+  "description": "L'Ultra a été notre défi aérodynamique le plus difficile à relever à ce jour. Commencer avec des pneus massifs de 55-61mm et ensuite rendre le vélo aérodynamique. Il n'y a rien que nous puissions faire pour les pneus, ils sont gros et les molettes n'aident pas. Ce que nous pouvons faire, c'est prendre le désordre du flux d'air qui vient de la roue avant et essayer de l'attraper et de le rediriger. C'est pourquoi vous verrez le tube diagonal de 60 mm de large placé près de la roue avant, encore plus large à mesure qu'il se rapproche du boîtier de pédalier. L'intégration de ce tube dans le tube de direction avec un profil aérodynamique décentré et de nombreuses autres astuces permet d'obtenir un vélo qui donne l'impression d'être beaucoup plus rapide que ce que votre cerveau peut calculer. Car soyons honnêtes, lorsque vous voyez ces pneus, votre cerveau se prépare à la performance lente et ennuyeuse d'un VTT sur les routes. Mais grâce à la position de conduite, à l'aérodynamisme, à la rigidité du cadre et au facteur Q étroit, l'Ultra se comporte à 100 % comme un vélo de route lorsque vous voulez aller vite, même dans la boue. Même dans la boue.\r\nLes + produits :",
+  "image": "https://product-cdn-frz.alltricks.com/medium/821/504821/2504821/4924175",
+  "mpn": "9205DNDM23W",
+  "gtin13": "4895211829634",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "51 cm / 157-171cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "9205DNDJ23W",
+      "sku": "2088755",
+      "gtin13": "4895211829603",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2572649-gravel_3t_exploro_ultra_rival_1x11v_700mm_bleu_clair_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 168-180 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "9205DNDK23W",
+      "sku": "2088758",
+      "gtin13": "4895211829610",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2572649-gravel_3t_exploro_ultra_rival_1x11v_700mm_bleu_clair_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 176-186 cm",
+      "stock": 3,
+      "prix": 2599.99,
+      "mpn": "9205DNDL23W",
+      "sku": "2088772",
+      "gtin13": "4895211829627",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2572649-gravel_3t_exploro_ultra_rival_1x11v_700mm_bleu_clair_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "58 cm / 183-195 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "9205DNDM23W",
+      "sku": "2088746",
+      "gtin13": "4895211829634",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2572649-gravel_3t_exploro_ultra_rival_1x11v_700mm_bleu_clair_2024"
+    }
+  ],
+  "informations": {
+    "taille de roues": "700mm",
+    "groupe": "Sram Rival 1 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Exploro Ultra : carbone préimprégné unidirectionnel, mélange de performance haut module/haute résistance",
+      "fourche": "Carbone : Fango RaceMax avec couronne compacte"
+    },
+    "dérailleur": "Sram Rival 1 Hydraulique Double-Tap",
+    "transmission": {
+      "dérailleur arrière": "Sram Rival 1 long case",
+      "cassette": "11 vitesses Sram Rival 11-42T",
+      "pédalier": "BB fileté"
+    },
+    "équipements": {
+      "freins": "Disque hydraulique Sram Rival à montage plat avec rotor Sram 160mm",
+      "tige de selle": "27.2 x 350 mm en carbone"
+    },
+    "roues": {
+      "jantes": "Fulcrum Rapid Red 900, 700c"
+    },
+    "cintre": "3T Superergo PRO",
+    "direction": {
+      "potence": "3T Apto Steath (XXS : 70mm - 51 : 80mm - 54 : 90mm - 56 : 100mm - 58 : 110mm - 61 : 120mm)",
+      "jeu de direction": "Cartouche scellée 1.125\" - 1.5\""
+    },
+    "couleur": "Bleu clair"
+  },
+  "geometries": [
+    {
+      "taille du cadre (cm)": "XXS",
+      "tube de selle (mm)": 436,
+      "tube supérieur (mm)": 506,
+      "longueur base (mm)": 419,
+      "longueur du tube de direction* (mm)": 125,
+      "angle du tube de direction (°)": 68.5,
+      "angle du tube de selle (°)": 74.5,
+      "empattement (mm)": 1003,
+      "stack (mm)": 520,
+      "reach (mm)": 351,
+      "longueur de la tige (mm)": 70,
+      "longueur de la manivelle (mm)": 165
+    },
+    {
+      "taille du cadre (cm)": 51,
+      "tube de selle (mm)": 463,
+      "tube supérieur (mm)": 526,
+      "longueur base (mm)": 419,
+      "longueur du tube de direction* (mm)": 147,
+      "angle du tube de direction (°)": 69.5,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1008,
+      "stack (mm)": 542,
+      "reach (mm)": 362,
+      "longueur de la tige (mm)": 80,
+      "longueur de la manivelle (mm)": 170
+    },
+    {
+      "taille du cadre (cm)": 54,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 546,
+      "longueur base (mm)": 419,
+      "longueur du tube de direction* (mm)": 161,
+      "angle du tube de direction (°)": 71,
+      "angle du tube de selle (°)": 73.5,
+      "empattement (mm)": 1012,
+      "stack (mm)": 564,
+      "reach (mm)": 373,
+      "longueur de la tige (mm)": 90,
+      "longueur de la manivelle (mm)": 172.5
+    },
+    {
+      "taille du cadre (cm)": 56,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 566,
+      "longueur base (mm)": 419,
+      "longueur du tube de direction* (mm)": 180,
+      "angle du tube de direction (°)": 72,
+      "angle du tube de selle (°)": 73,
+      "empattement (mm)": 1014,
+      "stack (mm)": 584,
+      "reach (mm)": 381,
+      "longueur de la tige (mm)": 100,
+      "longueur de la manivelle (mm)": 172.5
+    },
+    {
+      "taille du cadre (cm)": 58,
+      "tube de selle (mm)": 549,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 419,
+      "longueur du tube de direction* (mm)": 201,
+      "angle du tube de direction (°)": 72.5,
+      "angle du tube de selle (°)": 72.5,
+      "empattement (mm)": 1024,
+      "stack (mm)": 604,
+      "reach (mm)": 388,
+      "longueur de la tige (mm)": 110,
+      "longueur de la manivelle (mm)": 175
+    },
+    {
+      "taille du cadre (cm)": 61,
+      "tube de selle (mm)": 576,
+      "tube supérieur (mm)": 606,
+      "longueur base (mm)": 419,
+      "longueur du tube de direction* (mm)": 232,
+      "angle du tube de direction (°)": 72.5,
+      "angle du tube de selle (°)": 72.5,
+      "empattement (mm)": 1044,
+      "stack (mm)": 632,
+      "reach (mm)": 393,
+      "longueur de la tige (mm)": 120,
+      "longueur de la manivelle (mm)": 175
+    }
+  ]
+}

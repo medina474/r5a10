@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2724816",
+  "tailles": [
+    "M / 165-176 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Top Fuel 5 Shimano Deore 12V 29'' Gris Gén.4",
+  "marque": "Trek",
+  "description": "Le Trek Top Fuel 5 4e gén. est un VTT de trail agile et prêt à avaler les ascensions comme à garder le contrôle en descente, le tout sans vider votre compte en banque. Il est doté d’une suspension de 130 mm à l’avant et de 120 mm à l’arrière pour vous donner juste ce qu’il faut d’amortissement pour lisser les secousses sans vider votre énergie au pédalage. Il se voit équiper d’une fourche RockShox et d’un groupe Shimano Deore pour vous donner tout ce dont vous avez besoin pour avaler les pistes à prix économique.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/816/724816/2724816/5491112",
+  "mpn": "5319305",
+  "gtin13": "601842985144",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-176 cm",
+      "stock": 1,
+      "prix": 2859,
+      "mpn": "5319305",
+      "sku": "2720184",
+      "gtin13": "601842985144",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2850390-vtt_tout_suspendu_trek_top_fuel_5_shimano_deore_12v_29___gris_gen_4"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 1,
+      "prix": 2859,
+      "mpn": "5319304",
+      "sku": "2720227",
+      "gtin13": "601842985151",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2850390-vtt_tout_suspendu_trek_top_fuel_5_shimano_deore_12v_29___gris_gen_4"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 1,
+      "prix": 2859,
+      "mpn": "5319306",
+      "sku": "2720212",
+      "gtin13": "601842985137",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2850390-vtt_tout_suspendu_trek_top_fuel_5_shimano_deore_12v_29___gris_gen_4"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {}
+}

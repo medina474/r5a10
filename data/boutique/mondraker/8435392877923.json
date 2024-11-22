@@ -1,0 +1,144 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2705627",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Mondraker Summum R Sram GX DH 7V 29'' Midnight Bleu 2024",
+  "marque": "Mondraker",
+  "description": "Le Mondraker Summum R est un vélo qui résulte plus de 20 ans d'expérience dans la fabrication de vélos DH haut rendement. Et ce n'est pas rien, avec plusieurs podiums en Coupe du monde et Championnat du monde 2016 à Val di Sole, monopolisant l’ensemble du podium de cette année-là.\r\nUn moment historique qui prouve que, même le plus basique de la gamme peut atteindre le plus haut niveau.\r\nCe n'est pas pour rien que le système de suspension et les principales caractéristiques sont identiques à ceux du Summum Carbon RR avec lequel concourent nos riders de la MS Mondraker Team. Le kit de changement de géométrie est optionnel.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/627/705627/2705627/5450620",
+  "mpn": "010.24178",
+  "gtin13": "8435392877923",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-170 cm",
+      "stock": 1,
+      "prix": 4599.99,
+      "mpn": "010.24177",
+      "sku": "2564872",
+      "gtin13": "8435392877916",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824134-vtt_tout_suspendu_mondraker_summum_r_sram_gx_dh_7v_29___midnight_bleu_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 10,
+      "prix": 4599.99,
+      "mpn": "010.24178",
+      "sku": "2564708",
+      "gtin13": "8435392877923",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824134-vtt_tout_suspendu_mondraker_summum_r_sram_gx_dh_7v_29___midnight_bleu_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 4599.99,
+      "mpn": "010.24179",
+      "sku": "2564718",
+      "gtin13": "8435392877930",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2824134-vtt_tout_suspendu_mondraker_summum_r_sram_gx_dh_7v_29___midnight_bleu_2024"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 18.3,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 203,
+    "débattement cadre (mm)": 200,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX DH 7V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Summum 29 6061 Alloy Stealth Evo, tubes hydroformés, Zero Suspension system, chasse de 200 mm, Forward Geometry, biellette supérieure alliage avec roulement à œillet d’amortisseur, essieu arrière SuperBoost 12x157 mm, support inférieur BSA de 83 mm, roulements Enduro double capacité MAX, acheminement interne de câbles HHG, ISCG 05. *Kit Géométrie en option",
+      "fourche": "Fox 40 29 Float FIT GRIP EVOL Performance, 203 mm, amortisseur pneumatique, pivot de fourche de 1-1/8”, essieu de 20x110 mm, déport 56 mm. Réglages : compression basse vitesse, rebond basse vitesse, précontrainte pneumatique",
+      "amortisseur": "Fox DHX2 Performance Elite, 225x70 mm. Réglages : compression basse vitesse, rebond basse vitesse, précontrainte du ressort. Trunnion montage haut, bagues inférieures 30x8 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "SRAM trigger GX DH 7s, X-actuation 1:1",
+      "dérailleur arrière": "SRAM GX DH, 7s, cage moyenne, X-actuation 1:1",
+      "cassette": "SRAM PG 720 11-25T, 7s",
+      "chaîne": "SRAM PC1110 11s, Powerlock",
+      "pédalier": "34T, acier, X-SYNC",
+      "boîtier de pédalier": "SRAM DUB BSA, roulements étanches, 83 mm"
+    },
+    "équipements": {
+      "freins": "Arrière: SRAM Code Bronze Stealth, étrier surdimensionné 4 pistons, disque monopièpce 6 trous Centerline 203 mm IS, plaquettes en métal fritté sur acier / Avant: SRAM Code Bronze Stealth, étrier surdimensionné 4 pistons, disque monopièpce 6 trous Centerline 220 mm IS, plaquettes en métal fritté sur acier",
+      "selle": "SDG I-Fly 2.0 I-Beam, mousse PU haute densité, côtés velours",
+      "tige de selle": "SDG Micro I-Beam SP-751 Alloy, diamètre 31,6 mm, longueur 300 mm, micro-ajustement"
+    },
+    "roues": {
+      "jantes": "e*thirteen LG1 Plus DH, IW29 29\" Hookless, aluminium soudé 6069, largeur intérieure 30 mm, compatible Tubeless, 32 rayons",
+      "moyeu avant": "*thirteen Boost 20x110 mm, triple renfort, aluminium entièrement usiné, IS 6 trous ",
+      "moyeu arrière": "*thirteen Superboost 12x157 mm, triple étanchéité, aluminium entièrement usiné avec engagement de 6 degrés, IS 6 trous, roue libre HG",
+      "pneus": "Michelin DH34 29x2,4'', Tubeless Ready, composé Magi-X DH, double-enveloppe DH renforcée, tringle rigide."
+    },
+    "direction": {
+      "cintre": "ONOFF Sulfur 1.0 double renfort alliage 6061, galbe : 20 mm, largeur : 800 mm, cintrage 9º, rehausse 5º, alésage 31,8 mm",
+      "poignées": "ONOFF Desert, 1lock-on, 135 mm",
+      "potence": "ONOFF Krypton DH CNC Integrated FG, longueur réglable 25-30 mm, alésage 31,8 mm, alliage 6061, entretoise 2x6 mm",
+      "jeu de direction": "ONOFF Mercurium 1.5 ZS pour pivot de fourche de 1-1/8”, roulements étanches 41x30,15x7x45ºx45º ACB, coupelles de kit géométrie, diamètre externe 56 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 112,
+      "angle de direction (°)": 63,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1260,
+      "stack (mm)": 632,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 593,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 112,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1270,
+      "stack (mm)": 632,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 112,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1295,
+      "stack (mm)": 632,
+      "reach (mm)": 475
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 643,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 112,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 69,
+      "empattement (mm)": 1320,
+      "stack (mm)": 632,
+      "reach (mm)": 500
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2706486",
+  "tailles": [
+    "XS / 155-165 cm",
+    "S / 162-172 cm",
+    "M / 170-182 cm",
+    "L / 180-192 cm",
+    "XL / 190-200 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "BMC URS AL Two Sram Apex 1 11V 700 mm Bleu Dark Petrol 2023",
+  "marque": "BMC",
+  "description": "Le gravel s'est rapidement intégré dans l'ADN des cyclistes. Mais BMC ne pouvait faire ses premiers pas dans la discipline sans s'assurer d'y jouer les premiers rôles. Le seul URS que vous ayez envie de croiser sur votre chemin aime foncer sans limites (UnReStricted) ; n'hésitez pas à nourrir son côté sauvage. Son cadre super-léger conçu pour la compétition et sa conception performante s'allient à la précision emblématique, l'intégration extrême et la géométrie Gravel+ minutieusement développées par BMC. Plaisir garanti.\r\n\r\nLe BMC URS AL est l’équivalent à roues d’un caméléon : capable de s’adapter et de s’ajuster à la perfection aux divers environnements. Fidèle aux caractéristiques de maniabilité et de pilotage de la famille URS, il présente un aspect pratique supérieur grâce à ses fixations supplémentaires (tube supérieur, fourche, etc ...) et à sa compatibilité avec une tige de selle télescopique ; ce vélo de gravel en aluminium et prêt pour l’aventure. Équipé d’une transmission Sram Apex 1x11, avec cassette 11-42, de freins à disque hydrauliques et de pneus WTB Riddler de 45 mm, l'URS AL Two n’a pas peur de s’attaquer à différents terrains.\r\n\r\nL'URS AL est compatible avec porte-bagage, garde-boue et moyeu-dynamo ; il vous permet de choisir la configuration idéale pour vos aventures comme pour vos trajets du quotidien.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/486/706486/2706486/5453157",
+  "mpn": "30002536",
+  "gtin13": "7630027885880",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 162-172 cm",
+      "stock": 6,
+      "prix": 1999.99,
+      "mpn": "30002534",
+      "sku": "2191277",
+      "gtin13": "7630027885903",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2825433-gravel_bike_bmc_urs_al_two_sram_apex_1_11v_700_mm_bleu_dark_petrol_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-182 cm",
+      "stock": 4,
+      "prix": 1999.99,
+      "mpn": "30002535",
+      "sku": "2191050",
+      "gtin13": "7630027885897",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2825433-gravel_bike_bmc_urs_al_two_sram_apex_1_11v_700_mm_bleu_dark_petrol_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-192 cm",
+      "stock": 6,
+      "prix": 1999.99,
+      "mpn": "30002536",
+      "sku": "2191411",
+      "gtin13": "7630027885880",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2825433-gravel_bike_bmc_urs_al_two_sram_apex_1_11v_700_mm_bleu_dark_petrol_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Dark Petrol / Off-White"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : URS Premium Aluminium, Gravel+ Geometry, Internal Cable Routing, Fender and Rack Mounts, PF86 Bottom Bracket, Flat Mount Disc, 12x142 mm Thru-Axle, Tire Clearance: 45 mm (Measured Width)",
+      "fourche": "Carbone : URS Carbon, Internal Brake & Hub Dynamo Cable Routing, Fender Mounts, Cargo Mounts, Flat Mount Disc, 12x100 mm Thru-Axle, Side Mounts"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex 1 HRD, 1x11-vitesses",
+      "dérailleur arrière": "Sram Apex 1, Long Cage, 11-vitesses",
+      "cassette": "Sram PG-1130, 11-42 Dents",
+      "chaîne": "Sram Apex",
+      "pédalier": "Sram Apex 1, 40 Dents",
+      "boîtier de pédalier": "PF86"
+    },
+    "équipements": {
+      "freins": "Sram Apex HRD, Hydr. Disc Brake, Sram Centerline Rotors (160/160)",
+      "selle": "Selle Royal SRX",
+      "tige de selle": "BMC RSP 03, 27.2 x 350 mm, 15 mm Offset"
+    },
+    "roues": {
+      "jantes": "PRD23, 23 mm",
+      "pneus": "WTB Riddler, 700x45 mm"
+    },
+    "direction": {
+      "cintre": "BMC RAB, 70 mm reach, 130 mm drop",
+      "potence": "BMC MSM02, +/-6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 540,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 92,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1028,
+      "stack (mm)": 525,
+      "reach (mm)": 390,
+      "largeur du cintre (mm)": 420,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 558,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1047,
+      "stack (mm)": 550,
+      "reach (mm)": 400,
+      "largeur du cintre (mm)": 420,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 475,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1068,
+      "stack (mm)": 580,
+      "reach (mm)": 410,
+      "largeur du cintre (mm)": 420,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 172.5
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 505,
+      "tube supérieur (mm)": 595,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 182,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1089,
+      "stack (mm)": 610,
+      "reach (mm)": 420,
+      "largeur du cintre (mm)": 440,
+      "longueur de la potence (mm)": 80,
+      "longueur des manivelles (mm)": 172.5
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 214,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1110,
+      "stack (mm)": 640,
+      "reach (mm)": 430,
+      "largeur du cintre (mm)": 440,
+      "longueur de la potence (mm)": 80,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

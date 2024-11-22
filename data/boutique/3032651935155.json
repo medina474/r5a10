@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2632855",
+  "tailles": [
+    "S / 158-168 cm",
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Sunn Kern S1 Sram GX Eagle 12V 29'' Beige",
+  "marque": "Sunn",
+  "description": "Facile à prendre en main, le new Kern est LE vtt accessible à tous.\r\nLe vélo que l’on sort pour explorer des terrains inconnus.\r\nCe vélo peut tout faire : les montées à la pédale paraissent faciles, il se conduit de manière très fluide en descente, il se montre joueur lorsqu’on lui demande.\r\nLe vélo à tout faire, on vous a dit !\r\n\r\nLe cadre alu edge design tubing du Kern permet de contrôler la rigidité des tubes alu pour aboutir à un cadre efficace au pédalage mais aussi complaisant en descente où il vous aide lorsque la trajectoire est un peu osée.\r\n\r\nLe VTT Kern offre une suspension souple en début de course puis qui vient se durcir progressivement pour offrir plus de soutien en fin de course et rend le vélo dynamique dans les enchaînements de mouvement de terrain.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/855/632855/2632855/5311364",
+  "mpn": "YESUS13801",
+  "gtin13": "3032651935155",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-168 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "YESUS13801",
+      "sku": "2531334",
+      "gtin13": "3032651935155",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755876-vtt_tout_suspendu_sunn_kern_s1_sram_gx_eagle_12v_29___beige"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "YESUS14201",
+      "sku": "2531343",
+      "gtin13": "3032651935162",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755876-vtt_tout_suspendu_sunn_kern_s1_sram_gx_eagle_12v_29___beige"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "YESUS14601",
+      "sku": "2531327",
+      "gtin13": "3032651935179",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2755876-vtt_tout_suspendu_sunn_kern_s1_sram_gx_eagle_12v_29___beige"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 15.2,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Kern Alloy 6069 Edge, Tubing Boost, 140mm",
+      "fourche": "Marzocchi Bomber Z2, 150mm",
+      "amortisseur": "Marzocchi Bomber Air 185x50 Trunnion"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, Lunar, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, Lunar, 12-vitesses",
+      "cassette": "Sram SX Eagle, 11-50 Dents",
+      "pédalier": "Sram GX Eagle, Lunar CL55"
+    },
+    "équipements": {
+      "freins": "Formula Cura 2, 203/180 mm",
+      "selle": "Brute One",
+      "tige de selle": "Brute Dropper"
+    },
+    "roues": {
+      "jantes": "E Thirteen LG1 en 30 mm 32T",
+      "pneu avant": " Maxxis Assegai 29x2.5\" Exo ",
+      "pneu arrière": " Maxxis Agressor 29x2.3\" Exo"
+    },
+    "direction": {
+      "cintre": "Brute, 780 mm x 31.8 mm, Rise 25",
+      "potence": "Brute One CNC, 40 mm - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.6,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1184,
+      "stack (mm)": 615,
+      "reach (mm)": 427
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.6,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1216,
+      "stack (mm)": 625,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.6,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1248,
+      "stack (mm)": 635,
+      "reach (mm)": 483
+    }
+  ]
+}

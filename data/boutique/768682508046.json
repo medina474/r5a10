@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2589426",
+  "tailles": [
+    "M / 165-175 cm",
+    "M-L / 173-180 cm"
+  ],
+  "name": "VTT Tout Suspendu Trek Slash 9.8 Shimano XT 12V 29/27.5'' Argent Gén 6",
+  "marque": "Trek",
+  "description": "Le Slash 9.8 est un VTT d’enduro en carbone qui n’a pas peur des descentes terrifiantes. Il possède un cadre en OCLV Mountain Carbon et une suspension à pivot haut de 170 mm de débattement pour avaler les rochers et maintenir une accroche idéale dans les descentes escarpées et les côtes intenses. Les roues de 29 pouces à l’avant et de 27,5 pouces à l’arrière donnent un comportement ludique, tandis que l’ensemble de suspension Rockshox amélioré est prêt à relever tous les défis. Une transmission Shimano XT vient compléter le tout pour des changements de vitesse nets.\r\n\r\nVous recherchez un vélo d’enduro en carbone, agressif dans les descentes et agile dans les montées. Vous recherchez l’accroche et la stabilité qu’offre une suspension à pivot haut et vous appréciez le long débattement pour absorber les grosses racines et les grands drops. Vous aimez les améliorations et vous adorez les avantages d’une transmission sans fil et de roues en carbone.\r\n\r\nUn cadre en OCLV Mountain Carbon avec suspension à pivot haut, sans oublier un espace de rangement interne. Débattement de 170 mm à l’avant et à l’arrière avec une fourche RockShox ZEB Select+ à ressort DebonAir et cartouche d’amortissement Charger 3 RC2 et amortisseur RockShox Super Deluxe Select+. Assez de rapports pour retourner au sommet grâce à la transmission Shimano XT, une tige de selle télescopique Bontrager Line Dropper et un mix de roues en carbone Bontrager Line Elite 30 Tubeless Ready de 29 pouces à l’avant et 27,5 pouces à l’arrière montées sur un moyeu Rapid Drive.\r\n\r\nPour les pilotes qui recherchent les performances du carbone et un ensemble soigneusement sélectionné de composants supérieurs, le Slash 9.8 XT est prêt à se lancer sur les trails. Il propose 170 mm de débattement à l’avant et à l’arrière, une suspension et une transmission améliorées et des roues en carbone pour pouvoir grimper avec légèreté et descendre à fond.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/426/589426/2589426/5229458",
+  "mpn": "5304388",
+  "gtin13": "768682508046",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 6872.99,
+      "mpn": "5304388",
+      "sku": "2538062",
+      "gtin13": "768682508046",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714381-vtt_tout_suspendu_trek_slash_9_8_shimano_xt_12v_29_27_5___argent_gen_6"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 1,
+      "prix": 6872.99,
+      "mpn": "5304389",
+      "sku": "2538074",
+      "gtin13": "768682508022",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714381-vtt_tout_suspendu_trek_slash_9_8_shimano_xt_12v_29_27_5___argent_gen_6"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 170,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre ": "S",
+      "dimension roues (pouce)": 27.5,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 548,
+      "longueur base (mm)": 429,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 63.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1195,
+      "stack (mm)": 588,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre ": "M",
+      "dimension roues (pouce)": "29/27.5",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 578,
+      "longueur base (mm)": 429,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 63.3,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1224,
+      "stack (mm)": 623,
+      "reach (mm)": 448
+    },
+    {
+      "taille cadre ": "M/L",
+      "dimension roues (pouce)": "29/27.5",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 63.3,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1253,
+      "stack (mm)": 632,
+      "reach (mm)": 468
+    },
+    {
+      "taille cadre ": "L",
+      "dimension roues (pouce)": "29/27.5",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 628,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 63.3,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1278,
+      "stack (mm)": 641,
+      "reach (mm)": 488
+    },
+    {
+      "taille cadre ": "XL",
+      "dimension roues (pouce)": "29/27.5",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 658,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 63.3,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1312,
+      "stack (mm)": 659,
+      "reach (mm)": 513
+    }
+  ]
+}

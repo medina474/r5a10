@@ -1,0 +1,162 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2429592",
+  "tailles": [
+    "M / 165-175 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm",
+    "XXL / 195-203 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Marlin 4 Shimano 7V 29'' Bleu Alpine 2023",
+  "marque": "Trek",
+  "description": "Le Marlin 4 est parfait pour découvrir les trails. Ce vélo est idéal pour le cycliste débutant qui veut un VTT avec des pneus à gros dessins qui pourra également faire office de vélo pour déplacements quotidiens solide. Des freins à disque, une fourche télescopique, 21 vitesses et des fixations de porte-bagages et de garde-boue font de ce vélo une excellente option pour s’initier aux trails ou se rendre aux cours à vélo…\r\n\r\nVous êtes à la recherche d’un VTT à un prix incroyable pour découvrir ce sport, mais vous souhaitez également un vélo pour vos trajets quotidiens, assez robuste pour franchir les bordures sur le chemin des cours.\r\n\r\nUn cadre léger en aluminium avec l’acheminement interne des câbles pour les protéger et contribuer à l’élégance du vélo, 21 vitesses, une large plage de rapports pour toujours trouver la bonne cadence quel que soit le terrain, de puissants freins à disque mécaniques et une fourche télescopique pour effacer les bosses et les imperfections du terrain.\r\n\r\nLe Marlin est prêt pour n’importe quelle aventure. Les fixations de porte-bagages et de garde-boue en font un excellent choix pour les adeptes des trajets quotidiens à vélo qui souhaitent mettre un peu de piment sur le chemin des cours ou du supermarché.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/592/429592/2429592/4657286",
+  "mpn": "5275342",
+  "gtin13": "601842863091",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XXL / 195-203 cm",
+      "stock": 46,
+      "prix": 579,
+      "mpn": "5275342",
+      "sku": "2288050",
+      "gtin13": "601842863091",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2470535-vtt_semi_rigide_trek_marlin_4_shimano_7v_29___bleu_alpine_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 13.9815,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Tourney 7V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alpha Silver aluminium, acheminement interne, fixation du frein à disque sur la base arrière, fixations pour porte-bagages et béquille, QR 135x5 mm",
+      "fourche": "Size: XS SR Suntour XCE 28, ressort hélicoïdal, précontrainte, déport de 42 mm pour roue de 27,5 pouces, QR 100 mm, débattement de 80 mm Size: S SR Suntour XCE 28, ressort hélicoïdal, précontrainte, déport de 42 mm pour roue de 27,5 pouces, QR 100 mm, débattement de 100 mm Size: M , ML , L , XL , XXL SR Suntour XCE 28, ressort hélicoïdal, précontrainte, déport de 46 mm pour roue de 29 pouces, QR 100 mm, débattement de 100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Altus EF500, 7 vitesses",
+      "dérailleur arrière": "Shimano Tourney TY300, longue chape, pignon 34 dts max, 7 vitesses",
+      "cassette": "Shimano TZ500, 14-28, 7 vitesses",
+      "chaîne": "KMC Z7",
+      "pédalier": "Size: XS , S , M Shimano Tourney TY301, 42/34/24, longueur de 170 mm Size: ML , L , XL , XXL Shimano Tourney TY301, 42/34/24, longueur de 175 mm",
+      "boîtier de pédalier": "VP BC73, 73 mm, cartouche filetée"
+    },
+    "dérailleur avant": "Shimano Tourney TY300, collier 34,9 mm, down swing, down pull",
+    "équipements": {
+      "freins": "Size: XS , S , M , ML , L , XL , XXL Tektro MD-M280 mécaniques, disque de 160 mm Size: XS , S , M , ML , L , XL , XXL Freins à disque mécaniques Tektro MD-M281",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Size: XS , S Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 330 mm Size: M Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 360 mm Size: ML , L , XL , XXL Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 400 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Connection, double paroi, 32 trous, largeur de 20 mm, valve schrader",
+      "moyeux": "F : Formula DC-20, alliage, 6 trous, QR 5x100 mm / R : Formula DC-31, alliage, 6 trous, corps de roue libre 6/7/8 vitesses, QR 135x5 mm",
+      "pneus": "Size: XS , S Bontrager XR2 Comp, tringle rigide, 30 tpi, 27,5x2,2 pouces Size: M , ML , L , XL , XXL Bontrager XR2 Comp, tringle rigide, 30 tpi, 29x2,2 pouces Size: M , ML , L , XL , XXL Bontrager XR2 Comp, tringle rigide, 30 tpi, 29x2 pouces"
+    },
+    "direction": {
+      "cintre": "Size: XS , S Alliage Bontrager, 31,8 mm, élévation 5 mm, largeur de 690 mm Size: M , ML , L , XL , XXL Alliage Bontrager, 31,8 mm, élévation 5 mm, largeur de 720 mm",
+      "poignées": "Bontrager XR Endurance Comp",
+      "potence": "Size: XS Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 50 mm Size: S Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 60 mm Size: M Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 70 mm Size: ML , L Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 80 mm Size: XL , XXL Alliage Bontrager, collier de 31,8 mm, compatible Blendr, 7 degrés, longueur de 90 mm",
+      "jeu de direction": "Semi-intégré, 1,125 pouce"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 343,
+      "tube supérieur (mm)": 544,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 69.3,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1049,
+      "stack (mm)": 565,
+      "reach (mm)": 376
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 368,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 69.3,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1066,
+      "stack (mm)": 574,
+      "reach (mm)": 385
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 602,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1100,
+      "stack (mm)": 602,
+      "reach (mm)": 418
+    },
+    {
+      "taille de cadre": "M/L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 444,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1116,
+      "stack (mm)": 602,
+      "reach (mm)": 434
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1137,
+      "stack (mm)": 611,
+      "reach (mm)": 451
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 521,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1159,
+      "stack (mm)": 630,
+      "reach (mm)": 466
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 559,
+      "tube supérieur (mm)": 673,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1173,
+      "stack (mm)": 630,
+      "reach (mm)": 480
+    }
+  ]
+}

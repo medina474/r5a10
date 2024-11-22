@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2533444",
+  "tailles": [
+    "S / 150-165 cm",
+    "M / 160-175 cm",
+    "L / 170-185 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Orbea Laufey H10 Shimano Deore/SLX 12V 29'' Argent Aluminium Raw",
+  "marque": "Orbea",
+  "description": "Laufey est le VTT le plus malin et le plus polyvalent de chez Orbea. Et au lieu de dire que le Laufey est conçu pour un seul type de pilote, la marque va de l'avant et affirme que cette machine amusante est parfaite pour tout le monde. Laufey est sans limites. C’est un vélo de trail joueur et simple qui aime les nouveaux terrains. C’est un premier vélo ou un dernier vélo. Son tarif abordable le rend accessible et son propriétaire peut le considérer comme un vélo de niche dans son garage, même dans la collection de vélos la plus exclusive. Débutant. Pilote expert et engagé. Rider en lycra ou également en jean. L'Orbea Laufey sera votre homme à tout faire et un maître du divertissement.\r\n\r\nPour les longs parcours, rapides et sur des terrains variés pour une polyvalence extrême, les roues de 29\" sont le choix idéal pour le Laufey. Les pneus larges de 2.6\" offrent une plus grande surface de contact, ce qui signifie plus d'adhérence. Une adhérence accrue à tout moment, ce qui augmente la traction dans les virages et au freinage. Les ingénieurs de chez Orbea manipulent les formes et l'épaisseur des parois de leurs tubes d'aluminium afin d'accroître leur robustesse et leur résistance aux flexions indésirables. De nombreux tubes sont aboutés afin de gagner en poids dans les zones éloignées des contraintes des joints et des zones de soudure.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/444/533444/2533444/5112080",
+  "mpn": "M24615LW",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-165 cm",
+      "stock": 1,
+      "prix": 1299.99,
+      "mpn": "M24615LW",
+      "sku": "2531973",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2609103-vtt_semi_rigide_orbea_laufey_h10_shimano_deore_slx_12v_29___argent_aluminium_raw"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "LW - Aluminium Raw (Gloss)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Laufey Hydro Triple Butted, 29\", Boost 12x148 mm, ISCG 05",
+      "fourche": "Marzocchi Bomber Z2, Boost Q15X110 mm, 140 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX M7100 SGS Shadow Plus, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore CN-M6100",
+      "pédalier": "Shimano FC-MT511, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6100, Hydr. Disc Brake",
+      "selle": "Selle Royal, 2058 DRN",
+      "tige de selle": "OC Mountail Control MC20, 31.6 mm, Dropper / Shimano SL-MT500 I-Spec EV Remote"
+    },
+    "roues": {
+      "jantes": "Orbea OC1, 29\", Tubeless Ready",
+      "pneu avant": " Maxxis Forekaster, FB, 60 TPI, Dual, Exo, TR, 29x2.60\" ",
+      "pneu arrière": " Maxxis Rekon, FB, 60 TPI, Dual, Exo, TR, 29x2.60\""
+    },
+    "direction": {
+      "cintre": "OC1, 35 mm, 12 mm Rise, 780 mm Width",
+      "potence": "OC1, 3D Forged, 35 mm interface, 7º",
+      "jeu de direction": "FSA 1-1/8 - 1-1/2\" Integrated"
+    },
+    "référence": "M246"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 381,
+      "tube supérieur (mm)": 578,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1146,
+      "stack (mm)": 632,
+      "reach (mm)": 409,
+      "longueur potence (mm)": 45,
+      "longueur tige de selle (mm)": 390,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 432,
+      "tube supérieur (mm)": 606,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1174,
+      "stack (mm)": 636,
+      "reach (mm)": 435,
+      "longueur potence (mm)": 45,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 632,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1202,
+      "stack (mm)": 645,
+      "reach (mm)": 459,
+      "longueur potence (mm)": 45,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 521,
+      "tube supérieur (mm)": 662,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1235,
+      "stack (mm)": 664,
+      "reach (mm)": 484,
+      "longueur potence (mm)": 55,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

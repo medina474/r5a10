@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2259360",
+  "tailles": [
+    "51 cm / 165-175 cm",
+    "54 cm / 170-180 cm",
+    "56 cm / 177-185 cm",
+    "58 cm / 182-193 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cannondale SuperSix Evo SE Sram Rival eTap AXS 12V 700 mm Gris Meteor",
+  "marque": "Cannondale",
+  "description": "Le Cannondale SuperSix Evo SE est un gravel bike performant, prêt à affronter les terrains herbeux, les ornières, la boue et les sentiers. Les profils de tubes aérodynamiques sont synonymes de plus de vitesse pour moins d’efforts, et de minutes gagnées sur les longs parcours.\r\n\r\nLa technologie OutFront assure une direction à la fois légère et maniable, avec un positionnement de la roue plus en avant pour améliorer la stabilité et le contrôle sur les terrains accidentés. Avec en plus, une diminution du risque de chevauchement entre le bout du pied et la roue avant sur les plus petites tailles de cadre. Les bases arrière courtes apportent plus d’adhérence et plus d’accélération dans les montées sur terrain instable.\r\nL’énorme dégagement vous permet de monter des pneus jusqu’à 45 mm de large, pour bénéficier d’une meilleure traction, d’un supplément de confort et d’une résistance accrue aux crevaisons.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/360/259360/2259360/4237748",
+  "mpn": "C17102U2054",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "51 cm / 165-175 cm",
+      "stock": 1,
+      "prix": 2999.99,
+      "mpn": "C17102U2051",
+      "sku": "2259302",
+      "gtin13": "884603928905",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2205202-gravel_bike_cannondale_supersix_evo_se_sram_rival_etap_axs_12v_700_mm_gris_meteor"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 170-180 cm",
+      "stock": 2,
+      "prix": 2999.99,
+      "mpn": "C17102U2054",
+      "sku": "2349209",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2205202-gravel_bike_cannondale_supersix_evo_se_sram_rival_etap_axs_12v_700_mm_gris_meteor"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Meteor Grey"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Red eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SuperSix EVO CX Carbon, internal cable routing w/ Switchplate, 12x142mm Speed Release thru-axle, SAVE, PF30-83 Ai, flat mount disc, integrated seatpost binder ",
+      "fourche": "Carbone : SuperSix EVO CX Carbon, SAVE, integrated crown race, 12x100mm Speed Release thru-axle, flat mount disc, internal routing, 1-1/8\" to 1-1/2\", 55mm offset"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Rival eTap AXS HRD, 2x12 vitesses",
+      "dérailleur arrière": "Sram Rival eTap AXS, 12 vitesses",
+      "cassette": "Sram Rival XG-1250, 10-36 Dents",
+      "chaîne": "Sram Rival ",
+      "pédalier": "Sram Rival DUB X-Range, 46/33 Dents",
+      "boîtier de pédalier": "Sram DUB PF30A Road 83mm, Cannondale Ai"
+    },
+    "dérailleur avant": "Sram Rival eTap AXS, braze-on",
+    "équipements": {
+      "freins": "Sram Rival hydraulic disc, 160/160mm Paceline rotors",
+      "selle": "Prologo Dimension AGX, Tirox",
+      "tige de selle": "HollowGram 27 SL KNØT, Carbon, 2 bolt clamp, 330mm, 0mm offset (46cm), 15mm offset (51-58cm)"
+    },
+    "roues": {
+      "jantes": "DT Swiss CR-1600 SPLINE, 25h, tubeless ready",
+      "moyeu avant": "wiss 350, straightpull, 12x100mm centerlock ",
+      "moyeu arrière": "ss 350 with Ratchet System 18, straightpull, 12x142mm Ai centerlock",
+      "pneus": "Vittoria Terreno Dry TNT, 700 x 40c, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Cannondale 2, 6061 Alloy, Compact",
+      "potence": "Cannondale 2, 6061 Alloy, 31.8, 7°",
+      "jeu de direction": "Integrated, 1-1/8\" - 1-1/2\""
+    },
+    "ruban de cintre": "Cannondale Bar Tape, 3.5mm"
+  },
+  "geometries": [
+    {
+      "taille cadre": 46,
+      "taille des roues": "700c",
+      "tube de selle (mm)": 449,
+      "tube supérieur (mm)": 507,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 93,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 73.9,
+      "empattement (mm)": 1002,
+      "stack (mm)": 515,
+      "reach (mm)": 365
+    },
+    {
+      "taille cadre": 51,
+      "taille des roues": "700c",
+      "tube de selle (mm)": 488,
+      "tube supérieur (mm)": 524,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1005,
+      "stack (mm)": 535,
+      "reach (mm)": 371
+    },
+    {
+      "taille cadre": 54,
+      "taille des roues": "700c",
+      "tube de selle (mm)": 524,
+      "tube supérieur (mm)": 537,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 132,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1020,
+      "stack (mm)": 555,
+      "reach (mm)": 378
+    },
+    {
+      "taille cadre": 56,
+      "taille des roues": "700c",
+      "tube de selle (mm)": 546,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 153,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 72.7,
+      "empattement (mm)": 134,
+      "stack (mm)": 575,
+      "reach (mm)": 385
+    },
+    {
+      "taille cadre": 58,
+      "taille des roues": "700c",
+      "tube de selle (mm)": 566,
+      "tube supérieur (mm)": 568,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 175,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 72.7,
+      "empattement (mm)": 1048,
+      "stack (mm)": 595,
+      "reach (mm)": 392
+    }
+  ]
+}

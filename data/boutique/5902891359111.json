@@ -1,0 +1,35 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2359887",
+  "tailles": [
+    "M / 160-175 cm",
+    "L / 175-190 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Dartmoor Sparrow Intro Mullet 29''/27.5'' Matt Stone Gris 2022",
+  "marque": "Dartmoor",
+  "description": "Vélo de trail Mullet, agile et polyvalent, dédié aux riders au début de leur aventure avec le MTB. Équipé d'une cassette 11-42T, d'une fourche à débattement de 130 mm et de freins à disque hydrauliques, il vous donne la possibilité de découvrir le monde du VTT.\r\n\r\nLes + produit : ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/887/359887/2359887/4400088",
+  "mpn": "DART-A0380",
+  "gtin13": "5902891359111",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-175 cm",
+      "stock": 3,
+      "prix": 699.99,
+      "mpn": "DART-A0380",
+      "sku": "2211865",
+      "gtin13": "5902891359111",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2396351-vtt_semi_rigide_dartmoor_sparrow_intro_mullet_29___27_5___matt_stone_gris_2022"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Single Speed"
+  },
+  "caracteristiques": {}
+}

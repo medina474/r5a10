@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2447215",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-180 cm",
+    "L / 178-190 cm",
+    "XL / 188-210 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Commencal Meta SX Essential Shimano SLX 12V 29/27.5'' Gris Foncé",
+  "marque": "Commencal",
+  "description": "Cela fait maintenant 3 ans que nous travaillons sur les bikes Mullet- (29/27) avec nos différents teams de DH. Ce travail nous a permis de comprendre que pour transformer un vélo en Mullet, il ne suffit pas de mettre une roue en 27 pouces à l'arrière.\r\nLa géométrie du vélo doit être totalement retravaillée, la cinématique également. C'est grâce à cette expérience que nous sommes aujourd'hui capables de vous présenter la version du META V4 la plus aboutie jamais produite, le Meta SX !\r\n\r\nÉquiper ce Meta SX de roues différenciées 29/27 n'est pas le fruit d'une tendance que nous suivons. De cette manière, le vélo possède un grip bien plus équilibré entre l'avant et l'arrière : la grande roue de 29 pouces à l'avant permet davantage de confiance et de capacités de franchissement tandis que la roue arrière en 27,5 pouces offre plus de maniabilité et de nervosité.\r\n\r\nIl en résulte un vélo plus agile et facile dans la pente, plus efficace au freinage et plus dynamique à la poussée.\r\n\r\nEncore une fois, notre choix de travailler l'Aluminium nous a permis d'accompagner ce changement de taille de roues d'un ajustement de la géométrie.\r\nUn reach plus court de 10mm, un angle de direction redressé et des bases allongées de 10mm permettent de repositionner le pilote au centre du vélo, apportant plus de tolérance et de précision dans le technique.\r\n\r\nUn des points qui évolue le plus est sans conteste le fonctionnement de la suspension. Hormis la cinématique qui a été retravaillée pour apporter plus de dynamisme, nous avons veillé à accorder la gestion de la rigidité du triangle arrière à l'ensemble de la dynamique du vélo. A travers de nouveaux roulements Enduro Bearing à double rangée, éliminant toutes déformations parasites, le nouveau Meta SX propose une gestion de la déformation / rigidité parfaite pour apporter grip, confort et performance.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/215/447215/2447215/4683495",
+  "mpn": "22METAAMEGRL",
+  "gtin13": "22130603",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-190 cm",
+      "stock": 1,
+      "prix": 2999.99,
+      "mpn": "22METAAMEGRL",
+      "sku": "2184948",
+      "gtin13": "22130603",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2491590-vtt_tout_suspendu_commencal_meta_sx_essential_shimano_slx_12v_29_27_5___gris_fonce"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Dark Slate"
+    }
+  ],
+  "informations": {
+    "poids": "15.90 kg (Taille S)",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 2022 Meta SX, 160 mm travel, 29''-27.5'', Alloy 6066, triple butted tubes, T4, T6. Enduro bearings",
+      "fourche": "Fox 38 Performance, 170 mm, 29\", Fit Grip damper, 3 positions, rebound, Boost (15 x 110 mm), 44 mm offset, 2 Tokens",
+      "amortisseur": "Fox Float X Performance, 230 x 62.5 mm, 2-pos lever, rebound"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX, 1x12 vitesses",
+      "dérailleur arrière": "Shimano SLX, 12 vitesses",
+      "cassette": "Shimano SLX, 10-51 dents",
+      "pédalier": "Shimano SLX, 170 mm crank arms, Boost / Chainring : Shimano SLX, 32t, Dynamic Chain Engagement + Technology",
+      "boîtier de pédalier": "Shimano BB71-41A, Pressfit"
+    },
+    "équipements": {
+      "freins": "Shimano SLX, 4 pistons, I-Spec EV compatible / Rotor : Galfer Disc Wave 203/203 mm, 6 holes",
+      "selle": "Fizik Terra Alpaca X5, 145 mm width, S-alloy rails",
+      "tige de selle": "KS Rage-I, 34.9 mm, travel: 125 mm on S, 150 mm on M, 170 mm on L, 190 mm on XL, SouthPaw alloy remote"
+    },
+    "roues": {
+      "jantes": "Avant : DT Swiss E532, 29'', 32h, 30 mm inner width / Arrière : DT Swiss E532, 27.5'', 32h, 30 mm inner width",
+      "pneu avant": " Maxxis Assegai 29\" x 2.5\", WT, 3C MaxxTerra, EXO, Tubeless Ready ",
+      "pneu arrière": " Maxxis DHR II 27.5\" x 2.4\", WT, 3C MaxxTerra, EXO+, Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Ride Alpha R20 31.8 mm, 760 mm width, 20 mm rise, Alloy 6061 on S - 31.8 mm, 780 mm width, 27 mm rise, Alloy 6061 on M / L - 31.8 mm, 800 mm width, 27 mm rise, Alloy 6061 on XL",
+      "potence": "Ride Alpha Freeride 40 mm extension, 31,8 mm",
+      "jeu de direction": "Acros ZS44/ZS56, Alloy cups, sealed bearings"
+    },
+    "grips": "ODI Elite Motion, Soft pro compound, single clamp, black"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 569,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 78.5,
+      "empattement (mm)": 1231,
+      "stack (mm)": 630,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 78.5,
+      "empattement (mm)": 1254,
+      "stack (mm)": 634,
+      "reach (mm)": 460
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 616,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 78.5,
+      "empattement (mm)": 1285,
+      "stack (mm)": 639,
+      "reach (mm)": 485
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 643,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 78.5,
+      "empattement (mm)": 1312,
+      "stack (mm)": 643,
+      "reach (mm)": 510
+    }
+  ]
+}

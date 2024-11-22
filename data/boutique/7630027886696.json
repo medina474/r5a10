@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2350974",
+  "tailles": [
+    "S / 160-170 cm",
+    "M / 170-182 cm",
+    "L / 180-192 cm",
+    "XL / 190-200 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BMC Twostroke AL One Sram NX Eagle 12V 29'' Vert Poison 2023",
+  "marque": "BMC",
+  "description": "Pour tout donner sur les circuits de XCO ou pour établir un nouveau record personnel sur la montée la plus raide de la région, le BMC Twostroke assure les arrières des adeptes de cross-country. Incarnant une nouvelle vision du semi-rigide, ce vélo de XC nouvelle génération est non seulement un grimpeur efficace, mais il est aussi conçu pour vous procurer contrôle et confiance même sur les sentiers les plus techniques et exigeants. Le Twostroke AL One est doté d'un cadre en aluminium épuré, héritier direct du Fourstroke éprouvé en course avec un design inspiré des avions furtifs pour créer l’alliance idéale entre performance, efficacité et esthétique.\r\n\r\nLe passage totalement interne et guidé des câbles facilite l’installation et confère au vélo une esthétique épurée. Un adaptateur dédié permet même d’installer une tige de selle télescopique de 27.2 mm en gardant un passage de câbles discret. Les caches moulés sur les bases arrière, un guide-chaîne intégré et une protection transparente sur le tube diagonal assurent sa durabilité et un design élégant.\r\n\r\nPartez à la conquête des terrains les plus meubles et escarpés avec une répartition du poids idéale : angle de chasse de 67°, partie avant longue et angle de selle de 75°. Grâce à la technologie Tuned Compliance Concept (TCC), survolez les routes les plus chaotiques et dépassez-vous dans l’effort, pour aller toujours plus loin. Un équilibre parfait entre confort et performance, pour une utilisation à la fois souple et rapide. Le cadre offre un large dégagement de pneu, ce qui le rend compatible avec la nouvelle génération de pneus de XC larges.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/974/350974/2350974/4382010",
+  "mpn": "30002617",
+  "gtin13": "7630027886696",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-182 cm",
+      "stock": 1,
+      "prix": 999.99,
+      "mpn": "30002617",
+      "sku": "2190888",
+      "gtin13": "7630027886696",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2386251-vtt_semi_rigide_bmc_twostroke_al_one_sram_nx_eagle_12v_29___vert_poison_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-192 cm",
+      "stock": 1,
+      "prix": 999.99,
+      "mpn": "30002618",
+      "sku": "2191337",
+      "gtin13": "7630027886689",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2386251-vtt_semi_rigide_bmc_twostroke_al_one_sram_nx_eagle_12v_29___vert_poison_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Poison Green / Black"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram NX Eagle 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Twostroke AL Premium Aluminium, Hydroformed Smoothwelded, Internal Cable Routing, BSA Threaded Bottom Bracket, Post Mount Disc, Tire Clearance: 58 mm (Measured Width)",
+      "fourche": "Rockshox Recon RL"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram NX Eagle, 12-vitesses",
+      "cassette": "Sram NX Eagle, 11-50 Dents",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Sram NX Eagle, 32 Dents",
+      "boîtier de pédalier": "BSA Threaded BB"
+    },
+    "équipements": {
+      "freins": "Sram Level T, Hydr. Disc Brake, Sram Centerline Rotors (160/160 tailles S-M, 180/160 tailles L-XL)",
+      "selle": "Selle Royal Seta",
+      "tige de selle": "BMC MSP03, 31.6 mm, 0 mm offset"
+    },
+    "roues": {
+      "jantes": "Jantes : SHL28OS, 25 mm Inner Width / Moyeux : Shimano MT400",
+      "pneus": "Vittoria Barzo, 55-622, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "BMC MFB03 Alloy 750 mm, 4 mm rise, 9° backsweep",
+      "potence": "Forged 6061 Alloy, 0°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 87,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1112.5,
+      "stack (mm)": 588,
+      "reach (mm)": 422.5,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 93.5,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1135,
+      "stack (mm)": 598,
+      "reach (mm)": 445,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 106,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1161,
+      "stack (mm)": 608,
+      "reach (mm)": 465,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 658,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 122.5,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1185,
+      "stack (mm)": 623,
+      "reach (mm)": 485,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

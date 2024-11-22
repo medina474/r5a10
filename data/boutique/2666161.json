@@ -1,0 +1,144 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2666161",
+  "tailles": [
+    "S / 160-175 cm",
+    "M / 170-185 cm",
+    "L / 177-193 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cannondale Topstone Carbon 3 Shimano GRX 12V 700 mm Jaune",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Topstone 3 est un vélo de gravel doué et polyvalent. Sa conception \"Proportional Response\", spécifique à la taille, permet d'obtenir un cadre à la fois rigide et confortable quelle que soit la taille. Chaque rider peut alors bénéficier du confort et de la sensation de conduite apportés par la suspension Kingpin.\r\n\r\nAvec des fixations pour trois bidons et pour un rangement sur le tube supérieur, le Topstone est prêt pour les longues aventures. Les multiples positions de porte-bidon sur le tube diagonal vous permettent d’organiser l’installation de grosses sacoches de cadre. Son cadre est doté d’un dégagement suffisant pour des gros pneus de 45 mm de large, pour le confort, l’adhérence et l’aventure. Sa fourche, intégralement en carbone, dispose d'un pivot de direction conique et d'axes traversants de 12 mm, pour un triangle avant léger, confortable et une précision de pilotage redoutable.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/161/666161/2666161/5363179",
+  "mpn": "C15373U20SM",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 160-175 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "C15373U20SM",
+      "sku": "2645649",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2785530-gravel_bike_cannondale_topstone_carbon_3_shimano_grx_12v_700_mm_jaune"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-185 cm",
+      "stock": 2,
+      "prix": 2799.99,
+      "mpn": "C15373U20MD",
+      "sku": "2644999",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2785530-gravel_bike_cannondale_topstone_carbon_3_shimano_grx_12v_700_mm_jaune"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Butter"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Topstone Carbon, Kingpin suspension system, SmartSense compatible, Proportional Response construction, 12x142mm thru-axle, 27.2 dropper post ready, BSA 68mm threaded BB, DirectLine internal cable routing, removable fender bridge, multiple gear/bottle mounts",
+      "fourche": "Carbone : Topstone Carbon, 1-1/8\" to 1.5\" steerer, 55mm OutFront offset, flat mount disc, internal routing, 12x100 thru-axle, triple bottle/gear mounts, fender mounts"
+    },
+    "manettes de dérailleur": "Shimano GRX 600 2x12 vitesses",
+    "dérailleur avant": "Shimano GRX 820, braze-on",
+    "transmission": {
+      "dérailleur arrière": "Shimano GRX 810, Shadow RD+, 12 vitesses",
+      "cassette": "Shimano HG700, 11-34 dts, 12 vitesses",
+      "chaîne": "Shimano HG M7100",
+      "pédalier": "Shimano GRX 600, 46-30 dts",
+      "boîtier de pédalier": "Shimano BSA 68"
+    },
+    "équipements": {
+      "freins": "Shimano GRX 600 hydraulic disc, 160/160 mm RT64 rotors",
+      "selle": "Fizik Aliante Delta, S-alloy rails",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 27.2 x 350mm"
+    },
+    "roues": {
+      "jantes": "WTB ST i23 TCS, 700c, 28h, tubeless ready",
+      "moyeu avant": "ula cartridge bearing, 12x100mm, centerlock ",
+      "moyeu arrière": "a cartridge bearing, 12x142mm, centerlock",
+      "pneus": "WTB Riddler TCS Light, 700 x 45c, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Cannondale 3, butted 6061 Alloy, 16 deg flare drop",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 7°",
+      "jeu de direction": "Integrated, Carbon, 1-1/8\" - 1-1/2"
+    },
+    "ruban de cintre": "Fizik Solocush Soft, 3 mm",
+    "accessoire": "capteur de roue"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 533,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 71.4,
+      "empattement (mm)": 1010,
+      "stack (mm)": 534,
+      "reach (mm)": 371
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 458,
+      "tube supérieur (mm)": 544,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 123,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 71.6,
+      "empattement (mm)": 1013,
+      "stack (mm)": 551,
+      "reach (mm)": 377
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 505,
+      "tube supérieur (mm)": 557,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 71.8,
+      "empattement (mm)": 1029,
+      "stack (mm)": 574,
+      "reach (mm)": 383
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 553,
+      "tube supérieur (mm)": 572,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 177,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 71.9,
+      "empattement (mm)": 1044,
+      "stack (mm)": 600,
+      "reach (mm)": 390
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 590,
+      "tube supérieur (mm)": 587,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 205,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 72.1,
+      "empattement (mm)": 1061,
+      "stack (mm)": 624,
+      "reach (mm)": 397
+    }
+  ]
+}

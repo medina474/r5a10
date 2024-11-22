@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2569400",
+  "tailles": [
+    "52 cm / 163-168 cm",
+    "54 cm / 168-174 cm",
+    "56 cm / 174-180 cm",
+    "58 cm / 180-185 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Trek Checkpoint SL 5 Shimano GRX 12V 700 mm Noir",
+  "marque": "Trek",
+  "description": "Le Checkpoint SL 5 est un vélo de gravel en carbone conçu pour vivre des aventures épiques. Il est fabriqué en OCLV Carbon léger avec une transmission 2x12 Shimano GRX et la technologie d’amortissement IsoSpeed. Il offre une géométrie progressive agile, mais stable, ainsi qu’un espace de rangement interne et un grand nombre de fixations. Le tout donne un vélo de gravel sensationnel capable de terminer les parcours les plus longs et les plus difficiles ou de se lancer dans les aventures de bikepacking les plus ambitieuses.\r\n\r\nPeau de chamois ou shorts découpés, expédition de bikepacking ou épreuve brutale de gravel... une chose est sûre, vous allez rouler loin et vous allez vous amuser. Vous voulez un vélo à la fois rapide et confortable, mais vous souhaitez également une infinité d’options pour le transport de votre équipement lors d’épreuves de gravel et de vos aventures quotidiennes.\r\n\r\nUn cadre en OCLV Carbon Série 500 avec l’amortissement IsoSpeed à l’arrière et une protection Carbon Armor, une géométrie progressive qui est stable lorsque vous roulez vite et efficace quand vous progressez dans une côte, un espace de rangement interne, des câbles masqués qui ne gêneront pas les sacoches, des fixations intégrées sur le cadre et la fourche pour des porte-bagages et des garde-boues. Sans oublier une fourche en carbone, une transmission Shimano GRX 2x12 avec des rapports légers pour gravir les côtes ou franchir le gravier, et des roues Paradigm SL. Vous pouvez même installer une tige de selle télescopique pour abaisser le centre de gravité sur les longues descentes.\r\n\r\nLéger, rapide, confortable. Le Checkpoint SL 5 vous permet de profiter de la qualité unique d’un cadre OCLV Carbon avec technologie IsoSpeed et une géométrie adaptée à la pratique du gravel, avec un espace de rangement interne et une transmission conçue pour les terrains difficiles.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/400/569400/2569400/5183604",
+  "mpn": "5298098",
+  "gtin13": "601479124886",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 168-174 cm",
+      "stock": 2,
+      "prix": 2999.99,
+      "mpn": "5298098",
+      "sku": "2558914",
+      "gtin13": "601479124886",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2682334-gravel_bike_trek_checkpoint_sl_5_shimano_grx_12v_700_mm_noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 174-180 cm",
+      "stock": 4,
+      "prix": 2999.99,
+      "mpn": "5298099",
+      "sku": "2558880",
+      "gtin13": "601479124923",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2682334-gravel_bike_trek_checkpoint_sl_5_shimano_grx_12v_700_mm_noir"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "58 cm / 180-185 cm",
+      "stock": 41,
+      "prix": 3699,
+      "mpn": "5298100",
+      "sku": "2558832",
+      "gtin13": "601479125029",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2682334-gravel_bike_trek_checkpoint_sl_5_shimano_grx_12v_700_mm_noir"
+    }
+  ],
+  "informations": {
+    "poids constructeur (en g)": 9700,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre (cm)": 49,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 541,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 74.1,
+      "empattement (mm)": 1025,
+      "stack (mm)": 538,
+      "reach (mm)": 393
+    },
+    {
+      "taille cadre (cm)": 52,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 71.6,
+      "angle tube de selle (°)": 73.7,
+      "empattement (mm)": 1033,
+      "stack (mm)": 553,
+      "reach (mm)": 399
+    },
+    {
+      "taille cadre (cm)": 54,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71.8,
+      "angle tube de selle (°)": 73.2,
+      "empattement (mm)": 1041,
+      "stack (mm)": 571,
+      "reach (mm)": 403
+    },
+    {
+      "taille cadre (cm)": 56,
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 72.2,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1048,
+      "stack (mm)": 592,
+      "reach (mm)": 407
+    },
+    {
+      "taille cadre (cm)": 58,
+      "tube de selle (mm)": 580,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 165,
+      "angle de direction (°)": 72.3,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1058,
+      "stack (mm)": 609,
+      "reach (mm)": 411
+    },
+    {
+      "taille cadre (cm)": 61,
+      "tube de selle (mm)": 610,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 195,
+      "angle de direction (°)": 72.6,
+      "angle tube de selle (°)": 72.1,
+      "empattement (mm)": 1070,
+      "stack (mm)": 639,
+      "reach (mm)": 417
+    }
+  ]
+}

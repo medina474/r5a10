@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2271332",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BH Ultimate Evo 8.0 Shimano Deore XT 12V 29'' Bleu 2022",
+  "marque": "BH",
+  "description": "L'Ultimate Evo 8.0 est le vélo idéal si vous recherchez un VTT rigide, ultra-léger, entièrement testé lors de la Coupe du Monde par l'équipe BH Templo Cafés. Il possède une technologie unique en matière de cadre ultra-léger avec les meilleures fibres de carbone. Les fibres Toray T1100G sont la clé pour atteindre les 820 grammes en taille MD.\r\n\r\nDéveloppez le maximum de watts à chaque coup de pédale grâce au renforcement des parties clés comme le boîtier de pédalier et le tube de direction.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/332/271332/2271332/4248156",
+  "mpn": "A8092BBBLA",
+  "gtin13": "8413616899326",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 9,
+      "prix": 2879.99,
+      "mpn": "A8092BBBLA",
+      "sku": "2187962",
+      "gtin13": "8413616899326",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2244964-vtt_semi_rigide_bh_ultimate_evo_8_0_shimano_deore_xt_12v_29___bleu_2022"
+    }
+  ],
+  "informations": {
+    "poids": "11 kg",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Ultimate EVO Carbon, EC Layup, Acros ICR, PF92BB, 148x12,UDH ",
+      "fourche": "Fox 34SC Performance Push To Lock Kabolt 100mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 6100 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT 8100 12 vitesses",
+      "cassette": "Shimano Deore 6100 10/51 Dents",
+      "chaîne": "Shimano Deore",
+      "pédalier": "Shimano MT510, 175 mm"
+    },
+    "équipements": {
+      "freins": "Shimano M6000 180/160 mm",
+      "selle": "Prologo Scratch M5",
+      "tige de selle": "BH SL 31,6mm 420mm"
+    },
+    "roues": {
+      "jantes": "Race Face Aeffect TLR, 27mm, 32H",
+      "pneu avant": "Ardent EXO 2.25 Front",
+      "pneu arrière": "on EXO 2.25 Rear"
+    },
+    "direction": {
+      "cintre": "BH SL Top Flat 780mm, 10mm Rise",
+      "poignées": "BH Control Grip",
+      "potence": "BH FIT 60mm, 31,8mm, -6º",
+      "jeu de direction": "Acros ICR FIT 36/45º, Block Lock 160º"
+    },
+    "collier de selle": "Integrated"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 580,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74.2,
+      "empattement (mm)": 1093.4,
+      "stack (mm)": 605.5,
+      "reach (mm)": 402.5
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 595.5,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1114.6,
+      "stack (mm)": 610.1,
+      "reach (mm)": 424.5
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 629.4,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1145.5,
+      "stack (mm)": 624.1,
+      "reach (mm)": 448
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 545,
+      "tube supérieur (mm)": 648.5,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1165.9,
+      "stack (mm)": 648.5,
+      "reach (mm)": 462.5
+    }
+  ]
+}

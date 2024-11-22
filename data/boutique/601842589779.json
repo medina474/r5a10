@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2585306",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Supercaliber 9.8 GX Sram GX Eagle 12V 29'' Rouge Corail/Jaune Radioactif Gén 1",
+  "marque": "Trek",
+  "description": "Le Supercaliber 9.8 GX est un vélo de compétition cross-country développé pour atteindre la vitesse d’un vainqueur de la Coupe du monde. Sa configuration redéfinit sa catégorie avec l'amortisseur intégré exclusif IsoStrut et une fourche FOX légère pour un vélo vraiment rapide et à l’aise sur les terrains techniques. Les roues Kovee Pro 30 plus larges soutiennent mieux le pneu, si bien que vous pouvez opter pour une pression de gonflage inférieure et augmenter l’accroche. L’ensemble cintre/potence intégré RSL en OCLV Carbon est très léger, garantit un confort incroyable et possède un style époustouflant.\r\n\r\nLe Supercaliber 9.8 GX est le vélo idéal si vous voulez rouler sur un vélo de professionnel et vous voulez gagner. Vous êtes à la recherche d’un vélo capable d’atteindre des vitesses folles et de négocier les parcours de cross-country les plus durs, grâce à des améliorations en termes de poids et de vitesse à tous les niveaux, de la fourche jusqu’à la transmission.\r\n\r\nLes + produit :",
+  "image": "https://product-cdn-frz.alltricks.com/medium/306/585306/2585306/5222145",
+  "mpn": "5260661",
+  "gtin13": "601842589779",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 1,
+      "prix": 3299,
+      "mpn": "5260661",
+      "sku": "2105149",
+      "gtin13": "601842589779",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2710004-vtt_tout_suspendu_trek_supercaliber_9_8_gx_sram_gx_eagle_12v_29___rouge_corail_jaune_radioactif_gen_1"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Radioactive Yellow to Coral Fade"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 10.45,
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "débattement cadre (mm)": 60,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Cadre principal, haubans et bases en carbone OCLV Mountain, IsoStrut, douille de direction conique, Knock Block, acheminement interne Control Freak, Boost148, débattement de 60 mm ",
+      "fourche": "Fox Performance 32 Step-Cast, ressort pneumatique Float EVOL, amortisseur GRIP à deux positions, blocage au guidon, pivot conique, déport de 44 mm, Boost110, axe Kabolt 15 mm, débattement de 100 mm",
+      "amortisseur": "Trek IsoStrut, amortisseur Fox Performance, ressort pneumatique, amortisseur DPS à 2 positions à blocage au guidon, 235x32,5 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12 vitesses",
+      "cassette": "Sram Eagle XG-1275, 10-52 Dents",
+      "chaîne": "Sram GX Eagle",
+      "pédalier": "Taille S : Sram GX Eagle Carbon, DUB, plateau en Alu 32 dts, ligne de chaîne de 52 mm, longueur de 170 mm Taille M, M/L, L, XL, XXL : SramGX Eagle Carbon, DUB, plateau en Alu 32 dts, ligne de chaîne de 52 mm, longueur de 175 mm",
+      "boîtier de pédalier": "Sram DUB, 92 mm, PressFit"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Sram Level TLM, 180/160 mm",
+      "selle": "Bontrager P3 Verse Elite, rails en acier inoxydable, largeur de 145 mm",
+      "tige de selle": "Taille S : Bontrager Pro, carbone OCLV, 31,6 mm, déport 0 mm, longueur de 330 mm Taille M, M/L, L, XL, XXL : Bontrager Pro, carbone OCLV, 31,6 mm, déport 0 mm, longueur de 400 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Kovee Pro 30, carbone OCLV Mountain, Tubeless Ready",
+      "pneus": "Bontrager XR2 Team Issue, Tubeless Ready, flanc Inner Strength, tringle en aramide, 120 tpi, 29x2,20 pouces"
+    },
+    "guidon/potence": "Taille S, M : Potence/cintre intégré Bontrager RSL, carbone OCLV, élévation cintre 0 mm, largeur de 750 mm, inclinaison de potence -13, longueur 70 mm Taille M/L, L : Potence/cintre intégré Bontrager RSL, carbone OCLV, élévation cintre 0 mm, largeur de 750 mm, inclinaison de potence -13, longueur 80 mm Taille XL, XXL : Potence/cintre intégré Bontrager RSL, carbone OCLV, élévation cintre 0 mm, largeur de 750 mm, inclinaison de potence -13, longueur 90 mm",
+    "grips": "ESI Chunky",
+    "direction": {
+      "jeu de direction": "Knock Block, roulement à cartouche intégré, rayon de 62°, 1,125 pouce sur le haut, 1,5 pouce sur le bas"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 394,
+      "tube supérieur (mm)": 565,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 70,
+      "empattement (mm)": 1079,
+      "stack (mm)": 594,
+      "reach (mm)": 395
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 595,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1106,
+      "stack (mm)": 594,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M/L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1121,
+      "stack (mm)": 594,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1136,
+      "stack (mm)": 594,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 508,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1172,
+      "stack (mm)": 608,
+      "reach (mm)": 485
+    }
+  ]
+}

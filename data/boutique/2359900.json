@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2359900",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 167-175 cm",
+    "L / 172-182 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cannondale Scalpel Carbon 2 29'' Shimano XT 12V Vert / Gris",
+  "marque": "Cannondale",
+  "description": "Plus rapide, et de manière légitime. Intrinsèquement plus léger. Instantanément meilleur, le tout nouveau VTT tout suspendu Cannondale Scalpel est le meilleur moyen d'améliorer vos performances. Avec sa géométrie progressive et sa nouvelle suspension FlexPivot, vous bénéficiez d’une traction infaillible, d’une efficacité redoutable et d’un contrôle inébranlable, du départ jusqu’à la fin. Extrêmement rapide. Incroyablement fun.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/900/359900/2359900/5327229",
+  "mpn": "C24301M30MD",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 154-165 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "C24301M30SM",
+      "sku": "2253063",
+      "gtin13": "884603935989",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2396353-vtt_tout_suspendu_cannondale_scalpel_carbon_2_29___shimano_xt_12v_vert___gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-175 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "C24301M30MD",
+      "sku": "2151524",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2396353-vtt_tout_suspendu_cannondale_scalpel_carbon_2_29___shimano_xt_12v_vert___gris"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Jaune Mango"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : All-New, 100 mm travel, BallisTec Carbon, Proportional Response Tuned, FlexPivot Chainstay, PF30-83, Tapered Headtube, Speed Release 12 mm thru axle, Ai Offset, Stash compatible",
+      "fourche": "Lefty Ocho, 100 mm, Chamber Damper with remote lockout, OppO Spring System, tapered steerer, 55 mm offset",
+      "amortisseur": "Fox Float SL , kashima"
+    },
+    "direction": {
+      "jeu de direction": "Integrated, 1-1/8 to 1.5\", sealed angular contact bearings",
+      "potence": "Cannondale 1, 7075 Alloy, 1-1/8\", 31.8 mm, 7°",
+      "cintre": "Cannondale 2 Flat, butted 2014 Alloy, 31.8 mm, 3° rise, 8° sweep, 760 mm",
+      "poignées": "ESI Chunky Silicone, 32 mm diameter"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT, 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT, 12 vitesses",
+      "pédalier": "HollowGram, BB30a, OPI SpideRing, 32 Dents, Ai offset",
+      "boîtier de pédalier": "Cannondale Alloy PressFit30",
+      "chaîne": "Shimano XT, 12 vitesses",
+      "cassette": "Sunrace MZ903"
+    },
+    "leviers de frein": "Shimano XT",
+    "équipements": {
+      "freins": "SM-RT76 SLX M7000 Série (disques)",
+      "selle": "Prologo Model X",
+      "tige de selle": "Cannondale 2, 7075 Alloy, 31.6 x 400 mm"
+    },
+    "roues": {
+      "jantes": "HollowGram 25, Superlight Hi-Impact Carbon, 28h, 25 mm IW, tubeless ready",
+      "pneus": "(F) Schwalbe Racing Ray EVO, 29 x 2.25\", SnakeSkin, Addix Speedgrip, tubeless ready, (R) Schwalbe Racing Ralph EVO, 29 x 2.25\", SnakeSkin, Addix Speed, tubeless ready"
+    },
+    "moyeu avant": "Lefty 60",
+    "moyeu arrière": "DT Swiss, 12 x 148 mm"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 436,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1128,
+      "stack (mm)": 582,
+      "reach (mm)": 415
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 436,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1151,
+      "stack (mm)": 591,
+      "reach (mm)": 435
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 436,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1175,
+      "stack (mm)": 601,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 644,
+      "longueur base (mm)": 436,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1199,
+      "stack (mm)": 610,
+      "reach (mm)": 475
+    }
+  ]
+}

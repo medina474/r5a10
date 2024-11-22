@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2234482",
+  "tailles": [
+    "S / 158-171 cm",
+    "M / 168-180 cm",
+    "L / 178-190 cm",
+    "XL / 188-210 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Commencal Clash Ride Sram SX Eagle 12V 27.5'' Marron Dirt",
+  "marque": "Commencal",
+  "description": "Roues de 27,5 pouces, gros débattement, géométrie et cinématique agressives. Le Clash est le Bike à tout faire : Bike Park, Enduro, grosses lignes de jumps ou sorties à la pédale... il est excessivement polyvalent.\r\n\r\nComme pour l'ensemble de la gamme, la géométrie fait l'objet de la plus grande attention : La position en montée est optimale grâce à un top tube allongé et un angle de selle plus droit. En descente, son avant long apporte stabilité quand tout s'accélère, alors que la potence courte permet de conserver un vélo maniable et joueur dans les portions plus lentes. Du XS (roues différenciées 27,5/26) aux modèles adultes (S, M, L, XL) en roues de 27,5 pouces, le CLASH est une option très sérieuse pour les petits et moyens gabarits.\r\n\r\nUn élément essentiel de ce millésime, le cadre est doté d'un réglage de la cinématique, comme sur le FRS. Ce réglage permet de privilégier soit la sensibilité (Sensitive), soit le dynamisme (Dynamic) : Le mode Sensitive pour une utilisation DH / Freeride, lorsque vous avez besoin de confort et de grip. Le mode Dynamic est lui idéal pour les pistes plus lisses, les sessions jump avec les copains, lorsque vous chercherez plutôt de la nervosité et du dynamisme.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/482/234482/2234482/4118004",
+  "mpn": "22CLASHRIXL",
+  "gtin13": "22131204",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-210 cm",
+      "stock": 2,
+      "prix": 2299.99,
+      "mpn": "22CLASHRIXL",
+      "sku": "2184988",
+      "gtin13": "22131204",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2153830-vtt_tout_suspendu_commencal_clash_ride_sram_sx_eagle_12v_27_5___marron_dirt"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Dirt"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 16.1,
+    "genre": "Homme",
+    "débattement cadre (mm)": 170,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 2022 Clash, 170 mm, 27.5'', Alloy 6066, triple butted tubes, T4, T6. Enduro bearings",
+      "fourche": "Rockshox Zeb, 180 mm, 27.5\", Charger damper, Debonair, rebound, Boost (15 x 110 mm), 38 mm offset, 0 Token",
+      "amortisseur": "Rockshox Super Deluxe Select, 230 x 65 mm, rebound, 3 Tokens"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle 1x12 vitesses",
+      "dérailleur arrière": "Sram SX Eagle 12 vitesses",
+      "cassette": "Sram PG-1210 11-50 Dents",
+      "pédalier": "Sram X1 1000 Eagle, 170 mm, DUB, Boost / Chainring: SRAM X1 1000 Eagle, 34t, Narrow-Wide",
+      "boîtier de pédalier": "Sram DUB"
+    },
+    "équipements": {
+      "freins": "Sram Guide T, 4 pistons, matchmaker compatible / Rotor: Sram G2 CleanSweep 200 mm, 6-bolt",
+      "selle": "SDG Bel Air V3",
+      "tige de selle": "KS Rage-I 34.9 mm, travel: 125 mm on S, 150 mm on M, 170 mm on L, 190 mm on XL, SouthPaw alloy remote"
+    },
+    "roues": {
+      "jantes": "E13 LG1 DH Base 27.5'', 32h, 30 mm inner width",
+      "pneu avant": "xis Assegai 27.5\" x 2.5\", WT, 3C MaxxGrip, EXO+, Tubeless Ready ",
+      "pneu arrière": "s DHR II 27.5\" x 2.4\", WT, 3C MaxxTerra, EXO+, Tubeless Read"
+    },
+    "direction": {
+      "cintre": "Ride Alpha R20 760 31.8 mm, 760 mm width, 20 mm rise, Alloy 6061 on S - 31.8 mm, 780 mm width, 27 mm rise, Alloy 6061 on M / L - 31.8 mm, 800 mm width, 27 mm rise, Alloy 6061 on XL",
+      "potence": "Ride Alpha Freeride 40 mm extension, 31.8 mm",
+      "jeu de direction": "ACROS ZS44/ZS56"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.2,
+      "empattement (mm)": 1216,
+      "stack (mm)": 619,
+      "reach (mm)": 445
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 418,
+      "tube supérieur (mm)": 607,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.2,
+      "empattement (mm)": 1238,
+      "stack (mm)": 624,
+      "reach (mm)": 465
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 633,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.2,
+      "empattement (mm)": 1265,
+      "stack (mm)": 628,
+      "reach (mm)": 490
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 465,
+      "tube supérieur (mm)": 666,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 77.2,
+      "empattement (mm)": 1292,
+      "stack (mm)": 635,
+      "reach (mm)": 520
+    }
+  ]
+}

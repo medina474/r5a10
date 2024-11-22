@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2686527",
+  "tailles": [
+    "51 cm / 160-168 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cervélo Aspero Shimano GRX610 12V 700 mm Bleu 2024",
+  "marque": "Cervelo",
+  "description": "Nous avons mis au point l’Áspero pour une vitesse pure et assumée, prêt à franchir les lignes d'arrivée, KOM, PR, et FKT. Un vélo sans limite qui s’adresse aux coureurs avides de les repousser. Un engin rigide - à l’instar des vélos de course classiques - qui offre une performance digne d'un vélo de route hors piste. Nous estimons que c'est parfaitement logique. Tel était d’ailleurs notre objectif quand nous équipions nos cadres existants de pneus plus larges et installions d’autres fourches pour pouvoir monter un pneu de 40 mm à l'avant.\r\n\r\nRéglage en deux positions : « Trail » - La réponse de la roue avant à l'effort du cycliste est le facteur principal de la maniabilité à grande vitesse. La possibilité de régler la traînée avec le « Trail Mixer » à deux positions pour compenser l’extrême diversité des tailles de pneus garantit une expérience de conduite uniforme.\r\n\r\nManiabilité équilibrée : Rigidité et maniabilité concourent pour veiller à ce que le vélo suive une trajectoire prévisible et réagisse immédiatement au niveau des pédales et des freins en cas d’urgence.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/527/686527/2686527/5434121",
+  "mpn": "0J0ASBG61A51",
+  "gtin13": "0616663219316",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "51 cm / 160-168 cm",
+      "stock": 2,
+      "prix": 3699,
+      "mpn": "0J0ASBG61A51",
+      "sku": "2678022",
+      "gtin13": "0616663219316",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2815089-gravel_bike_cervelo_aspero_shimano_grx610_12v_700_mm_bleu_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Woodsmoke"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Cervelo All-Carbon, Aspéro",
+      "fourche": "Carbone : Cervelo All-Carbon, Tapered Aspero Fork"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX, RX610, 2x12 vitesses",
+      "dérailleur arrière": "Shimano GRX, RX820, 12 vitesses",
+      "cassette": "Shimano HG710, 11-36 dts",
+      "chaîne": "Shimano M7100",
+      "pédalier": "Shimano GRX 610, 46-30 dts",
+      "boîtier de pédalier": "FSA, T47 BBright"
+    },
+    "dérailleur avant": "Shimano GRX, RX820, 12 vitesses",
+    "équipements": {
+      "freins": "Shimano GRX RX610, disques Shimano RT66, 6-Bolt, 160mm",
+      "selle": "Cervelo Saddle",
+      "tige de selle": "Cervélo Alloy 27.2, 15mm offset"
+    },
+    "roues": {
+      "jantes": "Avant : Alexrims Boondocks 7D, 12x100mm, 28H, 23mm IW, 6 bolt, tubeless compatible / Arrière : Alexrims Boondocks 7D, 12x142mm, 28H, 23mm IW, 6 bolt, tubeless compatible, roue libre HG",
+      "pneus": "WTB Vulpine TCS Light Fast Rolling Dual DNA 60tpi 700x40c"
+    },
+    "direction": {
+      "cintre": "Zipp Service Course 70 XPLR Alloy, 31.8mm clamp, 5 degree flare, 11 degree outsweep",
+      "potence": "Cervélo ST36 Alloy",
+      "jeu de direction": "FSA IS2 1-1/4 x 1-1/2"
+    },
+    "accessoires": "Smartpak 400A Top Tube Storage Bag"
+  },
+  "geometries": [
+    {
+      "taille cadre (cm)": 48,
+      "tube supérieur (mm)": 512,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 83,
+      "angle de direction": "71°",
+      "angle tube de selle": "74.5°",
+      "empattement (mm)": 990,
+      "stack (mm)": 505,
+      "reach (mm)": 370
+    },
+    {
+      "taille cadre (cm)": 51,
+      "tube supérieur (mm)": 532,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 107,
+      "angle de direction": "71.5°",
+      "angle tube de selle": "74°",
+      "empattement (mm)": 1000,
+      "stack (mm)": 530,
+      "reach (mm)": 379
+    },
+    {
+      "taille cadre (cm)": 54,
+      "tube supérieur (mm)": 553,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 133,
+      "angle de direction": "72°",
+      "angle tube de selle": "73.5°",
+      "empattement (mm)": 1010,
+      "stack (mm)": 555,
+      "reach (mm)": 388
+    },
+    {
+      "taille cadre (cm)": 56,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 159,
+      "angle de direction": "72°",
+      "angle tube de selle": "73°",
+      "empattement (mm)": 1027,
+      "stack (mm)": 580,
+      "reach (mm)": 397
+    },
+    {
+      "taille cadre (cm)": 58,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 188,
+      "angle de direction": "72°",
+      "angle tube de selle": "73°",
+      "empattement (mm)": 1046,
+      "stack (mm)": 605,
+      "reach (mm)": 406
+    },
+    {
+      "taille cadre (cm)": 61,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 214,
+      "angle de direction": "72°",
+      "angle tube de selle": "73°",
+      "empattement (mm)": 1063,
+      "stack (mm)": 630,
+      "reach (mm)": 415
+    }
+  ]
+}

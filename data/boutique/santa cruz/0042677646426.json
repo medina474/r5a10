@@ -1,0 +1,128 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2649131",
+  "tailles": [
+    "M / 165-175 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Santa Cruz Nomad 6 S Carbone C Sram GX Eagle 12V 29'' 27.5'' Jaune Orange 2024",
+  "marque": "Santa Cruz",
+  "description": "Charger le van, prendre la route, grimper au sommet d'une montagne, envoyer à la descente, valider un nouveau gap, déposer le vélo dans le van, repartir jusqu'au bike park et continuer d'enchainer les runs. Un programme bien rodé qui peut aussi être associer aux courses les plus cinglées. Le Nomad a pour marque de fabrique d'être toujours prêt, peu importe ce que vous lui infligez. Le seul détail à ajouter est un pilote bien décidé à en exploiter toutes les capacités.\r\n\r\nTout le débattement nécessaire pour un vélo équipé d'une fourche simple té, capable d'encaisser les chemins les plus raides et cassants. Après tout, certains prennent le départ d'une Coupe du Monde de descente avec moins de débattement !\r\n\r\nVPP : La suspension VPP™ peut être optimisée pour trouver l'équilibre parfait entre efficacité au pédalage et absorption des chocs. Le Nomad joue un rôle exceptionnel dans l'absorption des plus gros chocs à haute vitesse permettant ainsi à son pilote d'engager plus, avec la confiance nécessaire pour le faire sur les terrains les plus exigeants. Mais parce qu'il n'est pas en reste au pédalage, aller chercher les chemins les plus reculés ne sera pas une corvée comme pourraient l'être certains vélos de cette catégorie.\r\n\r\nTransmission SRAM Eagle : La nouvelle génération de transmission SRAM Eagle, qui équipe désormais nos modèles en carbone CC, est résolument robuste, parfaitement intégrée et fonctionne sans fil. Conçue autour de la constante universelle qu'est l'axe de la roue arrière. Le montage direct, sans patte de dérailleur et un dérailleur totalement retravaillé offre un ensemble plus sûr, à la robustesse sans précédent. \r\n\r\nSensibilité et adhérence permanente : Sur le Nomad, le niveau d'anti-squat abaissé réduit l'effet de kickback sur les chocs les plus prononcés à haute vitesse, en améliorant la sensibilité pour maintenir une adhérence optimale, en descente comme en montée.\r\n \r\nContrôle et absorption des chocs à haute vitesse : En abaissant le point de départ de la courbe de ratio, cela a aussi permis d'améliorer l'influence du poids du pilote sur l'évolution de la géométrie à travers le débattement. La progressivité réduite permet un meilleur support et un contrôle optimal tout le long de la course de l'amortisseur.\r\n\r\nPensé pour durer : Les deux biellettes courtes et robustes créent un ensemble parfaitement résistant entre le triangle avant et le bras arrière, limitant le flex latéral. De simples axes expandeurs viennent tenir l'ensemble et reposent sur de larges points de pivots aux roulements facilement remplaçables, gratuitement et à vie. La biellette inférieure offre aussi un port de graissage pour un entretien optimal.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/131/649131/2649131/5328942",
+  "mpn": "0042677646426",
+  "gtin13": "0042677646426",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 5999.99,
+      "mpn": "0042677646426",
+      "sku": "2555476",
+      "gtin13": "0042677646426",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2766641-vtt_tout_suspendu_santa_cruz_nomad_6_s_carbone_c_sram_gx_eagle_12v_29___27_5___jaune_orange_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gloss Marigold Yellow"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 15.15,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 170,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Santa Cruz Nomad 6 C MIX Kit S",
+      "fourche": "FOX 38 Float Performance, 170mm",
+      "amortisseur": "RockShox Super Deluxe Select+, 230x65"
+    },
+    "transmission": {
+      "manette de dérailleur": "SRAM GX Eagle, 12spd",
+      "dérailleur arrière": "SRAM GX Eagle, 12spd",
+      "cassette": "SRAM XG1275 Eagle, 12spd, 10-50t",
+      "chaîne": "SRAM GX Eagle, 12spd",
+      "pédalier": "SRAM GX Eagle 148 DUB 32t",
+      "boîtier de pédalier": "SRAM DUB 68/73mm Threaded BB"
+    },
+    "équipements": {
+      "freins": "SRAM Code R, Avid Centerline 200/200 mm",
+      "selle": "WTB Silverado, CroMo",
+      "tige de selle": "OneUp V2 Dropper Post, 31.6 or RockShox Reverb, 31.6"
+    },
+    "roues": {
+      "jantes": "F : RaceFace AR Offset 30, 29\", R : RaceFace AR Offset 30, 27.5\"",
+      "moyeux": "F : DT Swiss 370, 15x110, 6-Bolt, 28h, R : DT Swis 370, 12x148, XD, 6-Bolt, 36t, 28h",
+      "pneus": "F : Maxxis Assegai 29\"x2.5\", 3C, MaxxGrip, EXO+, R : Maxxis Minion DHR II 27.5\"x2.4\", 3C MaxxTerra, EXO+"
+    },
+    "direction": {
+      "cintre": "Burgtec RideWide Alloy",
+      "poignées": "Santa Cruz Bicycles House Grips",
+      "potence": "Burgtec Enduro MK3, 42mm",
+      "jeu de direction": "Cane Creek 40 IS Integrated Headset"
+    }
+  },
+  "geometries": [
+    {
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 63.8,
+      "angle tube de selle (°)": 77.2,
+      "empattement (mm)": 1209,
+      "stack (mm)": 616,
+      "reach (mm)": 430
+    },
+    {
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 594,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 63.8,
+      "angle tube de selle (°)": 77.4,
+      "empattement (mm)": 1239,
+      "stack (mm)": 625,
+      "reach (mm)": 455
+    },
+    {
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 612,
+      "longueur base (mm)": 443,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 63.8,
+      "angle tube de selle (°)": 77.9,
+      "empattement (mm)": 1269,
+      "stack (mm)": 638,
+      "reach (mm)": 475
+    },
+    {
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 637,
+      "longueur base (mm)": 446,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 63.8,
+      "angle tube de selle (°)": 77.8,
+      "empattement (mm)": 1301,
+      "stack (mm)": 656,
+      "reach (mm)": 495
+    },
+    {
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 666,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 63.8,
+      "angle tube de selle (°)": 77.7,
+      "empattement (mm)": 1336,
+      "stack (mm)": 670,
+      "reach (mm)": 520
+    }
+  ]
+}

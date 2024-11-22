@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2562841",
+  "tailles": [
+    "M / 170-182 cm",
+    "L / 182-190 cm",
+    "XL / 193-203 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": "Cannondale Trail Neo 3 Shimano Deore 10V 500 Wh 29'' Orange",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Trail Neo 3 est un VTT à assistance électrique qui fera évoluer votre champ d’action et déclenchera en vous une nouvelle passion pour le trail. Léger, rigide et vif, des singletracks sérieux aux rues de la ville, le cadre progressif du Trail et l'unité d'entraînement Bosch, parfaitement intégrée, mettent en valeur l'expertise inégalée de Cannondale dans la confection de cadres en aluminium.\r\n\r\nLe Trail Neo est conçu avec des bases courtes pour l'agilité et la traction, un angle de direction détendu pour une stabilité solide, et un ensemble batterie/unité d'entraînement positionné aussi bas et au centre que possible créant ainsi une sensation étonnamment agile et stable. Les spécifications techniques du Trail Neo font de lui un véritable VTTAE : des freins à disque hydrauliques puissants et un guidon large associé à une potence courte. Mais il est également polyvalent, avec son cadre pré-câblé, permettant l'installation d'une seconde batterie, et ses supports intelligents pour fixer des porte-bagages et des garde-boues.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/841/562841/2562841/5171626",
+  "mpn": "C61303U10LG",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 182-190 cm",
+      "stock": 2,
+      "prix": 2799.99,
+      "mpn": "C61303U10LG",
+      "sku": "2438923",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2679527-vtt_electrique_semi_rigide_cannondale_trail_neo_3_shimano_deore_10v_500_wh_29___orange"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Orange"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : SmartForm C2 Alloy, removable 625Wh downtube battery, integrated front running light, tapered headtube, internal cable routing, 135mm QR hub spacing, IS disc mount, motor protection",
+      "fourche": "SR Suntour XCM 34 Boost, 100mm, Coil, 46mm offset"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line Cruise, 65 Nm, 25 km/h",
+      "batterie": "Bosch PowerTube 500 Wh",
+      "écran": "Bosch Purion 200"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M4100, 1x10 vitesses",
+      "dérailleur arrière": "Shimano Deore M4120, 10 vitesses",
+      "cassette": "Shimano Deore, 11-42 Dents, 10 vitesses",
+      "chaîne": "Shimano Deore HG54, 10 vitesses",
+      "pédalier": "FSA Bosch Gen3, 170mm, 38 dents"
+    },
+    "équipements": {
+      "freins": "Shimano MT200 hydraulic disc, 180/180mm RT30/RT-EM300 rotors",
+      "selle": "Cannondale Ergo XC",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 31.6x350mm"
+    },
+    "roues": {
+      "jantes": "WTB STX i25 TCS, 32h, tubeless ready",
+      "moyeu avant": "Shimano MT400, 15x110mm thru-axle ",
+      "moyeu arrière": "Shimano UR600, 12x148mm thru-axle",
+      "pneus": "Maxxis Ardent, 29x2.4\" (M, L, XL) 27.5x2.4\" (S), EXO Protection"
+    },
+    "direction": {
+      "jeu de direction": "Integrated, 1-1/8 to 1.5\", sealed bearings",
+      "potence": "Cannondale 3, 3D Forged 6061 alloy, 1-1/8\", 31.8, 0°",
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 15mm rise, 8° sweep, 4° rise, 780mm, 31.8mm",
+      "poignées": "Fabric Funguy"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 561,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1138,
+      "stack (mm)": 596,
+      "reach (mm)": 390
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1179,
+      "stack (mm)": 625,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 632,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1213,
+      "stack (mm)": 634,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 665,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1246,
+      "stack (mm)": 643,
+      "reach (mm)": 480
+    }
+  ]
+}

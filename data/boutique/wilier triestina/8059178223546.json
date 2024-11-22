@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2705680",
+  "tailles": [
+    "M / 171-178 cm",
+    "L / 179-186 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Wilier Triestina Adlar Shimano GRX 11V 700 mm Noir Violet 2024",
+  "marque": "Wilier Triestina",
+  "description": "Le Wilier Triestina Adlar est conçu pour le bikepacking, les explorateurs, les cyclotouristes. La structure du cadre en fibre de carbone a été renforcée, à tel point qu’elle permet une charge maximale supplémentaire de 35 kg. Les ingénieurs de chez Wilier ont ajouté à cette qualité de nouvelles formes, une étude attentive des géométries et un passage de câbles entièrement interne.\r\n\r\nLe cadre de l'Adlar pèse 1100 g et est proposé en cinq tailles (XS, S, M, L, XL) et ses géométries dérivent du VTT, c'est pourquoi le développement horizontal du triangle avant (reach) est plutôt prononcé. Cette solution permet d’adopter une potence plus courte, qui travaille en synergie avec un angle de direction relativement ouvert (70°). Cette évolution donne plus de maniabilité et de contrôle sur les sentiers les plus exigeants avec le vélo chargé.\r\n\r\nLes passages de roue généreux permettent d’accueillir n’importe quel pneu de gravel de 52 mm de largeur (52-622) ainsi que des pneus de VTT de 29x2.00\". Le cadre a été conçu pour accueillir une fourche avec des fourreaux particulièrement longs. Cette configuration facilite l’installation d’une fourche suspendue (débattement maximal de 40 mm compatible avec un jeu de direction conique de 1\" 1/4 – 1\" 1/2) sans changer la géométrie globale du cadre. Sur le pivot de la fourche en outre est présent un trou pour faire passer le câble d’un éventuel moyeu à dynamo. La tige de selle de 27.2 mm peut elle aussi être remplacée par une tige de selle télescopique.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/680/705680/2705680/5451101",
+  "mpn": "E437YDW3C8",
+  "gtin13": "8059178223546",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 171-178 cm",
+      "stock": 1,
+      "prix": 3700,
+      "mpn": "E437YDW3C8",
+      "sku": "2663278",
+      "gtin13": "8059178223546",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2824153-gravel_bike_wilier_triestina_adlar_shimano_grx_11v_700_mm_noir_violet_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 179-186 cm",
+      "stock": 1,
+      "prix": 3700,
+      "mpn": "E437YDW4C8",
+      "sku": "2663523",
+      "gtin13": "8059178223607",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2824153-gravel_bike_wilier_triestina_adlar_shimano_grx_11v_700_mm_noir_violet_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "C8 - Black / Purple (Matt)"
+    }
+  ],
+  "informations": {
+    "poids": "--- kg (Cadre : 1190 g / Fourche : 470 g)",
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Adlar - Carbon Monocoque NHU-MOD, Thru Axle 12x142 mm, Width tire maximum: 52 mm",
+      "fourche": "Carbone : Adlar - Carbon Monocoque NHU-MOD, Thru Axle 12x100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX ST-RX600, 1x11-vitesses",
+      "dérailleur arrière": "Shimano GRX RD-RX812, 11-vitesses",
+      "cassette": "Shimano Deore XT CS-M8000-11, 11-42 Dents",
+      "chaîne": "Shimano CN-HG601",
+      "pédalier": "Shimano GRX FC-RX600-1, 40 Dents",
+      "boîtier de pédalier": "Miche BB Pressfit 86.5x41"
+    },
+    "équipements": {
+      "freins": "Shimano GRX BR-RX400, Hydr. Disc Brake, Shimano SM-RT70 Center Lock Rotors (160/160)",
+      "selle": "Wilier Saddle Road, Titan Rail M 245x144 mm",
+      "tige de selle": "Ritchey Comp 2-Bolt Alu"
+    },
+    "roues": {
+      "jantes": "Miche Contact GR, 622-24C, 12x100/12x142 mm",
+      "pneus": "Vittoria Terreno Dry, Tubeless Ready, 700x47C"
+    },
+    "direction": {
+      "cintre": "Ritchey Comp Corralitos",
+      "potence": "Wilier Stemma S",
+      "jeu de direction": "Wilier Custom Bearings Superslim + Ritchey Cartridge"
+    },
+    "référence": "E437YDW"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 542,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 79,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1030,
+      "stack (mm)": 538,
+      "reach (mm)": 395
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 562,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 104,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1048,
+      "stack (mm)": 562,
+      "reach (mm)": 404
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 583,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1065,
+      "stack (mm)": 586,
+      "reach (mm)": 413
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 155,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1083,
+      "stack (mm)": 610,
+      "reach (mm)": 422
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 181,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1101,
+      "stack (mm)": 634,
+      "reach (mm)": 431
+    }
+  ]
+}

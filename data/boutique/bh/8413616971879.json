@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2565409",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "BH Gravel X Alu 1.0 Shimano 105 11V 700 mm Rouge",
+  "marque": "BH",
+  "description": "Lors de la conception du Gravel X, notre objectif était clair : créer un vélo confortable permettant de parcourir des kilomètres et des kilomètres de terrains variés.\r\n\r\nPermet un passage de roue pour pneus de 42 mm, la dimension idéale pour plus de rigidité et de sécurité, en optimisant la position du frein. Avec les axes traversants de 12mm qui renforcent la rigidité et la sécurité de l’ensemble, les freins à disque que monte le GravelX sont l’accompagnement parfait des deux roues.\r\n\r\nConfort et stabilité de la conduite, tube de direction haut et long empattement. La géométrie du GravelX a mis l’accent sur le confort et la stabilité de conduite en vue de longues heures de chevauchée. Ces vertus reposent sur un haut tube de direction, un tube supérieur slooping à mesures contenues et un long empattement.\r\n\r\nL’arrière et la fourche du cadre ont été totalement reconçus pour supporter les efforts et les tensions produits par les freins à disque de 140/160 mm.\r\n\r\nLe Gravel X, vous permet de vous éloigner du trafic sans perdre la sensation de filer à toute allure, ou simplement de vous perdre dans vos expéditions en contemplant le paysage environnant.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/409/565409/2565409/5180243",
+  "mpn": "LG103RRRXL",
+  "gtin13": "8413616971879",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 13,
+      "prix": 1799.9,
+      "mpn": "LG103RRRSM",
+      "sku": "2560753",
+      "gtin13": "8413616971862",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2681647-gravel_bike_bh_gravel_x_alu_1_0_shimano_105_11v_700_mm_rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-202 cm",
+      "stock": 12,
+      "prix": 1799.9,
+      "mpn": "LG103RRRXL",
+      "sku": "2560986",
+      "gtin13": "8413616971879",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2681647-gravel_bike_bh_gravel_x_alu_1_0_shimano_105_11v_700_mm_rouge"
+    }
+  ],
+  "informations": {
+    "poids constructeur (en g)": 10100,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano 105 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Gravel X Alloy 7005 Hydroforming",
+      "fourche": "Carbone : Gravel X Carbon 1.5"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano 105, 1x11 vitesses",
+      "dérailleur arrière": "Shimano 105 11 vitesses",
+      "cassette": "Shimano 105 11/36 dents",
+      "chaîne": "Shimano 105",
+      "pédalier": "FSA Vero 40 dents"
+    },
+    "équipements": {
+      "freins": "Shimano Disc Mechanic",
+      "selle": "San Marco Monza Start",
+      "tige de selle": "BH Lite 27,2"
+    },
+    "roues": {
+      "jantes": "Shimano RS171 Disc",
+      "pneus": "Hutchinson Overide 700x38"
+    },
+    "direction": {
+      "cintre": "BH Lite Gravel",
+      "potence": "BH SL",
+      "jeu de direction": "BH SL integrated sealed bearing"
+    },
+    "collier de selle": "BH Gravel X",
+    "référence ": "LG103"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 529,
+      "longueur de la base (mm)": 425,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 69.5,
+      "angle du tube de selle (°)": 72.5,
+      "satck (mm)": 518,
+      "reach (mm)": 366
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 550,
+      "longueur de la base (mm)": 425,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71.1,
+      "angle du tube de selle (°)": 72.5,
+      "satck (mm)": 547,
+      "reach (mm)": 378
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 571,
+      "longueur de la base (mm)": 425,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 72.5,
+      "angle du tube de selle (°)": 72.5,
+      "satck (mm)": 576,
+      "reach (mm)": 390
+    },
+    {
+      "taille du cadre": "XL",
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 592,
+      "longueur de la base (mm)": 425,
+      "douille de direction (mm)": 180,
+      "angle de direction (°)": 72.5,
+      "angle du tube de selle (°)": 72.5,
+      "satck (mm)": 604,
+      "reach (mm)": 402
+    }
+  ]
+}

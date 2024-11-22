@@ -1,0 +1,94 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2589431",
+  "tailles": [
+    "M / 167-177 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Rocky Mountain Altitude Carbon 90 Shimano XTR 12V 29'' Rallye Edition Vert Jaune 2023",
+  "marque": "Rocky Mountain",
+  "description": "Pour courser chez les pros ou lâcher son fou la fin de semaine, l’Altitude a ce qu’il faut. Conçu expressément et éprouvé en compétition, c’est l’arme d’enduro parfaite pour démolir les sentiers abrupts et accélérer à chaque séance.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/431/589431/2589431/5229510",
+  "mpn": "B0223LG93",
+  "gtin13": "770416426687",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-177 cm",
+      "stock": 1,
+      "prix": 9199.99,
+      "mpn": "B0223MD93",
+      "sku": "2587520",
+      "gtin13": "770416426649",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714383-vtt_tout_suspendu_rocky_mountain_altitude_carbon_90_shimano_xtr_12v_29___rallye_edition_vert_jaune_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 3,
+      "prix": 9199.99,
+      "mpn": "B0223LG93",
+      "sku": "2587455",
+      "gtin13": "770416426687",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714383-vtt_tout_suspendu_rocky_mountain_altitude_carbon_90_shimano_xtr_12v_29___rallye_edition_vert_jaune_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 1,
+      "prix": 8883.69,
+      "mpn": "B0223XL93",
+      "sku": "2587463",
+      "gtin13": "770416426724",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714383-vtt_tout_suspendu_rocky_mountain_altitude_carbon_90_shimano_xtr_12v_29___rallye_edition_vert_jaune_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XTR 12V"
+  },
+  "geometries": [
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1217,
+      "stack (mm)": 620,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1249,
+      "stack (mm)": 634,
+      "reach (mm)": 480
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 671,
+      "longueur base (mm)": "437 - 448",
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1285,
+      "stack (mm)": 647,
+      "reach (mm)": 510
+    }
+  ]
+}

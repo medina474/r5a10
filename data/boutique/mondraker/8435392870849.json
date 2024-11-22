@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2648423",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 168-180 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Mondraker Chrono Carbon SE Sram GX Eagle 12V 29'' Abyss Green 2024",
+  "marque": "Mondraker",
+  "description": "“Abyss Green” est bien plus qu'une couleur.\r\nLe vert abyssal est une véritable promesse qui laisse entrevoir le caractère totalement exclusif de l'un de nos modèles les plus prisés. \r\nDécouvrez le Mondraker CHRONO CARBON SE. Une conception personnalisée avec des roues Mavic CrossMax et une fourche RockShox Recon avec blocage. Un coloris unique au sein de la gamme CHRONO, héritant du style de certains de nos modèles les plus emblématiques. Le mélange parfait d'efficacité et de design pour un hardtail en carbone.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/423/648423/2648423/5327799",
+  "mpn": "010.23452",
+  "gtin13": "8435392870849",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-170 cm",
+      "stock": 1,
+      "prix": 1599.99,
+      "mpn": "010.23451",
+      "sku": "2564923",
+      "gtin13": "8435392870832",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2766230-vtt_semi_rigide_mondraker_chrono_carbon_se_sram_gx_eagle_12v_29___abyss_green_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 7,
+      "prix": 1599.99,
+      "mpn": "010.23452",
+      "sku": "2565007",
+      "gtin13": "8435392870849",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2766230-vtt_semi_rigide_mondraker_chrono_carbon_se_sram_gx_eagle_12v_29___abyss_green_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 3,
+      "prix": 1599.99,
+      "mpn": "010.23454",
+      "sku": "2564628",
+      "gtin13": "8435392870863",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2766230-vtt_semi_rigide_mondraker_chrono_carbon_se_sram_gx_eagle_12v_29___abyss_green_2024"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Chrono 29 Stealth full carbone, Forward Geometry XC, BB : BSA 73 mm, tube de direction conique, câbles internes HHG, Boost 12 x 148 mm, base arrière avec design confort plat (Flatstays)",
+      "fourche": "RockShox Recon Gold RL 29, 100 mm, Motion Control, Solo Air, pivot conique, axe Boost 15 x 110 mm, plongeurs en alu 32 mm, déport 42 mm. Réglages : Compression Onelock 2 pos, rebond, précontrainte pneumatique"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger NX Eagle, 12 vitesses, X-Actuation 1:1",
+      "dérailleur arrière": "Sram GX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, 1 x 12 vitesses, X-Actuation 1:1",
+      "cassette": "Sram XG-1230, 11-50 dts, 12 vitesses",
+      "chaîne": "Sram SX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "Truvativ Stylo 6K Eagle, 12 vitesses, Boost, axe DUB, plateau Direct Mount, taille S : 170 mm, taille M/L/XL : 175 mm, 34 dents, acier, X-Sync 2",
+      "boîtier de pédalier": "Sram DUB BSA, roulements étanches, 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram Level T, étrier 2 pièces, disque monopièce Centerline 160 mm IS 6 trous, plaquettes organiques sur acier",
+      "selle": "Mondraker XC Series, rail en acier",
+      "tige de selle": "OnOff Sulfur 0-R, aluminium 6061 T6, forgé 3D, diamètre 27,2 mm, longueur 400 mm"
+    },
+    "roues": {
+      "jantes": "Mavic Crossmax 29, largeur intérieure 25 mm, jante soudée, sans crochet, Tubeless Ready, 24 rayons",
+      "moyeux": "F : Mavic, Boost 15 x 110 mm, IS 6 trous, R : Mavic, Boost 12 x 148 mm, système à rochets ID360, IS 6 trous",
+      "pneus": "Maxxis Ikon 29 x 2,20, composé 3CMaxx Speed, Tubeless Ready, 120 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 0.2, aluminium 6061 double renfort, galbe : 4,8 mm, largeur : 760 mm, cintrage 9°, réhausse 0°, alésage 31,8 mm",
+      "poignées": "ONOFF Desert, 1 lock-on, 135mm",
+      "potence": "MDK, aluminium 6061 T6, alésage 31,8 mm, galbe : +/-5º, longueur : tailles S / M : 60 mm, taille M : 70 mm, tailles L : 80 mm, tailles XL : 90 mm",
+      "jeu de direction": "ONOFF Titan conique pour tube de direction de 1-1/8\" à 1-1/2”, roulements étanches ACB, haut 41,8x30,5x8x45°x45°, bas 51,9x40x8x45°x45°"
+    },
+    "patte de dérailleur": "Mondraker M068"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 85,
+      "angle de direction (°)": "70°",
+      "angle tube de selle (°)": "72°",
+      "empattement (mm)": 1086,
+      "stack (mm)": 605,
+      "reach (mm)": 411
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": "70°",
+      "angle tube de selle (°)": "72°",
+      "empattement (mm)": 1106,
+      "stack (mm)": 610,
+      "reach (mm)": 430
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": "70°",
+      "angle tube de selle (°)": "72°",
+      "empattement (mm)": 1127,
+      "stack (mm)": 619,
+      "reach (mm)": 447
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": "70°",
+      "angle tube de selle (°)": "72°",
+      "empattement (mm)": 1148,
+      "stack (mm)": 632,
+      "reach (mm)": 463
+    }
+  ]
+}

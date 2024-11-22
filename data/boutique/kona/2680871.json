@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2680871",
+  "tailles": [
+    "L / 180-188 cm",
+    "XL / 185-196 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Kona Process 134 Shimano Deore 11V 27.5''",
+  "marque": "Kona",
+  "description": "Le Kona Process 134 27.5 est un excellent vélo pour celui qui veut se tourner vers un VTT tout suspendu, et il est parfait quelle que soit la taille du cycliste. Il est abordable et capable de rouler sur tout type de terrain. Il est équipé d’axes traversants à l’avant et à l’arrière, d’une suspension réglable et d’une tige de selle télescopique à long débattement.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/871/680871/2680871/5407610",
+  "mpn": "B221342705",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-188 cm",
+      "stock": 2,
+      "prix": 1699.99,
+      "mpn": "B221342705",
+      "sku": "2673976",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805572-vtt_tout_suspendu_kona_process_134_shimano_deore_11v_27_5___vert"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-196 cm",
+      "stock": 2,
+      "prix": 1699.99,
+      "mpn": "B221342706",
+      "sku": "2673996",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805572-vtt_tout_suspendu_kona_process_134_shimano_deore_11v_27_5___vert"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Mint Green"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 134,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Kona 6061 Aluminum Butted 134 mm Travel",
+      "fourche": "RockShox Recon RL Motion Control Solo Air 140mm Tapered 110mm Spacing",
+      "amortisseur": "RockShox Deluxe Select Trunnion"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore, 1x11-vitessses",
+      "dérailleur arrière": "Shimano Deore, 11-vitesses",
+      "cassette": "Shimano Deore, 11-50 dts",
+      "chaîne": "KMC X11",
+      "pédalier": "Shimano Deore, 30 dts",
+      "boîtier de pédalier": "Shimano Deore PF92"
+    },
+    "équipements": {
+      "freins": "Hydrauliques Shimano MT201, disques RT30 180/160 mm",
+      "selle": "Kona Trail",
+      "tige de selle": "TranzX Dropper +RAD Internal w/ Shimano Lever 31.6mm"
+    },
+    "roues": {
+      "jantes": "WTB ST i30 TCS 2.0, 110x15mm/148x12mm, roue libre HG",
+      "pneu avant": "Maxxis Minion DHF EXO TR DUAL 27.5×2.5″ WT",
+      "pneu arrière": "Maxxis Dissector EXO TR DUAL 27.5×2.4″ WT"
+    },
+    "direction": {
+      "cintre": "Kona XC/BC 35",
+      "poignées": "Kona Key Grip",
+      "potence": "Kona XC/BC 35",
+      "jeu de direction": "FSA No.57B"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 596,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 138,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1190,
+      "stack (mm)": 605,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 149,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76.3,
+      "empattement (mm)": 1219,
+      "stack (mm)": 615,
+      "reach (mm)": 475
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 664,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 76.2,
+      "empattement (mm)": 1259,
+      "stack (mm)": 626,
+      "reach (mm)": 510
+    }
+  ]
+}

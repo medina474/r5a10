@@ -1,0 +1,68 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2289977",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Roscoe 9 Shimano SLX XT 12V 29'' Rouge 2023",
+  "marque": "Trek",
+  "description": "Le Roscoe 9 est un VTT en alliage semi-rigide performant, conçu pour enchaîner les tours et s’amuser à fond. Une fourche FOX Rhythm 36 de 140 mm de débattement, de puissants freins à 4 pistons et une combinaison de roues et de pneus rapides et mordants vous donnent des capacités incroyables, que vous enchaîniez les sauts ou négociez la traversée d’un rock garden.\r\nLe ressort pneumatique de la fourche de FOX se règle facilement en fonction du poids du pilote. Et elle est plus légère qu’une suspension à ressort hélicoïdal.\r\nGrâce à la tige de selle télescopique, vous pouvez abaisser la selle en cours de route afin de pouvoir adopter sans problème votre position d’attaque dans les descentes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/977/289977/2289977/4283661",
+  "mpn": "5260389",
+  "gtin13": "601842587652",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 51,
+      "prix": 1999,
+      "mpn": "5260388",
+      "sku": "2110570",
+      "gtin13": "601842587669",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2297251-vtt_semi_rigide_trek_roscoe_9_shimano_slx_xt_12v_29___rouge_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 51,
+      "prix": 1999,
+      "mpn": "5260389",
+      "sku": "2287967",
+      "gtin13": "601842587652",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2297251-vtt_semi_rigide_trek_roscoe_9_shimano_slx_xt_12v_29___rouge_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 51,
+      "prix": 1999,
+      "mpn": "5260390",
+      "sku": "2287812",
+      "gtin13": "601842587645",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2297251-vtt_semi_rigide_trek_roscoe_9_shimano_slx_xt_12v_29___rouge_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 51,
+      "prix": 1999,
+      "mpn": "5260392",
+      "sku": "2366852",
+      "gtin13": "601842587621",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2297251-vtt_semi_rigide_trek_roscoe_9_shimano_slx_xt_12v_29___rouge_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {}
+}

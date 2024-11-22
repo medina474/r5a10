@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2295274",
+  "tailles": [
+    "S / 160-170 cm",
+    "M / 172-180 cm",
+    "L / 178-188 cm",
+    "XL / 186-196 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "BMC URS 01 Three Campagnolo Ekar 13V 700 mm Violet Prune 2023",
+  "marque": "BMC",
+  "description": "Le gravel s'est rapidement intégré dans l'ADN des cyclistes. Mais BMC ne pouvait faire ses premiers pas dans la discipline sans s'assurer d'y jouer les premiers rôles. Le seul URS que vous ayez envie de croiser sur votre chemin aime foncer sans limites (UnReStricted) ; n'hésitez pas à nourrir son côté sauvage. Son cadre super-léger conçu pour la compétition et sa conception performante s'allient à la précision emblématique, l'intégration extrême et la géométrie Gravel+ minutieusement développées par BMC. Plaisir garanti.\r\n\r\nBMC a exploité son expertise mécanique pour créer une toute nouvelle plate-forme destinée aux courses de gravel de haute intensité comme aux explorations de chemins de campagne illimitées. Taillé pour rouler hors des sentiers battus, le BMC URS (UnReStricted) est doté d’une géométrie progressive et du tout nouveau cadre adapté au gravel, pour vous permettre de partir à l’aventure sur une machine parfaitement adaptée et confortable.\r\n\r\nAvec son esthétique épurée, le modèle URS le plus léger et le plus intégré n’a rien à cacher ; il est aussi performant qu’un cycliste de gravel peut l’espérer. Son kit cadre maître du gravel en carbone haut de gamme revendique les technologies ICS et MTT ainsi qu’un aspect pratique indéniable grâce à ses nombreuses fixations, à sa géométrie Gravel+ et à son large dégagement de pneu. De sa potence ICS avec suspension MTT intégrée à sa cassette 10-44, ce vélo de gravel avec transmission Campagnolo Ekar 13 vitesses équipé des roues carbone Campagnolo Levante rapides et légères associe efficacement esthétique et fonction.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/274/295274/2295274/4289290",
+  "mpn": "30002505",
+  "gtin13": "7630027885590",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 172-180 cm",
+      "stock": 1,
+      "prix": 3521.99,
+      "mpn": "30002505",
+      "sku": "2191209",
+      "gtin13": "7630027885590",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2304381-gravel_bike_bmc_urs_01_three_campagnolo_ekar_13v_700_mm_violet_prune_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Prune / White"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Campagnolo Ekar 13V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : URS 01 Premium Carbon with Micro Travel Technology, Tuned Compliance Concept Gravel, Gravel+ Geometry, ICS Technology, Stealth Cable Routing, Fender and Rack Mounts, PF86 Bottom Bracket, Flat Mount Disc, 12x142 mm Thru-Axle, Tire Clearance: 42 mm (Measured Width)",
+      "fourche": "Carbone : URS 01 Premium Carbon with Tuned Compliance Concept Gravel, ICS Technology, Integrated Brake & Hub Dynamo Routing, Fender Mounts, Flat Mount Disc, 12x100 mm Thru-Axle"
+    },
+    "transmission": {
+      "manette de dérailleur": "Campagnolo Ekar, 1x13-vitesses",
+      "dérailleur arrière": "Campagnolo Ekar, 13-vitesses",
+      "cassette": "Campagnolo Ekar, 10-44 Dents",
+      "chaîne": "Campagnolo Ekar",
+      "pédalier": "Campagnolo Ekar, 38 Dents",
+      "boîtier de pédalier": "PF86"
+    },
+    "équipements": {
+      "freins": "Campagnolo Ekar, Hydr. Disc Brake, AFS Rotors (160/160)",
+      "selle": "WTB SL8 Cromoly, Medium",
+      "tige de selle": "URS 01 Premium Carbon D-Shaped Seatpost, 0 mm Offset"
+    },
+    "roues": {
+      "jantes": "Jantes : Campagnolo Levante, 2-Way Fit, 30 mm / Moyeux : Campagnolo Levante",
+      "pneus": "WTB Raddler, 700x40 mm"
+    },
+    "direction": {
+      "cintre": "Easton EA70 AX, 80 mm reach, 120 mm drop",
+      "potence": "ICS MTT x Redshift Suspension Stem, Integrated Cockpit Design"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 431,
+      "tube supérieur (mm)": 557,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 113,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1041,
+      "stack (mm)": 538,
+      "reach (mm)": 403,
+      "largeur du cintre (mm)": 420,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 459,
+      "tube supérieur (mm)": 578,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 146,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1064,
+      "stack (mm)": 569,
+      "reach (mm)": 415,
+      "largeur du cintre (mm)": 420,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 172.5
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 492,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 172,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1081,
+      "stack (mm)": 603,
+      "reach (mm)": 419,
+      "largeur du cintre (mm)": 440,
+      "longueur de la potence (mm)": 80,
+      "longueur des manivelles (mm)": 172.5
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 527,
+      "tube supérieur (mm)": 612,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 207,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1105,
+      "stack (mm)": 641,
+      "reach (mm)": 429,
+      "largeur du cintre (mm)": 440,
+      "longueur de la potence (mm)": 90,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

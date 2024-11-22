@@ -1,0 +1,160 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2504819",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 170-180 cm",
+    "L / 178-188 cm",
+    "XL / 188-198 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BMC Twostroke 01 Five Shimano Deore 12V 29'' Gris Carbon 2023",
+  "marque": "BMC",
+  "description": "Pour tout donner sur les circuits de XCO ou pour établir un nouveau record personnel sur la montée la plus raide de la région, le BMC Twostroke assure les arrières des adeptes de cross-country. Incarnant une nouvelle vision du semi-rigide, ce vélo de XC nouvelle génération est non seulement un grimpeur efficace, mais il est aussi conçu pour vous procurer contrôle et confiance même sur les sentiers les plus techniques et exigeants. Le Twostroke incarne l’équilibre parfait entre légèreté, rigidité et solidité. Conçu pour enrichir votre expérience, il vous permet d’attaquer le terrain en toute confiance, avec la satisfaction de relever tous les défis.\r\n\r\nLe passage totalement interne et guidé des câbles facilite l’installation et confère au vélo une esthétique épurée. Un adaptateur dédié permet même d’installer une tige de selle télescopique de 27.2 mm en gardant un passage de câbles discret. Les caches moulés sur les bases arrière, un guide-chaîne intégré et une protection transparente sur le tube diagonal assurent sa durabilité et un design élégant.\r\n\r\nPartez à la conquête des terrains les plus meubles et escarpés avec une répartition du poids idéale : angle de chasse de 67°, partie avant longue et angle de selle de 75°. Grâce à la technologie Tuned Compliance Concept (TCC), survolez les routes les plus chaotiques et dépassez-vous dans l’effort, pour aller toujours plus loin. Un équilibre parfait entre confort et performance, pour une utilisation à la fois souple et rapide. Le cadre offre un large dégagement de pneu, ce qui le rend compatible avec la nouvelle génération de pneus de XC larges.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/819/504819/2504819/4924154",
+  "mpn": "30002608",
+  "gtin13": "7630027886580",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 162-172 cm",
+      "stock": 1,
+      "prix": 1499.99,
+      "mpn": "30002608",
+      "sku": "2190869",
+      "gtin13": "7630027886580",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2572502-vtt_semi_rigide_bmc_twostroke_01_five_shimano_deore_12v_29___gris_carbon_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-180 cm",
+      "stock": 5,
+      "prix": 1499.99,
+      "mpn": "30002609",
+      "sku": "2191160",
+      "gtin13": "7630027886573",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2572502-vtt_semi_rigide_bmc_twostroke_01_five_shimano_deore_12v_29___gris_carbon_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 1499.99,
+      "mpn": "30002610",
+      "sku": "2191173",
+      "gtin13": "7630027886566",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2572502-vtt_semi_rigide_bmc_twostroke_01_five_shimano_deore_12v_29___gris_carbon_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-198 cm",
+      "stock": 3,
+      "prix": 1499.99,
+      "mpn": "30002611",
+      "sku": "2191355",
+      "gtin13": "7630027886559",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2572502-vtt_semi_rigide_bmc_twostroke_01_five_shimano_deore_12v_29___gris_carbon_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Carbon / White"
+    }
+  ],
+  "informations": {
+    "poids maximum": "110 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Twostroke 01 Premium Carbon with Tuned Compliance Concept XC, Fully Guided Internal Cable Routing, PF92 bottom bracket, Post Mount Disc, 12x148 mm Boost Thru-Axle, Tire clearance: 58 mm (Measured Width)",
+      "fourche": "Rockshox Judy Silver TK, PopLoc Remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore SL-M6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore RD-M6100, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore CN-M6100",
+      "pédalier": "Shimano FC-MT510-1, 32 Dents",
+      "boîtier de pédalier": "PF92"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT200, Hydr. Disc Brake, Shimano SM-RT30 Rotors (160/160 tailles S-M, 180/160 tailles L-XL)",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "BMC MSP03, 27.2 mm, 0 mm Offset (D-Shaped Insert)"
+    },
+    "roues": {
+      "jantes": "Jantes : SHL28OS, 25 mm Inner Width",
+      "moyeu avant": "Shimano HB-MT400-B ",
+      "moyeu arrière": "Shimano FH-MT410-B",
+      "pneus": "Vittoria Barzo, 55-622, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "BMC MFB03 Alloy 750 mm width, 4 mm rise, 8° backsweep",
+      "potence": "Forged 6061 Alloy, +/-6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 87,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1112.5,
+      "stack (mm)": 588,
+      "reach (mm)": 422.5,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 93.5,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1135,
+      "stack (mm)": 598,
+      "reach (mm)": 445,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 106,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1161,
+      "stack (mm)": 608,
+      "reach (mm)": 465,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 658,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 122.5,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1185,
+      "stack (mm)": 623,
+      "reach (mm)": 485,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

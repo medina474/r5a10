@@ -1,0 +1,94 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2457304",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " R Raymon HardRay E 1.0 Tektro 8V 400 Wh 27.5'' Bleu Jaune",
+  "marque": "R Raymon",
+  "description": "Fiable. Simple. Durable. Le vélo de montagne dans sa forme originale, mais le vélo de montagne électrique semi-rigide R Raymon HardRay E 1.0 a été enrichi d'une gamme de technologies et d'expertise pour en faire un vélo électrique orienté vers la performance qui est à l'aise sur (presque) tous les terrains. Pour les débutants et les pros, pour les fans de trail et les passionnés de course.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/304/457304/2457304/4701579",
+  "mpn": "4510011240",
+  "gtin13": "9010654071678",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 6,
+      "prix": 1199.99,
+      "mpn": "4510011240",
+      "sku": "2436551",
+      "gtin13": "9010654071678",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2500718-vtt_electrique_semi_rigide_r_raymon_hardray_e_1_0_tektro_8v_400_wh_27_5___bleu_jaune"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 21.9,
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Acier",
+    "groupe": "N.C."
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 27.5\", alliage 6061, batterie externe",
+      "fourche": "SR SUNTOUR XCT30, Ressort, 100 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-CE, 250 W, 50 Nm",
+      "batterie": "Yamaha DT400, 400 Wh, 36 V"
+    },
+    "affichage": "Yamaha Display A, écran LCD, Micro-USB",
+    "levier de changement de vitesse": "Tektro SL-M330R 8 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Shimano Altus, RD-M2000, Shadow, 9-S",
+      "cassette": "Tektro CS-M330, 11-42 T",
+      "chaîne": "KMC Z8",
+      "pédalier": "Wheeltop, forgé en aluminium, JIS / R Raymon, plateau 38 T"
+    },
+    "équipements": {
+      "freins": "Tektro HD-M275, 2 pistons, Frein à disque hydraulique",
+      "pédales": "R Raymon, Plastique",
+      "selle": "R Raymon MTB",
+      "tige de selle": "R Raymon, 31.6 mm, 350 mm, Patent"
+    },
+    "roues": {
+      "pneus": "Mitas Ocelot, 60-584, 27.5x2.35"
+    },
+    "direction": {
+      "cintre": "R Raymon Riser 31.8 mm, 720 mm, Sweep : 6 °, Rise : 15 mm",
+      "poignées": "R Raymon MTB, poignées à visser"
+    },
+    "stem": "R Raymon 31.8, 7 °, Ahead",
+    "couleurs": "Bleu / Jaune"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 580,
+      "tube de direction (mm)": 120,
+      "longueur de la base (mm)": 465,
+      "angle de braquage (°)": 69,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1136,
+      "stack (mm)": 626,
+      "reach (mm)": 400
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 600,
+      "tube de direction (mm)": 125,
+      "longueur de la base (mm)": 465,
+      "angle de braquage (°)": 69,
+      "angle du tube de selle (°)": 74,
+      "empattement (mm)": 1156,
+      "stack (mm)": 630,
+      "reach (mm)": 420
+    }
+  ]
+}

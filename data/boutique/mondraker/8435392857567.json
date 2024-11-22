@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2413786",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-200 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Mondraker Podium Sram GX Eagle 12V 29'' Vert 2023",
+  "marque": "Mondraker",
+  "description": "Certes, c'est le vélo le plus économique de la gamme Podium, mais cela n’est pas négatif. Il a en effet exactement le même cadre que le Podium RR SL.\r\nSon rapport qualité-prix est l'un des meilleurs que vous pouvez trouver sur le marché compte tenu de son cadre exclusif. Avec un cadre de moins de 800 grammes, c’est un vélo léger comme aucun autre pour son prix. De plus, grâce à Stealth Carbon Air optimisé pour Podium, il vous donne une absorption et une agilité que vous ne trouverez pas ailleurs. Si vous ajoutez à cela la fourche RockShox SID SL Base RL, les roues Mavic Crossmax et la transmission Sram GX Eagle/NX Eagle à 12 vitesses, il ne vous reste qu’à sortir du magasin avec et de vous inscrire à la première course. En route pour la victoire !",
+  "image": "https://product-cdn-frz.alltricks.com/medium/786/413786/2413786/4640491",
+  "mpn": "010.23039",
+  "gtin13": "8435392857567",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 10,
+      "prix": 2999.99,
+      "mpn": "010.23038",
+      "sku": "2186026",
+      "gtin13": "8435392857550",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2458921-vtt_semi_rigide_mondraker_podium_sram_gx_eagle_12v_29___vert_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 10,
+      "prix": 2999.99,
+      "mpn": "010.23039",
+      "sku": "2186037",
+      "gtin13": "8435392857567",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2458921-vtt_semi_rigide_mondraker_podium_sram_gx_eagle_12v_29___vert_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 1,
+      "prix": 2999.99,
+      "mpn": "010.23040",
+      "sku": "2186141",
+      "gtin13": "8435392857574",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2458921-vtt_semi_rigide_mondraker_podium_sram_gx_eagle_12v_29___vert_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 9.7,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Podium 29 Stealth Air Carbone, Forward Geometry XC, boîtier de pédalier BSA, tube de direction conique, acheminement interne des câbles HHG, axe arrière Boost 12 x 148 mm, design spécifique pour transmission monoplateau, compatible avec les freins Flatmount",
+      "fourche": "Rockshox SID SL Base RL 29, 100 mm, Chargeur, DebonAir, pivot conique, axe Boost 15 x 110 mm, plongeurs en aluminium 32 mm, déport 44 mm. Réglages : Compression OneLock 2 positions (ouvert/bloqué), rebond basse vitesse, précontrainte pneumatique"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger GX Eagle, 12 vitesses, X-Actuation 1:1",
+      "dérailleur arrière": "Sram GX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, 1 x 12 vitesses, X-Actuation 1:1",
+      "cassette": "Sram XG-1275, 10-50 Dents, 12 vitesses",
+      "chaîne": "Sram NX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "Sram GX Eagle, Boost, axe DUB, plateau Direct Mount, taille S : 170 mm, taille M/L/XL : 175 mm",
+      "boîtier de pédalier": "Sram DUB BSA, roulements étanches, 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram Level TL, étrier 2 pièces, disque monopièce Centerline 160/160 mm IS 6 trous, plaquettes organiques sur acier",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "Onoff Sulfur 0-R, aluminium 6061 T6, forgé 3D, diamètre 27,2 mm, longueur 400 mm"
+    },
+    "roues": {
+      "jantes": "Mavic Crossmax 29, largeur intérieure 25 mm, jante soudée, sans crochet, Tubeless Ready, 24 rayons",
+      "moyeu avant": "Mavic, Boost 15 x 110 mm, IS 6 trous ",
+      "moyeu arrière": "Mavic, Boost 12 x 148 mm, système à rochets ID360, IS 6 trous, roue libre XD",
+      "pneus": "Maxxis Rekon Race 29 x 2,35, protection EXO, Tubeless Ready, 120 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 0.2, aluminium 6061 double renfort, galbe : 4,8 mm, largeur : 760 mm, cintrage 9°, réhausse 0°, alésage 31,8 mm",
+      "poignées": "Onoff Twin, verrouillage simple, 135 mm",
+      "potence": "MDK, aluminium 6061 T6, alésage 31,8 mm, galbe : +/-5º, longueur : tailles S / M : 60 mm, tailles L : 70 mm, tailles XL : 80 mm",
+      "jeu de direction": "Onoff Titan conique pour tube de direction de 1-1/8\" à 1-1/2”, roulements étanches ACB, haut 41,8x30,5x8x45°x45°, bas 51,9x40x8x45°x45°"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 85,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1107,
+      "stack (mm)": 598,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 611,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1128,
+      "stack (mm)": 602,
+      "reach (mm)": 444
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 632,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1150,
+      "stack (mm)": 611,
+      "reach (mm)": 463
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1170,
+      "stack (mm)": 625,
+      "reach (mm)": 477
+    }
+  ]
+}

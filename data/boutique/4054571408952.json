@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2579361",
+  "tailles": [
+    "53 cm / 170-175 cm",
+    "56 cm / 176-182 cm",
+    "58 cm / 180-185 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cube Nuroad C:62 Pro Shimano GRX 11V 700 mm Gris Vert Swamp 2023",
+  "marque": "Cube",
+  "description": "Un fantastique cadre taillé pour le gravel combinant le pilotage dynamique d’un vélo de course, la robustesse d’une machine de cyclo-cross et le confort d’un vélo de randonnée. L’équilibre n’est pas facile à trouver, mais les ingénieurs de chez Cube y sont pourtant parvenus avec le Nuroad C:62. La construction carbone légère et l’attention au détail dont il a fait preuve sont la garantie de sa robustesse, son confort et sa polyvalence. Sa fourche entièrement en carbone présente des supports de fixation pour porte-bagages de type low-rider, tandis que les supports intégrés de porte-bagages et de garde-boue permettent d'accessoiriser facilement le vélo. Il est également pratique ; ses incroyables dégagements vous permettent de l’équiper de pneus de 45 mm sans garde-boue, ou 40 mm avec garde-boue.\r\n\r\nLe Cube Nuroad C:62 Pro combine le confort et la légèreté d’un cadre carbone taillé pour le gravel avec un groupe Shimano GRX 1x11 vitesses spécial gravel. Vous disposez ainsi de tout ce dont vous avez besoin pour élargir vos horizons cyclistes. Sa paire de roues Newmen (conçu spécialement pour le gravel) se combine idéalement avec des pneus ultra-adhérents Schwalbe G-One Allround. Ajoutez à cela la puissance de freins à disque hydrauliques Shimano GRX, le confort d’une fourche en carbone et une tige de selle en carbone Newmen, et vous n’avez plus aucune excuse. Quelle sera votre prochaine destination ?",
+  "image": "https://product-cdn-frz.alltricks.com/medium/361/579361/2579361/5206720",
+  "mpn": "68030056",
+  "gtin13": "4054571408952",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 176-182 cm",
+      "stock": 1,
+      "prix": 2399,
+      "mpn": "68030056",
+      "sku": "2397509",
+      "gtin13": "4054571408952",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2691402-gravel_bike_cube_nuroad_c_62_pro_shimano_grx_11v_700_mm_gris_vert_swamp_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "swampgrey´n´black"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 9.0,
+    "poids maximum": "115 kg : le poids maximum correspond au poids combiné maximal du cycliste et du vélo",
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:62 Advanced Twin Mold, Internal Cable Routing, Flat Mount Disc, Fender/Rack & Kickstand Option, 12x142 mm, AXH, Width tire maximum: 45 mm",
+      "fourche": "Carbone : Cube C:62 Technology, 1 1/8\" - 1 1/4\" Tapered, Flat Mount Disc, Fender & Lowrider Mounts, Internal Light Cable Option, 12x100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX ST-RX600, 1x11-vitesses",
+      "dérailleur arrière": "Shimano GRX RD-RX812, Direct Mount, 11-vitesses",
+      "cassette": "Shimano XT CS-M8000, 11-42 Dents",
+      "chaîne": "Shimano CN-HG601-11",
+      "pédalier": "Shimano GRX FC-RX600, 40 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano GRX BR-RX400, Hydr. Disc Brake, Flat Mount (160/160)",
+      "selle": "Natural Fit Venec",
+      "tige de selle": "Newmen Advanced, Carbon, 27.2 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Performance X.R. 25, 12x100/12x142 mm",
+      "pneus": "Schwalbe G-One Allround, Kevlar, 40-622, 700 x 40C"
+    },
+    "direction": {
+      "cintre": "Cube Gravel Race Bar",
+      "potence": "Newmen Evolution 318.4, 31.8 mm",
+      "jeu de direction": "VP, Top Integrated 1 1/8\", Bottom Integrated 1 1/4\""
+    },
+    "ruban de cintre": "Acid Bartape CX",
+    "référence": 680300
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de cadre (cm)": 50,
+      "tube de selle (mm)": 434,
+      "tube supérieur (mm)": 522,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 102,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 75.3,
+      "empattement (mm)": 1041,
+      "stack (mm)": 519,
+      "reach (mm)": 386,
+      "longueur potence (mm)": 80,
+      "largeur cintre (mm)": 420,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "S",
+      "taille de cadre (cm)": 53,
+      "tube de selle (mm)": 464,
+      "tube supérieur (mm)": 537,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 124,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1042,
+      "stack (mm)": 544,
+      "reach (mm)": 386,
+      "longueur potence (mm)": 80,
+      "largeur cintre (mm)": 440,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (cm)": 56,
+      "tube de selle (mm)": 494,
+      "tube supérieur (mm)": 560,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 154,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1041,
+      "stack (mm)": 578,
+      "reach (mm)": 389,
+      "longueur potence (mm)": 90,
+      "largeur cintre (mm)": 440,
+      "longueur manivelles (mm)": 172.5
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (cm)": 58,
+      "tube de selle (mm)": 514,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 174,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1046,
+      "stack (mm)": 599,
+      "reach (mm)": 392,
+      "longueur potence (mm)": 100,
+      "largeur cintre (mm)": 460,
+      "longueur manivelles (mm)": 172.5
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (cm)": 61,
+      "tube de selle (mm)": 544,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 197,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1058,
+      "stack (mm)": 623,
+      "reach (mm)": 402,
+      "longueur potence (mm)": 100,
+      "largeur cintre (mm)": 460,
+      "longueur manivelles (mm)": 175
+    }
+  ]
+}

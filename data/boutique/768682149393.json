@@ -1,0 +1,144 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2569398",
+  "tailles": [
+    "M / 165-175 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Supercaliber 9.6 Shimano Deore/SLX 12V 29'' Noir Prismatique Gén 2",
+  "marque": "Trek",
+  "description": "Le Supercaliber SL 9.6 est un VTT cross-country en carbone conçu pour survoler à toute vitesse les singletracks et foncer vers la ligne d’arrivée. Il possède un cadre en carbone qui offre un équilibre entre rigidité et souplesse afin que vous puissiez développer votre puissance là où vous en avez le plus besoin, tandis que la suspension IsoStrut à l’arrière offre juste ce qu’il faut d’amortissement pour atténuer les chocs sur les tronçons accidentés des circuits XC. Ce vélo est prêt à foncer avec sa transmission Shimano SLX 12 vitesses. Vous disposerez d’un rapport pour la moindre côte ou chaque échappée.\r\n\r\nVous êtes à la recherche d’un vélo de course cross-country et vous souhaitez un peu de suspension pour une sortie plus confortable. Vous voulez profiter des avantages d’un cadre en carbone et de la suspension IsoStrut et souhaitez des composants robustes sur lesquels vous pouvez compter et que vous pourrez améliorer plus tard.\r\n\r\nUn cadre en OCLV Mountain Carbon SL à géométrie XC moderne. Une suspension de 110 mm à l’avant avec une fourche RockShox Recon Gold RL à ressort DebonAir et amortisseur Motion Control, ainsi qu’une suspension arrière IsoStrut de 80 mm avec amortisseur RockShox SIDLuxe. Une transmission Shimano avec une sélection de composants Deore et SLX, un cintre en OCLV Carbon et une tige de selle télescopique. Sans oublier, la puissance de freinage fiable des freins à disque hydrauliques Shimano.\r\n\r\nSi votre chemin est défini par la rubalise et si vous êtes à la recherche d’un étalon XC capable de soutenir le rythme, le Supercaliber SL 9.6 est fait pour vous. Sélectionné pour le cross-country, il affiche une géométrie course moderne et offre juste ce qu’il faut de suspension pour oublier les surfaces cahoteuses et vous permettre de vous donner à fond jusqu’à la ligne d’arrivée.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/398/569398/2569398/5183583",
+  "mpn": "5302858",
+  "gtin13": "768682149393",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 2,
+      "prix": 3479.99,
+      "mpn": "5302858",
+      "sku": "2558827",
+      "gtin13": "768682149393",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2682290-vtt_tout_suspendu_trek_supercaliber_9_6_shimano_deore_slx_12v_29___noir_prismatique_gen_2"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 2,
+      "prix": 3479.99,
+      "mpn": "5302859",
+      "sku": "2558864",
+      "gtin13": "768682149232",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2682290-vtt_tout_suspendu_trek_supercaliber_9_6_shimano_deore_slx_12v_29___noir_prismatique_gen_2"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Dark Prismatic"
+    }
+  ],
+  "informations": {
+    "poids": "M - 13.10 kg (avec produit d’étanchéité TLR, sans chambres à air)",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 110,
+    "débattement cadre (mm)": 80,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SL OCLV Mountain Carbon, IsoStrut, UDH, débattement de 80 mm",
+      "fourche": "RockShox Recon Gold RL, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport de 42 mm, Boost110, Maxle Stealth 15 mm, débattement de 110 mm",
+      "amortisseur": "Trek IsoStrut, RockShox SIDLuxe, amortisseur à deux positions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 12 vitesses",
+      "dérailleur arrière": "Shimano SLX M7100, chape longue, 12 vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 dents, 12 vitesses",
+      "chaîne": "Shimano Deore M6100, 12 vitesses",
+      "pédalier": "Taille S, M : Shimano MT512, 32 dts, ligne de chaîne de 55 mm, 170 mm Taille M/L, L, XL : Shimano MT512, 32 dts, ligne de chaîne de 55 mm, 175 mm"
+    },
+    "boitier de pédalier": "Shimano MT500, 92 mm, PressFit",
+    "équipements": {
+      "freins": "Shimano, disque hydrauliques, levier MT501, étrier MT500, 180/160 mm",
+      "selle": "Bontrager Verse Comp, rails en acier, largeur de 145 mm",
+      "tige de selle": "Taille S : TranzX JD-YSP18, débattement de 100 mm, acheminement interne, 31,6 mm, longueur de 361 mm Taille M, M/L : TranzX JD-YSP18, débattement de 120 mm, acheminement interne, 31,6 mm, longueur de 403 mm Taille L, XL : TranzX JD-YSP18, débattement de 150 mm, acheminement interne, 31,6 mm, longueur de 470 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Kovee, double paroi, Tubeless Ready, 28 trous, largeur de 23 mm, valve Presta",
+      "pneus": "Bontrager Sainte-Anne RSL, Tubeless Ready, 120 tpi, 29x2,40 pouces"
+    },
+    "direction": {
+      "cintre": "Taille S : Bontrager Comp, alliage, 31,8 mm, élévation de 5 mm, largeur de 720 mm Taille M, M/L, L, XL : Bontrager Rhythm Comp, Alu, 31,8 mm, élévation de 15 mm, largeur de 750 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Taille S : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 50 mm Taille M, M/L : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 60 mm Taille L : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 70 mm Taille XL : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 80 mm",
+      "jeu de direction": "FSA IS-2 , 1,125 pouces sur le haut, 1,5 pouce sur le bas"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1113,
+      "stack (mm)": 590,
+      "reach (mm)": 410
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1138,
+      "stack (mm)": 590,
+      "reach (mm)": 435
+    },
+    {
+      "taille cadre": "M/L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1153,
+      "stack (mm)": 590,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71.5,
+      "empattement (mm)": 1172,
+      "stack (mm)": 599,
+      "reach (mm)": 465
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 525,
+      "tube supérieur (mm)": 663,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71.5,
+      "empattement (mm)": 1217,
+      "stack (mm)": 622,
+      "reach (mm)": 500
+    }
+  ]
+}

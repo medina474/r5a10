@@ -1,0 +1,148 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2504787",
+  "tailles": [
+    "XXS / 145-160 cm",
+    "51 cm / 157-171cm",
+    "54 cm / 168-180 cm",
+    "56 cm / 176-186 cm",
+    "58 cm / 183-195 cm",
+    "61 cm / 193-202 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "3T Exploro Race Sram Force eTap AXS 12V 700 mm Vert Emerald Blanc 2022",
+  "marque": "3T",
+  "description": "Que ce soit sur de l'asphalte ou sur du gravier, nous aimons la vitesse. C'est pourquoi les ingénieurs de chez 3T ont développé le cadre Exploro RaceMax. Un vélo de gravel qui ressemble à un vélo de route, roule comme un vélo de route et déchire le gravier.\r\n\r\nGrâce au cadre RaceMax, il est possible de configurer son vélo en mode \"Race\" ou en mode \"Max\". Par exemple, avec deux paires de roues (une paire en 700C et une paire en 650b), vous pouvez facilement mettre l'accent sur la vitesse pure (en configuration \"Race\" ; roues en 700C) ou choisir de conquérir les terrains les plus difficiles (en configuration \"Max\" ; roues en 650b). Voici ce qui défini la polyvalence du cadre Exploro RaceMax.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/787/504787/2504787/4923984",
+  "mpn": "9250DHDK33W",
+  "gtin13": "4895211829733",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 168-180 cm",
+      "stock": 1,
+      "prix": 5499.99,
+      "mpn": "9250DHDK33W",
+      "sku": "2260524",
+      "gtin13": "4895211829733",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2572643-gravel_bike_3t_exploro_race_sram_force_etap_axs_12v_700_mm_vert_emerald_blanc_2022"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Emerald/White"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Sram Force eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Exploro RaceMax, Unidirectional pre-preg carbon, High-modulus/high-strength performance blend layup",
+      "fourche": "Carbone : Fango RaceMax w/ compact crown"
+    },
+    "manettes de dérailleur": "Sram Force eTap AXS, 1x12-vitesses",
+    "transmission": {
+      "dérailleur arrière": "Sram Force eTap AXS, Max 36 Dents, 12-vitesses",
+      "cassette": "Sram Rival AXS, 10-36 Dents",
+      "pédalier": "Sram Force D1, 42 Dents",
+      "boîtier de pédalier": "Threaded BB"
+    },
+    "équipements": {
+      "freins": "Sram Force AXS, Hydr. Disc Brake, Sram Rotors (160/160)",
+      "tige de selle": "New 3T Charlie Sqaero Team w/ Ritchey WCS Clamp",
+      "selle": "Selle Italia Model X Superflow"
+    },
+    "roues": {
+      "jantes": "Fulcrum Rapid Red 900, 700c, 22 mm internal width, tubeless ready"
+    },
+    "direction": {
+      "cintre": "3T Superergo Pro",
+      "potence": "3T Apto Stealth",
+      "jeu de direction": "3T MinMax IS42/28.6 + IS 47/38"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre (cm)": "XXS",
+      "tube de selle (mm)": 436,
+      "tube supérieur (mm)": 506,
+      "longueur base (mm)": 415,
+      "douille de direction* (mm)": 125,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 998,
+      "stack (mm)": 520,
+      "reach (mm)": 355,
+      "longueur des manivelles (mm)": 165
+    },
+    {
+      "taille cadre (cm)": 51,
+      "tube de selle (mm)": 463,
+      "tube supérieur (mm)": 526,
+      "longueur base (mm)": 415,
+      "douille de direction* (mm)": 147,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1008,
+      "stack (mm)": 542,
+      "reach (mm)": 366,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre (cm)": 54,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 546,
+      "longueur base (mm)": 415,
+      "douille de direction* (mm)": 161,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1008,
+      "stack (mm)": 564,
+      "reach (mm)": 377,
+      "longueur des manivelles (mm)": 172.5
+    },
+    {
+      "taille cadre (cm)": 56,
+      "tube de selle (mm)": 518,
+      "tube supérieur (mm)": 566,
+      "longueur base (mm)": 415,
+      "douille de direction* (mm)": 180,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1014,
+      "stack (mm)": 584,
+      "reach (mm)": 385,
+      "longueur des manivelles (mm)": 172.5
+    },
+    {
+      "taille cadre (cm)": 58,
+      "tube de selle (mm)": 545,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 415,
+      "douille de direction* (mm)": 201,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1024,
+      "stack (mm)": 604,
+      "reach (mm)": 393,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre (cm)": 61,
+      "tube de selle (mm)": 572,
+      "tube supérieur (mm)": 606,
+      "longueur base (mm)": 415,
+      "douille de direction* (mm)": 232,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1044,
+      "stack (mm)": 632,
+      "reach (mm)": 404,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

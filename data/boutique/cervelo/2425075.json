@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2425075",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cervélo ZHT-5 Sram GX Eagle AXS 12V 29'' Vert 2023",
+  "marque": "Cervelo",
+  "description": "Lorsque l'équipe Jumbo-Visma a décidé qu'il était temps de s'attaquer aux courses XCO, elle s'est tournée vers nous pour lui fournir la réponse. Le ZHT-5 marque une nouvelle ère pour l'équipe et Cervélo, car c'est ensemble que nous allons courir. Notre savoir-faire en matière d'ingénierie a déjà fait ses preuves en cyclocross (R5-CX) et dans les courses de gravel (Áspero). Aujourd'hui, nous sommes passés à la vitesse supérieure et avons conçu un VTT digne du nom Cervélo.\r\n\r\nLe ZHT-5 est un Cervélo de bout en bout : rapide, efficace et agréable à piloter. L'angle de 69 degrés du tube de direction, un reach moderne et des bases courtes se combinent pour en faire un vélo stable à haute vitesse et suffisamment agile lorsqu'il faut jouer des coudes dans le pack. Il y a suffisamment de dégagement au niveau du cockpit pour être à l'aise à son guidon, que ce soit pour charger l'avant dans une épingle difficile à franchir en montée ou pour passer derrière la selle pour gagner du temps en descente.\r\n\r\nNotre mantra est de rendre les cyclistes plus rapides. Et pour cela, il faut créer des vélos qui transforment la puissance en accélération avec le meilleur rendement possible. Et rien n'est plus efficace en terme de rendement qu'un hardtail. Mais la puissance n'est rien sans le contrôle, c'est pourquoi nous nous sommes concentrés sur la création d'un vélo de XC de compétition rapide et qui se manie avec confiance dans les sections techniques, ce qui donne envie de rouler encore plus vite.\r\n\r\nAvec un poids de seulement 907 g (taille Medium), le ZHT-5 est un boxeur poids plume avec une vitesse de pointe que seul un hardtail peut offrir. Des décennies de fabrication de cadres conçus pour les sprinters les plus forts du monde ont donné naissance à un VTT super rigide qui vous propulse en avant sans compromettre le poids ou les sensations de pilotage.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/75/425075/2425075/4656334",
+  "mpn": "0I0HTAGS2ALGTW",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 2999.99,
+      "mpn": "0I0HTAGS2ALGTW",
+      "sku": "2393307",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2468066-vtt_semi_rigide_cervelo_zht_5_sram_gx_eagle_axs_12v_29___vert_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Moss Khaki"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Carbone ZHT-5 de 907 g, Cervelo Thru-axle, 12x148",
+      "fourche": "Rockshox SID SL Select, DebonAir spring, Charger RL damper, tapered steerer, 15x110mm, Maxle Stealth, 44mm offset, 100mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle AXS, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle AXS, 12 vitesses",
+      "cassette": "Sram Eagle XG-1275, 10-52 dents",
+      "chaîne": "Sram GX Eagle, 12 vitesses",
+      "pédalier": "Sram GX Eagle, 32T, Boost 148 DUB",
+      "boîtier de pédalier": "Sram DUB, BSA 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram Level TL, disque hydrauliques",
+      "selle": "Prologo Dimension NDR T4.0",
+      "tige de selle": "Race Face Ride XC Alloy 30.9"
+    },
+    "roues": {
+      "jantes": "Avant : Race Face ARC Offset 27, 27mm IW, E*thirteen TRS Race TC, 15x110mm, 24H, 6 bolt, tubeless compatible Arrière : Race Face ARC Offset 27, 27mm IW, E*thirteen TRS Race, 12x148mm, XD freehub, 28H, 6 bolt, tubeless compatible",
+      "pneus": "Maxxis Rekon Race, EXO 120TPI, 29x2.4"
+    },
+    "direction": {
+      "cintre": "Race Face Aeffect Alloy, 35mm clamp, 760mm width, 10mm rise",
+      "potence": "Race Face Aeffect Alloy, 35mm clamp, 6 degree",
+      "jeu de direction": "FSA IS2 1-1/2 x 1-1/2"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 377,
+      "tube supérieur (mm)": 582,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 89,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1090,
+      "stack (mm)": 606,
+      "reach (mm)": 409
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 433,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1116,
+      "stack (mm)": 612,
+      "reach (mm)": 433
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 107,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1145,
+      "stack (mm)": 623,
+      "reach (mm)": 457
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 519,
+      "tube supérieur (mm)": 666,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 121,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1177,
+      "stack (mm)": 636,
+      "reach (mm)": 484
+    }
+  ]
+}

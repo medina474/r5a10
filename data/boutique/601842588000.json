@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2276770",
+  "tailles": [
+    "XS / 137-155 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Roscoe 7 Shimano Deore 12V 27.5'' Bleu 2023",
+  "marque": "Trek",
+  "description": "Le Roscoe 7 est le semi-rigide des cyclistes qui veulent se démarquer et s’éclater sur les trails. La fourche télescopique moelleuse de 140 mm, les roues de 29 pouces et la transmission à large plage de rapports en font un excellent vélo pour les débutants, mais sa nature ludique donnera aussi le sourire aux cyclistes plus expérimentés.\r\n\r\nUn cadre aluminium léger, des roues 29 pouces rapides avec de larges pneus mordants de 2,6 pouces et une fourche RockShox Recon de 140 mm avec blocage. Il est équipé d’une transmission Shimano monoplateau 12 vitesses fiable avec une large plage de rapports pour les côtes, de puissants freins à disque hydrauliques et une tige de selle télescopique pour adopter la position d’attaque adéquate dans les descentes, les virages et les sauts.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/770/276770/2276770/4309973",
+  "mpn": "5260357",
+  "gtin13": "601842588000",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XS / 137-155 cm",
+      "stock": 51,
+      "prix": 1299,
+      "mpn": "5260357",
+      "sku": "2110588",
+      "gtin13": "601842588000",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2261869-vtt_semi_rigide_trek_roscoe_7_shimano_deore_12v_27_5___bleu_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {}
+}

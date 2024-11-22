@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2576878",
+  "tailles": [
+    "41 cm / 155-170 cm",
+    "46 cm / 170-180 cm",
+    "51 cm / 180-185 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Fluide Shimano Acera/Altus 9V 630 Wh 29'' Gris 2023",
+  "marque": "Fluide",
+  "description": "Le VTT électrique semi-rigide Fluide est le vélo idéal pour les excursions sur les routes de gravier, les chemins forestiers et les sentiers simples. Équipé d'une fourche suspendue SR Suntour XCM32, dotée d'un débattement de 100 mm, il est prêt pour vos prochaines escapades du week-end. Grâce à sa batterie de 630 Wh et à sa motorisation Bafang M410 et à son couple de 80 Nm, les montées sont un jeu d'enfant. La transmission Shimano Acera/Altus 9 vitesses et les freins à disque hydrauliques Shimano MT200 vous garantissent toute la fiabilité dont vous avez besoin.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/878/576878/2576878/5234306",
+  "mpn": "AL.MH2901.3146",
+  "gtin13": "AL.MH2901.3146",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "41 cm / 155-170 cm",
+      "stock": 10,
+      "prix": 1499.99,
+      "mpn": "AL.MH2901.3141",
+      "sku": "2581293",
+      "gtin13": "AL.MH2901.3141",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2687922-vtt_electrique_semi_rigide_fluide_shimano_acera_altus_9v_630_wh_29___gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "46 cm / 170-180 cm",
+      "stock": 45,
+      "prix": 1499.99,
+      "mpn": "AL.MH2901.3146",
+      "sku": "2562953",
+      "gtin13": "AL.MH2901.3146",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2687922-vtt_electrique_semi_rigide_fluide_shimano_acera_altus_9v_630_wh_29___gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "51 cm / 180-185 cm",
+      "stock": 37,
+      "prix": 1499.99,
+      "mpn": "AL.MH2901.3151",
+      "sku": "2562946",
+      "gtin13": "AL.MH2901.3151",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2687922-vtt_electrique_semi_rigide_fluide_shimano_acera_altus_9v_630_wh_29___gris_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 25.9,
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Acera/Altus 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium 6061, MTB 29\", Integrated Battery, QR 135 mm",
+      "fourche": "SR Suntour XCM32 ATB, Tapered, QR 100 mm, 100 mm travel"
+    },
+    "assistance électrique": {
+      "moteur": "Bafang M410, 80 Nm, 250 W, 25 km/h",
+      "batterie": "Bafang Intube 630 Wh, 36 V, 17.5 Ah with BMS",
+      "écran": "DGT351 TFT led full function set w/bluetooth"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Altus SL-M2010, 1x9-vitesses",
+      "dérailleur arrière": "Shimano Acera RD-M3000, 9-vitesses",
+      "cassette": "Shimano CS-HG200, 11-34 Dents",
+      "pédalier": "Bafang, 170 mm, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT200, Hydr. Disc Brake, (180/180)",
+      "selle": "Signum Mtb, Performance line",
+      "tige de selle": "Signum Alloy, Black, 30.9 x 350 mm"
+    },
+    "roues": {
+      "jantes": "Signum XS3006, 32H, Disc, 29\"",
+      "pneus": "Rubena Scylla, Tanwall, 29 x 2.45\""
+    },
+    "direction": {
+      "cintre": "Signum Alloy oversize, 720 mm",
+      "potence": "Signum Alloy, 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre (cm)": 41,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 655,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1225
+    },
+    {
+      "taille de cadre (cm)": 46,
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 655,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1225
+    },
+    {
+      "taille de cadre (cm)": 51,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 655,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1225
+    }
+  ]
+}

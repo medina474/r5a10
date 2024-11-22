@@ -1,0 +1,171 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2494797",
+  "tailles": [
+    "S / 161-170 cm",
+    "M / 169-178 cm",
+    "L / 177-186 cm",
+    "XL / 185-197 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cube Stereo One55 C:62 Race Sram GX/NX Eagle 12V 29'' Gris Light 2023",
+  "marque": "Cube",
+  "description": "Élégance ou robustesse ? Avec le Cube Stereo One55 C:62 vous n’avez pas à choisir. Les lignes élégantes de son cadre bénéficiant du processus de construction Advanced Twin Mold C:62® sont ce que vous remarquerez en premier, mais, comme toujours, le diable se trouve dans les détails. Son jeu de direction ajustable intégré permet de choisir différents angles de tube de direction. Vous pouvez ainsi ajuster vos performances en fonction de vos préférences. La coque du boîtier de pédalier fileté est robuste et pratique, et se combine avec un support de fixation pour guide de chaîne ISCG 05. Il dispose d’un compartiment de rangement intégré au tube diagonal, avec suffisamment de place pour un multi-outil et bien d’autres choses par exemple. Avec son débattement de 155 mm à l’arrière et celui de 160 mm à l’avant, il n’existe tout simplement pas de meilleur moyen de se lancer sur les chemins de montagne et d’être le premier à en atteindre le sommet.\r\n\r\nLe voici : le VTT tout-suspendu robuste, aussi fiable pour descendre les sommets alpins à vive allure qu’agile et sécurisé pour entreprendre de longues ascensions. Le Cube Stereo One55 C:62 Race dispose d’un cadre en carbone C:62® avec jeu de direction ajustable intégré. Il est équipé d'une fourche RockShox Lyrik Select+ et d'un amortisseur Super Deluxe Select+, car ils offrent d'incroyables capacités d’absorption. Les roues Newmen Evolution, les pneus Maxxis et les freins à disque hydrauliques Magura MT Thirty vous garantissent un contrôle total. Enfin, son système de transmission Sram GX/NX Eagle 1x12 vitesses possède la profondeur nécessaire pour vous attaquer en toute facilité à n’importe quel type d’itinéraire. Cet ensemble ne connait aucune limite.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/797/494797/2494797/4887014",
+  "mpn": "655100S",
+  "gtin13": "4054571406330",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 161-170 cm",
+      "stock": 1,
+      "prix": 2899.99,
+      "mpn": "655100S",
+      "sku": "2397539",
+      "gtin13": "4054571406330",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2560610-vtt_tout_suspendu_cube_stereo_one55_c_62_race_sram_gx_nx_eagle_12v_29___gris_light_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 169-178 cm",
+      "stock": 1,
+      "prix": 2899.99,
+      "mpn": "655100M",
+      "sku": "2397455",
+      "gtin13": "4054571406347",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2560610-vtt_tout_suspendu_cube_stereo_one55_c_62_race_sram_gx_nx_eagle_12v_29___gris_light_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-186 cm",
+      "stock": 1,
+      "prix": 2899.99,
+      "mpn": "655100L",
+      "sku": "2397538",
+      "gtin13": "4054571406354",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2560610-vtt_tout_suspendu_cube_stereo_one55_c_62_race_sram_gx_nx_eagle_12v_29___gris_light_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-197 cm",
+      "stock": 1,
+      "prix": 2899.99,
+      "mpn": "655100XL",
+      "sku": "2397521",
+      "gtin13": "4054571406361",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2560610-vtt_tout_suspendu_cube_stereo_one55_c_62_race_sram_gx_nx_eagle_12v_29___gris_light_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "lightgrey´n´grey"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.1,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 155,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX/NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:62 Monocoque Advanced Twin Mold Technology, ISCG05, Boost 148, UDH™, 155 mm travel, Width tire maximum: 64 mm",
+      "fourche": "RockShox Lyrik Select+, Tapered, Boost 15x110 mm, 160 mm travel",
+      "amortisseur": "RockShox Super Deluxe Select+ DebonAir, 205x60 mm, Low Speed Compression & Rebound Adjust, Lockout / Entretoises d'amortisseur : 54 mm Trunnion Mount (Haut), 22x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX Eagle Trigger, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12-vitesses",
+      "cassette": "Sram XG-1275 Eagle, 10-52 Dents",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Sram GX Eagle, Boost, DUB, 170 mm, 30 Dents"
+    },
+    "équipements": {
+      "freins": "Magura MT Thirty, Hydr. Disc Brake, (203/180)",
+      "selle": "Natural Fit Venec",
+      "tige de selle": "Cube Dropper Post, Handlebar Lever, Internal Cable Routing, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Evolution SL A.30, 28/28 Spokes, Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneus": "Avant : Maxxis Assegai, MaxxGrip/EXO+, Tubeless Ready, 29x2.5\" WT / Arrière : Maxxis Minion DHR II, MaxxTerra/EXO+, Tubeless Ready, 29x2.4\" WT"
+    },
+    "direction": {
+      "cintre": "Race Face Chester 35, 780 mm",
+      "poignées": "Acid Disrupt, Soft Compound",
+      "potence": "Race Face Aeffect R 35",
+      "jeu de direction": "Acros AZF-675, ICR (Integrated Cable Routing), Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm), Fiber Inserts for Angle Adjustment"
+    },
+    "accessoires": "Acid Downtube Storage Bag",
+    "référence": 655100
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur* (mm)": "565 / 567",
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 100,
+      "angle de direction* (°)": "64.2 / 64.8",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1196 / 1188",
+      "stack* (mm)": "623 / 625",
+      "reach* (mm)": "427 / 425",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 420,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 405,
+      "tube supérieur* (mm)": "591 / 592",
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 103,
+      "angle de direction* (°)": "64.2 / 64.8",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1222 / 1215",
+      "stack* (mm)": "625 / 627",
+      "reach* (mm)": "452 / 450",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "619 / 621",
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 113,
+      "angle de direction* (°)": "64.2 / 64.8",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1252 / 1244",
+      "stack* (mm)": "634 / 636",
+      "reach* (mm)": "477 / 475",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "650 / 652",
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 133,
+      "angle de direction* (°)": "64.2 / 64.8",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1285 / 1277",
+      "stack* (mm)": "652 / 654",
+      "reach* (mm)": "502 / 500",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2570926",
+  "tailles": [
+    "S / 157-170 cm",
+    "M / 168-180 cm",
+    "L / 178-191 cm",
+    "XL / 188-201 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "3T Exploro Primo Sram Rival 11V 700 mm Violet Grape 2023",
+  "marque": "3T",
+  "description": "Allez lentement, mais plus vite ! Le cadre du 3T Exploro Primo est le tout premier cadre gravel aéro, conçu pour être rapide et confortable sur la route et sur les chemins. Il permet d'accueillir des pneus larges, jusqu'à 54 mm de section, pour s'adapter à différents terrains. Les formes aérodynamiques de son cadre ont été étudiées à des vitesses réelles et dans de vraies conditions de roulage, quel que soit le terrain. Avec sa géométrie compacte et son design épuré (tubes Sqaero, passage des gaines en interne, serrage de selle intégré, etc …), l’Exploro est un gravel bike « aéro » qui permet des accélérations phénoménales et un grip impressionnant sur tous les terrains.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/926/570926/2570926/5184148",
+  "mpn": "9239CVBA32W",
+  "gtin13": "4895211828538",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 157-170 cm",
+      "stock": 2,
+      "prix": 2499.99,
+      "mpn": "9239CVAX32W",
+      "sku": "2650423",
+      "gtin13": "4895211828507",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2683463-gravel_bike_3t_exploro_primo_sram_rival_11v_700_mm_violet_grape_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 5,
+      "prix": 2499.99,
+      "mpn": "9239CVAY32W",
+      "sku": "2650427",
+      "gtin13": "4895211828514",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2683463-gravel_bike_3t_exploro_primo_sram_rival_11v_700_mm_violet_grape_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-191 cm",
+      "stock": 5,
+      "prix": 2499.99,
+      "mpn": "9239CVAZ32W",
+      "sku": "2562529",
+      "gtin13": "4895211828521",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2683463-gravel_bike_3t_exploro_primo_sram_rival_11v_700_mm_violet_grape_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-201 cm",
+      "stock": 1,
+      "prix": 2499.99,
+      "mpn": "9239CVBA32W",
+      "sku": "2562516",
+      "gtin13": "4895211828538",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2683463-gravel_bike_3t_exploro_primo_sram_rival_11v_700_mm_violet_grape_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Grape"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Rival 1 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : 3T Exploro Primo, Unidirectional pre-preg carbon, High-modulus/high-strength performance blend layup, Width tire maximum: 54 mm",
+      "fourche": "Carbone : 3T Fango"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Rival 1, 1x11-Vitesses",
+      "dérailleur arrière": "Sram Rival 1, Long Cage, 11-Vitesses",
+      "cassette": "Sram Rival, 11-42 Dents",
+      "pédalier": "Sram Rival 1 (ou FSA Omega), 42 Dents"
+    },
+    "équipements": {
+      "freins": "Sram Rival, Hydr. Disc Brake, Sram Rotors (160/160)",
+      "selle": "---",
+      "tige de selle": "3T Exploro, Carbon"
+    },
+    "roues": {
+      "jantes": "Fulcrum Rapid Red 900, 700c, tubeless ready"
+    },
+    "direction": {
+      "cintre": "---",
+      "potence": "Apto Stealth",
+      "jeu de direction": "Sealed cartridge 1.125\" - 1.5\""
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 463,
+      "tube supérieur (mm)": 529,
+      "longueur base (mm)": 415,
+      "douille de direction (mm)": 101,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 517,
+      "reach (mm)": 366
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 550,
+      "longueur base (mm)": 415,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71.1,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 546,
+      "reach (mm)": 378
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 518,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 415,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 575,
+      "reach (mm)": 390
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 545,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 415,
+      "douille de direction (mm)": 180,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 604,
+      "reach (mm)": 402
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2494077",
+  "tailles": [
+    "M / 162-172 cm",
+    "L / 170-182 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Trail Women's 8 MicroShift Mezzo 8V 29'' Bleu Nuit",
+  "marque": "Cannondale",
+  "description": "Passez au niveau supérieur ! Le Cannondale Trail Women's 8 est un VTT semi-rigide conçu pour élever votre jeu et enflammer une passion pour le trail. Il est conçu pour la montagne et prêt à tout. La construction aluminium SmartForm C3, à la fois simple et sophistiquée, se traduit par un cadre léger et réactif qui surpasse tout ce qui se fait dans cette catégorie. Le système de micro-suspension \"SAVE\" assure plus de confort et un meilleur contrôle grâce à des zones de flexion créées dans des endroits stratégiques du triangle arrière.\r\n\r\nLe Trail est équipé de roues 27.5\" pour les plus petites tailles, et de roues 29\" pour les autres tailles, afin de garantir le meilleur mélange d’ajustement, de rapidité et de plaisir au cycliste.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/77/494077/2494077/4884352",
+  "mpn": "C26651F30LG",
+  "gtin13": "884603932650",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-182 cm",
+      "stock": 3,
+      "prix": 449.99,
+      "mpn": "C26651F30LG",
+      "sku": "2438895",
+      "gtin13": "884603932650",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2559886-vtt_semi_rigide_cannondale_trail_women_s_8_microshift_mezzo_8v_29___bleu_nuit"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Blue Midnight"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "microSHIFT Mezzo 8V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : SmartForm C3 Alloy, SAVE, 1-1/8\" headtube, post mount disc, StraightShot internal cable routing, dropper post compatible, BSA-73",
+      "fourche": "SR Suntour XCE28, 100mm, coil, 42mm offset (27.5\") 46mm offset (29\")"
+    },
+    "transmission": {
+      "manette de dérailleur": "microSHIFT, 2x8 vitesses",
+      "dérailleur arrière": "microSHIFT Mezzo RD-M36L, 8 vitesses",
+      "pédalier": "Prowheel, 36/22 Dents",
+      "boîtier de pédalier": "Sealed bearing cartridge, square taper",
+      "chaîne": "KMC X8, 8 vitesses",
+      "cassette": "Sunrace, 12-32 Dents"
+    },
+    "dérailleur avant": "microSHIFT Dual Pull Compact, Band Clamp",
+    "équipements": {
+      "freins": "Tektro M275 hydraulic disc, 160/160 mm rotors",
+      "selle": "Cannondale Stage 2 Women's",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 31.6 x 350/400 mm"
+    },
+    "roues": {
+      "jantes": "WTB SX19, 32h",
+      "pneus": "Schwalbe Rocket Rick, 29x2.25\" (27.5x2.25\" - XS, SM), K-Guard"
+    },
+    "moyeu avant": "Shimano HBTX 505 QR",
+    "moyeu arrière": "Shimano FHTX505 QR",
+    "direction": {
+      "cintre": "6061 Alloy Riser, 31.8 mm, 25 mm rise, 700 mm",
+      "poignées": "Cannondale Dual-Density",
+      "potence": "6061 Alloy, 31.8 mm, 8°",
+      "jeu de direction": "Semi Integrated, 1-1/8\""
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 330,
+      "tube supérieur (mm)": 535,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1054,
+      "stack (mm)": 573,
+      "reach (mm)": 365
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 381,
+      "tube supérieur (mm)": 577,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1098,
+      "stack (mm)": 591,
+      "reach (mm)": 402
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 432,
+      "tube supérieur (mm)": 609,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1140,
+      "stack (mm)": 623,
+      "reach (mm)": 4025
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 634,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1166,
+      "stack (mm)": 632,
+      "reach (mm)": 447
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 533,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1192,
+      "stack (mm)": 641,
+      "reach (mm)": 469
+    }
+  ]
+}

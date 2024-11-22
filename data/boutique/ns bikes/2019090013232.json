@@ -1,0 +1,104 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2511592",
+  "tailles": [
+    "M / 160-175 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "NS Bikes Eccentric Cromo Shimano Deore M6100 12V 29'' Rouge Foncé 2023",
+  "marque": "NS Bikes",
+  "description": "Restez vrai, restez Eccentric ! Une géométrie moderne et agressive, une très grande portée et des angles de tête super lâches. Les vélos Eccentric sont les hardtails du futur. Les grandes roues 29\" vous permettront de rouler sur tout sans aucun soucis tout en gardant la sensation d'être connecté avec la piste.\r\n\r\nVous n'avez pas besoin d'un VTT à suspension complète pour être rapide dans les montées et vous amuser dans les descentes ! Les vélos Eccentric sont disponibles en plusieurs versions. Si vous cherchez un VTT avec les pédales dures, choisissez entre le Cromo et l'Alu en fonction de vos préférences en matière de matériaux de cadre. Si vous souhaitez vous en servir pour des trail riding classique, les versions LITE suffiront amplement.\r\nUne géométrie radicale et moderne avec un très grand reach et un angle de tête super flex font de ce vélo l'outil idéal pour tous ceux qui aiment faire le plein d'essence ! Le cœur de ce magnifique 29\" est l'étonnant cadre en acier construit avec des tubes de tange étirés sur mesure avec des soufflets intégrés. Avec un poids d'environ 2,4 kg, le cadre est léger selon toutes les normes, mais ne vous inquiétez pas, il est assez solide pour résister à de nombreux abus. Tout le savoir-faire que nous avons réussi à acquérir au fil des ans dans la construction de queues de cheval en acier a été intégré dans ce cadre et nous sommes sûrs que c'est le meilleur que l'on puisse acheter. C'est vraiment un vélo à l'allure très unique et, grâce à l'arceau inclus dans l'emballage, il roule comme un rêve, tant en montée qu'en descente.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/592/511592/2511592/4937321",
+  "mpn": "NSB-00365",
+  "gtin13": "2019090013232",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-175 cm",
+      "stock": 1,
+      "prix": 1699.99,
+      "mpn": "NSB-00365",
+      "sku": "2511445",
+      "gtin13": "2019090013232",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2580283-vtt_semi_rigide_ns_bikes_eccentric_cromo_shimano_deore_m6100_12v_29___rouge_fonce_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 13.9,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Acier",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Acier : NS Bikes 4130 cromoly frame, built with Tange Eccentric tubes, Boost 148x12 dropouts",
+      "fourche": "RockShox Recon 140mm travel, 15x110mm Boost, 1.5 tapered steerer tube"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, 12-vitesses",
+      "cassette": "Sunrace CSMZ800, 12 vitesses, 11-51 Dents",
+      "chaîne": "Shimano Deore, 12-vitesses",
+      "pédalier": "Shimano Deore FCMT5101, 170 mm, 32 dents"
+    },
+    "boitier de pédalier": "Shimano BSA 73 mm",
+    "équipements": {
+      "freins": "Shimano MT410, 180/180 mm",
+      "selle": "Octane One Rocket2, CrMo hollow rails",
+      "tige de selle": "X-Fusion Manic internal 125, 150mm"
+    },
+    "roues": {
+      "jantes": "Octane One Solar 29”, 32h, tubeless compatible",
+      "pneus": "Avant : Maxxis DHF EXO/TR 29x2.5\" WT / Arrière : Maxxis Aggressor EXO/TR 29x2.5\" WT"
+    },
+    "direction": {
+      "cintre": "NS Bar 31.8, 780mm 20mm rise",
+      "poignées": "NS Hold Fast",
+      "potence": "NS Tone 31.8, 45mm",
+      "jeu de direction": "GW integrated tapered IS42/IS52, sealed bearings"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 412,
+      "tube supérieur (mm)": 609,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": "---",
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1183,
+      "stack (mm)": 641,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 634,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": "---",
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1203,
+      "stack (mm)": 641,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 662,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": "---",
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1232,
+      "stack (mm)": 650,
+      "reach (mm)": 475
+    }
+  ]
+}

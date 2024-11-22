@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2562132",
+  "tailles": [
+    "52 cm / 163-168 cm",
+    "54 cm / 168-174 cm",
+    "56 cm / 174-180 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Trek Checkpoint SL 7 Sram Force XPLR eTAP AXS 12V 700mm Noir Mat",
+  "marque": "Trek",
+  "description": "Le Checkpoint SL 7 AXS unit un cadre gravel en OCLV Carbon et la technologie IsoSpeed ainsi que des composants de pointe sélectionnés pour les performances et les qualités de comportement incroyables lors des aventures de gravel les plus dures. Une géométrie progressive agile, mais stable, une transmission électronique sans fil intelligente et fluide monoplateau 12 vitesses Sram Force XPLR AXS D2, des roues en carbone et un espace de rangement interne vous procurent le confort et les capacités pour vous lancer dans votre prochaine aventure sur gravier, terre ou tout-chemin.\r\n\r\nVous êtes à la recherche d’un vélo de gravel en carbone, assoiffé d’aventures, qui vous aidera à réaliser les sorties les plus dures et les plus longues. Vous souhaitez également profiter du changement de vitesse rapide et précis d’une transmission électronique sans fil de pointe et du confort supplémentaire offert par des roues en carbone sur terrain difficile.\r\n\r\nUn cadre en OCLV Carbon Série 500 avec IsoSpeed à l’arrière et une protection Carbon Armor, une géométrie progressive qui est stable lorsque vous roulez vite et efficace quand vous progressez dans une côte, un espace de rangement dans le cadre, des câbles masqués qui ne gêneront pas les sacoches, des fixations de sacoche de cadre intégrées et des fixations de porte-bagages et de garde-boue. Sans oublier une fourche en carbone, une transmission électronique sans fil monoplateau 12 vitesses Sram Force XPLR AXS D2 avec une cassette à large plage de rapports, et des roues Bontrager Aeolus Pro 3V en OCLV Carbon. Vous pouvez même installer une tige de selle télescopique pour abaisser le centre de gravité sur les longues descentes. Compatible avec des pneus 45C maximum.\r\n\r\nCe vélo a été conçu pour résister aux épreuves de gravel et aux aventures de bikepacking les plus exigeantes. Il est léger, rapide, confortable et doté de composants professionnels comme une transmission électronique de pointe et des roues en carbone.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/132/562132/2562132/5167526",
+  "mpn": "5297996",
+  "gtin13": "601479106486",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "52 cm / 163-168 cm",
+      "stock": 1,
+      "prix": 5299.99,
+      "mpn": "5297996",
+      "sku": "2558949",
+      "gtin13": "601479106486",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2678048-gravel_bike_trek_checkpoint_sl_7_sram_force_xplr_etap_axs_12v_700mm_noir_mat"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 168-174 cm",
+      "stock": 1,
+      "prix": 5299.99,
+      "mpn": "5297997",
+      "sku": "2558830",
+      "gtin13": "601479106646",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2678048-gravel_bike_trek_checkpoint_sl_7_sram_force_xplr_etap_axs_12v_700mm_noir_mat"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 174-180 cm",
+      "stock": 2,
+      "prix": 5299.99,
+      "mpn": "5297998",
+      "sku": "2558948",
+      "gtin13": "601479106165",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2678048-gravel_bike_trek_checkpoint_sl_7_sram_force_xplr_etap_axs_12v_700mm_noir_mat"
+    }
+  ],
+  "informations": {
+    "poids constructeur (en g)": 9050,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Force XPLR eTap AXS 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre (cm)": 49,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 541,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 74.1,
+      "empattement (mm)": 1025,
+      "stack (mm)": 538,
+      "reach (mm)": 393
+    },
+    {
+      "taille cadre (cm)": 52,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 71.6,
+      "angle tube de selle (°)": 73.7,
+      "empattement (mm)": 1033,
+      "stack (mm)": 553,
+      "reach (mm)": 399
+    },
+    {
+      "taille cadre (cm)": 54,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71.8,
+      "angle tube de selle (°)": 73.2,
+      "empattement (mm)": 1041,
+      "stack (mm)": 571,
+      "reach (mm)": 403
+    },
+    {
+      "taille cadre (cm)": 56,
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 72.2,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1048,
+      "stack (mm)": 592,
+      "reach (mm)": 407
+    },
+    {
+      "taille cadre (cm)": 58,
+      "tube de selle (mm)": 580,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 165,
+      "angle de direction (°)": 72.3,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1058,
+      "stack (mm)": 609,
+      "reach (mm)": 411
+    },
+    {
+      "taille cadre (cm)": 61,
+      "tube de selle (mm)": 610,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 195,
+      "angle de direction (°)": 72.6,
+      "angle tube de selle (°)": 72.1,
+      "empattement (mm)": 1070,
+      "stack (mm)": 639,
+      "reach (mm)": 417
+    }
+  ]
+}

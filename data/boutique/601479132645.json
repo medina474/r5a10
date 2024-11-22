@@ -1,0 +1,148 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2542599",
+  "tailles": [
+    "M / 165-177 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Trek Marlin+ 6 Shimano Cues U4000 9V 400 Wh 29'' Rouge 2024",
+  "marque": "Trek",
+  "description": "Le Marlin+ 6 est un VTTAE prêt à donner de l’énergie à vos sorties sur les trails sans vous ruiner. Il est équipé de la même géométrie ludique que le Marlin traditionnel, avec la puissance ajoutée de la transmission Active Line Plus de Bosch. Une fourche télescopique de 120 mm absorbe les chocs des pierres, des racines et des nids-de-poule, et la transmission 9 vitesses CUES de Shimano est durable et fiable, où que vous rouliez.\r\n\r\nVous voulez un coup de pouce sur le trail sans dépenser des milles et des cents. Vous aimez la polyvalence du Marlin pour rouler en ville comme sur les trails, et vous voulez un vélo qui vous laisse rouler un peu plus vite ou aller un peu plus loin.\r\n\r\nUn cadre en aluminium Alpha Platinum avec une géométrie de véritable VTT et une fourche à ressort de 120 mm. Une transmission fiable Active Line Plus 50 Nm de Bosch, capable de vous assister jusqu’à des vitesses de 25 km/h. Une télécommande Purion 200 compacte avec écran intégré. Des freins à disque hydrauliques et une transmission 9 vitesses CUES de Shimano qui offre de bonnes performances, même sous charge.\r\n\r\nLe Marlin+ est le vélo incontournable pour les cyclistes voulant s’aventurer dans le monde des VTTAE. Le cadre adapté aux trails vous permet de contrôler le vélo avec confiance, et le moteur Active Line Plus de Bosch est suffisamment puissant pour réduire la fatigue des longues ascensions.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/599/542599/2542599/5129954",
+  "mpn": "5294476",
+  "gtin13": "601479132645",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 50,
+      "prix": 2799,
+      "mpn": "5294476",
+      "sku": "2558853",
+      "gtin13": "601479132645",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2663869-vtt_electrique_semi_rigide_trek_marlin__6_shimano_cues_u4000_9v_400_wh_29___rouge_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 33,
+      "prix": 2799,
+      "mpn": "5294477",
+      "sku": "2558849",
+      "gtin13": "601479132621",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2663869-vtt_electrique_semi_rigide_trek_marlin__6_shimano_cues_u4000_9v_400_wh_29___rouge_2024"
+    }
+  ],
+  "informations": {
+    "poids": "M - 22.45 kg / 49.5 lbs (avec chambres) / Ce vélo affiche une limite de poids total maximale (comprenant le poids du vélo, du cycliste et des bagages) de 136 kg (300 livres).",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Cues 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Taille XS : Aluminium Alpha Platinum, tube horizontal courbe, tube de direction conique, acheminement interne, fixation de porte-bagages, garde-boue et béquille, UDH, Boost148, axe traversant 12 mm Taille S, M, L, XL : Aluminium Alpha Platinum, tube de direction conique, acheminement interne, fixation de porte-bagages, garde-boue et béquille, UDH, Boost148, axe traversant 12 mm",
+      "fourche": "Taille XS : SR Suntour XCM 34, ressort hélicoïdal, précontrainte, blocage, pivot conique, déport de 44 mm, Boost110, axe traversant 15 mm, débattement de 100 mm  Taille S , M , L , XL : SR Suntour XCM 34, ressort hélicoïdal, précontrainte, blocage, pivot conique, déport de 44 mm, Boost110, axe traversant 15 mm, débattement de 120 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Active Line Plus, 50 Nm, 25 km/h",
+      "batterie": "Bosch CompactTube 400 Wh",
+      "écran": "Bosch Purion 200, système intelligent"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano U4000, 9 vitesses",
+      "dérailleur arrière": "Shimano CUES U4000",
+      "cassette": "Shimano LinkGlide LG300, 11-46, 9 vitesses",
+      "chaîne": "Shimano LG500, 9/10/11 vitesses",
+      "pédalier": "FSA CK-220, longueur de 165 mm, plateau FSA, 32 dents, acier"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Tektro HD-M275, disques Tektro, 6 trous, 203/203 mm",
+      "pédales": "VP-536, plateforme, nylon",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille XS , S : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 330 mm Taille M : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 360 mm Taille L , XL : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 400 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Connection, double paroi, 32 trous, largeur de 20 mm, valve Presta",
+      "pneus": "Taille XS, S : Bontrager XT3 Comp, tringle rigide, 30 tpi, 27,5x2,40 pouces Taille M, L, XL : Bontrager XT3 Comp, tringle rigide, 30 tpi, 29x2,40 pouces"
+    },
+    "direction": {
+      "cintre": "Taille XS, S : Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 720 mm Taille M, L, XL : Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 750 mm",
+      "poignées": "Bontrager XR Endurance Comp, lock-on",
+      "potence": "Taille XS, S : Bontrager alliage, 31,8 mm, compatible Blendr, 7 degrés, longueur de 35mm Taille M, L : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 50 mm Taille XL : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 60 mm",
+      "jeu de direction": "Semi-intégré, roulement à billes lâches, 1,125 pouce sur le haut, 1,5 pouce sur le bas"
+    },
+    "couleur": "Crimson"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues": "27.5\"",
+      "tube de selle (mm)": 340,
+      "tube supérieur (mm)": 551,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1129,
+      "stack (mm)": 563,
+      "reach (mm)": 390
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues": "27.5\"",
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1166,
+      "stack (mm)": 590,
+      "reach (mm)": 415
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1218,
+      "stack (mm)": 626,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 652,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1251,
+      "stack (mm)": 635,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 682,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1284,
+      "stack (mm)": 653,
+      "reach (mm)": 495
+    }
+  ]
+}

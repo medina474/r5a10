@@ -1,0 +1,167 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2336718",
+  "tailles": [
+    "47 cm / 156-166 cm",
+    "51 cm / 166-174 cm",
+    "54 cm / 172-180 cm",
+    "56 cm / 178-186 cm",
+    "58 cm / 184-192 cm",
+    "61 cm / 190-200 cm"
+  ],
+  "name": "Vélo de Route BMC Roadmachine X Two Sram Rival eTap AXS 12V 700 mm Jaune Lime 2023",
+  "marque": "BMC",
+  "description": "Le BMC Roadmachine X étend la portée du Roadmachine bien au-delà des routes goudronnées, ouvrant un nombre infini de possibilités pour aller du point A au point B en passant par C, D et E. Sa fourche et son cadre en carbone haut de gamme ont été conçus à l’aide de la technologie TCC Endurance. Ils sont associés à un passage de câbles interne, à une tige de selle en forme de D en carbone haut de gamme et à une potence ICS de pointe avec technologie Micro Travel, pour plus de confort sur les surfaces cahoteuses. Doté d’un groupe 1x12 vitesses sans fil Sram Rival eTap AXS, de roues compatibles tubeless 25 mm XRD-522 et de pneus WTB de 32 mm, le Roadmachine X Two est prêt à rouler sur toutes les routes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/718/336718/2336718/4342924",
+  "mpn": "30002470",
+  "gtin13": "7630027885149",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 178-186 cm",
+      "stock": 2,
+      "prix": 2899.99,
+      "mpn": "30002470",
+      "sku": "2191057",
+      "gtin13": "7630027885149",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2362308-velo_de_route_bmc_roadmachine_x_two_sram_rival_etap_axs_12v_700_mm_jaune_lime_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Lime Yellow / Black"
+    }
+  ],
+  "informations": {
+    "poids maximum": "110 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Sram Rival eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Roadmachine X Premium Carbon with Tuned Compliance Concept Endurance, Internal Cable Routing, PF86 Bottom Bracket, Flat Mount Disc, 12x142 mm Thru-Axle, Tire Clearance: 33 mm (Measured Width)",
+      "fourche": "Carbone : Roadmachine X Premium Carbon with Tuned Compliance Concept Endurance, Internal Cable Routing, Flat Mount Disc, 12x100 mm Thru-Axle, 50 mm Offset (Size 47-51), 45 mm Offset (Size 54-61)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Rival eTap AXS, 1x12-vitesses",
+      "dérailleur arrière": "Sram Rival XPLR eTap AXS, 12-vitesses",
+      "cassette": "Sram XPLR XG-1251, 10-44 Dents",
+      "chaîne": "Sram Rival",
+      "pédalier": "Sram Rival AXS 1, 44 Dents",
+      "boîtier de pédalier": "PF86"
+    },
+    "équipements": {
+      "freins": "Sram Rival eTap AXS HRD, Hydr. Disc Brake, Paceline Rotors (160/160)",
+      "selle": "Fizik Terra Argo X3",
+      "tige de selle": "Roadmachine X Premium Carbon D-Shaped Seatpost, 15 mm Offset"
+    },
+    "roues": {
+      "jantes": "Jantes : XRD-522, Tubeless Ready, 25 mm / Moyeux : XRD-522",
+      "pneus": "WTB Expanse, 32-622, 700x32 mm"
+    },
+    "direction": {
+      "cintre": "BMC RAB 02, Ergo Top Shape, Compact Bend, 70 mm reach, 125 mm drop",
+      "potence": "ICS MTT x Redshift Suspension Stem, Integrated Cockpit Design"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre (cm)": 47,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 522,
+      "longueur base (mm)": 410,
+      "douille de direction (mm)": 112,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 74.2,
+      "empattement (mm)": 982,
+      "stack (mm)": 516,
+      "reach (mm)": 374,
+      "longueur potence (mm)": 80,
+      "largeur cintre (mm)": 400,
+      "déport fourche (mm)": 50,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre (cm)": 51,
+      "tube de selle (mm)": 457,
+      "tube supérieur (mm)": 532,
+      "longueur base (mm)": 410,
+      "douille de direction (mm)": 139,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 74.2,
+      "empattement (mm)": 999,
+      "stack (mm)": 541,
+      "reach (mm)": 382,
+      "longueur potence (mm)": 90,
+      "largeur cintre (mm)": 420,
+      "déport fourche (mm)": 50,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre (cm)": 54,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 546,
+      "longueur base (mm)": 410,
+      "douille de direction (mm)": 156,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 74.2,
+      "empattement (mm)": 997,
+      "stack (mm)": 562,
+      "reach (mm)": 386,
+      "longueur potence (mm)": 100,
+      "largeur cintre (mm)": 420,
+      "déport fourche (mm)": 45,
+      "longueur manivelles (mm)": 172.5
+    },
+    {
+      "taille de cadre (cm)": 56,
+      "tube de selle (mm)": 522,
+      "tube supérieur (mm)": 556,
+      "longueur base (mm)": 410,
+      "douille de direction (mm)": 181,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 74.2,
+      "empattement (mm)": 1008,
+      "stack (mm)": 586,
+      "reach (mm)": 390,
+      "longueur potence (mm)": 100,
+      "largeur cintre (mm)": 420,
+      "déport fourche (mm)": 45,
+      "longueur manivelles (mm)": 172.5
+    },
+    {
+      "taille de cadre (cm)": 58,
+      "tube de selle (mm)": 539,
+      "tube supérieur (mm)": 568,
+      "longueur base (mm)": 410,
+      "douille de direction (mm)": 206,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 74.2,
+      "empattement (mm)": 1020,
+      "stack (mm)": 610,
+      "reach (mm)": 394,
+      "longueur potence (mm)": 110,
+      "largeur cintre (mm)": 420,
+      "déport fourche (mm)": 45,
+      "longueur manivelles (mm)": 175
+    },
+    {
+      "taille de cadre (cm)": 61,
+      "tube de selle (mm)": 573,
+      "tube supérieur (mm)": 583,
+      "longueur base (mm)": 410,
+      "douille de direction (mm)": 242,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 74.2,
+      "empattement (mm)": 1035,
+      "stack (mm)": 644,
+      "reach (mm)": 398,
+      "longueur potence (mm)": 110,
+      "largeur cintre (mm)": 440,
+      "déport fourche (mm)": 45,
+      "longueur manivelles (mm)": 175
+    }
+  ]
+}

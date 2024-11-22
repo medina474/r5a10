@@ -1,0 +1,87 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2534040",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Habit HT 3 MicroShift Advent X 10V 29'' Vert Jade",
+  "marque": "Cannondale",
+  "description": "La capacité de rouler à fond sur les sentiers rencontre la pureté et la simplicité d'un hardtail. C'est la beauté de l'Habit HT 3.\r\nUn minimum d'agitation. Un maximum de plaisir.\r\n\r\nLorsqu’il s’agit de prendre du plaisir, le Habit HT ne fait pas les choses à moitié. Son magnifique et robuste cadre aluminium supporte tout ce que la piste lui inflige et en redemande.\r\n\r\nLe Habit LT est fait pour donner libre cours à vos envies. Sa géométrie trail équilibrée est faite pour dévorer les kilomètres et franchir les obstacles sans faillir. Joueur ? Oui ! Stable ? Très. Du plaisir ? Vous n’en avez même pas idée !\r\n\r\nFourche robuste de 130 mm de débattement Jantes larges et gros pneus. Transmission mono-plateau avec plage de rapports étendue, freins puissants et tige de selle télescopique. Avec ses composants robustes, le Habit HT ne vous laissera pas tomber lorsque vous voudrez attaquer et foncer.\r\n\r\nUne maniabilité incroyable s’explique par une géométrie incroyable. L’angle relâché du tube de direction à 64° et la partie avant allongée offrent à la fois stabilité et confiance de pilotage à vitesse élevée, tandis que le triangle arrière compact et l’angle du tube de selle de 76° favorisent l’agilité et vous aident à transmettre la force de pédalage dans les montées.\r\n\r\nLa tige de selle télescopique est fournie en standard, comme elle devrait toujours l’être. Tige de selle moins haute = plus de « fun » !\r\n\r\nLes cinq points de fixation filetés sur le cadre vous offrent de nombreuses possibilités d’installation de bidons, pompe et équipement. Ajoutez notre accessoire de transport StrapRack pour vos outils, chambres à air ou tout ce que vous voulez emporter avec vous.\r\n\r\nLe support de dérailleur est un héros discret. Il est conçu pour plier ou casser en cas de choc au niveau du dérailleur. Avec le support de dérailleur universel (UDH), il est facile de trouver une pièce de rechange et de l’installer. Cela signifie aussi que le cadre est compatible avec les transmissions Sram Type T.\r\n\r\nLe cadre en aluminium SmartForm C2 offre un équilibre parfait entre robustesse et raffinement. Le tube de direction usiné, le renforcement interne des tubes et les goussets de renfort sont le fruit de plusieurs dizaines d’années d’expérience dans la conception et la fabrication en aluminium.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/40/534040/2534040/5113431",
+  "mpn": "C26302U20XL",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-195 cm",
+      "stock": 1,
+      "prix": 799.99,
+      "mpn": "C26302U20XL",
+      "sku": "2151712",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2610665-vtt_semi_rigide_cannondale_habit_ht_3_microshift_advent_x_10v_29___vert_jade"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "microSHIFT Advent X 10V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 573,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1177,
+      "stack (mm)": 634,
+      "reach (mm)": 415
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1206,
+      "stack (mm)": 643,
+      "reach (mm)": 440
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 628,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1235,
+      "stack (mm)": 653,
+      "reach (mm)": 465
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 665,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 64,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1275,
+      "stack (mm)": 662,
+      "reach (mm)": 500
+    }
+  ]
+}

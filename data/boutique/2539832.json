@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2539832",
+  "tailles": [
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Scalpel HT Carbone 1 Sram X0 Eagle AXS 12V 29''",
+  "marque": "Cannondale",
+  "description": "Le Scalpel HT est un semi-rigide de course XC qui vous en donne plus. Plus de ce que vous aimez dans un semi-rigide - l'accélération, explosivité et la sensation de montée plus légère que l'air, plus un petit quelque chose en plus. La fourche Lefty Ocho offre une suspension avant de 110 mm pour une régularité, un confort et une précision inégalés.\r\nLa géométrie du Scalpel HT Carbone 1 renforce la stabilité et le contrôle sur les terrains les plus difficiles, tout en conservant l'agilité et la réactivité nécessaire au pilotage cross-country.\r\n\r\nUne suspension avant de 110 mm offrant une régularité, un confort et une précision inégalés. Le déport de fourche important apporte un surcroît d’agilité au triangle avant super stable. Un meilleur contrôle, pour foncer encore plus vite.\r\n\r\nLes zones de flexion créées dans les bases arrière fonctionnent en association avec les haubans abaissés pour supprimer les secousses sur les terrains accidentés, dompter les bosses et réduire la fatigue. Attaquez. Foncez. Allez plus loin.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/832/539832/2539832/5123514",
+  "mpn": "C25103U20LG",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 2,
+      "prix": 3999.99,
+      "mpn": "C25103U20LG",
+      "sku": "2439760",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2616478-vtt_semi_rigide_cannondale_scalpel_ht_carbone_1_sram_x0_eagle_axs_12v_29"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Matte Black"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 110,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram X0 Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Scalpel HT Carbon, Proportional Response Design, PF30-83, tapered head tube, 55mm chainline, Speed Release 12mm thru axle w/UDH hanger",
+      "fourche": "Lefty Ocho 120 Carbon, 110mm, Chamber Damper with remote lockout, OppO Spring System, tapered steerer, 50mm offset"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram AXS T-Type Pod Controller",
+      "dérailleur arrière": "Sram X0 Eagle AXS, T-Type, 12-vitesses",
+      "cassette": "Sram X0 Eagle, 10-52 Dents, T-Type, 12-vitesses",
+      "chaîne": "Sram X0, T-Type",
+      "pédalier": "Sram X0, T-Type, 34 dents",
+      "boîtier de pédalier": "Sram PF30 MTB83"
+    },
+    "équipements": {
+      "freins": "Shimano XT, 160/160 SLX",
+      "selle": "Prologo Dimension NDR, Tirox rails",
+      "tige de selle": "Cannondale C1 Carbon, 27.2x400mm"
+    },
+    "roues": {
+      "jantes": "HollowGram 25, Superlight Hi-Impact Carbon, 28h, 25mm inner width, tubeless ready",
+      "moyeux": "Avant : HollowGram Lefty 60 / Arrière : HollowGram w/DT Swiss Star Ratchet internals, 12x148mm thru-axle",
+      "pneu avant": "e Racing RAy ",
+      "pneu arrière": "lph"
+    },
+    "direction": {
+      "cintre": "Cannondale 1 Flat, Carbon, 31.8mm, 9° backsweep, 760mm",
+      "potence": "Cannondale 1, 7075 Alloy, 1-1/8\", 31.8, 7°"
+    },
+    "grips": "Cannondale XC Silicone"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 572,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 99,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1123,
+      "stack (mm)": 607,
+      "reach (mm)": 404
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 594,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1151,
+      "stack (mm)": 617,
+      "reach (mm)": 423
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 122,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.6,
+      "empattement (mm)": 1181,
+      "stack (mm)": 629,
+      "reach (mm)": 444
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 642,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.6,
+      "empattement (mm)": 1212,
+      "stack (mm)": 641,
+      "reach (mm)": 465
+    }
+  ]
+}

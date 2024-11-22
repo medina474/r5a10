@@ -1,0 +1,117 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2461659",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "name": "VTT Tout Suspendu Cannondale Habit 3 29'' Sram NX Eagle 12V Gris",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Habit 3, un VTT de trail fait pour grimper, foncer sur terrain plat et dévaler les descentes. Un vélo pour toutes les situations et tout pour le plaisir !\r\n\r\nRoulez l’esprit tranquille... une protection robuste en caoutchouc prend soin de votre tube diagonal.\r\n\r\nLe centre de gravité du rider influence la performance de la suspension, mais la plupart des vélos utilisent la même configuration pour toutes les tailles. Avec la conception Proportional Response, la configuration de la suspension varie selon la taille du cadre, pour une performance nettement supérieure.\r\n\r\nUne géométrie de cadre spécifique à la taille, jusqu’aux bases arrière. Maintient la position du rider centrée entre les roues pour une traction et une maniabilité inégalées.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/659/461659/2461659/4712328",
+  "mpn": "C23301U10MD",
+  "gtin13": "884603920190",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 154-165 cm",
+      "stock": 3,
+      "prix": 1999.99,
+      "mpn": "C23301U10SM",
+      "sku": "2439722",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2505529-vtt_tout_suspendu_cannondale_habit_3_29___sram_nx_eagle_12v_gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-175 cm",
+      "stock": 5,
+      "prix": 1999.99,
+      "mpn": "C23301U10MD",
+      "sku": "2438871",
+      "gtin13": "884603920190",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2505529-vtt_tout_suspendu_cannondale_habit_3_29___sram_nx_eagle_12v_gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 2,
+      "prix": 1999.99,
+      "mpn": "C23301U10LG",
+      "sku": "2438890",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2505529-vtt_tout_suspendu_cannondale_habit_3_29___sram_nx_eagle_12v_gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-195 cm",
+      "stock": 2,
+      "prix": 1999.99,
+      "mpn": "C23301U10XL",
+      "sku": "2439816",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2505529-vtt_tout_suspendu_cannondale_habit_3_29___sram_nx_eagle_12v_gris"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 563,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1170,
+      "stack (mm)": 623,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1200,
+      "stack (mm)": 632,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 72.3,
+      "empattement (mm)": 1236,
+      "stack (mm)": 641,
+      "reach (mm)": 480
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 654,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1275,
+      "stack (mm)": 650,
+      "reach (mm)": 515
+    }
+  ]
+}

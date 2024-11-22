@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2540356",
+  "tailles": [
+    "44 cm / 152-162 cm",
+    "47 cm / 160-170 cm",
+    "50 cm / 170-185 cm",
+    "53 cm / 183-193 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Fluide Shimano Sora 9v Gris / Noir 2023",
+  "marque": "Fluide",
+  "description": "Le gravel s'est rapidement intégré dans l'ADN des cyclistes plus comme un état d'esprit que comme une simple surface a exploiter.\r\nVélo pensé pour la route et les chemins, il sera votre meilleur allié dans toutes les situations, du simple vélotaff amélioré jusqu'au plus longues sorties Bikepacking.\r\nBoosté par la transmission Shimano Sora 2 x 9v,  il sait accélérer fort et franchir les obstacles.\r\nPensé pour le confort sur de longues sorties tout en laissant de l'espace pour la bagagerie, il pourrait bien devenir votre compagnon favori.\r\n  ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/356/540356/2540356/5142973",
+  "mpn": "AL.CG2802.3153",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "44 cm / 152-162 cm",
+      "stock": 25,
+      "prix": 649.99,
+      "mpn": "AL.CG2802.3144",
+      "sku": "2531014",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2616512-gravel_bike_fluide_shimano_sora_9v_gris___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "47 cm / 160-170 cm",
+      "stock": 90,
+      "prix": 649.99,
+      "mpn": "AL.CG2802.3147",
+      "sku": "2531015",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2616512-gravel_bike_fluide_shimano_sora_9v_gris___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "50 cm / 170-185 cm",
+      "stock": 71,
+      "prix": 649.99,
+      "mpn": "AL.CG2802.3150",
+      "sku": "2531017",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2616512-gravel_bike_fluide_shimano_sora_9v_gris___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "53 cm / 183-193 cm",
+      "stock": 17,
+      "prix": 649.99,
+      "mpn": "AL.CG2802.3153",
+      "sku": "2531016",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2616512-gravel_bike_fluide_shimano_sora_9v_gris___noir_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Titanium / Noir"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Shimano Sora 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Acier - 28''",
+      "fourche": "Rigide - Acier"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Sora RD3000 2 x 9 Vitesses",
+      "dérailleur arrière": "Shimano Sora RD3000 9 Vitesses",
+      "cassette": "Shimano HG400 11-32 9v",
+      "pédalier": "SHIMANO FC-R3000 34/50 x 170mm"
+    },
+    "équipements": {
+      "freins": "PROMAX DSK-300 Mech disc brakes Rotor 160-160",
+      "selle": "Selle Italia model-X Superflow",
+      "tige de selle": "SIGNUM Alloy 28.6"
+    },
+    "roues": {
+      "jantes": "SIGNUM Alloy 32h 28\" – SHIMANO M475 hubs",
+      "pneus": "Schwalbe g-one all around 700 x 38"
+    },
+    "direction": {
+      "cintre": "Zoom 211 Alloy 420mm",
+      "potence": "ZOOM C301 31.8mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": 44,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 513,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 998
+    },
+    {
+      "taille cadre": 47,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 520,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1001
+    },
+    {
+      "taille cadre": 50,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 538,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1009
+    },
+    {
+      "taille cadre": 53,
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 562,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1018
+    }
+  ]
+}

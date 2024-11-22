@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2445004",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-178 cm",
+    "L / 176-186 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cube Stereo One22 Pro Sram NX/SX Eagle 12V 29'' Gris Vert Swamp 2023",
+  "marque": "Cube",
+  "description": "Comme tous les cadres Cube, le cadre du Stereo One22 a été conçu pour offrir des performances ultimes avec un poids aussi minime que possible. Son tubage hydroformé à triple épaisseur permet de réduire le poids du cadre sans en sacrifier la robustesse. Son tube de direction conique et son axe arrière Boost 148 à l’arrière lui confèrent un pilotage de précision et une excellente efficacité de pédalage. Enfin, il a été entièrement développé autour de la cinématique Efficient Trail Control de Cube et d’une fourche de 130 mm, et l’Agile Trail Geometry vous garantit un contrôle de tous les instants. Il bénéficie même de l’option SizeSplit XS qui est dotée de roues de 27.5 pouces pour les cyclistes plus petits, mais qui souhaitent rester tout aussi performants.\r\n\r\nLe Cube Stereo One22 Pro établit de nouvelles normes en termes de confort, de contrôle et de dynamisme sur les chemins. Il est équipé d’une fourche suspendue RockShox Judy Silver et d’un amortisseur pneumatique Manitou Radium Expert pour mieux absorber les irrégularités du sol. Ses puissants freins à disque hydrauliques Magura MT Thirty sont couplés à des pneus Schwalbe ultra-adhérents afin que vous puissiez garder le contrôle de votre vitesse. Enfin, l’incroyable profondeur et la facilité d’usage de sa transmission Sram NX/SX Eagle 12 vitesses vous permettent de trouver le bon braquet en un clic ou deux, quel que soit le type de surface sur lequel vous évoluez. Il possède tous les atouts nécessaires pour repousser les limites de vos explorations tout terrain.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/4/445004/2445004/4677493",
+  "mpn": "653100S",
+  "gtin13": "4054571406507",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-170 cm",
+      "stock": 1,
+      "prix": 2099.99,
+      "mpn": "653100S",
+      "sku": "2396096",
+      "gtin13": "4054571406507",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2485904-vtt_tout_suspendu_cube_stereo_one22_pro_sram_nx_sx_eagle_12v_29___gris_vert_swamp_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "swampgrey´n´black"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.9,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "Homme",
+    "débattement fourche (mm)": 130,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram NX/SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : HPA Advanced Hydroform, ATG, ETC 4-Link, AXH, 120 mm travel",
+      "fourche": "RockShox Judy Silver TK Air, Tapered, Boost 15x110 mm, 130 mm travel",
+      "amortisseur": "Manitou Radium Expert RL, 190x45 mm, Rebound Adjust, Lockout / Entretoises d'amortisseur : 40x8 mm (Haut), 22x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle Trigger, 1x12-vitesses",
+      "dérailleur arrière": "Sram NX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1210 Eagle, 11-50 Dents",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Sram X1 1000 Eagle, DUB, Boost, 30 Dents"
+    },
+    "équipements": {
+      "freins": "Magura MT Thirty, Hydr. Disc Brake, (180/180)",
+      "selle": "Natural Fit Venec Lite",
+      "tige de selle": "Cube Dropper Post, Handlebar Lever, Internal Cable Routing, 31.6 mm (XS: 100 mm, S: 120 mm, M, L, XL: 130 mm)"
+    },
+    "roues": {
+      "jantes": "Cube EX25, 32H, Disc",
+      "pneus": "Schwalbe Nobby Nic, Addix Performance, Kevlar, 29 x 2.4\""
+    },
+    "direction": {
+      "cintre": "Newmen Evolution SL 318.25, 760 mm",
+      "poignées": "Acid React Pro",
+      "potence": "Newmen Evolution 318.4, 31.8 mm",
+      "jeu de direction": "VP Tapered, Top Zero-Stack 1 1/8\" (OD 44 mm), Bottom Zero-Stack 1 1/2\" (OD 56 mm)"
+    },
+    "référence": 653100
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 350,
+      "tube supérieur (mm)": 547,
+      "longueur base (mm)": 417,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 75.3,
+      "empattement (mm)": 1096,
+      "stack (mm)": 567,
+      "reach (mm)": 405
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75.3,
+      "empattement (mm)": 1145,
+      "stack (mm)": 604,
+      "reach (mm)": 420
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 103,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75.3,
+      "empattement (mm)": 1166,
+      "stack (mm)": 606,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 113,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75.3,
+      "empattement (mm)": 1190,
+      "stack (mm)": 615,
+      "reach (mm)": 460
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 640,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 133,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75.3,
+      "empattement (mm)": 1218,
+      "stack (mm)": 634,
+      "reach (mm)": 480
+    }
+  ]
+}

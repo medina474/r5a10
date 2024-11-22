@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2570943",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "BH Lynx Race LT 6.0 Shimano Deore/XT 12V 29'' Rouge",
+  "marque": "BH",
+  "description": "Toujours rapide. Sur de courtes distances. Sur de longues distances. Sur les sentiers. Sur les routes de trial. Escalade. Descente. C'est ce que vous recherchez dans un double XC et vélo-marathon. Le cadre Nº1 pour la Coupe du Monde avec David Valero et l'équipe BH Coloma. \r\n\r\nPour le meilleur équilibre entre agressivité et stabilité.\r\n\r\nUne portée plus longue, un angle de direction de 68º /67º et des bases courtes de 430 mm préservent l'agilité en montée et en descente.\r\n \r\n\r\nÀ l’instar de tous les cadres haut de gamme BH, le Lynx Race est conçu sur les bases de la technologie de moulage carbone HCIM (Core Internal Molding) qui permet de réduire au maximum le poids du cadre et de la biellette, tout en faisant appel à une plus grande quantité de fibres à haut module pour obtenir un poids de 1 850 grammes amortisseur compris.\r\n\r\nUn nouvel axe principal de suspension, surdimensionné et à roulements autocentrés, permet d’augmenter de 30 % la rigidité torsionnelle.\r\n\r\nGrâce à l’utilisation du standard « Metric », le Lynx Race affiche un débattement de 100 ou 120 mm en conservant le même niveau d’antisquat, qui garantit l’efficacité du pédalage, et le même niveau de brake-squat, qui assure un freinage optimal.\r\n\r\nVos yeux voient les nids de poule et les obstacles. Mais votre corps ne les remarque pas. Ils sont là, mais pas pour vous ralentir. Maintenant, les obstacles sont là pour s'amuser.\r\n\r\nPartez à l'assaut de ce sentier assis sur la selle et sentez comment la roue trace le terrain tandis que vous pouvez vous concentrer sur le pédalage de plus en plus fort.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/943/570943/2570943/5184264",
+  "mpn": "DX603RRRSM",
+  "gtin13": "8413616964017",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 20,
+      "prix": 2902.99,
+      "mpn": "DX603RRRSM",
+      "sku": "2560141",
+      "gtin13": "8413616964017",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2683441-vtt_tout_suspendu_bh_lynx_race_lt_6_0_shimano_deore_xt_12v_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 23,
+      "prix": 2902.99,
+      "mpn": "DX603RRRMD",
+      "sku": "2560277",
+      "gtin13": "8413616964000",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2683441-vtt_tout_suspendu_bh_lynx_race_lt_6_0_shimano_deore_xt_12v_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 44,
+      "prix": 2902.99,
+      "mpn": "DX603RRRLA",
+      "sku": "2559514",
+      "gtin13": "8413616963997",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2683441-vtt_tout_suspendu_bh_lynx_race_lt_6_0_shimano_deore_xt_12v_29___rouge"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Lynx Race Carbon, PC Layup, Acros ICR, PF92, 148x12, UDH",
+      "fourche": "Fox 32 Rhythm 120mm",
+      "amortisseur": "Fox DPS Evol Performance, 190x45mm, DCL, DRM, CMF"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT 8100, 12-vitesses",
+      "cassette": "Shimano Deore 6100, 10/51 Dents",
+      "chaîne": "Shimano Deore",
+      "pédalier": "Shimano MT510, 175 mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT410, 180/160 mm",
+      "selle": "Prologo Nago RS",
+      "tige de selle": "BH SL 31.6mm 420mm"
+    },
+    "roues": {
+      "jantes": "Race Face Aeffect TLR, 27mm, 32H",
+      "pneu avant": " Maxxis Ardent EXO 2.25 ",
+      "pneu arrière": " Maxxis Ikon EXO 2.25"
+    },
+    "direction": {
+      "cintre": "BH SL Top Flat 780mm, 10mm Rise",
+      "potence": "BH FIT 60mm, 31,8mm, -6°",
+      "jeu de direction": "Acros ICR FIT 36/45Âº, Block Lock 160º"
+    },
+    "grips": "BH SL Lock On",
+    "référence ": "DX603"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1133,
+      "stack (mm)": 589,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1159,
+      "stack (mm)": 589,
+      "reach (mm)": 445
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 598,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1170,
+      "stack (mm)": 620,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 643,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1212,
+      "stack (mm)": 644,
+      "reach (mm)": 490
+    }
+  ]
+}

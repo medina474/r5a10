@@ -1,0 +1,150 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2515921",
+  "tailles": [
+    "M / 169-178 cm",
+    "L / 177-186 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cube Stereo One77 C:68X SLT 29 Sram X01 Eagle AXS 12V 29'' Blanc Flash",
+  "marque": "Cube",
+  "description": "Difficile d’améliorer la perfection. C’est pourtant ce à quoi les ingénieurs de chez Cube sont parvenus avec le cadre du Stereo One77 C:68X. Tout d’abord, il est léger avec ses 2,3 kg. Cette différence, vous pouvez la ressentir sur les montées et les descentes. Il dispose d’un Flip-Chip et de deux supports de fixation pour système de suspension pneumatique ou à ressort, ce qui vous permet de disposer d’un grand nombre d’options en termes de progression et de performances d’amortisseur. Les inserts vous permettent de passer d’un angle de direction de 63,8° à un angle de 64,4°, et son boîtier de pédalier est fileté pour un maximum de polyvalence et de durabilité. Les ingénieurs ont choisi de ne pas inclure d’espace de rangement dans le cadre, car ils souhaitaient réduire un maximum son poids sans compromettre sa solidité. Mais, il dispose d’un support de fixation sous le tube inférieur pour un kit de réparation. En résumé, il ne vous manque rien.\r\n\r\nLéger, robuste et réactif : le Cube Stereo One77 C:68X SLT n’a fait l’objet d’aucun compromis. Le cadre en carbone C:68X® présente la cinématique tirant le maximum de profit de la fourche Fox 38 Factory Grip 2 et de l’amortisseur Fox Float X2 Factory. Sa transmission sans fil Sram X01 Eagle AXS 1x12 vitesse offre des changements de vitesse fluide et fiable dans le temps. Ses puissants freins à disque hydrauliques Shimano XTR vous garantissent un contrôle total de votre vitesse. Enfin, son pédalier en carbone Sram X01, ses roues en carbone Newmen Advanced permettent de réduire son poids, sans compromettre ses performances. Le top du top afin que vous puissiez exploiter au maximum votre potentiel.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/921/515921/2515921/4949997",
+  "mpn": "656500L",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 169-178 cm",
+      "stock": 5,
+      "prix": 5899.99,
+      "mpn": "656500M",
+      "sku": "2397461",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2586239-vtt_tout_suspendu_cube_stereo_one77_c_68x_slt_29_sram_x01_eagle_axs_12v_29___blanc_flash_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-186 cm",
+      "stock": 5,
+      "prix": 5899.99,
+      "mpn": "656500L",
+      "sku": "2397460",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2586239-vtt_tout_suspendu_cube_stereo_one77_c_68x_slt_29_sram_x01_eagle_axs_12v_29___blanc_flash_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "flashwhite´n´grey"
+    }
+  ],
+  "informations": {
+    "millesime": 2023,
+    "poids (kg)": 14.2,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 170,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram X01 Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:68X® Monocoque Advanced Twin Mold Technology, Air/Coil Shock Mount Flip-Chip, ISCG, Boost148, UDH™, 170 mm travel",
+      "fourche": "Fox 38 Float Factory FIT GRIP2, Tapered, Boost 15x110 mm, Kashima Coated, 170 mm travel",
+      "amortisseur": "Fox Float X2 Factory, 230x65 mm, High/Low Speed Rebound & Compression w/ 2-Pos. Lever, Kashima Coated / Entretoises d'amortisseur : 40x8 mm (Haut), 22.2x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Eagle AXS Controller, 1x12-vitesses",
+      "dérailleur arrière": "Sram X01 Eagle AXS, 12-vitesses",
+      "cassette": "Sram XG-1299 Eagle Rainbow, 10-52 Dents",
+      "chaîne": "Sram PC-XX1 Eagle Rainbow",
+      "pédalier": "Sram X01 Eagle Carbon, Boost, 170 mm, 32 Dents"
+    },
+    "guide-chaîne": "MRP SXg Chain Guide",
+    "équipements": {
+      "freins": "Shimano XTR BR-M9120, Hydr. Disc Brake, (203/180)",
+      "selle": "SDG Bel Air V3 Lux Alloy",
+      "tige de selle": "Fox Transfer Factory 31.6 mm, Kashima coated"
+    },
+    "roues": {
+      "jantes": "Newmen Advanced SL A.30, 28/28 Spokes, Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneus": "Avant : Maxxis Assegai, MaxxGrip/EXO+, Tubeless Ready, 29x2.5\" WT / Arrière : Maxxis Minion DHR II, MaxxTerra/EXO+, Tubeless Ready, 29x2.4\" WT"
+    },
+    "direction": {
+      "cintre": "Race Face Next R 35 Carbon, 780 mm",
+      "poignées": "SDG Thrice",
+      "potence": "Race Face Turbine R 35",
+      "jeu de direction": "Acros AZF-675, ICR (Integrated Cable Routing), Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm), Fiber Inserts for Angle Adjustment"
+    },
+    "référence": 656500
+  },
+  "geometries": [
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 405,
+      "tube supérieur* (mm)": "589 / 591",
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 103,
+      "angle de direction* (°)": "63.8 / 64.4",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1229 / 1222",
+      "stack* (mm)": "626 / 627",
+      "reach* (mm)": "452 / 450",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 418,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "610 / 611",
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 105,
+      "angle de direction* (°)": "63.8 / 64.4",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1250 / 1242",
+      "stack* (mm)": "627 / 629",
+      "reach* (mm)": "472 / 470",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 475,
+      "débattement tige de selle (mm)": 175
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "633 / 635",
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 115,
+      "angle de direction* (°)": "63.8 / 64.4",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1274 / 1267",
+      "stack* (mm)": "636 / 638",
+      "reach* (mm)": "492 / 490",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 475,
+      "débattement tige de selle (mm)": 175
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "659 / 661",
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 135,
+      "angle de direction* (°)": "63.8 / 64.4",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1297 / 1289",
+      "stack* (mm)": "654 / 656",
+      "reach* (mm)": "512 / 510",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 475,
+      "débattement tige de selle (mm)": 175
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2470367",
+  "tailles": [
+    "S / 160-171 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Bombtrack Beyond AL Sram Apex 1 11V 27.5'' Gris Foncé 2023",
+  "marque": "Bombtrack",
+  "description": "Le Beyond AL est notre équivalent en aluminium de la gamme. Le profil du tube fortement hydroformé et la fourche sont dotés d'un passage interne pour les câbles légers, ainsi que d'un garde-boue, d'un porte-bagages et d'une triple fixation de sacoche pour les randonnées de nuit.\r\nLe Beyond AL est compatible avec le dérailleur avant pour ceux qui préfèrent une gamme plus complète d'options de vitesses à l'avant.\r\nToutes les tailles sont équipées d'axes traversants de 12 mm à l'avant et à l'arrière, ainsi que de roues de 27,5\" adaptées à la taille S pour garantir une géométrie efficace sur toute la gamme.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/367/470367/2470367/4754205",
+  "mpn": "01125050222",
+  "gtin13": "4055822518291",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 160-171 cm",
+      "stock": 1,
+      "prix": 999.99,
+      "mpn": "01125050222",
+      "sku": "1920472",
+      "gtin13": "4055822518291",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2535240-gravel_bike_bombtrack_beyond_al_sram_apex_1_11v_27_5___gris_fonce_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Glossy Dark Grey"
+    }
+  ],
+  "informations": {
+    "poids maximum": "140 kg incl. luggage",
+    "genre": "Mixte",
+    "taille de roues": "650b",
+    "groupe": "Sram Apex 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 6061-T6 hydro-formed Aluminium, TA, rack / fender mounts, stealth dropper ready, 86.5 mm T47 BB shell",
+      "fourche": "Aluminium : 6061 aluminium, TA, 1.1/2'' - 1.1/8'', fender / rack / triple cage mounts, internal hub dynamo cable routing"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex double tap mechanic, 1 x 11 vitesses",
+      "dérailleur arrière": "Sram Apex 1, clutch, long cage",
+      "cassette": "Sram PG-1130 11-vitesses, 11 - 42 dents",
+      "chaîne": "KMC X11 chain, 1/2'' x 11/128'', 114L",
+      "pédalier": "Bombtrack AMES forged aluminium crank, 24 mm spindle",
+      "boîtier de pédalier": "Bombtrack T47 internal sealed BB for 24 mm spindle"
+    },
+    "plateau": "Steel, narrow-wide, 36 dents",
+    "équipements": {
+      "freins": "TRP Spyre C mechanic disc brakes 180/160mm",
+      "selle": "Bombtrack Fuzz",
+      "tige de selle": "Seido Yew aluminium seatpost, 31.8 mm x 400 mm"
+    },
+    "roues": {
+      "jantes": "WTB ST i23 double wall, TCS 2.0, 32h",
+      "moyeux": "F : Bombtrack ARC sealed hub, 6-bolt disc 12 x 100 mm R : Bombtrack ARC sealed hub, 11-speed, 6-bolt disc 12 x 142 mm",
+      "pneus": "WTB Venture TCS Light / Fast Rolling S 650b x 47c / M-L 700c x 50c, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Bombtrack Tackle gravel bar, 31.8 mm, 25° flare",
+      "poignées": "Bombtrack Command bar tape",
+      "potence": "Bombtrack Tramp forged aluminium stem, 3°",
+      "jeu de direction": "Sealed integrated aheadset, 1.1/2'' - 1.1/8''"
+    },
+    "collier de selle": "Bombtrack Prime 34.9 mm",
+    "poids ": "-"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille des roues ": "27.5\"",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 546,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 74,
+      "angle tube de selle (°)": 70,
+      "empattement (mm)": 1040,
+      "stack (mm)": 569,
+      "reach (mm)": 382
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues ": "29\"",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 74,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1077,
+      "stack (mm)": 604,
+      "reach (mm)": 394
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues ": "29\"",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 200,
+      "angle de direction (°)": 74,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1109,
+      "stack (mm)": 642,
+      "reach (mm)": 413
+    }
+  ]
+}

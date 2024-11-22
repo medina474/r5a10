@@ -1,0 +1,145 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2717768",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "name": "VTT Électrique Tout-Suspendu Haibike AllTrail 5 29'' / 27.5'' Sram NX 11v 720 Wh Ocean / Noir 2024",
+  "marque": "Haibike",
+  "description": "Le Haibike AllTrail 5  est idéal pour les sentiers escarpés. En montée, le moteur sportif Yamaha PW-S2 au couple de 75 Nm vous assiste puissamment dès les premiers tours de pédalier. La fiabilité des composants notamment SRAM et TRP vous confèrent un haut niveau de plaisir!",
+  "image": "https://product-cdn-frz.alltricks.com/medium/768/717768/2717768/5476990",
+  "mpn": "45200430",
+  "gtin13": "4054624152740",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-165 cm",
+      "stock": 1,
+      "prix": 4099.99,
+      "mpn": "45200430",
+      "sku": "2676545",
+      "gtin13": "4054624152740",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2840937-vtt_electrique_tout_suspendu_haibike_alltrail_5_29_____27_5___sram_nx_11v_720_wh_ocean___noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 3,
+      "prix": 4099.99,
+      "mpn": "45200440",
+      "sku": "2676381",
+      "gtin13": "4054624152757",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2840937-vtt_electrique_tout_suspendu_haibike_alltrail_5_29_____27_5___sram_nx_11v_720_wh_ocean___noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 4099.99,
+      "mpn": "45200460",
+      "sku": "2676427",
+      "gtin13": "4054624152771",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2840937-vtt_electrique_tout_suspendu_haibike_alltrail_5_29_____27_5___sram_nx_11v_720_wh_ocean___noir_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Ocean / Black"
+    }
+  ],
+  "informations": {
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram NX1 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium 6061, 140 mm travel",
+      "fourche": "RockShox, 35 Silver, Steel spring, travel= 140 mm, Aluminium steerer tube 1 1/8\" - 1 1/2\" tapered, 15 x 110mm thru-axle Boost",
+      "amortisseur": "RockShox, Deluxe select plus, Air"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-S2 System, 75Nm, 25km/h",
+      "batterie": "InTube 720 Wh",
+      "écran": "Yamaha, Side Switch, 1.7\" LCD, 7 functions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX",
+      "dérailleur arrière": "SRAM NX",
+      "cassette": "Sram, PG1130",
+      "pédalier": "Steel, 36 dts"
+    },
+    "équipements": {
+      "freins": "TRP, Slate T4, Aluminium, Tektro, TR203, 203 mm",
+      "pédales": "Freeridepedal, Aluminium, with Reflector",
+      "selle": "Selle Royal, Vivo"
+    },
+    "roues": {
+      "jantes": "Rodi, Tryp 30, with eyelets, hollow rim, Aluminium",
+      "pneu avant": "e, Nobby Nic Performance, 65-584, 27.5\" x 2.6\"",
+      "pneu arrière": "Nobby Nic Performance, 62-622, 29\" x 2.4\""
+    },
+    "cintre": "Haibike Components, TheBar ++, 780 mm",
+    "direction": {
+      "potence": "Alu A-head",
+      "jeu de direction": "Acros, BlockLock, Aluminium"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1216,
+      "stack (mm)": 637,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1221,
+      "stack (mm)": 652,
+      "reach (mm)": 436
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 611,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1243,
+      "stack (mm)": 661,
+      "reach (mm)": 454
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 631,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 65.7,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1264,
+      "stack (mm)": 670,
+      "reach (mm)": 471
+    }
+  ]
+}

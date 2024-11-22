@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2531102",
+  "tailles": [
+    "M / 168-178 cm",
+    "L / 176-186 cm",
+    "XL / 184-196 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cube AMS Zero99 C:68X SLX 29 Sram GX Eagle AXS 12V 29'' Blanc Bleu Teamline 2023",
+  "marque": "Cube",
+  "description": "Le cadre AMS Zero99 C:68X a été développé à partir du carbone de haute qualité de chez Cube et réalise l’exploit de ne peser que 1600 g environ. Mais il n’est pas uniquement question de légèreté. Ses bases arrière présentent suffisamment de dégagement pour des pneus de 2,25 pouces et permettent un transfert de puissance optimal. Ses tubes plus minces offrent un plus grand confort. Il dispose des inserts pour ajuster précisément l'angle de direction. Enfin, avec ses 100 mm de débattement à l'avant et à l'arrière, et une géométrie pensée pour le dynamisme et la vitesse, vous avez tout ce dont vous avez besoin pour prendre la tête de la course.\r\n\r\nLorsque chaque fraction de seconde compte, il vous faut un vélo sur lequel vous pouvez compter. Avec le VTT tout-suspendu Cube AMS Zero99 C:68X SLX 29, la construction carbone de première qualité du cadre n'est qu'un premier détail. Sa transmission sans fil Sram GX Eagle AXS 12 vitesses offre des changements de vitesse précis, tandis que ses puissants freins à disque hydrauliques Magura MT8 SL vous permettent de garder un parfait contrôle. Il est équipé d’une paire de roues en carbone Newmen Advanced SL X.A, d'une largeur interne de 30 mm, légères et aux accélérations prononcées. Elles sont équipées de pneus Schwalbe de 2,25 pouces très adhérents et de chambres à air Schwalbe Aerothan ultra-légères. Enfin, ses composants de suspension RockShox SID ultra-légers, avec système de blocage TwistLoc, maintiennent vos pneus collés au sol. Croyez-nous : il est rapide.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/102/531102/2531102/5106805",
+  "mpn": "652300L",
+  "gtin13": "4054571405609",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 5,
+      "prix": 5799.99,
+      "mpn": "652300M",
+      "sku": "2504577",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2606586-vtt_tout_suspendu_cube_ams_zero99_c_68x_slx_29_sram_gx_eagle_axs_12v_29___blanc_bleu_teamline_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 176-186 cm",
+      "stock": 1,
+      "prix": 5799.99,
+      "mpn": "652300L",
+      "sku": "2504598",
+      "gtin13": "4054571405609",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2606586-vtt_tout_suspendu_cube_ams_zero99_c_68x_slx_29_sram_gx_eagle_axs_12v_29___blanc_bleu_teamline_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 184-196 cm",
+      "stock": 5,
+      "prix": 5799.99,
+      "mpn": "652300XL",
+      "sku": "2504607",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2606586-vtt_tout_suspendu_cube_ams_zero99_c_68x_slx_29_sram_gx_eagle_axs_12v_29___blanc_bleu_teamline_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "teamline"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 10.1,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:68X Monocoque Advanced Twin Mold Technology, FSP 4-Link, Boost 148, UDH, 100 mm travel",
+      "fourche": "RockShox SID SL Ultimate, Tapered, Boost 15x110 mm, TwistLoc, 100 mm travel",
+      "amortisseur": "RockShox SID Luxe Ultimate RLR, 190x40 mm, TwistLoc / Entretoises d'amortisseur : 26x8 mm (Haut), 30x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle AXS Controller, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle AXS, 12-vitesses",
+      "cassette": "Sram XG-1275 Eagle, 10-52 Dents",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Sram GX Eagle Carbon, 32 Dents",
+      "boîtier de pédalier": "Sram DUB MTB, 92 mm Pressfit"
+    },
+    "équipements": {
+      "freins": "Magura MT8 SL, Hydr. Disc Brake, (180/160)",
+      "selle": "Natural Fit Nuance SL",
+      "tige de selle": "Newmen Advanced, Carbon, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Advanced SL X.A.30 Carbon, 28/28 Spokes, Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneu avant": " Schwalbe Racing Ray, Super Race, Addix Speed, Kevlar, 29x2.25\" ",
+      "pneu arrière": " Schwalbe Racing Ralph, Super Race, Addix Speed, Kevlar, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "Newmen Advanced 318.0, Carbon, 740 mm",
+      "poignées": "RockShox TwistLoc w/ fixed right grip",
+      "potence": "Newmen Evolution SL 318.2, 31.8 mm, 6°",
+      "jeu de direction": "Acros Integrated, Top 1 1/8\", Bottom 1 1/2\", Fiber Inserts for Angle Adjustment"
+    },
+    "référence": 652300
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur* (mm)": "569 / 570",
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 100,
+      "angle de direction* (°)": "67.4 / 68",
+      "angle tube de selle* (°)": "74.7 / 74.5",
+      "empattement* (mm)": "1130 / 1123",
+      "stack* (mm)": "583 / 585",
+      "reach* (mm)": "415 / 414",
+      "longueur potence (mm)": 70,
+      "longueur manivelles (mm)": 170
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "594 / 595",
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 110,
+      "angle de direction* (°)": "67.4 / 68",
+      "angle tube de selle* (°)": "74.7 / 74.5",
+      "empattement* (mm)": "1156 / 1149",
+      "stack* (mm)": "593 / 594",
+      "reach* (mm)": "437 / 436",
+      "longueur potence (mm)": 80,
+      "longueur manivelles (mm)": 175
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "619 / 620",
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 120,
+      "angle de direction* (°)": "67.4 / 68",
+      "angle tube de selle* (°)": "74.7 / 74.5",
+      "empattement* (mm)": "1181 / 1174",
+      "stack* (mm)": "602 / 603",
+      "reach* (mm)": "459 / 458",
+      "longueur potence (mm)": 90,
+      "longueur manivelles (mm)": 175
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur* (mm)": "643 / 645",
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 135,
+      "angle de direction* (°)": "67.4 / 68",
+      "angle tube de selle* (°)": "74.7 / 74.5",
+      "empattement* (mm)": "1208 / 1201",
+      "stack* (mm)": "616 / 617",
+      "reach* (mm)": "479 / 478",
+      "longueur potence (mm)": 100,
+      "longueur manivelles (mm)": 175
+    }
+  ]
+}

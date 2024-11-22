@@ -1,0 +1,160 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2434006",
+  "tailles": [
+    "M / 165-177 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "name": "VTT Tout Suspendu Trek Fuel EX 8 Shimano XT 12V 29'' Gris Galactique / Noir 2023",
+  "marque": "Trek",
+  "description": "Le Fuel EX 8 est un vélo de trail réglé pour les pilotes qui se lancent à fond dans les descentes accidentées et qui veulent un vélo qui la ramènera au sommet en pédalant sans broncher pour repartir pour un tour. Il possède un cadre en alliage d’aluminium solide et une transmission Shimano XT améliorée pour des changements de vitesse précis et fluide. La fourche Fox Rhythm de 150 mm gère sans difficultés les pierres et les racines tandis que l’amortisseur Fox Float X vous laisse au commande. Le nouvel espace de rangement dans le cadre et la géométrie réglable vous permettent de profiter de tous les avantages du modèle en carbone, mais à une fraction du prix.\r\n\r\nVous voulez un vélo de trail tout suspendu qui accorde la priorité à la suspension et aux performances de changement de vitesse par rapport à un cadre en carbone plus cher.\r\n\r\nUn cadre en alliage d’aluminium léger et rigide avec une fourche Fox Rhythm affichant un débattement de 150 mm avec ressort pneumatique Float Evol et amortisseur Grip pour les petites bosses et un amortisseur arrière Fox Performance Float X. Une transmission Shimano XT 12 vitesses pour des changements de vitesse vifs et des roues Bontrager Tubeless Ready. Sans oublier une nouvelle géométrie réglable qui vous laisse décider de la configuration.\r\n\r\nLe pilote qui ne veut pas être contraint sur le trail trouvera dans le Fuel EX 8 un compagnon prêt à tout. Sa géométrie trail progressive est conçue pour vous permettre de rouler à fond et les composants de niveau supérieur sont la cerise sur le gâteau.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/6/434006/2434006/4660522",
+  "mpn": "5272045",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 2499.99,
+      "mpn": "5272045",
+      "sku": "2457035",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471562-vtt_tout_suspendu_trek_fuel_ex_8_shimano_xt_12v_29___gris_galactique___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 1,
+      "prix": 2499.99,
+      "mpn": "5272046",
+      "sku": "2456918",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471562-vtt_tout_suspendu_trek_fuel_ex_8_shimano_xt_12v_29___gris_galactique___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 51,
+      "prix": 3899.99,
+      "mpn": "5272047",
+      "sku": "2456921",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471562-vtt_tout_suspendu_trek_fuel_ex_8_shimano_xt_12v_29___gris_galactique___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 51,
+      "prix": 3999,
+      "mpn": "5272048",
+      "sku": "2364334",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471562-vtt_tout_suspendu_trek_fuel_ex_8_shimano_xt_12v_29___gris_galactique___noir_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 360,
+      "tube supérieur (mm)": 516,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1145,
+      "stack (mm)": 717,
+      "reach (mm)": 400
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 551,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1175,
+      "stack (mm)": 724,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 554,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1186,
+      "stack (mm)": 737,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1213,
+      "stack (mm)": 737,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "M/L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 607,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1233,
+      "stack (mm)": 742,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 627,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1250,
+      "stack (mm)": 748,
+      "reach (mm)": 485
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 662,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1287,
+      "stack (mm)": 767,
+      "reach (mm)": 515
+    }
+  ]
+}

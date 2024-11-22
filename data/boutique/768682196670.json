@@ -1,0 +1,57 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2657972",
+  "tailles": [
+    "M / 165-176 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Top Fuel 8 Shimano XT/SLX 12V 29'' Orange 2024",
+  "marque": "Trek",
+  "description": "Le Trek Top Fuel 8 est un VTT tout-suspendu aussi efficace que capable. Il gère les descentes cahoteuses et montre son côté rapide dans les côtes et les tronçons plats. Le cadre en alliage d’aluminium léger et costaud est équipé de composants sélectionnés pour les performances et la valeur. Ce vélo est un choix parfait comme premier vélo de trail tout-suspendu.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/972/657972/2657972/5341460",
+  "mpn": "5297466",
+  "gtin13": "768682196670",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-176 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "5297466",
+      "sku": "2651063",
+      "gtin13": "768682196670",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776054-vtt_tout_suspendu_trek_top_fuel_8_shimano_xt_slx_12v_29___orange_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 51,
+      "prix": 3559,
+      "mpn": "5297467",
+      "sku": "2651068",
+      "gtin13": "768682196816",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776054-vtt_tout_suspendu_trek_top_fuel_8_shimano_xt_slx_12v_29___orange_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "5297468",
+      "sku": "2651043",
+      "gtin13": "768682196830",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776054-vtt_tout_suspendu_trek_top_fuel_8_shimano_xt_slx_12v_29___orange_2024"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {}
+}

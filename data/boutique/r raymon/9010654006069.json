@@ -1,0 +1,113 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2456755",
+  "tailles": [
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " R Raymon HardRay E 4.0 Tektro M350 9V 500 Wh 29'' Rouge",
+  "marque": "R Raymon",
+  "description": "Fiable. Simple. Durable. Le VTT dans sa forme originale, et pourtant, le VTT électrique semi-rigide R Raymon HardRay E 4.0 a été enrichi en utilisant toute une gamme de technologies et d'expertises, qui en font un vélo électrique à la fois axé sur la performance et à l'aise sur (presque) tous les terrains. Pour les débutants et les pros, pour les fans de trail et les passionnés de course.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/755/456755/2456755/4701398",
+  "mpn": "4500015355",
+  "gtin13": "9010654006069",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 1799.99,
+      "mpn": "4500015355",
+      "sku": "2179960",
+      "gtin13": "9010654006069",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2500716-vtt_electrique_semi_rigide_r_raymon_hardray_e_4_0_tektro_m350_9v_500_wh_29___rouge"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Rouge"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 24.1,
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Tektro M350 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium 6061, Batterie intégrée",
+      "fourche": "SR Suntour XCT30 HLO, Ressort, 100 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-TE, 250 W, 60 Nm",
+      "batterie": "Yamaha ML500, 500 Wh, 36 V",
+      "écran": "Yamaha Display A, LCD-Display"
+    },
+    "transmission": {
+      "manette de dérailleur": "Tektro SL-M350R, 1x9-vitesses",
+      "dérailleur arrière": "Tektro RD-M350, 9-vitesses",
+      "pédalier": "Wheeltop, Aluminium forgé, JIS, plateau R Raymon, 38 dents",
+      "chaîne": "KMC Z9",
+      "cassette": "Tektro CS-M350, 11-46 Dents, 9-vitesses"
+    },
+    "roues": {
+      "jantes": "Mach 1 640E, oeilletée",
+      "moyeu avant": "R Raymon DN622F, 6 trous, 9x100 mm, Clé de serrage rapide ",
+      "moyeu arrière": "R Raymon DN622R, 6 trous, 9x141 mm, Clé de serrage rapide, HG",
+      "pneus": "Mitas Ocelot, 60-622, 29x2.35"
+    },
+    "équipements": {
+      "freins": "Tektro HD-M280, 2 pistons, Frein à disque hydraulique, 180/180 mm",
+      "selle": "R Raymon MTB",
+      "tige de selle": "R Raymon, 31.6 mm, 350 mm, Brevet"
+    },
+    "direction": {
+      "potence": "R Raymon 31.8, 7 °, Ahead",
+      "cintre": "R Raymon Riser 31.8 mm, 720 mm, Sweep: 6 °, Rise: 15 mm",
+      "poignées": "R Raymon MTB, Poignées à vis"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 622,
+      "douille de direction (mm)": 125,
+      "longueur base (mm)": 475,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1205,
+      "stack (mm)": 634,
+      "reach (mm)": 440
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 633,
+      "douille de direction (mm)": 130,
+      "longueur base (mm)": 475,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1217,
+      "stack (mm)": 639,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 645,
+      "douille de direction (mm)": 135,
+      "longueur base (mm)": 475,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1229,
+      "stack (mm)": 643,
+      "reach (mm)": 460
+    }
+  ]
+}

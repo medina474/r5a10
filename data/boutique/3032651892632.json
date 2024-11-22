@@ -1,0 +1,102 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2195480",
+  "tailles": [
+    "S / 160-175 cm",
+    "M / 170-185 cm",
+    "L / 180-195 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Sunn Prim Finest Sram GX Eagle 12V 29'' Noir 2022",
+  "marque": "Sunn",
+  "description": "Le Prim Finest est un VTT semi-rigide en carbone éprouvé en compétition XCO UCI. Il atteint la première place du podium en championnat d'Europe et de France U23 avec Joshua Dubeau. Il est à la fois rigide, explosif et efficient. Les singletracks et les circuits modernes de cross-country sont ses terrains de jeux préférés. Avec sa transmission monoplateau 12 vitesses, les enchaînements, montées raides et descentes techniques seront un plaisir.\r\n\r\nLa forme en Y inversé au niveau du boîtier de pédalier augmente la rigidité du cadre en répartissant les efforts de manière optimale. Le reach long et le transfert vers l'avant des points d'appuis annulent les cabrages en montées et facilite les franchissements de marches. Les bases ultra courtes (420 mm) offrent une réactivité immédiate au pédalage.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/480/195480/2195480/4037603",
+  "mpn": "YCSUMD4501",
+  "gtin13": "3032651892632",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-185 cm",
+      "stock": 1,
+      "prix": 2848,
+      "mpn": "YCSUMD4501",
+      "sku": "2175564",
+      "gtin13": "3032651892632",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2052304-vtt_semi_rigide_sunn_prim_finest_sram_gx_eagle_12v_29___noir_2022"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Prim 29 carbon T800 HM, Tapered Boost, PF92, Thru-Axle",
+      "fourche": "Rockshox Sid SL Select, Charger RL Debonair, Remote, TA, Boost, 100 mmm"
+    },
+    "manettes de dérailleur ": "Sram GX Eagle 1x12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Sram GX Eagle Lunar 12 vitesses",
+      "cassette": "Sram XG-1275 10-50 Dents",
+      "pédalier": "Sram Stylo 6K Eagle 32 Dents Boost"
+    },
+    "équipements": {
+      "freins": "Formula Cura 2 180/160 mm",
+      "selle": "Selle Italia SLR Mg",
+      "tige de selle": "VR 27.2x400 mm"
+    },
+    "roues": {
+      "jantes": "Mach1 FZR-XC Disc 23c 32T, Aivee MP2 Boost, TA, Disc",
+      "pneu avant": "son Kraken 29x2.30 ",
+      "pneu arrière": "29x2.15 TLR"
+    },
+    "cintre": "VR 6061 720 mm / Ext : 70 mm, -7°, -31.8",
+    "direction": {
+      "potence": "VR 6061 720 mm / Ext : 70 mm, -7°, -31.8"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1094,
+      "stack (mm)": 612,
+      "reach (mm)": 417
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1125,
+      "stack (mm)": 622,
+      "reach (mm)": 445
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1157,
+      "stack (mm)": 632,
+      "reach (mm)": 472
+    }
+  ]
+}

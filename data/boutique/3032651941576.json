@@ -1,0 +1,115 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2680944",
+  "tailles": [
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "name": "VTT Electrique Semi-Rigide Sunn Rage Shimano Deore 12V 625Wh 29'' Gris",
+  "marque": "Sunn",
+  "description": "Fabriqué avec les meilleurs  alliages d’aluminium, le châssis du Sunn Rage coche toutes les cases. Une géométrie moderne et équilibrée : très grande maniabilité qui rend le pilotage facile et accessible à tous.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/944/680944/2680944/5407837",
+  "mpn": "YFSUV34901",
+  "gtin13": "3032651941576",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 3,
+      "prix": 3399.99,
+      "mpn": "YFSUV34501",
+      "sku": "2581575",
+      "gtin13": "3032651941569",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805574-vtt_electrique_semi_rigide_sunn_rage_shimano_deore_12v_625wh_29___gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 1,
+      "prix": 3399.99,
+      "mpn": "YFSUV34901",
+      "sku": "2581543",
+      "gtin13": "3032651941576",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2805574-vtt_electrique_semi_rigide_sunn_rage_shimano_deore_12v_625wh_29___gris"
+    }
+  ],
+  "informations": {
+    "poids": "20,5 kg",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Integrated 625Wh, 6061DB Alloy Edge Tubing Boost, 140 mm",
+      "fourche": "RockShox Silver TK 140 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Permformance Line CX, 85 Nm",
+      "batterie": "Bosch Powertube, 625Wh (amovible)"
+    },
+    "commande/ecran": "Bosch Purion 200",
+    "transmission": {
+      "manette de dérailleur": "Shimano, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore, 12-vitesses",
+      "cassette": "Shiamno Deore, 10-51 dts",
+      "pédalier": "E*thirteen Plus 165 mm, 34 dts"
+    },
+    "équipements": {
+      "freins": "Formula Cura 2, 2 pistons, 203/203 mm",
+      "selle": "Sunn by DDK",
+      "tige de selle": "Brute Dropper"
+    },
+    "roues": {
+      "jantes": "29’’ Mach1 Trucky 30 30 mm 32 trous",
+      "pneus": "Michelin Wild TR, 29x2,4''"
+    },
+    "direction": {
+      "cintre": "Brute, 760 mm x 31.8 mm, Rise 15 mm",
+      "potence": "Brute One CNC, 45 mm - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1152,
+      "stack (mm)": 656,
+      "reach (mm)": 389,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1172,
+      "stack (mm)": 660,
+      "reach (mm)": 408,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1193,
+      "stack (mm)": 665,
+      "reach (mm)": 426,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

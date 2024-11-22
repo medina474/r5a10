@@ -1,0 +1,136 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2553658",
+  "tailles": [
+    "XL / 188-196 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Trek Marlin+ 8 Shimano Deore 12V 400 Wh 29'' Violet 2024",
+  "marque": "Trek",
+  "description": "Le Marlin+ 8 est un VTTAE qui vous permettra de vous attaquer aux trails avec confiance. Son moteur Active Line Plus de Bosch vous donne le coup de pouce nécessaire pour grimper les pentes raides et pour aller plus loin, sans vous ruiner, et une fourche télescopique de 120 mm assure une tenue de route en douceur sur les terrains accidentés. Des composants améliorés, comme de larges roues et des pneus Tubeless Ready et une transmission 12 vitesses de Shimano, en font un vélo idéal pour vous emmener sur n’importe quel trail.\r\n\r\nVous êtes à la recherche d’un coup de pouce de puissance sans vous ruiner. Vous voulez des quantités de vitesses pour vous attaquer à toutes sortes de trails et la protection anti-crevaison que vous donne les roues larges de 2,6 pouces et les pneus Tubeless Ready.\r\n\r\nUn cadre en aluminium Alpha Platinum avec une géométrie de véritable VTT et une fourche à ressort de 120 mm. Une transmission fiable Active Line Plus 50 Nm de Bosch, capable de vous assister jusqu’à des vitesses de 25 km/h. Une télécommande Purion 200 compacte avec écran intégré et une batterie Powertube de 400 Wh. Vous bénéficiez d’un changement de vitesse Shimano Deore 12 vitesses, de freins à disque hydrauliques et de roues Tubeless Ready larges de 2,6 pouces qui améliorent l’adhérence et permettent d’éviter les crevaisons.\r\n\r\nLe Marlin+ est le vélo incontournable pour les cyclistes voulant s’aventurer dans le monde des VTTAE. Le cadre adapté aux trails vous permet de contrôler le vélo avec confiance, et le moteur Active Line Plus de Bosch est suffisamment puissant pour réduire la fatigue des longues ascensions.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/658/553658/2553658/5145871",
+  "mpn": "5303450",
+  "gtin13": "768682658628",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 1,
+      "prix": 2699.99,
+      "mpn": "5303450",
+      "sku": "2552838",
+      "gtin13": "768682658628",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2671299-vtt_electrique_semi_rigide_trek_marlin__8_shimano_deore_12v_400_wh_29___violet_2024"
+    }
+  ],
+  "informations": {
+    "poids": "M - 21,30 kg / 46,96 lbs (avec produit d’étanchéité TLR, sans chambres à air) / Ce vélo affiche une limite de poids total maximale (comprenant le poids du vélo, du cycliste et des bagages) de 136 kg (300 livres).",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Taille XS : Aluminium Alpha Platinum, tube horizontal courbe, tube de direction conique, acheminement interne, fixation de porte-bagages, garde-boue et béquille, UDH, Boost148, axe traversant 12 mm Taille S, M, L, XL : Aluminium Alpha Platinum, tube de direction conique, acheminement interne, fixation de porte-bagages, garde-boue et béquille, UDH, Boost148, axe traversant 12 mm",
+      "fourche": "Taille XS : RockShox Recon Silver RL, ressort Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 46 mm, Boost110, Maxle Stealth, débattement de 100 mm Taille S : RockShox Recon Silver RL, ressort Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 46mm, Boost110, Maxle Stealth, débattement de 120 mm Taille M, L, XL : RockShox Recon Silver RL, ressort Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 42mm, Boost110, Maxle Stealth, débattement de 120 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Active Line Plus, 50 Nm, 25 km/h",
+      "batterie": "Bosch CompactTube 400 Wh",
+      "écran": "Bosch Purion 200, système intelligent"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, chape longue",
+      "cassette": "Shimano Deore M6100, 10-51 dents, 12 vitesses",
+      "chaîne": "Shimano Deore M6100, 12 vitesses",
+      "pédalier": "FSA CK-220, longueur de 165 mm, plateau FSA, 32 dents, acier"
+    },
+    "équipements": {
+      "freins": "Freins à disques hydrauliques Shimano à 4 pistons, levier MT4100, étrier MT420, disques Shimano RT64, centerlock, 203/203 mm",
+      "pédales": "VP-536, plateforme, nylon",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Taille XS, S : TranzX JD-YSP18, débattement de 100 mm, acheminement interne, 31,6 mm, longueur de 361 mm Taille M, L, XL : TranzX JD-YSP18, débattement de 150 mm, acheminement interne, 31,6 mm, longueur de 470 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line TLR 30, Tubeless Ready, 28 trous, valve Presta ou Bontrager Line TLR 30, Tubeless Ready, 32 trous, valve Presta",
+      "pneus": "Taille XS, S : Bontrager Gunnison Pro XR, tubeless-ready, bicomposant, tringle en aramide, 60 tpi, 27,5x2,60” Taille M, L, XL : Bontrager Gunnison Pro XR, tubeless-ready, bicomposant, tringle en aramide, 60 tpi, 29x2,60”"
+    },
+    "direction": {
+      "cintre": "Taille XS, S : Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 720 mm Taille M, L, XL : Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 750 mm",
+      "poignées": "Bontrager XR Trail Comp, nylon lock-on",
+      "potence": "Taille XS, S : Bontrager alliage, 31,8 mm, compatible Blendr, 7 degrés, longueur de 35mm Taille M, L : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 50 mm Taille XL : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 60 mm",
+      "jeu de direction": "Semi-intégré, roulement à cartouche étanche, cuvettes en Alu, 1,125 pouce sur le haut, 1,5 pouce sur le bas"
+    },
+    "couleur": "Purple Flip to Black Fade"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues": "27.5\"",
+      "tube de selle (mm)": 340,
+      "tube supérieur (mm)": 551,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1129,
+      "stack (mm)": 563,
+      "reach (mm)": 390
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues": "27.5\"",
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1166,
+      "stack (mm)": 590,
+      "reach (mm)": 415
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1218,
+      "stack (mm)": 626,
+      "reach (mm)": 440
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 652,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1251,
+      "stack (mm)": 635,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 682,
+      "longueur base (mm)": 485,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1284,
+      "stack (mm)": 653,
+      "reach (mm)": 495
+    }
+  ]
+}

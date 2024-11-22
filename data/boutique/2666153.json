@@ -1,0 +1,157 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2666153",
+  "tailles": [
+    "S / 162-175 cm",
+    "M / 170-185 cm",
+    "L / 180-193 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cannondale Topstone Carbon 2 L Shimano GRX 11V 700 mm Vert",
+  "marque": "Cannondale",
+  "description": "Le vélo gravel Cannondale Topstone Carbon 2 L est conçu pour battre tous les autres vélos Gravel. La suspension Kingpin est la réponse aux riders « gravel » les plus exigeants. Que vous ayez besoin de plus de confort pour rouler plus loin, de plus de traction pour vous donner à fond ou de plus de flexibilité pour tirer parti de la technologie, - la suspension Kingpin est la réponse légère et sans entretien à tous vos rêves.\r\n\r\nAxé autour de la géométrie de direction OutFront, le Topstone Carbon offre un pilotage stable et une grande agilité dans les terrains accidentés.\r\nAvec ses nombreux points de fixation pour bagages et bidons sur le cadre et la fourche, le Topstone est prêt à être chargé pour les longues aventures.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/153/666153/2666153/5363002",
+  "mpn": "C15253U10SM",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 162-175 cm",
+      "stock": 1,
+      "prix": 3799.99,
+      "mpn": "C15253U10SM",
+      "sku": "2645249",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2785527-gravel_bike_cannondale_topstone_carbon_2_l_shimano_grx_11v_700_mm_vert"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-185 cm",
+      "stock": 2,
+      "prix": 3799.99,
+      "mpn": "C15253U10MD",
+      "sku": "2645022",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2785527-gravel_bike_cannondale_topstone_carbon_2_l_shimano_grx_11v_700_mm_vert"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-193 cm",
+      "stock": 1,
+      "prix": 3799.99,
+      "mpn": "C15253U10LG",
+      "sku": "2645250",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2785527-gravel_bike_cannondale_topstone_carbon_2_l_shimano_grx_11v_700_mm_vert"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Jade"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Topstone Carbon, Kingpin suspension system, SmartSense compatible, Proportional Response construction, 12x142mm thru-axle, 27.2 dropper post ready, BSA 68mm threaded BB, DirectLine internal cable routing, removable fender bridge, multiple gear/bottle mounts",
+      "fourche": "Carbone : Topstone Carbon, 1-1/8\" to 1.5\" steerer, 55mm OutFront offset, flat mount disc, internal routing, 12x100 thru-axle, triple bottle/gear mounts, fender mounts"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX 800, 2x11 vitesses",
+      "dérailleur arrière": "Shimano GRX 810, Shadow RD+, 11 vitesses",
+      "cassette": "Shimano HG800, 11-34 dts",
+      "chaîne": "Shimano HG701",
+      "pédalier": "Shimano GRX 800, 48-31 dts",
+      "boîtier de pédalier": "Shimano BSA 68"
+    },
+    "dérailleur avant": "Shimano GRX 800, braze-on",
+    "équipements": {
+      "freins": "Shimano GRX 800 hydraulic disc, 160/160mm MT800 rotors",
+      "selle": "Fizik Terra Argo X5, S-alloy rails",
+      "tige de selle": "SAVE Carbon SmartSense, 27.2"
+    },
+    "roues": {
+      "jantes": "WTB KOM Light i23 TCS, 700c, 28h, tubeless ready",
+      "pneus": "Vittoria Terreno Dry 700x38c ANT tubeless compatible"
+    },
+    "direction": {
+      "cintre": "Cannondale 2 ShortDrop, 7050 alloy, 12 deg flare drop",
+      "potence": "Cannondale 2, 6061 Alloy, 31.8, 7°",
+      "jeu de direction": "Integrated, Carbon, 1-1/8\" - 1-1/2\""
+    },
+    "accessoires": "Batterie SmartSense, Eclairages avant et arrière, capteur de roue",
+    "référence": "C15252U"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 532,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 69.3,
+      "angle tube de selle (°)": 70.7,
+      "empattement (mm)": 1012,
+      "stack (mm)": 539,
+      "reach (mm)": 361,
+      "longueur tige de selle (mm)": 350
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 458,
+      "tube supérieur (mm)": 543,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 123,
+      "angle de direction (°)": 70.3,
+      "angle tube de selle (°)": 70.9,
+      "empattement (mm)": 1016,
+      "stack (mm)": 555,
+      "reach (mm)": 367,
+      "longueur tige de selle (mm)": 350
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 505,
+      "tube supérieur (mm)": 556,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 71.1,
+      "empattement (mm)": 1030,
+      "stack (mm)": 579,
+      "reach (mm)": 373,
+      "longueur tige de selle (mm)": 350
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 553,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 177,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 71.2,
+      "empattement (mm)": 1046,
+      "stack (mm)": 605,
+      "reach (mm)": 379,
+      "longueur tige de selle (mm)": 350
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 590,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 205,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 71.4,
+      "empattement (mm)": 1062,
+      "stack (mm)": 629,
+      "reach (mm)": 386,
+      "longueur tige de selle (mm)": 400
+    }
+  ]
+}

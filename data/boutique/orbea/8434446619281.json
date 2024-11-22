@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2683955",
+  "tailles": [
+    "S / 150-165 cm",
+    "M / 160-175 cm",
+    "L / 170-185 cm",
+    "XL / 180-198 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Orbea Laufey H10 Shimano Deore/SLX 12V 29'' Vert Olive Metallic 2024",
+  "marque": "Orbea",
+  "description": "Rouler en hardtail est un choix et non un compromis ; en choisissant un Orbea Laufey, vous choisissez de mettre du fun dans chaque coup de pédale. Vous êtes là pour vous amuser et le Laufey est prêt à vous accompagner avec une géométrie abaissée, une grosse fourche et la sensation magique qu’offre un cadre conçu pour absorber les vibrations des sentiers et amortir les plus gros chocs.\r\n\r\nIntégrer une touche de souplesse dans un cadre améliore son confort et offre un peu plus de traction au vélo, en particulier lorsque vous roulez vite. La maniabilité et l'équilibre du Laufey dans les passages compliqués proviennent d'une rigidité étudiée et d'un cadre sur lequel chaque tube a été soigneusement conçu pour offrir un comportement le plus ludique et le plus réactif possible. Ce sont de petits détails que vous ne remarquez que lorsque vous poussez le bouchon un peu trop loin et que vous vous en sortez malgré tout !\r\n\r\nPrenez un cadre abaissé et des angles plus relâchés. Ajoutez-y le concept \"Steep’n Deep\" pour maximiser l’agilité, une grosse fourche de 140 mm pour les passages les plus fous et des bases taillées pour accueillir des pneus agressifs allant jusqu'à 2,6 pouces de largeur. Voilà, vous tenez la recette idéale pour vous éclater ! Que vous rouliez en XC ou que vous préfériez vous amuser sur les pistes de jump, le Laufey est prêt à vous suivre : montez simplement des pneus XC ou un modèle plus agressif. La géométrie Trail du vélo invite aux dérapages, mais reste rassurante pour les vététistes novices.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/955/683955/2683955/5424487",
+  "mpn": "R25005P8",
+  "gtin13": "8434446619281",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 150-165 cm",
+      "stock": 2,
+      "prix": 1899,
+      "mpn": "R25003P8",
+      "sku": "2626460",
+      "gtin13": "8434446619175",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2811250-vtt_semi_rigide_orbea_laufey_h10_shimano_deore_slx_12v_29___vert_olive_metallic_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-175 cm",
+      "stock": 10,
+      "prix": 1899,
+      "mpn": "R25005P8",
+      "sku": "2626248",
+      "gtin13": "8434446619281",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2811250-vtt_semi_rigide_orbea_laufey_h10_shimano_deore_slx_12v_29___vert_olive_metallic_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-185 cm",
+      "stock": 10,
+      "prix": 1899,
+      "mpn": "R25007P8",
+      "sku": "2626220",
+      "gtin13": "8434446619502",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2811250-vtt_semi_rigide_orbea_laufey_h10_shimano_deore_slx_12v_29___vert_olive_metallic_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "P8 - Metallic Olive Green - Titanium Black (Gloss)"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Laufey Hydro Triple Butted, 29\", Boost 12x148 mm, ISCG 05",
+      "fourche": "Marzocchi Bomber Z2, Boost QR15X110 mm, 140 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano SLX M7100 SGS Shadow Plus, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano M6100",
+      "pédalier": "Shimano MT512, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6100, Hydr. Disc Brake",
+      "selle": "Selle Royal, 2058 DRN",
+      "tige de selle": "OC Mountail Control MC21, 31.6 mm, Dropper / Shimano SL-MT500 I-Spec EV Remote"
+    },
+    "roues": {
+      "jantes": "Alloy, 29c, 32H, Tubeless Ready, 29\"",
+      "pneus": "Maxxis Dissector, 60 TPI, Exo, TLR, 29x2.60\""
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC30, 20 mm Rise, 800 mm Width",
+      "potence": "Alloy 3D Forged, 35 mm interface, -7º",
+      "jeu de direction": "Acros Alloy 1-1/8 - 1-1/2\" Integrated"
+    },
+    "référence": "R250"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 572,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1182,
+      "stack (mm)": 633,
+      "reach (mm)": 427,
+      "longueur potence (mm)": 45,
+      "longueur tige de selle (mm)": 390,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 415,
+      "tube supérieur (mm)": 598,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1210,
+      "stack (mm)": 642,
+      "reach (mm)": 451,
+      "longueur potence (mm)": 45,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1241,
+      "stack (mm)": 656,
+      "reach (mm)": 475,
+      "longueur potence (mm)": 45,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 170
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 652,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1270,
+      "stack (mm)": 665,
+      "reach (mm)": 500,
+      "longueur potence (mm)": 55,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

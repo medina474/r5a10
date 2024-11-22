@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2489126",
+  "tailles": [
+    "M / 165-177 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm"
+  ],
+  "name": "VTT Tout-Suspendus Trek Fuel EX 7 29'' Shimano Deore/SLX 12V Matte Dnister Noir 2023",
+  "marque": "Trek",
+  "description": "Le Fuel EX 7 est un vélo de trail polyvalent conçu pour affronter les singletracks. La suspension améliorée avec 150 mm de débattement à l'avant et 140 mm à l'arrière adoucit les descentes difficiles et techniques, tandis que le cadre léger en aluminium maintient la vivacité sur les collines. Le nouveau rangement du cadre et la géométrie réglable vous permettent de profiter de tous les avantages du modèle en carbone, mais à une fraction du prix. Des roues sans chambre à air et une transmission Shimano 1x12 fiable complètent ce vélo pour garantir votre plaisir sur les sentiers.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/126/489126/2489126/4865738",
+  "mpn": "5272014",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 51,
+      "prix": 3099.99,
+      "mpn": "5272013",
+      "sku": "2456862",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2555270-vtt_tout_suspendus_trek_fuel_ex_7_29___shimano_deore_slx_12v_matte_dnister_noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 1,
+      "prix": 2299.99,
+      "mpn": "5272014",
+      "sku": "2456885",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2555270-vtt_tout_suspendus_trek_fuel_ex_7_29___shimano_deore_slx_12v_matte_dnister_noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 28,
+      "prix": 3099.99,
+      "mpn": "5272015",
+      "sku": "2456863",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2555270-vtt_tout_suspendus_trek_fuel_ex_7_29___shimano_deore_slx_12v_matte_dnister_noir_2023"
+    }
+  ],
+  "informations": {
+    "poids": "M - 15,97 kg (avec joint TRL, sans chambres à air)",
+    "poids maximum": "Ce vélo a un poids total maximum (comprenant le vélo, le cycliste et les bagages) de 136 kg.",
+    "genre": "Homme",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium Alpha Platinum, espace de rangement interne, jeu de direction à angle réglable, géométrie variable via Mino Link, rapport de levier réglable, routage interne guidé, basculeur en magnésium, tube de selle 34,9 mm, ISCG 05, ligne de chaîne 55 mm, BSA 73, protection du tube inférieur, ABP, UDH, Boost148, débattement 140 mm",
+      "fourche": "RockShox 35 Gold RL, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport 44 mm, Boost110, Maxle Stealth 15 mm, débattement 150 mm"
+    },
+    "amortisseur central": "Fox Performance Float EVOL, amortisseur DPS 3 positions, ajusté par le Trek Suspension Lab, 185x55 mm",
+    "levier de dérailleur": "Shimano SLX M7100, 12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Shimano XT M8100, galets longs",
+      "cassette": "Shimano Deore M6100, 10-51, 12 vitesses",
+      "chaîne": "Shimano Deore M6100",
+      "pédalier": "Shimano Deore M6120, plateau 30 dents, chaîne 55 mm, longueur 170 mm",
+      "boîtier de pédalier": "Shimano BB-MT501 BSA"
+    },
+    "équipements": {
+      "freins": "Disque hydraulique Slate EVO TRP",
+      "selle": "Bontrager Arvada, rails en acier, largeur 138 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Comp 30, Tubeless Ready, 28 trous, valve Presta",
+      "pneus": "Taille : XS , S Bontrager XR5 Team Issue, Tubeless Ready, carcasse Inner Strength, tringle en aramide, 60 tpi, 27,5x2,50 pouces Taille : S , M , ML , L , XL , XXL Bontrager XR5 Team Issue, Tubeless Ready, tringle en aramide, 120 tpi, 29x2,5 pouces"
+    },
+    "direction": {
+      "cintre": "Bontrager Rhythm Comp, aluminium, 31.8 mm, hauteur 15 mm, largeur 750 mm",
+      "potence": "Taille : XS , SBontrager en alliage, 31.8 mm, compatible Blendr, 7 degrés, longueur 35mmTaille : M , ML , L , XL , XXLAlliage Bontrager, 31.8 mm, compatible Blendr, 7 degrés, longueur 50 mm"
+    },
+    "poignée": "Bontrager XR Trail Comp, nylon lock-on",
+    "potence de selle": "Taille : XS , S TranzX JD-YSI-22PLQ, 100 mm de débattement, routage interne, 34.9 mm, 346 mm de longueur Taille : M , ML TranzX JD-YSI-22PLQ, 150 mm de débattement, routage interne, 34.9 mm, longueur 454 mm Taille : L , XL , XXL TranzX JD-YSI-22PLQ, course de 170 mm, acheminement interne, 34.9 mm, longueur 497 mm",
+    "taille du cadre": "M",
+    "tube de selle": 410,
+    "tube supérieur": 584,
+    "longueur de la base": 435,
+    "tube de tête": 100,
+    "angle de direction": "66 °",
+    "empattement": 1213
+  },
+  "geometries": [
+    {
+      "taille du cadre": "M",
+      "tube de selle": 410,
+      "tube supérieur": 584,
+      "longueur de la base": 435,
+      "tube de tête": 100,
+      "angle de direction": "66 °",
+      "empattement": 1213
+    },
+    {
+      "taille du cadre": "M / L",
+      "tube de selle": 420,
+      "tube supérieur": 607,
+      "longueur de la base": 440,
+      "tube de tête": 100,
+      "angle de direction": "66 °",
+      "empattement": 1233
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle": 435,
+      "tube supérieur": 627,
+      "longueur de la base": 440,
+      "tube de tête": 105,
+      "angle de direction": "66.5 °",
+      "empattement": 1250
+    }
+  ]
+}

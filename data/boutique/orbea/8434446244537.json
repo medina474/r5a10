@@ -1,0 +1,138 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2479451",
+  "tailles": [
+    "M / 165-180 cm",
+    "L / 178-190 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Orbea Alma M10 Shimano XT 12V 29'' Rouge Wine Carbon View 2023",
+  "marque": "Orbea",
+  "description": "La géométrie World Cup de l'Orbea Alma est l'aboutissement d'années de travail à dessiner des vélos XC de classe mondiale. La position est agressive, confortable et rapide. Contrairement à la géométrie trail qui sacrifie quelque peu la précision à l'endurance, la géométrie XC est précise et intuitive pour un transfert de puissance maximum. Les angles et les dimensions sont minutieusement calculés pour toute une gamme de tailles, afin d'optimiser la puissance avec une efficacité accrue. L'Alma est léger, rapide, et son rendement est encore meilleur. Peu de vélos de XC rigides d'aujourd'hui sont aussi ludiques et performants en montée.\r\n\r\nLes ingénieurs de chez Orbea utilisent une construction en carbone à la pointe de la technologie pour fabriquer le cadre le plus sophistiqué possible. Un processus complexe et laborieux dont vous apprécierez les résultats une fois en selle. Les cadres OMX (Orbea Monocoque X) associent exclusivement des fibres hauts modules et hautes résistances. Les feuilles de carbone sont découpées au laser pour réduire l’excès de matériau et les chevauchements, puis des heures de prémoulage assurent un compactage optimal avec une quantité de carbone minimale. Un moule complet en EPS (polystyrène expansé) et des inserts en latex sont utilisés pour éliminer plis et imperfections.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/451/479451/2479451/4831267",
+  "mpn": "N22621LZ",
+  "gtin13": "8434446244537",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-180 cm",
+      "stock": 1,
+      "prix": 2999.99,
+      "mpn": "N22618LZ",
+      "sku": "2398842",
+      "gtin13": "8434446244476",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2549526-vtt_semi_rigide_orbea_alma_m10_shimano_xt_12v_29___rouge_wine_carbon_view_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-190 cm",
+      "stock": 10,
+      "prix": 3335.55,
+      "mpn": "N22619LZ",
+      "sku": "2398942",
+      "gtin13": "8434446244506",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2549526-vtt_semi_rigide_orbea_alma_m10_shimano_xt_12v_29___rouge_wine_carbon_view_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 1,
+      "prix": 2999.99,
+      "mpn": "N22621LZ",
+      "sku": "2398692",
+      "gtin13": "8434446244537",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2549526-vtt_semi_rigide_orbea_alma_m10_shimano_xt_12v_29___rouge_wine_carbon_view_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "LZ - Wine Red Carbon View (Gloss) - Carbon Raw (Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Alma Carbon OMX, Boost 12x148 mm, PF BB, Internal cable routing",
+      "fourche": "Fox 34 Float SC Performance, Remote Push-Unlock, 3POS, Boost 15x110 mm, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT M8100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT M8100, SGS, Shadow Plus, 12-vitesses",
+      "cassette": "Shimano CS-M7100, 10-51 Dents",
+      "chaîne": "Shimano M7100",
+      "pédalier": "Shimano XT M8100, 34 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6100, Hydr. Disc Brake",
+      "selle": "Fizik Taiga, S-alloy rail",
+      "tige de selle": "OC Performance XP10 Carbon, 27.2 mm, Setback 0 mm"
+    },
+    "roues": {
+      "jantes": "OQUO Mountain Performance MP28PRO, 29\"",
+      "pneus": "Maxxis Rekon Race, 120 TPI, EXO, TLR, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "OC MP10 Mountain Performance Carbon, Width 760 mm, Sweep 9°",
+      "potence": "OC Mountain Performance MP20, -8º",
+      "jeu de direction": "Acros 1-1/8 - 1-1/2\" Semi-intergated Block Lock"
+    },
+    "référence": "N226"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 559,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1083,
+      "stack (mm)": 593,
+      "reach (mm)": 395
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 593,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1118,
+      "stack (mm)": 602,
+      "reach (mm)": 426
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 483,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1144,
+      "stack (mm)": 612,
+      "reach (mm)": 448
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 533,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1175,
+      "stack (mm)": 625,
+      "reach (mm)": 474
+    }
+  ]
+}

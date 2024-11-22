@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2126772",
+  "tailles": [
+    "XS / 152-163 cm",
+    "S / 160-170 cm",
+    "M / 168-178 cm",
+    "L / 175-183 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Fuji Nevada 27.5'' 1.7 Shimano 8V Bleu Cyan",
+  "marque": "Fuji",
+  "description": "Le Fuji Nevada 27.5 1.7 est un VTT récréatif parfait pour les cyclistes débutants qui souhaitent plonger leurs orteils dans le trail, une solution pour les trajets quotidiens ou tout simplement un vélo amusant pour la ville ou la campagne. Un cadre avec une géométrie mise à jour pour 2021, le Nevada assure confort et fiabilité, tandis que les supports de garde-boue arrière et de support ainsi qu'un support de béquille en font une véritable machine à tout faire.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/772/126772/2126772/3972561",
+  "mpn": "11212265815",
+  "gtin13": "0785749192949",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 160-170 cm",
+      "stock": 6,
+      "prix": 379.99,
+      "mpn": "11212265815",
+      "sku": "1809258",
+      "gtin13": "0785749192949",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1982044-vtt_semi_rigide_fuji_nevada_27_5___1_7_shimano_8v_bleu_cyan"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Cyan"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Panaché 8V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Fuji A2-SL custom-butted alloy front triangle, Fuji A1-SL alloy rear triangle",
+      "fourche": "SR Suntour SF19-XCT30-HLO-DS-27.5, hydraulic lockout, 100mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Altus, Rapid Fire, 3 x 8-vitesses",
+      "dérailleur arrière": "Shimano Acera, 8-vitesses",
+      "cassette": "Shimano HG31, 11-34 Dents",
+      "chaîne": "KMC HV700",
+      "pédalier": "Prowheel, 42/34/24 Dents",
+      "boîtier de pédalier": "Sealed cartridge bearing"
+    },
+    "dérailleur avant": "Shimano Tourney",
+    "équipements": {
+      "freins": "Tektro HD-M275, Mech. Disc, 180/160mm rotors",
+      "pédales": "Resin platform",
+      "selle": "Fuji Performance",
+      "tige de selle": "Fuji, alloy, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "WTB SX19 rims 32H, Formula DC-20 front, DC-22 rear hubs, black spokes",
+      "pneus": "WTB Ranger Comp, 27.5\" x 2.25\", 27tpi"
+    },
+    "direction": {
+      "cintre": "Fuji riser bar, alloy, 15mm rise, 710mm",
+      "poignées": "Fuji Performance Grip",
+      "potence": "Fuji, forged aluminum, +/-6°",
+      "jeu de direction": "1 1/8\" sealed bearings"
+    }
+  },
+  "geometries": [
+    {
+      "taille": "XS",
+      "taille cadre (pouces)": 13,
+      "tube de selle (mm)": 310,
+      "tube supérieur (mm)": 562,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1068.5,
+      "stack (mm)": 596,
+      "reach (mm)": 380
+    },
+    {
+      "taille": "S",
+      "taille cadre (pouces)": 15,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 581,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1087,
+      "stack (mm)": 600,
+      "reach (mm)": 397
+    },
+    {
+      "taille": "M",
+      "taille cadre (pouces)": 17,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 601,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1109,
+      "stack (mm)": 610,
+      "reach (mm)": 415
+    },
+    {
+      "taille": "L",
+      "taille cadre (pouces)": 19,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 629,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1137,
+      "stack (mm)": 619,
+      "reach (mm)": 440
+    }
+  ]
+}

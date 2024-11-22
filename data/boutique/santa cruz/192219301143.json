@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2577213",
+  "tailles": [
+    "XS / 142-155 cm",
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-195 cm",
+    "XXL / 195-205 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Santa Cruz 5010 Carbon C Sram NX Eagle 12V 29''/27.5'' (MX) Rouge 2023",
+  "marque": "Santa Cruz",
+  "description": "Le 5010 n'est pas simplement le \"petit vélo\" de notre gamme. Il donne à n'importe quel chemin une saveur particulière, imaginant modules, transfers et autres virages relevés improvisés. Comme si de nouvelles possibilités devenaient à portée de main. Le 5010 a toujours eu plus de capacités qu'on ne peut l'imaginer, mais en ajoutant la confiance d'une roue avant en 29\" et une suspension arrière optimisée, le 5010 vient toucher du doigt un type de pilotage auquel vous auriez difficilement imaginé pouvoir accéder.\r\n\r\nLa configuration \"mixed wheels\" offre la stabilité et l'adhérence d'une roue avant en 29\", associée à une roue arrière en 27,5\" apportant vivacité et maniabilité.\r\n\r\nPlacez tout ce que vous souhaitez pour votre sortie dans l'emplacement sécurisé et assurément qualitatif se trouvant dans le tube inférieur. Notre Glovebox, ou plus communément appelée boite à gants, est équipée d'origine d'une trousse à outil et d'un étui pour chambre à air. Deux pochettes de qualité pour garder tout ce dont vous pourriez avoir besoin à portée de main.\r\n\r\nLe carbone CC utilise les matériaux et les procédés les plus poussés sur le marché. Le carbone C offre les mêmes performances et la même rigidité, mais avec une construction un peu moins travaillée et un poids légèrement plus élevé. Dans les deux cas, la rigidité est optimisée pour chaque taille de cadre. Un pilote plus grand et plus lourd signifie forcément plus d'efforts sur un cadre. C'est pourquoi nous optimisons la rigidité de chaque taille de cadre pour s'assurer que chacun aura la meilleure expérience sur le vélo.\r\n\r\nUne petite fenêtre permettant de voir le sag facilite le réglage de l'amortisseur. D'autres détails sont poussés comme le petit garde-boue qui protège l’amortisseur, le passage des gaines et durites bien intégrées et guidées en interne dans le triangle avant, ainsi que des protections caoutchouc bien placées.\r\n\r\nLa finition légendaire Santa Cruz, le ressenti sur le terrain et la qualité de construction en font une référence. Le cadre, les roulements du cadre et les roues Reserve en option sont couverts par la garantie à vie et chaque entretien est secondé par notre service \"Rider Support\".",
+  "image": "https://product-cdn-frz.alltricks.com/medium/213/577213/2577213/5198763",
+  "mpn": "192219301143",
+  "gtin13": "192219301143",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 4199.99,
+      "mpn": "192219301143",
+      "sku": "2406078",
+      "gtin13": "192219301143",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2688566-vtt_tout_suspendu_santa_cruz_5010_carbon_c_sram_nx_eagle_12v_29___27_5____mx__rouge_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gloss Red"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.07,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "kit ": "R / Carbone C",
+    "châssis": {
+      "cadre": "Carbone : Santa Cruz 5010 MX Kit R, 130 mm travel",
+      "fourche": "RockShox Pike Base, 140mm",
+      "amortisseur": "Fox Float Performance DPS, 210x50"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX Eagle 1x12 vitesses",
+      "dérailleur arrière": "Sram NX Eagle 12 vitesses",
+      "cassette": "Sram PG1230, 11-50 dents",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Truvativ Descendant DUB 32 dents",
+      "boîtier de pédalier": "Sram DUB 68/73mm"
+    },
+    "équipements": {
+      "freins": "Sram Guide T, disques Avid Centerline 200/180 mm",
+      "selle": "WTB Silverado Medium CroMo",
+      "tige de selle": "SDG Tellis Dropper, 31.6"
+    },
+    "roues": {
+      "jantes": "RaceFace AR Offset 30",
+      "moyeu avant": " MTH 716, 15x110, 32h ",
+      "moyeu arrière": "TH 746, 12x148, 32h",
+      "pneu avant": "xis Minion DHR II 29\"x2.4\", 3C MaxxGrip, EXO, TR ",
+      "pneu arrière": "s Minion DHR II 27.5\"x2.4\", 3C MaxxTerra, EXO, TR"
+    },
+    "direction": {
+      "cintre": "Burgtec RideWide Alloy Bar, 800mm",
+      "poignées": "Santa Cruz Bicycles House Grips",
+      "potence": "Burgtec Enduro MK3, 42mm",
+      "jeu de direction": "Cane Creek 10 IS Integrated Headset"
+    }
+  },
+  "geometries": [
+    {
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 544,
+      "longueur base (mm)": 428,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 65.2,
+      "angle tube de selle (°)": 77.4,
+      "empattement (mm)": 1147,
+      "stack (mm)": 599,
+      "reach (mm)": 410
+    },
+    {
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.22,
+      "angle tube de selle (°)": 77.4,
+      "empattement (mm)": 1178,
+      "stack (mm)": 608,
+      "reach (mm)": 434
+    },
+    {
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 598,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 65.2,
+      "angle tube de selle (°)": 77.4,
+      "empattement (mm)": 1212,
+      "stack (mm)": 622,
+      "reach (mm)": 459
+    },
+    {
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 624,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 65.2,
+      "angle tube de selle (°)": 77.1,
+      "empattement (mm)": 1239,
+      "stack (mm)": 631,
+      "reach (mm)": 479
+    },
+    {
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 645,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 65.2,
+      "angle tube de selle (°)": 77.3,
+      "empattement (mm)": 1271,
+      "stack (mm)": 649,
+      "reach (mm)": 499
+    },
+    {
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 673,
+      "longueur base (mm)": 442,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 65.1,
+      "angle tube de selle (°)": 77.3,
+      "empattement (mm)": 1305,
+      "stack (mm)": 662,
+      "reach (mm)": 524
+    }
+  ]
+}

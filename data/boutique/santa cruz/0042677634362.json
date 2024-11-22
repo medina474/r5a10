@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2681662",
+  "tailles": [
+    "L / 175-185 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Santa Cruz Hightower 3 R Carbone C Sram NX Eagle 12V 29'' Vert 2023",
+  "marque": "Santa Cruz",
+  "description": "La dernière génération du Hightower reste un best-of en matière d'ingénierie. Aujourd'hui retravaillé, mais toujours paré à tous les terrains. Grand dans sa taille de roues, modéré en débattement et faible en excuses, ce modèle à tout faire ne cesse d'en redemander grâce à un mélange équilibré entre durabilité, équipements optimisés et géométrie adaptée. Si vous ne cherchez pas à aller dans les extrêmes, mais cherchez un vélo extrêmement efficace, le Hightower est votre nouvelle référence.\r\n\r\nLe système de suspension VPP utilise un bras oscillant d'une seule pièce qui ne nécessite pas de points de pivot sur les bases et ainsi procure un ensemble robuste et extrêmement performant.\r\n\r\nSensibilité de la suspension : En comparant avec le Hightower précédent, Les équipes de Santa Cruz ont réduit les anti-squat sur les premiers 40% du débattement. Ceci améliore notablement la sensibilité de la suspension, en montée comme en descente, grâce à l’influence de la chaîne sur la suspension qui se voit réduite.\r\n\r\nConsistance de la suspension : La courbe de ratio de suspension est légèrement plus droite que pour la version précédente du Hightower, offrant plus de progressivité sur la fin du débattement. Ceci permet une plus grande résistance au talonnage avec un amortissement plus consistant et un meilleur support. \r\n\r\nGlovebox : Placez tout ce que vous souhaitez pour votre sortie dans l'emplacement sécurisé et assurément qualitatif se trouvant dans le tube inférieur. Notre Glovebox, ou plus communément appelée boite à gants, est équipée d'origine d'une trousse à outil et d'un étui pour chambre à air. Deux pochettes de qualité pour garder tout ce dont vous pourriez avoir besoin à portée de main.\r\n \r\nAperçu du Sag : Une petite fenêtre permettant de voir le sag facilite le réglage de l'amortisseur. Le détail est poussé avec un petit garde-boue qui protège l’amortisseur, avec le passage des gaines et durites bien intégrées et guidées en interne dans le triangle avant, ainsi que des protections caoutchouc bien placées.\r\n\r\nFlip chip : En position basse, le ratio de suspension devient plus progressif, spécialement en fin de course avec une forte résistance au talonnage. En position haute, le vélo restera plus haut en débattement avec un meilleur support mi-course. Les plus pointilleux pourront adapter la suspension, selon leurs besoins et préférences.  ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/662/681662/2681662/5410888",
+  "mpn": "192219249261",
+  "gtin13": "0042677634362",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-185 cm",
+      "stock": 1,
+      "prix": 4599.99,
+      "mpn": "192219249261",
+      "sku": "2364271",
+      "gtin13": "0042677634362",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2806767-vtt_tout_suspendu_santa_cruz_hightower_3_r_carbone_c_sram_nx_eagle_12v_29___vert_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Green"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.4,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 145,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Santa Cruz Hightower 3 C 29'' Kit R",
+      "fourche": "RockShox Lyrik Base, 150mm",
+      "amortisseur": "FOX Float Performance, 210x55"
+    },
+    "transmission": {
+      "manette de dérailleur": "SRAM NX Eagle, 12spd",
+      "dérailleur arrière": "SRAM NX Eagle, 12spd",
+      "cassette": "SRAM PG1230, 12spd, 11-50 dts",
+      "chaîne": "SRAM NX Eagle, 12spd",
+      "pédalier": "SRAM Descendant Eagle 148 DUB 32 dts",
+      "boîtier de pédalier": "SRAM DUB 68/73mm Threaded BB"
+    },
+    "équipements": {
+      "freins": "SRAM G2 R, Avid Centerline, 200/180 mm",
+      "selle": "WTB Silverado, CroMo",
+      "tige de selle": "SDG Tellis Dropper, 31.6"
+    },
+    "roues": {
+      "jantes": "Avant : RaceFace AR Offset 30, 29\" / Arrière : RaceFace AR Offset 30, 29\"",
+      "moyeu avant": "SRAM MTH 716, 15x110, Torque Cap, 6-Bolt 32h ",
+      "moyeu arrière": "SRAM MTH 746, 12x148, 6-Bolt, 32h, roue libre HG",
+      "pneu avant": " Maxxis Minion DHR II 29\"x2.4\", 3C MaxxGrip, EXO ",
+      "pneu arrière": " Maxxis Minion DHR II 29\"x2.4\", 3C MaxxTerra, EXO"
+    },
+    "direction": {
+      "cintre": "RaceFace Aeffect R",
+      "poignées": "Santa Cruz Bicycles House Grips",
+      "potence": "Burgtec Enduro MK3, 42mm",
+      "jeu de direction": "FSA IS-2/47/42 ACB or Cane Creek 10 IS Integrated"
+    }
+  },
+  "geometries": [
+    {
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 431,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1183,
+      "stack (mm)": 611,
+      "reach (mm)": 430
+    },
+    {
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1217,
+      "stack (mm)": 625,
+      "reach (mm)": 455
+    },
+    {
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 626,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 76.7,
+      "empattement (mm)": 1244,
+      "stack (mm)": 634,
+      "reach (mm)": 475
+    },
+    {
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 76.9,
+      "empattement (mm)": 1276,
+      "stack (mm)": 652,
+      "reach (mm)": 495
+    },
+    {
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 674,
+      "longueur base (mm)": 443,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 64.8,
+      "angle tube de selle (°)": 76.9,
+      "empattement (mm)": 1310,
+      "stack (mm)": 665,
+      "reach (mm)": 520
+    }
+  ]
+}

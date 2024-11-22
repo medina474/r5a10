@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2107874",
+  "tailles": [
+    "52 cm / 163-168 cm",
+    "54 cm / 168-174 cm",
+    "56 cm / 174-180 cm",
+    "58 cm / 180-185 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Trek Checkpoint SL 7 Sram Force eTAP AXS Bleu Aquatic / Noir Carbon 2023",
+  "marque": "Trek",
+  "description": "Le Checkpoint SL 7 eTap unit un cadre gravel en OCLV Carbon et la technologie IsoSpeed ainsi que des composants de pointe sélectionnés pour les performances et les qualités de comportement incroyables lors des aventures de gravel les plus dures. Une géométrie progressive agile, mais stable, une transmission électronique sans fil intelligente et fluide, des roues en carbone et un espace de rangement interne vous procurent le confort et les capacités pour vous lancer dans votre prochaine aventure tout-chemin.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/874/107874/2107874/3954625",
+  "mpn": "5260840",
+  "gtin13": "601842588888",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "52 cm / 163-168 cm",
+      "stock": 1,
+      "prix": 3899,
+      "mpn": "5260840",
+      "sku": "2103365",
+      "gtin13": "601842588888",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-1982798-gravel_bike_trek_checkpoint_sl_7_sram_force_etap_axs_bleu_aquatic___noir_carbon_2023"
+    }
+  ],
+  "informations": {
+    "poids constructeur (en g)": 8065,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Force eTap AXS 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "49 cm",
+      "tube de selle": 490,
+      "tube supérieur": 515,
+      "longueur base": 425,
+      "douille de direction": 90,
+      "angle de direction": "71.4°",
+      "angle tube de selle": "75.0°",
+      "empattement": 995
+    },
+    {
+      "taille cadre": "52 cm",
+      "tube de selle": 520,
+      "tube supérieur": 536,
+      "longueur base": 425,
+      "douille de direction": 107,
+      "angle de direction": "71.6°",
+      "angle tube de selle": "74.0°",
+      "empattement": 1005
+    },
+    {
+      "taille cadre": "54 cm",
+      "tube de selle": 540,
+      "tube supérieur": 551,
+      "longueur base": 425,
+      "douille de direction": 126,
+      "angle de direction": "71.8°",
+      "angle tube de selle": "73.5°",
+      "empattement": 1014
+    },
+    {
+      "taille cadre": "56 cm",
+      "tube de selle": 560,
+      "tube supérieur": 566,
+      "longueur base": 425,
+      "douille de direction": 145,
+      "angle de direction": "72.2°",
+      "angle tube de selle": "73.0°",
+      "empattement": 1020
+    },
+    {
+      "taille cadre": "58 cm",
+      "tube de selle": 580,
+      "tube supérieur": 577,
+      "longueur base": 425,
+      "douille de direction": 171,
+      "angle de direction": "72.3°",
+      "angle tube de selle": "73.0°",
+      "empattement": 1032
+    },
+    {
+      "taille cadre": "61 cm",
+      "tube de selle": 610,
+      "tube supérieur": 592,
+      "longueur base": 425,
+      "douille de direction": 200,
+      "angle de direction": "72.6°",
+      "angle tube de selle": "73.0°",
+      "empattement": 1044
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2573624",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BH Spike 1.0 Shimano Tourney 7V 29'' Rouge",
+  "marque": "BH",
+  "description": "Le Spike 1.0 est le vélo idéal sur les terrains irréguliers et caillouteux, le VTT Spike 29” est plus facile à contrôler puisque la roue, de plus grande taille, franchit plus aisément n'importe quel obstacle. Fabriqué en alu 6061 pour garantir sa rigidité et un poids de cadre de 1 800 grammes seulement.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/624/573624/2573624/5190733",
+  "mpn": "A1092RWRMD",
+  "gtin13": "8413616896073",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 389.99,
+      "mpn": "A1092RWRMD",
+      "sku": "2560283",
+      "gtin13": "8413616896073",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2684703-vtt_semi_rigide_bh_spike_1_0_shimano_tourney_7v_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 193,
+      "prix": 434.99,
+      "mpn": "A1092RWRLA",
+      "sku": "2560184",
+      "gtin13": "8413616896080",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2684703-vtt_semi_rigide_bh_spike_1_0_shimano_tourney_7v_29___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-202 cm",
+      "stock": 30,
+      "prix": 434.99,
+      "mpn": "A1092RWRXL",
+      "sku": "2560412",
+      "gtin13": "8413616896097",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2684703-vtt_semi_rigide_bh_spike_1_0_shimano_tourney_7v_29___rouge"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Tourney 7V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Spike 29\", Alloy Frame",
+      "fourche": "Spike"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano ST-EF505 2x7 vitesses",
+      "dérailleur arrière": "Shimano TX55, 7 vitesses",
+      "cassette": "Shimano HG-200",
+      "chaîne": "KMC",
+      "pédalier": "Prowheel"
+    },
+    "dérailleur avant": "Shimano TY300",
+    "équipements": {
+      "freins": "Shimano MT-200",
+      "selle": "BH",
+      "tige de selle": "BH"
+    },
+    "roues": {
+      "jantes": "Alloy Double Wall 29''",
+      "pneus": "DSI"
+    },
+    "direction": {
+      "cintre": "BH",
+      "poignées": "BH",
+      "potence": "BH Alloy",
+      "jeu de direction": "BH"
+    },
+    "collier de selle": "BH",
+    "référence": "A1092"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1097,
+      "stack (mm)": 614,
+      "reach (mm)": 387
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 587,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1110,
+      "stack (mm)": 624,
+      "reach (mm)": 396
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1124,
+      "stack (mm)": 634,
+      "reach (mm)": 406
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1144,
+      "stack (mm)": 644,
+      "reach (mm)": 436
+    }
+  ]
+}

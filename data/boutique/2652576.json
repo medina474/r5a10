@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2652576",
+  "tailles": [
+    "17 Pouces / 165-174 cm",
+    "19 Pouces / 173-182 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cube Reaction C:62 One Sram NX/SX Eagle 12V 29'' Gris Carbon Noir 2023",
+  "marque": "Cube",
+  "description": "Développé à partir du carbone C:62 et à l’aide du procédé de fabrication Advanced Twin Mold de Cube, le Reaction C:62 ne laisse rien au hasard dans sa quête de légèreté, de vitesse exceptionnelle et de réactivité. Il présente une base arrière plus courte avec axe traversant Boost, tube de direction conique et bénéficie de la technologie Agile Ride Geometry. Additionnez tout cela et vous obtenez la garantie d’un pilotage réactif et dynamique. Ses haubans plus étroits et sa tige de selle de 27,2 mm vous permettent d'en apprécier le confort plus longtemps, et ce, même lorsque vous êtes à fond. Le passage de câbles interne réduit les contraintes d’entretien et vous permet de consacrer votre temps à rouler plutôt qu'à régler vos vitesses.\r\n\r\nSi vous avez toujours rêvé de goûter aux incroyables performances d’un cadre en carbone, votre rêve est sur le point de devenir réalité. Le Cube Reaction C:62 One combine la légèreté, le confort absolu et la réactivité du carbone C:62® avec la précision d'une transmission Sram 1x12 pour des accélérations et des changements de vitesse instantanés. Ses puissants freins à disque hydrauliques Shimano Deore offrent un freinage fiable quelle que soit la nature du terrain, et sa fourche suspendue Suntour Raidon XC32 absorbe les irrégularités du chemin devant vous. Il est léger, rapide et offre la garantie d’un sourire constant. Êtes-vous prêt pour ça ?",
+  "image": "https://product-cdn-frz.alltricks.com/medium/576/652576/2652576/5334445",
+  "mpn": "61605019",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "19 Pouces / 173-182 cm",
+      "stock": 1,
+      "prix": 1599.99,
+      "mpn": "61605019",
+      "sku": "2397457",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2770779-vtt_semi_rigide_cube_reaction_c_62_one_sram_nx_sx_eagle_12v_29___gris_carbon_noir_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "carbon´n´white"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 11.7,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX/SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:62 Monocoque Advanced Twin Mold Technology, ARG2, Tapered Headtube, PressFit BB, Boost 12x148 mm, Internal Cable Routing, Dropper Post Ready, Width tire maximum: 57 mm",
+      "fourche": "SR Suntour Raidon 32 Air, Boost 15x110 mm, Remote Lockout, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram SX Eagle Trigger, 1x12-vitesses",
+      "dérailleur arrière": "Sram NX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1230 Eagle, 11-50 Dents",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Sram SX Eagle DUB, 32 Dents",
+      "boîtier de pédalier": "Sram DUB MTB, 92 mm Pressfit"
+    },
+    "équipements": {
+      "freins": "Shimano Deore BR-M6100, Hydr. Disc Brake, (180/160)",
+      "selle": "Natural Fit Venec",
+      "tige de selle": "Cube Performance Post, 400x27.2 mm"
+    },
+    "roues": {
+      "jantes": "Answer Atac AM, Tubeless Ready, Boost 15x110 mm / 12x148 mm",
+      "pneu avant": " Schwalbe Racing Ray, Addix Performance, Kevlar, 29x2.25\" ",
+      "pneu arrière": " Schwalbe Racing Ralph, Addix Performance, Kevlar, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "Cube Flat Race Bar, 720 mm",
+      "poignées": "Acid React Pro",
+      "potence": "Cube Performance Stem SLX, 31.8 mm, -6°",
+      "jeu de direction": "VP Integrated, Top 1 1/8\", Bottom 1 1/2\""
+    },
+    "référence": 616050
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 15,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1070,
+      "stack (mm)": 609,
+      "reach (mm)": 389,
+      "longueur de la potence (mm)": 70
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 17,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 588,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1091,
+      "stack (mm)": 618,
+      "reach (mm)": 406,
+      "longueur de la potence (mm)": 80
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 19,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 609,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1113,
+      "stack (mm)": 627,
+      "reach (mm)": 425,
+      "longueur de la potence (mm)": 90
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (pouces)": 21,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 515,
+      "tube supérieur (mm)": 628,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1138,
+      "stack (mm)": 637,
+      "reach (mm)": 441,
+      "longueur de la potence (mm)": 100
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de cadre (pouces)": 23,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 565,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1154,
+      "stack (mm)": 651,
+      "reach (mm)": 456,
+      "longueur de la potence (mm)": 100
+    }
+  ]
+}

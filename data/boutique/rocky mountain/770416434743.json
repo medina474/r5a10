@@ -1,0 +1,116 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2589882",
+  "tailles": [
+    "S / 157-170 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Rocky Mountain Fusion Powerplay 30 Shimano Deore SLX 12V 480Wh 29'' Vert Bleu 2023",
+  "marque": "Rocky Mountain",
+  "description": " \r\n\r\nQu’il s'agisse d'aller au travail, d'explorer le gravier ou de rouler sur un singletrack, le Fusion Powerplay est votre hardtail à tout faire. En combinant la puissance du système de transmission Dyname 4.0 et toute la convivialité du Fusion, ce vélo ludique vous ouvrira un nouveau monde d’aventure.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/882/589882/2589882/5230118",
+  "mpn": "B0281XL93",
+  "gtin13": "770416434743",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 157-170 cm",
+      "stock": 2,
+      "prix": 3712.75,
+      "mpn": "B0281SM93",
+      "sku": "2587474",
+      "gtin13": "770416434446",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714414-vtt_electrique_semi_rigide_rocky_mountain_fusion_powerplay_30_shimano_deore_slx_12v_480wh_29___vert_bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 1,
+      "prix": 3899.99,
+      "mpn": "B0281MD93",
+      "sku": "2587458",
+      "gtin13": "770416434545",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714414-vtt_electrique_semi_rigide_rocky_mountain_fusion_powerplay_30_shimano_deore_slx_12v_480wh_29___vert_bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 3712.75,
+      "mpn": "B0281LG93",
+      "sku": "2587457",
+      "gtin13": "770416434644",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714414-vtt_electrique_semi_rigide_rocky_mountain_fusion_powerplay_30_shimano_deore_slx_12v_480wh_29___vert_bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 1,
+      "prix": 3899.99,
+      "mpn": "B0281XL93",
+      "sku": "2587514",
+      "gtin13": "770416434743",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2714414-vtt_electrique_semi_rigide_rocky_mountain_fusion_powerplay_30_shimano_deore_slx_12v_480wh_29___vert_bleu_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1165,
+      "stack (mm)": 632,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 628,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1199,
+      "stack (mm)": 641,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 655,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1233,
+      "stack (mm)": 650,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 680,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1263,
+      "stack (mm)": 650,
+      "reach (mm)": 500
+    }
+  ]
+}

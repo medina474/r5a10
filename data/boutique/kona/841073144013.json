@@ -1,0 +1,113 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2124038",
+  "tailles": [
+    "S / 151-170 cm",
+    "M / 168-177 cm",
+    "L / 175-188 cm",
+    "XL / 180-190 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Kona Honzo Shimano Deore 11V 29'' Gris Etain ",
+  "marque": "Kona",
+  "description": "Souvent imité, mais jamais dupliqué, le Honzo fait partie de la fondation de Kona. Le Honzo est la solution pour le cycliste qui souhaite quelque chose d'un peu plus agressif qu'un hardtail de cross-country traditionnel.\r\nUne fourche de 120 mm fournit juste assez de suspension pour faire un travail rapide sur les sections techniques de la piste.\r\nQue vous soyez un cycliste chevronné à la recherche d'un hardtail intemporel ou un nouveau cycliste souhaitant s'aventurer un peu plus loin dans le monde du VTT, le Honzo est un excellent choix.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/38/124038/2124038/3968809",
+  "mpn": "B22HZ03",
+  "gtin13": "841073144013",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-177 cm",
+      "stock": 1,
+      "prix": 799.99,
+      "mpn": "B22HZ03",
+      "sku": "2135369",
+      "gtin13": "841073144013",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1976912-vtt_semi_rigide_kona_honzo_shimano_deore_11v_29___gris_etain"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gris Etain"
+    }
+  ],
+  "informations": {
+    "poids": "N.C.",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Kona 6061 Aluminum Butted, Boost 148 mm",
+      "fourche": "RockShox Recon RL Solo Air 120 mm Tapered, Boost 110 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore, 11 vitesses",
+      "dérailleur arrière": "Shimano Deore, 11 vitesses",
+      "cassette": "Shimano Deore, 11-51 Dents, 11 vitesses",
+      "chaîne": "Shimano Deore, 11 vitesses",
+      "pédalier": "Shimano Deore, 30 Dents ",
+      "boîtier de pédalier": "Shimano Deore 73 mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT410 Hydraulique, disque RT30 (180/160), centerlock",
+      "selle": "Kona Trail",
+      "tige de selle": "TranzX Dropper +RAD Internal w/ Shimano Lever 31.6 mm"
+    },
+    "roues": {
+      "jantes": "Jantes : WTB ST i30 TCS / Moyeux : Shimano (15x110/12x148), centerlock",
+      "pneus": "Schwalbe Nobby Nic TLE 29x2.4\""
+    },
+    "direction": {
+      "cintre": "Kona XC/BC 35",
+      "poignées": "Kona Key Grip",
+      "potence": "Kona XC/BC 35",
+      "jeu de direction": "Feimin FP-H863"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle": 385,
+      "tube supérieur": 592,
+      "longueur base": 420,
+      "douille de direction": 100,
+      "angle de direction": "66.5°",
+      "angle tube de selle": "74°",
+      "empattement": 1142
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle": 410,
+      "tube supérieur": 610,
+      "longueur base": 420,
+      "douille de direction": 110,
+      "angle de direction": "66.5°",
+      "angle tube de selle": "74°",
+      "empattement": 1171
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle": 450,
+      "tube supérieur": 637,
+      "longueur base": 420,
+      "douille de direction": 120,
+      "angle de direction": "66.5°",
+      "angle tube de selle": "74°",
+      "empattement": 1200
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle": 485,
+      "tube supérieur": 678,
+      "longueur base": 420,
+      "douille de direction": 140,
+      "angle de direction": "66.5°",
+      "angle tube de selle": "74°",
+      "empattement": 1243
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2650990",
+  "tailles": [
+    "S / 157-170 cm",
+    "M / 168-180 cm",
+    "L / 178-191 cm",
+    "XL / 188-201 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "3T Exploro Primo Sram Apex XPLR AXS 12V 700 mm Gris 2023",
+  "marque": "3T",
+  "description": "Allez lentement, mais plus vite ! Le cadre du 3T Exploro Primo est le tout premier cadre gravel aéro, conçu pour être rapide et confortable sur la route et sur les chemins. Il permet d'accueillir des pneus larges, jusqu'à 54 mm de section, pour s'adapter à différents terrains. Les formes aérodynamiques de son cadre ont été étudiées à des vitesses réelles et dans de vraies conditions de roulage, quel que soit le terrain. Avec sa géométrie compacte et son design épuré (tubes Sqaero, passage des gaines en interne, serrage de selle intégré, etc …), l’Exploro est un gravel bike « aéro » qui permet des accélérations phénoménales et un grip impressionnant sur tous les terrains.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/990/650990/2650990/5330824",
+  "mpn": "9339FFBA83W",
+  "gtin13": "4895211845825",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 157-170 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "9339FFAX83W",
+      "sku": "2650398",
+      "gtin13": "4895211845993",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2768224-gravel_bike_3t_exploro_primo_sram_apex_xplr_axs_12v_700_mm_gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 3,
+      "prix": 3299.99,
+      "mpn": "9339FFAY83W",
+      "sku": "2650416",
+      "gtin13": "4895211845801",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2768224-gravel_bike_3t_exploro_primo_sram_apex_xplr_axs_12v_700_mm_gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-191 cm",
+      "stock": 2,
+      "prix": 3299.99,
+      "mpn": "9339FFAZ83W",
+      "sku": "2650399",
+      "gtin13": "4895211845917",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2768224-gravel_bike_3t_exploro_primo_sram_apex_xplr_axs_12v_700_mm_gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-201 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "9339FFBA83W",
+      "sku": "2650410",
+      "gtin13": "4895211845825",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2768224-gravel_bike_3t_exploro_primo_sram_apex_xplr_axs_12v_700_mm_gris_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Grey"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex XPLR eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : 3T Exploro Primo, Unidirectional pre-preg carbon, High-modulus/high-strength performance blend layup, Width tire maximum: 54 mm",
+      "fourche": "Carbone : 3T Fango"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex AXS, 1x12-Vitesses",
+      "dérailleur arrière": "Sram Apex XPLR AXS, Max. 44 Dents, 12-Vitesses",
+      "cassette": "Sram XPLR, 11-44 Dents",
+      "pédalier": "Sram Apex 1 Wide (ou FSA Omega), 42 Dents (ou 40 Dents)"
+    },
+    "équipements": {
+      "freins": "Sram Apex AXS, Hydr. Disc Brake, Sram Rotors (160/160)",
+      "selle": "Selle Italia Model X Superflow",
+      "tige de selle": "3T Exploro Primo, Carbon"
+    },
+    "roues": {
+      "jantes": "Fulcrum Rapid Red 900, 700c, tubeless ready",
+      "pneus": "Pirelli Cinturato Gravel M, 700x40C"
+    },
+    "direction": {
+      "cintre": "SuperErgo Pro",
+      "potence": "Apto Stealth",
+      "jeu de direction": "Sealed cartridge 1.125\" - 1.5\""
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 463,
+      "tube supérieur (mm)": 529,
+      "longueur base (mm)": 415,
+      "douille de direction (mm)": 101,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 517,
+      "reach (mm)": 366
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 550,
+      "longueur base (mm)": 415,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71.1,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 546,
+      "reach (mm)": 378
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 518,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 415,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 575,
+      "reach (mm)": 390
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 545,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 415,
+      "douille de direction (mm)": 180,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 72.5,
+      "stack (mm)": 604,
+      "reach (mm)": 402
+    }
+  ]
+}

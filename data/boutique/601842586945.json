@@ -1,0 +1,174 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2207971",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 161-172 cm",
+    "M-L / 165.5-179 cm",
+    "L / 177-188 cm",
+    "XL / 186-196 cm",
+    "XXL / 195-203 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Fuel EX 5 Shimano Deore 12V 29'' Noir 2023",
+  "marque": "Trek",
+  "description": "Le Fuel EX 5 est un vélo de trail tout suspendu prêt à tout gérer. La suspension à l’avant et à l’arrière qui permet de dompter les sentiers de trail, une transmission Shimano 1X12, une tige de selle télescopique pour améliorer la position d’attaque dans les descentes et des freins à disque hydrauliques Shimano font du Fuel EX 5 un VTT d’un excellent rapport qualité/prix, ultraperformant et d’une polyvalence exceptionnelle.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/971/207971/2207971/4056451",
+  "mpn": "5260694",
+  "gtin13": "601842586945",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-172 cm",
+      "stock": 2,
+      "prix": 1799.99,
+      "mpn": "5260694",
+      "sku": "2110533",
+      "gtin13": "601842586945",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2089727-vtt_tout_suspendu_trek_fuel_ex_5_shimano_deore_12v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 186-196 cm",
+      "stock": 1,
+      "prix": 1799.99,
+      "mpn": "5260697",
+      "sku": "2110613",
+      "gtin13": "601842586914",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2089727-vtt_tout_suspendu_trek_fuel_ex_5_shimano_deore_12v_29___noir_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XXL / 195-203 cm",
+      "stock": 10,
+      "prix": 2299.99,
+      "mpn": "5260698",
+      "sku": "2366419",
+      "gtin13": "601842586907",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2089727-vtt_tout_suspendu_trek_fuel_ex_5_shimano_deore_12v_29___noir_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Matte Dnister Black"
+    }
+  ],
+  "informations": {
+    "poids": "15.7 kg ",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Platinum, douille de direction conique, Knock Block, acheminement interne Control Freak, protection du tube diagonal, ISCG 05, basculeur en magnésium, Mino Link, ABP, Boost148, débattement de 130 mm ",
+      "fourche": "Size: XS  RockShox Recon Silver, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport de 46mm, Boost110, Maxle Stealth, débattement de 140 mm Size: S , M , ML , L , XL , XXL RockShox Recon Silver, ressort DebonAir, amortisseur Motion Control, blocage, pivot conique, déport de 42mm, Boost110, Maxle Stealth, débattement de 140 mm",
+      "amortisseur": "Size: XS  X-Fusion Pro 2, amortisseur à 2 positions, 210x52,5 mm Size: S , M , ML , L , XL , XXL X-Fusion Pro 2, amortisseur à 2 positions, 210x55 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12 vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, chape longue, 12 vitesses",
+      "cassette": "Shimano Deore M6100, 10-51 Dents",
+      "chaîne": "Shimano Deore M6100",
+      "pédalier": "Size: XS , S , M , ML , L Shimano MT511, plateau acier 30 dts, ligne de chaine de 52 mm, longueur de 170 mm Size: XL , XXL Shimano MT511, plateau acier 30 dts, ligne de chaine de 52 mm, longueur de 175 mm",
+      "boîtier de pédalier": "Shimano MT500, 92 mm, PressFit"
+    },
+    "équipements": {
+      "freins": "Shimano, disque hydraulique, levier MT201, étrier MT200, 180/180 mm",
+      "selle": "Bontrager Arvada, rails en acier, largeur de 138 mm",
+      "tige de selle": "Size: XS , S TranzX JD-YSP18, débattement de 100 mm, acheminement interne, 31,6 mm, longueur de 361 mm Size: M , ML , L , XL , XXL TranzX JD-YSP18, débattement de 130 mm, acheminement interne, 31,6 mm, longueur de 425 mm"
+    },
+    "roues": {
+      "jantes": "Alex MD35, compatible tubeless, 32 trous, largeur 35 mm, valve presta",
+      "moyeux": "F : Bontrager, alliage, 6 trous, Boost110, axe traversant 15 mm R : Bontrager, alliage, roulement étanche, 6 trous, corps de roue libre Shimano MicroSpline, Boost148, axe traversant 12 mm",
+      "pneus": "Bontrager XR4 Comp, tringle rigide, 30 tpi, 29x2,6 pouces"
+    },
+    "direction": {
+      "cintre": "Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 750 mm",
+      "potence": "Bontrager Rhythm Comp, 31,8 mm, Knock Block, 0 degré, longueur de 50 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 577,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1153,
+      "stack (mm)": 605,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 602,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1178,
+      "stack (mm)": 605,
+      "reach (mm)": 445
+    },
+    {
+      "taille cadre": "M/L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1195,
+      "stack (mm)": 609,
+      "reach (mm)": 460
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 633,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1210,
+      "stack (mm)": 609,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 662,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1241,
+      "stack (mm)": 623,
+      "reach (mm)": 500
+    },
+    {
+      "taille cadre": "XXL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 687,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 68,
+      "empattement (mm)": 1269,
+      "stack (mm)": 641,
+      "reach (mm)": 520
+    }
+  ]
+}

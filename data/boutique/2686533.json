@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2686533",
+  "tailles": [
+    "M / 162-175 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cannondale Scalpel Carbon 3 29'' Shimano Deore/XT 12V Blanc",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Scalpel Carbon 3, le meilleur vélo de compétition XC. Une suspension révolutionnaire, une géométrie agressive et un poids plume pour foncer à pleins gaz.\r\n\r\nLa suspension la plus avancée jamais réalisée pour le XC. Alors que d’autres fabricants sacrifient la performance pour réduire le poids, notre suspension brevetée FlexPivot offre les deux avantages. D’une légèreté incroyable, elle offre un surcroît décisif d’adhérence, d’accélération et de contrôle, qui vous permettent de rouler pratiquement partout. Plus rapide. Plus de plaisir.\r\n\r\nLe capteur de roue intégré fournit des informations ultra précises sur la vitesse, l’itinéraire et la distance. Il vous permet aussi d’enregistrer votre vélo et vous rappelle, entre autres, les opérations d’entretien nécessaires, tout cela via l’appli Cannondale.\r\n\r\nLe système de transmission à déport asymétrique offre un dégagement de pneu généreux tout en conservant des bases arrière courtes pour l’agilité et la traction. Cela rend aussi le triangle arrière plus rigide et plus robuste, ce qui fait du système Ai une solution gagnante à tous points de vue.\r\n\r\nLa clé de la performance de suspension et de la légèreté incroyable du Scalpel. Ces plaques de carbone brevetées créent des pivots de liaison Horst virtuels, tout en étant plus rigides et plus légers que les roulements. Incroyablement durable. Incroyablement flexible. Et sans entretien.\r\n\r\nÀ la différence de ses concurrents, qui utilisent la même cinématique de suspension pour toutes les tailles, Cannondale conçoit une suspension sur mesure afin que chaque cycliste, quelle que soit sa taille, bénéficie d'une performance de suspension optimale.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/533/686533/2686533/5434263",
+  "mpn": "C24403U10MD",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-175 cm",
+      "stock": 1,
+      "prix": 4999,
+      "mpn": "C24403U10MD",
+      "sku": "2645023",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2815065-vtt_tout_suspendu_cannondale_scalpel_carbon_3_29___shimano_deore_xt_12v_blanc"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Tiger Shark"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Scalpel, Series 1 Carbon construction, 120mm travel, Proportional Response Suspension and Geometry, FlexPivot Chainstay, full internal cable routing, 73mm BSA, 1.5\" headtube with 1-1/8\" upper reducer/internal cable guide, 148x12mm thru axle, 55mm chainline, UDH, post-mount disc, 160mm native",
+      "fourche": "RockShox SID Select, 120mm, DebonAir, 15x110mm thru-axle, tapered steerer, 44mm offset, TwistLoc Ultimate remote dual lockout",
+      "amortisseur": "RockShox SIDLuxe Select+, 2-Pos mode adjust, adjustable rebound, 190x45, TwistLoc Ultimate remote dual lockout"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore, 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT, 12 vitesses",
+      "chaîne": "Shimano SLX M7100, 12 vitesses",
+      "cassette": "Shimano Deore, 10-51 Dents, 12 vitesses",
+      "pédalier": "Shimano Deore M6120, 32 dts",
+      "boîtier de pédalier": "Shimano BSA 73mm"
+    },
+    "équipements": {
+      "freins": "Shimano Deore  M6100 hydraulic disc, 180/160 mm RT54 rotors",
+      "selle": "Prologo Dimension NDR, STN rails",
+      "tige de selle": "Cannondale DownLow Dropper, internal routing, 31.6,"
+    },
+    "roues": {
+      "jantes": "Stan's NoTubes Crest MK4, 28h, tubeless ready",
+      "moyeu avant": "Formula CL-811, 15x110mm thru-axle ",
+      "moyeu arrière": "Shimano MT510B, 12x148mm thru-axle, roue libre MS",
+      "pneu avant": " Maxxis Rekon Race WT, 29x2.4\", EXO Protection, tubeless ready ",
+      "pneu arrière": " Maxxis Aspen WT, 29x2.4\", EXO Protection, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Cannondale 2 Flat, butted 2014 Alloy, 31.8mm, 3° rise, 8° sweep, 760mm",
+      "poignées": "RockShox Smooth Silicone",
+      "potence": "Cannondale C1 Conceal, Alloy, 31.8, -6°",
+      "jeu de direction": "Acros ICR"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 536,
+      "longueur base (mm)": 434,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1140,
+      "stack (mm)": 597,
+      "reach (mm)": 425,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 556,
+      "longueur base (mm)": 438,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1169,
+      "stack (mm)": 597,
+      "reach (mm)": 450,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 442,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1202,
+      "stack (mm)": 607,
+      "reach (mm)": 475,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 446,
+      "angle de direction (°)": 66.6,
+      "angle tube de selle (°)": 75.5,
+      "empattement (mm)": 1245,
+      "stack (mm)": 616,
+      "reach (mm)": 510,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2709118",
+  "tailles": [
+    "XS / 155-166 cm",
+    "S / 167-172 cm",
+    "M / 173-179 cm",
+    "L / 180-185 cm",
+    "XL / 186-191 cm",
+    "XXL / 192-207 cm"
+  ],
+  "catégories": ["Gravel"],
+  "name": "Orbea Terra M31eTEAM 1X Sram Rival XPLR eTap AXS 12V 700 mm Blanc Ivory 2024",
+  "marque": "Orbea",
+  "description": "Des explorations infinies, des escapades prolongées, des chemins de campagne et des pistes forestières, chacun a sa définition particulière de ce qu'est le gravel. Mais, ce qui ne fait aucun doute, c’est qu’un vélo de gravel doit aborder tout cela avec maîtrise, vitesse et confort... et surtout, avec un maximum de plaisir. Pensé de A à Z pour le gravel, l'Orbea Terra n'est pas un vélo de route adapté ou un VTT réduit. Le Terra EST le gravel. Ajoutez du confort à vos sorties sur route, découvrez enfin où mène cette piste forestière ou laissez vos aventures se prolonger jusqu'au lendemain. Le monde est vaste et le Terra est prêt à le découvrir à vos côtés.\r\n\r\nRapide et léger, le Terra M est l'option la plus sportive de la famille pour vous lancer à la conquête des chemins de campagne et autres pistes forestières. Son cadre en carbone offre le parfait équilibre de légèreté, confort et robustesse. Le cadre en carbone est également doté du système LOCKR d'Orbea ; un espace de stockage dans le tube diagonal, dissimulé sous le porte-bidon, dans lequel peuvent se ranger une chambre à air, une pompe ou une cartouche de CO2, ainsi qu'une sélection d'outils. Tout est facile d'accès et sécurisé, avec de la place supplémentaire pour un ravitaillement ou vos clés de voiture.\r\n\r\nOrbea utilise une construction en carbone à la pointe de la technologie pour fabriquer le cadre le plus sophistiqué possible. Un processus complexe et laborieux dont vous apprécierez les résultats une fois en selle. Les cadres Orbea Monocoque Race (OMR) ajoutent des fibres à haut module et à haute résistance aux configurations standard pour optimiser les rapports rigidité/poids. Le moulage des composants avec des mousses EPS et des inserts en PU pour le tube de direction et le boitier de pédalier élimine les plis et les arêtes dans des zones critiques, ce qui permet d'utiliser moins de carbone sans aucun compromis en termes de durabilité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/118/709118/2709118/5461920",
+  "mpn": "R14903DI",
+  "gtin13": "8434446491566",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 167-172 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "R14903DI",
+      "sku": "2625193",
+      "gtin13": "8434446491566",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2833047-gravel_bike_orbea_terra_m31eteam_1x_sram_rival_xplr_etap_axs_12v_700_mm_blanc_ivory_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 173-179 cm",
+      "stock": 1,
+      "prix": 3999,
+      "mpn": "R14905DI",
+      "sku": "2625195",
+      "gtin13": "8434446491597",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2833047-gravel_bike_orbea_terra_m31eteam_1x_sram_rival_xplr_etap_axs_12v_700_mm_blanc_ivory_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "DI - Ivory White - Spicy Lime (Gloss)"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Rival XPLR eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Orbea Terra carbon OMR Disc, monocoque construction, HS 1,5\", PF30, powermeter compatible, Thru Axle 12x142 mm rear, thread M12x2 P1, Internal Cable Routing, LOCKR service box, Tire Clearance: 45C (or 650Bx50 mm)",
+      "fourche": "Carbone : Orbea Terra ICR, full carbon, 1-1/8\" - 1.5\" tappered head tube compatible, Thru Axle 12x100 mm, thread M12x2 P1"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Rival eTap AXS HRD, 1x12-vitesses",
+      "dérailleur arrière": "Sram Rival XPLR eTap AXS, 12-vitesses",
+      "cassette": "Sram XPLR XG-1251, 10-44 Dents",
+      "chaîne": "Sram Rival",
+      "pédalier": "Sram Rival 1, DUB, Wide, 40 Dents"
+    },
+    "équipements": {
+      "freins": "Sram Rival eTap AXS HRD, Hydr. Disc Brake",
+      "selle": "Prologo Akero AGX, STN, Size 155 mm",
+      "tige de selle": "OC Performance XP10 Carbon, 27.2 mm, Setback 0 mm"
+    },
+    "roues": {
+      "jantes": "Oquo Road Control RC25PRO, Alloy, Tubeless, 12x100/12x142 mm, 700c, 25c",
+      "pneus": "Vittoria Terreno Dry, CX-Gravel G2.0 TNT, 700x38c"
+    },
+    "direction": {
+      "cintre": "OC Gravel GR31, Reach 70 mm, Drop 110 mm",
+      "potence": "OC Road Performance RP10, -8º",
+      "jeu de direction": "FSA 1-1/2\" Integrated Aluminium Cup"
+    },
+    "ruban de cintre": "Orbea Anti-Slippery/Shock Proof",
+    "référence": "R149"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 526,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1009,
+      "stack (mm)": 526,
+      "reach (mm)": 375
+    },
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 438,
+      "tube supérieur (mm)": 539,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 131,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1019,
+      "stack (mm)": 548,
+      "reach (mm)": 382
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 471,
+      "tube supérieur (mm)": 558,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 152,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1029,
+      "stack (mm)": 570,
+      "reach (mm)": 389
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 504,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 178,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1044,
+      "stack (mm)": 592,
+      "reach (mm)": 395
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 537,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 199,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1053,
+      "stack (mm)": 614,
+      "reach (mm)": 402
+    },
+    {
+      "taille de cadre": "XXL",
+      "tube de selle (mm)": 570,
+      "tube supérieur (mm)": 603,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 220,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1062,
+      "stack (mm)": 636,
+      "reach (mm)": 409
+    }
+  ]
+}

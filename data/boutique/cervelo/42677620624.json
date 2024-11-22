@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2715483",
+  "tailles": [
+    "51 cm / 160-168 cm",
+    "58 cm / 182-193 cm",
+    "61 cm / 192-200 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cervelo Aspero 5 Shimano GRX 815 Di2 11V Five Noir 2024",
+  "marque": "Cervelo",
+  "description": "Les ingénieurs Cervélo aiment dire que « si un vélo a l'air rapide, il l'est probablement » et ce n'est pas faux, l'Áspero-5 a l'air rapide à l'arrêt. Sans aucun câble apparent, avec des tubes tout droit sortis de notre bibliothèque de formes aérodynamiques éprouvées et une légère coupe du tube oblique pour optimiser la distance pneu-cadre, on obtient un vélo qui prouve l'adage.\r\n\r\nLa rigidité de votre vélo a un impact important sur votre expérience de conduite. La connexion instantanée que vous ressentez lorsque vous faites du vélo avec un transfert de puissance efficace et une prise en main réactive résulte de la rigidité de la zone du pédalier, de la fourche et du tube de direction. Cervélo a passé des années à rechercher et à tester ces différents types de rigidité afin de vous offrir la meilleure expérience de conduite possible.\r\n\r\nLa qualité de pilotage de Cervélo repose sur l'expérience du cycliste. Nous définissons la qualité de roulement comme la sensation que le vélo procure à l'usage auquel il est destiné. Pour chacun de nos vélos, nos ingénieurs appliquent des technologies et des éléments de conception qui fonctionnent ensemble pour créer l'expérience de conduite souhaitée.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/483/715483/2715483/5472699",
+  "mpn": "0I0ALAGI1C61",
+  "gtin13": "42677620624",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "51 cm / 160-168 cm",
+      "stock": 10,
+      "prix": 4499.99,
+      "mpn": "0I0ALAGI1C51",
+      "sku": "2439440",
+      "gtin13": "42677620587",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2839113-gravel_bike_cervelo_aspero_5_shimano_grx_815_di2_11v_five_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "58 cm / 182-193 cm",
+      "stock": 4,
+      "prix": 4499.99,
+      "mpn": "0I0ALAGI1C58",
+      "sku": "2439402",
+      "gtin13": "42677620617",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2839113-gravel_bike_cervelo_aspero_5_shimano_grx_815_di2_11v_five_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "61 cm / 192-200 cm",
+      "stock": 3,
+      "prix": 4499.99,
+      "mpn": "0I0ALAGI1C61",
+      "sku": "2439209",
+      "gtin13": "42677620624",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2839113-gravel_bike_cervelo_aspero_5_shimano_grx_815_di2_11v_five_noir_2024"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX Di2 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Cervélo Carbon",
+      "fourche": "Cervélo All-Carbon, Tapered Áspero-5 Fork with Adjustable Trail"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX RX815 Di2, 2x11 vitesses",
+      "dérailleur arrière": "Shimano GRX RX815 Di2, 11 vitesses",
+      "cassette": "Shimano HG800, 11-34 dts",
+      "chaîne": "Shimano CN-HG701",
+      "pédalier": "Shimano GRX 810 48-31 dts",
+      "boîtier de pédalier": "FSA, BBright thread together"
+    },
+    "dérailleur avant": "Shimano GRX RX815 Di2, 11 vitesses",
+    "équipements": {
+      "freins": "Shimano GRX RX810 Hydraulic Disc / Shimano SM-RT800, 160mm",
+      "selle": "Prologo Dimension Nack",
+      "tige de selle": "Cervélo SP19 27.2 Carbon"
+    },
+    "roues": {
+      "jantes": "Reserve 40/44 32mm DT350 XDR, 24h (F), 24h (R), 24mm IW, CenterLock, Tubeless Ready",
+      "pneus": "Panaracer Gravel King SK Folding 700x38c"
+    },
+    "direction": {
+      "cintre": "Carbon AB09 16deg Flared Carbon",
+      "potence": "Cervélo ST32 Alloy",
+      "jeu de direction": "FSA IS2 1-1/8 X 1-1/2\""
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre (cm)": 48,
+      "tube supérieur (mm)": 512,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 83,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 990,
+      "reach (mm)": 370,
+      "stack (mm)": 505
+    },
+    {
+      "taille cadre (cm)": 51,
+      "tube supérieur (mm)": 532,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 107,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1000,
+      "reach (mm)": 379,
+      "stack (mm)": 530
+    },
+    {
+      "taille cadre (cm)": 54,
+      "tube supérieur (mm)": 553,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 133,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1010,
+      "reach (mm)": 388,
+      "stack (mm)": 555
+    },
+    {
+      "taille cadre (cm)": 56,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 159,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1027,
+      "reach (mm)": 397,
+      "stack (mm)": 580
+    },
+    {
+      "taille cadre (cm)": 58,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 188,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1046,
+      "reach (mm)": 406,
+      "stack (mm)": 605
+    },
+    {
+      "taille cadre (cm)": 61,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 214,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1063,
+      "reach (mm)": 415,
+      "stack (mm)": 630
+    }
+  ]
+}

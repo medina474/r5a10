@@ -1,0 +1,162 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2708149",
+  "tailles": [
+    "48 cm / 150-160 cm",
+    "51 cm / 160-168 cm",
+    "61 cm / 192-200 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cervélo Áspero Sram Apex XPLR 12V 700 mm Bleu",
+  "marque": "Cervelo",
+  "description": "Les ingénieurs Cervelo le disent volontiers : « Si un vélo a l'air rapide, il l'est probablement ». Or ce n’est pas faux : le Cervélo Áspero a en effet l’air rapide à l’arrêt. Aucun câble apparent, des tubes tout droit sortis de la bibliothèque de formes éprouvées sur le plan aérodynamique doublés d’une légère coupe du tube oblique pour optimiser la distance pneu-cadre : le résultat est un vélo qui prouve cet adage.\r\n\r\nCertains diront que l'aérodynamique n'a guère d'importance en gravel, mais si vous avez déjà fait face au vent dans une plaine dégagée, les trente-deux grammes de traînée que vous économiserez avec l'Áspero vous feront pousser un soupir de soulagement. La plupart des épreuves de gravel se disputent sans l'avantage d'un peloton ou des tactiques du World Tour, mais quand vous faites face au vent toute la journée, il est bon de savoir que votre vélo vous enlève une partie de la charge.\r\n\r\n« Trail » - La réaction de la roue avant à l'effort du cycliste est le facteur principal de la maniabilité à grande vitesse. La possibilité de régler la traînée avec le « Trail Mixer » à deux positions pour compenser l’extrême diversité des tailles de pneus garantit une expérience de conduite uniforme.\r\n\r\nL'Aspero a été conçu pour qu'il puisse accueillir des pneus 700c x 45mm ou 650b x 48mm. Bien sûr, il existe des variables (largeur de jante, chambre à air/profondeur de sculpture) qui impacteront la distance finale. Remarque Importante : Cervelo recommande systématiquement 4 mm de distance, quelle que soit la combinaison pneu/roue choisie.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/149/708149/2708149/5457317",
+  "mpn": "0J0ASBA11A51",
+  "gtin13": "0616663219019",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "48 cm / 150-160 cm",
+      "stock": 1,
+      "prix": 3599,
+      "mpn": "0J0ASBA11A48",
+      "sku": "2678103",
+      "gtin13": "0616663219002",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2829819-gravel_bike_cervelo_aspero_sram_apex_xplr_12v_700_mm_bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "51 cm / 160-168 cm",
+      "stock": 2,
+      "prix": 3599,
+      "mpn": "0J0ASBA11A51",
+      "sku": "2678065",
+      "gtin13": "0616663219019",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2829819-gravel_bike_cervelo_aspero_sram_apex_xplr_12v_700_mm_bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "61 cm / 192-200 cm",
+      "stock": 1,
+      "prix": 3599,
+      "mpn": "0J0ASBA11A61",
+      "sku": "2678066",
+      "gtin13": "0616663219057",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2829819-gravel_bike_cervelo_aspero_sram_apex_xplr_12v_700_mm_bleu"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Woodsmoke"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Cervélo Áspero, All-Carbon, Thru-Axle, 12x142 mm, patte UDH",
+      "fourche": "Carbone : Cervélo All-Carbon, Tapered Áspero Fork with Adjustable Trail"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex, 1x12-vitesses",
+      "dérailleur arrière": "Sram Apex XPLR, 12-vitesses",
+      "cassette": "Sram Apex XPLR, 11-44 dts",
+      "chaîne": "Sram Apex",
+      "pédalier": "Sram Apex 1, 40 dts",
+      "boîtier de pédalier": "Sram Dub T47"
+    },
+    "équipements": {
+      "freins": "Sram Apex, Hydr. Disc Brake, Rotors Sram Centerline 160/160 mm",
+      "selle": "Cervélo",
+      "tige de selle": "Cervélo Alloy 27.2, 15mm offset"
+    },
+    "roues": {
+      "jantes": "Avant : Alexrims Boondocks 7D, 12x100mm, 28H, 23mm IW, 6 bolt, tubeless compatible / Arrière : Alexrims Boondocks 7D, 12x142mm, 28H, 23mm IW, HG freehub, 6 bolt, tubeless compatible",
+      "pneus": "WTB Vulpine TCS Light Fast Rolling Dual DNA 60tpi 700x40c"
+    },
+    "direction": {
+      "cintre": "Zipp Service Course 70 XPLR Alloy, 31.8mm clamp, 5° flare, 11° outsweep",
+      "potence": "Cervélo ST36 Alloy",
+      "jeu de direction": "FSA IS2 1-1/4 x 1-1/2"
+    },
+    "accessoires": "Smartpak 400A Top Tube Storage Bag"
+  },
+  "geometries": [
+    {
+      "taille cadre (cm)": 48,
+      "tube de selle (mm)": 464,
+      "tube supérieur (mm)": 512,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 83,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 990,
+      "stack (mm)": 505,
+      "reach (mm)": 370
+    },
+    {
+      "taille cadre (cm)": 51,
+      "tube de selle (mm)": 499,
+      "tube supérieur (mm)": 532,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 107,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1000,
+      "stack (mm)": 530,
+      "reach (mm)": 379
+    },
+    {
+      "taille cadre (cm)": 54,
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 553,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 133,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1010,
+      "stack (mm)": 555,
+      "reach (mm)": 388
+    },
+    {
+      "taille cadre (cm)": 56,
+      "tube de selle (mm)": 555,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 159,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1027,
+      "stack (mm)": 580,
+      "reach (mm)": 397
+    },
+    {
+      "taille cadre (cm)": 58,
+      "tube de selle (mm)": 578,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 188,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1046,
+      "stack (mm)": 605,
+      "reach (mm)": 406
+    },
+    {
+      "taille cadre (cm)": 61,
+      "tube de selle (mm)": 602,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 214,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1063,
+      "stack (mm)": 630,
+      "reach (mm)": 415
+    }
+  ]
+}

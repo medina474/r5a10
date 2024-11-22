@@ -1,0 +1,171 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2501599",
+  "tailles": [
+    "S / 161-170 cm",
+    "M / 169-178 cm",
+    "L / 177-186 cm",
+    "XL / 185-197 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cube Stereo One55 C:62 SLX Shimano XT 12V 29'' Bleu Bondi 2023",
+  "marque": "Cube",
+  "description": "Élégance ou robustesse ? Avec le Cube Stereo One55 C:62 vous n’avez pas à choisir. Les lignes élégantes de son cadre bénéficiant du processus de construction Advanced Twin Mold C:62® sont ce que vous remarquerez en premier, mais, comme toujours, le diable se trouve dans les détails. Son jeu de direction ajustable intégré permet de choisir différents angles de tube de direction. Vous pouvez ainsi ajuster vos performances en fonction de vos préférences. La coque du boîtier de pédalier fileté est robuste et pratique, et se combine avec un support de fixation pour guide de chaîne ISCG 05. Il dispose d’un compartiment de rangement intégré au tube diagonal, avec suffisamment de place pour un multi-outil et bien d’autres choses par exemple. Avec son débattement de 155 mm à l’arrière et celui de 160 mm à l’avant, il n’existe tout simplement pas de meilleur moyen de se lancer sur les chemins de montagne et d’être le premier à en atteindre le sommet.\r\n\r\nSur les chemins accidentés, il vous faut un vélo sur lequel vous pouvez compter. C’est pourquoi, pour le Cube Stereo One55 C:62 SLX 29, les ingénieurs de la marque sont partis de l’incroyable fourche Fox 36 Performance Elite GRIP2 et d’un amortisseur Float X2 Performance, qui complètent parfaitement la cinématique progressive du cadre en carbone. Son pédalier en carbone Praxis Girder HD transfère votre puissance vers le sol via une transmission Shimano XT 1x12 vitesses, aussi fiable que profonde, et une paire de roues Newmen Evolution avec système de roue libre à trois cliquets pour un meilleur engagement. Enfin, ses pneus Maxxis adhérents et ses freins à disque hydrauliques Shimano XT vous garantissent une accroche et un contrôle optimaux.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/599/501599/2501599/4908676",
+  "mpn": "655200M",
+  "gtin13": "4054571406385",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 161-170 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "655200S",
+      "sku": "2397511",
+      "gtin13": "4054571406378",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2567939-vtt_tout_suspendu_cube_stereo_one55_c_62_slx_shimano_xt_12v_29___bleu_bondi_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 169-178 cm",
+      "stock": 2,
+      "prix": 3299.99,
+      "mpn": "655200M",
+      "sku": "2397492",
+      "gtin13": "4054571406385",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2567939-vtt_tout_suspendu_cube_stereo_one55_c_62_slx_shimano_xt_12v_29___bleu_bondi_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-186 cm",
+      "stock": 2,
+      "prix": 3299.99,
+      "mpn": "655200L",
+      "sku": "2397469",
+      "gtin13": "4054571406392",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2567939-vtt_tout_suspendu_cube_stereo_one55_c_62_slx_shimano_xt_12v_29___bleu_bondi_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-197 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "655200XL",
+      "sku": "2398003",
+      "gtin13": "4054571406408",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2567939-vtt_tout_suspendu_cube_stereo_one55_c_62_slx_shimano_xt_12v_29___bleu_bondi_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "bondiblue´n´grey"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.5,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 155,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:62 Monocoque Advanced Twin Mold Technology, ISCG05, Boost 148, UDH™, 155 mm travel, Width tire maximum: 64 mm",
+      "fourche": "Fox 36 Float Performance Elite FIT GRIP2, Tapered, Boost 15x110 mm, 160 mm travel",
+      "amortisseur": "Fox Float X2, 205x60 mm, Trunnion Mount, Low Speed Rebound & Compression w/ 2-Position Lever / Entretoises d'amortisseur : 54 mm Trunnion Mount (Haut), 22x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT SL-M8100-IR, Direct Attach, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano XT CS-M8100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Praxis Girder HD Carbon, Boost, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano XT BR-M8120, Hydr. Disc Brake, (203/180)",
+      "selle": "SDG Bel Air V3 Lux Alloy",
+      "tige de selle": "Cube Dropper Post, Handlebar Lever, Internal Cable Routing, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Evolution SL A.30, 28/28 Spokes, Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneus": "Avant : Maxxis Assegai, MaxxGrip/EXO+, Tubeless Ready, 29x2.5\" WT / Arrière : Maxxis Minion DHR II, MaxxTerra/EXO+, Tubeless Ready, 29x2.4\" WT"
+    },
+    "direction": {
+      "cintre": "Race Face Turbine R 35, 800 mm",
+      "poignées": "SDG Thrice",
+      "potence": "Race Face Turbine R 35",
+      "jeu de direction": "Acros AZF-675, ICR (Integrated Cable Routing), Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm), Fiber Inserts for Angle Adjustment"
+    },
+    "accessoires": "Acid Downtube Storage Bag",
+    "référence": 655200
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur* (mm)": "565 / 567",
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 100,
+      "angle de direction* (°)": "64.2 / 64.8",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1196 / 1188",
+      "stack* (mm)": "623 / 625",
+      "reach* (mm)": "427 / 425",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 420,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 405,
+      "tube supérieur* (mm)": "591 / 592",
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 103,
+      "angle de direction* (°)": "64.2 / 64.8",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1222 / 1215",
+      "stack* (mm)": "625 / 627",
+      "reach* (mm)": "452 / 450",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "619 / 621",
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 113,
+      "angle de direction* (°)": "64.2 / 64.8",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1252 / 1244",
+      "stack* (mm)": "634 / 636",
+      "reach* (mm)": "477 / 475",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "650 / 652",
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 133,
+      "angle de direction* (°)": "64.2 / 64.8",
+      "angle tube de selle* (°)": "76.7 / 76.5",
+      "empattement* (mm)": "1285 / 1277",
+      "stack* (mm)": "652 / 654",
+      "reach* (mm)": "502 / 500",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2344535",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 170-180 cm",
+    "L / 178-188 cm",
+    "XL / 188-198 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BMC Twostroke 01 Two Sram GX Eagle/X01 Eagle 12V 29'' Gris Anthracite Prisma 2023",
+  "marque": "BMC",
+  "description": "Pour tout donner sur les circuits de XCO ou pour établir un nouveau record personnel sur la montée la plus raide de la région, le BMC Twostroke assure les arrières des adeptes de cross-country. Incarnant une nouvelle vision du semi-rigide, ce vélo de XC nouvelle génération est non seulement un grimpeur efficace, mais il est aussi conçu pour vous procurer contrôle et confiance même sur les sentiers les plus techniques et exigeants. Le Twostroke incarne l’équilibre parfait entre légèreté, rigidité et solidité. Conçu pour enrichir votre expérience, il vous permet d’attaquer le terrain en toute confiance, avec la satisfaction de relever tous les défis.\r\n\r\nLe passage totalement interne et guidé des câbles facilite l’installation et confère au vélo une esthétique épurée. Un adaptateur dédié permet même d’installer une tige de selle télescopique de 27.2 mm en gardant un passage de câbles discret. Les caches moulés sur les bases arrière, un guide-chaîne intégré et une protection transparente sur le tube diagonal assurent sa durabilité et un design élégant.\r\n\r\nPartez à la conquête des terrains les plus meubles et escarpés avec une répartition du poids idéale : angle de chasse de 67°, partie avant longue et angle de selle de 75°. Grâce à la technologie Tuned Compliance Concept (TCC), survolez les routes les plus chaotiques et dépassez-vous dans l’effort, pour aller toujours plus loin. Un équilibre parfait entre confort et performance, pour une utilisation à la fois souple et rapide. Le cadre offre un large dégagement de pneu, ce qui le rend compatible avec la nouvelle génération de pneus de XC larges.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/535/344535/2344535/4368209",
+  "mpn": "30002599",
+  "gtin13": "7630027886474",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-180 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "30002597",
+      "sku": "2191092",
+      "gtin13": "7630027886498",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2379875-vtt_semi_rigide_bmc_twostroke_01_two_sram_gx_eagle_x01_eagle_12v_29___gris_anthracite_prisma_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 3,
+      "prix": 2599.99,
+      "mpn": "30002598",
+      "sku": "2191307",
+      "gtin13": "7630027886481",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2379875-vtt_semi_rigide_bmc_twostroke_01_two_sram_gx_eagle_x01_eagle_12v_29___gris_anthracite_prisma_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-198 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "30002599",
+      "sku": "2191256",
+      "gtin13": "7630027886474",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2379875-vtt_semi_rigide_bmc_twostroke_01_two_sram_gx_eagle_x01_eagle_12v_29___gris_anthracite_prisma_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Anthracite Prisma / White"
+    }
+  ],
+  "informations": {
+    "poids maximum": "110 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram X01 Eagle 12VSram GX Eagle 12V",
+    "pays de fabrication": "Taiwan"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Twostroke 01 Premium Carbon with Tuned Compliance Concept XC, Fully Guided Internal Cable Routing, PF92 bottom bracket, Post Mount Disc, 12x148 mm Boost Thru-Axle, Tire clearance: 58 mm (Measured Width)",
+      "fourche": "RockShox SID Select, OneLoc Sprint Remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram X01 Eagle, 12-vitesses",
+      "cassette": "Sram XG-1275 Eagle, 10-52 Dents",
+      "chaîne": "Sram GX Eagle",
+      "pédalier": "Sram X1-Carbon, 34 Dents",
+      "boîtier de pédalier": "PF92"
+    },
+    "équipements": {
+      "freins": "Sram Level TLM, Hydr. Disc Brake, Sram Centerline Rotors (160/160 tailles S-M, 180/160 tailles L-XL)",
+      "selle": "Fizik Antares R7",
+      "tige de selle": "Twostroke 01 Premium Carbon D-Shaped Seatpost, 0 mm Offset"
+    },
+    "roues": {
+      "jantes": "Jantes : DT Swiss XR 1700 Wheelset, 25 mm Inner Width / Moyeux : DT Swiss 350",
+      "pneus": "Vittoria Barzo, 55-622, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "BMC MFB01 Carbon 760 mm width, 4 mm rise, 8° backsweep",
+      "potence": "BMC MSM01, -5°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 87,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1112.5,
+      "stack (mm)": 588,
+      "reach (mm)": 422.5,
+      "longueur de la potence (mm)": 50,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 93.5,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1135,
+      "stack (mm)": 598,
+      "reach (mm)": 445,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 106,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1161,
+      "stack (mm)": 608,
+      "reach (mm)": 465,
+      "longueur de la potence (mm)": 60,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 658,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 122.5,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1185,
+      "stack (mm)": 623,
+      "reach (mm)": 485,
+      "longueur de la potence (mm)": 70,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

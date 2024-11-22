@@ -1,0 +1,78 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2219477",
+  "tailles": [
+    "S / 153-166.5 cm",
+    "M / 161-172 cm",
+    "M-L / 165.5-179 cm",
+    "L / 177-188 cm",
+    "XL / 186-196 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Roscoe 8 Sram GX/NX Eagle 12V 29'' Vert Olive 2023",
+  "marque": "Trek",
+  "description": "Le Roscoe 8 est un vélo de trail semi-rigide pour les cyclistes cherchant à s’éclater sur les sentiers. Ses roues épaisses de 29 pouces absorbent les passages sur les cailloux et les racines, ses pneus adhérents de 2,6 po accrochent davantage, et sa fourche télescopique de 140 mm permet de gérer n’importe quel trail, le singletrack compact ou la terre friable. Ce VTT relax est doté de composants de grande qualité grâce auxquels vous pourrez vous éclater.\r\n\r\nLa fourche RockShox Solo Air se caractérise par une capacité de réglage aisée en fonction du poids du pilote. Et elle est plus légère qu’une suspension à ressort hélicoïdal.\r\nLa fonction de blocage de la fourche permet de verrouiller temporairement la suspension afin d’améliorer l’efficacité du vélo sur le plat.\r\nGrâce à la tige de selle télescopique, vous pouvez abaisser la selle en cours de route pour pouvoir adopter sans problème votre position d’attaque dans les descentes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/477/219477/2219477/4082096",
+  "mpn": "5260378",
+  "gtin13": "601842587522",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 153-166.5 cm",
+      "stock": 51,
+      "prix": 1799,
+      "mpn": "5260376",
+      "sku": "2103989",
+      "gtin13": "601842587546",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2110786-vtt_semi_rigide_trek_roscoe_8_sram_gx_nx_eagle_12v_29___vert_olive_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 161-172 cm",
+      "stock": 51,
+      "prix": 1799,
+      "mpn": "5260377",
+      "sku": "2103924",
+      "gtin13": "601842587539",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2110786-vtt_semi_rigide_trek_roscoe_8_sram_gx_nx_eagle_12v_29___vert_olive_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 165.5-179 cm",
+      "stock": 1,
+      "prix": 1649.99,
+      "mpn": "5260378",
+      "sku": "2103948",
+      "gtin13": "601842587522",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2110786-vtt_semi_rigide_trek_roscoe_8_sram_gx_nx_eagle_12v_29___vert_olive_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 51,
+      "prix": 1799,
+      "mpn": "5260379",
+      "sku": "2110553",
+      "gtin13": "601842587515",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2110786-vtt_semi_rigide_trek_roscoe_8_sram_gx_nx_eagle_12v_29___vert_olive_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 186-196 cm",
+      "stock": 10,
+      "prix": 1579.08,
+      "mpn": "5260380",
+      "sku": "2103945",
+      "gtin13": "601842587508",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2110786-vtt_semi_rigide_trek_roscoe_8_sram_gx_nx_eagle_12v_29___vert_olive_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX/NX Eagle 12V"
+  },
+  "caracteristiques": {}
+}

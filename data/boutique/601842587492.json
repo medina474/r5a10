@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2440057",
+  "tailles": [
+    "XS / 145-155 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Roscoe 8 Sram GX/NX Eagle 12V 27.5'' Bleu 2023",
+  "marque": "Trek",
+  "description": "Le Roscoe 8 est un vélo de trail semi-rigide pour les cyclistes cherchant à s’éclater sur les sentiers. Ses roues épaisses de 29 pouces absorbent les passages sur les cailloux et les racines, ses pneus adhérents de 2,6 po accrochent davantage, et sa fourche télescopique de 140 mm permet de gérer n’importe quel trail, le singletrack compact ou la terre friable. Ce VTT relax est doté de composants de grande qualité grâce auxquels vous pourrez vous éclater.\r\n\r\nLa fourche RockShox Solo Air se caractérise par une capacité de réglage aisée en fonction du poids du pilote. Et elle est plus légère qu’une suspension à ressort hélicoïdal.\r\nLa fonction de blocage de la fourche permet de verrouiller temporairement la suspension afin d’améliorer l’efficacité du vélo sur le plat.\r\nGrâce à la tige de selle télescopique, vous pouvez abaisser la selle en cours de route pour pouvoir adopter sans problème votre position d’attaque dans les descentes.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/57/440057/2440057/4671172",
+  "mpn": "5260381",
+  "gtin13": "601842587492",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XS / 145-155 cm",
+      "stock": 51,
+      "prix": 1799,
+      "mpn": "5260381",
+      "sku": "2364934",
+      "gtin13": "601842587492",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2480235-vtt_semi_rigide_trek_roscoe_8_sram_gx_nx_eagle_12v_27_5___bleu_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX/NX Eagle 12V"
+  },
+  "caracteristiques": {}
+}

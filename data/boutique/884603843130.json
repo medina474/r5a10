@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2234259",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 170-182 cm",
+    "L / 182-190 cm",
+    "XL / 193-203 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Cannondale Trail Neo 2 Shimano Deore 10V 29'' Kaki 2023",
+  "marque": "Cannondale",
+  "description": "Le Cannondale Trail Neo 2 est un VTT à assistance électrique qui fera évoluer votre champ d’action et déclenchera en vous une nouvelle passion pour le trail. Léger, rigide et vif, des singletracks sérieux aux rues de la ville, le cadre progressif du Trail et l'unité d'entraînement Bosch, parfaitement intégrée, mettent en valeur l'expertise inégalée de Cannondale dans la confection de cadres en aluminium.\r\n\r\nLe Trail Neo est conçu avec des bases courtes pour l'agilité et la traction, un angle de direction détendu pour une stabilité solide, et un ensemble batterie/unité d'entraînement positionné aussi bas et au centre que possible, créant ainsi une sensation étonnamment agile et stable. Les spécifications techniques du Trail Neo font de lui un véritable VTTAE : des freins à disque hydrauliques puissants et un guidon large associé à une potence courte. Mais il est également polyvalent, avec son cadre pré-câblé, permettant l'installation d'une seconde batterie, et ses supports intelligents pour fixer des porte-bagages et des garde-boues.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/259/234259/2234259/4117447",
+  "mpn": "C61251M10LG",
+  "gtin13": "884603843130",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 182-190 cm",
+      "stock": 1,
+      "prix": 2849.99,
+      "mpn": "C61251M10LG",
+      "sku": "1606689",
+      "gtin13": "884603843130",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2148392-vtt_electrique_semi_rigide_cannondale_trail_neo_2_shimano_deore_10v_29___kaki_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Mantis"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : SmartForm C1 Alloy, Dual Battery ready, removable downtube battery, SAVE, tapered headtube, internal cable routing, Ai offset drivetrain, 148x12mm thru-axle, post mount disc, KickFlip hidden kickstand mount, skid plate, rack/fender mounts ",
+      "fourche": "RockShox Judy Gold, 100mm, 51mm offset, 110x15"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch TBA",
+      "batterie": "Bosch PowerTube 625Wh",
+      "écran": "Bosch Purion"
+    },
+    "direction": {
+      "jeu de direction": "Integrated Sealed Bearing, Tapered",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 0°",
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 15mm rise, 8° sweep, 4° rise, 780mm",
+      "poignées": "Fabric Funguy"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M4100 1x10 vitesses",
+      "dérailleur arrière": "Shimano Deore M4100 10 vitesses",
+      "pédalier": "FSA Bosch E-Bike w/ custom Ai offset, 34 Dents",
+      "chaîne": "Shimano HG54",
+      "cassette": "Shimano Deore, 11-42 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano MT400 hydraulic disc, 180/180 mm RT30 rotors",
+      "selle": "Cannondale Ergo XC",
+      "tige de selle": "Cannondale 4, 6061 Alloy, 31.6 x 350mm"
+    },
+    "roues": {
+      "jantes": "WTB STX i30 TCS, 32h tubeless ready",
+      "pneus": "F : Maxxis Ardent 27.5/29x2.40 Wire 60TPI Exo / R : Maxxis Ardent 27.5/29x2.40 Wire 60TPI Exo"
+    },
+    "moyeu avant": "Shimano MT400, 15x110mm thru-axle",
+    "moyeu arrière": "Shimano MT400, 12x148mm thru-axle"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1163,
+      "stack (mm)": 625,
+      "reach (mm)": 405
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1178,
+      "stack (mm)": 625,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 632,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1213,
+      "stack (mm)": 634,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 665,
+      "longueur base (mm)": 470,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1246,
+      "stack (mm)": 643,
+      "reach (mm)": 480
+    }
+  ]
+}

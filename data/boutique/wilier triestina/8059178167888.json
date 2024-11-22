@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2538941",
+  "tailles": [
+    "S / 163-170 cm",
+    "L / 179-186 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Wilier Triestina Jena Shimano GRX 11V 700 mm Gris Smokey 2023",
+  "marque": "Wilier Triestina",
+  "description": "Le Wilier Triestina Jena est le vélo gravel créé pour vous donner le plus vaste choix possible lors de vos sorties. Qu’il s’agisse de pures performances sur les routes, de chemins escarpés, d’aventure, d’exploration et de bikepacking, Jena a été conçu pour satisfaire toutes vos exigences. C'est un vélo léger, réactif, maniable, doté de lignes racing-comfort, capable de s’adapter aux nombreuses utilisations d’un vélo de gravel.\r\n\r\nLe cadre en carbone monocoque 60TON du Jena est réalisé en 5 tailles (du XS au XL) à la géométrie offrant un niveau de confort élevé, sans renoncer à la réactivité et aux performances similaires à celles des vélos de compétition de la société Wilier. Le tube de direction caractérisé par un angle plus ouvert garantit qualité et stabilité de conduite même sur les terrains les plus exigeants. Le triangle arrière, quant à lui, a été conçu pour donner une réponse forte aux sollicitations verticales, en absorbant la majeure partie des vibrations générées par les aspérités du terrain.\r\n\r\nLe Jena ne connaît aucune limite d’utilisation et de configurations possibles. L’espace entre le cadre / fourche et les roues vous permettront de monter des pneus larges de 700 mm (28\") ou des roues MTB au diamètre 650B. Avec des roues de 700 mm (28\"), il est possible d’utiliser des pneus jusqu’à 44 mm de largeur et avec des roues MTB 650B d’arriver à une largeur de 48 mm, égale à 1.95\" (testé sur pneu Vittoria). De nombreux supports sont disponibles pour vous permettre d’installer un porte-bidon, des sacoches, des porte-bagages ou des garde-boues. Il est par exemple possible d’installer sur la fourche avant deux bidons ou un porte-bagages « lowrider » pour y accrocher des sacoches.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/941/538941/2538941/5122266",
+  "mpn": "E116YDD4J20",
+  "gtin13": "8059178167888",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-170 cm",
+      "stock": 2,
+      "prix": 2999.99,
+      "mpn": "E116YDD2J20",
+      "sku": "2518504",
+      "gtin13": "8059178167857",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2615253-gravel_bike_wilier_triestina_jena_shimano_grx_11v_700_mm_gris_smokey_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 179-186 cm",
+      "stock": 1,
+      "prix": 2699.99,
+      "mpn": "E116YDD4J20",
+      "sku": "2518509",
+      "gtin13": "8059178167888",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2615253-gravel_bike_wilier_triestina_jena_shimano_grx_11v_700_mm_gris_smokey_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "J20 - Smokey; Matt"
+    }
+  ],
+  "informations": {
+    "poids": "9.00 kg (Cadre : 995 g / Fourche : 450 g)",
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Jena - Carbon Monocoque 60TON, Thru Axle 12x142 mm, Width tire maximum: 44 mm",
+      "fourche": "Carbone : Jena - Carbon Monocoque 60TON, Thru Axle 12x100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX, 1x11-vitesses",
+      "dérailleur arrière": "Shimano GRX RD-RX812, 11-vitesses",
+      "cassette": "Shimano Deore XT CS-M8000, 11-42 Dents",
+      "chaîne": "Shimano CN-HG601",
+      "pédalier": "Shimano GRX FC-RX600, 40 Dents",
+      "boîtier de pédalier": "Shimano PressFit BB-RS500-PB"
+    },
+    "équipements": {
+      "freins": "Shimano GRX BR-RX400, Hydr. Disc Brake, Shimano SM-RT70 Center Lock (160/160)",
+      "selle": "Prologo Kappa",
+      "tige de selle": "Ritchey Comp 2-Bolt V2 Alu"
+    },
+    "roues": {
+      "jantes": "Miche Graff Alu, 12x100/12x142 mm",
+      "pneus": "Vittoria Terreno Dry, Rigid, 700x40C"
+    },
+    "direction": {
+      "cintre": "Ritchey Ergomax Road Comp",
+      "potence": "Ritchey Comp",
+      "jeu de direction": "FSA Custom Bearings MR137"
+    },
+    "référence": "E116YDD"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 508,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "stack (mm)": 531,
+      "reach (mm)": 363
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 531,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 74.3,
+      "stack (mm)": 556,
+      "reach (mm)": 372
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 554,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.7,
+      "stack (mm)": 582,
+      "reach (mm)": 382
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 577,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 175,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73.1,
+      "stack (mm)": 608,
+      "reach (mm)": 391
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 570,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 200,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 72.6,
+      "stack (mm)": 633,
+      "reach (mm)": 401
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2509328",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 162-175 cm",
+    "L / 172-182 cm",
+    "XL / 180-195 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cannondale Habit Carbon 1 Sram GX Eagle 12V 29'' Vert Jade",
+  "marque": "Cannondale",
+  "description": "Un VTT de trail fait pour grimper, foncer sur terrain plat et dévaler les descentes. Un vélo pour toutes les situations et tout pour le plaisir !\r\n\r\nLa suspension brevetée FlexPivot du Scalpel SE apporte un surcroît d’adhérence, de contrôle et de vitesse. Le débattement de 120 mm est tellement régulier qu’on pourrait penser qu’il est beaucoup plus long - ce qui équivaut à dire que les longues sorties sur sentier sont une partie de plaisir.\r\n\r\nLa géométrie XC progressive du Scalpel a encore évolué avec un angle de tube de direction plus relâché à 67°, une potence plus courte, des gros pneus, une tige de selle télescopique et un long débattement : si vous aimez foncer sur les sentiers qui exigent un maximum de contrôle et de précision, ce vélo est fait pour vous.\r\n\r\nNe vous accommodez pas de seulement deux de ces avantages. Prenez-les tous les trois. Avec son cadre tout carbone et sa nouvelle suspension FlexPivot , le Scalpel est l’un des VTT tout-suspendus parmi les plus légers et les plus rigides du marché. Conçu léger pour rouler vite = la bonne recette pour le plaisir.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/328/509328/2509328/4929197",
+  "mpn": "C23101U10LG",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-175 cm",
+      "stock": 2,
+      "prix": 3849.99,
+      "mpn": "C23101U10MD",
+      "sku": "2151722",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2575608-vtt_tout_suspendu_cannondale_habit_carbon_1_sram_gx_eagle_12v_29___vert_jade"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 3,
+      "prix": 3849.99,
+      "mpn": "C23101U10LG",
+      "sku": "2151493",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2575608-vtt_tout_suspendu_cannondale_habit_carbon_1_sram_gx_eagle_12v_29___vert_jade"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Jade"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 130,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Habit Full Carbon, 130mm travel, Proportional Response Suspension and Geo, 55mm chainline, ISCG05, BSA threaded BB, post mount brake, tapered headtube, DirectLine internal cable routing, UDH hanger",
+      "fourche": "RockShox Pike Select+, 140mm, DebonAir, 15x110mm thru-axle, tapered steered, 42mm offset",
+      "amortisseur": "RockShox Deluxe Select+, DebonAir, 2-Pos mode adjust, adjustable rebound"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle Lunar, 12-vitesses",
+      "cassette": "Sram Eagle XG-1275, 10-52 dents, 12 vitesses",
+      "chaîne": "Sram GX Eagle, Rainbow",
+      "pédalier": "Sram GX Eagle, DUB, 55mm CL, 30T",
+      "boîtier de pédalier": "Sram DUB BSA MTB73 Wide"
+    },
+    "équipements": {
+      "freins": "Sram G2 R hydraulic disc, 180/180mm HS2 centerlock rotors",
+      "selle": "Cannondale Scoop Shallow Elite, cro-mo rails",
+      "tige de selle": "Cannondale DownLow Dropper, internal routing, 31.6, 125mm (XS-S), 150mm (M-XL)"
+    },
+    "roues": {
+      "jantes": "Stan's NoTubes Arch MK4, 28h, tubeless ready",
+      "moyeu avant": "Formula 15x110mm thru-axle ",
+      "moyeu arrière": "DT Swiss, 12x148mm thru-axle",
+      "pneu avant": " Maxxis Dissector, 29x2.4\" (27.5x2.4\" - XS), 3C, EXO, tubeless ready ",
+      "pneu arrière": " Maxis Rekon, 29x2.4\" (27.5x2.4\" - XS), 3C, EXO, tubeless ready"
+    },
+    "direction": {
+      "cintre": "HollowGram SAVE riser bar, Carbon, 35mm clamp, 30mm rise, 8° sweep, 5° rise, 780mmser, Carbon, 31.8mm, 9° sweep, 4° rise, 780mm",
+      "potence": "Cannondale 1, 7075 Alloy, 1-1/8\", 35mm, 0°"
+    },
+    "grips": "Cannondale TrailShroom"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 563,
+      "longueur base (mm)": 434,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1170,
+      "stack (mm)": 623,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 434,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1200,
+      "stack (mm)": 632,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 434,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1234,
+      "stack (mm)": 641,
+      "reach (mm)": 480
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 654,
+      "longueur base (mm)": 434,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77.5,
+      "empattement (mm)": 1278,
+      "stack (mm)": 650,
+      "reach (mm)": 515
+    }
+  ]
+}

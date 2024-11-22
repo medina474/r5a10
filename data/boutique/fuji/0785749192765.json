@@ -1,0 +1,140 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "1817823",
+  "tailles": [
+    "M / 168-177 cm",
+    "L / 175-184 cm",
+    "XL / 180-190 cm",
+    "XXL / 185-196 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Fuji Nevada 29 1.9 Shimano Tourney 7V 29'' Turquoise",
+  "marque": "Fuji",
+  "description": "Pour 2021, le cadre du Fuji Nevada fait peau neuve avec une géométrie mise à jour. Il est le VTT semi-rigide récréatif idéal pour les nouveaux cyclistes qui souhaitent s'initier au trail, qui cherchent une solution de déplacement ou qui désirent tout simplement acquérir un vélo amusant pour la ville ou la campagne. Le Nevada assure confort et fiabilité, tandis que ses fixations pour un garde-boue arrière, pour un porte-bagages ainsi que pour une béquille en font une véritable machine à tout faire.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/823/817823/1817823/3056773",
+  "mpn": "11212224421",
+  "gtin13": "0785749192765",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 180-190 cm",
+      "stock": 1,
+      "prix": 699,
+      "mpn": "11212224421",
+      "sku": "1804022",
+      "gtin13": "0785749192765",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1640013-vtt_semi_rigide_fuji_nevada_29_1_9_shimano_tourney_7v_29___turquoise"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Dark Teal"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.76,
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Tourney 7V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Fuji A2-SL custom-butted alloy front triangle, Fuji A1-SL alloy rear triangle, Internal Cable Routing, Rack Mounts, Fender Mounts",
+      "fourche": "SR Suntour SF19-XCE 29, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Tourney EF41, EZ Fire, 3x7-vitesses",
+      "dérailleur arrière": "Shimano Tourney, 7-vitesses",
+      "cassette": "Shimano Tourney TZ500, 14-34 Dents",
+      "chaîne": "KMC HV500",
+      "pédalier": "Prowheel, 42/34/24 Dents",
+      "boîtier de pédalier": "Sealed cartridge bearing"
+    },
+    "dérailleur avant": "Shimano Tourney",
+    "équipements": {
+      "freins": "Tektro M280, Mech. Disc Brake, 160/160 mm rotors",
+      "pédales": "Resin platform",
+      "selle": "Fuji Performance Saddle",
+      "tige de selle": "Fuji, alloy, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "WTB SX19 rims 32H, Formula DC-20 front, DC-31 rear disc hubs, black spokes",
+      "pneus": "WTB Ranger Comp, 27 tpi, 29 x 2.25\""
+    },
+    "direction": {
+      "cintre": "Fuji flat bar, alloy, 710 mm",
+      "poignées": "Fuji Performance Grip",
+      "potence": "Fuji, forged aluminum, +/-6°",
+      "jeu de direction": "1 1/8\" sealed bearings"
+    }
+  },
+  "geometries": [
+    {
+      "taille": "S",
+      "taille cadre (pouces)": 15,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1114,
+      "stack (mm)": 612,
+      "reach (mm)": 404
+    },
+    {
+      "taille": "M",
+      "taille cadre (pouces)": 17,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 611,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1134,
+      "stack (mm)": 621,
+      "reach (mm)": 421
+    },
+    {
+      "taille": "L",
+      "taille cadre (pouces)": 19,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 636,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1160,
+      "stack (mm)": 626,
+      "reach (mm)": 445
+    },
+    {
+      "taille": "XL",
+      "taille cadre (pouces)": 21,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 653,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1178,
+      "stack (mm)": 635,
+      "reach (mm)": 459
+    },
+    {
+      "taille": "XXL",
+      "taille cadre (pouces)": 23,
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 672,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1197,
+      "stack (mm)": 644,
+      "reach (mm)": 475
+    }
+  ]
+}

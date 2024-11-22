@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2650352",
+  "tailles": [
+    "S / 150-170 cm",
+    "M / 170-182 cm",
+    "L / 182-193 cm",
+    "XL / 192-205 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "BH Lynx Race LT 6.0 Shimano Deore/XT 12V 29'' Argent/Rouge 2024",
+  "marque": "BH",
+  "description": "Toujours rapide. Sur de courtes distances. Sur de longues distances. Sur les sentiers. Sur les routes de trial. Escalade. Descente. C'est ce que vous recherchez dans un double XC et vélo-marathon. Le cadre Nº1 pour la Coupe du Monde avec David Valero et l'équipe BH Coloma.\r\n\r\nDes fibres de carbone haut modules ont été utilisées pour minimiser le poids du cadre et du bras oscillant. Il en résulte un VTT XC ayant une rigité et une legèreté exceptionelles, prêt pour que vous puissiez battre vos records.\r\n\r\nLa rigidité de la jonction entre le triangle arrière et le bras oscillant a été améliorée de 35% sur le nouveau Lynx Race, grâce au nouvel axe de la biellette et à l'axe principal surdimensionné du pivot.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/352/650352/2650352/5330192",
+  "mpn": "DX604SRSLA",
+  "gtin13": "8413616977529",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-182 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "DX604SRSMD",
+      "sku": "2579629",
+      "gtin13": "8413616977536",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2767113-vtt_tout_suspendu_bh_lynx_race_lt_6_0_shimano_deore_xt_12v_29___argent_rouge_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 182-193 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "DX604SRSLA",
+      "sku": "2579583",
+      "gtin13": "8413616977529",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2767113-vtt_tout_suspendu_bh_lynx_race_lt_6_0_shimano_deore_xt_12v_29___argent_rouge_2024"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Lynx Race Carbon, PC Layup, Acros ICR, PF92, 148x12, UDH",
+      "fourche": "Fox 32 Rhythm 120mm",
+      "amortisseur": "Fox DPS Evol Performance, 190x45mm, DCL, DRM, CMF"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 6100 12sp",
+      "dérailleur arrière": "Shimano XT 8100 12sp",
+      "cassette": "Shimano Deore 6100 10/51",
+      "chaîne": "Shimano Deore",
+      "pédalier": "Shimano MT510 , 175mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT410 180/160mm",
+      "selle": "Prologo Nago RS",
+      "tige de selle": "BH SL 31,6mm 420mm / collier BH EVO 34,9mm"
+    },
+    "roues": {
+      "jantes": "Race Face Aeffect TLR, 27mm, 32H, rayons Inox 2.0",
+      "pneu avant": "Ardent EXO 2.25 Front",
+      "pneu arrière": "on EXO 2.25 rear"
+    },
+    "moyeux ": "Shimano MT400/410",
+    "direction": {
+      "cintre": "BH SL Top Flat 780mm, 10mm Rise",
+      "potence": "BH FIT 60mm, 31,8mm, -6º",
+      "jeu de direction": "Acros ICR FIT 36/45Âº, Block Lock 160º"
+    },
+    "grips": "BH SL Lock On",
+    "référence ": "DX604SRS"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1133,
+      "stack (mm)": 589,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1159,
+      "stack (mm)": 589,
+      "reach (mm)": 445
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 598,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1170,
+      "stack (mm)": 620,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 643,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76,
+      "empattement (mm)": 1212,
+      "stack (mm)": 644,
+      "reach (mm)": 490
+    }
+  ]
+}

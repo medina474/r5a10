@@ -1,0 +1,137 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2266608",
+  "tailles": [
+    "XS / 145-164 cm",
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BH Spike 2.5 Shimano Deore 10V 29'' Bleu",
+  "marque": "BH",
+  "description": "Le Spike 2.5 est le vélo idéal sur les terrains irréguliers et caillouteux, le VTT Spike 29” est plus facile à contrôler puisque la roue, de plus grande taille, franchit plus aisément n'importe quel obstacle. Fabriqué en alu 6061 pour garantir sa rigidité et un poids de cadre de 1 800 grammes seulement.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/608/266608/2266608/4245278",
+  "mpn": "A2592VYNXL",
+  "gtin13": "8413616898077",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 40,
+      "prix": 628.99,
+      "mpn": "A2592VYNMD",
+      "sku": "2188560",
+      "gtin13": "8413616898053",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2241244-vtt_semi_rigide_bh_spike_2_5_shimano_deore_10v_29___bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 89,
+      "prix": 628.99,
+      "mpn": "A2592VYNLA",
+      "sku": "2188579",
+      "gtin13": "8413616898046",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2241244-vtt_semi_rigide_bh_spike_2_5_shimano_deore_10v_29___bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-202 cm",
+      "stock": 10,
+      "prix": 628.99,
+      "mpn": "A2592VYNXL",
+      "sku": "2187481",
+      "gtin13": "8413616898077",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2241244-vtt_semi_rigide_bh_spike_2_5_shimano_deore_10v_29___bleu"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 15.7,
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Spike Alu 29\", 135x9mm, Integrated Headset 42ACB",
+      "fourche": "SR Suntour XCM RLR Remote Lock 100mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 4100 1x10 vitesses",
+      "dérailleur arrière": "Shimano Deore 5120 10 vitesses",
+      "cassette": "Shimano Deore M4100 11/46 Dents",
+      "chaîne": "FSA Team Issue",
+      "pédalier": "Shimano M5100 30, 175 mm"
+    },
+    "équipements": {
+      "freins": "Shimano MT200 180/160 mm",
+      "selle": "BH",
+      "tige de selle": "BH"
+    },
+    "roues": {
+      "jantes": "BH, Shimano TX505 32H",
+      "pneus": "Mitas Ocelot 29 x 2.35"
+    },
+    "direction": {
+      "cintre": "BH",
+      "poignées": "BH Lock On",
+      "potence": "BH 90 mm",
+      "jeu de direction": "BH Sealed Bearing"
+    },
+    "collier de selle": "BH"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1097,
+      "stack (mm)": 614,
+      "reach (mm)": 387
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 587,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1110,
+      "stack (mm)": 624,
+      "reach (mm)": 396
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1124,
+      "stack (mm)": 634,
+      "reach (mm)": 406
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1144,
+      "stack (mm)": 644,
+      "reach (mm)": 436
+    }
+  ]
+}

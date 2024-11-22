@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2708925",
+  "tailles": [
+    "14 Pouces / 150-162 cm",
+    "16 Pouces / 161-170 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Femme Cube Access WS Pro Shimano Alivio/Altus 9V 27.5'' Bleu Violet Galactic 2023",
+  "marque": "Cube",
+  "description": "L’élégance du Cube Access WS repose essentiellement sur des soudures incroyablement lisses au niveau des jonctions du tube de direction et du tube de selle. Le support pour béquille forme une partie du support de fixation pour frein à disque de type Flat Mount, et ses points de fixation intégrés pour garde-boues et porte-bagages vous permettent d’équiper votre vélo de ces accessoires avec élégance et discrétion. Sa géométrie comprend un tube supérieur plus bas pour une plus grande confiance, et il dispose également de suffisamment de dégagement pour l’équiper de pneus larges, adhérents et confortables. Le système SizeSplit permet également d’élargir la gamme afin que chaque cycliste puisse trouver l’Access WS qui lui correspond parfaitement. Enfin, le passage interne de câbles offre des changements de vitesses plus fiables et des contraintes d’entretien réduites afin que vous puissiez profiter un maximum de votre sortie.\r\n\r\nLe monde est immense, et le Cube Access WS Pro est votre partenaire idéal pour le découvrir. Son système de transmission Shimano Alivio/Altus 2x9 vitesses vous permet de monter ou descendre n’importe quelle côte en toute facilité. Sa fourche suspendue Suntour XCM RL absorbe les bosses et les creux auxquels vous pourriez faire face lors de vos explorations tout-terrain, et elle est équipée d’un système de blocage au guidon pour des ascensions un peu plus faciles. Enfin, ses puissants freins à disque hydrauliques Shimano, combinés à des pneus Schwalbe aussi adhérents que confortables vous garantissent un contrôle parfait et de tous les instants. Quelle sera votre destination le weekend prochain ?\r\n\r\nLes femmes ont tendance à avoir des proportions corporelles différentes de celles des hommes, et ceci peut affecter la fonction et l’ajustement d’un vélo. C’est pourquoi la gamme Women's Series (WS) de Cube est particulièrement attentive à la taille des cadres et à des détails tels que la selle, la potence et le cintre. Les points de contact soigneusement sélectionnés pour s’adapter à l’anatomie féminine permettent d’apporter un surplus de confort et de développer votre confiance en vous. Vous pouvez ainsi apprécier pleinement chacune de vos sorties.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/925/708925/2708925/5460581",
+  "mpn": "62541016",
+  "gtin13": "4054571388247",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "14 Pouces / 150-162 cm",
+      "stock": 2,
+      "prix": 899,
+      "mpn": "62541014",
+      "sku": "2394004",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2830982-vtt_semi_rigide_femme_cube_access_ws_pro_shimano_alivio_altus_9v_27_5___bleu_violet_galactic_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "16 Pouces / 161-170 cm",
+      "stock": 1,
+      "prix": 899,
+      "mpn": "62541016",
+      "sku": "2395331",
+      "gtin13": "4054571388247",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2830982-vtt_semi_rigide_femme_cube_access_ws_pro_shimano_alivio_altus_9v_27_5___bleu_violet_galactic_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "galactic´n´black"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.3,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Femme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Alivio/Altus 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Lite, AMF, Double Butted, Internal Cable Routing, Tapered Head Tube, Flat Mount Brake, SIC Mount, FM Kickstand Mount",
+      "fourche": "SR Suntour XCM Disc, Remote Lockout, 100 mm travel"
+    },
+    "manettes de dérailleur": "Shimano Altus SL-M2010-9R, Rapidfire-Plus, 2x9-vitesses",
+    "dérailleur avant": "Shimano Altus FD-M2020, Top Swing, 31.8 mm Clamp",
+    "transmission": {
+      "dérailleur arrière": "Shimano Alivio RD-M3100-SGS, 9-vitesses",
+      "cassette": "Shimano CS-HG20, 11-36 Dents",
+      "chaîne": "KMC X9",
+      "pédalier": "Shimano FC-MT101, 36/22 Dents",
+      "boîtier de pédalier": "Thun Paso-ML, 73 mm BSA"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT200/UR300, Hydr. Disc Brake, PM/FM (160/160)",
+      "pédales": "Acid PP MTB",
+      "selle": "Natural Fit Venec Lite WS",
+      "tige de selle": "Cube Performance Post, 27.2 mm"
+    },
+    "roues": {
+      "jantes": "Cube ZX20, 32H, Disc",
+      "moyeux": "Shimano TX505, QR, Centerlock",
+      "pneus": "Schwalbe Smart Sam, Active, 27.5x2.25\""
+    },
+    "direction": {
+      "cintre": "Cube Rise Trail Bar, 680 mm",
+      "poignées": "Acid React",
+      "potence": "Cube Performance Stem Race, 31.8 mm",
+      "jeu de direction": "Cube FPH868, Semi-Integrated"
+    },
+    "référence": 625410
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de cadre (pouces)": 14,
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 340,
+      "tube supérieur (mm)": 550,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 113,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1063,
+      "stack (mm)": 600,
+      "reach (mm)": 378
+    },
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 16,
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 116,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1078,
+      "stack (mm)": 602,
+      "reach (mm)": 392
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 18,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 590,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 116,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1121,
+      "stack (mm)": 632,
+      "reach (mm)": 403
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 20,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 127,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1142,
+      "stack (mm)": 642,
+      "reach (mm)": 420
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2651182",
+  "tailles": [
+    "M / 165-175 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " R Raymon HardRay E 1.0 Tektro T350 8V 400 Wh 29'' Bleu 2023",
+  "marque": "R Raymon",
+  "description": "Fiable. Simple. Durable. Le VTT dans sa forme originale, et pourtant, le VTT électrique semi-rigide R Raymon HardRay E 1.0 a été enrichi en utilisant toute une gamme de technologies et d'expertises, qui en font un vélo électrique à la fois axé sur la performance et à l'aise sur (presque) tous les terrains. Pour les débutants et les pros, pour les fans de trail et les passionnés de course.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/182/651182/2651182/5330974",
+  "mpn": "4510011355",
+  "gtin13": "9010654071784",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 2,
+      "prix": 1429.99,
+      "mpn": "4510011345",
+      "sku": "2648696",
+      "gtin13": "9010654071760",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2768212-vtt_electrique_semi_rigide_r_raymon_hardray_e_1_0_tektro_t350_8v_400_wh_29___bleu_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 1,
+      "prix": 1429.99,
+      "mpn": "4510011355",
+      "sku": "2648587",
+      "gtin13": "9010654071784",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2768212-vtt_electrique_semi_rigide_r_raymon_hardray_e_1_0_tektro_t350_8v_400_wh_29___bleu_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 22.3,
+    "poids maximum": "130 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Tektro T350 8V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alloy 6061, External battery",
+      "fourche": "SR Suntour XCT30, Coil, 100 mm travel"
+    },
+    "assistance électrique": {
+      "moteur": "Yamaha PW-CE, 250 W, 50 Nm, 25 km/h",
+      "batterie": "Yamaha DT400, 36 V, 400 Wh",
+      "écran": "Yamaha Display A, LCD-Display, Micro-USB"
+    },
+    "transmission": {
+      "manette de dérailleur": "Tektro SL-M330R, 1x8-vitesses",
+      "dérailleur arrière": "Tektro RD-T350, 8-vitesses",
+      "cassette": "Tektro CS-M330, 11-42 Dents",
+      "chaîne": "KMC Z8",
+      "pédalier": "R Raymon, 38 Dents"
+    },
+    "équipements": {
+      "freins": "Tektro HD-M275, Hydr. Disc Brake, Tektro TR24 Rotors (180/180)",
+      "pédales": "R Raymon, plastic",
+      "selle": "R Raymon MTB",
+      "tige de selle": "R Raymon, 31.6 mm, 350 mm, Patent"
+    },
+    "roues": {
+      "jantes": "Mach 1 TRAXX, With eyelets, Tubeless ready",
+      "pneus": "Mitas Ocelot, 60-622, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "R Raymon Riser 31.8 mm, 720 mm, Sweep: 6°, Rise: 15 mm",
+      "poignées": "R Raymon MTB, Lock-on grips",
+      "potence": "R Raymon 31.8, 7°, Ahead",
+      "jeu de direction": "R Raymon ZS44/ZS56"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "M",
+      "taille de cadre (cm)": 45,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1187,
+      "stack (mm)": 638,
+      "reach (mm)": 427
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (cm)": 50,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1207,
+      "stack (mm)": 643,
+      "reach (mm)": 446
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (cm)": 55,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 475,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1228,
+      "stack (mm)": 647,
+      "reach (mm)": 464
+    }
+  ]
+}

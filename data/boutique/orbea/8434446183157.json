@@ -1,0 +1,146 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2486079",
+  "tailles": [
+    "M / 160-175 cm",
+    "L / 170-185 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Orbea Occam M30 Shimano SLX/XT 12V 29'' Violet Metallic Mulberry 2023",
+  "marque": "Orbea",
+  "description": "Les meilleurs vélos de trail modernes sont utilisés sur une variété impressionnante de terrains et doivent donc pouvoir s'y adapter. L'Orbea Occam offre une performance optimale avec un débattement avant et arrière de 140 mm, alors que la suspension arrière progressive est efficace avec un amortisseur à air comprimé comme à ressort.\r\n\r\nAu lieu d'utiliser un \"tunnel de choc\" moins efficace, l'Occam décale l'amortisseur vers le côté gauche du cadre, ce qui permet au support droit d'être plus central et de gérer plus efficacement les forces de suspension agissant sur le triangle avant. Cette solution permet de régler la rigidité de cette zone très sollicitée sans ajouter de poids inutile.\r\n\r\nOrbea utilise une construction en carbone à la pointe de la technologie pour fabriquer le cadre le plus sophistiqué possible. Un processus complexe et laborieux dont vous apprécierez les résultats une fois en selle. Les cadres Orbea Monocoque Race (OMR) ajoutent des fibres à haut module et à haute résistance aux configurations standard pour optimiser les rapports rigidité/poids. Le moulage des composants avec des mousses EPS et des inserts en PU pour le tube de direction et le boitier de pédalier élimine les plis et les arêtes dans des zones critiques, ce qui permet d'utiliser moins de carbone sans aucun compromis en termes de durabilité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/79/486079/2486079/4858974",
+  "mpn": "N26017LU",
+  "gtin13": "8434446183157",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 160-175 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "N26017LU",
+      "sku": "2398698",
+      "gtin13": "8434446183157",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2551454-vtt_tout_suspendu_orbea_occam_m30_shimano_slx_xt_12v_29___violet_metallic_mulberry_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-185 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "N26018LU",
+      "sku": "2398821",
+      "gtin13": "8434446183188",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2551454-vtt_tout_suspendu_orbea_occam_m30_shimano_slx_xt_12v_29___violet_metallic_mulberry_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "LU - Metallic Mulberry - Black Mat"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Orbea Occam OMR, Concentric Boost 12x148 rear axle, Pure Trail geometry, Internal cable routing, Asymmetric design, 29\" wheels",
+      "fourche": "Fox 34 Float Performance, 3-Position, QR15x110 mm, 140 mm travel",
+      "amortisseur": "Fox Float DPS Performance, 3-Position, Evol, custom tune, 210x50 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX M7100, I-Spec EV, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT M8100, SGS, Shadow RD+, 12-vitesses",
+      "cassette": "Shimano SLX CS-M7100-12, 10-51 Dents",
+      "chaîne": "Shimano Deore CN-M6100",
+      "pédalier": "Race Face Aeffect, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6100, Hydr. Disc Brake",
+      "selle": "Fizik Taiga, S-alloy rail",
+      "tige de selle": "OC Mountain Control MC20, 31.6 mm, Dropper / Shimano SL-MT500-IL I-Spec EV Remote"
+    },
+    "roues": {
+      "jantes": "Race Face AR 30c, Tubeless Ready, 29\"",
+      "pneu avant": " Maxxis Dissector, 60 TPI, 3CMaxxTerra, Exo, TLR, 29x2.40\" ",
+      "pneu arrière": " Maxxis Rekon, 60 TPI, Dual, Exo, TR, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "OC Mountain Control MC30, Rise 20 mm, Width 800 mm",
+      "potence": "Alloy 3D forged, 35 mm interface, -7º",
+      "jeu de direction": "Acros Alloy 1-1/8 - 1-1/2\" Integrated"
+    },
+    "référence": "N260"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 381,
+      "tube supérieur (mm)": 565,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1165,
+      "stack (mm)": 604,
+      "reach (mm)": 425,
+      "longueur potence (mm)": 45,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 390,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1194,
+      "stack (mm)": 613,
+      "reach (mm)": 450,
+      "longueur potence (mm)": 45,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 457,
+      "tube supérieur (mm)": 619,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1224,
+      "stack (mm)": 627,
+      "reach (mm)": 474,
+      "longueur potence (mm)": 55,
+      "longueur manivelles (mm)": 175,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 508,
+      "tube supérieur (mm)": 649,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 66,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1259,
+      "stack (mm)": 646,
+      "reach (mm)": 500,
+      "longueur potence (mm)": 55,
+      "longueur manivelles (mm)": 175,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 170
+    }
+  ]
+}

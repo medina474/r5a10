@@ -1,0 +1,118 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2250893",
+  "tailles": [
+    "XS / 145-164 cm",
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm",
+    "XL / 185-202 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "BH Spike 2.0 Shimano Altus 8V 29'' Gris",
+  "marque": "BH",
+  "description": "Le Spike 2.0 est le vélo idéal sur les terrains irréguliers et caillouteux, le VTT Spike 29” est plus facile à contrôler puisque la roue, de plus grande taille, franchit plus aisément n'importe quel obstacle. Fabriqué en alu 6061 pour garantir sa rigidité et un poids de cadre de 1 800 grammes seulement.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/893/250893/2250893/5171384",
+  "mpn": "A2092SNRLA",
+  "gtin13": "8413616897940",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 101,
+      "prix": 505.99,
+      "mpn": "A2092SNRLA",
+      "sku": "2187941",
+      "gtin13": "8413616897940",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2191692-vtt_semi_rigide_bh_spike_2_0_shimano_altus_8v_29___gris"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 15.9,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Altus 8V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Spike Alu 29\", 135x9mm, Integrated Headset 42ACB",
+      "fourche": "SR Suntour XCT H-LO 100mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Altus 2x8 vitesses",
+      "dérailleur arrière": "Shimano Altus 8 vitesses",
+      "cassette": "Shimano HG31 11/34 Dents",
+      "chaîne": "KMC Z51",
+      "pédalier": "Shimano M315 36/22, 175 mm"
+    },
+    "dérailleur avant": "Shimano Altus",
+    "équipements": {
+      "freins": "Shimano MT200 180/160 mm",
+      "selle": "BH",
+      "tige de selle": "BH"
+    },
+    "roues": {
+      "jantes": "BH, Shimano TX505 32H",
+      "pneus": "Mitas Ocelot 2.35"
+    },
+    "direction": {
+      "cintre": "BH",
+      "poignées": "BH Lock On",
+      "potence": "BH",
+      "jeu de direction": "BH Sealed Bearing"
+    },
+    "collier de selle": "BH"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1097,
+      "stack (mm)": 614,
+      "reach (mm)": 387
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 587,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1110,
+      "stack (mm)": 624,
+      "reach (mm)": 396
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1124,
+      "stack (mm)": 634,
+      "reach (mm)": 406
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1144,
+      "stack (mm)": 644,
+      "reach (mm)": 436
+    }
+  ]
+}

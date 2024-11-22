@@ -1,0 +1,126 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2539839",
+  "tailles": [
+    "S / 154-162 cm",
+    "M / 162-172 cm",
+    "L / 170-182 cm",
+    "XL / 182-190 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Trail SL 4 MicroShift Advent X 10V 29'' Noir/Argent",
+  "marque": "Cannondale",
+  "description": "Passez au niveau supérieur ! Le Cannondale Trail SL 4 est un VTT semi-rigide conçu pour élever votre jeu et enflammer une passion pour le trail. Il est conçu pour la montagne et prêt à tout. Son cadre en aluminium SmartForm C2 offre un niveau supérieur en termes de construction aluminium. Il dispose de formes de tubes haute-performance, d'une construction allégée et renforcée, et de soudures lisses en deux passes, rendant ce vélo inégalé dans sa catégorie. Le système de micro-suspension \"SAVE\" assure plus de confort et un meilleur contrôle grâce à des zones de flexion créées dans des endroits stratégiques du triangle arrière.\r\n\r\nComparé au Trail SE, le Cannondale Trail SL est plus léger, plus racé et construit pour la rapidité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/839/539839/2539839/5123587",
+  "mpn": "C26452M10LG",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-182 cm",
+      "stock": 2,
+      "prix": 669.99,
+      "mpn": "C26452M10LG",
+      "sku": "2151643",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2616485-vtt_semi_rigide_cannondale_trail_sl_4_microshift_advent_x_10v_29___noir_argent"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Grey"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "microSHIFT Advent X 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Trail SL, Smartform C2 Alloy, SAVE dropped seatstays, tapered headtube, post mount disc, StraightShot internal cable routing, dropper post compatible BSA 73, 12mm thru axle, Boost 148",
+      "fourche": "SR Suntour XCR LO Boost 29, 100mm travel, 15mm thru axle, tapered alloy steerer, Remote Lockout"
+    },
+    "transmission": {
+      "manette de dérailleur": "MicroShift Advent X, 10-vitesses",
+      "dérailleur arrière": "MicroShift Advent X, 10-vitesses",
+      "pédalier": "Prowheel, 30 Dents",
+      "boîtier de pédalier": "Sealed Bearing Cartridge",
+      "chaîne": "KMC X10, 10-vitesses",
+      "cassette": "MicroShift Advent X, 11-48 Dents, 10-vitesses"
+    },
+    "équipements": {
+      "freins": "Shimano MT200 hydraulic disc, 160/160 mm RT10 rotors",
+      "selle": "Cannondale Ergo XC",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 31.6 x 350mm (S), 400mm (M-XL)"
+    },
+    "roues": {
+      "jantes": "WTB STX i23 TCS, 32h, tubeless ready",
+      "moyeu avant": "Shimano MT200, QR ",
+      "moyeu arrière": "Shimano MT400, 12x148mm thru-axle",
+      "pneus": "Schwalbe Rocket Rick, 29 x 2.25\""
+    },
+    "direction": {
+      "jeu de direction": "Integrated Sealed Bearing, Tapered",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8, 0°",
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 15mm rise, 8° sweep, 4° rise, 780mm",
+      "poignées": "Cannondale Locking Grips"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 561,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1090,
+      "stack (mm)": 598,
+      "reach (mm)": 389
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 593,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1123,
+      "stack (mm)": 608,
+      "reach (mm)": 419
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1152,
+      "stack (mm)": 617,
+      "reach (mm)": 444
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1180,
+      "stack (mm)": 626,
+      "reach (mm)": 469
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2449770",
+  "tailles": [
+    "15 Pouces / 155-166 cm",
+    "19 Pouces / 173-182 cm",
+    "23 Pouces / 189-200 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cube Reaction C:62 Race Shimano SLX/XT 12V 29'' Orange Fire 2023",
+  "marque": "Cube",
+  "description": "Développé à partir du carbone C:62 et à l’aide du procédé de fabrication Advanced Twin Mold de Cube, le Reaction C:62 ne laisse rien au hasard dans sa quête de légèreté, de vitesse exceptionnelle et de réactivité. Il présente une base arrière plus courte avec axe traversant Boost, tube de direction conique et bénéficie de la technologie Agile Ride Geometry. Additionnez tout cela et vous obtenez la garantie d’un pilotage réactif et dynamique. Ses haubans plus étroits et sa tige de selle de 27,2 mm vous permettent d'en apprécier le confort plus longtemps, et ce, même lorsque vous êtes à fond. Le passage de câbles interne réduit les contraintes d’entretien et vous permet de consacrer votre temps à rouler plutôt qu'à régler vos vitesses.\r\n\r\nAvec son élégant cadre transpirant la compétition et ses superbes composants, le Cube Reaction C:62 Race vous rapproche un peu plus du podium. Avec sa paire de roues Newmen Evolution légère et robuste et ses pneus Schwalbe Racing Ray et Racing Ralph, sa capacité d’accélération n’a d’égal que la rapidité avec laquelle sa transmission Shimano SLX/XT 12 vitesses passe d’une vitesse à l’autre. Sa fourche suspendue Fox Performance 32 Step-cast offre à vos pneus une parfaite adhérence et à votre pilotage une précision irréprochable, tandis que son système de freins à disque hydrauliques Shimano XT confère à ce vélo toute la puissance nécessaire pour garder le contrôle du début à la fin.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/770/449770/2449770/4690688",
+  "mpn": "61631019",
+  "gtin13": "4054571387035",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "19 Pouces / 173-182 cm",
+      "stock": 1,
+      "prix": 2249.99,
+      "mpn": "61631019",
+      "sku": "2397451",
+      "gtin13": "4054571387035",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2495209-vtt_semi_rigide_cube_reaction_c_62_race_shimano_slx_xt_12v_29___orange_fire_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "23 Pouces / 189-200 cm",
+      "stock": 1,
+      "prix": 2096.51,
+      "mpn": "61631023",
+      "sku": "2456442",
+      "gtin13": "4054571387059",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2495209-vtt_semi_rigide_cube_reaction_c_62_race_shimano_slx_xt_12v_29___orange_fire_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "fireorange´n´black"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 10.3,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:62 Monocoque Advanced Twin Mold Technology, ARG2, Tapered Headtube, PressFit BB, Boost 12x148 mm, Internal Cable Routing, Dropper Post Ready",
+      "fourche": "Fox 32 SC Float Performance, 2-Position Remote, Tapered, Boost 15x110 mm, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX SL-M7100-I, Direct Attach, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Shimano Deore FC-M6100-1, Boost, 175 mm, 32 Dents",
+      "boîtier de pédalier": "Shimano BB-MT500PA, 92 mm Pressfit"
+    },
+    "équipements": {
+      "freins": "Shimano XT BR-M8100, Hydr. Disc Brake, (180/160)",
+      "selle": "Natural Fit Venec",
+      "tige de selle": "Newmen Evolution, 400x27.2 mm"
+    },
+    "roues": {
+      "jantes": "Newmen Evolution X.A.25, 28/28 Spokes, Tubeless Ready, Boost 15x110 mm / 12x148 mm",
+      "pneu avant": " Schwalbe Racing Ray, Addix Performance, Kevlar, 29x2.25\" ",
+      "pneu arrière": " Schwalbe Racing Ralph, Addix Performance, Kevlar, 29x2.25\""
+    },
+    "direction": {
+      "cintre": "Newmen Evolution 318.10, 720 mm",
+      "poignées": "Acid React Pro",
+      "potence": "Newmen Evolution 318.4, 31.8 mm, 6°",
+      "jeu de direction": "VP Integrated, Top 1 1/8\", Bottom 1 1/2\""
+    },
+    "référence": 616310
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 15,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 567,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1070,
+      "stack (mm)": 609,
+      "reach (mm)": 389,
+      "longueur de la potence (mm)": 70
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 17,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 588,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1091,
+      "stack (mm)": 618,
+      "reach (mm)": 406,
+      "longueur de la potence (mm)": 80
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 19,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 609,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1113,
+      "stack (mm)": 627,
+      "reach (mm)": 425,
+      "longueur de la potence (mm)": 90
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (pouces)": 21,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 515,
+      "tube supérieur (mm)": 628,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1138,
+      "stack (mm)": 637,
+      "reach (mm)": 441,
+      "longueur de la potence (mm)": 100
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de cadre (pouces)": 23,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 565,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1154,
+      "stack (mm)": 651,
+      "reach (mm)": 456,
+      "longueur de la potence (mm)": 100
+    }
+  ]
+}

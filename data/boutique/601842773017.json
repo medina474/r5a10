@@ -1,0 +1,186 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2434028",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Fuel EX 9.9 Sram XX1 Eagle AXS 12V 29'' Jaune 2023",
+  "marque": "Trek",
+  "description": "Le Fuel EX 9.9 XX1 AXS est un vélo de trail qui accorde la priorité à la performance et qui est destiné aux pilotes qui apprécient ce que la vie a à offrir de plus beau. Il associe la crème de la crème des cadres en carbone et des composants haut de gamme, depuis les roues en carbone jusqu’à la fourche Fox Factory de 150 mm avec revêtement Kashima et une transmission intégrale Sram XX1. Ce vélo domine la montage et il n’hésite pas à s’approprier son domaine en fonçant dans les rock gardens, en abordant les virages relevés à toute allure et en remontant rapidement pour un nouveau tour.\r\n\r\nVous avez de très bons goûts en matière de VTT et vous n’aimez pas les compromis. Vous souhaitez assembler un vélo qui dominera toute la montagne grâce aux innovations technologiques les plus récentes du secteur des vélos, depuis le cadre en carbone léger et rigide et les roues qui collent aux trajectoires les plus douteuses jusqu’à la fourche FOX Factory en passant par le groupe haut de gamme Sram XX1 sans fil.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/28/434028/2434028/4660899",
+  "mpn": "5276989",
+  "gtin13": "601842773017",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 6,
+      "prix": 12749,
+      "mpn": "5276988",
+      "sku": "2365549",
+      "gtin13": "601842773024",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471571-vtt_tout_suspendu_trek_fuel_ex_9_9_sram_xx1_eagle_axs_12v_29___jaune_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 3,
+      "prix": 12749,
+      "mpn": "5276989",
+      "sku": "2366967",
+      "gtin13": "601842773017",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471571-vtt_tout_suspendu_trek_fuel_ex_9_9_sram_xx1_eagle_axs_12v_29___jaune_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-196 cm",
+      "stock": 2,
+      "prix": 12749,
+      "mpn": "5276991",
+      "sku": "2368212",
+      "gtin13": "601842772997",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471571-vtt_tout_suspendu_trek_fuel_ex_9_9_sram_xx1_eagle_axs_12v_29___jaune_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Satin Baja Yellow"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.11,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram XX1 Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : OCLV Mountain Carbon, espace de rangement interne, jeu de direction angle-adjust, géométrie variable via Mino Link, ratio de levier réglable, acheminement interne guidé, basculeur magnésium, tube de selle 34,9 mm, ISCG 05, ligne de chaîne 55 mm, BSA 73, protection de tube diagonal, ABP, UDH, Boost148, débattement de 140 mm",
+      "fourche": "Fox Factory 36, ressort pneumatique Float EVOL, amortisseur GRIP2, pivot conique, déport de 44 mm, Boost110, axe Kabolt 15 mm, débattement de 150 mm",
+      "amortisseur": "Fox Factory Float X, amortisseur à 2 positions, 185x55 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram XX1 Eagle AXS, sans fil, 12 vitesses",
+      "dérailleur arrière": "Sram XX1 Eagle AXS, 12 vitesses",
+      "cassette": "Sram Eagle XG-1299, 10-52 Dents, 12 vitesses",
+      "chaîne": "Sram XX1 Eagle, 12 vitesses",
+      "pédalier": "Sram XX1 Eagle, DUB, plateau en alliage 30 dts, ligne de chaîne de 55 mm, longueur de 170 mm",
+      "boîtier de pédalier": "Sram DUB VTT large, 73mm, BSA fileté"
+    },
+    "équipements": {
+      "freins": "Sram Code RSC, disque hydraulique à 4 pistons, disques Sram HS2, 6 trous, 200/180 mm",
+      "selle": "Bontrager Arvada, rails en austénite, largeur de 138 mm",
+      "tige de selle": "Taille XS, S : RockShox Reverb AXS, débattement de 100 mm, sans fil, 34,9 mm, longueur de 340 mm Taille M, ML : RockShox Reverb AXS, débattement de 150 mm, sans fil, 34,9 mm, longueur de 440 mm Taille L, XL : RockShox Reverb AXS, débattement de 170 mm, sans fil, 34,9 mm, longueur de 480 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Line Pro 30, OCLV Mountain Carbon, Tubeless Ready",
+      "pneus": "Taille XS, S : Bontrager SE5 Team Issue, Tubeless Ready, flancs Core Strength, tringle en aramide, 120 tpi, 27,5x2,50 pouces Taille S, M, ML, L, XL : Bontrager SE5 Team Issue, Tubeless Ready, flancs Core Strength, tringle en aramide, 120 tpi, 29x2,5 pouces"
+    },
+    "cintre/potence intégré": "Taille XS, S : Potence/cintre intégré Bontrager RSL, OCLV carbon, élévation cintre 27,5 mm, largeur de 820 mm, inclinaison de potence 0, longueur de potence 35 mm Taille M, ML, L, XL : Cintre/potence intégré Bontrager RSL, OCLV carbon, élévation cintre 27,5 mm, largeur de 820 mm, inclinaison de potence 0, longueur de potence 45 mm",
+    "direction": {
+      "poignées": "Bontrager XR Trail Elite, nylon lock-on",
+      "jeu de direction": "Roulement à cartouches intégré, 1-1/8 po. haut, 1,5 po., bas, compatible avec verre à angle réglable"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 360,
+      "tube supérieur (mm)": 516,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1145,
+      "stack (mm)": 717,
+      "reach (mm)": 400
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 27.5,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 551,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1175,
+      "stack (mm)": 724,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 554,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1186,
+      "stack (mm)": 737,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1213,
+      "stack (mm)": 737,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "M/L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 607,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1233,
+      "stack (mm)": 742,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 627,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1250,
+      "stack (mm)": 748,
+      "reach (mm)": 485
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 662,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 64.5,
+      "angle tube de selle (°)": 70.8,
+      "empattement (mm)": 1287,
+      "stack (mm)": 767,
+      "reach (mm)": 515
+    }
+  ]
+}

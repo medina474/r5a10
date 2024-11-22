@@ -1,0 +1,122 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "1634993",
+  "tailles": [
+    "S / 154-165 cm",
+    "M / 167-175 cm",
+    "L / 172-182 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cannondale Scalpel Carbon 3 Shimano SLX / XT 12V 29'' Rouge Candy Noir",
+  "marque": "Cannondale",
+  "description": "Plus rapide, et de manière légitime. Intrinsèquement plus léger. Instantanément meilleur, le tout nouveau VTT tout suspendu Cannondale Scalpel est le meilleur moyen d'améliorer vos performances. Avec sa géométrie progressive et sa nouvelle suspension FlexPivot, vous bénéficiez d’une traction infaillible, d’une efficacité redoutable et d’un contrôle inébranlable, du départ jusqu’à la fin. Extrêmement rapide. Incroyablement fun.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/993/634993/1634993/2991683",
+  "mpn": "C24401M20LG",
+  "gtin13": "884603828755",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 172-182 cm",
+      "stock": 1,
+      "prix": 2599.99,
+      "mpn": "C24401M20LG",
+      "sku": "1586439",
+      "gtin13": "884603828755",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1522430-vtt_tout_suspendu_cannondale_scalpel_carbon_3_shimano_slx___xt_12v_29___rouge_candy_noir"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Candy Red"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "débattement cadre (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : All-New, 100 mm travel, BallisTec Carbon, Proportional Response Tuned, FlexPivot Chainstay, PF30-83, Tapered Headtube, Speed Release 12 mm thru axle, Ai Offset, Stash compatible",
+      "fourche": "Lefty Ocho, 100 mm, Chamber Damper with remote lockout, OppO Spring System, tapered steerer, 55 mm offset",
+      "amortisseur": "Fox Float DPS Performance Elite EVOL, remote lockout, adjustable rebound"
+    },
+    "direction": {
+      "jeu de direction": "Integrated, 1-1/8 to 1.5\", sealed angular contact bearings",
+      "potence": "Cannondale 3, 6061 Alloy, 31.8 mm, 7°",
+      "cintre": "Cannondale 2 Flat, butted 2014 Alloy, 31.8mm, 3° rise, 8° sweep, 760 mm",
+      "poignées": "ESI Chunky Silicone, 32 mm diameter"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX, 1x12 vitesses",
+      "dérailleur arrière": "Shimano XT, 12 vitesses",
+      "pédalier": "HollowGram, BB30a, OPI SpideRing, 34 Dents, Ai offset",
+      "boîtier de pédalier": "Cannondale Alloy PressFit30",
+      "chaîne": "Shimano SLX, 12 vitesses",
+      "cassette": "Shimano SLX, 10-51 Dents, 12 vitesses"
+    },
+    "leviers de frein": "Shimano Deore",
+    "équipements": {
+      "freins": "Shimano Deore hydraulic disc, 160/160 mm RT54 rotors",
+      "selle": "Prologo Dimension NRD, STN rails",
+      "tige de selle": "Cannondale 2, 7075 Alloy, 31.6 x 400 mm"
+    },
+    "roues": {
+      "jantes": "Stan's NoTubes Crest S1, 28h, tubeless ready",
+      "pneu avant": " Schwalbe Racing Ray Performance, 29 x 2.25\", Addix Compound, tubeless ready ",
+      "pneu arrière": " Schwalbe Racing Ralph Performance, 29 x 2.25\", Addix Compound, tubeless ready"
+    },
+    "moyeu avant": "Lefty 60",
+    "moyeu arrière": "Shimano MT510, 12x148 mm"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 576,
+      "longueur base (mm)": 436,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1128,
+      "stack (mm)": 582,
+      "reach (mm)": 415
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 436,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1151,
+      "stack (mm)": 591,
+      "reach (mm)": 435
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 436,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1175,
+      "stack (mm)": 601,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 644,
+      "longueur base (mm)": 436,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1199,
+      "stack (mm)": 610,
+      "reach (mm)": 475
+    }
+  ]
+}

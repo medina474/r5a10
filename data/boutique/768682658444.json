@@ -1,0 +1,142 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2569393",
+  "tailles": [
+    "M / 165-175 cm",
+    "M-L / 173-180 cm",
+    "L / 177-188 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Supercaliber 9.7 Sram GX Eagle AXS 12V 29'' Gris/Vert Fluo Gén 2",
+  "marque": "Trek",
+  "description": "Le Supercaliber SL 9.7 AXS est un VTT cross-country en carbone conçu pour survoler à toute vitesse les singletracks et foncer vers la ligne d’arrivée. Il possède un cadre en carbone qui offre un équilibre entre rigidité et souplesse afin que vous puissiez développer votre puissance là où vous en avez le plus besoin, tandis que la suspension IsoStrut à l’arrière offre juste ce qu’il faut d’amortissement pour atténuer les chocs sur les tronçons accidentés des circuits XC. Il est prêt à foncer grâce à sa transmission 12 vitesses SRAM GX AXS entièrement sans fil qui garantit des changements de vitesse précis, même sous la contrainte.\r\n \r\n\r\nVous êtes à la recherche d’un vélo de course cross-country et vous souhaitez un peu de suspension pour une sortie plus confortable. Vous recherchez les avantages d’un cadre en carbone et du système IsoStrut, sans oublier les bénéfices d’une transmission électronique entièrement sans fil.\r\n\r\nUn cadre en OCLV Mountain Carbon SL à géométrie XC moderne. Une suspension de 110 mm à l’avant avec une fourche RockShox Reba RL à ressort SoloAir et amortisseur Motion Control, ainsi qu’une suspension arrière IsoStrut de 80 mm avec amortisseur RockShox SIDLuxe, le tout avec blocage au guidon. Une transmission électronique Sram GX AXS 12 vitesses sans fil, un cintre en OCLV Carbon, une tige de selle télescopique Bontrager Line Dropper, des roues Bontrager Kovee Comp 25 tubeless ready et des freins à disque hydrauliques Sram Level Bronze à 2 pistons.\r\n\r\nSi votre chemin est défini par la rubalise et si vous êtes à la recherche d’un étalon XC capable de soutenir le rythme, le Supercaliber SL 9.7 AXS est fait pour vous. Sélectionné pour le cross-country, il affiche une géométrie course moderne et offre juste ce qu’il faut de suspension pour oublier les surfaces cahoteuses et vous permettre de vous donner à fond jusqu’à la ligne d’arrivée.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/393/569393/2569393/5183547",
+  "mpn": "5303558",
+  "gtin13": "768682658444",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 4784.99,
+      "mpn": "5303558",
+      "sku": "2558839",
+      "gtin13": "768682658444",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2682287-vtt_tout_suspendu_trek_supercaliber_9_7_sram_gx_eagle_axs_12v_29___gris_vert_fluo_gen_2"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 2,
+      "prix": 4784.99,
+      "mpn": "5303559",
+      "sku": "2558840",
+      "gtin13": "768682658529",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2682287-vtt_tout_suspendu_trek_supercaliber_9_7_sram_gx_eagle_axs_12v_29___gris_vert_fluo_gen_2"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Power Surge"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 11.4,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 110,
+    "débattement cadre (mm)": 80,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SL OCLV Mountain Carbon, IsoStrut, UDH, débattement de 80 mm",
+      "fourche": "RockShox Reba RL, ressort Solo Air, amortisseur Motion Control, blocage au guidon, pivot conique, déport de 42 mm, Boost110, Maxle Stealth 15 mm, débattement de 110 mm",
+      "amortisseur": "Trek IsoStrut, RockShox SIDLuxe, amortisseur à deux positions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Eagle AXS POD, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle AXS, T-type, 12 vitesses",
+      "cassette": "Sram Eagle XS-1275, T-type, 10-52 dents, 12 vitesses",
+      "chaîne": "Sram GX Eagle, T-type, 12 vitesses",
+      "pédalier": "Taille S, M : SRAM GX Eagle, axe DUB, type T, 34 dts, ligne de chaîne de 55 mm, longueur de 170 mm Taille M/L, L, XL : SRAM GX Eagle, axe DUB, type T, 34 dts, ligne de chaîne de 55 mm, longueur de 175 mm"
+    },
+    "boitier de pédalier": "Sram DUB, 92 mm, PressFit",
+    "équipements": {
+      "freins": "Sram Level Bronze hydrauliques, disque 2 pistons, disques Sram CenterLine, 6 trous, bord arrondi, 180/160 mm",
+      "tige de selle": "Taille S : Tige de selle télescopique Bontrager Line, 100 mm de débattement, acheminement interne, 31,6 mm, longueur de 345 mm Taille M, M/L : Tige de selle télescopique Bontrager Line, 125 mm de débattement, acheminement interne, 31,6 mm, longueur de 395 mm Taille L, XL : Tige de selle télescopique Bontrager Line, 150 mm de débattement, acheminement interne, 31,6 mm, longueur de 440 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Kovee Comp 25, Tubeless Ready, 6 trous",
+      "pneus": "Bontrager Sainte-Anne RSL, Tubeless Ready, 120 tpi, 29x2,40 pouces"
+    },
+    "direction": {
+      "cintre": "Bontrager Line Pro, OCLV Carbon, 35 mm, élévation de 15mm, largeur de 750mm",
+      "potence": "Taille S, M : Bontrager Elite, 35 mm, 13 degrés, 60 mm de long Taille M/L : Bontrager Elite, 35 mm, 13 degrés, 70 mm de long Taille L : Bontrager Elite, 35 mm, 13 degrés, 80 mm de long Taille XL : Bontrager Elite, 35 mm, 0 degré, 90 mm de long",
+      "jeu de direction": "FSA IS-2 , 1,125 pouces sur le haut, 1,5 pouce sur le bas"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1113,
+      "stack (mm)": 590,
+      "reach (mm)": 410
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1138,
+      "stack (mm)": 590,
+      "reach (mm)": 435
+    },
+    {
+      "taille cadre": "M/L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1153,
+      "stack (mm)": 590,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71.5,
+      "empattement (mm)": 1172,
+      "stack (mm)": 599,
+      "reach (mm)": 465
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 525,
+      "tube supérieur (mm)": 663,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71.5,
+      "empattement (mm)": 1217,
+      "stack (mm)": 622,
+      "reach (mm)": 500
+    }
+  ]
+}

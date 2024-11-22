@@ -1,0 +1,170 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2565071",
+  "tailles": [
+    "17 Pouces / 165-174 cm",
+    "19 Pouces / 173-182 cm",
+    "21 Pouces / 181-190 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Cube Reaction Hybrid Race 750 Shimano Deore/XT 12V 750 Wh 29'' Bleu Violet Switch 2023",
+  "marque": "Cube",
+  "description": "Tout est dans le détail. Le design de cadre du Cube Reaction Hybrid est si élégant que vous remarquerez à peine sa batterie haute capacité Bosch (jusqu’à 750 Wh, même pour les plus petites tailles de cadre) et une puissante unité motrice Bosch Performance CX quatrième génération équipée du Smart System. Mais, vous ne manquerez pas de remarquer sa puissance. L’Agile Ride Geometry offre le pilotage inspirant la confiance que vous êtes en droit d’attendre. L’option de cadre Easy Entry est disponible, tout comme un nouveau cadre taille S (avec des roues 27.5 pouces) afin que tout le monde puisse trouver son Reaction Hybrid idéal.\r\n\r\nAvec sa batterie haute capacité Bosch PowerTube, la puissance de sa motorisation Bosch CX quatrième génération et sa transmission Shimano Deore/XT 1x12 vitesses, le Cube Reaction Hybrid Race présente tout ce dont vous avez besoin pour élargir vos horizons et donner une nouvelle dimension à vos sorties. Ses puissants freins à disques hydrauliques Shimano avec quatre pistons sont associés à des pneus Schwalbe de 2.6 pouces pour vous garantir une puissance de freinage exceptionnelle, tandis que sa fourche suspendue RockShox Judy Silver offre 100 mm de débattement facilement ajustable et permettant d’absorber les irrégularités du terrain. Avec un style et une taille de cadre pour tous les types de cyclistes, il est temps de vous laisser porter par votre enthousiasme et rouler davantage.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/71/565071/2565071/5178637",
+  "mpn": "63422319",
+  "gtin13": "4054571399205",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "17 Pouces / 165-174 cm",
+      "stock": 4,
+      "prix": 3599.99,
+      "mpn": "63422317",
+      "sku": "2394928",
+      "gtin13": "4054571399199",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2681027-vtt_electrique_semi_rigide_cube_reaction_hybrid_race_750_shimano_deore_xt_12v_750_wh_29___bleu_violet_switch_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "19 Pouces / 173-182 cm",
+      "stock": 1,
+      "prix": 3599.99,
+      "mpn": "63422319",
+      "sku": "2394283",
+      "gtin13": "4054571399205",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2681027-vtt_electrique_semi_rigide_cube_reaction_hybrid_race_750_shimano_deore_xt_12v_750_wh_29___bleu_violet_switch_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "21 Pouces / 181-190 cm",
+      "stock": 5,
+      "prix": 3599.99,
+      "mpn": "63422321",
+      "sku": "2395384",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2681027-vtt_electrique_semi_rigide_cube_reaction_hybrid_race_750_shimano_deore_xt_12v_750_wh_29___bleu_violet_switch_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "switchblue´n´black"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 24.1,
+    "poids maximum": "150 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Superlite, Gravity Casting, Agile Ride Geometry, 1.5 Headtube, Boost 148, Fully Integrated Battery, Advanced Internal Cable Routing, Kickstand/Fender/Carrier Mounting Points, Width tires maximum: 68 mm",
+      "fourche": "RockShox Judy Silver TK Air, Tapered, Boost 15x110 mm, eMTB Approved, Lockout, 120 mm travel"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Drive Unit Performance CX Generation 4 (85 Nm) Cruise (250 Watt), Smart System, 25 km/h",
+      "batterie": "Bosch PowerTube 750 Wh",
+      "écran": "Bosch Kiox 300",
+      "commande": "Bosch LED Remote"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore SL-M6100-IR, Direct Attach, Rapidfire-Plus, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT RD-M8100-SGS, ShadowPlus, 12-vitesses",
+      "cassette": "Shimano Deore CS-M6100, 10-51 Dents",
+      "chaîne": "Shimano CN-M6100",
+      "pédalier": "Acid E-Crank, 175 mm, 38 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano BR-MT420, Hydr. Disc Brake, (203/203)",
+      "pédales": "Acid PP MTB",
+      "selle": "Natural Fit Sequence",
+      "tige de selle": "Cube Performance Post, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Cube EX30, 32H, Disc, Tubeless Ready",
+      "pneus": "Schwalbe Smart Sam, Active, 29x2.6\""
+    },
+    "direction": {
+      "cintre": "Cube Rise Trail Bar Pro, 740 mm",
+      "poignées": "Acid React Pro",
+      "potence": "Cube Performance Stem E-MTB, 31.8 mm",
+      "jeu de direction": "Acros AZF-1035, ICR (Integrated Cable Routing), BlockLock 120°, Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm)"
+    },
+    "référence": 634223
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de cadre (pouces)": 15,
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 565,
+      "longueur base (mm)": 447,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1135,
+      "stack (mm)": 614,
+      "reach (mm)": 400
+    },
+    {
+      "taille de cadre": "M",
+      "taille de cadre (pouces)": 17,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 628,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 122,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1196,
+      "stack (mm)": 646,
+      "reach (mm)": 444
+    },
+    {
+      "taille de cadre": "L",
+      "taille de cadre (pouces)": 19,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 628,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 122,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1196,
+      "stack (mm)": 651,
+      "reach (mm)": 442
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de cadre (pouces)": 21,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 495,
+      "tube supérieur (mm)": 645,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 132,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1208,
+      "stack (mm)": 662,
+      "reach (mm)": 456
+    },
+    {
+      "taille de cadre": "XXL",
+      "taille de cadre (pouces)": 23,
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 545,
+      "tube supérieur (mm)": 672,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 149,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1236,
+      "stack (mm)": 678,
+      "reach (mm)": 478
+    }
+  ]
+}

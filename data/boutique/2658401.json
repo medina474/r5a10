@@ -1,0 +1,152 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2658401",
+  "tailles": [
+    "M-L / 173-180 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Trek Supercaliber SLR 9.8 Shimano XT 12V 29'' Noir Gris Smoke Gén 2",
+  "marque": "Trek",
+  "description": "Le Trek Supercaliber SLR 9.8 est un VTT cross-country en carbone conçu pour survoler à toute vitesse les singletracks et foncer vers la ligne d’arrivée. Il possède un cadre en carbone qui offre un équilibre entre rigidité et souplesse afin que vous puissiez développer votre puissance là où vous en avez le plus besoin, tandis que la suspension IsoStrut à l’arrière offre juste ce qu’il faut d’amortissement pour atténuer les chocs sur les tronçons accidentés des circuits XC. Ce vélo est prêt à foncer avec sa transmission Shimano Shimano XT 12 vitesses. Vous disposerez d’un rapport pour la moindre côte ou chaque échappée.\r\n\r\nVous roulez pour vous amuser, et prendre le départ d’une course ne vous effraie pas. Vous êtes à la recherche d’un étalon cross-country capable d’accélérer dans les côtes, de finir en force et de contribuer à votre confort grâce à la suspension arrière IsoStrut de 80 mm. Vous voulez du carbone, depuis les roues jusqu’au poste de pilotage, et vous recherchez le plus haut de gamme qui soit proposé sur un VTT.\r\n\r\nUn cadre OCLV Mountain Carbon SLR haut module léger avec une géométrie XC moderne. Une suspension de 110 m à l’avant avec une fourche Fox Performance 34 step-cast à ressort pneumatique Float EVOL, amortisseur GRIP avec double blocage au guidon et une suspension arrière IsoStrut de 80 mm avec amortisseur RockShox SIDLuxe. Une transmission Shimano XT 12 vitesses, des roues en carbone Bontrager Kovee Elite 30, un ensemble guidon/potence intégré Bontrager RSL, une tige de selle télescopique Bontrager Line Dropper et des freins à disque hydrauliques Shimano Deore XT M8100.\r\n\r\nLe Supercaliber SLR 9.8 XT possède un pedigree de champions et a été sélectionné pour la course. Vous obtenez notre cadre haut de gamme tout suspendu XC en carbone sur lequel est montée une multitude de composants en carbone et vous bénéficiez de la fiabilité sur les trails de la transmission XT de Shimano.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/401/658401/2658401/5343420",
+  "mpn": "5303628",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M-L / 173-180 cm",
+      "stock": 1,
+      "prix": 5899.99,
+      "mpn": "5303628",
+      "sku": "2649747",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776722-vtt_tout_suspendu_trek_supercaliber_slr_9_8_shimano_xt_12v_29___noir_gris_smoke_gen_2"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Deep Smoke"
+    }
+  ],
+  "informations": {
+    "poids": "M - 10,95 kg (avec produit d’étanchéité TLR, sans chambres à air)",
+    "poids maximum": "136 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 110,
+    "débattement cadre (mm)": 80,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano Deore XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SLR OCLV Mountain Carbon, IsoStrut, patte de dérailleur universelle (UDH), débattement de 80 mm, taille max. pneu 29x2,4''",
+      "fourche": "Fox Performance 34 Step-Cast, ressort pneumatique Float EVOL, amortisseur GRIP à deux positions, double blocage au guidon, pivot conique, déport de 44 mm, Boost110, axe Kabolt 15 mm, débattement de 110 mm",
+      "amortisseur": "Trek IsoStrut, RockShox SIDLuxe, amortisseur à deux positions"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano XT M8100, 12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, chape longue, 12 vitesses",
+      "cassette": "Shimano XT M8100, 10-51, 12 vitesses",
+      "chaîne": "Shimano XT M8100, 12 vitesses",
+      "pédalier": "E*thirteen TRS Race Carbone, axe 30 mm, plateau en Alu 34 dents (max. 38 dents, min. 30 dents), ligne de chaîne de 55 mm"
+    },
+    "boitier de pédalier": "E*thirteen BB20-92, 92 mm, PressFit",
+    "équipements": {
+      "freins": "Shimano Deore XT M8100, à disque, hydrauliques, RT86 180/160 mm",
+      "selle": "Bontrager Aeolus Elite, rails en austénite, largeur de 145 mm",
+      "tige de selle": "Tige de selle télescopique Bontrager Line, acheminement interne, 31,6 mm"
+    },
+    "roues": {
+      "jantes": "Avant : Bontrager Kovee Elite 30, OCLV Mountain Carbon, 24 rayons, Tubeless Ready, largeur de 29 mm, valve Presta / Arrière : Bontrager Kovee Elite 30, OCLV Mountain Carbon, 24 rayons, Tubeless Ready, largeur de 29 mm, valve Presta, corps Rapide Drive 108",
+      "pneus": "Bontrager Sainte-Anne RSL XR, tubeless-ready, bicomposant, tringle en aramide, 220 tpi, 29x2,40''"
+    },
+    "cintre/potence intégrés": "Bontrager RSL, carbone OCLV, Rise 0 mm, largeur 750 mm, inclinaison potence -13°",
+    "direction": {
+      "poignées": "ESI Chunky",
+      "jeu de direction": "FSA IS-2 , 1''1/8 haut, 1''1/2 bas"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 395,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1113,
+      "stack (mm)": 590,
+      "reach (mm)": 410,
+      "longueur manivelles (mm)": 170,
+      "longeur potence (mm)": 70,
+      "longueur tige de selle (mm)": 345,
+      "débattement tige de selle (mm)": 100
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 592,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1138,
+      "stack (mm)": 590,
+      "reach (mm)": 435,
+      "longueur manivelles (mm)": 170,
+      "longeur potence (mm)": 70,
+      "longueur tige de selle (mm)": 395,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille cadre": "M/L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71,
+      "empattement (mm)": 1153,
+      "stack (mm)": 590,
+      "reach (mm)": 450,
+      "longueur manivelles (mm)": 175,
+      "longeur potence (mm)": 70,
+      "longueur tige de selle (mm)": 395,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 622,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71.5,
+      "empattement (mm)": 1172,
+      "stack (mm)": 599,
+      "reach (mm)": 465,
+      "longueur manivelles (mm)": 175,
+      "longeur potence (mm)": 80,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 525,
+      "tube supérieur (mm)": 663,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 71.5,
+      "empattement (mm)": 1217,
+      "stack (mm)": 622,
+      "reach (mm)": 500,
+      "longueur manivelles (mm)": 175,
+      "longeur potence (mm)": 90,
+      "longueur tige de selle (mm)": 440,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

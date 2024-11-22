@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2455500",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-180 cm",
+    "L / 178-190 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Orbea Alma H30 Shimano Deore 12V 29'' Rouge Metallic Dark 2023",
+  "marque": "Orbea",
+  "description": "La géométrie World Cup de l'Orbea Alma est l'aboutissement d'années de travail à dessiner des vélos XC de classe mondiale. La position est agressive, confortable et rapide. Contrairement à la géométrie trail qui sacrifie quelque peu la précision à l'endurance, la géométrie XC est précise et intuitive pour un transfert de puissance maximum. Les angles et les dimensions sont minutieusement calculés pour toute une gamme de tailles, afin d'optimiser la puissance avec une efficacité accrue. L'Alma est léger, rapide, et son rendement est encore meilleur. Peu de vélos de XC rigides d'aujourd'hui sont aussi ludiques et performants en montée.\r\n\r\nLes ingénieurs de chez Orbea manipulent les formes et l'épaisseur des parois des tubes d'aluminium de leurs cadres afin d'accroître leur robustesse et leur résistance aux flexions indésirables. De nombreux tubes sont aboutés, ce qui permet de gagner du poids dans les zones éloignées des contraintes des joints et des zones de soudure. L'utilisation de technologies d'aluminium aussi avancées que leurs techniques employées avec le carbone garantit que les vélos Orbea en aluminium ne sont jamais de seconde qualité.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/500/455500/2455500/4699346",
+  "mpn": "N21419N8",
+  "gtin13": "8434446276620",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-190 cm",
+      "stock": 9,
+      "prix": 999.99,
+      "mpn": "N21419N8",
+      "sku": "2398717",
+      "gtin13": "8434446276620",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2499548-vtt_semi_rigide_orbea_alma_h30_shimano_deore_12v_29___rouge_metallic_dark_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 10,
+      "prix": 999.99,
+      "mpn": "N21421N8",
+      "sku": "2398745",
+      "gtin13": "8434446276651",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2499548-vtt_semi_rigide_orbea_alma_h30_shimano_deore_12v_29___rouge_metallic_dark_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "N8 - Metallic Dark Red - Chic White (Gloss)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Alma Hydro Alloy, Boost 12x148 mm, BSA BB, Internal cable routing",
+      "fourche": "SR Suntour Raidon 32 RLR, Boost 15x110 mm, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore M6100, SGS, Shadow RD+, 12-vitesses",
+      "cassette": "SunRace, 11-51 Dents",
+      "chaîne": "KMC X12",
+      "pédalier": "Forged alloy, Boost, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano MT200, Hydr. Disc Brake",
+      "selle": "Selle Royal, 2058 DRN",
+      "tige de selle": "Alloy, 27.2 mm, Setback 0 mm"
+    },
+    "roues": {
+      "jantes": "Mach1 Klixx, 23c, Tubeless Ready, 29\"",
+      "pneus": "Maxxis Ikon, FB, 60 TPI, Dual, 29x2.20\""
+    },
+    "direction": {
+      "cintre": "Alloy, 31.8 mm, Flat, 740 mm, Sweep 9°",
+      "potence": "Alloy, 7º",
+      "jeu de direction": "Acros Alloy 1-1/8 - 1-1/2\" Integrated"
+    },
+    "référence": "N214"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 562,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1092,
+      "stack (mm)": 602,
+      "reach (mm)": 395
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 445,
+      "tube supérieur (mm)": 596,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1127,
+      "stack (mm)": 612,
+      "reach (mm)": 426
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 483,
+      "tube supérieur (mm)": 620,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1152,
+      "stack (mm)": 621,
+      "reach (mm)": 448
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 533,
+      "tube supérieur (mm)": 650,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1184,
+      "stack (mm)": 635,
+      "reach (mm)": 474
+    }
+  ]
+}

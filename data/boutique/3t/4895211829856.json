@@ -1,0 +1,161 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2549557",
+  "tailles": [
+    "XXS / 145-160 cm",
+    "51 cm / 157-171cm",
+    "54 cm / 168-180 cm",
+    "56 cm / 176-186 cm",
+    "58 cm / 183-195 cm",
+    "61 cm / 193-202 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "3T Exploro Ultra Crankbrothers Edition Sram Force eTap AXS / XX1 Eagle AXS 12V 650b Gris Graphite 2023",
+  "marque": "3T",
+  "description": "L'Exploro Ultra a été le défi aérodynamique le plus difficile à relever à ce jour pour les ingénieurs de chez 3T. Commencer avec des pneus massifs de 55 à 61 mm de large, puis rendre le vélo aérodynamique. Aucune possibilité d'optimisation pour les pneus, ils sont gros et les crampons n'aident pas. En revanche, ce que 3T peut faire, c'est prendre le désordre du flux d'air qui vient de la roue avant et essayer de l'attraper et de le rediriger. C'est pourquoi vous verrez le tube diagonal de 60 mm de large placé près de la roue avant, encore plus large à mesure qu'il se rapproche du boîtier de pédalier.\r\n\r\nL'intégration de ces éléments dans le tube de direction avec un profil aérodynamique décentré et de nombreuses autres astuces permet d'obtenir un vélo qui donne l'impression d'être beaucoup plus rapide que ce que votre cerveau peut imaginer. Car soyons honnêtes, lorsque vous voyez ces pneus, votre cerveau se prépare à la performance lente et ennuyeuse d'un VTT sur la route. Mais grâce à la position de conduite, à l'aérodynamisme, à la rigidité du cadre et au Q-factor restreint, l'Ultra se comporte à 100 % comme un vélo de route lorsque vous voulez aller vite. Même dans la boue.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/557/549557/2549557/5135681",
+  "mpn": "9205AHDK20W",
+  "gtin13": "4895211829856",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 168-180 cm",
+      "stock": 1,
+      "prix": 5499.99,
+      "mpn": "9205AHDK20W",
+      "sku": "2088735",
+      "gtin13": "4895211829856",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2666283-gravel_bike_3t_exploro_ultra_crankbrothers_edition_sram_force_etap_axs___xx1_eagle_axs_12v_650b_gris_graphite_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Graphite"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "650b",
+    "groupe": "Sram Force eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Exploro Ultra, Unidirectional pre-preg carbon, High-modulus/high-strength performance blend layup",
+      "fourche": "Carbone : Fango Ultra w/ compact crown"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Force eTap AXS HRD D2, 1x12-vitesses",
+      "dérailleur arrière": "Sram XX1 Eagle AXS, Long Cage, 12-vitesses",
+      "cassette": "Sram Eagle, 11-50 Dents",
+      "pédalier": "3T Torno Team",
+      "boîtier de pédalier": "Threaded BB"
+    },
+    "équipements": {
+      "freins": "Sram Force eTap AXS HRD D2, Hydr. Disc Brake, Sram Rotors (160/160)",
+      "tige de selle": "Crankbrothers Highline XC/Gravel",
+      "selle": "Fizik Terra Argo X7"
+    },
+    "roues": {
+      "jantes": "Crankbrothers Synthesis Carbon, Gravel, I9 hubs, 12x100/12x142 mm, 650b",
+      "pneus": "Vittoria Barzo, 52-584, 27.5 x 2.1\""
+    },
+    "direction": {
+      "cintre": "3T Superghiaia LTD",
+      "potence": "3T Apto Stealth",
+      "jeu de direction": "Integrated headset, sealed cartridge 1-1/8\"+1.5\", 36°"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre (cm)": "XXS",
+      "tube de selle (mm)": 436,
+      "tube supérieur (mm)": 510,
+      "longueur base (mm)": 419,
+      "douille de direction* (mm)": 122,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1003,
+      "stack (mm)": 520,
+      "reach (mm)": 351,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 270,
+      "débattement tige de selle (mm)": 60
+    },
+    {
+      "taille cadre (cm)": 51,
+      "tube de selle (mm)": 463,
+      "tube supérieur (mm)": 527,
+      "longueur base (mm)": 419,
+      "douille de direction* (mm)": 142,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1013,
+      "stack (mm)": 542,
+      "reach (mm)": 362,
+      "longueur manivelles (mm)": 170,
+      "longueur tige de selle (mm)": 310,
+      "débattement tige de selle (mm)": 80
+    },
+    {
+      "taille cadre (cm)": 54,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 419,
+      "douille de direction* (mm)": 158,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1009,
+      "stack (mm)": 564,
+      "reach (mm)": 373,
+      "longueur manivelles (mm)": 172.5,
+      "longueur tige de selle (mm)": 350,
+      "débattement tige de selle (mm)": 100
+    },
+    {
+      "taille cadre (cm)": 56,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 559,
+      "longueur base (mm)": 419,
+      "douille de direction* (mm)": 175,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1014,
+      "stack (mm)": 584,
+      "reach (mm)": 381,
+      "longueur manivelles (mm)": 172.5,
+      "longueur tige de selle (mm)": 350,
+      "débattement tige de selle (mm)": 100
+    },
+    {
+      "taille cadre (cm)": 58,
+      "tube de selle (mm)": 549,
+      "tube supérieur (mm)": 574,
+      "longueur base (mm)": 419,
+      "douille de direction* (mm)": 196,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1024,
+      "stack (mm)": 604,
+      "reach (mm)": 388,
+      "longueur manivelles (mm)": 175,
+      "longueur tige de selle (mm)": 350,
+      "débattement tige de selle (mm)": 100
+    },
+    {
+      "taille cadre (cm)": 61,
+      "tube de selle (mm)": 576,
+      "tube supérieur (mm)": 593,
+      "longueur base (mm)": 419,
+      "douille de direction* (mm)": 225,
+      "angle de direction (°)": 72.5,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1044,
+      "stack (mm)": 632,
+      "reach (mm)": 399,
+      "longueur manivelles (mm)": 175,
+      "longueur tige de selle (mm)": 350,
+      "débattement tige de selle (mm)": 100
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2448132",
+  "tailles": [
+    "S / 160-170 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-200 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Mondraker Prime R Sram SX Eagle 12V 750 Wh 29'' Orange / Gris 2023",
+  "marque": "Mondraker",
+  "description": "La Prime R est le VTTAE sport pour ceux qui veulent un VAE avec fourche à suspension pour découvrir notre sport avec les plus hautes garanties.\r\nDe plus, grâce au moteur Bosch Performance Line CX Smart System et à sa batterie de 750 Wh d'autonomie, il vous permettra de profiter de vos sorties avec la possibilité de faire autant de kilomètres que vous le souhaitez. Pour cette saison 2023, il est équipé de la télécommande Mini Remote et du System Controller, accompagnés de l’écran Intuvia 100. Grâce à sa fourche RockShox de 120 mm de débattement et à ses roues de 29\" de diamètre, profitez des sorties les plus tranquilles et les plus exigeantes que vous souhaitez.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/132/448132/2448132/4687556",
+  "mpn": "010.23254",
+  "gtin13": "8435392859578",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 1,
+      "prix": 3399.99,
+      "mpn": "010.23252",
+      "sku": "2186108",
+      "gtin13": "8435392859554",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2493624-vtt_electrique_semi_rigide_mondraker_prime_r_sram_sx_eagle_12v_750_wh_29___orange___gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 1,
+      "prix": 3399.99,
+      "mpn": "010.23254",
+      "sku": "2186168",
+      "gtin13": "8435392859578",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2493624-vtt_electrique_semi_rigide_mondraker_prime_r_sram_sx_eagle_12v_750_wh_29___orange___gris_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 23.3,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Prime Xtralite tout en aluminium 6061 renforcé, Forward Geometry, batterie interne non-amovible, douille de direction conique, axe arrière Boost 12 x 148 mm, capteur de vitesse intégré à la patte arrière du cadre",
+      "fourche": "RockShox 35 Silver TK 29, 120 mm, TurnKey, Solo Air, pivot conique, axe Boost 15 x 110 mm, plongeurs en acier 35 mm, déport 44 mm. Réglages : ajustement de la compression à basse vitesse avec blocage, rebond, précontrainte pneumatique"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX (25km/h) Smart System",
+      "batterie": "Bosch Powertube 750 Wh",
+      "écran": "Bosch Intuvia 100 / Mini système de commande Bosch / Contrôleur système Bosch"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger SX Eagle, 12 vitesses, X-Actuation 1:1, simple clic",
+      "dérailleur arrière": "Sram SX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, chape longue, 1 x 12 vitesses, X-actuation 1:1",
+      "cassette": "Sram PG-1210, 11-50 dents, 12 vitesses",
+      "chaîne": "Sram SX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "Race Face Aeffect ebike, 165 mm, Sram X-Sync 2 Eagle 34 dents, acier, faible largeur, BCD 104"
+    },
+    "équipements": {
+      "freins": "Sram Level T, étrier 2 pièces, disque monopièce Centerline 200/180 mm IS 6 trous, plaquettes organiques sur acier",
+      "selle": "MDK ebike Noir",
+      "tige de selle": "Tige de selle télescopique interne Onoff Pija, diamètre 31,6 mm, taille S : 405 x 95-125 mm, taille M : 458 x 120-150 mm, taille L : 498 x 140-170 mm, taille XL : 498 x 140-170 mm"
+    },
+    "roues": {
+      "jantes": "MDK-HP1 29\", largeur intérieure 30 mm, Tubeless Ready, 32 rayons",
+      "moyeu avant": "Formula DC711, 15 x 110 mm, roulements étanches, IS 6 trous ",
+      "moyeu arrière": "Formula EHL148 Boost 12 x 148 mm, roulements étanches, IS 6 trous",
+      "pneus": "Maxxis Rekon 29 x 2,6, Tubeless Ready, composé double, protection Exo, 60 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 1.0, aluminium 6061 double renfort, galbe : 20 mm, largeur : 800 mm, cintrage 9°, réhausse 5°, alésage 31,8 mm",
+      "poignées": "Onoff Twin, verrouillage simple, 135 mm",
+      "potence": "Onoff Sulfur FG 30 mm 0º, alliage d'aluminium forgé 6061, alésage 31,8 mm",
+      "jeu de direction": "Onoff Saturn conique pour tube de direction de 1-1/8” à 1-1/2”, roulements étanches ACB, haut 41x30,2x7x45ºx45º, bas 51,9x40x8x45ºx45º"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1138,
+      "stack (mm)": 640,
+      "reach (mm)": 410
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 615,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1153,
+      "stack (mm)": 640,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 645,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1183,
+      "stack (mm)": 640,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1210,
+      "stack (mm)": 658,
+      "reach (mm)": 480
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 700,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1240,
+      "stack (mm)": 658,
+      "reach (mm)": 505
+    }
+  ]
+}

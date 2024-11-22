@@ -1,0 +1,123 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2447222",
+  "tailles": [
+    "S / 158-170 cm",
+    "M / 168-180 cm",
+    "L / 178-190 cm",
+    "XL / 188-210 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Commencal Meta TR Essential Shimano SLX 12V 29'' Vert Keswick",
+  "marque": "Commencal",
+  "description": "Lorsque nous avons développé le Meta TR 29, le cahier des charges était clair : faire un vélo très performant en montée et qui conserve l'ADN Commencal en descente.\r\n\r\nIl en ressort un bike particulièrement homogène, redoutable dans les sections de pédalage et idéal pour les longues sorties à la pédale. Il sait passer avec brio d'une montée à une descente en passant par une zone de transition plus plate. Grâce à ses 140 mm de débattement à l'arrière et sa fourche en 150 mm, il aborde sans crainte les zones défoncées. Et il fait preuve de dynamisme quand il s'agit de jouer avec le relief, de pomper pour prendre de la vitesse. Mike Kazimer, journaliste chez Pinkbike, décrit le META TR 29 comme : l'un des vélos les plus amusants que j'ai pu rouler.\r\n\r\nLa rigidité du cadre fait toujours l'objet de la plus grande attention.\r\nL'utilisation de roulements Enduro Bearings double rangés permet une déformation du cadre plus homogène sans perte de rigidité par les roulements.\r\n ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/222/447222/2447222/4683536",
+  "mpn": "22METATREGNL",
+  "gtin13": "22120303",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-190 cm",
+      "stock": 1,
+      "prix": 2799.99,
+      "mpn": "22METATREGNL",
+      "sku": "2185087",
+      "gtin13": "22120303",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2491593-vtt_tout_suspendu_commencal_meta_tr_essential_shimano_slx_12v_29___vert_keswick"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Keswick Green"
+    }
+  ],
+  "informations": {
+    "poids": "15.00 kg (Taille S)",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 150,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano SLX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : 2022 Meta TR, 140 mm travel, 29'', Alloy 6066, triple butted tubes, T4, T6. Enduro bearings",
+      "fourche": "Fox 36 Performance Grip, 150 mm, 29\", Fit Grip damper, 3 positions, rebound, Boost (15 x 110 mm), 44 mm offset, 2 Tokens",
+      "amortisseur": "Fox Float DPS Performance, 210 x 55 mm, rebound, 3 position adjustment"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX, 1x12 vitesses",
+      "dérailleur arrière": "Shimano SLX, 12 vitesses",
+      "cassette": "Shimano SLX, 10-51 dents",
+      "pédalier": "Shimano SLX, 170 mm crank arms, Boost / Chainring : Shimano SLX, 32t, Dynamic Chain Engagement + Technology",
+      "boîtier de pédalier": "Shimano BB71-41A"
+    },
+    "équipements": {
+      "freins": "Shimano SLX, 4 pistons, I-Spec EV compatible / Rotor : Shimano SM-RT76 203/203 mm, 6 holes",
+      "selle": "Fizik Terra Alpaca X5, 145 mm width, S-alloy rails",
+      "tige de selle": "KS Rage-I, 34.9 mm, travel: 125 mm on S, 150 mm on M, 170 mm on L, 190 mm on XL, SouthPaw alloy remote"
+    },
+    "roues": {
+      "jantes": "DT Swiss M502, 29'', 32h, 30 mm inner width\"",
+      "pneu avant": " Maxxis DHR II 29\" x 2.40\", WT, EXO, dual compound, Tubeless Ready ",
+      "pneu arrière": " Maxxis Dissector 29\" x 2.40\", WT, EXO, dual compound, Tubeless Ready"
+    },
+    "direction": {
+      "cintre": "Ride Alpha R20 31.8 mm, 760 mm width, 20 mm rise, Alloy 6061 on S - 31.8 mm, 780 mm width, 27 mm rise, Alloy 6061 on M / L - 31.8 mm, 800 mm width, 27 mm rise, Alloy 6061 on XL",
+      "potence": "Ride Alpha Freeride 40 mm extension, 31,8 mm",
+      "jeu de direction": "Acros ZS44/ZS56, Alloy cups, sealed bearings"
+    },
+    "grips": "ODI Elite Motion, Soft pro compound, single clamp, black"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 565,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 79,
+      "empattement (mm)": 1202,
+      "stack (mm)": 623,
+      "reach (mm)": 444
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 591,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 79,
+      "empattement (mm)": 1229,
+      "stack (mm)": 627,
+      "reach (mm)": 469
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 79,
+      "empattement (mm)": 1256,
+      "stack (mm)": 631,
+      "reach (mm)": 494
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 643,
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 79,
+      "empattement (mm)": 1283,
+      "stack (mm)": 635,
+      "reach (mm)": 519
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2359610",
+  "tailles": [
+    "S / 160-170 cm",
+    "M / 170-178 cm",
+    "L / 178-185 cm",
+    "XL / 185-193 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Dartmoor Primal Evo 29'' Matt Green Olive Vert 2022",
+  "marque": "Dartmoor",
+  "description": "L'un des vélos les plus polyvalents de la gamme Dartmoor.le choix parfait pour les cyclistes qui recherchent tout ce qu'il y a de mieux en matière de VTT, comme les descentes, les montées, la découverte des sentiers, les sauts, et même la piste de pompage ou les virages. Des roues plus grandes de 29 pouces, seront un meilleur choix pour les cyclistes qui choisissent de faire de longs trajets et de parcourir des sentiers. Les versions Evo des Primals sont équipées de composants medium spec bien choisis, comme une fourche à suspension frontale pneumatique avec contrôle du rebond et une tige de selle compte-gouttes.\r\nLes + produit :",
+  "image": "https://product-cdn-frz.alltricks.com/medium/610/359610/2359610/4399370",
+  "mpn": "DART-A0364",
+  "gtin13": "5902891358954",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 160-170 cm",
+      "stock": 1,
+      "prix": 999.99,
+      "mpn": "DART-A0364",
+      "sku": "2211910",
+      "gtin13": "5902891358954",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2395813-vtt_semi_rigide_dartmoor_primal_evo_29___matt_green_olive_vert_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-178 cm",
+      "stock": 1,
+      "prix": 999.99,
+      "mpn": "DART-A0363",
+      "sku": "2212505",
+      "gtin13": "5902891358947",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2395813-vtt_semi_rigide_dartmoor_primal_evo_29___matt_green_olive_vert_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-185 cm",
+      "stock": 2,
+      "prix": 999.99,
+      "mpn": "DART-A0362",
+      "sku": "2212570",
+      "gtin13": "5902891358930",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2395813-vtt_semi_rigide_dartmoor_primal_evo_29___matt_green_olive_vert_2022"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "microSHIFT Advent X 10V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur effectif (mm)": 604,
+      "longueur de la base (mm)": 432,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1165,
+      "stack (mm)": 652,
+      "reach (mm)": 420
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 435,
+      "tube supérieur effectif (mm)": 632,
+      "longueur de la base (mm)": 432,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1194,
+      "stack (mm)": 652,
+      "reach (mm)": 445
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 465,
+      "tube supérieur effectif (mm)": 657,
+      "longueur de la base (mm)": 432,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1219,
+      "stack (mm)": 652,
+      "reach (mm)": 470
+    },
+    {
+      "taille du cadre": "XL",
+      "tube de selle (mm)": 465,
+      "tube supérieur effectif (mm)": 685,
+      "longueur de la base (mm)": 432,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65,
+      "angle du tube de selle (°)": 72,
+      "empattement (mm)": 1248,
+      "stack (mm)": 652,
+      "reach (mm)": 495
+    }
+  ]
+}

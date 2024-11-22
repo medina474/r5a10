@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2676040",
+  "tailles": [
+    "S / 162-169 cm",
+    "M / 170-178 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Wilier Triestina Urta Max SLR Shimano XT 12V 29'' Bleu Turquoise Wilier MTB Factory Team 2024",
+  "marque": "Wilier Triestina",
+  "description": "Innovation Max, performance Max, amusement Max ! Ce VTT tout-suspendu, doté d’un débattement de 120 mm, a été créé pour répondre aux attentes les plus exigeantes des athlètes du Wilier-Vittoria MTB Factory Team : performance de la cinématique de suspension, précision et efficacité de pilotage. Le Wilier Triestina Urta Max SLR est un vélo qui deviendra rapidement le moyen idéal pour atteindre vos objectifs, qu’il s’agisse de compétitions ou de séances d’entrainement sur les sentiers les plus difficiles.\r\n\r\nLes deux triangles qui composent le cadre Urta Max SLR sont en fibre de carbone HUS-MOD à haut module, identique à celle utilisée pour tous les produits haut de gamme de Wilier. Rigidité maximale seulement aux endroits désirés. Le triangle avant permet une intégration totale des câbles, mais contrairement aux modèles précédents, où les gaines entraient dans le cadre par des perçages pratiqués dans le carbone, sur Urta Max, les gaines et les durites entrent par la partie supérieure du jeu de direction, comme sur les vélos de route. Une solution qui permet d’obtenir une pureté esthétique et surtout, améliore la rigidité globale de la zone de direction (l'absence de perçages garantit la continuité de la modularité des fibres de carbone). Le triangle arrière d'Urta Max est conçu avec une solution à pivot unique. La nouvelle biellette (plus rigide par rapport aux versions précédentes) a été conçue pour donner au cadre une efficacité maximale pour un débattement de 120 mm.\r\n\r\nLes géométries de l'Urta Max ont été conçues et optimisées pour le montage d'une fourche avec un débattement de 120 mm. Le but étant de maintenir le cycliste dans une position abaissée et compacte. Pour ce faire, le stack a été réduit au minimum, le reach a été augmenté et le boitier de pédalier a été maintenu le plus bas possible. Une solution qui permet au cycliste de rester parfaitement en position sur le vélo, sans perte d’énergie.\r\n\r\nDans cette version, le cockpit en carbone monocoque Urta Max Bar complète le module de carbone. Ce combo cintre/potence s'intègre parfaitement au cadre grâce à des entretoises spécialement prévues. Le haut niveau de confort est obtenu grâce au matériau utilisé : carbone HUS-MOD à haut module qui permet l’absorption des micro-vibrations qui dérivent des imperfections du terrain. L'inclinaison négative du cintre (- 27°) garantit au cycliste une position plus compacte pour un pédalage plus puissant dans les phases d’accélération, de montées techniques et de relances.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/40/676040/2676040/5403949",
+  "mpn": "E432SC9UU3U10",
+  "gtin13": "8059178220408",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-178 cm",
+      "stock": 1,
+      "prix": 5999.99,
+      "mpn": "E432SC9UU3U10",
+      "sku": "2663318",
+      "gtin13": "8059178220408",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2799521-vtt_tout_suspendu_wilier_triestina_urta_max_slr_shimano_xt_12v_29___bleu_turquoise_wilier_mtb_factory_team_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "U10 - Wilier MTB Factory Team; Glossy"
+    }
+  ],
+  "informations": {
+    "poids": "--- kg (Cadre : 1730 g)",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Urta Max SLR - Carbon Monocoque Frame HUS MOD + High Impact Carbon Weave, 120 mm travel, Width tire maximum: 70 mm",
+      "fourche": "RockShox SID Ultimate, 35 mm chassis, Boost, 120 mm travel",
+      "amortisseur": "RockShox SIDLuxe Ultimate, Three-position, 190x45S"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore XT SL-M8100, 1x12-vitesses",
+      "dérailleur arrière": "Shimano Deore XT RD-M8100, SGS, Shadow RD+, 12-vitesses",
+      "cassette": "Shimano Deore XT CS-M8100, 10-51 Dents",
+      "chaîne": "Shimano CN-M7100",
+      "pédalier": "Shimano Deore XT FC-M8100, 32 Dents",
+      "boîtier de pédalier": "Shimano PressFit MT800-PA"
+    },
+    "équipements": {
+      "freins": "Shimano Deore XT BR-M8100, Hydr. Disc Brake, Shimano RT-MT800 Rotors (180/160)",
+      "selle": "San Marco Shortfit Startup",
+      "tige de selle": "Dropper Post Switch"
+    },
+    "roues": {
+      "jantes": "Miche 966, Alloy, 25 mm internal width",
+      "pneus": "Vittoria Mezcal III, 29 x 2.25\""
+    },
+    "direction": {
+      "cintre": "Urta Max Integrated Carbon Bar, -27°",
+      "potence": "Urta Max Integrated Carbon Bar, -27°",
+      "jeu de direction": "Across Headset AIF610"
+    },
+    "référence": "E432SC9UU"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 575,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 88,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 75,
+      "stack (mm)": 598,
+      "reach (mm)": 415,
+      "empattement (mm)": 1126
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 603,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 88,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 75,
+      "stack (mm)": 598,
+      "reach (mm)": 443,
+      "empattement (mm)": 1154
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 632,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 92,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 75,
+      "stack (mm)": 602,
+      "reach (mm)": 471,
+      "empattement (mm)": 1184
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 664,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 104,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 75,
+      "stack (mm)": 613,
+      "reach (mm)": 500,
+      "empattement (mm)": 1218
+    }
+  ]
+}

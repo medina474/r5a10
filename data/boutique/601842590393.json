@@ -1,0 +1,101 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2152708",
+  "tailles": [
+    "49 cm / 156-163 cm",
+    "52 cm / 163-168 cm",
+    "54 cm / 168-174 cm",
+    "56 cm / 174-180 cm",
+    "58 cm / 180-185 cm",
+    "61 cm / 185-191 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Trek Checkpoint SL 5 Shimano GRX Gris Mercury / Noir Carbon Smoke 2022",
+  "marque": "Trek",
+  "description": "Le Checkpoint SL 5 est un vélo de gravel en carbone conçu pour vivre des aventures épiques sur tout type de chemin.\r\nIl est fabriqué en OCLV Carbon léger avec la technologie amortissante IsoSpeed. Il offre une géométrie progressive agile, mais stable, ainsi qu’un espace de rangement interne et un grand nombre de fixations.\r\nLe tout donne un vélo de gravel sensationnel capable de terminer les parcours les plus longs et les plus difficiles ou de se lancer dans les aventures de bikepacking les plus ambitieuses.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/708/152708/2152708/3999330",
+  "mpn": "5260811",
+  "gtin13": "601842590393",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "54 cm / 168-174 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "5260811",
+      "sku": "2171569",
+      "gtin13": "601842590393",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2012438-gravel_bike_trek_checkpoint_sl_5_shimano_grx_gris_mercury___noir_carbon_smoke_2022"
+    }
+  ],
+  "informations": {
+    "poids constructeur (en g)": 9700,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 11V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre": "49 cm",
+      "tube de selle": 490,
+      "tube supérieur": 515,
+      "longueur base": 425,
+      "douille de direction": 90,
+      "angle de direction": "71.4°",
+      "angle tube de selle": "75.0°",
+      "empattement": 995
+    },
+    {
+      "taille cadre": "52 cm",
+      "tube de selle": 520,
+      "tube supérieur": 536,
+      "longueur base": 425,
+      "douille de direction": 107,
+      "angle de direction": "71.6°",
+      "angle tube de selle": "74.0°",
+      "empattement": 1005
+    },
+    {
+      "taille cadre": "54 cm",
+      "tube de selle": 540,
+      "tube supérieur": 551,
+      "longueur base": 425,
+      "douille de direction": 126,
+      "angle de direction": "71.8°",
+      "angle tube de selle": "73.5°",
+      "empattement": 1014
+    },
+    {
+      "taille cadre": "56 cm",
+      "tube de selle": 560,
+      "tube supérieur": 566,
+      "longueur base": 425,
+      "douille de direction": 145,
+      "angle de direction": "72.2°",
+      "angle tube de selle": "73.0°",
+      "empattement": 1020
+    },
+    {
+      "taille cadre": "58 cm",
+      "tube de selle": 580,
+      "tube supérieur": 577,
+      "longueur base": 425,
+      "douille de direction": 171,
+      "angle de direction": "72.3°",
+      "angle tube de selle": "73.0°",
+      "empattement": 1032
+    },
+    {
+      "taille cadre": "61 cm",
+      "tube de selle": 610,
+      "tube supérieur": 592,
+      "longueur base": 425,
+      "douille de direction": 200,
+      "angle de direction": "72.6°",
+      "angle tube de selle": "73.0°",
+      "empattement": 1044
+    }
+  ]
+}

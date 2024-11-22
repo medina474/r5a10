@@ -1,0 +1,102 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2499930",
+  "tailles": [
+    "S / 158-168 cm",
+    "M / 168-178 cm",
+    "L / 178-188 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Sunn Kern EN Factory Sram GX/X01 Eagle 12V 29'' Noir 2023",
+  "marque": "Sunn",
+  "description": "Kern EN, l’arme absolue en Enduro avec une géométrie et une cinématique étudiées, validées et titrées en compétition EWS par les pilotes professionnels et notre Team Enduro. Avec un design affirmé, les Kern EN apportent une importante efficacité de pédalage et assurent une réelle stabilité même à haute vitesse. Prêt pour la compétition ou pour une bonne dose d’adrénaline !\r\n\r\nGrâce à son design unique, le Kern EN Factory dans sa version carbone est le VTT Enduro de notre Team. Efficace et joueur, il a été éprouvé par nos pilotes sur les pistes des Enduro World Series !\r\n\r\nNous avons travaillé l’intégration basculeur/amortisseur pour abaisser le centre de gravité pour procurer une meilleure maniabilité et stabilité. La largeur de boîte de pédalier est optimisée avoir une rigidité maximale. Nous avons également diminué les contraintes sur l’axe de rotation principal pour une meilleure concentricité des efforts.\r\n\r\nVR : point de rotation virtuel favorise le pédalage en début de course et l’amortissement en fin de course. LR : leverage ratio progressif permet de conserver une assiette constante du vélo.\r\n\r\nLe cadre de nos vélos VTT Enduro Kern EN sont en monocoque HM/HR fibre Toray® T800 (80%) / T900 (20%).",
+  "image": "https://product-cdn-frz.alltricks.com/medium/930/499930/2499930/4902667",
+  "mpn": "YCSUSC4301",
+  "gtin13": "3032651892427",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-178 cm",
+      "stock": 1,
+      "prix": 3099.99,
+      "mpn": "YCSUSC4301",
+      "sku": "2175559",
+      "gtin13": "3032651892427",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2566266-vtt_tout_suspendu_sunn_kern_en_factory_sram_gx_x01_eagle_12v_29___noir_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 15.40,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 155,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Kern en Edge Full Carbon monocoque T800 HM tapered boost, Thru axle, 155 mm",
+      "fourche": "Formula Selva S, Boost 160 mm",
+      "amortisseur": "Formula Mod S Coil, 230x65"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 12-vitesses",
+      "dérailleur arrière": "Sram X01 Eagle, 12-vitesses",
+      "cassette": "Sram XG-1275 EAgle, 10-52 Dents",
+      "pédalier": "FSA SLK Carbon 32 dents, Boost, Chainguide TRS+ E13"
+    },
+    "équipements": {
+      "freins": "Formula Cura, 4 pistons, 203/180 mm",
+      "selle": "VR Cr-Mo by DDK",
+      "tige de selle": "FSA Flowtron Dropper Seatpost 31.6x125 mm (S) 150 (M/L)"
+    },
+    "roues": {
+      "jantes": "DT Swiss EXC1501 Spline, Boost, 622x30c",
+      "pneu avant": " Maxxis Minion DHF 29x2.50\" TLR ",
+      "pneu arrière": " Maxxis Minion DHR II 29x2.30\" TLR"
+    },
+    "direction": {
+      "cintre": "FSA Grid 800 mm",
+      "potence": "40 mm - 0° - 31.8 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 405,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1187,
+      "stack (mm)": 615,
+      "reach (mm)": 428
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1220,
+      "stack (mm)": 625,
+      "reach (mm)": 456
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 439,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65.5,
+      "angle tube de selle (°)": 77,
+      "empattement (mm)": 1251,
+      "stack (mm)": 635,
+      "reach (mm)": 484
+    }
+  ]
+}

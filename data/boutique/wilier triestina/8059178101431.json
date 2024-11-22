@@ -1,0 +1,127 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2335286",
+  "tailles": [
+    "S / 163-170 cm",
+    "M / 170-178 cm",
+    "L / 178-185 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Wilier Triestina 101X Sram NX Eagle 12V 29'' Noir Rouge 2022",
+  "marque": "Wilier Triestina",
+  "description": "L'amour de la vitesse est gravé au cœur de l'ADN de Wilier Triestina. La création de vélos légers et performants est désormais incontournable, même pour les modèles qui ont pour vocation le tout-terrain. La réalisation d’un VTT Cross Country en carbone avec Standard Boost est l’une des conceptions les plus appréciées par les cyclistes contemporaines, c’est pourquoi le 101X est venu étoffer les rangs de la marque italienne.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/286/335286/2335286/4341795",
+  "mpn": "E121NCXC3X16",
+  "gtin13": "8059178101431",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-178 cm",
+      "stock": 2,
+      "prix": 1399.99,
+      "mpn": "E121NCXC3X16",
+      "sku": "2225016",
+      "gtin13": "8059178101431",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2357227-vtt_semi_rigide_wilier_triestina_101x_sram_nx_eagle_12v_29___noir_rouge_2022"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-185 cm",
+      "stock": 2,
+      "prix": 1399.99,
+      "mpn": "E121NCXC4X16",
+      "sku": "2225119",
+      "gtin13": "8059178101448",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2357227-vtt_semi_rigide_wilier_triestina_101x_sram_nx_eagle_12v_29___noir_rouge_2022"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "X16 - Black / Red / Orange; Glossy"
+    }
+  ],
+  "informations": {
+    "poids": "12.65 kg (Cadre : 1300 g)",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : 101X - Carbon Monocoque 46TON, 12x148 mm thru-axle",
+      "fourche": "RockShox Recon RL, Boost, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX Eagle SL-NX1, 1x12-vitesses",
+      "dérailleur arrière": "Sram NX Eagle RD-NX, 12-vitesses",
+      "cassette": "Sram SX Eagle PG-1210, 11-50 Dents",
+      "chaîne": "Sram NX Eagle CN-EAGL-NX",
+      "pédalier": "Sram NX Eagle, DUB, 30 Dents",
+      "boîtier de pédalier": "Sram DUB Pressfit"
+    },
+    "équipements": {
+      "freins": "Shimano MT200, Hydr. Disc Brake, 180/160 mm Shimano RT10 Rotors",
+      "selle": "Selle Italia Model X",
+      "tige de selle": "Ritchey CMP 2-Bolt V2 Alloy"
+    },
+    "roues": {
+      "jantes": "Miche XM45",
+      "pneus": "Vittoria Barzo, Rigid, 29 x 2.25\""
+    },
+    "direction": {
+      "cintre": "Ritchey MTN Alu",
+      "potence": "Ritchey Comp",
+      "jeu de direction": "Ritchey Comp"
+    },
+    "référence": "E121NCXC"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 580,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 92,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 73.5,
+      "stack (mm)": 607,
+      "reach (mm)": 400
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 93,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 73.5,
+      "stack (mm)": 610,
+      "reach (mm)": 420
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 73.5,
+      "stack (mm)": 627,
+      "reach (mm)": 435
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 437,
+      "douille de direction (mm)": 129,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 73,
+      "stack (mm)": 644,
+      "reach (mm)": 450
+    }
+  ]
+}

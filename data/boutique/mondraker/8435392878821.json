@@ -1,0 +1,148 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2684136",
+  "tailles": [
+    "M / 167-178 cm",
+    "L / 175-188 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Mondraker Thundra X Sram SX Eagle 12V 720Wh 29'' Bleu 2024",
+  "marque": "Mondraker",
+  "description": "Si vous voulez essayer un VAE urbain et vous aventurer dans les montagnes, le Mondraker Thundra X est le choix idéal. Avec le cadre en aluminium Stealth, il est équipé du nouveau moteur Shimano EP600 avec une batterie de 720 Wh, à laquelle on pourra ajouter une batterie externe Simplo (en option) de 360 Wh, pour atteindre jusqu'à 1080 Wh d'autonomie.\r\nAinsi, le nombre de kilomètres que l’on pourra parcourir sera digne des journées les plus complètes, à consommer sans modération.\r\n\r\nDe plus, ses composants de qualité, comme la fourche RockShox Silver RL de 120 mm de débattement, ses roues de 29\", les freins Sram Level T et, les composants OnOff vous garantissent un fonctionnement optimal en toutes circonstances.\r\n ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/136/684136/2684136/5425600",
+  "mpn": "010.24274",
+  "gtin13": "8435392878821",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "010.24273",
+      "sku": "2564716",
+      "gtin13": "8435392878814",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2811741-vtt_electrique_semi_rigide_mondraker_thundra_x_sram_sx_eagle_12v_720wh_29___bleu_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 1,
+      "prix": 3299.99,
+      "mpn": "010.24274",
+      "sku": "2564677",
+      "gtin13": "8435392878821",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2811741-vtt_electrique_semi_rigide_mondraker_thundra_x_sram_sx_eagle_12v_720wh_29___bleu_2024"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 23.5,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Thundra Xtralite tout en aluminium 6061 renforcé, Forward Geometry, batterie interne non-amovible intégrée, douille de direction conique, axe arrière Boost 12 x 148 mm, capteur de vitesse intégré à la patte arrière du cadre",
+      "fourche": "RockShox Recon Silver RL 29, 120 mm, Motion Control, Solo Air, pivot conique, axe Boost 15 x 110 mm, déport de 42 mm. Réglages : ajustement de la compression à basse vitesse avec blocage, rebond, précontrainte pneumatique"
+    },
+    "assistance électrique": {
+      "moteur": "Shimano Steps EP600, 25 km/h, 85 Nm",
+      "batterie": "Simplo internal 720Wh (non amovible)",
+      "écran": "Shimano EN500"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger SX Eagle, X-Actuation 1:1, simple clic, 1x12-vitesses",
+      "dérailleur arrière": "Sram SX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, chape longue, 1 x 12 vitesses, X-actuation 1:1",
+      "cassette": "Sram PG-1210, 11-50 dts",
+      "chaîne": "Sram SX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "FSA Shimano EP8, 165 mm, plateau Sram X-Sync 2 Eagle 34 dts"
+    },
+    "équipements": {
+      "freins": "Sram Level T, étrier 2 pièces, disque Centerline 200/180 mm IS 6 trous, plaquettes organiques",
+      "selle": "MDK urban",
+      "tige de selle": "OnOff Sulfur 0-R, aluminium 6061 T6, forgé 3D, diamètre 31,6 mm, longueur 400 mm"
+    },
+    "roues": {
+      "jantes": "MDK-HP1 29, 30 mm de largeur interne, compatible tubeless, 32 rayons",
+      "moyeu avant": "Formula DC711, Boost 15x110 mm, roulements étanches, IS 6 trous ",
+      "moyeu arrière": "Formula EHL148 Boost 12x148 mm, roulements étanches, IS 6 trous, roue libre HG",
+      "pneus": "Maxxis Grifter 29x2,5'', mono-gomme, 60 TPI, tringle rigide, flancs bruns"
+    },
+    "direction": {
+      "cintre": "MDK Urban 1.0 alliage 6061 double renfort, galbe : 20 mm, largeur : 680 mm, cintrage 9º, rehausse 5º, alésage 31,8 mm",
+      "poignées": "Onoff Shaper",
+      "potence": "MDK Urban 35 mm, alliage forgé 6061, alésage 31,8 mm",
+      "jeu de direction": "Onoff Saturn conique pour tube de direction de 1-1/8” à 1-1/2”, roulements étanches ACB, haut 41x30,2x7x45ºx45º, bas 51,9x40x8x45ºx45º"
+    },
+    "accessoires": "Éclairage avant : sortie 50LUX DC 6-12 V, cage alliage étanche. Éclairage arrière : Fender Mount avec réfléchissants, version e-bike, 6-12 V. Garde-boue : MDK personnalisé noir alliage. Porte-bagages : Porte-bagages arrière alliage MDK, charge maximale 25 kg. Béquille : Massload KSA18-40"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1138,
+      "stack (mm)": 640,
+      "reach (mm)": 410
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 615,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1153,
+      "stack (mm)": 640,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 645,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1183,
+      "stack (mm)": 640,
+      "reach (mm)": 455
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 670,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1210,
+      "stack (mm)": 658,
+      "reach (mm)": 480
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 700,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1240,
+      "stack (mm)": 658,
+      "reach (mm)": 505
+    }
+  ]
+}

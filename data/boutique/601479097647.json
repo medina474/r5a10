@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2658638",
+  "tailles": [
+    "M / 165-176 cm",
+    "L / 177-188 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Trek Powerfly Sport 5 EQ Shimano Deore/XT 12V 625Wh 29'' Blanc Prismatic Gén 4",
+  "marque": "Trek",
+  "description": "Le Trek Powerfly Sport 5 Equipped renforce le côté utilitaire du VTTAE existant en ajoutant tout ce dont vous avez besoin pour les trajets quotidiens mouvementés et aux explorations sur singletrack. Il est conçu avec des pièces robustes, doté d’un puissant moteur Bosch et du système de batterie amovible intégrée (RIB) facile d’utilisation. Des accessoires adaptés aux trajets quotidiens tels que des garde-boue, un porte-bagages arrière et un éclairage avant et un éclairage arrière alimenté par la transmission du VTTAE font de ce vélo un vélo prêt à tout.\r\n\r\nVous êtes à la recherche d’un vélo à assistance électrique qui vous servira à la fois pour vos déplacements quotidiens difficiles, et qui fera office de VTT semi-rigide sur les trails. Vous souhaitez profiter d’un maximum de capacité, de qualité et de convivialité pour améliorer votre expérience et vivre de meilleures aventures à vélo.\r\n\r\nUn cadre en aluminium durable dans lequel une batterie de grande autonomie de 625 Wh est encastrée pour préserver la pureté des lignes et garantir sa protection sur les trails, un moteur Bosch Performance Line CX (250 W, 85 Nm) capable d’offrir une assistance jusqu’à 25 km/h, un dispositif de commande Bosch Intuvia, une transmission 12 vitesses Shimano et une fourche télescopique SR Suntour avec blocage. Et ce n’est pas tout. Il est livré avec des garde-boue, un porte-bagages arrière et un éclairage arrière alimenté par la batterie du vélo.\r\n\r\nLe Powerfly Sport 5 Equipped est un SUV à deux roues polyvalent, parfaitement adapté aux trajets quotidiens, aux sorties sur les trails ou au trekking d’aventure. Il est doté d’un moteur Bosch haut de gamme, d’un système de batterie RIB et d’un dispositif de commande aussi fiable qu’aisé à utiliser. Il possède aussi des accessoires tels que des garde-boue, des feux et un porte-bagages.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/638/658638/2658638/5343558",
+  "mpn": "5303409",
+  "gtin13": "601479097647",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-176 cm",
+      "stock": 13,
+      "prix": 5059,
+      "mpn": "5303408",
+      "sku": "2651044",
+      "gtin13": "601479097821",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776724-vtt_electrique_semi_rigide_trek_powerfly_sport_5_eq_shimano_deore_xt_12v_625wh_29___blanc_prismatic_gen_4"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 1,
+      "prix": 4399.99,
+      "mpn": "5303409",
+      "sku": "2651079",
+      "gtin13": "601479097647",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2776724-vtt_electrique_semi_rigide_trek_powerfly_sport_5_eq_shimano_deore_xt_12v_625wh_29___blanc_prismatic_gen_4"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "White Prismatic / Plasma Grey Pearl"
+    }
+  ],
+  "informations": {
+    "poids": "24,45 kg",
+    "poids maximum": "136 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 12VShimano XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Alpha Platinum, Batterie intégrée amovible (RIB), tube de direction conique, acheminement interne Control Freak, Motor Armor, Boost148, axe traversant de 12 mm",
+      "fourche": "SR Suntour Zeron 35, ressort pneumatique, pivot conique, tête de fourche surdimensionnée, déport de 44 mm, Boost110, axe traversant à écrou 15 mm, débattement de 100 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, Smart System, corps du moteur en magnésium, 85 Nm, (25km/h d’assistance max.)",
+      "batterie": "Bosch PowerTube 625 Wh, système intelligent",
+      "écran": "Bosch Intuvia 100, système intelligent",
+      "commande": "Commande à distance Bosch LED, smart system"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, chape longue",
+      "cassette": "Shimano SLX M7100, 10-51 dents, 12 vitesses",
+      "chaîne": "Shimano SLX M7100, 12 vitesses",
+      "pédalier": "E*thirteen E*spec Plus, 36 dents, 165 mm de long"
+    },
+    "équipements": {
+      "freins": "Leviers Shimano MT4100 et étriers MT420, 4 pistons, disque hydrauliques",
+      "pédales": "Wellgo VPE-536, nylon",
+      "selle": "Bontrager Commuter Comp",
+      "tige de selle": "Alliage Bontrager, 31,6 mm, déport de 12 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Kovee, double paroi, Tubeless Ready, 28 trous, largeur de 23 mm, valve Presta, Moyeux Shimano TC500 centerlock",
+      "pneus": "Bontrager LT4 Expert, bande réfléchissante, tringle rigide, 60 tpi, 29x2,40''"
+    },
+    "direction": {
+      "cintre": "Alliage Bontrager, 31,8 mm, Rise 15 mm, largeur 750 mm",
+      "poignées": "Bontrager XR Endurance Comp, lock-on",
+      "potence": "Bontrager Elite, 31,8 mm, fixation pour feux Blendr, élévation 7°",
+      "jeu de direction": "FSA IS-2, 1''1/4 haut, 1''1/2 bas"
+    },
+    "accessoires": "Eclairages AV et AR / Béquille : Pletscher Comp Flex 18 / Garde-boue Trek Powerfly / Porte-bagages alliage compatible MIK"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 67.7,
+      "angle tube de selle (°)": 71.7,
+      "empattement (mm)": 1155,
+      "stack (mm)": 639,
+      "reach (mm)": 406,
+      "longeur potence (mm)": 60,
+      "longueur tige de selle (mm)": 360
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 641,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 67.7,
+      "angle tube de selle (°)": 71.7,
+      "empattement (mm)": 1180,
+      "stack (mm)": 648,
+      "reach (mm)": 427,
+      "longeur potence (mm)": 70,
+      "longueur tige de selle (mm)": 400
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 521,
+      "tube supérieur (mm)": 672,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 67.7,
+      "angle tube de selle (°)": 71.7,
+      "empattement (mm)": 1212,
+      "stack (mm)": 667,
+      "reach (mm)": 452,
+      "longeur potence (mm)": 70,
+      "longueur tige de selle (mm)": 400
+    }
+  ]
+}

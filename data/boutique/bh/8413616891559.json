@@ -1,0 +1,131 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2374833",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-177 cm",
+    "L / 175-189 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " BH Atom 29 Shimano Alivio 9V 500 Wh 29'' Noir / Rouge",
+  "marque": "BH",
+  "description": "Vous recherchez un vélo électrique avec une batterie intégrée, la géométrie des vélos classiques et une grande autonomie, le BH Atom 29 est le vélo que vous cherchez.\r\n\r\nLa position relative des éléments les moins légers du système (moteur et batterie) permet d'obtenir un centre de gravité bas, pour garantir un vélo réactif et stable, sans avoir à sacrifier sa géométrie. La gamme Full Suspension incorpore le système Split Pivot qui permet d'agir indépendamment sur les trois forces exercées sur un vélo : le pédalage, le freinage et la suspension.\r\n\r\nSon système « TS System » breveté par BH intègre la batterie dans le tube diagonal de manière simple et minimaliste. Il incorpore un écran couleur LCD, avec plus de 40 fonctions configurables et un contrôle à distance ergonomique.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/833/374833/2374833/4530398",
+  "mpn": "EA622NRNMD",
+  "gtin13": "8413616891559",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 3,
+      "prix": 1699.99,
+      "mpn": "EA622NRNSM",
+      "sku": "2188163",
+      "gtin13": "8413616891542",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2417485-vtt_electrique_semi_rigide_bh_atom_29_shimano_alivio_9v_500_wh_29___noir___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 4,
+      "prix": 1699.99,
+      "mpn": "EA622NRNMD",
+      "sku": "2188170",
+      "gtin13": "8413616891559",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2417485-vtt_electrique_semi_rigide_bh_atom_29_shimano_alivio_9v_500_wh_29___noir___rouge"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-189 cm",
+      "stock": 4,
+      "prix": 1699.99,
+      "mpn": "EA622NRNLA",
+      "sku": "2188336",
+      "gtin13": "8413616891566",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2417485-vtt_electrique_semi_rigide_bh_atom_29_shimano_alivio_9v_500_wh_29___noir___rouge"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Noir / Rouge"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Alivio 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : MTB Alloy 29\" Internal Cable Routing",
+      "fourche": "SR Suntour XCM HLO 100mm"
+    },
+    "assistance électrique": {
+      "moteur": "BH 1E-36V",
+      "batterie": "500 Wh",
+      "écran": "BH X Display Lite"
+    },
+    "direction": {
+      "jeu de direction": "Tapered",
+      "potence": "BH Ahead",
+      "cintre": "BH MTB Alloy Riser 780mm",
+      "poignées": "BH Perform W/ Ringlock"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Alivio, 1x9 vitesses",
+      "dérailleur arrière": "Shimano Alivio, 9 vitesses",
+      "pédalier": "FSA 36 Dents - 170 mm",
+      "chaîne": "Shimano HG53",
+      "cassette": "Shimano CSHG201, 11-36 dents, 9 vitesses"
+    },
+    "équipements": {
+      "freins": "Shimano MT200 180/180 mm",
+      "selle": "Prologo Proxim W350 Stn",
+      "tige de selle": "Alloy 31,6"
+    },
+    "roues": {
+      "jantes": "Alloy Double Wall",
+      "pneus": "Maxxis Forekaster TPI60 29\"X2,35\""
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 604,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 696,
+      "stack (mm)": 657,
+      "reach (mm)": 409
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 623,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 710,
+      "stack (mm)": 662,
+      "reach (mm)": 427
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 470,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 733,
+      "stack (mm)": 676,
+      "reach (mm)": 443
+    }
+  ]
+}

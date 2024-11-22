@@ -1,0 +1,120 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2178155",
+  "tailles": [
+    "S / 154-162 cm",
+    "M / 162-172 cm",
+    "L / 170-182 cm",
+    "XL / 182-190 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Scalpel HT Carbon 3 Shimano SLX XT 12V 29'' Noir / Jaune Fluo 2023",
+  "marque": "Cannondale",
+  "description": "Le Scalpel HT est un semi-rigide de course XC qui vous en donne plus. Plus de ce que vous aimez dans un semi-rigide - l'accélération, explosivité et la sensation de montée plus légère que l'air, plus un petit quelque chose en plus.\r\n\r\nUn semi-rigide avec une précision de rasoir, un changement de vitesse Shimano SLX et une fourche RockShox SID de 100 mm",
+  "image": "https://product-cdn-frz.alltricks.com/medium/155/178155/2178155/4011218",
+  "mpn": "C25301U20MD",
+  "gtin13": "884603920664",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 162-172 cm",
+      "stock": 1,
+      "prix": 2299.99,
+      "mpn": "C25301U20MD",
+      "sku": "2092911",
+      "gtin13": "884603920664",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2032280-vtt_semi_rigide_cannondale_scalpel_ht_carbon_3_shimano_slx_xt_12v_29___noir___jaune_fluo_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Highlighter"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Shimano SLX XT 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Scalpel HT Carbon, Proportional Response Design, PF30-83, tapered head tube, 55mm chainline, Speed Release 12mm thru axle w/UDH hanger ",
+      "fourche": "RockShox SID SL Select+ RL, 100mm, Debonair, remote lockout, 15x110mm thru-axle, tapered steerer, 44mm offset"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano SLX, 1x12-vitesses",
+      "dérailleur arrière": "Shimano XT 12-vitesses",
+      "cassette": "Shimano SLX, 10-51 Dents",
+      "chaîne": "Shimano SLX, 12-vitesses",
+      "pédalier": "Cannondale 1, BB30 83MTB, OPI SpideRing, 34 Dents, 55mm chainline",
+      "boîtier de pédalier": "Cannondale Alloy PressFit30"
+    },
+    "équipements": {
+      "freins": "Shimano M6100 hydraulic disc, 160/160mm RT64 rotors",
+      "selle": "Fabric Scoop Shallow Elite, hollow cro-mo rails",
+      "tige de selle": "C2 Carbon, 27.2x400mm"
+    },
+    "roues": {
+      "jantes": "Stan's NoTubes Crest MK4, 28h, tubeless ready",
+      "pneu avant": "walbe Racing Ray EVO, 29 x 2.25\", Twinskin, tubeless ready ",
+      "pneu arrière": "lbe Racing Ralph EVO, 29 x 2.25\", SnakeSkin, Addix compound, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Cannondale 2 Flat, butted 2014 Alloy, 31.8mm, 3° rise, 8° sweep, 760mm",
+      "potence": "Cannondale 2, 6061 Alloy, 31.8, 7°"
+    },
+    "grips": "Cannondale XC Silicone"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 390,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 430,
+      "douille de direction (mm)": 99,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 73.2,
+      "empattement (mm)": 1124,
+      "stack (mm)": 602,
+      "reach (mm)": 410
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 594,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1154,
+      "stack (mm)": 612,
+      "reach (mm)": 430
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 122,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74.6,
+      "empattement (mm)": 1183,
+      "stack (mm)": 623,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 530,
+      "tube supérieur (mm)": 640,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 1214,
+      "stack (mm)": 635,
+      "reach (mm)": 470
+    }
+  ]
+}

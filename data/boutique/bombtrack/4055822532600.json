@@ -1,0 +1,135 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2647275",
+  "tailles": [
+    "S / 158-171 cm",
+    "M / 169-182 cm",
+    "L / 179-192 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Bombtrack Munroe Al Microshift 8V 650b Pebble Grey Mat 2024",
+  "marque": "Bombtrack",
+  "description": "Le modèle le plus abordable de la gamme Munroe, le AL, est un vélo urbain amusant, heureux de vous emmener au travail et de vous ramener en tout confort grâce à sa position droite, sa transmission Microshift 1 x 8 et ses pneus Kenda 650 x 45 mm à grand volume. Mais le Munroe AL est capable de bien plus. Le cadre et la fourche légers sont équipés de fixations pour le porte-bagages et les garde-boue obligatoires, si vous souhaitez rouler pendant l'hiver. Si le travail hebdomadaire devient trop pénible, nous avons ajouté des supports de porte-bouteille et de triple cage pour que vous puissiez vous échapper le week-end en quelques coups de pédale.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/275/647275/2647275/5326629",
+  "mpn": "01125340223",
+  "gtin13": "4055822532600",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 158-171 cm",
+      "stock": 2,
+      "prix": 949.99,
+      "mpn": "01125340123",
+      "sku": "2393125",
+      "gtin13": "4055822532594",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2765720-gravel_bike_bombtrack_munroe_al_microshift_8v_650b_pebble_grey_mat_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 169-182 cm",
+      "stock": 17,
+      "prix": 949.99,
+      "mpn": "01125340223",
+      "sku": "2393143",
+      "gtin13": "4055822532600",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2765720-gravel_bike_bombtrack_munroe_al_microshift_8v_650b_pebble_grey_mat_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 179-192 cm",
+      "stock": 15,
+      "prix": 949.99,
+      "mpn": "01125340323",
+      "sku": "2393153",
+      "gtin13": "4055822532617",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2765720-gravel_bike_bombtrack_munroe_al_microshift_8v_650b_pebble_grey_mat_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Matt Pebble Grey"
+    }
+  ],
+  "informations": {
+    "poids": "10.7 kg (size M)",
+    "poids constructeur (en g)": 1070,
+    "genre": "Homme",
+    "taille de roues": "650b",
+    "groupe": "microSHIFT Acolyte 8V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "6061-T6 triple butted Aluminium, QR, supports pour porte-bagages/garde-boue, 68 mm BSA shell",
+      "fourche": "Aluminium 6061, QR dropouts, avec supports pour garde-boue/rack/triple cage, acheminement interne des câbles d'éclairage"
+    },
+    "transmission": {
+      "manette de dérailleur": "Microshift TS39-8 shifter 1 x 8",
+      "dérailleur arrière": "Microshift RD-M36S",
+      "cassette": "Microshift CS-H81 8-speed, 11 - 34 T",
+      "chaîne": "KMC X8 chain, 1/2\" x 3/32\"",
+      "pédalier": "Bombtrack Aude aluminium crank, square taper",
+      "boîtier de pédalier": "BSA sealed BB, 119 mm, square taper"
+    },
+    "plateau": "Forged steel, 34 T",
+    "équipements": {
+      "freins": "Clarks Clout post mount hydraulic disc brake, 160mm",
+      "selle": "Bombtrack Fuzz saddle",
+      "tige de selle": "Bombtrack Beech 27.2 mm x 300 mm"
+    },
+    "roues": {
+      "jantes": "WTB ST i21 double wall, TCS 2.0, 32h",
+      "moyeux": "F: Bombtrack Arc sealed hub, 6-bolt disc, hex key skewer, R:11-speed, 6-bolt disc, hex key skewer",
+      "pneus": "Kenda Kwick Seven.5 650B x 45C"
+    },
+    "direction": {
+      "cintre": "Bombtrack Origin flat bar, 31.8 mm, 8° backsweep",
+      "poignées": "Bombtrack Scroll grips",
+      "potence": "Bombtrack Roam forged aluminium stem, -7°",
+      "jeu de direction": "Neco H282 sealed external aheadset, 1.1/8''"
+    },
+    "collier de selle": "Bombtrack Origin 31.8 mm",
+    "poids max": "110 kg poids du rider et bagages inclus"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille des roues": "650 B",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 540,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": "70,5°",
+      "angle tube de selle (°)": "73,0°",
+      "empattement (mm)": 1025,
+      "stack (mm)": 565,
+      "reach (mm)": 368
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues": "650 B",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 563,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": "70,5°",
+      "angle tube de selle (°)": "73,0°",
+      "empattement (mm)": 1049,
+      "stack (mm)": 583,
+      "reach (mm)": 385
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues": "650 B",
+      "tube de selle (mm)": 550,
+      "tube supérieur (mm)": 588,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 175,
+      "angle de direction (°)": "70,5°",
+      "angle tube de selle (°)": "73,0°",
+      "empattement (mm)": 1075,
+      "stack (mm)": 607,
+      "reach (mm)": 403
+    }
+  ]
+}

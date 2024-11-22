@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2562292",
+  "tailles": [
+    "52 cm / 163-168 cm",
+    "54 cm / 168-174 cm",
+    "56 cm / 174-180 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Trek Checkpoint ALR 4 Sram Apex 11V 700 mm Gris Mat",
+  "marque": "Trek",
+  "description": "Le Checkpoint ALR 4 est le modèle qui affiche le meilleur rapport qualité/prix de la gamme gravel. Avec son cadre en aluminium Alpha Série 300, le Checkpoint ALR 4 est réactif sur les chemins de pierres concassées et confortable sur l’asphalte. La richesse des caractéristiques telles que les roues Tubeless Ready, une transmission Sram Apex 11 et des freins à disque mécaniques fait du Checkpoint ALR 4 le vélo parfait pour découvrir le vaste univers du gravel.\r\n\r\nVous souhaitez faire votre entrée dans le monde immense du gravel, mais vous voulez aussi un vélo parfaitement capable de participer à des cyclosportives et de réaliser des trajets quotidiens. Le Checkpoint ALR 4 est votre solution pour transformer chaque sortie en aventure.\r\n\r\nUn cadre en aluminium Alpha Série 300 réactif, des câbles dissimulés qui ne se prendront pas dans les sacoches, des fixations intégrées pour porte-bagages, garde-boue et sacoche de cadre, une transmission monoplateau Sram Apex pour des changements de vitesse fluides dans les côtes difficiles et les terrains variables, des freins à disque mécaniques pour simplifier les arrêts dans toutes les conditions, des jantes Tubeless Ready et de larges pneus gravel Bontrager GR1 Team Issue 700x40C pour un supplément de confort et de traction.\r\n\r\nSi vous êtes prêt à explorer la moindre route tout en réalisant également des activités journalières, le Checkpoint ALR 4 est le vélo qui ne fera pas sauter la banque. La polyvalence est à l’ordre du jour et le cadre en alliage d’aluminium solide, les fixations pour les accessoires les plus divers ainsi que de larges pneus garantissent le confort et la personnalisation, peu importe où la route, ou l’absence de route, vous emmène.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/292/562292/2562292/5168305",
+  "mpn": "5304226",
+  "gtin13": "768682570920",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 174-180 cm",
+      "stock": 51,
+      "prix": 1529,
+      "mpn": "5304226",
+      "sku": "2558858",
+      "gtin13": "768682570920",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2678055-gravel_bike_trek_checkpoint_alr_4_sram_apex_11v_700_mm_gris_mat"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Matte Galactic Grey"
+    }
+  ],
+  "informations": {
+    "poids": "56 - 9,80 kg / 21,61 lbs (avec produit d’étanchéité TLR, sans chambres à air)",
+    "poids constructeur (en g)": 9800,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Apex 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Aluminium Alpha Série 300, tube de direction conique, acheminement interne des câbles, maintien de chaîne 3S, boîtier de pédalier T47, fixations de porte-bagages et de garde-boue, fixations intégrées pour sacoche de cadre, freins à disque à fixation Flat-Mount, axe traversant 142x12 mm",
+      "fourche": "Carbone : Checkpoint, full carbon, tapered carbon steerer, rack mounts, fender mounts, flat mount disc, 12x100mm thru axle"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Apex, 11 vitesses",
+      "dérailleur arrière": "Sram Apex 1, longue chape, pignon 42 dents max",
+      "cassette": "Sram PG-1130, 11-42 dents, 11 vitesses",
+      "chaîne": "Sram PC-1130, 11 vitesses",
+      "pédalier": "Taille 49 : Sram Apex 1, 40 dents, axe DUB Wide, longueur de 165 mm Taille 52 : Sram Apex 1, 40 dents, axe DUB Wide, longueur de 170 mm Taille 54, 56 : Sram Apex 1, 40 dents, axe DUB Wide, longueur de 172,5 mm Taille 58, 61 : Sram Apex 1, 40 dents, axe DUB Wide, longueur de 175 mm",
+      "boîtier de pédalier": "Sram DUB, T47 fileté, roulement interne"
+    },
+    "équipements": {
+      "freins": "Freins à disque mécaniques Tektro, double piston, fixation Flat-Mount, disques Tektro, centerlock, 160/160 mm",
+      "selle": "Taille 49, 52 : Bontrager Verse Comp, rails en acier, largeur de 155 mm Taille 54, 56, 58, 61 : Bontrager Verse Comp, rails en acier, largeur de 145 mm",
+      "tige de selle": "Aluminium Bontrager, 27,2 mm, déport de 12 mm, longueur de 330 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Paradigm, Tubeless Ready, 24 trous, largeur de 21 mm, valve Presta",
+      "pneus": "Bontrager GR1 Team Issue, Tubeless Ready, Inner Strength Casing, tringle en aramide, 120 tpi, 700x40C"
+    },
+    "direction": {
+      "cintre": "Taille 49 : Bontrager Elite Gravel, largeur de 38 cm Taille 52 : Bontrager Elite Gravel, largeur de 40 cm Taille 54, 56 : Bontrager Elite Gravel, largeur de 42 cm Taille 58, 61 : Bontrager Elite Gravel, largeur de 44 cm",
+      "potence": "Taille 49 : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 70 mm Taille 52, 54 : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 80 mm Taille 56, 58 : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 90 mm Taille 61 : Bontrager Elite, 31,8 mm, compatible Blendr, 7 degrés, longueur de 100 mm"
+    },
+    "ruban de cintre": "Bontrager Supertack Perf"
+  },
+  "geometries": [
+    {
+      "taille cadre": 49,
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 541,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 71.2,
+      "angle tube de selle (°)": 74.1,
+      "empattement (mm)": 1025,
+      "stack (mm)": 538,
+      "reach (mm)": 393
+    },
+    {
+      "taille cadre": 52,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 71.6,
+      "angle tube de selle (°)": 73.7,
+      "empattement (mm)": 1033,
+      "stack (mm)": 553,
+      "reach (mm)": 399
+    },
+    {
+      "taille cadre": 54,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 71.8,
+      "angle tube de selle (°)": 73.2,
+      "empattement (mm)": 1041,
+      "stack (mm)": 571,
+      "reach (mm)": 403
+    },
+    {
+      "taille cadre": 56,
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 584,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 145,
+      "angle de direction (°)": 72.2,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1048,
+      "stack (mm)": 592,
+      "reach (mm)": 407
+    },
+    {
+      "taille cadre": 58,
+      "tube de selle (mm)": 580,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 165,
+      "angle de direction (°)": 72.3,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1058,
+      "stack (mm)": 609,
+      "reach (mm)": 411
+    },
+    {
+      "taille cadre": 61,
+      "tube de selle (mm)": 610,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 435,
+      "douille de direction (mm)": 195,
+      "angle de direction (°)": 72.6,
+      "angle tube de selle (°)": 72.1,
+      "empattement (mm)": 1070,
+      "stack (mm)": 639,
+      "reach (mm)": 417
+    }
+  ]
+}

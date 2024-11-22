@@ -1,0 +1,151 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2723527",
+  "tailles": [
+    "M / 166-177 cm",
+    "M-L / 173-180 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Trek Procaliber 9.7 Sram GX Eagle AXS 12V 29'' Bleu 2024",
+  "marque": "Trek",
+  "description": "Le Trek Procaliber 9.7 est un semi-rigide cross-country qui réalisera chaque circuit XC à une vitesse étourdissante. Le découpleur IsoSpeed du cadre en carbone vous aide à conserver votre force pendant plus longtemps tandis que les composants plus légers vous permettent de gravir les côtes sans souffrir et de vous donner à fond sur le plat.\r\n\r\nUn vélo remarquable pour les coureurs sérieux. La fourche de niveau supérieur et les roues en carbone donnent un vélo plus rapide grâce à la réduction du poids.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/527/723527/2723527/5485885",
+  "mpn": "5302188",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 166-177 cm",
+      "stock": 1,
+      "prix": 3859,
+      "mpn": "5302188",
+      "sku": "2710636",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2847674-vtt_semi_rigide_trek_procaliber_9_7_sram_gx_eagle_axs_12v_29___bleu_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Carbon Blue Smoke/Deep Dark Blue"
+    }
+  ],
+  "informations": {
+    "poids": "10.43 kg (taille M)",
+    "poids maximum": "Ce vélo affiche une limite de poids total maximum (comprenant le poids du vélo, du cycliste et des bagages) de 136 kg (300 livres).",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 110,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Carbone OCLV Mountain, IsoSpeed, douille de direction conique, Knock Block, acheminement interne des câbles de dérailleur, freins Post-Mount équilibrés, Boost148",
+      "fourche": "RockShox Reba RL, ressort Solo Air, amortisseur Motion Control, blocage au guidon, pivot conique, déport de 42 mm, Boost110, Maxle Stealth 15 mm, débattement de 110 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram AXS pod, 1x12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle AXS T-Type, 12 vitesses",
+      "cassette": "Sram Eagle XS-1275, 10-52 dts",
+      "chaîne": "Sram GX Eagle T-Type, 12 vitesses",
+      "pédalier": "SRAM GX Eagle T-Type, DUB, plateau en alliage 34 dts",
+      "boîtier de pédalier": "Sram DUB, 92 mm, PressFit"
+    },
+    "équipements": {
+      "freins": "Sram Level Bronze / Rotors : Sram Centerline, 6 trous, 180/160 mm",
+      "selle": "Bontrager Verse Elite, rails en austénite, largeur de 145 mm",
+      "tige de selle": "Bontrager Pro, carbone OCLV, 31,6 mm, déport 0 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Kovee Elite 30, OCLV Mountain Carbon, Tubeless Ready, 6 vis, 15x110/12x148mm, roue libre XD",
+      "pneus": "Bontrager XR2 Team Issue, Tubeless Ready, flanc Inner Strength, tringle en aramide, 120 tpi, 29x2,20''"
+    },
+    "guidon/potence": "Combo cintre/potence intégré Bontrager RSL, OCLV Carbon, élévation cintre 0 mm, largeur de 750 mm, inclinaison de potence -13°"
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 393,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68.8,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1078,
+      "stack (mm)": 600,
+      "reach (mm)": 395,
+      "longueur manivelle (mm)": 170,
+      "longueur potence (mm)": 70
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 595,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68.8,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1103,
+      "stack (mm)": 600,
+      "reach (mm)": 420,
+      "longueur manivelle (mm)": 170,
+      "longueur potence (mm)": 70
+    },
+    {
+      "taille cadre": "M/L",
+      "tube de selle (mm)": 444,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68.8,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1118,
+      "stack (mm)": 600,
+      "reach (mm)": 435,
+      "longueur manivelle (mm)": 175,
+      "longueur potence (mm)": 80
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 625,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 68.8,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1133,
+      "stack (mm)": 600,
+      "reach (mm)": 450,
+      "longueur manivelle (mm)": 175,
+      "longueur potence (mm)": 80
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 68.8,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1168,
+      "stack (mm)": 614,
+      "reach (mm)": 480,
+      "longueur manivelle (mm)": 175,
+      "longueur potence (mm)": 90
+    },
+    {
+      "taille cadre": "XXL",
+      "tube de selle (mm)": 545,
+      "tube supérieur (mm)": 683,
+      "longueur base (mm)": 432,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68.8,
+      "angle tube de selle (°)": 72.8,
+      "empattement (mm)": 1194,
+      "stack (mm)": 623,
+      "reach (mm)": 500,
+      "longueur manivelle (mm)": 175,
+      "longueur potence (mm)": 90
+    }
+  ]
+}

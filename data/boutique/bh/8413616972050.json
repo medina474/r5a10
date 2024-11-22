@@ -1,0 +1,109 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2715662",
+  "tailles": [
+    "S / 155-170 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "BH Gravel X Carbon 3.0 Shimano GRX 12V 700 mm Vert/Jaune 2024",
+  "marque": "BH",
+  "description": "Léger pour être performant en compétition ou pour parcourir la plus grande distance possible sur une grande variété de terrains.\r\n\r\nCONFORTABLE, LÉGER ET TRÈS RÉACTIF\r\nConstruit comme tous les cadres haut de gamme BH ; la marque utilise la technologie Hollow Core Internal Molding (HCIM), ce qui nous permet de réduire au minimum le poids du cadre, pesé à seulement 1.050g en taille M.\r\n\r\nFOURCHE GRAVEL AIR BOW\r\nIl est équipé de la fourche Air Bow à la forme si caractéristique, offrant un dégagement optimisé pour un montage de pneus allant jusqu'à 45 mm.\r\n\r\nSYSTÈME ANTI-VIBRATION SRS\r\nDéveloppée pour absorber les vibrations du sol, afin de combiner confort et performance de manière efficace sans jamais entraver le pédalage.\r\n\r\nCOMPARTIMENT TECHNIQUE INTÉGRÉ\r\nAu bas du tube diagonal se trouve un compartiment intégré pour transporter une petite pompe à vélo ou une cartouche de CO2. Il est facile à ouvrir et vous pouvez même y ajouter une chambre à air pliée.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/662/715662/2715662/5473573",
+  "mpn": "LG303GYYSM",
+  "gtin13": "8413616972050",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 155-170 cm",
+      "stock": 1,
+      "prix": 3299.9,
+      "mpn": "LG303GYYSM",
+      "sku": "2560805",
+      "gtin13": "8413616972050",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2839173-gravel_bike_bh_gravel_x_carbon_3_0_shimano_grx_12v_700_mm_vert_jaune_2024"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Gravel X Carbon Monocoque",
+      "fourche": "Gravel X Evo Carbon 1.5'' conical"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX hydra",
+      "dérailleur arrière": "Shimano GRX 12sp",
+      "cassette": "Shimano SLX 10/45 12v",
+      "chaîne": "Shimano 105 12v",
+      "pédalier": "Shimano GRX Mono 40T"
+    },
+    "boitier de pédalier": "BB386, 86,5mm width, 46mm inner diameter",
+    "équipements": {
+      "freins": "Shimano GRX hydra, 160 mm",
+      "selle": "BH Tud XGR",
+      "tige de selle": "BH Lite Gravel"
+    },
+    "roues": {
+      "jantes": "Vision Team TC30, F: 12x100, R: 12x145",
+      "pneus": "Hutchinson Touareg Tan 700x40"
+    },
+    "direction": {
+      "cintre": "BH Lite Gravel",
+      "potence": "BH SL",
+      "jeu de direction": "BH SL integrated sealed bearing"
+    },
+    "collier de selle": "BH Gravel X",
+    "couleurs": "Vert / Jaune / Jaune",
+    "référence": "LG303GYY"
+  },
+  "geometries": [
+    {
+      "taille du cadre": "S",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 527.4,
+      "longueur de la base (mm)": 428,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": "70,5º",
+      "angle du tube de selle (°)": "73,75º",
+      "satck (mm)": 540,
+      "reach (mm)": 370
+    },
+    {
+      "taille du cadre": "M",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 547.8,
+      "longueur de la base (mm)": 428,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": "71º",
+      "angle du tube de selle (°)": "73º",
+      "satck (mm)": 558.8,
+      "reach (mm)": 377
+    },
+    {
+      "taille du cadre": "L",
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 567,
+      "longueur de la base (mm)": 428,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": "71,5º",
+      "angle du tube de selle (°)": "72,75º",
+      "satck (mm)": 579.7,
+      "reach (mm)": 387
+    },
+    {
+      "taille du cadre": "XL",
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 586.7,
+      "longueur de la base (mm)": 428,
+      "douille de direction (mm)": 180,
+      "angle de direction (°)": "72º",
+      "angle du tube de selle (°)": "72,5º",
+      "satck (mm)": 598.6,
+      "reach (mm)": 398
+    }
+  ]
+}

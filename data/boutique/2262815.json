@@ -1,0 +1,130 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2262815",
+  "tailles": [
+    "S / 162-175 cm",
+    "M / 170-185 cm",
+    "L / 180-193 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cannondale Topstone Carbon 2 Lefty Shimano GRX 11V 700 mm Jaune 2022",
+  "marque": "Cannondale",
+  "description": "Le vélo gravel Cannondale Topstone Carbon 2 Lefty est conçu pour battre tous les autres vélos Gravel. La suspension Kingpin est la réponse aux riders « gravel » les plus exigeants. Que vous ayez besoin de plus de confort pour rouler plus loin, de plus de traction pour vous donner à fond ou de plus de flexibilité pour tirer parti de la technologie, - la suspension Kingpin est la réponse légère et sans entretien à tous vos rêves.\r\n\r\nAvec ses 30 mm de débattement et un dégagement suffisant pour monter des pneus de 700x45 mm, la vocation de la Lefty Oliver est de repousser les limites en offrant plus de confort et de contrôle.\r\n\r\nAxé autour de la géométrie de direction OutFront, le Topstone Carbon offre un pilotage stable et une grande agilité dans les terrains accidentés.\r\nAvec ses nombreux points de fixation pour bagages et bidons sur le cadre et la fourche, le Topstone est prêt à être chargé pour les longues aventures.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/815/262815/2262815/4236591",
+  "mpn": "C15202U20MD",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-185 cm",
+      "stock": 1,
+      "prix": 3779.99,
+      "mpn": "C15202U20MD",
+      "sku": "2151473",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2230041-gravel_bike_cannondale_topstone_carbon_2_lefty_shimano_grx_11v_700_mm_jaune_2022"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Laguna Yellow"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Topstone Carbon, Kingpin suspension system, SmartSense compatible, Proportional Response construction, 12x142mm thru-axle, 27.2 dropper post ready, BSA 68mm threaded BB, DirectLine internal cable routing, removable fender bridge, multiple gear/bottle mounts",
+      "fourche": "Lefty Oliver, 30mm travel, lockout, Chamber Damper w/ All-Over tune, ISO High-Ride air spring, tapered steerer, 700c, 55mm offset"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX 800, 1x11 vitesses",
+      "dérailleur arrière": "Shimano GRX 810, Shadow RD+, 11 vitesses",
+      "cassette": "Shimano SLX, 11-42 Dents",
+      "chaîne": "Shimano HG701",
+      "pédalier": "Shimano GRX 600, 40 Dents",
+      "boîtier de pédalier": "Shimano BSA 68"
+    },
+    "équipements": {
+      "freins": "Shimano GRX 800 hydraulic disc, 160/160mm RT76 rotors",
+      "selle": "Fizik Terra Argo X5, S-alloy rails",
+      "tige de selle": "Cannondale DownLow Dropper Post, 27.2, shifter-integrated lever, travel - 60mm XS-S / 80mm M / 100mm L-XL"
+    },
+    "roues": {
+      "jantes": "WTB KOM Light i23 TCS, 700c, 28h, tubeless ready",
+      "pneus": "WTB Raddler TCS Light, 700 x 44c, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Cannondale 2 ShortDrop, 7050 alloy, 12 deg flare drop",
+      "potence": "Cannondale 2, 6061 Alloy, 31.8, 7°",
+      "jeu de direction": "Integrated, Carbon, 1-1/8\" - 1-1/2\""
+    },
+    "référence": "C15202U"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 532,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 69.3,
+      "angle tube de selle (°)": 70.7,
+      "empattement (mm)": 1012,
+      "stack (mm)": 539,
+      "reach (mm)": 361
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 458,
+      "tube supérieur (mm)": 543,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 123,
+      "angle de direction (°)": 70.3,
+      "angle tube de selle (°)": 70.9,
+      "empattement (mm)": 1016,
+      "stack (mm)": 555,
+      "reach (mm)": 367
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 505,
+      "tube supérieur (mm)": 556,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 71.1,
+      "empattement (mm)": 1030,
+      "stack (mm)": 579,
+      "reach (mm)": 373
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 553,
+      "tube supérieur (mm)": 571,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 177,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 71.2,
+      "empattement (mm)": 1046,
+      "stack (mm)": 605,
+      "reach (mm)": 379
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 590,
+      "tube supérieur (mm)": 586,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 205,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 71.4,
+      "empattement (mm)": 1062,
+      "stack (mm)": 629,
+      "reach (mm)": 386
+    }
+  ]
+}

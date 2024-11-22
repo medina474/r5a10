@@ -1,0 +1,162 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2721033",
+  "tailles": [
+    "S / 163-168 cm",
+    "M / 169-175 cm",
+    "L / 176-181 cm"
+  ],
+  "name": "Vélo de Gravel Wilier Triestina Rave SL Sram Rival XPLR eTap AXS 12V 700 mm Noir 2024",
+  "marque": "Wilier Triestina",
+  "description": "Le Rave SL est la deuxième étape de Wilier Triestina vers un nouvel horizon. Une genèse commune au projet Rave SLR. Les géométries de compétition sont ainsi recréées dans un vélo doté d’une âme double : route et gravel. La vision de Wilier est restée intacte. Les ingénieurs de la marque laissent libre cours à chaque pensée, à chaque observation. Ils se sont concentrés sur les détails techniques avec un seul objectif : placer au centre du projet des cyclistes qui aiment s’aventurer sur tous les terrains avec le même vélo sans se prendre trop au sérieux.\r\n\r\nLes géométries et la conception sont empruntées à la plate-forme SLR et se basent sur une nouvelle matière. Le cadre en fibre de carbone bénéficie d’un laminage différent où la substance change, pas la forme. À taille égale, le cadre du Rave SL ne pèse que 140 g de plus que celui du vélo Rave SLR plusieurs fois récompensé. La technologie évolutive combinée à un usinage optimisé des fibres de carbone s’inspire de la philosophie SL de Wilier, qui devient un dénominateur commun entre le Rave SL, le Filante SL et le 0 SL.\r\n\r\nLe Rave SL est un vélo polyvalent qui ne craint pas la concurrence. Route ou gravel, peu importe. Les passages de roue permettent de monter des pneus avec une section maximale de 42 mm (700x42c). Il reprend les géométries racing de son aîné, le SLR. Six tailles de cadre disponibles : XS, S, M, L, XL, XXL. Chacun des vélos Wilier \"SL\" permet d’élargir la gamme de produits et a été conçu pour offrir le meilleur rapport qualité/prix/performances. L’application de technologies et d’équipements moins extrêmes vise à conserver la qualité globale de chaque produit.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/33/721033/2721033/5482360",
+  "mpn": "E434VXN4V5",
+  "gtin13": "8059178214537",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 163-168 cm",
+      "stock": 1,
+      "prix": 5600,
+      "mpn": "E434VXN2V5",
+      "sku": "2663465",
+      "gtin13": "8059178214513",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2845995-velo_de_gravel_wilier_triestina_rave_sl_sram_rival_xplr_etap_axs_12v_700_mm_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 169-175 cm",
+      "stock": 1,
+      "prix": 5600,
+      "mpn": "E434VXN3V5",
+      "sku": "2663484",
+      "gtin13": "8059178214490",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2845995-velo_de_gravel_wilier_triestina_rave_sl_sram_rival_xplr_etap_axs_12v_700_mm_noir_2024"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 176-181 cm",
+      "stock": 1,
+      "prix": 5600,
+      "mpn": "E434VXN4V5",
+      "sku": "2663499",
+      "gtin13": "8059178214537",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2845995-velo_de_gravel_wilier_triestina_rave_sl_sram_rival_xplr_etap_axs_12v_700_mm_noir_2024"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "V5 - Black, Silver - Glossy"
+    }
+  ],
+  "informations": {
+    "poids": "--- kg (Cadre : 1090 g / Fourche : 415 g)",
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Sram Rival XPLR eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Rave SL - Carbon Monocoque NHU-MOD + High Impact Strenght, Thru Axle 12x142 mm, Width tire maximum: 42 mm",
+      "fourche": "Carbone : Rave SL - Carbon Monocoque NHU-MOD + High Impact Strenght, Thru Axle 12x100 mm"
+    },
+    "manettes de dérailleur": "Sram Rival eTap AXS, 1x12-vitesses",
+    "transmission": {
+      "dérailleur arrière": "Sram Rival XPLR eTap AXS, D1, Max 44 Dents, 12-vitesses",
+      "cassette": "Sram XPLR XG-1251, D1, 10-44 Dents",
+      "chaîne": "Sram Rival, D1, 114L",
+      "pédalier": "Sram Rival 1, D1, 40 Dents",
+      "boîtier de pédalier": "Sram DUB PressFit, 86,5 mm Road"
+    },
+    "équipements": {
+      "freins": "Sram Rival eTap AXS HRD, Hydr. Disc Brake, Sram Paceline Rotors (160/160)",
+      "selle": "Prologo Dimension AGX",
+      "tige de selle": "Rave SLR Custom Made - 15/0 mm"
+    },
+    "roues": {
+      "jantes": "Wilier NDR38 KC, Unidirectional Carbon, 622x19C, height: 38 mm, 12x100/12x142 mm",
+      "pneus": "Vittoria Terreno Dry, Folding, 700x40C"
+    },
+    "direction": {
+      "cintre": "Ritchey H-Bar Road Cmp Ergomax",
+      "potence": "Stemma S",
+      "jeu de direction": "Wilier Custom Bearings Superslim"
+    },
+    "référence": "E434VXN"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 510,
+      "longueur base (mm)": 421,
+      "douille de direction (mm)": 98,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 997,
+      "stack (mm)": 513,
+      "reach (mm)": 370
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 527,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1012,
+      "stack (mm)": 532,
+      "reach (mm)": 377
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 134,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1017,
+      "stack (mm)": 551,
+      "reach (mm)": 384
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 561,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 154,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1031,
+      "stack (mm)": 570,
+      "reach (mm)": 391
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 172,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1041,
+      "stack (mm)": 589,
+      "reach (mm)": 398
+    },
+    {
+      "taille cadre": "XXL",
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 189,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1051,
+      "stack (mm)": 608,
+      "reach (mm)": 405
+    }
+  ]
+}

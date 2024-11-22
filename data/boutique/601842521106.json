@@ -1,0 +1,128 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2098271",
+  "tailles": [
+    "M / 165-174 cm",
+    "M-L / 173-180 cm",
+    "L / 180-188 cm",
+    "XL / 185-196 cm",
+    "XXL / 196-203 cm"
+  ],
+  "name": "VTT Semi Rigide Trek Marlin 5 Shimano Altus 8V 29'' Rouge Radioactive 2023",
+  "marque": "Trek",
+  "description": "Le Marlin 5 est un VTT de tous les jours parfaitement adapté aux aventures quotidiennes, sûr et en dehors des sentiers. Une fourche suspendue, une transmission 2x8 et des fixations pour un porte-bagages et une béquille en font un choix idéal pour les nouveaux adeptes du trail ou pour tous ceux qui recherchent un vélo confortable et stable pour leurs déplacements quotidiens, avec la robustesse d'un vrai VTT.\r\n\r\nUn cadre en aluminium léger avec un câblage interne pour protéger vos câbles et ajouter à l'aspect élégant du vélo, une transmission 2x8, une large gamme de vitesses pour que vous ayez toujours le bon rapport pour votre terrain, des freins à disque hydrauliques puissants et une fourche suspendue avec verrouillage.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/271/98271/2098271/3943761",
+  "mpn": "5255591",
+  "gtin13": "601842521106",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XXL / 196-203 cm",
+      "stock": 2,
+      "prix": 599,
+      "mpn": "5255591",
+      "sku": "2099612",
+      "gtin13": "601842521106",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1947379-vtt_semi_rigide_trek_marlin_5_shimano_altus_8v_29___rouge_radioactive_2023"
+    }
+  ],
+  "informations": {
+    "poids total": "M - 13.98 kg (avec chambres)",
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "débattement cadre (mm)": 135,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Altus 8V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Alpha Silver aluminium, acheminement interne, fixation du frein à disque sur la base arrière, fixations pour porte-bagages et béquille, QR 135x5 mm",
+      "fourche": "SR Suntour XCT 30, ressort hélicoïdal, précontrainte, blocage hydraulique, déport de 46 mm pour roue de 29'', 100 mm QR, débattement de 100 mm"
+    },
+    "dérailleur avant": "Shimano Altus M315, collier 34,9 mm, top swing, double tirage",
+    "transmission": {
+      "dérailleur arrière": "Shimano Altus M310",
+      "cassette": "Shimano HG200 12-32, 8 vitesses",
+      "chaîne": "KMC Z8.3, 8 vitesses",
+      "pédalier": "Taille : M : Shimano M315, 36/22, longueur de 170 mm Taille : ML, L, XL, XXL : Shimano M315, 36/22, longueur de 175 mm",
+      "boîtier de pédalier": "VP BC73, 73 mm, cartouche filetée"
+    },
+    "levier de vitesse": "Shimano Altus M315, 8 vitesses",
+    "moyeu arrière": "Formula DC-22, alliage, 6 trous, corps de roue libre Shimano 8/9/10, QR 135x5 mm",
+    "moyeu avant": "Formula DC-20, alliage, 6 trous, QR 5x100 mm",
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Tektro HD-M275",
+      "selle": "Bontrager Arvada, rails acier, largeur 138 mm",
+      "tige de selle": "Taille : M : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 330 mm Taille : ML, L, XL, XXL : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 400 mm",
+      "pédales": "VP-536, plateforme, nylon"
+    },
+    "jante": "Bontrager Connection, double paroi, 32 trous, largeur de 20 mm, valve schrader",
+    "roues": {
+      "pneus": " Bontrager XR2 Comp, tringle rigide, 30 tpi, 29x2,2 pouces"
+    },
+    "direction": {
+      "cintre": "Alliage Bontrager, 31,8 mm, élévation 5 mm, largeur de 720 mm",
+      "potence": "Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés  Taille M : longueur de 70 mm / ML, L : longueur de 80 mm / XL, XXL : longueur de 90 mm",
+      "jeu de direction": "Semi-intégré, 1.25 pouces "
+    },
+    "grips": "Bontrager XR Endurance Comp, lock-on"
+  },
+  "geometries": [
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 602,
+      "longueur base (mm)": 438,
+      "douille de direction(mm)": 90,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1100,
+      "diamètre de roues": "29\""
+    },
+    {
+      "taille cadre": "M/L",
+      "tube de selle (mm)": 444,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 438,
+      "douille de direction(mm)": 90,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1116,
+      "diamètre de roues": "29\""
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 638,
+      "longueur base (mm)": 438,
+      "douille de direction(mm)": 100,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1137,
+      "diamètre de roues": "29\""
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 521,
+      "tube supérieur (mm)": 659,
+      "longueur base (mm)": 438,
+      "douille de direction(mm)": 120,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1159,
+      "diamètre de roues": "29\""
+    },
+    {
+      "taille cadre": "XXL",
+      "tube de selle (mm)": 559,
+      "tube supérieur (mm)": 673,
+      "longueur base (mm)": 438,
+      "douille de direction(mm)": 120,
+      "angle de direction (°)": 69.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1173,
+      "diamètre de roues": "29\""
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2545156",
+  "tailles": [
+    "M / 169-175 cm",
+    "L / 176-181 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Wilier Triestina Rave SLR Campagnolo Ekar 13V 700 mm Noir/Gris Mat 2023",
+  "marque": "Wilier Triestina",
+  "description": "Prendre de nouvelles voies n'est pas seulement une attitude. Cela peut aussi devenir l'objectif d'un constructeur de vélos depuis plus de 116 ans. Avec son Rave SLR, Wilier Triestina a tourné son regard vers de nouveaux horizons, en créant un produit avec deux âmes distinctes, parfaites tant pour l'all-road que pour le gravel, mais unies par une incroyable prédisposition à la course. Le Rave SLR sera une nouvelle expérience de cyclisme, inattendue pour beaucoup.\r\n\r\nPour fabriquer le cadre léger et réactif du Rave SLR, les ingénieurs de la marque ont utilisé toute l'expérience acquise dans l'utilisation des technopolymères, en mélangeant du carbone avec des fibres viscoélastiques spéciales telles que le polymère à cristaux liquides. Des technologies de construction empruntées à celles utilisées pour les modèles Filante SLR et Wilier 0 SLR, des produits d'une excellente qualité de conduite reconnue par les coureurs professionnels les plus exigeants.\r\n\r\nAfin de créer un cadre aux géométries de course équilibrées, les ingénieurs de chez Wilier Triestina sont partis des références racing de route haut de gamme, en les mélangeant avec des dimensions de cadre dérivées de l'endurance et du gravel : le tout sans altérer l'objectif de performance que s'était fixé la marque au début du processus de conception. Un stack légèrement plus haut et un reach un peu plus court par rapport aux vélos de course pur-sang, combinés aux guidons monocoques en carbone disponibles, constituent le point de rencontre parfait entre haute performance et confort.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/156/545156/2545156/5133834",
+  "mpn": "E217KD64V1",
+  "gtin13": "8059178195300",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 169-175 cm",
+      "stock": 1,
+      "prix": 5499.99,
+      "mpn": "E217KD64V1",
+      "sku": "2537542",
+      "gtin13": "8059178195300",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2665173-gravel_bike_wilier_triestina_rave_slr_campagnolo_ekar_13v_700_mm_noir_gris_mat_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 176-181 cm",
+      "stock": 2,
+      "prix": 7999.99,
+      "mpn": "E217KD63V1",
+      "sku": "2537562",
+      "gtin13": "8059178195287",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2665173-gravel_bike_wilier_triestina_rave_slr_campagnolo_ekar_13v_700_mm_noir_gris_mat_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "V1 - Black / Grey (Matt)"
+    }
+  ],
+  "informations": {
+    "poids": "8.65 kg (Cadre : 950 g / Fourche : 415 g)",
+    "poids constructeur (en g)": 8650,
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Campagnolo Ekar 13V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Rave SLR - Carbon Monocoque HUS MOD + Crystal Liquid Polymer, Thru Axle 12x142 mm",
+      "fourche": "Carbone : Rave SLR - Carbon Monocoque HUS MOD + Crystal Liquid Polymer, Thru Axle 12x100 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Campagnolo ErgoPower Ekar, 1x13-vitesses",
+      "dérailleur arrière": "Campagnolo Ekar, RD21-EK13, 13-vitesses",
+      "cassette": "Campagnolo Ekar, CS21-EK1392, 9-42 Dents",
+      "chaîne": "Campagnolo Ekar, CN21-EK13",
+      "pédalier": "Campagnolo Ekar, FC21-EK13, 40 Dents",
+      "boîtier de pédalier": "Campagnolo BB86 PressFit"
+    },
+    "équipements": {
+      "freins": "Campagnolo Ekar, Hydr. Disc Brake, Campagnolo AFS Rotors (160/160)",
+      "selle": "Prologo Dimension AGX",
+      "tige de selle": "Rave SLR Custom Made - 15/0 mm"
+    },
+    "roues": {
+      "jantes": "Campagnolo Shamal Carbon Disc Brake C21, 12x100/12x142 mm",
+      "pneus": "Vittoria Terreno Dry, Folding, 700x38C"
+    },
+    "direction": {
+      "cintre": "J-Bar Integrated Carbon",
+      "potence": "J-Bar Integrated Carbon",
+      "jeu de direction": "FSA Custom Bearings MR137"
+    },
+    "référence": "E217KDM"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 510,
+      "longueur base (mm)": 421,
+      "douille de direction (mm)": 98,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 75,
+      "empattement (mm)": 997,
+      "stack (mm)": 513,
+      "reach (mm)": 370
+    },
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 527,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 118,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1012,
+      "stack (mm)": 532,
+      "reach (mm)": 377
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 134,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1017,
+      "stack (mm)": 551,
+      "reach (mm)": 384
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 561,
+      "longueur base (mm)": 423,
+      "douille de direction (mm)": 154,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1031,
+      "stack (mm)": 570,
+      "reach (mm)": 391
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 172,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1041,
+      "stack (mm)": 589,
+      "reach (mm)": 398
+    },
+    {
+      "taille cadre": "XXL",
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 597,
+      "longueur base (mm)": 427,
+      "douille de direction (mm)": 189,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 72.5,
+      "empattement (mm)": 1051,
+      "stack (mm)": 608,
+      "reach (mm)": 405
+    }
+  ]
+}

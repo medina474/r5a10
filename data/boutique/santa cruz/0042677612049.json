@@ -1,0 +1,153 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2335745",
+  "tailles": [
+    "S / 155-165 cm",
+    "M / 165-175 cm",
+    "L / 175-185 cm",
+    "XL / 185-196 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Santa Cruz Bronson R Sram NX Eagle 12V 29''/27.5'' (MX) Vert Moss",
+  "marque": "Santa Cruz",
+  "description": "Vous savez ce qui est le plus dur dans le fait de choisir le modèle Santa Cruz qui vous conviendra le mieux ? Se limiter à une seule pratique et déterminer ce qu'on aime faire sur un vélo. Mais que faire si vous ne souhaitez pas être catégorisé ? Et si votre vision du VTT au sens large du terme vous donnait envie de choisir comment rouler plutôt que de savoir quel terrain est adapté ? Si vous vous reconnaissez là-dedans, le Bronson est fait pour vous.\r\n\r\n150 mm de débattement arrière et l'évolution de la suspension du Bronson permettent de confirmer cette idée. Pousser un peu plus loin, un peu plus sur chaque descente, allant chercher ce petit grain de folie qui pousse à envoyer et sans cesse y retourner. Pas de soucis de ce côté-là puisque la conception de suspension VPP™ permet de remonter sans perdre cette énergie positive qui pousse à recommencer à nouveau, encore et encore.\r\n\r\nSi votre truc, c'est la vitesse sans négliger le style ou si, selon vous, le fun ne doit rien enlever à la vitesse, alors la plateforme \"mixed wheels\" (29\" à l'avant, 27.5\" à l'arrière) vous confortera dans l'idée que les contraires s'attirent. Une roue avant plus grande apporte plus d'adhérence et de stabilité pour un sentiment de contrôle et de confiance dans les virages et les portions cassantes, alors que la roue arrière plus petite permet de changer de direction rapidement, jouer avec le terrain et exploser tous les appuis qui se trouveront sur votre passage.\r\n\r\nÀ fond sur tous les chemins ou plus haut sur n'importe quel saut, chaque génération de Bronson redéfinit les codes de ce qu'on peut attendre d'un VTT.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/745/335745/2335745/4342268",
+  "mpn": "D644096570",
+  "gtin13": "0042677612049",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-175 cm",
+      "stock": 1,
+      "prix": 3999.99,
+      "mpn": "D644096570",
+      "sku": "2141331",
+      "gtin13": "0042677612049",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2358412-vtt_tout_suspendu_santa_cruz_bronson_r_sram_nx_eagle_12v_29___27_5____mx__vert_moss"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Gloss Moss and Blue"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 14.92,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 160,
+    "débattement cadre (mm)": 150,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram NX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Santa Cruz Bronson R Carbone C MX (29''/27.5\")",
+      "fourche": "RockShox Lyrik Select, 160mm",
+      "amortisseur": "Fox Float X Performance"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram NX Eagle, 1x12 vitesses",
+      "dérailleur arrière": "Sram NX Eagle, 12 vitesses",
+      "cassette": "Sram PG1230, 12 vitesses, 11-50 dents",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Sram  Descendant Eagle 148 DUB 32t",
+      "boîtier de pédalier": "Sram DUB 68/73mm Threaded BB"
+    },
+    "équipements": {
+      "freins": "Sram G2 R, Avid Centerline 200/200 mm",
+      "selle": "WTB Silverado Race Saddle or WTB Volt",
+      "tige de selle": "SDG Tellis Dropper, 31.6"
+    },
+    "roues": {
+      "jantes": "RaceFace AR Offset 30 Rims",
+      "moyeu avant": " MTH 716, 15x110, Torque Cap, 32h ",
+      "moyeu arrière": "TH 746, 12x148, 32h",
+      "pneu avant": "xis Minion DHF 29\"x2.5, 3C, Maxx- Grip, EXO, TR (27.5” tire on size XS) ",
+      "pneu arrière": "s Minion DHR II 27.5\"x2.4\", 3C, EXO, TR"
+    },
+    "direction": {
+      "cintre": "Burgtec Alloy Bar",
+      "poignées": "Santa Cruz House Grips or Burgtec Bartender Pro Grip Minnaar",
+      "potence": "Burgtec Enduro MK3",
+      "jeu de direction": "Cane Creek 10 IS Integrated Headset"
+    }
+  },
+  "geometries": [
+    {
+      "reach (mm)": 402,
+      "stack (mm)": 595,
+      "angle du tube de direction (°)": 64.5,
+      "longueur de tige de selle (mm)": 370,
+      "front center (mm)": 722,
+      "hauteur du boitier de pédalier (mm)": 341,
+      "bb drop (mm)": 13,
+      "empattement (mm)": 1154,
+      "longueur de la base (mm)": 432,
+      "longueur du tube de direction (mm)": 110,
+      "longueur de tube supérieur (mm)": 542,
+      "angle du tube de selle (°)": 76.9,
+      "standover (mm)": 698
+    },
+    {
+      "reach (mm)": 427,
+      "stack (mm)": 619,
+      "angle du tube de direction (°)": 64.5,
+      "longueur de tige de selle (mm)": 380,
+      "front center (mm)": 757,
+      "hauteur du boitier de pédalier (mm)": 341,
+      "bb drop (mm)": "32/13",
+      "empattement (mm)": 1189,
+      "longueur de la base (mm)": 432,
+      "longueur du tube de direction (mm)": 100,
+      "longueur de tube supérieur (mm)": 575,
+      "angle du tube de selle (°)": 76.7,
+      "standover (mm)": 706
+    },
+    {
+      "reach (mm)": 452,
+      "stack (mm)": 628,
+      "angle du tube de direction (°)": 64.5,
+      "longueur de tige de selle (mm)": 405,
+      "front center (mm)": 786,
+      "hauteur du boitier de pédalier (mm)": 341,
+      "bb drop (mm)": "32/13",
+      "empattement (mm)": 1222,
+      "longueur de la base (mm)": 436,
+      "longueur du tube de direction (mm)": 110,
+      "longueur de tube supérieur (mm)": 604,
+      "angle du tube de selle (°)": 76.6,
+      "standover (mm)": 727
+    },
+    {
+      "reach (mm)": 472,
+      "stack (mm)": 637,
+      "angle du tube de direction (°)": 64.5,
+      "longueur de tige de selle (mm)": 430,
+      "front center (mm)": 810,
+      "hauteur du boitier de pédalier (mm)": 341,
+      "bb drop (mm)": "32/13",
+      "empattement (mm)": 1249,
+      "longueur de la base (mm)": 439,
+      "longueur du tube de direction (mm)": 120,
+      "longueur de tube supérieur (mm)": 627,
+      "angle du tube de selle (°)": 76.5,
+      "standover (mm)": 726
+    },
+    {
+      "reach (mm)": 497,
+      "stack (mm)": 651,
+      "angle du tube de direction (°)": 64.5,
+      "longueur de tige de selle (mm)": 460,
+      "front center (mm)": 842,
+      "hauteur du boitier de pédalier (mm)": 341,
+      "bb drop (mm)": "32/13",
+      "empattement (mm)": 1285,
+      "longueur de la base (mm)": 443,
+      "longueur du tube de direction (mm)": 135,
+      "longueur de tube supérieur (mm)": 657,
+      "angle du tube de selle (°)": 76.4,
+      "standover (mm)": 725
+    }
+  ]
+}

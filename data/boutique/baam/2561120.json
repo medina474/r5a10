@@ -1,0 +1,104 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2561120",
+  "tailles": [
+    "M / 168-180 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "BAAM ARGH Sram Rival XPLR eTap AXS 12V 700 mm Beige Sand 2023",
+  "marque": "BAAM",
+  "description": "Le modèle ARGH, de chez BAAM (Bike Across A Mountain), est un vélo de gravel en acier Reynolds 853, rêvé, imaginé et dessiné par l’équipe Mohawk’s. Ils ont conçu un vélo aussi versatile que peut l’être votre imagination. Ce vélo est fait pour vous accompagner dans vos défis d’Ultra‑Distance ou sur des sorties courtes à la recherche de sensations fortes et de fun. Les tubes Reynolds 853 donnent une dimension très dynamique au vélo qui se dévoile être très joueur. L’acier conserve néanmoins ses caractéristiques avec un côté accessible et docile qui permet de s’attaquer au bikepacking et à la longue distance en toute quiétude. C’est ambivalent, et c’est ce que la marque aime tout particulièrement sur ce vélo ! En souhaitant que ce soit le premier d’une longue série.\r\n\r\nLe vélo est livré avec un porte-bidon Arundel Stainless qui se marie à merveille avec l’esprit intemporel d’un vélo en Acier.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/120/561120/2561120/5161172",
+  "mpn": "BAAM_ARGH_RIV_M",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 168-180 cm",
+      "stock": 1,
+      "prix": 4899,
+      "mpn": "BAAM_ARGH_RIV_M",
+      "sku": "2512558",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2676839-gravel_bike_baam_argh_sram_rival_xplr_etap_axs_12v_700_mm_beige_sand_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Sand"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Sram Rival XPLR eTap AXS 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Acier : Reynolds 853 Steel, Heat Treated, Air Hardened, T47 Bottom Bracket, 27.2 Seatpost, Flat Mount Disc, 12x142 mm Thru-Axle, Maximum tire clearance: 45 mm (2.15\" for 650b wheels)",
+      "fourche": "Carbone : Enve G-Series, Flat Mount Disc, 12x100 mm Thru-Axle, 50 mm Rake"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Rival eTap AXS HRD, 1x12-vitesses",
+      "dérailleur arrière": "Sram Rival XPLR eTap AXS, 12-vitesses",
+      "cassette": "Sram XPLR XG-1251, 10-44 Dents",
+      "chaîne": "Sram Rival Flattop",
+      "pédalier": "Sram Rival 1, 40 Dents",
+      "boîtier de pédalier": "Cane Creek Hellbender 70"
+    },
+    "équipements": {
+      "freins": "Sram Rival eTap AXS HRD, Hydr. Disc Brake, (160/160)",
+      "selle": "WTB Koda, Cromo, BAAM Custom",
+      "tige de selle": "Ultimate USE Duro Carbon, 27.2 mm, Setback 10 mm"
+    },
+    "roues": {
+      "jantes": "Industry Nine 1/1 GRCX, 12x100/12x142 mm, 700c",
+      "pneus": "WTB Riddler, 700x45c"
+    },
+    "direction": {
+      "cintre": "BAAM Gravel A6061-T6 Alloy, Reach 75 mm, Drop 125 mm, Flare 9°",
+      "potence": "Ultimate USE Race",
+      "jeu de direction": "Cane Creek 40-Series"
+    },
+    "ruban de cintre": "Arundel Gecko Grip"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 485,
+      "tube supérieur (mm)": 520,
+      "longueur base (mm)": 360,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 70.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 995,
+      "stack (mm)": 553,
+      "reach (mm)": 353
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 525,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 360,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1015,
+      "stack (mm)": 584,
+      "reach (mm)": 372
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 535,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 360,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1042,
+      "stack (mm)": 603,
+      "reach (mm)": 391
+    }
+  ]
+}

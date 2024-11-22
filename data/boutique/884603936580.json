@@ -1,0 +1,147 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2359563",
+  "tailles": [
+    "M / 162-172 cm",
+    "L / 170-182 cm",
+    "XL / 182-190 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Cannondale Trail 6 29 Shimano Alivio/Altus 9V 29'' Bleu Abyss",
+  "marque": "Cannondale",
+  "description": "Passez au niveau supérieur ! Le Cannondale Trail est un VTT semi-rigide conçu pour élever votre jeu et enflammer une passion pour le trail. Il est conçu pour la montagne et prêt à tout. La construction aluminium SmartForm C3, à la fois simple et sophistiquée, se traduit par un cadre léger et réactif qui surpasse tout ce qui se fait dans cette catégorie. Le système de micro-suspension \"SAVE\" assure plus de confort et un meilleur contrôle grâce à des zones de flexion créées dans des endroits stratégiques du triangle arrière.\r\n\r\nLe Trail est équipé de roues 27.5\" pour les plus petites tailles, et de roues 29\" pour les autres tailles, afin de garantir le meilleur mélange d’ajustement, de rapidité et de plaisir au cycliste.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/563/359563/2359563/4563129",
+  "mpn": "C26651M40LG",
+  "gtin13": "884603936580",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 170-182 cm",
+      "stock": 3,
+      "prix": 499.99,
+      "mpn": "C26651M40LG",
+      "sku": "2151469",
+      "gtin13": "884603936580",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2395805-vtt_semi_rigide_cannondale_trail_6_29_shimano_alivio_altus_9v_29___bleu_abyss"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Abyss Blue"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Alivio/Altus 9V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : SmartForm C3 Alloy, SAVE, 1-1/8\" headtube, post mount disc, StraightShot internal cable routing, dropper post compatible, BSA-73",
+      "fourche": "SR Suntour XCM-RL, 100 mm, lockout, coil, 46 mm offset (29\")"
+    },
+    "direction": {
+      "jeu de direction": "Semi Integrated, 1-1/8\"",
+      "potence": "6061 Alloy, 31.8 mm, 7°",
+      "cintre": "Cannondale Riser, 6061 Alloy, 25 mm rise, 8° sweep, 6° rise, 720 mm",
+      "poignées": "Cannondale Dual-Density"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Alivio, 2x9 vitesses",
+      "dérailleur arrière": "Shimano Alivio, Shadow SGS, 9 vitesses",
+      "pédalier": "Shimano MT210, 36/22 Dents",
+      "boîtier de pédalier": "Cartridge, square taper",
+      "chaîne": "KMC X9, 9 vitesses",
+      "cassette": "Shimano HG200, 11-36 Dents, 9 vitesses"
+    },
+    "dérailleur avant": "Shimano Altus, 34.9 mm clamp",
+    "leviers de frein": "Shimano MT200",
+    "équipements": {
+      "freins": "Shimano MT200 hydraulic disc, 160/160 mm RT10 rotors",
+      "selle": "Cannondale Stage 3",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 31.6 x 350/400 mm"
+    },
+    "roues": {
+      "jantes": "WTB SX19, 32h",
+      "pneus": "Schwalbe Rocket Rick, K-Guard, 29 x 2.25\""
+    },
+    "moyeu avant": "Shimano HBTX 505",
+    "moyeu arrière": "Shimano FHTX505"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 345,
+      "tube supérieur (mm)": 545,
+      "longueur base (mm)": 440,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1067,
+      "stack (mm)": 607,
+      "reach (mm)": 365
+    },
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 585,
+      "longueur base (mm)": 440,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1108,
+      "stack (mm)": 616,
+      "reach (mm)": 402
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 610,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1140,
+      "stack (mm)": 624,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 635,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1166,
+      "stack (mm)": 633,
+      "reach (mm)": 447
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 660,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1192,
+      "stack (mm)": 643,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre": "XXL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 560,
+      "tube supérieur (mm)": 685,
+      "longueur base (mm)": 445,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1218,
+      "stack (mm)": 652,
+      "reach (mm)": 492
+    }
+  ]
+}

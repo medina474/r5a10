@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2250901",
+  "tailles": [
+    "S / 160-175 cm",
+    "M / 170-185 cm",
+    "L / 180-195 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Sunn Prim S2 Sram SX Eagle 12V 29'' Blanc 2023",
+  "marque": "Sunn",
+  "description": "Le VTT Prim est un semi-rigide en carbone éprouvé en compétition UCI. Il atteint la première place du podium en championnat d'Europe et de France U23 avec Joshua Dubau. Il est à la fois rigide, explosif, efficient. Les singletracks et les circuits modernes de cross-country sont ses terrains de jeux préférés. Avec sa transmission monoplateau 12 vitesses, les enchaînements, montées raides et descentes techniques seront un plaisir.\r\n\r\nwhY Concept : La forme en Y inversé au niveau du boîtier de pédalier augmente la rigidité du cadre en répartissant les efforts de manière optimale. ",
+  "image": "https://product-cdn-frz.alltricks.com/medium/901/250901/2250901/4163653",
+  "mpn": "YCSUM94001",
+  "gtin13": "3032651889069",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 160-175 cm",
+      "stock": 1,
+      "prix": 1439.99,
+      "mpn": "YCSUM94001",
+      "sku": "2175519",
+      "gtin13": "3032651889069",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2191694-vtt_semi_rigide_sunn_prim_s2_sram_sx_eagle_12v_29___blanc_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-185 cm",
+      "stock": 1,
+      "prix": 1439.99,
+      "mpn": "YCSUM94501",
+      "sku": "2175596",
+      "gtin13": "3032651889076",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2191694-vtt_semi_rigide_sunn_prim_s2_sram_sx_eagle_12v_29___blanc_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 180-195 cm",
+      "stock": 1,
+      "prix": 1439.99,
+      "mpn": "YCSUM95001",
+      "sku": "2175571",
+      "gtin13": "3032651889083",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2191694-vtt_semi_rigide_sunn_prim_s2_sram_sx_eagle_12v_29___blanc_2023"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 12.39,
+    "genre": "Homme",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : Prim 29 carbon t800 hm, tapered boost, PF92, thru axle",
+      "fourche": "Rockshox judy silver tk, solo air, remote ta, boost 100mm"
+    },
+    "manettes de dérailleur ": "Sram SX Eagle 1x12 vitesses",
+    "transmission": {
+      "dérailleur arrière": "Sram SX Eagle 12 vitesses",
+      "cassette": "Sram Eagle 12v 11-50 Dents",
+      "pédalier": "Sram x1 eagle bud 32 Dents"
+    },
+    "équipements": {
+      "freins": "Sram Level 180/160 mm",
+      "selle": "VR CR-MO by DDK",
+      "tige de selle": "VR 27.2x400 mm"
+    },
+    "roues": {
+      "jantes": "Mach1 5.20SL DISC 21c 32T",
+      "pneus": "Hutchinson Kraken 29x2.3 Python2 29x2.10"
+    },
+    "direction": {
+      "cintre": "VR 6061 720 mm"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 570,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1094,
+      "stack (mm)": 612,
+      "reach (mm)": 417
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 600,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1125,
+      "stack (mm)": 622,
+      "reach (mm)": 445
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 630,
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 69,
+      "angle tube de selle (°)": 73,
+      "empattement (mm)": 1157,
+      "stack (mm)": 632,
+      "reach (mm)": 472
+    }
+  ]
+}

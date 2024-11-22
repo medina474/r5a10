@@ -1,0 +1,116 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2111891",
+  "tailles": [
+    "S / 160-171 cm",
+    "M / 170-181 cm",
+    "L / 179-190 cm",
+    "XL / 188-201 cm"
+  ],
+  "name": "VTT Bombtrack Cale Sram GX Eagle 12V 29'' Vert Teal et Bleu Cyan",
+  "marque": "Bombtrack",
+  "description": "Le Bombtrack Cale est un hardtail moderne en acier. Long, avec un empattement stable, l'arrière serré du Cale lui permet de se faufiler sur les terrains accidentés tout en restant efficace sur les longues distances. S'appuyant sur le succès des modèles Beyond+, c'est un vélo conçu pour explorer les parcours les plus techniques. Soutenu par une fourche RockShox Pike, un large guidon et une potence courte vous permettent de tracer une trajectoire stable sur n'importe quel terrain. Laissez tomber la selle et dévalez les pentes grâce à la tige de selle KS E30i, ou remontez en utilisant l'énorme gamme de vitesses de 10 à 52 T fournie par le nouveau groupe Sram GX Eagle 2.0 à 12 vitesses. Dans tous les cas, il promet d'être amusant dans toutes les directions.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/891/111891/2111891/3957256",
+  "mpn": "01125180421",
+  "gtin13": "4055822508070",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 188-201 cm",
+      "stock": 2,
+      "prix": 1899.99,
+      "mpn": "01125180421",
+      "sku": "1529201",
+      "gtin13": "4055822508070",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1964211-vtt_bombtrack_cale_sram_gx_eagle_12v_29___vert_teal_et_bleu_cyan"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Vert Teal et Bleu Cyan"
+    }
+  ],
+  "informations": {
+    "poids total": "13.8 kg (taille M)",
+    "poids maximum": "140 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 130,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "4130 double butted crmo, TA, rack / fender mounts, Boost spacing, stealth dropper ready, 73 mm BSA BB shell",
+      "fourche": "Rockshox Pike Select suspension fork, 130 mm travel, 1.1/2\" - 1.1/8\""
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram  GX-Eagle 12 vitesses",
+      "dérailleur arrière": "Sram GX Eagle, clutch, long cage, 12-vitesses",
+      "cassette": "Sram Eagle PG-1275, 10-52 Dents",
+      "chaîne": "Sram GX Eagle chain, 1/2'' x 11/128'', 118L",
+      "pédalier": "Sram Descendant aluminium crank, Boost DUB",
+      "boîtier de pédalier": "Sram DUB BSA 73 mm"
+    },
+    "plateau": "Sram Eagle X-Sync 2, narrow-wide, 30 Dents",
+    "équipements": {
+      "freins": "Magura Trail Sport 4 piston front, 2 piston rear with 180 mm rotors",
+      "selle": "Bombtrack Origin",
+      "tige de selle": "KS E20i dropper seatpost, 30.9 mm, 150 mm travel, 485 mm length"
+    },
+    "roues": {
+      "jantes": "WTB ST i29 double wall, TCS 2.0, 32h",
+      "moyeu avant": "Bombtrack Grad sealed hub, 6-bolt disc, 15 x 110 mm thru-axle ",
+      "moyeu arrière": "Bombtrack Gon sealed hub, XD driver, 6-bolt disc, 12 x 148 mm thru-axle",
+      "pneus": "Maxxis Ardent 29 x 2.4\" TLR, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Bombtrack ILLUSION flat bar, aluminium, 35 mm clamping diameter",
+      "poignées": "Bombtrack RETURN 135 mm grips",
+      "potence": "Bombtrack Chase, aluminum, 35 mm clamp diameter, 0°, 40 mm",
+      "jeu de direction": "Sealed semi integrated / external aheadset, 1.1/2'' - 1.1/8''"
+    },
+    "collier de selle": "Bombtrack Origin, forged aluminium seat clamp, 34.9 mm"
+  },
+  "geometries": [
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 608,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1160,
+      "stack (mm)": 610,
+      "reach (mm)": 433,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 633,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1170,
+      "stack (mm)": 619,
+      "reach (mm)": 450,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 648,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1180,
+      "stack (mm)": 627,
+      "reach (mm)": 463,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

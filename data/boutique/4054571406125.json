@@ -1,0 +1,165 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2565024",
+  "tailles": [
+    "S / 161-170 cm",
+    "M / 169-178 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Cube Stereo One44 C:62 Pro Sram GX Eagle 12V 29'' Bleu Maya 2023",
+  "marque": "Cube",
+  "description": "Il ne faut pas juger un vélo à son apparence, c’est ce qu’on dit... Mais l’élégance du Cube Stereo One44 C:62 n’est pas qu’en surface. À ce sujet, la construction de la technologie de construction Cube C:62® Adavnced Twin Mold est un bon exemple. Avec son accent mis sur la commodité ultime et la performance sur les chemins, ses petits détails, tels que son boîtier de pédalier fileté et son jeu de direction réglable, permettent de faire la différence. Le tube inférieur dispose d’un compartiment de rangement et d'un sac spécialement conçu pour transporter tout ce dont vous avez besoin. Enfin, son support pour amortisseur Trunnion et son collier de selle semi-intégré font figure de touches finales sur cette machine dévoreuse de chemins ultra-précise.\r\n\r\nLéger, dynamique et polyvalent, le Cube Stereo One44 C:62 Pro va redéfinir vos attentes en matière de vélo dompteur de chemins accidentés. Sa fourche RockShox Pike et son amortisseur Deluxe Select+ à l’arrière offrent un maximum de confort, de contrôle et d’adhérence au sol. Ses roues Fulcrum Red 55 chaussées de pneus Maxxis Forekaster restent sous contrôle grâce à ses puissants freins à disque hydrauliques Magura MT Thirty. Il est équipé d’une tige de selle télescopique Cube. Enfin, sa transmission Sram GX Eagle 1x12 vitesses met à portée de vos doigts le bon braquet pour n’importe quel chemin, sans exception. Les montagnes vous appellent.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/24/565024/2565024/5178438",
+  "mpn": "654201M",
+  "gtin13": "4054571406125",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 161-170 cm",
+      "stock": 1,
+      "prix": 3199.99,
+      "mpn": "654201S",
+      "sku": "2684241",
+      "gtin13": "654201S",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2681023-vtt_tout_suspendu_cube_stereo_one44_c_62_pro_sram_gx_eagle_12v_29___bleu_maya_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 169-178 cm",
+      "stock": 1,
+      "prix": 3199.99,
+      "mpn": "654201M",
+      "sku": "2504579",
+      "gtin13": "4054571406125",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2681023-vtt_tout_suspendu_cube_stereo_one44_c_62_pro_sram_gx_eagle_12v_29___bleu_maya_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "mayablue´n´black"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 12.8,
+    "poids maximum": "115 kg : le poids maximum du système comprend le vélo, le cycliste et les équipements",
+    "genre": "Homme",
+    "débattement fourche (mm)": 140,
+    "débattement cadre (mm)": 140,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : C:62 Monocoque Advanced Twin Mold Technology, ISCG05, Boost 148, UDH™, 140 mm travel, Width tire maximum: 64 mm",
+      "fourche": "RockShox Pike RC, Tapered, Boost 15x110 mm, 140 mm travel",
+      "amortisseur": "RockShox Deluxe Select+, 185x52.5 mm, Rebound Adjust, Lockout / Entretoises d'amortisseur : 54 mm Trunnion Mount (Haut), 22x8 mm (Bas)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle Trigger, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12-vitesses",
+      "cassette": "Sram XG-1275 Eagle, 10-52 Dents",
+      "chaîne": "Sram SX Eagle",
+      "pédalier": "Sram GX Eagle, Boost, DUB, 30 Dents"
+    },
+    "équipements": {
+      "freins": "Magura MT Thirty, Hydr. Disc Brake, (180/180)",
+      "selle": "Natural Fit Venec Lite",
+      "tige de selle": "Cube Dropper Post, Handlebar Lever, Internal Cable Routing, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "Fulcrum Red Metal 500 (29\"), Boost 15x110/12x148 mm, Tubeless Ready",
+      "pneus": "Maxxis Forekaster, EXO, Tubeless Ready, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "Newmen Evolution SL 318.25, 760 mm",
+      "poignées": "Acid Disrupt, Soft Compound",
+      "potence": "Newmen Evolution SL 318.4, 31.8 mm, 6°",
+      "jeu de direction": "Acros AZF-675, ICR (Integrated Cable Routing), Top Zero-Stack 1 1/2\" (ZS 56 mm), Bottom Zero-Stack 1 1/2\" (ZS 56 mm), Fiber Inserts for Angle Adjustment"
+    },
+    "accessoires": "Acid Downtube Storage Bag",
+    "référence": 654201
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 320,
+      "tube supérieur* (mm)": "553 / 552",
+      "longueur base (mm)": 420,
+      "douille de direction (mm)": 126,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1145 / 1137",
+      "stack* (mm)": "598 / 599",
+      "reach* (mm)": "409 / 408",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 370,
+      "débattement tige de selle (mm)": 100
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 370,
+      "tube supérieur* (mm)": "575 / 577",
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 103,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1177 / 1169",
+      "stack* (mm)": "615 / 617",
+      "reach* (mm)": "429 / 428",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 420,
+      "débattement tige de selle (mm)": 125
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 405,
+      "tube supérieur* (mm)": "599 / 600",
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 113,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1201 / 1193",
+      "stack* (mm)": "624 / 626",
+      "reach* (mm)": "449 / 448",
+      "longueur potence (mm)": 40,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur* (mm)": "627 / 628",
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 123,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1230 / 1222",
+      "stack* (mm)": "633 / 635",
+      "reach* (mm)": "474 / 473",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur* (mm)": "660 / 662",
+      "longueur base (mm)": 434,
+      "douille de direction (mm)": 143,
+      "angle de direction* (°)": "65.4 / 66",
+      "angle tube de selle* (°)": "75.9 / 75.7",
+      "empattement* (mm)": "1266 / 1258",
+      "stack* (mm)": "651 / 653",
+      "reach* (mm)": "502 / 500",
+      "longueur potence (mm)": 50,
+      "longueur tige de selle (mm)": 480,
+      "débattement tige de selle (mm)": 150
+    }
+  ]
+}

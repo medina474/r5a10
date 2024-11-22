@@ -1,0 +1,154 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2714614",
+  "tailles": [
+    "S / 162-172 cm",
+    "M / 170-182 cm",
+    "L / 182-190 cm",
+    "XL / 193-203 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Cannondale Trail Neo 2 Shimano Deore 11V 29'' Bleu",
+  "marque": "Cannondale",
+  "description": "Ce VTT électrique robuste et amusant est prêt à porter votre jeu sur les sentiers à un tout autre niveau. Doté d'un puissant système d'entraînement Bosch, d'une batterie longue durée et de composants prêts à l'emploi, il est prêt à conquérir les collines et à sculpter les canyons. Vous pouvez également l'équiper de porte-bagages, de garde-boue et d'éclairages, et l'utiliser pour vos déplacements quotidiens. Le Cannondale Trail Neo est prêt à tout.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/614/714614/2714614/5471895",
+  "mpn": "C61253U10SM",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 162-172 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "C61253U10SM",
+      "sku": "2644968",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2838834-vtt_electrique_semi_rigide_cannondale_trail_neo_2_shimano_deore_11v_29___bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 170-182 cm",
+      "stock": 2,
+      "prix": 3499.99,
+      "mpn": "C61253U10MD",
+      "sku": "2644996",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2838834-vtt_electrique_semi_rigide_cannondale_trail_neo_2_shimano_deore_11v_29___bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 182-190 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "C61253U10LG",
+      "sku": "2645248",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2838834-vtt_electrique_semi_rigide_cannondale_trail_neo_2_shimano_deore_11v_29___bleu"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 193-203 cm",
+      "stock": 1,
+      "prix": 3499.99,
+      "mpn": "C61253U10XL",
+      "sku": "2645315",
+      
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2838834-vtt_electrique_semi_rigide_cannondale_trail_neo_2_shimano_deore_11v_29___bleu"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Deep Teal"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : SmartForm C1 Alloy, removable 625Wh downtube battery (dual battery ready), integrated front running light, tapered headtube, internal cable routing, 135mm QR hub spacing, IS disc mount, motor protection, headtube rack mounts, 40mm Pletscher kickstand mount, rack & fender mounts",
+      "fourche": "SR Suntour XCR 34 Boost, 100mm, Air, 46mm offset"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, 85 Nm",
+      "batterie": "Bosch PowerTube 625Wh (amovible)",
+      "écran": "Bosch Kiox 300 w/ LED Remote"
+    },
+    "direction": {
+      "jeu de direction": "Acros, integrated, 1-1/8 to 1.8\", sealed bearings",
+      "potence": "Cannondale, 3D Forged 6061 Alloy, 1-1/8\", 35.0, internal cables",
+      "cintre": "Cannondale 3 Riser, 6061 Alloy, 20mm rise, 8° sweep, 4° rise, 800mm, 35mm",
+      "poignées": "Fabric Funguy"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M5100 1x11 vitesses",
+      "dérailleur arrière": "Shimano Deore M5100 11 vitesses",
+      "pédalier": "FSA Bosch E-Bike 160 mm, 34 dts",
+      "chaîne": "Shimano HG601",
+      "cassette": "Sunrace, 11-42 dts"
+    },
+    "équipements": {
+      "freins": "Shimano MT400 hydraulic disc, 203/203 mm RT64 rotors",
+      "selle": "Fizik Freeway Fit",
+      "tige de selle": "Cannondale 3, 6061 Alloy, 31.6x350mm"
+    },
+    "roues": {
+      "jantes": "WTB STX i30 TCS, 32h tubeless ready, moyeux Shimano MT400 (15x110) / UR600 (12x148)",
+      "pneus": "Maxxis Rekon, 29x2.6\""
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "taille de roues (pouces)": 27.5,
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 480,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1163,
+      "stack (mm)": 622,
+      "reach (mm)": 401
+    },
+    {
+      "taille cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 599,
+      "longueur base (mm)": 480,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1178,
+      "stack (mm)": 635,
+      "reach (mm)": 417
+    },
+    {
+      "taille cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 618,
+      "longueur base (mm)": 480,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1198,
+      "stack (mm)": 644,
+      "reach (mm)": 433
+    },
+    {
+      "taille cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 639,
+      "longueur base (mm)": 480,
+      "angle de direction (°)": 68,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1220,
+      "stack (mm)": 658,
+      "reach (mm)": 450
+    }
+  ]
+}

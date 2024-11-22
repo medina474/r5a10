@@ -1,0 +1,129 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2504689",
+  "tailles": [
+    "M / 165-180 cm",
+    "L / 178-190 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Orbea Oiz H20 Sram GX Eagle 12V 29'' Blanc / Rouge 2023",
+  "marque": "Orbea",
+  "description": "Prenez le contrôle. Sans compromis. L'Orbea Oiz n’est pas un vélo de down-country ou de trail : c’est une bête de course XC avec un débattement de 120 mm, à la fois superbe et efficace. Une géométrie moderne et une suspension ingénieuse, conçue avec un débattement de 120 mm, assurent des sorties encore plus plaisantes, sans compromettre le poids et l’efficacité. En peu de mots, l’Oiz est le vélo XC le plus rapide sorti de l'usine Orbea en 180 ans.\r\n\r\nPour s’adapter aux exigences croissantes des courses modernes, les vélos de XC évoluent vers plus de contrôle (et de plaisir) en descente. La géométrie sans compromis d'Orbea est le fruit des retours d’expérience de leurs athlètes, riders et testeurs, et fait du nouvel Oiz le vélo de XC Orbea le plus plaisant à piloter à ce jour.\r\n\r\nL’assise créée par un angle de selle accentué et le stack plus bas offrent une position de contrôle inégalée. Le reach plus long, conçu avec une potence de 60-90 mm, optimise la stabilité en descente tout en chargeant la roue avant pour pouvoir attaquer les montées et les courbes à pleine puissance.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/689/504689/2504689/4923443",
+  "mpn": "N23305N5",
+  "gtin13": "8434446281396",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-180 cm",
+      "stock": 10,
+      "prix": 2899.99,
+      "mpn": "N23305N5",
+      "sku": "2398835",
+      "gtin13": "8434446281396",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2572496-vtt_tout_suspendu_orbea_oiz_h20_sram_gx_eagle_12v_29___blanc___rouge_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-190 cm",
+      "stock": 10,
+      "prix": 2541.8,
+      "mpn": "N23307N5",
+      "sku": "2398921",
+      "gtin13": "8434446281426",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2572496-vtt_tout_suspendu_orbea_oiz_h20_sram_gx_eagle_12v_29___blanc___rouge_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "N5 - White Chic - Shadow Coral (Gloss)"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "débattement cadre (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Oiz Hydro High Polished, Alloy link, Boost, BSA, SIC, UFO, I-Line shock",
+      "fourche": "Fox 32 Float Rhythm Remote Push-Unlock, QR15x110 mm, 120 mm travel",
+      "amortisseur": "Fox i-line DPS Performance 120 mm Remote Push-Unlock Evol custom tune, 190 x 45 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram GX Eagle, 1x12-vitesses",
+      "dérailleur arrière": "Sram GX Eagle, 12-vitesses",
+      "cassette": "Sram PG-1230 Eagle, 11-50 Dents",
+      "chaîne": "Sram NX Eagle",
+      "pédalier": "Sram Stylo 6K Eagle Dub Boost, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano Deore M6100, Hydr. Disc Brake",
+      "selle": "Selle Italia Model X FecAlloy Rail 145x248 mm",
+      "tige de selle": "OC Mountain Control MC20, 31.6 mm, Dropper"
+    },
+    "roues": {
+      "jantes": "Alloy, Tubeless, 25c, 32H, 29\"",
+      "pneus": "Maxxis Rekon Race, 120 TPI, EXO, TLR, 29x2.35\""
+    },
+    "direction": {
+      "cintre": "Alloy, 31.8 mm, Flat, 740 mm, Sweep 9",
+      "potence": "OC Mountain Performance MP21, -6º",
+      "jeu de direction": "FSA 1-1/2\" Integrated Aluminium Cup"
+    },
+    "référence": "N233"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 410,
+      "tube supérieur (mm)": 568,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1142,
+      "stack (mm)": 596,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 432,
+      "tube supérieur (mm)": 594,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1169,
+      "stack (mm)": 600,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 619,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1195,
+      "stack (mm)": 610,
+      "reach (mm)": 472
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 645,
+      "longueur base (mm)": 436,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 67,
+      "angle tube de selle (°)": 76.5,
+      "empattement (mm)": 1223,
+      "stack (mm)": 619,
+      "reach (mm)": 496
+    }
+  ]
+}

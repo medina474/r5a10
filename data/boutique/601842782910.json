@@ -1,0 +1,148 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2511034",
+  "tailles": [
+    "M / 165-177 cm",
+    "L / 177-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Trek Powerfly 5 Shimano Deore/XT 12V 625 Wh 29'' Vert Sauge Gén 4",
+  "marque": "Trek",
+  "description": "Le Powefly 5 est un VTTAE qui offre d’excellentes capacités et propose un bon équilibre entre budget et performance. Il associe une transmission du système intelligent de Bosch haut de gamme pour VTTAE et des composants VTT résistants conçus pour le trail. Sans oublier, notre système convivial de batterie intégrée amovible (RIB) entièrement enveloppée par le cadre et qui pourtant peut se déposer sans outils. Ce vélo est polyvalent, performant et prêt à partir à l’aventure.\r\n\r\nVous vous êtes converti au vélo à assistance électrique et vous souhaitez élargir vos horizons. Tout comme nous, vous estimez que rien ne devrait vous empêcher de pouvoir vivre votre prochaine grande aventure, ni les côtes interminables, ni le vent de face, ni les trails accidentés qui pourraient limiter vos explorations.\r\n\r\nUn cadre léger et solide en aluminium dans lequel s’encastre complètement une batterie de 625 Wh pour la pureté des lignes et la protection sur le trail, un moteur Bosch Performance CX offrant une assistance jusqu’à 25 km/h et une commande DEL ergonomique du système intelligent de Bosch et un écran Intuvia sans fil. Une fourche RockShox Recon Silver RL, une transmission Shimano Deore 1x12 et des roues Bontrager Kovee 23 Tubeless Ready.\r\n\r\nAvec le Powerfly 5 vous bénéficiez de pièces améliorées, qui font véritablement la différence hors route, comme la fourche à suspension pneumatique pour plus souplesse et la capacité à s’adapter à votre poids, ou encore les freins à 4 pistons et les roues qui évitent l’utilisation de chambres à air pour une meilleure traction et moins de crevaisons.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/34/511034/2511034/4935410",
+  "mpn": "5278960",
+  "gtin13": "601842782910",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 165-177 cm",
+      "stock": 1,
+      "prix": 3399.99,
+      "mpn": "5278959",
+      "sku": "2368107",
+      "gtin13": "601842782927",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2578740-vtt_electrique_semi_rigide_trek_powerfly_5_shimano_deore_xt_12v_625_wh_29___vert_sauge_gen_4"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 177-188 cm",
+      "stock": 2,
+      "prix": 3399.99,
+      "mpn": "5278960",
+      "sku": "2367190",
+      "gtin13": "601842782910",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2578740-vtt_electrique_semi_rigide_trek_powerfly_5_shimano_deore_xt_12v_625_wh_29___vert_sauge_gen_4"
+    }
+  ],
+  "informations": {
+    "poids": "M - 21.60 kg / Ce vélo affiche une limite de poids total maximum (vélo, cycliste et bagages) de 136 kg",
+    "genre": "Mixte",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore M6100 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium :  Taille XS, S : Aluminium Alpha Platinum, tube horizontal courbe, batterie intégrée amovible (RIB), tube de direction conique, acheminement interne Control Freak, Motor Armor, Boost148, axe traversant de 12 mm Taille M, L, XL : Aluminium Alpha Platinum, Batterie intégrée amovible (RIB), tube de direction conique, acheminement interne Control Freak, Motor Armor, Boost148, axe traversant de 12 mm",
+      "fourche": "Taille XS : RockShox Recon Silver RL, ressort Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 46 mm, Boost110, Maxle Stealth, débattement de 80 mm Taille S : RockShox Recon Silver RL, ressort Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 46mm, Boost110, Maxle Stealth, débattement de 120 mm Taille M, L, XL : RockShox Recon Silver RL, ressort Solo Air, amortisseur Motion Control, blocage, pivot conique, déport de 42mm, Boost110, Maxle Stealth, débattement de 120 mm"
+    },
+    "assistance électrique": {
+      "moteur": "Bosch Performance Line CX, Système intelligent, corps du moteur en magnésium, 85 Nm, 25 km/h",
+      "batterie": "Bosch PowerTube 625 Wh, système intelligent",
+      "écran": "Bosch Intuvia 100, système intelligent"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M6100, 12 vitesses",
+      "dérailleur arrière": "Shimano XT M8100, chape longue",
+      "cassette": "Shimano Deore M6100, 10-51 dents, 12 vitesses",
+      "chaîne": "Shimano Deore M6100",
+      "pédalier": "E*thirteen E*spec Plus, plateau 36 dents, longueur de 165 mm"
+    },
+    "équipements": {
+      "freins": "Freins à disque hydrauliques Tektro HD-M745 à 4 pistons, disques Tektro, centerlock, 203/180 mm",
+      "pédales": "VP-536, plateforme, nylon",
+      "selle": "Bontrager Commuter Comp",
+      "tige de selle": "Taille XS, S : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 330 mm Taille M : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 360 mm Taille L, XL : Alliage Bontrager, 31,6 mm, déport de 12 mm, longueur de 400 mm"
+    },
+    "roues": {
+      "jantes": "Bontrager Connection, double paroi, 32 trous, largeur de 20 mm, valve Presta",
+      "pneus": "Taille XS, S : Bontrager XR3 Comp, tringle rigide, 30 tpi, 27,5x2,35 pouces Taille M, L, XL : Bontrager XR3 Comp, tringle rigide, 30t pi, 29x2,3 pouces"
+    },
+    "direction": {
+      "cintre": "Taille XS, S : Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 720 mm Taille M, L, XL : Alliage Bontrager, 31,8 mm, élévation 15 mm, largeur de 750 mm",
+      "poignées": "Bontrager XR Endurance Comp, lock-on",
+      "potence": "Taille XS : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 50 mm Taille S, M : Alliage Bontrager, 31,8 mm, compatible Blendr, 7 degrés, longueur de 60 mm Taille L, XL : Bontrager Comp, 31,8 mm, compatible Blendr, 7 degrés, longueur 70 mm",
+      "jeu de direction": "FSA IS-2, 1,125 pouces sur le haut, 1,5 pouce sur le bas"
+    },
+    "couleur": "Satin Blue Sage/Juniper"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "XS",
+      "taille de roues": "27.5\"",
+      "tube de selle (mm)": 363,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70,
+      "empattement (mm)": 1135,
+      "stack (mm)": 621,
+      "reach (mm)": 352
+    },
+    {
+      "taille de cadre": "S",
+      "taille de roues": "27.5\"",
+      "tube de selle (mm)": 394,
+      "tube supérieur (mm)": 598,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 67.6,
+      "angle tube de selle (°)": 71.5,
+      "empattement (mm)": 1125,
+      "stack (mm)": 623,
+      "reach (mm)": 390
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 419,
+      "tube supérieur (mm)": 617,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 67.7,
+      "angle tube de selle (°)": 71.7,
+      "empattement (mm)": 1155,
+      "stack (mm)": 639,
+      "reach (mm)": 406
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 641,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 140,
+      "angle de direction (°)": 67.7,
+      "angle tube de selle (°)": 71.7,
+      "empattement (mm)": 1180,
+      "stack (mm)": 648,
+      "reach (mm)": 427
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues": "29\"",
+      "tube de selle (mm)": 521,
+      "tube supérieur (mm)": 672,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 160,
+      "angle de direction (°)": 67.7,
+      "angle tube de selle (°)": 71.7,
+      "empattement (mm)": 1212,
+      "stack (mm)": 667,
+      "reach (mm)": 452
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2197521",
+  "tailles": [
+    "M / 170-181 cm",
+    "L / 179-190 cm",
+    "XL / 188-199 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Bombtrack Hook Shimano GRX 10V 700 mm Noir / Violet",
+  "marque": "Bombtrack",
+  "description": "Un cadre en acier performant, une fourche en carbone léger et des pneus 700C de largeur moyenne rendent le gravel bike Bombtrack Hook rapide et polyvalent. Il est équipé du groupe Shimano GRX 2x10 vitesses, offrant des rapports rapprochés, mais une large plage, vous permettant ainsi de garder le tempo élevé sur les graviers ou les routes non goudronnées. Le Hook peut être chargé d'un nombre infini de façons. Parsemé de points de fixation, il prêt pour transporter tout ce dont vous avez besoin : des fixations pour une sacoche sur le tube supérieur, des fixations à trois points pour des porte-bidons ainsi que des supports pour porte-bagages et garde-boues.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/521/197521/2197521/4039144",
+  "mpn": "01125260421",
+  "gtin13": "4055822511667",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 179-190 cm",
+      "stock": 1,
+      "prix": 1699.99,
+      "mpn": "01125260421",
+      "sku": "1810757",
+      "gtin13": "4055822511667",
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2053986-gravel_bike_bombtrack_hook_shimano_grx_10v_700_mm_noir___violet"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Glossy Black / Purple"
+    }
+  ],
+  "informations": {
+    "poids total": "11.0 kg (taille M)",
+    "poids maximum": "120 kg : le poids maximum du système comprend le vélo, le cycliste et la charge (porte-bagages ou remorque)",
+    "poids constructeur (en g)": 11000,
+    "genre": "Homme",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Acier cromo : Columbus Cromor double butted, TA dropout,rack / fender mounts, 86.5 mm T47 BB shell, 700c x 42c Frame Max Tire Clearance (w/o fender)",
+      "fourche": "Carbone : Full carbon, TA, 1.1/2'' - 1.1/8'', fender / triple cage mounts"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX ST-RX400, STI, 2x10-vitesses",
+      "dérailleur arrière": "Shimano GRX RD-RX400, clutch, 10-vitesses",
+      "cassette": "Shimano CS-HG50, 11-36 Dents",
+      "chaîne": "KMC X10 EPT Anti Rust chain, 1/2'' x 11/128'', 114L",
+      "pédalier": "Bombtrack Lyer forged aluminium crank, direct mount interface (Sram compatible), 30 mm spindle",
+      "boîtier de pédalier": "Bombtrack T47 internal sealed BB for 30 mm spindle"
+    },
+    "dérailleur avant": "Shimano GRX FD-RX400",
+    "plateau": "Aluminium, subcompact, direct mount spider, 48/32 Dents",
+    "équipements": {
+      "freins": "Shimano GRX BR-RX400, Hydr. Disc Brake, 160/160 mm",
+      "selle": "Bombtrack Comp",
+      "tige de selle": "Bombtrack Beech, 27.2 x 300 mm"
+    },
+    "roues": {
+      "jantes": "WTB ST i19 double wall, TCS 2.0, 32h",
+      "moyeu avant": "Bombtrack Tau sealed disc hub, 12 x 100 mm thru-axle ",
+      "moyeu arrière": "Bombtrack Tau sealed disc hub, 12 x 142 mm thru-axle",
+      "pneus": "WTB Venture, tubeless ready, 40-622"
+    },
+    "direction": {
+      "cintre": "Bombtrack CX-10 drop bar, 31.8 mm, 10° flare, 75 mm reach, 116 mm drop",
+      "potence": "Bombtrack Roam, forged aluminium, -7°",
+      "jeu de direction": "Sealed external aheadset, 1.1/2'' - 1.1/8'', EC34 / 28.6 | EC44 / 40 (S.H.I.S.)"
+    },
+    "ruban de cintre": "Bombtrack Command",
+    "collier de selle": "Bombtrack Origin, 29.8 mm"
+  },
+  "geometries": [
+    {
+      "taille cadre": "XS",
+      "taille des roues": "650b",
+      "tube de selle (mm)": 460,
+      "tube supérieur (mm)": 508,
+      "longueur base (mm)": 410,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 975,
+      "stack (mm)": 523,
+      "reach (mm)": 358,
+      "largeur du cintre (mm)": 400,
+      "longueur de la potence (mm)": 80,
+      "longueur des manivelles (mm)": 165
+    },
+    {
+      "taille cadre": "S",
+      "taille des roues": "650b",
+      "tube de selle (mm)": 490,
+      "tube supérieur (mm)": 522,
+      "longueur base (mm)": 410,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 71.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 985,
+      "stack (mm)": 534,
+      "reach (mm)": 369,
+      "largeur du cintre (mm)": 400,
+      "longueur de la potence (mm)": 80,
+      "longueur des manivelles (mm)": 165
+    },
+    {
+      "taille cadre": "M",
+      "taille des roues": "700c",
+      "tube de selle (mm)": 525,
+      "tube supérieur (mm)": 540,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1010,
+      "stack (mm)": 565,
+      "reach (mm)": 378,
+      "largeur du cintre (mm)": 420,
+      "longueur de la potence (mm)": 90,
+      "longueur des manivelles (mm)": 170
+    },
+    {
+      "taille cadre": "L",
+      "taille des roues": "700c",
+      "tube de selle (mm)": 545,
+      "tube supérieur (mm)": 562,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1027,
+      "stack (mm)": 584,
+      "reach (mm)": 389,
+      "largeur du cintre (mm)": 440,
+      "longueur de la potence (mm)": 100,
+      "longueur des manivelles (mm)": 175
+    },
+    {
+      "taille cadre": "XL",
+      "taille des roues": "700c",
+      "tube de selle (mm)": 565,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 425,
+      "douille de direction (mm)": 170,
+      "angle de direction (°)": 72,
+      "angle tube de selle (°)": 73.5,
+      "empattement (mm)": 1045,
+      "stack (mm)": 603,
+      "reach (mm)": 400,
+      "largeur du cintre (mm)": 440,
+      "longueur de la potence (mm)": 100,
+      "longueur des manivelles (mm)": 175
+    }
+  ]
+}

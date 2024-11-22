@@ -1,0 +1,155 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2534366",
+  "tailles": [
+    "S / 157-167 cm",
+    "M / 167-178 cm",
+    "L / 175-188 cm",
+    "XL / 185-200 cm"
+  ],
+  "catégories": ["VTT", "Tout-Suspendu"],
+"name": "Mondraker Superfoxy Carbon R Sram GX Eagle 12V 29'' Beige/Gris",
+  "marque": "Mondraker",
+  "description": "Comme pour les Summum Carbon, qui sont les vélos du circuit international DH les plus légers, les Superfoxy Carbon suivent leur exemple dans ce que nous considérons comme le Superenduro. 170 mm de débattement avant et 160 mm de débattement arrière : tout est dit. Et surtout, grâce à la transmission Sram à 12 vitesses, vous pouvez monter jusqu'au sommet pour recommencer à profiter de la descente. Un vélo léger et maniable. La fourche Fox 38 et l'amortisseur Ölhins TTX Air, combinés à un cadre et un bras oscillant avec moyeu Superboost de 12x157 mm, vous donneront une rigidité sans précédent qui fera des tracés les plus durs un jeu d'enfants.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/366/534366/2534366/5114243",
+  "mpn": "010.23142",
+  "gtin13": "8435392858595",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 157-167 cm",
+      "stock": 2,
+      "prix": 4699.99,
+      "mpn": "010.23141",
+      "sku": "2397951",
+      "gtin13": "8435392858588",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2610670-vtt_tout_suspendu_mondraker_superfoxy_carbon_r_sram_gx_eagle_12v_29___beige_gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-178 cm",
+      "stock": 10,
+      "prix": 4699.99,
+      "mpn": "010.23142",
+      "sku": "2186166",
+      "gtin13": "8435392858595",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2610670-vtt_tout_suspendu_mondraker_superfoxy_carbon_r_sram_gx_eagle_12v_29___beige_gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 10,
+      "prix": 4699.99,
+      "mpn": "010.23143",
+      "sku": "2186132",
+      "gtin13": "8435392858601",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2610670-vtt_tout_suspendu_mondraker_superfoxy_carbon_r_sram_gx_eagle_12v_29___beige_gris"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-200 cm",
+      "stock": 1,
+      "prix": 4699.99,
+      "mpn": "010.23144",
+      "sku": "2186171",
+      "gtin13": "8435392858618",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2610670-vtt_tout_suspendu_mondraker_superfoxy_carbon_r_sram_gx_eagle_12v_29___beige_gris"
+    }
+  ],
+  "informations": {
+    "poids (kg)": 15.6,
+    "genre": "Mixte",
+    "débattement fourche (mm)": 170,
+    "débattement cadre (mm)": 160,
+    "matière du cadre": "Carbone",
+    "groupe": "Sram GX Eagle 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SuperFoxy 29 Stealth Air tout en carbone, système de suspension Zero, débattement de 160 mm, Forward Geometry, biellette supérieure Monoblock en carbone, axe arrière SuperBoost 12 x 157 mm, tube de direction conique, boîtier de pédalier BSA 73 mm, design spécifique pour transmission monoplateau, acheminement interne des câbles HHG, roulements étanches Enduro MAX, garde-boue d'amortisseur, ISCG 05",
+      "fourche": "Fox 38 29 Float FIT GRIP EVOL Performance, 170 mm, pivot conique, axe Boost 15 x 110 mm, déport 44 mm. Réglages : 3 positions avec micro-ajustement de la compression, rebond basse vitesse, précontrainte pneumatique",
+      "amortisseur": "Öhlins TTX Air 205x65 mm. Réglages : levier de compression haute vitesse avec mode montée, compression basse vitesse, rebond, précontrainte pneumatique. Trunnion montage haut, bagues inférieures 22,2 x 10 mm"
+    },
+    "transmission": {
+      "manette de dérailleur": "Sram Trigger GX Eagle, 12 vitesses, X-Actuation 1:1",
+      "dérailleur arrière": "Sram GX Eagle, Roller Bearing Clutch type 3, technologie de blocage de chape, 1 x 12 vitesses, X-Actuation 1:1",
+      "cassette": "Sram XG-1275, 10-52 dents, 12 vitesses",
+      "chaîne": "Sram NX Eagle, 12 vitesses, Powerlock",
+      "pédalier": "Truvativ Descendant 7K Eagle, SuperBoost, axe DUB, plateau Direct Mount 32 dents, aluminium usiné CNC, X-SYNC 2  (Manivelles : tailles S/M : 170 mm, taille L/XL : 175 mm)",
+      "boîtier de pédalier": "Sram DUB BSA, roulements étanches, 73 mm"
+    },
+    "équipements": {
+      "freins": "Sram Code R, étrier surdimensionné 4 pistons, disque monopièce 6 trous Centerline 200/200mm IS, plaquettes en métal fritté sur acier",
+      "selle": "SDG BEL-AIR 3.0, mousse LPU, rails en acier",
+      "tige de selle": "Tige de selle télescopique interne OnOff Pija, diamètre 31,6 mm, taille S : 405 x 95-125 mm, taille M : 458 x 120-150 mm, taille L : 498 x 140-170 mm, taille XL : 498 x 140-170 mm"
+    },
+    "roues": {
+      "jantes": "e*thirteen LG1 Enduro, IW30 sans crochet, aluminium 6069 soudé, largeur interne 30 mm, Tubeless Ready, 28 rayons",
+      "moyeu avant": "e*thirteen Boost 15 x 110 mm, triple étanchéité, entièrement usiné en aluminium, IS 6 trous ",
+      "moyeu arrière": "e*thirteen Superboost 12 x 157 mm, triple étanchéité, entièrement usiné en aluminium avec engagement de 6 degrés, IS 6 trous, roue libre XD",
+      "pneu avant": " Maxxis Assegai 29 x 2,5 WT, Tubeless Ready, composé 3C MAXX GRIP, enveloppe DH, 60 x 2 TPI, tringle souple ",
+      "pneu arrière": " Maxxis Dissector 29 x 2,4 WT, Tubeless Ready, composé 3C MAXX GRIP, enveloppe DH, 60 x 2 TPI, tringle souple"
+    },
+    "direction": {
+      "cintre": "Onoff Sulfur 1.0, aluminium 6061 double renfort, galbe : 20 mm, largeur : 800 mm, cintrage 9°, réhausse 5°, alésage 31,8 mm",
+      "poignées": "Onoff Desert, verrouillage simple, 135 mm",
+      "potence": "Onoff Sulfur FG 30 mm 0º, alliage d'aluminium forgé 6061, alésage 31,8 mm",
+      "jeu de direction": "Onoff Titan conique pour tube de direction de 1-1/8\" à 1-1/2”, roulements étanches ACB, haut 41,8x30,5x8x45°x45°, bas 51,9x40x8x45°x45°"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 380,
+      "tube supérieur (mm)": 603,
+      "longueur base (mm)": "440-450",
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1207,
+      "stack (mm)": 605,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "M",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 626,
+      "longueur base (mm)": "440-450",
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1230,
+      "stack (mm)": 605,
+      "reach (mm)": 470
+    },
+    {
+      "taille de cadre": "L",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 651,
+      "longueur base (mm)": "440-450",
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1256,
+      "stack (mm)": 642,
+      "reach (mm)": 490
+    },
+    {
+      "taille de cadre": "XL",
+      "taille de roues (pouces)": 29,
+      "tube de selle (mm)": 510,
+      "tube supérieur (mm)": 675,
+      "longueur base (mm)": "440-450",
+      "douille de direction (mm)": 130,
+      "angle de direction (°)": 65,
+      "angle tube de selle (°)": 70.5,
+      "empattement (mm)": 1283,
+      "stack (mm)": 642,
+      "reach (mm)": 510
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2433651",
+  "tailles": [
+    "XXS / 135-145 cm"
+  ],
+  "name": "VTT Semi Rigide Trek Marlin 8 Sram SX Eagle 12V 26'' Rouge 2023",
+  "marque": "Trek",
+  "description": "Le Marlin 8 est un vélo de trail offrant davantage de confiance grâce à sa géométrie améliorée fournissant plus de contrôle sur singletrack sans pour autant oublier les accessoires essentiels au quotidien, comme les fixations de porte-bagages et la béquille. Il est conçu pour vous aider à progresser sur des années grâce à sa transmission 12 vitesses Sram et à sa fourche télescopique à ressort pneumatique RockShox.\r\n\r\nVous cherchez un vélo pour améliorer vos performances sur le trail, suffisamment polyvalent pour vous accompagner à l’école, au travail ou pour faire vos courses.\r\n\r\nUn cadre léger en aluminium doté d'une géométrie moderne adaptée au trail et d’un acheminement interne des câbles afin de les protéger et de conserver l’élégance du vélo. Une fourche RockShox à ressort pneumatique plus léger et réglable qu’un ressort hélicoïdal, une transmission Sram à large plage de rapports, et de puissants freins à disque hydrauliques.\r\n\r\nLe Marlin 8 est un vélo de trail progressif idéal pour vous améliorer sur singletrack mais aussi pour vous déplacer au quotidien. Il est doté de caractéristiques essentielles pour vous permettre de progresser sur plusieurs années.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/651/433651/2433651/4659417",
+  "mpn": "5277581",
+  "gtin13": "601842864449",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XXS / 135-145 cm",
+      "stock": 51,
+      "prix": 999.99,
+      "mpn": "5277581",
+      "sku": "2368303",
+      "gtin13": "601842864449",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2471125-vtt_semi_rigide_trek_marlin_8_sram_sx_eagle_12v_26___rouge_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 80,
+    "matière du cadre": "Aluminium",
+    "groupe": "Sram SX Eagle 12V"
+  },
+  "caracteristiques": {},
+  "geometries": [
+    {
+      "taille cadre ": "XXS",
+      "dimension roues (pouce)": 26,
+      "tube de selle (mm)": 320,
+      "tube supérieur (mm)": 521,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74,
+      "empattement (mm)": 1060,
+      "stack (mm)": 544,
+      "reach (mm)": 365
+    },
+    {
+      "taille cadre ": "XS",
+      "dimension roues (pouce)": 27.5,
+      "tube de selle (mm)": 340,
+      "tube supérieur (mm)": 551,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 90,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1092,
+      "stack (mm)": 563,
+      "reach (mm)": 390
+    },
+    {
+      "taille cadre ": "S",
+      "dimension roues (pouce)": 27.5,
+      "tube de selle (mm)": 370,
+      "tube supérieur (mm)": 579,
+      "longueur base (mm)": 433,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.8,
+      "empattement (mm)": 1121,
+      "stack (mm)": 572,
+      "reach (mm)": 415
+    },
+    {
+      "taille cadre ": "M",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 420,
+      "tube supérieur (mm)": 615,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1163,
+      "stack (mm)": 609,
+      "reach (mm)": 440
+    },
+    {
+      "taille cadre ": "M/L",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 435,
+      "tube supérieur (mm)": 631,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1180,
+      "stack (mm)": 614,
+      "reach (mm)": 455
+    },
+    {
+      "taille cadre ": "L",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 450,
+      "tube supérieur (mm)": 647,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1197,
+      "stack (mm)": 618,
+      "reach (mm)": 470
+    },
+    {
+      "taille cadre ": "XL",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 500,
+      "tube supérieur (mm)": 678,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1230,
+      "stack (mm)": 637,
+      "reach (mm)": 495
+    },
+    {
+      "taille cadre ": "XXL",
+      "dimension roues (pouce)": 29,
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 707,
+      "longueur base (mm)": 438,
+      "douille de direction (mm)": 150,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 73.4,
+      "empattement (mm)": 1261,
+      "stack (mm)": 651,
+      "reach (mm)": 520
+    }
+  ]
+}

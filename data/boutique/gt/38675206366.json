@@ -1,0 +1,121 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "1810723",
+  "tailles": [
+    "M / 170-178 cm",
+    "L / 178-188 cm",
+    "XL / 188-196 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "GT Avalanche Elite 11V 29'' Rouge Noir",
+  "marque": "GT",
+  "description": "Pour le vététiste en herbe qui veut une machine de confiance. Le VTT semi-rigide GT Avalanche Elite comprend une fourche suspendue SR Suntour XCR-RL-R, des freins à disque hydrauliques et une transmission Microshift 1x11 vitesses, vous permettant de prendre un bon départ et qui s'adaptera au fur et à mesure que vos compétences se développeront.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/723/810723/1810723/3053229",
+  "mpn": "G27201M10LG",
+  "gtin13": "38675206366",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 178-188 cm",
+      "stock": 6,
+      "prix": 679.99,
+      "mpn": "G27201M10LG",
+      "sku": "1617618",
+      "gtin13": "38675206366",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-1628096-vtt_semi_rigide_gt_avalanche_elite_11v_29___rouge_noir"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Red"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "N.C."
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : GT 6061 T6 Aluminum Frame, Triple Triangle w/ Floating Seat Stays, Internal Cable Routing, Dropper Post Routing, Boost 141 Forged Drop-outs w/ Disc Brake Mounts, Zero Stack Tapered 1 1/8\"- 1.5\" Head Tube",
+      "fourche": "SR Suntour XCR-RL-R, 120 mm travel, Hydraulic Lockout, Air Spring, Rebound Adjust"
+    },
+    "transmission": {
+      "manette de dérailleur": "Microshift, 1x11-vitesses",
+      "dérailleur arrière": "Microshift, 11-vitesses",
+      "cassette": "Microshift",
+      "chaîne": "KMC X11",
+      "pédalier": "32 Dents",
+      "boîtier de pédalier": "Cartridge Sealed"
+    },
+    "équipements": {
+      "freins": "Hydr. Disc Brake, (160/160)",
+      "selle": "WTB Silverado Sport",
+      "tige de selle": "GT All-Terra Micro Adjust Alloy Seat Post, 30.9 mm"
+    },
+    "roues": {
+      "jantes": "WTB SX19, 32h",
+      "moyeu avant": "Shimano MT200, QRx100 ",
+      "moyeu arrière": "Shimano MT200, QRx141",
+      "pneus": "Vittoria Barzo, Wire Bead, 29 x 2.25\""
+    },
+    "direction": {
+      "cintre": "GT All Terra Alloy Riser, Double-Butted, 15 mm Rise, 9° Sweep, 5° Rise, 740 mm Width",
+      "poignées": "GT Statement",
+      "potence": "GT All Terra 3D Forged Alloy, 31.8 mm, 7°, 80 mm",
+      "jeu de direction": "Semi-integrated, Sealed Cartridge, Tapered"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 400,
+      "tube supérieur (mm)": 588,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1125,
+      "stack (mm)": 627,
+      "reach (mm)": 400
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 440,
+      "tube supérieur (mm)": 605,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 115,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1153,
+      "stack (mm)": 637,
+      "reach (mm)": 425
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 480,
+      "tube supérieur (mm)": 621,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 125,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1182,
+      "stack (mm)": 646,
+      "reach (mm)": 450
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 520,
+      "tube supérieur (mm)": 640,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 135,
+      "angle de direction (°)": 67.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1211,
+      "stack (mm)": 655,
+      "reach (mm)": 475
+    }
+  ]
+}

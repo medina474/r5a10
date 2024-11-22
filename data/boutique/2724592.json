@@ -1,0 +1,133 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2724592",
+  "tailles": [
+    "54 cm / 170-180 cm",
+    "56 cm / 177-185 cm"
+  ],
+  "catégories": ["Gravel"],
+"name": "Cannondale SuperSix Evo SE 1 Shimano GRX 820 12V 700mm Rouge",
+  "marque": "Cannondale",
+  "description": "Un vélo de compétition évolué, prêt à affronter les terrains herbeux, les ornières, la boue et les sentiers.\r\n\r\nLes profils de tubes aérodynamiques sont synonymes de plus de vitesse pour moins d’efforts, et de minutes gagnées sur les longs parcours. Allez plus vite, plus loin - De Flint Hills aux parcours Vermont Classe IV.\r\n\r\nLes bases arrière courtes apportent plus d’adhérence et plus d’accélération dans les montées sur terrain instable. La géométrie de direction OutFront vous permet de garder le contrôle même dans les descentes les plus vicieuses.\r\n\r\nL’énorme dégagement vous permet de monter des pneus jusqu’à 45 mm de large, pour bénéficier d’une meilleure traction, d’un supplément de confort et d’une résistance accrue aux crevaisons.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/592/724592/2724592/5487901",
+  "mpn": "C17253U1056",
+  
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "56 cm / 177-185 cm",
+      "stock": 1,
+      "prix": 4999,
+      "mpn": "C17253U1056",
+      "sku": "2645198",
+      
+      "url": "https://www.alltricks.fr/F-41505-velos-route-_-cyclocross-_-triathlon/P-2849056-gravel_bike_cannondale_supersix_evo_se_1_shimano_grx_820_12v_700mm_rouge"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "Black Cherry"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "taille de roues": "700mm",
+    "groupe": "Shimano GRX 12V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Carbone : SuperSix EVO CX Carbon, internal cable routing w/ Switchplate, 12x142mm Speed Release thru-axle, PF30-83 Ai, flat mount disc, integrated seatpost binder",
+      "fourche": "Carbone : SuperSix EVO CX Carbon, integrated crown race, 12x100mm Speed Release thru-axle, flat mount disc, internal routing, 1-1/8\" to 1-1/2\", 55mm offset"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano GRX 820, 1x12-vitesses",
+      "dérailleur arrière": "Shimano GRX 820, Shadow RD+, 12-vitesses",
+      "cassette": "Shimano XT M8100, 10-45 dts",
+      "chaîne": "Shimano XT M8100",
+      "pédalier": "Hollowgram, PF83a w/ SpideRing, 40 dts",
+      "boîtier de pédalier": "Cannondale Alloy PressFit30"
+    },
+    "équipements": {
+      "freins": "Shimano GRX 820 hydraulic disc, 160/160mm CL800 rotors",
+      "selle": "Prologo Dimension AGX, Tirox, Titanium Rails",
+      "tige de selle": "HollowGram 27 SL, Carbon, 2 bolt clamp, 330mm"
+    },
+    "roues": {
+      "jantes": "HollowGram G-S 27 Carbon, 700c, 27mm internal width, 21mm deep, 28h, hookless, tubeless compatible, moyeux Hollowgram 12x100/12x142mm",
+      "pneus": "WTB Vulpine TCS Light, 700x40c, tubeless ready OU Vittoria Terreno Dry TNT, 700 x 40c, tubeless ready"
+    },
+    "direction": {
+      "cintre": "Vision Trimax Carbon Aero",
+      "jeu de direction": "Integrated, 1-1/8\" - 1-1/2\"",
+      "potence": "Cannondale C1 Conceal, 6061 Alloy, 31.8, -6°"
+    }
+  },
+  "geometries": [
+    {
+      "taille de cadre (cm)": 46,
+      "tube de selle (mm)": 449,
+      "tube supérieur (mm)": 507,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 93,
+      "angle de direction (°)": 70,
+      "angle tube de selle (°)": 73.9,
+      "empattement (mm)": 1002,
+      "stack (mm)": 515,
+      "reach (mm)": 365,
+      "offset tige de selle (mm)": 0
+    },
+    {
+      "taille de cadre (cm)": 51,
+      "tube de selle (mm)": 488,
+      "tube supérieur (mm)": 524,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1005,
+      "stack (mm)": 535,
+      "reach (mm)": 371,
+      "offset tige de selle (mm)": 15
+    },
+    {
+      "taille de cadre (cm)": 54,
+      "tube de selle (mm)": 524,
+      "tube supérieur (mm)": 537,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 132,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 73.1,
+      "empattement (mm)": 1020,
+      "stack (mm)": 555,
+      "reach (mm)": 378,
+      "offset tige de selle (mm)": 15
+    },
+    {
+      "taille de cadre (cm)": 56,
+      "tube de selle (mm)": 546,
+      "tube supérieur (mm)": 555,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 153,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 72.7,
+      "empattement (mm)": 1034,
+      "stack (mm)": 575,
+      "reach (mm)": 385,
+      "offset tige de selle (mm)": 15
+    },
+    {
+      "taille de cadre (cm)": 58,
+      "tube de selle (mm)": 566,
+      "tube supérieur (mm)": 568,
+      "longueur base (mm)": 422,
+      "douille de direction (mm)": 175,
+      "angle de direction (°)": 71,
+      "angle tube de selle (°)": 72.7,
+      "empattement (mm)": 1048,
+      "stack (mm)": 595,
+      "reach (mm)": 392,
+      "offset tige de selle (mm)": 15
+    }
+  ]
+}

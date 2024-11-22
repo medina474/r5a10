@@ -1,0 +1,149 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2587536",
+  "tailles": [
+    "S / 157-170 cm",
+    "M / 167-177 cm",
+    "L / 175-188 cm",
+    "XL / 185-198 cm"
+  ],
+  "catégories": ["Électrique","VTT Électrique", "Semi-Rigide"],
+  "name": " Rocky Mountain Fusion Powerplay 10 Shimano Deore 10V 480Wh 29'' Marron Gris 2023",
+  "marque": "Rocky Mountain",
+  "description": "Qu’il s'agisse d'aller au travail, d'explorer le gravier ou de rouler sur un singletrack, le Fusion Powerplay est votre hardtail à tout faire. En combinant la puissance du système de transmission Dyname 4.0 et toute la convivialité du Fusion, ce vélo ludique vous ouvrira un nouveau monde d’aventure.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/536/587536/2587536/5226523",
+  "mpn": "B0286LG93",
+  "gtin13": "770416452907",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "S / 157-170 cm",
+      "stock": 1,
+      "prix": 3236.03,
+      "mpn": "B0286SM93",
+      "sku": "2587456",
+      "gtin13": "770416453102",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2713232-vtt_electrique_semi_rigide_rocky_mountain_fusion_powerplay_10_shimano_deore_10v_480wh_29___marron_gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "M / 167-177 cm",
+      "stock": 12,
+      "prix": 3399.99,
+      "mpn": "B0286MD93",
+      "sku": "2587471",
+      "gtin13": "770416453003",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2713232-vtt_electrique_semi_rigide_rocky_mountain_fusion_powerplay_10_shimano_deore_10v_480wh_29___marron_gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "L / 175-188 cm",
+      "stock": 13,
+      "prix": 3399.99,
+      "mpn": "B0286LG93",
+      "sku": "2587449",
+      "gtin13": "770416452907",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2713232-vtt_electrique_semi_rigide_rocky_mountain_fusion_powerplay_10_shimano_deore_10v_480wh_29___marron_gris_2023"
+    },
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-198 cm",
+      "stock": 5,
+      "prix": 3399.99,
+      "mpn": "B0286XL93",
+      "sku": "2587502",
+      "gtin13": "770416453201",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2713232-vtt_electrique_semi_rigide_rocky_mountain_fusion_powerplay_10_shimano_deore_10v_480wh_29___marron_gris_2023"
+    }
+  ],
+  "informations": {
+    "genre": "Homme",
+    "débattement fourche (mm)": 120,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 10V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "FORM™ Alloy | Press Fit BB | Internal Cable Routing | Boost 148mm | Tapered Zerostack Headtube | Dropper Post Compatible. Rear Triangle",
+      "fourche": "Suntour XCR32 AIR LOR DS Boost 29 = 120mm 46mm Offset | 27.5 = 100mm 42mm Offset"
+    },
+    "assistance électrique": {
+      "moteur": "Dyname 4.0 Mountain Bike Drive | 250w Nominal Power | 108Nm | Rocky Mountain Micro Remote | Low RPM - High Efficiency class 1 eMTB System | Designed in Canada",
+      "écran": "Rocky Mountain Jumbotron | Drive System Customization | Battery & Assist Level | Trip | Speed | Cadence | Top Tube Integration",
+      "batterie": "480 Wh Removable Integrated Li-Ion | 100% Charged in 2:35 (4A) / 5:05 (2A) | 80% Charged in 1:55 (4A) / 4:00 (2A)"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore 10spd",
+      "dérailleur arrière": "Shimano Deore 10spd",
+      "cassette": "Sunrace CSMS2 11-46T",
+      "chaîne": "KMC X10-1",
+      "pédalier": "Race Face Ride Cinch 34T | 24mm Spindle | Crank Length: SM - MD = 165mm | LG - XL = 170mm"
+    },
+    "boitier de pédalier": "Shimano SM-BBMT500",
+    "équipements": {
+      "freins": "Shimano MT4100 2 Piston | Resin Pads | F:Shimano RT30 180mm | R:Shimano RT30 180mm",
+      "selle": "WTB Volt 142",
+      "tige de selle": "Rocky Mountain 30.9mm"
+    },
+    "roues": {
+      "jantes": "Rocky Mountain TR30 Tubeless | 32H | Tubeless Compatible - Tape / Valves / Sealant Not Incl",
+      "pneus": "F: Maxxis Ardent 2.4 EXO // R: Maxxis Ardent 2.4 EXO"
+    },
+    "direction": {
+      "cintre": "Rocky Mountain XC | 760mm Width | 25mm Rise | 9° Backsweep | 5° Upsweep | 31.8 Clamp",
+      "potence": "Rocky Mountain 31.8 XC | 7° Rise | All Sizes = 50mm",
+      "jeu de direction": "FSA Orbit NO.57E | Sealed 36°x45° Bearings | 30.2mm x 41mm x 7.1mm Upper | 40mm x 51.8mm x 7.5mm Lower | 1.5\" Crown Race"
+    }
+  },
+  "geometries": [
+    {
+      "taille cadre": "S",
+      "tube de selle (mm)": 380,
+      "tube supérieure (mm)": 600,
+      "longueur base (mm)": 445,
+      "douille de direction (mm)": 100,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1165,
+      "stack (mm)": 632,
+      "reach (mm)": 425
+    },
+    {
+      "taille cadre": "M",
+      "tube de selle (mm)": 420,
+      "tube supérieure (mm)": 628,
+      "longueur base (mm)": 450,
+      "douille de direction (mm)": 110,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1199,
+      "stack (mm)": 641,
+      "reach (mm)": 450
+    },
+    {
+      "taille cadre": "L",
+      "tube de selle (mm)": 445,
+      "tube supérieure (mm)": 655,
+      "longueur base (mm)": 455,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1233,
+      "stack (mm)": 650,
+      "reach (mm)": 475
+    },
+    {
+      "taille cadre": "XL",
+      "tube de selle (mm)": 480,
+      "tube supérieure (mm)": 680,
+      "longueur base (mm)": 460,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 66.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1263,
+      "stack (mm)": 650,
+      "reach (mm)": 500
+    }
+  ]
+}

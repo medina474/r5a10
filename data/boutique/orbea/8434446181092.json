@@ -1,0 +1,124 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Product",
+  "sku": "2504691",
+  "tailles": [
+    "S / 155-170 cm",
+    "M / 165-180 cm",
+    "L / 175-190 cm",
+    "XL / 185-195 cm"
+  ],
+  "catégories": ["VTT", "Semi-Rigide"],
+"name": "Orbea Onna 10 Shimano Deore 11V 29'' Noir / Argent 2023",
+  "marque": "Orbea",
+  "description": "Le VTT semi-rigide Orbea Onna est conçu pour les cyclistes qui veulent se lancer à l'assaut des trails. Sa géométrie, qui met l'accent sur l'efficacité et la maîtrise, est parfaite pour tout cycliste qui découvre le VTT.\r\n\r\nL'Onna 10 offre une géométrie équilibrée et un comportement fluide sur les sentiers afin de que tous les cyclistes puissent y trouver leur bonheur. Ajoutez-y des tailles de roues adaptées aux tailles de cadre pour un ajustement parfait, et voilà l'Onna prêt à dompter les sentiers. Avec une douille de direction conique permettant un large choix de fourches suspendues de 100 mm et des freins à disque hydrauliques sur l'ensemble de la gamme, l'Onna a tout ce qu'il faut pour maîtriser le terrain. Et avec un large dégagement permettant de monter des pneus VTT larges, ce véo vous garantit confort et traction pour toutes vos aventures. Le cadre en aluminium haute performance et les tubes profilés de l'Onna nous permettent de maîtriser parfaitement son comportement. Assez rigide pour être rapide et réactif, assez souple pour rester confortable et maniable.\r\n\r\nL'Onna est disponible en quatre tailles associées à deux tailles de roues.",
+  "image": "https://product-cdn-frz.alltricks.com/medium/691/504691/2504691/4923474",
+  "mpn": "N21121N9",
+  "gtin13": "8434446181092",
+  "offres": [
+    {
+      "vendeur": "Alltricks",
+      "taille": "XL / 185-195 cm",
+      "stock": 0,
+      "prix": 899.99,
+      "mpn": "N21121N9",
+      "sku": "2398689",
+      "gtin13": "8434446181092",
+      "url": "https://www.alltricks.fr/F-11947-velos-complets-vtt/P-2572498-vtt_semi_rigide_orbea_onna_10_shimano_deore_11v_29___noir___argent_2023"
+    }
+  ],
+  "coloris": [
+    {
+      "coloris": "N9 - Black (Gloss-Matt)"
+    }
+  ],
+  "informations": {
+    "genre": "Mixte",
+    "débattement fourche (mm)": 100,
+    "matière du cadre": "Aluminium",
+    "groupe": "Shimano Deore 11V"
+  },
+  "caracteristiques": {
+    "châssis": {
+      "cadre": "Aluminium : Orbea Onna Alloy, Dropout 9x135 mm, BSA BB, Internal cable routing",
+      "fourche": "RockShox Judy Silver TK, Crown adjust, QR, Solo Air, 100 mm travel"
+    },
+    "transmission": {
+      "manette de dérailleur": "Shimano Deore M5100, 1x11-vitesses",
+      "dérailleur arrière": "Shimano Deore M5100 SGS, Shadow RD+, 11-vitesses",
+      "cassette": "SunRace, 11-51 Dents",
+      "chaîne": "KMC X11",
+      "pédalier": "Forged alloy, Boost, 32 Dents"
+    },
+    "équipements": {
+      "freins": "Shimano MT200, Hydr. Disc Brake",
+      "selle": "Selle Royal 2058 DRN",
+      "tige de selle": "Alloy, 27.2 mm, Setback 0 mm",
+      "pédales": "VP-537 Black"
+    },
+    "roues": {
+      "jantes": "Alloy, 23c, 32H, 29\"",
+      "pneus": "Kenda Booster, 30 TPI, 29x2.40\""
+    },
+    "direction": {
+      "cintre": "Alloy, 31.8 mm, Flat, Width 720 mm",
+      "potence": "Alloy, 7º",
+      "jeu de direction": "1\"-1/2 Semi-Integrated"
+    },
+    "référence": "N211"
+  },
+  "geometries": [
+    {
+      "taille de cadre": "S",
+      "tube de selle (mm)": 388,
+      "tube supérieur (mm)": 561,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1093,
+      "stack (mm)": 617,
+      "reach (mm)": 390,
+      "longueur potence (mm)": 70
+    },
+    {
+      "taille de cadre": "M",
+      "tube de selle (mm)": 430,
+      "tube supérieur (mm)": 589,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 95,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1121,
+      "stack (mm)": 617,
+      "reach (mm)": 418,
+      "longueur potence (mm)": 70
+    },
+    {
+      "taille de cadre": "L",
+      "tube de selle (mm)": 470,
+      "tube supérieur (mm)": 614,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 105,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1146,
+      "stack (mm)": 627,
+      "reach (mm)": 440,
+      "longueur potence (mm)": 70
+    },
+    {
+      "taille de cadre": "XL",
+      "tube de selle (mm)": 540,
+      "tube supérieur (mm)": 646,
+      "longueur base (mm)": 440,
+      "douille de direction (mm)": 120,
+      "angle de direction (°)": 68.5,
+      "angle tube de selle (°)": 74.5,
+      "empattement (mm)": 1180,
+      "stack (mm)": 641,
+      "reach (mm)": 468,
+      "longueur potence (mm)": 90
+    }
+  ]
+}

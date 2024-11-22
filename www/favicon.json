@@ -42,5 +42,14 @@
   {
     "input" : ["favicon.svg", "0:560:256:256" ],
     "output": [ ["256.png"] ]
+  },
+  {
+    "input" : ["favicon.svg", "512:0:512:512" ],
+    "output": [ ["512.png"] ]
+  },
+  {
+    "input" : ["favicon.svg", "0:0:512:1328" ],
+    "output": [ ["all.png", "pad"] ]
   }
+
 ]

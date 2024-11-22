@@ -1,37 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1328">
 
-<rect y="0" width="16" height="16" fill="#661166"/>
-<rect y="16" width="24" height="24" fill="#661166"/>
-<rect y="40" width="32" height="32" fill="#661166"/>
-<rect y="72" width="48" height="48" fill="#661166"/>
-<rect y="120" width="64" height="64" fill="#661166"/>
-<rect y="184" width="72" height="72" fill="#661166"/>
-<rect y="256" width="80" height="80" fill="#661166"/>
-<rect y="336" width="96" height="96" fill="#661166"/>
-<rect y="432" width="128" height="128" fill="#661166"/>
-<rect y="560" width="256" height="256" fill="#661166"/>
-<rect y="816" width="512" height="512" fill="#661166"/>
-
-<line x1="0" x2="1024" y1="8" y2="8" stroke-width="1" stroke="red"/>
-<line x1="0" x2="1024" y1="28" y2="28" stroke-width="1" stroke="red"/>
-<line x1="0" x2="1024" y1="44" y2="44" stroke-width="1" stroke="red"/>
-<line x1="0" x2="1024" y1="76" y2="76" stroke-width="1" stroke="red"/>
-<line x1="0" x2="1024" y1="112" y2="112" stroke-width="1" stroke="red"/>
-<line x1="0" x2="1024" y1="60" y2="60" stroke-width="1" stroke="red"/>
-<line x1="0" x2="1024" y1="60" y2="60" stroke-width="1" stroke="red"/>
-<line x1="0" x2="1024" y1="60" y2="60" stroke-width="1" stroke="red"/>
-
-<g fill="#fff" font-family="Consolas">
-  <text text-anchor="middle" x="8" y="11.4" font-size="11">16</text>
-  <text text-anchor="middle" x="12" y="33" font-size="16">24</text>
-  <text text-anchor="middle" x="16" y="65" font-size="18">32</text>
-  <text text-anchor="middle" x="24" y="104" font-size="30">48</text>
-  <text text-anchor="middle" x="32" y="165" font-size="40">64</text>
-  <text text-anchor="middle" x="36" y="230" font-size="40">72</text>
-  <text text-anchor="middle" x="40" y="302" font-size="40">80</text>
-  <text text-anchor="middle" x="48" y="382" font-size="40">96</text>
-  <text text-anchor="middle" x="64" y="500" font-size="40">128</text>
-  <text text-anchor="middle" x="128" y="720" font-size="90">256</text>
-  <text text-anchor="middle" x="256" y="1100" font-size="160">512</text>
+<g font-family="Consolas" text-anchor="middle" fill="#fff">
+<g transform="translate(0 0)">
+  <rect y="0" width="16" height="16" fill="#661166"/>
+  <text x="8" y="12" font-size="12">16</text>
 </g>
+
+<g transform="translate(0 16)">
+  <rect width="24" height="24" fill="#661166"/>
+  <text x="12" y="17.3" font-size="16">24</text>
+</g>
+
+<g transform="translate(0 40)">
+  <rect width="32" height="32" fill="#661166"/>
+  <text x="16" y="23.8" font-size="24">32</text>
+</g>
+
+<g transform="translate(0 72)">
+  <rect width="48" height="48" fill="#661166"/>
+  <text x="24" y="34.7" font-size="32">48</text>
+</g>
+
+<g transform="translate(0 120)">
+  <rect width="64" height="64" fill="#661166"/>
+  <text x="32" y="44" font-size="36">64</text>
+</g>
+
+<g transform="translate(0 184)">
+  <rect width="72" height="72" fill="#661166"/>
+  <text x="36" y="48.5" font-size="38">72</text>
+</g>
+
+<g transform="translate(0 256)">
+  <rect width="80" height="80" fill="#661166"/>
+  <text x="40" y="53" font-size="40">80</text>
+</g>
+
+<g transform="translate(0 336)">
+  <rect width="96" height="96" fill="#661166"/>
+  <text x="48" y="62.5" font-size="44">96</text>
+</g>
+
+<g transform="translate(0 432)">
+  <rect width="128" height="128" fill="#661166"/>
+  <text x="64" y="79" font-size="45">128</text>
+</g>
+
+<g transform="translate(0 560)">
+  <rect width="256" height="256" fill="#661166"/>
+  <text x="128" y="157" font-size="90">256</text>
+</g>
+
+<g transform="translate(512 0)">
+  <rect width="512" height="512" fill="#661166"/>
+  <text x="256" y="315" font-size="180">512</text>
+</g>
+
+</g>
+<line x1="0" x2="1024" y1="1500" y2="1500" stroke-width="0.5" stroke="red"/>
+
 </svg>

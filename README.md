@@ -26,3 +26,6 @@ http://127.0.0.1:3006/graphiql
 
 CouchDB
 http://127.0.0.1:3007/
+
+
+https://www.npmjs.com/package/svgexport

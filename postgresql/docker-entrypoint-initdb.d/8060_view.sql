@@ -57,14 +57,15 @@ create or replace view cinema.view_films_tmdb as  select f.titre,
   where (l.id is null);
 
 
-create or replace view view_personnes_tmdb as  select p.nom,
+create or replace view view_personnes_tmdb as  
+  select p.nom,
     p.prenom,
     p.personne_id
    from (cinema.personnes p
      left join cinema.links l on ((p.personne_id = l.id) and (l.site_id = 1)))
   where (l.id is null);
   
-create or replace view view_simili
+create or replace view view_simili as
 SELECT fk1.film_id AS film1,
        fk2.film_id AS film2,
        COUNT(*) AS common_keywords
@@ -75,3 +76,16 @@ JOIN film_keywords fk2
 GROUP BY fk1.film_id, fk2.film_id
 HAVING COUNT(*) > 0
 ORDER BY common_keywords DESC;
+
+create or replace view biblio.view_auteurs as
+select a.auteur_id, a.nom, count(p.oeuvre_id) from biblio.auteurs a
+left join biblio.participe p on p.auteur_id = a.auteur_id 
+group by a.auteur_id, a.nom
+order by count(p.oeuvre_id);
+
+create or replace view biblio.view_editeurs as
+select e.editeur_id, e.editeur_nom, count(d.edition_id) 
+from biblio.editeurs e
+left join biblio.editions d on d.editeur_id = e.editeur_id 
+group by e.editeur_id, e.editeur_nom
+order by count(d.edition_id);

@@ -8,7 +8,7 @@ editeur_id,editeur_nom,ville
 7,AA World Services,
 8,Abacus,
 9,Abacus Books,
-10,Abacus Books (London),
+10,Abacus Books,London,
 11,Abdo Publishing Company,
 12,Abingdon Press,
 13,Abradale Books/Harry N. Abrams,
@@ -26,7 +26,7 @@ editeur_id,editeur_nom,ville
 25,Ace Trade,
 26,Ace/SFBC,
 27,Acento Editorial,
-28,Acropolis Books (NY),
+28,Acropolis Books,New York
 29,Actes Sud,
 30,Adamant Media Corporation,
 31,Adams Media,
@@ -140,7 +140,7 @@ editeur_id,editeur_nom,ville
 139,Atlantic Books,
 140,Atlantic Books (UK),
 141,Atlantic Monthly Press,
-142,Atlantic Monthly Press (NYC),
+142,Atlantic Monthly Press,New York
 143,Atlas Books/HarperCollins Publishers,
 144,Atria Books,
 145,Audio Literature,
@@ -179,23 +179,23 @@ editeur_id,editeur_nom,ville
 178,Baker Books,
 179,Ballantine,
 180,Ballantine Books,
-181,Ballantine Books (NY),
+181,Ballantine Books,New York
 182,Banner of Truth,
 183,Bantam,
 184,Bantam (Fanfare Imprint),
 185,Bantam (Fanfare),
 186,Bantam Books,
 187,Bantam Books Inc.,
-188,Bantam Books (NY),
+188,Bantam Books,New York
 189,Bantam Classic,
 190,Bantam Classics,
-191,Bantam Doubleday Dell (NYC),
+191,Bantam Doubleday Dell,New York
 192,Bantam Doubleday Dell Publishing Company Inc.,
 193,Bantam Doubleday Dell Publishing Group,
 194,Bantam Press,
 195,Bantam Skylark,
 196,Bantam Spectra,
-197,Bantam Spectra (NY),
+197,Bantam Spectra,New York
 198,Bantam Starfire,
 199,BantamSpectra,
 200,Bantem Press,
@@ -242,7 +242,7 @@ editeur_id,editeur_nom,ville
 241,Benziger,
 242,Berkley,
 243,Berkley Books,
-244,Berkley Books (NY),
+244,Berkley Books,New York
 245,Berkley Hardcover,
 246,Berkley Heat,
 247,Berkley Prime Crime,
@@ -278,7 +278,7 @@ editeur_id,editeur_nom,ville
 277,Blanvalet Verlag GmbH,
 278,Blood Moon Productions,
 279,Bloomsbury,
-280,Bloomsbury (NYC),
+280,Bloomsbury,New York
 281,Bloomsbury / Continuum,
 282,Bloomsbury Academic,
 283,Bloomsbury Arden Shakespeare,
@@ -475,7 +475,7 @@ editeur_id,editeur_nom,ville
 474,Crown Journeys/Crown Publishers/Crown Publishing Group/Random House,
 475,Crown Publishers,
 476,Crown Publishing Group,
-477,Crown Publishing Group (NY),
+477,Crown Publishing Group,New York
 478,Cruithne Press,
 479,Crystal Clarity Publishers,
 480,Cumberland House Publishing,
@@ -499,7 +499,7 @@ editeur_id,editeur_nom,ville
 498,David R. Godine Publisher,
 499,DAW,
 500,Daw Books,
-501,DAW Books (NY),
+501,DAW Books,New York
 502,DAW Books Inc,
 503,DAW Fantasy,
 504,DAW Hardcover,
@@ -515,7 +515,7 @@ editeur_id,editeur_nom,ville
 514,Del Rey,
 515,Del Rey Ballantine Random House,
 516,Del Rey Books,
-517,Del Rey Books (NY),
+517,Del Rey Books,New York
 518,Del Rey Fantasy,
 519,Del Rey/Ballantine Books,
 520,Delacorte Books,
@@ -577,13 +577,13 @@ editeur_id,editeur_nom,ville
 576,Doubleday Books,
 577,Doubleday Books for Young Readers,
 578,Doubleday Canada,
-579,Doubleday Publishing (NY),
+579,Doubleday Publishing,New York
 580,Douglas McIntyre,
 581,Douglas & McIntyre,
 582,Dover Publications,
 583,Dover Publications Inc.,
-584,Dover Publications (NY),
-585,Dover Publications (NYC),
+584,Dover Publications,New York
+585,Dover Publications,New York
 586,Downtown Press,
 587,Dr. Master Productions Inc.,
 588,Dragon Door Publications,
@@ -677,7 +677,7 @@ editeur_id,editeur_nom,ville
 676,Farrar Straus & Giroux,
 677,Farrar Straus and Giroux,
 678,Farrar Straus and Giroux (BYR),
-679,Farrar Straus and Giroux (NY),
+679,Farrar Straus and Giroux,New York
 680,Farrar Strauss & Giroux-3pl,
 681,Farrar Straus and Giroux,
 682,Farrar Straus Giroux,
@@ -812,7 +812,7 @@ editeur_id,editeur_nom,ville
 811,Grove Press Black Cat,
 812,Grove Press Granta,
 813,Grove Press Open City Books,
-814,Grove Press (NYC),
+814,Grove Press,New York
 815,Grove Weidenfeld,
 816,Grove/Atlantic Inc.,
 817,Grupo Editorial Norma S.A.,
@@ -845,7 +845,7 @@ editeur_id,editeur_nom,ville
 844,Harcourt Brace,
 845,Harcourt Brace & Company,
 846,Harcourt Brace Jovanovich,
-847,Harcourt Brace Jovanovich (NY),
+847,Harcourt Brace Jovanovich,New York
 848,Harcourt Children's Books,
 849,Hard Crime Case,
 850,Hard Press,
@@ -873,7 +873,7 @@ editeur_id,editeur_nom,ville
 872,Harper Paperbacks,
 873,Harper Perennial,
 874,Harper Perennial (HarperCollins),
-875,Harper Perennial (NYC),
+875,Harper Perennial,New York
 876,Harper Perennial Classics,
 877,Harper Perennial Modern Classics,
 878,Harper Teen,
@@ -917,7 +917,7 @@ editeur_id,editeur_nom,ville
 916,Harvard Business Review Press,
 917,Harvard Common Press,
 918,Harvard University Press,
-919,Harvard University Press (Cambridge MA)/Wm Heinemann Ltd. (London),
+919,Harvard University Press (Cambridge MA)/Wm Heinemann Ltd.,London,
 920,Harvard University Press (Cambridge),
 921,Harvest / Harcourt,
 922,Harvest Books,
@@ -960,7 +960,7 @@ editeur_id,editeur_nom,ville
 959,Highbridge Audio,
 960,HighBridge Company,
 961,Hill & Wang,
-962,Hill & Wang Publ. (NY),
+962,Hill & Wang Publ.,New York
 963,Hill and Wang,
 964,Hiperión,
 965,Hippo/Scholastic,
@@ -1031,7 +1031,7 @@ editeur_id,editeur_nom,ville
 1030,International Code Council,
 1031,International Polygonics,
 1032,International Publishers,
-1033,International Publishers (NYC),
+1033,International Publishers,New York
 1034,InterVarsity Press,
 1035,Island,
 1036,Island Books,
@@ -1129,7 +1129,7 @@ editeur_id,editeur_nom,ville
 1128,LGF,
 1129,Libraries Unlimited,
 1130,Library of America,
-1131,Library of America (NY),
+1131,Library of America,New York
 1132,Library of American Comics,
 1133,Library of Liberal Arts/Bobb-Merrill (Indianapolis IN),
 1134,Libros para ninos,
@@ -1224,7 +1224,7 @@ editeur_id,editeur_nom,ville
 1223,Marvel Comics Group,
 1224,Material World,
 1225,Maxima New Media,
-1226,Mayfield Publishing Company (NY),
+1226,Mayfield Publishing Company,New York
 1227,McClelland & Stewart,
 1228,McClelland and Stewart,
 1229,McDougal Littel,
@@ -1248,9 +1248,9 @@ editeur_id,editeur_nom,ville
 1247,Métailié,
 1248,Methuen Drama,
 1249,Methuen Publishing,
-1250,MetroBooks (NY),
+1250,MetroBooks,New York
 1251,Metropolitan Books,
-1252,Metropolitan Books/Henry Holt & Co. (NY),
+1252,Metropolitan Books/Henry Holt & Co.,New York
 1253,Michael Joseph,
 1254,Michael Joseph Ltd./Penguin Books Ltd.,
 1255,Michael O'Mara,
@@ -1278,9 +1278,9 @@ editeur_id,editeur_nom,ville
 1277,MJF Books,
 1278,Modern Language Association of America,
 1279,Modern Library,
-1280,Modern Library (NY),
+1280,Modern Library,New York
 1281,Modern Library Classics,
-1282,Modern Library/Random House (NY),
+1282,Modern Library/Random House,New York
 1283,Modern Publishing,
 1284,Mondadori,
 1285,MONDIAL,
@@ -1339,7 +1339,7 @@ editeur_id,editeur_nom,ville
 1338,New Page Books,
 1339,New Press,
 1340,New Press The,
-1341,New Press (NY),
+1341,New Press,New York
 1342,New Riders Publishing,
 1343,New Tradition Books,
 1344,New World Library,
@@ -1383,7 +1383,7 @@ editeur_id,editeur_nom,ville
 1382,Oberlin College Press,
 1383,Oberon Books,
 1384,Octopus Books,
-1385,Octopus Books (London),
+1385,Octopus Books,London,
 1386,Oddysey/Harcourt Young Classics,
 1387,Odonian Press,
 1388,Ohio State University Press,
@@ -1405,7 +1405,7 @@ editeur_id,editeur_nom,ville
 1404,Orbit Books,
 1405,Orchard,
 1406,Orchard Books,
-1407,Orchard Books (NY),
+1407,Orchard Books,New York
 1408,Oregon State University Press,
 1409,Orion,
 1410,Orion (an Imprint of The Orion Publishing Group Ltd ),
@@ -1418,7 +1418,7 @@ editeur_id,editeur_nom,ville
 1417,Orion Publishing Group,
 1418,Orion Publishing Group Ltd.,
 1419,Osprey Publishing,
-1420,Other Press (NY),
+1420,Other Press,New York
 1421,OUP Oxford,
 1422,Our Daily Bread Publishing,
 1423,Overeaters Anonymous Incorporated,
@@ -1426,7 +1426,7 @@ editeur_id,editeur_nom,ville
 1425,Overlook TP,
 1426,Owl Books,
 1427,Owl Books (Henry Holt),
-1428,Owl Books (NY),
+1428,Owl Books,New York
 1429,Owl Publishing Company,
 1430,Owlet Paperbacks,
 1431,Oxford University Press,
@@ -1439,12 +1439,12 @@ editeur_id,editeur_nom,ville
 1438,Pan Books,
 1439,Pan Childrens,
 1440,Pan MacMillan,
-1441,Pan Macmillan Ltd. (London),
+1441,Pan Macmillan Ltd.,London,
 1442,Pan Publishing,
 1443,Panamericana Editorial,
 1444,Pantheon,
 1445,Pantheon Books,
-1446,Pantheon Books (NY),
+1446,Pantheon Books,New York
 1447,Panther,
 1448,Paperback Library,
 1449,Paraglyph Press,
@@ -1476,9 +1476,9 @@ editeur_id,editeur_nom,ville
 1475,Penguin Book Limited,
 1476,Penguin Books,
 1477,Penguin Books Limited (UK),
-1478,Penguin Books (London),
-1479,Penguin Books (NY),
-1480,Penguin Books (NYC),
+1478,Penguin Books,London,
+1479,Penguin Books,New York
+1480,Penguin Books,New York
 1481,Penguin Books (Penguin Classics),
 1482,Penguin Books /Penguin Classics,
 1483,Penguin Books Australia Ltd.,
@@ -1487,7 +1487,7 @@ editeur_id,editeur_nom,ville
 1486,Penguin Books Limited,
 1487,Penguin Books Ltd,
 1488,Penguin Books Ltd.,
-1489,Penguin Books Ltd. (London),
+1489,Penguin Books Ltd.,London,
 1490,Penguin Books USA Inc.,
 1491,Penguin Books/Penguin Popular Classics,
 1492,Penguin Classic,
@@ -1565,7 +1565,7 @@ editeur_id,editeur_nom,ville
 1564,Pocket Books,
 1565,Pocket Books / Simon & Schuster Inc.,
 1566,Pocket Books: Gallery Books,
-1567,Pocket Books/Simon & Schuster (NY),
+1567,Pocket Books/Simon & Schuster,New York
 1568,Pocket Books/Star Trek,
 1569,Pocket Star,
 1570,Pocket Star Books,
@@ -1637,7 +1637,7 @@ editeur_id,editeur_nom,ville
 1636,Random House,
 1637,Random House for Young Readers,
 1638,Random House Inc.,
-1639,Random House (NY),
+1639,Random House,New York
 1640,Random House (Vintage),
 1641,Random House Anchor,
 1642,Random House Audio,
@@ -1811,7 +1811,7 @@ editeur_id,editeur_nom,ville
 1810,Siete Cuentos,
 1811,Signet,
 1812,Signet Book,
-1813,Signet Books (NY),
+1813,Signet Books,New York
 1814,Signet Classic,
 1815,Signet Classics,
 1816,Silhouette,
@@ -1844,7 +1844,7 @@ editeur_id,editeur_nom,ville
 1843,Simple Productions,
 1844,Sinauer Associates,
 1845,Skinner House Books,
-1846,Sky Books (NY),
+1846,Sky Books,New York
 1847,Skylight Paths Publishing,
 1848,Sleeping Bear Press,
 1849,Small Beer Press,
@@ -1869,7 +1869,7 @@ editeur_id,editeur_nom,ville
 1868,Specialty Press,
 1869,Spectra,
 1870,Spectra Books,
-1871,Spectra/Bantam Books (NYC),
+1871,Spectra/Bantam Books,New York
 1872,Sphere,
 1873,Springer,
 1874,Square Fish,
@@ -1950,7 +1950,7 @@ editeur_id,editeur_nom,ville
 1949,The Bodley Head Ltd,
 1950,The Chicken House,
 1951,The Crossroad Publishing Company,
-1952,The Disinformation Company (NYC),
+1952,The Disinformation Company,New York
 1953,The Guilford Press,
 1954,The Harvill Press,
 1955,The Liffey Press,
@@ -2043,7 +2043,7 @@ editeur_id,editeur_nom,ville
 2042,Univ Of Minnesota Press,
 2043,Universal Publishers,
 2044,Universe,
-2045,Universe Publishing(NY),
+2045,Universe Publishing,New York
 2046,University of Alaska Press,
 2047,University of Arizona Press,
 2048,University of Arkansas Press,
@@ -2124,8 +2124,8 @@ editeur_id,editeur_nom,ville
 2123,Vintage International,
 2124,Vintage/Ebury,
 2125,Vintage/Ebury (A Division of Random House Group),
-2126,Vintage/Random House (NY),
-2127,Vintage/Random House Inc. (NYC),
+2126,Vintage/Random House,New York
+2127,Vintage/Random House Inc.,New York
 2128,Virago,
 2129,Virago Press (UK),
 2130,Virago Press Ltd,
@@ -2148,10 +2148,10 @@ editeur_id,editeur_nom,ville
 2147,W.W. Norton,
 2148,W.W. Norton Company,
 2149,W.W. Norton & Company,
-2150,W.W. Norton & Company Inc. (NY),
-2151,W.W. Norton & Company (NY),
+2150,W.W. Norton & Company Inc.,New York
+2151,W.W. Norton & Company,New York
 2152,W.W. Norton & Company (NY/London),
-2153,W.W. Norton & Company (NYC),
+2153,W.W. Norton & Company,New York
 2154,Wadsworth Publishing Company,
 2155,Waking Lion Press,
 2156,Walker,
@@ -2164,7 +2164,7 @@ editeur_id,editeur_nom,ville
 2163,Warner,
 2164,Warner Adult,
 2165,Warner Books,
-2166,Warner Books (NY),
+2166,Warner Books,New York
 2167,Warner Forever,
 2168,Warner Vision,
 2169,Warners Visions Books,
@@ -2207,7 +2207,7 @@ editeur_id,editeur_nom,ville
 2206,William Morrow / HarperCollins / Harper Perennial,
 2207,William Morrow & Company,
 2208,William Morrow & Company Inc.,
-2209,William Morrow & Company (NYC),
+2209,William Morrow & Company,New York
 2210,William Morrow Paperbacks,
 2211,William Morrow 1ST edition,
 2212,Windsor Golden Series,
@@ -2267,7 +2267,7 @@ editeur_id,editeur_nom,ville
 2266,Casterman,Tournai
 2267,Dargaud,Paris
 2268,Dupuis,Marcinelle
-2269,**,**
+2269,Rue de Sèvres,Paris
 2270,Le Lombard,Bruxelles
 2271,Delcourt,Paris
 2272,Soleil Productions,Toulon  

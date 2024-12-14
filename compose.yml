@@ -308,6 +308,8 @@ services:
     environment:
       RABBITMQ_DEFAULT_USER: admin
       RABBITMQ_DEFAULT_PASS: supermotdepasse
+    profiles:
+      - test
 
 # Memcached
 # Free & open source, high-performance, distributed memory object caching system
@@ -316,6 +318,8 @@ services:
   memcached:
     container_name: r5a10-memcached
     image: memcached:1.6
+    profiles:
+      - test
 
 # Redis
 # In-memory key-value database
@@ -372,6 +376,7 @@ services:
     volumes:
       - ./data:/usr/share/caddy
     profiles:
+      - postgresql
       - admin
 
 # Minio
@@ -394,6 +399,8 @@ services:
     ports:
       - 9000:9000
       - 9001:9001
+    profiles:
+      - test
 
 # ######################################################################
 # Oriented Documents Databases

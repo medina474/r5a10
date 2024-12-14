@@ -78,7 +78,7 @@ film_id,titre,titre_original,annee,sortie,duree,franchise_id,pays
 378,Arizona Junior,Raising Arizona,1987,1987-03-01,94,,{us}
 379,Miller's Crossing,,1990,1990-09-21,122,,{us}
 380,Rain Man,,1988,1988-12-12,133,,{us}
-387,Le Bateau,,,,149,,{de}
+387,Le Bateau,Das Boot,,,149,,{de}
 391,Pour une poignée de dollars,,1966,1966-03-15,95,,"{de,es,it}"
 402,Basic Instinct,,1992,1992-05-08,130,86336,"{us,fr}"
 403,Miss Daisy et son chauffeur,Driving Miss Daisy,1989,1989-12-13,99,,{us}

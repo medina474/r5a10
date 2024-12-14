@@ -1761,7 +1761,7 @@ editeur_id,editeur_nom,ville
 1760,Schocken,
 1761,Schocken Books,
 1762,Schocken Books Inc,
-1763,Scholastic,
+1763,Scholastic,New-York
 1764,Scholastic Inc.,
 1765,Scholastic Audio Books,
 1766,Scholastic Books,
@@ -2277,3 +2277,6 @@ editeur_id,editeur_nom,ville
 2276,Alpeh,
 2277,Mnémos,Saint-Laurent-d'Oingt
 2278,Third Éditions,Toulouse
+2279,Pocket Jeunesse,Paris
+2280,ePagine,Paris
+2281,Numilog,Arcueil

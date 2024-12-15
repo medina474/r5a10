@@ -1,4 +1,4 @@
-"oeuvre_id","titre","langue_code","genre_id","infos"
+oeuvre_id,titre,langue_code,genre_id,infos
 1,The World's First Love: Mary  Mother of God,en-US,,
 2,The Illuminati,eng,,
 3,The Servant Leader,eng,,
@@ -244,8 +244,8 @@
 243,The Outsider,en-US,,
 244,Burning Chrome (Sprawl #0),eng,,
 245,Dead Wrong (Joanna Brady),eng,,"{""tome"":""12""}"
-246,"1421: The Year China Discovered America",eng,,
-247,"13 Little Blue Envelopes (Little Blue Envelope #1)",eng,,
+246,1421: The Year China Discovered America,eng,,
+247,13 Little Blue Envelopes (Little Blue Envelope #1),eng,,
 248,The Andromeda Strain (Andromeda),eng,,"{""tome"":""1""}"
 249,Congo,eng,,
 250,Only You Can Save Mankind (Johnny Maxwell),eng,,"{""tome"":""1""}"
@@ -435,7 +435,6 @@
 434,The Best American Crime Writing 2006,eng,,
 435,El bosque de los pigmeos,spa,,
 436,Missing Mom,eng,,
-804,Marketing Warfare,eng,,
 437,The Collected Letters of C.S. Lewis  Volume 3: Narnia  Cambridge  and Joy  1950 - 1963,eng,,
 438,Touch Not the Cat,eng,,
 439,Oracle Bones: A Journey Between China's Past and Present,eng,,
@@ -803,6 +802,7 @@
 801,Advanced Statistics Demystified,eng,,
 802,Slim to None: A Journey Through the Wasteland of Anorexia Treatment,eng,,
 803,Practice Makes Perfect: Italian Verb Tenses,eng,,
+804,Marketing Warfare,eng,,
 805,McGraw-Hill's SAT I (McGraw-Hill's SAT I),eng,,
 806,The Complete Book of Home  Site and Office Security: Selecting  Installing and Troubleshooting Systems and Devices,eng,,
 807,Sclerotherapy and vein treatment,eng,,
@@ -961,7 +961,6 @@
 960,Physics for Scientists and Engineers,en-US,,
 961,Philosophy of Religion,en-US,,
 962,Artificial Intelligence: A Modern Approach,eng,,
-1673,Baltasar and Blimunda,eng,,
 963,Red  White  and Black: The Peoples of Early North America,eng,,
 964,Big Money,eng,,
 965,Under the Net,eng,,
@@ -1257,7 +1256,7 @@
 1255,The Nicomachean Ethics,eng,,
 1256,Phaedrus,eng,,
 1257,The Women's War,eng,,
-1258,"1776",eng,,
+1258,1776,eng,,
 1259,Incident at Vichy,eng,,
 1260,Time of Wonder,en-US,,
 1261,Lentil,eng,,
@@ -1672,6 +1671,7 @@
 1670,"Fire: From ""A Journal of Love"": The Unexpurgated Diary of Anaïs Nin  1934-1937",eng,,
 1671,The Stone Raft,en-US,,
 1672,All the King's Men,eng,,
+1673,Baltasar and Blimunda,eng,,
 1674,The History of the Siege of Lisbon,eng,,
 1675,Walking with the Wind: A Memoir of the Movement,en-US,,
 1676,Slammerkin,eng,,
@@ -1892,7 +1892,7 @@
 1891,Acts of God: The Unnatural History of Natural Disaster in America,eng,,
 1892,The Oxford Handbook of Philosophy of Mathematics and Logic,eng,,
 1893,The Selected Journals Of L.M. Montgomery  Vol. 5: 1935-1942,eng,,
-1894,"1848: The Revolution of the Intellectuals",eng,,
+1894,1848: The Revolution of the Intellectuals,eng,,
 1895,An Introduction to Old Norse,eng,,
 1896,Theogonia  Opera et Dies  Scutum  Fragmenta Selecta (Classical Texts),eng,,
 1897,Peace,eng,,
@@ -2014,7 +2014,7 @@
 2013,More Than You Know: Finding Financial Wisdom in Unconventional Places,eng,,
 2014,Nietzche and Philosophy,eng,,
 2015,The Wounded Healer: Ministry in Contemporary Society,eng,,
-2016,"20 000 Leagues Under The Sea",eng,,
+2016,20 000 Leagues Under The Sea,eng,,
 2017,Avid Editing: A Guide for Beginning and Intermediate Users,en-US,,
 2018,Directing the Documentary,en-US,,
 2019,Practical DV Filmmaking,en-US,,
@@ -2066,7 +2066,7 @@
 2065,The Wanderer,eng,,
 2066,The Burning Plain and Other Stories,en-US,,
 2067,The Book of Merlyn: The Unpublished Conclusion to The Once & Future King,eng,,
-2068,"100 Love Sonnets",eng,,
+2068,100 Love Sonnets,eng,,
 2069,Long Day's Journey: The Steamboat & Stagecoach Era in the Northern West,eng,,
 2070,The Art of the Ridiculous Sublime: On David Lynch's Lost Highway,eng,,
 2071,Philip Vera Cruz: A Personal History of Filipino Immigrants and the Farmworkers Movement,en-US,,
@@ -2116,7 +2116,7 @@
 2115,Afterglow: A Last Conversation With Pauline Kael,eng,,
 2116,Rough Magic: A Biography of Sylvia Plath,eng,,
 2117,Johnny Cash,eng,,
-2118,"23 Days in July: Inside the Tour de France and Lance Armstrong's Record-Breaking Victory",eng,,
+2118,23 Days in July: Inside the Tour de France and Lance Armstrong's Record-Breaking Victory,eng,,
 2119,I Can Fly,eng,,
 2120,Herbert the Timid Dragon,eng,,
 2121,Desde mi cielo,spa,,
@@ -2782,7 +2782,7 @@
 2781,The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1-5),eng,,
 2782,Shadow Dance (Buchanan-Renard),eng,,"{""tome"":""6""}"
 2783,The Salmon of Doubt (Dirk Gently),eng,,"{""tome"":""3""}"
-2784,"1968: The Year That Rocked the World",eng,,
+2784,1968: The Year That Rocked the World,eng,,
 2785,The Probable Future,eng,,
 2786,The Belgariad  Vol. Two: Castle of Wizardry / Enchanters' End Game (The Belgariad #4-5),eng,,
 2787,The Belgariad  Vol. 1: Pawn of Prophecy / Queen of Sorcery / Magician's Gambit (The Belgariad #1-3),eng,,
@@ -3293,7 +3293,7 @@
 3292,Laura: The Life of Laura Ingalls Wilder,en-GB,,
 3293,Study War No More: A Selection of Alternatives,eng,,
 3294,The Boy Who Turned Into a TV Set,eng,,
-3295,"100 Great Fantasy Short Short Stories",eng,,
+3295,100 Great Fantasy Short Short Stories,eng,,
 3296,West To Eden,eng,,
 3297,Stephen Hawking's Universe,eng,,
 3298,The Grass Crown (Masters of Rome),eng,,"{""tome"":""2""}"
@@ -3357,7 +3357,7 @@
 3356,Arrow of God (The African Trilogy),eng,,"{""tome"":""3""}"
 3357,Love Poems and Sonnets,eng,,
 3358,The Complete Poetry,en-US,,
-3359,"101 Stories of the Great Ballets: The Scene-by-Scene Stories of the Most Popular Ballets  Old and New",en-US,,
+3359,101 Stories of the Great Ballets: The Scene-by-Scene Stories of the Most Popular Ballets  Old and New,en-US,,
 3360,Your Child's Self-Esteem: Step-by-Step Guidelines for Raising Responsible  Productive  Happy Children,en-US,,
 3361,II Maccabees,eng,,
 3362,The Complete Stories and Poems,eng,,
@@ -3448,7 +3448,6 @@
 3447,The Art of Alfred Hitchcock: Fifty Years of His Motion Pictures,en-US,,
 3448,How the Irish Saved Civilization: The Untold Story of Ireland's Heroic Role from the Fall of Rome to the Rise of Medieval Europe,eng,,
 3449,The Power of Myth,eng,,
-6542,A Woman's High Calling Growth and Study Guide,eng,,
 3450,The Art of the Personal Essay: An Anthology from the Classical Era to the Present,eng,,
 3451,Adrift on the Nile,eng,,
 3452,The Harafish,eng,,
@@ -3937,7 +3936,7 @@
 3935,Enquiry,en-US,,
 3936,Iceberg (Dirk Pitt),eng,,"{""tome"":""3""}"
 3937,The Mediterranean Caper (Dirk Pitt),eng,,"{""tome"":""2""}"
-3938,"10 lb Penalty",eng,,
+3938,10 lb Penalty,eng,,
 3939,Goddess of Spring (Goddess Summoning),eng,,"{""tome"":""2""}"
 3940,Guilty Pleasures (Anita Blake  Vampire Hunter),eng,,"{""tome"":""1""}"
 3941,Odds Against (Sid Halley),eng,,"{""tome"":""1""}"
@@ -4208,7 +4207,7 @@
 4206,The Gilded Web (Web),eng,,"{""tome"":""1""}"
 4207,Blessings,eng,,
 4208,Adventures of Huckleberry Finn,eng,,
-4209,"18 Best Stories by Edgar Allan Poe",eng,,
+4209,18 Best Stories by Edgar Allan Poe,eng,,
 4210,My Name is Aram,en-US,,
 4211,The Turn of the Screw/Daisy Miller,eng,,
 4212,About the B'nai Bagels,eng,,
@@ -4389,7 +4388,7 @@
 4387,Not Even for Love,eng,,
 4388,The Younger Gods (The Dreamers),eng,,"{""tome"":""4""}"
 4389,London Bridges (Alex Cross),eng,,"{""tome"":""10""}"
-4390,"4th of July (Women's Murder Club #4)",eng,,
+4390,4th of July (Women's Murder Club #4),eng,,
 4391,Honeymoon (Honeymoon),eng,,"{""tome"":""1""}"
 4392,The Black Ice (Harry Bosch #2; Harry Bosch Universe),eng,,"{""tome"":""2""}"
 4393,Words of Silk,eng,,
@@ -4458,9 +4457,9 @@
 4456,The Rescue,eng,,
 4457,A Bend in the Road,eng,,
 4458,True Believer (Jeremy Marsh & Lexie Darnell),eng,,"{""tome"":""1""}"
-4459,"1st to Die (Women's Murder Club #1)",eng,,
-4460,"2nd Chance (Women's Murder Club #2)",eng,,
-4461,"3rd Degree (Women's Murder Club #3)",eng,,
+4459,1st to Die (Women's Murder Club #1),eng,,
+4460,2nd Chance (Women's Murder Club #2),eng,,
+4461,3rd Degree (Women's Murder Club #3),eng,,
 4462,The Lost Blogs: From Jesus to Jim Morrison--The Historically Inaccurate and Totally  Fictitious Cyber Diaries of Everyone Worth Knowing,eng,,
 4463,Fear and Loathing on the Campaign Trail '72,eng,,
 4464,At First Sight (Jeremy Marsh & Lexie Darnell),eng,,"{""tome"":""2""}"
@@ -4650,7 +4649,7 @@
 4648,Tamsin,eng,,
 4649,Dead Beat (The Dresden Files),eng,,"{""tome"":""7""}"
 4650,Thin Air (Weather Warden),eng,,"{""tome"":""6""}"
-4651,"1984",eng,,
+4651,1984,eng,,
 4652,A Room with a View / Howards End,eng,,
 4653,The Red Badge of Courage and Four Stories,eng,,
 4654,Much Ado About Nothing,eng,,
@@ -4858,7 +4857,7 @@
 4856,Lost Continents,en-US,,
 4857,Thirty Years that Shook Physics: The Story of Quantum Theory,eng,,
 4858,Mozart's Don Giovanni (the Dover Opera Libretto Series),eng,,
-4859,"1001 Illuminated Initial Letters: 27 Full-Color Plates",eng,,
+4859,1001 Illuminated Initial Letters: 27 Full-Color Plates,eng,,
 4860,Galapagos: World's End,en-US,,
 4861,The Overcoat and Other Short Stories,rus,,
 4862,Young Goodman Brown and Other Short Stories,eng,,
@@ -5285,7 +5284,7 @@
 5284,Who's To Blame (Sweet Valley High #66),eng,,
 5285,Journey of Awakening: A Meditator's Guidebook,en-US,,
 5286,Classic Stories 1: The Golden Apples of the Sun/R is for Rocket,eng,,
-5287,"22 Indigo Place",eng,,
+5287,22 Indigo Place,eng,,
 5288,Elven Star (The Death Gate Cycle),eng,,"{""tome"":""2""}"
 5289,Use of Weapons,eng,,
 5290,The Wakefields of Sweet Valley (Sweet Valley High Magna Editions),eng,,"{""tome"":""1""}"
@@ -5358,7 +5357,7 @@
 5357,The Celestine Prophecy: An Experiential Guide,eng,,
 5358,Last Wish (Sweet Valley High),eng,,
 5359,The Silmarillion  Volume 3,eng,,
-5360,"4:50 from Paddington / A Pocket Full of Rye (BBC Presents: Two Miss Marple Dramas)",eng,,
+5360,4:50 from Paddington / A Pocket Full of Rye (BBC Presents: Two Miss Marple Dramas),eng,,
 5361,The Stephen King Collection: Stories from Night Shift,eng,,
 5362,Shadows,eng,,
 5363,The Road to Yesterday (Anne of Green Gables),eng,,"{""tome"":""9""}"
@@ -5531,7 +5530,7 @@
 5530,The Book of Illusions,eng,,
 5531,A Beautiful Mind,eng,,
 5532,The Greek Islands,eng,,
-5533,"1599: A Year in the Life of William Shakespeare",eng,,
+5533,1599: A Year in the Life of William Shakespeare,eng,,
 5534,Finnegans Wake,eng,,
 5535,Tales from Firozsha Baag [Jan 01  2002] Mistry  Rohinton,eng,,
 5536,The Kid Stays in the Picture,eng,,
@@ -5646,7 +5645,7 @@
 5645,Siddhartha,eng,,
 5646,The Climb (Everest Trilogy),eng,,
 5647,The Contest (Everest Trilogy),eng,,
-5648,"1st To Die (The Women's Murder Club #1)",eng,,
+5648,1st To Die (The Women's Murder Club #1),eng,,
 5649,Tears of the Giraffe (No. 1 Ladies' Detective Agency),eng,,"{""tome"":""2""}"
 5650,The Deep (Dive Trilogy),eng,,
 5651,East of Eden,eng,,
@@ -5660,7 +5659,7 @@
 5659,Unweaving the Rainbow: Science  Delusion and the Appetite for Wonder,eng,,
 5660,Baumgartner's Bombay,eng,,
 5661,The 42nd Parallel (U.S.A.),eng,,"{""tome"":""1""}"
-5662,"1919 (U.S.A. #2)",en-US,,
+5662,1919 (U.S.A. #2),en-US,,
 5663,The Big Money (U.S.A. #3),en-US,,
 5664,The Letters of J.R.R. Tolkien,eng,,
 5665,J.R.R. Tolkien: A Biography,eng,,
@@ -6540,6 +6539,7 @@
 6539,Israel  My Beloved,eng,,
 6540,Men Are Like Waffles  Women Are Like Spaghetti,eng,,
 6541,Becoming a Woman of Beauty and Strength: Esther,eng,,
+6542,A Woman's High Calling Growth and Study Guide,eng,,
 6543,Living with Passion and Purpose: Luke (Woman After God's Own Heart),eng,,
 6544,The Rapture: Who Will Face the Tribulation,eng,,
 6545,Life Management for Busy Woman: Growth and Study Guide,en-GB,,
@@ -6629,7 +6629,7 @@
 6629,Authentic Happiness: Using the New Positive Psychology to Realize Your Potential for Lasting Fulfillment,eng,,
 6630,John Adams,eng,,
 6631,Yanks: The Epic Story of the American Army in World War I,eng,,
-6632,"1776",eng,,
+6632,1776,eng,,
 6633,President Nixon: Alone in the White House,en-US,,
 6634,Life After God,eng,,
 6635,Shampoo Planet,eng,,
@@ -6973,7 +6973,7 @@
 6973,The Death and Life of Sylvia Plath,eng,,
 6974,Ulysses Found,eng,,
 6975,The Story of Philosophy: A Concise Introduction to the World's Greatest Thinkers and Their Ideas,eng,,
-6976,"20 000 Leagues Under the Sea",eng,,
+6976,20 000 Leagues Under the Sea,eng,,
 6977,The Physician (Cole Family Trilogy),eng,,"{""tome"":""1""}"
 6978,Red Phoenix,en-US,,
 6979,Skeleton Crew,eng,,
@@ -7101,7 +7101,7 @@
 7101,Twenty Thousand Leagues Under the Sea (Extraordinary Voyages),eng,,"{""tome"":""6""}"
 7102,The Conquest of Gaul,eng,,
 7103,Hannibal,eng,,
-7104,"1 000 Places to See Before You Die",eng,,
+7104,1 000 Places to See Before You Die,eng,,
 7105,What to Expect the First Year (What to Expect),eng,,
 7106,Qué Se Puede Esperar Cuando Se Está Esperando,spa,,
 7107,How to Spell Like a Champ,eng,,
@@ -7213,7 +7213,7 @@
 7213,Phantom (Sword of Truth),eng,,"{""tome"":""10""}"
 7214,Wyrms,eng,,
 7215,Dreamer of Dune: The Biography of Frank Herbert,en-US,,
-7216,"7 Steps to Midnight",en-US,,
+7216,7 Steps to Midnight,en-US,,
 7217,Maps in a Mirror: The Short Fiction of Orson Scott Card,eng,,
 7218,What Dreams May Come,eng,,
 7219,Treason,eng,,
@@ -7392,7 +7392,7 @@
 7392,Inside My Heart: Choosing to Live with Passion and Purpose,eng,,
 7393,The Power of One: One Person  One Rule  One Month,en-US,,
 7394,Winning with People Workbook,eng,,
-7395,"25 Ways to Win with People: How to Make Others Feel Like a Million Bucks",eng,,
+7395,25 Ways to Win with People: How to Make Others Feel Like a Million Bucks,eng,,
 7396,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,eng,,
 7397,Searching for God Knows What,eng,,
 7398,Only the River Runs Free (The Galway Chronicles),eng,,"{""tome"":""1""}"
@@ -7686,7 +7686,7 @@
 7686,Time for Ballet,eng,,
 7687,The Looking Glass Wars,eng,,
 7688,House of Incest,eng,,
-7689,"13th Directorate",eng,,
+7689,13th Directorate,eng,,
 7690,Citizen X: Killer Department,eng,,
 7691,Patty Jane's House of Curl,eng,,
 7692,A Patchwork Planet,eng,,
@@ -7810,7 +7810,7 @@
 7810,The Midnight Mystery (The Boxcar Children #95),eng,,
 7811,When I Feel Angry,eng,,
 7812,Te Kaihau: The Windeater,eng,,
-7813,"1912 Manuscript on the Special Theory of Relativity",eng,,
+7813,1912 Manuscript on the Special Theory of Relativity,eng,,
 7814,The Facilitator's Book of Questions: Tools for Looking Together at Student and Teacher Work,eng,,
 7815,Jasmine and Stars: Reading More Than Lolita in Tehran,en-US,,
 7816,Allusions in Ulysses: An Annotated List,eng,,
@@ -8485,7 +8485,7 @@
 8485,To Win a Nuclear War: The Pentagon's Secret War Plans,en-US,,
 8486,Outsiders Within: Writing on Transracial Adoption,eng,,
 8487,Walking the Rez Road,eng,,
-8488,"200 Quilt Blocks: To Mix and Match",eng,,
+8488,200 Quilt Blocks: To Mix and Match,eng,,
 8489,Standard Catalog of Smith & Wesson,en-US,,
 8490,Homer's Daughter,en-US,,
 8491,A Door of Hope,eng,,
@@ -8530,7 +8530,7 @@
 8530,Five T'ang Poets,eng,,
 8531,Tesla Papers,eng,,
 8532,Dalit: The Black Untaouchables of India,eng,,
-8533,"100 Years of Lynchings",eng,,
+8533,100 Years of Lynchings,eng,,
 8534,Black Man of the Nile and His Family,eng,,
 8535,"African Origins of the Major ""Western Religions""",eng,,
 8536,The Crowd/Extraordinary Popular Delusions & the Madness of Crowds,eng,,
@@ -8687,7 +8687,7 @@
 8687,Sidetracked (Kurt Wallander),eng,,"{""tome"":""5""}"
 8688,The Secret History,eng,,
 8689,Eating Stone: Imagination and the Loss of the Wild,eng,,
-8690,"1491: New Revelations of the Americas Before Columbus",eng,,
+8690,1491: New Revelations of the Americas Before Columbus,eng,,
 8691,Koba the Dread: Laughter and the Twenty Million,eng,,
 8692,Letters to a Young Artist,eng,,
 8693,Miami Blues (Hoke Moseley),eng,,"{""tome"":""1""}"
@@ -8706,7 +8706,7 @@
 8706,Sula,eng,,
 8707,Tar Baby,eng,,
 8708,You Shall Know Our Velocity!,eng,,
-8709,"72 Hour Hold",eng,,
+8709,72 Hour Hold,eng,,
 8710,Parallel Worlds: A Journey through Creation  Higher Dimensions  and the Future of the Cosmos,eng,,
 8711,Who Will Run the Frog Hospital?,eng,,
 8712,A Thousand Acres,eng,,
@@ -8823,7 +8823,7 @@
 8823,Thunderstruck,eng,,
 8824,The Laughing Jesus: Religious Lies and Gnostic Wisdom,en-US,,
 8825,Blood Done Sign My Name: A True Story,eng,,
-8826,"7 hábitos de las familias altamente efectivas",spa,,
+8826,7 hábitos de las familias altamente efectivas,spa,,
 8827,Artemis Fowl (Artemis Fowl),eng,,"{""tome"":""1""}"
 8828,Haunted Castle on Hallows Eve (Magic Tree House),eng,,"{""tome"":""30""}"
 8829,Me Alquilo Para Soñar (Taller de Guión #62),spa,,
@@ -9020,7 +9020,7 @@
 9020,Ring of Fire (Ring of Fire Anthology),eng,,"{""tome"":""1""}"
 9021,Strange Relations,eng,,
 9022,On Basilisk Station (Honor Harrington),eng,,"{""tome"":""1""}"
-9023,"1635: The Cannon Law (Assiti Shards #8)",eng,,
+9023,1635: The Cannon Law (Assiti Shards #8),eng,,
 9024,Tehanu (Earthsea Cycle),eng,,"{""tome"":""4""}"
 9025,The Farthest Shore (Earthsea Cycle),eng,,"{""tome"":""3""}"
 9026,A Hunger Like No Other (Immortals After Dark),eng,,"{""tome"":""1""}"
@@ -9046,7 +9046,7 @@
 9046,Scattered Leaves (Early Spring #2),en-US,,
 9047,Everything I Needed to Know about Being a Girl I Learned from Judy Blume,eng,,
 9048,Ricochet,eng,,
-9049,"1632",eng,,
+9049,1632,eng,,
 9050,Bedlam's Bard (Bedlam Bard #1-2),eng,,
 9051,Year Zero,eng,,
 9052,The Guy Not Taken: Stories,en-US,,
@@ -9653,9 +9653,9 @@
 9653,Men's Health: Book of Muscle - The World's Most Complete Guide to Building Your Body,en-US,,
 9654,Bittersweet: Recipes and Tales from a Life in Chocolate,eng,,
 9655,Mangoes & Curry Leaves: Culinary Travels Through the Great Subcontinent,eng,,
-9656,"1000 Rings: Inspiring Adornments for the Hand",eng,,
+9656,1000 Rings: Inspiring Adornments for the Hand,eng,,
 9657,Artful Paper Dolls: New Ways to Play with a Traditional Form,eng,,
-9658,"2006 International Building Code",eng,,
+9658,2006 International Building Code,eng,,
 9659,Homelands: Women’s Journeys Across Race  Place  and Time,eng,,
 9660,Sukhoi Su-27 Flanker (WarbirdTech),eng,,"{""tome"":""42""}"
 9661,The Bread Baker's Apprentice: Mastering the Art of Extraordinary Bread,eng,,
@@ -9716,11 +9716,11 @@
 9716,How to Write Science Fiction & Fantasy,eng,,
 9717,Plot & Structure: Techniques and Exercises for Crafting a Plot That Grips Readers from Start to Finish,eng,,
 9718,Lithium for Medea,eng,,
-9719,"9-11",eng,,
+9719,9-11,eng,,
 9720,Media Control: The Spectacular Achievements of Propaganda,eng,,
 9721,The Eden Express: A Memoir of Insanity,eng,,
 9722,The Umbrella of US Power: The Universal Declaration of Human Rights & the Contradictions of US Policy,en-US,,
-9723,"11 de Septiembre",spa,,
+9723,11 de Septiembre,spa,,
 9724,Hello Cruel World: 101 Alternatives to Suicide for Teens  Freaks  and Other Outlaws,eng,,
 9725,The Hip Chick's Guide to Macrobiotics: A Philosophy for Achieving a Radiant Mind and a Fabulous Body,eng,,
 9726,Stargirl LitPlans on CD,eng,,
@@ -9749,7 +9749,7 @@
 9749,The Age of Access: The New Culture of Hypercapitalism  Where All of Life Is a Paid-For Experience,eng,,
 9750,In Search of Captain Zero: A Surfer's Road Trip Beyond the End of the Road,eng,,
 9751,Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century,eng,,
-9752,"2012: The Return of Quetzalcoatl",en-US,,
+9752,2012: The Return of Quetzalcoatl,en-US,,
 9753,How to Save Your Own Life: An Isadora Wing Novel,eng,,
 9754,Parachutes & Kisses,eng,,
 9755,Fear of Fifty: A Midlife Memoir,eng,,
@@ -9789,7 +9789,7 @@
 9789,Barrel Fever and Other Stories,en-US,,
 9790,Naked,en-US,,
 9791,The Big Bad Wolf,eng,,
-9792,"3rd Degree",eng,,
+9792,3rd Degree,eng,,
 9793,Long Walk to Freedom: Autobiography of Nelson Mandela,eng,,
 9794,The Unknown Sigrid Undset: Jenny and Other Works,eng,,
 9795,Jenny,eng,,
@@ -10071,7 +10071,7 @@
 10071,How to Be a Perfect Stranger: The Essential Religious Etiquette Handbook,eng,,
 10072,The Magus of Freemasonry: The Mysterious Life of Elias Ashmole—Scientist  Alchemist  and Founder of the Royal Society,eng,,
 10073,The Closers (Harry Bosch #11; Harry Bosch Universe),eng,,"{""tome"":""14""}"
-10074,"2nd Chance (Women's Murder Club #2)",eng,,
+10074,2nd Chance (Women's Murder Club #2),eng,,
 10075,The Celestine Prophecy,en-US,,
 10076,The Book of the Dead  (Pendergast #7; Diogenes),eng,,"{""tome"":""3""}"
 10077,Echo Park (Harry Bosch #12; Harry Bosch Universe),eng,,"{""tome"":""16""}"
@@ -10423,7 +10423,7 @@
 10423,Collected Stories  1911-1937,eng,,
 10424,Collected Essays and Poems,eng,,
 10425,Retrospective  1964-1984,eng,,
-10426,"1968: War and Democracy",eng,,
+10426,1968: War and Democracy,eng,,
 10427,Happy Times in Noisy Village,eng,,
 10428,The Jungle,eng,,
 10429,Lobsters,eng,,
@@ -10514,7 +10514,7 @@
 10514,On Anarchism,eng,,
 10515,Three Men in a Boat: To Say Nothing of the Dog,eng,,
 10516,Irish Traditional Cooking: Over 300 Recipes from Ireland's Heritage,eng,,
-10517,"50 Great Curries of India",eng,,
+10517,50 Great Curries of India,eng,,
 10518,A Midwife's Story,eng,,
 10519,Elric of Melnibone: Bright Shadows,eng,,
 10520,Aquinas's Shorter Summa: Saint Thomas's Own Concise Version of His Summa Theologica,eng,,
@@ -10863,7 +10863,7 @@
 10863,Erläuterungen Zu Max Frisch  Homo Faber,ger,,
 10864,Die Hexen von Salem Falls,ger,,
 10865,Leonardo da Vinci: Obra pictorica completa y obra grafica,spa,,
-10866,"1000 Record Covers",mul,,
+10866,1000 Record Covers,mul,,
 10867,Graphic Design Now,eng,,
 10868,Richard Kern  Action,eng,,
 10869,Libraries,eng,,
@@ -11093,7 +11093,7 @@
 11093,Las Noches Blancas. El Jugador. Un Ladrón Honrado. (Sepan Cuantos #259),spa,,
 11094,El Clan Del Oso Cavernario,spa,,
 11095,Pedro Páramo,spa,,
-11096,"1984",spa,,
+11096,1984,spa,,
 11097,Carrie,spa,,
 11098,Estado De Miedo,spa,,
 11099,El librero de Kabul,spa,,

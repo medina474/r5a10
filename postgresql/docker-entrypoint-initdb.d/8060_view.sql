@@ -69,9 +69,9 @@ create or replace view view_simili as
 SELECT fk1.film_id AS film1,
        fk2.film_id AS film2,
        COUNT(*) AS common_keywords
-FROM film_keywords fk1
-JOIN film_keywords fk2
-  ON fk1.keyword_id = fk2.keyword_id
+FROM cinema.films_motscles fk1
+JOIN cinema.films_motscles fk2
+  ON fk1.motcle_id = fk2.motcle_id
  AND fk1.film_id < fk2.film_id  -- Assure de ne pas compter les mêmes paires deux fois
 GROUP BY fk1.film_id, fk2.film_id
 HAVING COUNT(*) > 0
@@ -89,3 +89,10 @@ from biblio.editeurs e
 left join biblio.editions d on d.editeur_id = e.editeur_id 
 group by e.editeur_id, e.editeur_nom
 order by count(d.edition_id);
+
+create or replace view biblio.view_editions as
+select o.oeuvre_id, o.titre, count(i.edition_id) 
+from biblio.oeuvres o
+left join biblio.incorpore i on o.oeuvre_id = i.oeuvre_id 
+group by o.oeuvre_id, o.titre
+order by count(i.edition_id);

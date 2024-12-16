@@ -40,3 +40,11 @@
 
 -- Boutique
 --\copy familles to '../data/boutique/familles.csv' (format csv, header, encoding 'utf8');
+
+-- Biblio
+\copy (select editeur_id, editeur_nom, ville from biblio.editeurs order by editeur_id) to '../data/biblio/editeurs.csv' (format csv, header, encoding 'utf8');
+\copy (select auteur_id, nom from biblio.auteurs order by auteur_id) to '../data/biblio/auteurs.csv' (format csv, header, encoding 'utf8');
+\copy (select edition_id, editeur_id, isbn13, publication_date, num_pages, num_catalogue, langue_code, titre, infos from biblio.editions order by edition_id) to '../data/biblio/editions.csv' (format csv, header, encoding 'utf8');
+\copy (select oeuvre_id, edition_id, infos from biblio.incorpore order by oeuvre_id, edition_id) to '../data/biblio/incorpore.csv' (format csv, header, encoding 'utf8');
+\copy (select oeuvre_id, auteur_id, fonction, alias from biblio.participe order by oeuvre_id, auteur_id) to '../data/biblio/participe.csv' (format csv, header, encoding 'utf8');
+\copy (select oeuvre_id, titre, langue_code, genre_id, infos from biblio.oeuvres order by oeuvre_id) to '../data/biblio/oeuvres.csv' (format csv, header, encoding 'utf8');

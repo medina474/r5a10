@@ -41,7 +41,8 @@ create index on biblio.incorpore
 
 alter table biblio.incorpore
   add foreign key (oeuvre_id)
-  references biblio.oeuvres;
+  references biblio.oeuvres
+  on delete cascade;
 
 -- incorpore -> editions
 create index on biblio.incorpore

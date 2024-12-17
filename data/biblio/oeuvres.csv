@@ -71,7 +71,7 @@ oeuvre_id,titre,langue_code,genre_id,infos
 70,Dead Man's Folly,eng,,"{""serie"": ""Hercule Poirot #33""}"
 71,The Metaphysical Club,eng,,
 72,At the Mountains of Madness and Other Novels of Terror,eng,,
-73,The Lord of the Rings,eng,,"{""serie"": ""The Lord of the Rings #1-3""}"
+73,The Lord of the Rings,eng,14,"{""serie"": ""The Lord of the Rings #1-3""}"
 74,The Annotated Hobbit,eng,,
 75,The History of Middle-Earth Index (The History of Middle-Earth),eng,,"{""tome"":""13""}"
 76,The Lord of the Rings / The Hobbit,eng,,
@@ -79,7 +79,7 @@ oeuvre_id,titre,langue_code,genre_id,infos
 78,Naked Empire,en-GB,,"{""serie"": ""Sword of Truth #8""}"
 79,Roverandom,eng,,
 80,Tales from the Perilous Realm,eng,,
-81,The Yiddish Policemen's Union,eng,,
+81,The Yiddish Policemen's Union,eng,878,
 82,The Solace Of Leaving Early,en-GB,,
 83,How to Be Alone,eng,,
 84,Out of the Silent Planet (The Space Trilogy),eng,,"{""tome"":""1""}"
@@ -91,7 +91,7 @@ oeuvre_id,titre,langue_code,genre_id,infos
 90,And to Think That I Saw It on Mulberry Street,eng,,
 91,Ten Apples Up On Top!,eng,,
 92,The Opposite of Fate,eng,,
-93,The Return of the King (The Lord of the Rings),eng,,"{""tome"":""3""}"
+93,The Return of the King (The Lord of the Rings),eng,14,"{""tome"":""3""}"
 94,I Wish That I Had Duck Feet,eng,,
 95,Horton Hatches the Egg,eng,,
 96,Oh Say Can You Say?,eng,,
@@ -151,8 +151,8 @@ oeuvre_id,titre,langue_code,genre_id,infos
 150,Sharpe's Prey (Sharpe),eng,,"{""tome"":""5""}"
 151,She Went All the Way,eng,,
 152,Island,eng,,
-153,Planet of the Apes: The Fall,eng,,
-154,Planet of the Apes: Colony,eng,,
+153,Planet of the Apes: The Fall,eng,878,
+154,Planet of the Apes: Colony,eng,878,
 155,Last Chance Saloon,en-US,,
 156,Barracuda 945 (Admiral Arnold Morgan),eng,,"{""tome"":""6""}"
 157,A Year in the Life of William Shakespeare: 1599,eng,,
@@ -3777,7 +3777,7 @@ oeuvre_id,titre,langue_code,genre_id,infos
 3776,Beat That! Cookbook,eng,,
 3777,Nightbirds on Nantucket (The Wolves Chronicles),eng,,"{""tome"":""3""}"
 3778,Post Captain (Aubrey/Maturin Book 2),eng,,
-3779,Heretics of Dune (Dune Chronicles),eng,,"{""tome"":""5""}"
+3779,Heretics of Dune (Dune Chronicles),eng,878,"{""tome"":""5""}"
 3780,To Sail Beyond the Sunset,eng,,
 3781,Short List (One-Eyed Mack),eng,,"{""tome"":""5""}"
 3782,Conversations with God: An Uncommon Dialogue  Book 1,eng,,
@@ -4286,20 +4286,20 @@ oeuvre_id,titre,langue_code,genre_id,infos
 4285,The Accidental Time Machine,eng,,
 4286,The Castle of  the Silver Wheel,eng,,
 4287,The Cat Who Walks Through Walls (The World As Myth),en-US,,
-4288,Chapterhouse: Dune (Dune Chronicles),eng,,"{""tome"":""6""}"
+4288,Chapterhouse: Dune (Dune Chronicles),eng,878,"{""tome"":""6""}"
 4289,Dayworld (Dayworld),eng,,"{""tome"":""1""}"
-4290,Dune Messiah (Dune Chronicles),eng,,"{""tome"":""2""}"
+4290,Dune Messiah (Dune Chronicles),eng,878,"{""tome"":""2""}"
 4291,Elric of Melniboné (The Elric Saga),eng,,"{""tome"":""1""}"
 4292,Faith of Tarot (Tarot),eng,,"{""tome"":""3""}"
 4293,Betcha Can't Read Just One,eng,,
 4294,Fractal Mode (Mode),eng,,"{""tome"":""2""}"
 4295,Galactic Effectuator,eng,,
 4296,Goblin Moon (The Goblin Moon Duology),eng,,"{""tome"":""1""}"
-4297,God Emperor of Dune (Dune Chronicles),eng,,"{""tome"":""4""}"
+4297,God Emperor of Dune (Dune Chronicles),eng,878,"{""tome"":""4""}"
 4298,God of Tarot (Tarot #1),en-US,,
 4299,The Green Pearl (Lyonesse),eng,,"{""tome"":""2""}"
 4300,Hard Sell,eng,,
-4301,Heretics of Dune (Dune Chronicles),eng,,"{""tome"":""5""}"
+4301,Heretics of Dune (Dune Chronicles),eng,878,"{""tome"":""5""}"
 4302,Killobyte,en-US,,
 4303,Madouc (Lyonesse),eng,,"{""tome"":""3""}"
 4304,The Moon in Hiding (The Green Lion Trilogy),eng,,"{""tome"":""2""}"
@@ -5490,7 +5490,7 @@ oeuvre_id,titre,langue_code,genre_id,infos
 5490,The Silver Pigs,eng,,
 5491,Cover Her Face (Adam Dalgliesh),eng,,"{""tome"":""1""}"
 5492,Hercule Poirot's Christmas: A BBC Radio 4 Full-Cast Dramatisation,eng,,
-5493,The Return of the King (The Lord of the Rings),eng,,"{""tome"":""3""}"
+5493,The Return of the King,eng,,"{""tome"":""3"", ""serie"":""The Lord of the Rings""}"
 5494,Joy in the Morning,eng,,
 5495,Colossians and Philemon: A Critical and Exegetical Commentary (International Critical Commentary),eng,,
 5496,The Real Thing,en-US,,
@@ -5551,7 +5551,7 @@ oeuvre_id,titre,langue_code,genre_id,infos
 5551,The Last Hero: A Discworld Fable (Discworld),eng,,"{""tome"":""27""}"
 5552,The Dream Master,eng,,
 5553,Time and Again (Time),eng,,"{""tome"":""1""}"
-5554,God Emperor of Dune (Dune Chronicles),eng,,"{""tome"":""4""}"
+5554,God Emperor of Dune (Dune Chronicles),eng,878,"{""tome"":""4""}"
 5555,A Scanner Darkly,eng,,
 5556,Dark Visions,en-US,,
 5557,Kissing the Beehive (Crane's View),eng,,"{""tome"":""1""}"
@@ -5701,8 +5701,8 @@ oeuvre_id,titre,langue_code,genre_id,infos
 5701,The Journey That Saved Curious George: The True Wartime Escape of Margret and H.A. Rey,eng,,
 5702,Fergus and the Night-Demon,en-US,,
 5703,The Best American Nonrequired Reading 2004,en-US,,
-5704,The Fellowship of the Ring (The Lord of the Rings),eng,,"{""tome"":""1""}"
-5705,The Two Towers (The Lord of the Rings),eng,,"{""tome"":""2""}"
+5704,The Fellowship of the Ring,eng,14,"{""tome"":""1"", ""serie"":""The Lord of the Rings""}"
+5705,The Two Towers,eng,14,"{""tome"":""2"", ""serie"":""The Lord of the Rings""}"
 5706,The Hermit's Story,eng,,
 5707,The Best American Mystery Stories 2003,eng,,
 5708,The Lord of the Rings: Weapons and Warfare,eng,,
@@ -5736,8 +5736,8 @@ oeuvre_id,titre,langue_code,genre_id,infos
 5736,Gatsby's Girl,en-US,,
 5737,Firefighters in the Dark,en-US,,
 5738,Tolkien and the Great War: The Threshold of Middle-earth,en-US,,
-5739,The Fellowship of the Ring (The Lord of the Rings),eng,,"{""tome"":""1""}"
-5740,The Return of the King (The Lord of the Rings #3),en-US,,
+5739,The Fellowship of the Ring,eng,,"{""tome"":""1"", ""serie"":""The Lord of the Rings""}"
+5740,The Return of the King,en-US,,"{""tome"":""3"", ""serie"":""The Lord of the Rings""}"
 5741,The Lord of the Rings- 3 volumes set (The Lord of the Rings #1-3),en-US,,
 5742,The Best American Travel Writing 2006,eng,,
 5743,The Best American Spiritual Writing 2006,eng,,
@@ -7227,8 +7227,8 @@ oeuvre_id,titre,langue_code,genre_id,infos
 7227,Outside the Dog Museum (Answered Prayers),eng,,"{""tome"":""4""}"
 7228,Sleeping in Flame (Answered Prayers #2),en-US,,
 7229,Someone Comes to Town  Someone Leaves Town,en-US,,
-7230,Hunters of Dune (Dune Chronicles),eng,,"{""tome"":""7""}"
-7231,Sandworms of Dune (Dune Chronicles #8),en-US,,
+7230,Hunters of Dune (Dune Chronicles),eng,878,"{""tome"":""7""}"
+7231,Sandworms of Dune (Dune Chronicles),en-US,878,"{""tome"":""8""}"
 7232,Children of the Night (Diana Tregarde #2),en-US,,
 7233,Jinx High (Diana Tregarde #3),en-US,,
 7234,A Shadow in Summer (Long Price Quartet),eng,,"{""tome"":""1""}"
@@ -7554,7 +7554,7 @@ oeuvre_id,titre,langue_code,genre_id,infos
 7554,Killing the Imposter God: Philip Pullman's Spiritual Imagination in His Dark Materials,en-GB,,
 7555,Leadership Challenge,eng,,
 7556,House of Sand and Fog,eng,,
-7557,The Return of the King (The Lord of the Rings),eng,,"{""tome"":""3""}"
+7557,The Return of the King,eng,,"{""tome"":""3"", ""serie"":""The Lord of the Rings""}"
 7558,This Is New York,en-GB,,
 7559,Moonage Daydream: The Life & Times of Ziggy Stardust,eng,,
 7560,Stephen Biesty's Incredible Explosions,eng,,
@@ -8606,7 +8606,7 @@ oeuvre_id,titre,langue_code,genre_id,infos
 8606,Middlesex,eng,,
 8607,The Electric Kool-aid Acid Test/The Kandy Kolored Tangerine Flake Streamline Baby/Radical Chic & Mau Mauing the Flak Catchers,eng,,
 8608,Comfort Me With Apples,eng,,
-8609,The Return of the King (The Lord of the Rings),eng,,"{""tome"":""3""}"
+8609,The Return of the King,eng,,"{""tome"":""3"", ""serie"":""The Lord of the Rings""}"
 8610,Desire and Duty: A Sequel to Jane Austen's Pride and Prejudice,eng,,
 8611,Salem's Lot,eng,,
 8612,Storm of the Century: An Original Screenplay,en-US,,
@@ -10846,7 +10846,6 @@ oeuvre_id,titre,langue_code,genre_id,infos
 10846,Ali und Nino,ger,,
 10847,Artemis Fowl (Artemis Fowl #1),ger,,
 10848,Yeats ist tot!,ger,,
-10849,Harry Potter und die Kammer des Schreckens,ger,,"{""serie"": ""Harry Potter #2""}"
 10850,Harry Potter und der Gefangene von Askaban,ger,,"{""serie"": ""Harry Potter #3""}"
 10851,Mein Urgroßvater  die Helden und ich,ger,,
 10852,Utena: Revolutionary Girl 01,ger,,
@@ -11276,23 +11275,23 @@ oeuvre_id,titre,langue_code,genre_id,infos
 11277,Les Puissances de l'Invisible [Les Puissances de l'invisible],eng,878,"{""première parution"":""2001, Declare""}"
 11278,A deux pas du néant,eng,878,"{""première parution"":""2006, Three Days to Never""}"
 11279,Parmi les tombes,eng,878,"{""première parution"":""2012, Hide Me Among the Graves""}"
-11280,Ethan d'Athos [Miles Vorkosigan],eng,878,"{""première parution"":""1986, Ethan of Athos""}"
-11281,Cordelia Vorkosigan [Miles Vorkosigan],eng,878,"{""première parution"":""1986, Shards of Honor""}"
-11282,L'Honneur de Cordelia [Miles Vorkosigan],eng,878,"{""première parution"":""1986, Shards of Honor""}"
-11283,L'Apprenti guerrier [Miles Vorkosigan],eng,878,"{""première parution"":""1986, The Warriors's Apprentice""}"
-11284,L'Apprentissage du guerrier [Miles Vorkosigan],eng,878,"{""première parution"":""1986, The Warriors's Apprentice""}"
-11285,Chute libre [Miles Vorkosigan],eng,878,"{""première parution"":""1988, Falling Free""}"
-11286,Opération Cay [Miles Vorkosigan],eng,878,"{""première parution"":""1988, Falling Free""}"
-11287,Frères d'armes [Miles Vorkosigan],eng,878,"{""première parution"":""1989, Brothers in Arms""}"
-11288,Un clone encombrant [Miles Vorkosigan],eng,878,"{""première parution"":""1989, Brothers in Arms""}"
-11289,Barrayar [Miles Vorkosigan],eng,878,"{""première parution"":""1991, Barrayar""}"
-11290,La Stratégie Vor [Miles Vorkosigan],eng,878,"{""première parution"":""1991, The Vor Game""}"
+11280,Ethan d'Athos,eng,878,"{""première parution"":""1986, Ethan of Athos"", ""serie"":""Miles Vorkosigan""}"
+11281,Cordelia Vorkosigan,eng,878,"{""première parution"":""1986, Shards of Honor"", ""serie"":""Miles Vorkosigan""}"
+11282,L'Honneur de Cordelia,eng,878,"{""première parution"":""1986, Shards of Honor"", ""serie"":""Miles Vorkosigan""}"
+11283,L'Apprenti guerrier,eng,878,"{""première parution"":""1986, The Warriors's Apprentice"", ""serie"":""Miles Vorkosigan""}"
+11284,L'Apprentissage du guerrier,eng,878,"{""première parution"":""1986, The Warriors's Apprentice"", ""serie"":""Miles Vorkosigan""}"
+11285,Chute libre,eng,878,"{""première parution"":""1988, Falling Free"", ""serie"":""Miles Vorkosigan""}"
+11286,Opération Cay,eng,878,"{""première parution"":""1988, Falling Free"", ""serie"":""Miles Vorkosigan""}"
+11287,Frères d'armes,eng,878,"{""première parution"":""1989, Brothers in Arms"", ""serie"":""Miles Vorkosigan""}"
+11288,Un clone encombrant,eng,878,"{""première parution"":""1989, Brothers in Arms"", ""serie"":""Miles Vorkosigan""}"
+11289,Barrayar,eng,878,"{""première parution"":""1991, Barrayar"", ""serie"":""Miles Vorkosigan""}"
+11290,La Stratégie Vor,eng,878,"{""première parution"":""1991, The Vor Game"", ""serie"":""Miles Vorkosigan""}"
 11291,Miles Vorkosigan [*],eng,878,"{""première parution"":""1991, The Vor Game""}"
 11292,L'Esprit de l'anneau profane,eng,878,"{""première parution"":""1992, The Spirit Ring""}"
-11293,La Danse du miroir [Miles Vorkosigan],eng,878,"{""première parution"":""1994, Mirror Dance""}"
-11294,Cetaganda [Miles Vorkosigan],eng,878,"{""première parution"":""1995, Cetaganda""}"
-11295,Komarr [Miles Vorkosigan],eng,878,"{""première parution"":""1996, Komarr""}"
-11296,Memory [Miles Vorkosigan],eng,878,"{""première parution"":""1996, Memory""}"
+11293,La Danse du miroir,eng,878,"{""première parution"":""1994, Mirror Dance"", ""serie"":""Miles Vorkosigan""}"
+11294,Cetaganda,eng,878,"{""première parution"":""1995, Cetaganda"", ""serie"":""Miles Vorkosigan""}"
+11295,Komarr,eng,878,"{""première parution"":""1996, Komarr"", ""serie"":""Miles Vorkosigan""}"
+11296,Memory,eng,878,"{""première parution"":""1996, Memory"", ""serie"":""Miles Vorkosigan""}"
 11297,Ekaterin [Miles Vorkosigan],eng,878,"{""première parution"":""1999, A Civil Campaign""}"
 11298,Le Fléau de Chalion,eng,878,"{""première parution"":""2001, The Curse of Chalion"",""série"":""Chalion"",""tome"":""1""}"
 11299,Immunité diplomatique [Miles Vorkosigan],eng,878,"{""première parution"":""2002, Diplomatic Immunity""}"
@@ -11302,34 +11301,34 @@ oeuvre_id,titre,langue_code,genre_id,infos
 11303,Héritage,eng,878,"{""première parution"":""2007, Legacy"",""série"":""Le Couteau du partage"",""tome"":""2""}"
 11304,Passage,eng,878,"{""première parution"":""2008, Passage"",""série"":""Le Couteau du partage"",""tome"":""3""}"
 11305,Horizon,eng,878,"{""première parution"":""2009, Horizon"",""série"":""Le Couteau du partage"",""tome"":""4""}"
-11306,Cryoburn [Miles Vorkosigan],eng,878,"{""première parution"":""2010, Cryoburn""}"
+11306,Cryoburn,eng,878,"{""première parution"":""2010, Cryoburn"", ""serie"":""Miles Vorkosigan""}"
 11307,L'Alliance [Miles Vorkosigan],eng,878,"{""première parution"":""2012, Captain Vorpatril's Alliance""}"
 11308,La Reine Rouge [Miles Vorkosigan],eng,878,"{""première parution"":""2016, Gentleman Jole and the Red Queen""}"
-11309,L'Épée de Shannara [Trilogie de Shannara - 1] [Shannara],eng,878,"{""première parution"":""1977, The Sword of Shannara""}"
-11310,Le Glaive de Shannara [Trilogie de Shannara - 1] [Shannara],eng,878,"{""première parution"":""1977, The Sword of Shannara""}"
-11311,L'Épée de Shannara [Trilogie de Shannara - 1.1] [Shannara],eng,878,"{""première parution"":""1977, The Sword of Shannara""}"
-11312,Le Royaume du crâne [Trilogie de Shannara - 1.2] [Shannara],eng,878,"{""première parution"":""1977, The Sword of Shannara""}"
-11313,Les Pierres des elfes de Shannara [Trilogie de Shannara - 2] [Shannara],eng,878,"{""première parution"":""1982, The Elfstones of Shannara""}"
-11314,Les Pierres elfiques de Shannara [Trilogie de Shannara - 2] [Shannara],eng,878,"{""première parution"":""1982, The Elfstones of Shannara""}"
-11315,Les Pierres elfiques [Trilogie de Shannara - 2.1] [Shannara],eng,878,"{""première parution"":""1982, The Elfstones of Shannara""}"
-11316,Le Pays sauvage [Trilogie de Shannara - 2.2] [Shannara],eng,878,"{""première parution"":""1982, The Elfstones of Shannara""}"
+11309,L'Épée de Shannara [Trilogie de Shannara - 1],eng,878,"{""première parution"":""1977, The Sword of Shannara"", ""serie"":""Shannara""}"
+11310,Le Glaive de Shannara [Trilogie de Shannara - 1],eng,878,"{""première parution"":""1977, The Sword of Shannara"", ""serie"":""Shannara""}"
+11311,L'Épée de Shannara [Trilogie de Shannara - 1.1],eng,878,"{""première parution"":""1977, The Sword of Shannara"", ""serie"":""Shannara""}"
+11312,Le Royaume du crâne [Trilogie de Shannara - 1.2],eng,878,"{""première parution"":""1977, The Sword of Shannara"", ""serie"":""Shannara""}"
+11313,Les Pierres des elfes de Shannara [Trilogie de Shannara - 2],eng,878,"{""première parution"":""1982, The Elfstones of Shannara"", ""serie"":""Shannara""}"
+11314,Les Pierres elfiques de Shannara [Trilogie de Shannara - 2],eng,878,"{""première parution"":""1982, The Elfstones of Shannara"", ""serie"":""Shannara""}"
+11315,Les Pierres elfiques [Trilogie de Shannara - 2.1],eng,878,"{""première parution"":""1982, The Elfstones of Shannara"", ""serie"":""Shannara""}"
+11316,Le Pays sauvage [Trilogie de Shannara - 2.2],eng,878,"{""première parution"":""1982, The Elfstones of Shannara"", ""serie"":""Shannara""}"
 11317,Royaume magique à vendre !,eng,878,"{""première parution"":""1986, Magic Kingdom for Sale-sold!"",""série"":""Royaume magique à vendre"",""tome"":""1""}"
-11318,L'Enchantement de Shannara [Trilogie de Shannara - 3] [Shannara],eng,878,"{""première parution"":""1986, The Wishsong of Shannara""}"
+11318,L'Enchantement de Shannara [Trilogie de Shannara - 3],eng,878,"{""première parution"":""1986, The Wishsong of Shannara"", ""serie"":""Shannara""}"
 11319,La Licorne noire,eng,878,"{""première parution"":""1987, The Black Unicorn"",""série"":""Royaume magique à vendre"",""tome"":""2""}"
 11320,Le Sceptre et le sort,eng,878,"{""première parution"":""1988, Wizard at Large"",""série"":""Royaume magique à vendre"",""tome"":""3""}"
-11321,La Sorcière d'Isle [Le Voyage du Jerle Shannara - 1] [Shannara],eng,878,"{""première parution"":""1989, Ilse Witch""}"
-11322,Les Descendants de Shannara [L'Héritage de Shannara - 1] [Shannara],eng,878,"{""première parution"":""1989, The Scions of Shannara""}"
+11321,La Sorcière d'Isle [Le Voyage du Jerle Shannara - 1],eng,878,"{""première parution"":""1989, Ilse Witch"", ""serie"":""Shannara""}"
+11322,Les Descendants de Shannara [L'Héritage de Shannara - 1],eng,878,"{""première parution"":""1989, The Scions of Shannara"", ""serie"":""Shannara""}"
 11323,Hook ou La revanche du capitaine Crochet,eng,878,"{""première parution"":""1991, Hook""}"
-11324,Le Druide de Shannara [L'Héritage de Shannara - 2] [Shannara],eng,878,"{""première parution"":""1991, The Druid of Shannara""}"
-11325,La Reine des elfes de Shannara [L'Héritage de Shannara - 3] [Shannara],eng,878,"{""première parution"":""1992, The Elf Queen of Shannara""}"
-11326,Les Talismans de Shannara [L'Héritage de Shannara - 4] [Shannara],eng,878,"{""première parution"":""1993, The Talismans of Shannara""}"
+11324,Le Druide de Shannara [L'Héritage de Shannara - 2],eng,878,"{""première parution"":""1991, The Druid of Shannara"", ""serie"":""Shannara""}"
+11325,La Reine des elfes de Shannara [L'Héritage de Shannara - 3],eng,878,"{""première parution"":""1992, The Elf Queen of Shannara"", ""serie"":""Shannara""}"
+11326,Les Talismans de Shannara [L'Héritage de Shannara - 4],eng,878,"{""première parution"":""1993, The Talismans of Shannara"", ""serie"":""Shannara""}"
 11327,La Boîte à malice,eng,878,"{""première parution"":""1994, The Tangle Box"",""série"":""Royaume magique à vendre"",""tome"":""4""}"
 11328,Le Brouet des sorcières,eng,878,"{""première parution"":""1995, Witches' Brew"",""série"":""Royaume magique à vendre"",""tome"":""5""}"
-11329,Le Premier Roi de Shannara [Shannara],eng,878,"{""première parution"":""1996, The First King of Shannara""}"
+11329,Le Premier Roi de Shannara,eng,878,"{""première parution"":""1996, The First King of Shannara"", ""serie"":""Shannara""}"
 11330,Épisode I - La Menace fantôme [La Première Trilogie - 1] [Episode I] [Star Wars],eng,878,"{""première parution"":""1999, The Phantom Menace""}"
 11331,Antrax [Le Voyage du Jerle Shannara - 2] [Shannara],eng,878,"{""première parution"":""2001, Antrax""}"
-11332,Morgawr [Le Voyage du Jerle Shannara - 3] [Shannara],eng,878,"{""première parution"":""2002, Morgawr""}"
-11333,Jarka Ruus [Le Haut Druide de Shannara - 1] [Shannara],eng,878,"{""première parution"":""2003, Jarka Ruus""}"
-11334,Tanequil [Le Haut Druide de Shannara - 2] [Shannara],eng,878,"{""première parution"":""2004, Tanequil""}"
-11335,Straken [Le Haut Druide de Shannara - 3] [Shannara],eng,878,"{""première parution"":""2005, Straken""}"
+11332,Morgawr [Le Voyage du Jerle Shannara - 3],eng,878,"{""première parution"":""2002, Morgawr"", ""serie"":""Shannara""}"
+11333,Jarka Ruus [Le Haut Druide de Shannara - 1],eng,878,"{""première parution"":""2003, Jarka Ruus"", ""serie"":""Shannara""}"
+11334,Tanequil [Le Haut Druide de Shannara - 2],eng,878,"{""première parution"":""2004, Tanequil"", ""serie"":""Shannara""}"
+11335,Straken [Le Haut Druide de Shannara - 3],eng,878,"{""première parution"":""2005, Straken"", ""serie"":""Shannara""}"
 11336,Princesse de Landover,eng,878,"{""première parution"":""2009, A Princess of Landover"",""série"":""Royaume magique à vendre"",""tome"":""6""}"

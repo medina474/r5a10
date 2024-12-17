@@ -25,6 +25,7 @@ create index on biblio.participe
 alter table biblio.participe
   add foreign key (auteur_id)
   references biblio.auteurs;
+  on delete cascade;
 
 -- participe -> oeuvres
 create index on biblio.participe
@@ -32,7 +33,8 @@ create index on biblio.participe
 
 alter table biblio.participe
   add foreign key (oeuvre_id)
-  references biblio.oeuvres;
+  references biblio.oeuvres
+  on delete cascade;
 
 
 -- incorpore -> oeuvres

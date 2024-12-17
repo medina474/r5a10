@@ -4098,7 +4098,6 @@ oeuvre_id,titre,langue_code,genre_id,infos
 4097,Catwings (Catwings),eng,,"{""tome"":""1""}"
 4098,Jane on Her Own (Catwings),eng,,"{""tome"":""4""}"
 4099,Inkspell (Inkworld),eng,,"{""tome"":""2""}"
-4100,Harry Potter and the Chamber of Secrets (Harry Potter),eng,,"{""tome"":""2""}"
 4101,Historia de una Gaviota y del Gato Que le Enseñó a Volar,spa,,
 4102,Scholastic Success with 4th Grade Workbook,en-US,,
 4103,The Eternity Code (Artemis Fowl),eng,,"{""tome"":""3""}"
@@ -6948,10 +6947,8 @@ oeuvre_id,titre,langue_code,genre_id,infos
 6949,Sideways Arithmetic from Wayside School (Wayside School #2.5),eng,,
 6950,More Sideways Arithmetic from Wayside School (Wayside School #2.6),eng,,
 6951,Sideways Stories from Wayside School (Wayside School),eng,,"{""tome"":""1""}"
-6952,Harry Potter and the Prisoner of Azkaban (Harry Potter),eng,,"{""tome"":""3""}"
 6953,The Little Friend,eng,,
 6954,Old School,eng,,
-6955,Harry Potter and the Half-Blood Prince (Harry Potter),eng,,"{""tome"":""6""}"
 6956,Romeo & Juliet,eng,,
 6957,How to Develop Self-Confidence and Influence People by Public Speaking,eng,,
 6958,How to Stop Worrying and Start Living,eng,,
@@ -9698,8 +9695,6 @@ oeuvre_id,titre,langue_code,genre_id,infos
 9699,Soldiers of Salamis,eng,,
 9700,A Year in the Merde,en-US,,
 9701,Eleanor Rigby,eng,,
-9702,Harry Potter and the Philosopher's Stone (Harry Potter #1),gla,,
-9703,Harrius Potter et Philosophi Lapis,lat,,
 9704,Tanglewreck,eng,,
 9705,The Walking Dead  Vol. 3: Safety Behind Bars,eng,,
 9706,The Walking Dead  Vol. 5: The Best Defense,eng,,
@@ -10845,11 +10840,9 @@ oeuvre_id,titre,langue_code,genre_id,infos
 10846,Ali und Nino,ger,,
 10847,Artemis Fowl (Artemis Fowl #1),ger,,
 10848,Yeats ist tot!,ger,,
-10850,Harry Potter und der Gefangene von Askaban,ger,,"{""serie"": ""Harry Potter #3""}"
 10851,Mein Urgroßvater  die Helden und ich,ger,,
 10852,Utena: Revolutionary Girl 01,ger,,
 10853,Rover rettet Weihnachten.,ger,,
-10854,Harry Potter ve Sırlar Odası (Harry Potter #2),tur,,
 10855,Fish & Chips (The Barrytown Trilogie #3),ger,,
 10856,The Snapper,ger,,
 10857,Traumjäger und Goldpfote,ger,,
@@ -10870,7 +10863,6 @@ oeuvre_id,titre,langue_code,genre_id,infos
 10872,Wicked Dreams,eng,,
 10873,Early Color,eng,,
 10874,War and Peace,en-US,,
-10875,Harry Potter und der Gefangene von Askaban (Harry Potter #3),ger,,
 10876,叫んでやるぜ! (1) (あすかコミックスCL-DX),jpn,,
 10877,叫んでやるぜ! (2) (ASUKA COMICS CL-DX),jpn,,
 10878,きみはペット 11 [Kimi wa Petto 11],jpn,,
@@ -11005,9 +10997,7 @@ oeuvre_id,titre,langue_code,genre_id,infos
 11007,Una breve historia de casi todo,spa,,
 11008,Isabel: Princesa De Castilla  España  1466,spa,,
 11009,El cazador de autógrafos,spa,,
-11010,Harry Potter y la Orden del Fénix (Harry Potter #5),spa,,
 11011,Jonathan Strange y el señor Norrell,spa,,
-11012,Harry Potter y el misterio del príncipe (Harry Potter #6),spa,,
 11013,Amarse con los ojos abiertos,spa,,
 11014,Soldados de Salamina,spa,,
 11015,Hasta que te encuentre,spa,,
